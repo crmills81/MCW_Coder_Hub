@@ -1,6 +1,4 @@
 
----
-
 # **The Facility Billing Handbook: A New Learner’s Guide to Surgical Billing**
 
 ### **1. Welcome to the World of Medical Billing**
@@ -8,7 +6,6 @@
 Medical billing is the financial engine of healthcare. Every surgery, every supply, every minute of OR time must be translated into standardized codes so facilities can be reimbursed accurately. Without billing, even the most advanced surgical center would collapse under the weight of unpaid services.
 
 As a facility biller, you are the translator between **clinical reality** and **financial documentation**. Your job is to ensure:
-
 - The documentation supports the billed services
 - The codes reflect what actually happened
 - The claim meets payer rules and compliance standards
@@ -29,11 +26,11 @@ Surgical services occur in two primary outpatient settings:
 
 Even when the same surgeon performs the same CPT-coded procedure, the **facility billing rules** differ dramatically.
 
-|Feature|Ambulatory Surgical Center (ASC)|Hospital Outpatient Department (HOPD)|
+|Feature   |    Ambulatory Surgical Center (ASC)  | Hospital Outpatient Department (HOPD)|
 |---|---|---|
-|**Purpose**|Focused on same‑day surgeries; patients arrive, undergo the procedure, and go home.|Handles outpatient surgeries, diagnostic services, ED visits, and transitions to inpatient care.|
+|**Purpose**|Focused on same‑day surgeries; patients arrive, undergo the procedure, and go home. | Handles outpatient surgeries, diagnostic services, ED visits, and transitions to inpatient care.|
 |**Regulatory Oversight**|CMS ASC Conditions for Coverage; ASC Quality Reporting (ASCQR).|CMS Hospital Conditions of Participation; Hospital Outpatient Quality Reporting (OQR).|
-|**Documentation Requirements**|Procedure-focused: operative note, anesthesia record, implants, supplies.|Broad and layered: physician orders, nursing documentation, medication administration, vitals, care plans, medical necessity.|
+|**Documentation Requirements** | Procedure-focused: operative note, anesthesia record, implants, supplies.| Broad and layered: physician orders, nursing documentation, medication administration, vitals, care plans, medical necessity.|
 |**Reimbursement System**|Medicare ASC Payment System (lower rates).|OPPS (Outpatient Prospective Payment System) with APC groupings (higher rates).|
 |**Operational Complexity**|Streamlined, predictable, limited service lines.|High complexity, multiple departments, 24/7 staffing.|
 
