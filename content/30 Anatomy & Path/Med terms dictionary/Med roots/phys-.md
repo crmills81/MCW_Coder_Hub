@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [phys-]
-forms: [combining]
-alphabet:: P
-definition: [air, gas]
+roots:
+  - phys-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - air
+  - gas
 ---
 >[!Note] DEFINITION of phys-
 >air, gas

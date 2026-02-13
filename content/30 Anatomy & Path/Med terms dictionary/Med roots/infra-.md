@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-forms: [prefix]
-roots: [infra-]
-alphabet:: I
-definition: [beneath, below]
+forms:
+  - prefix
+roots:
+  - infra-
+"alphabet:": I
+definition:
+  - beneath
+  - below
 ---
 >[!Note] DEFINITION of infra-
 >beneath, below

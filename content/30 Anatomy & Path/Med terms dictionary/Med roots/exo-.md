@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-forms: [prefix]
-roots: [exo-]
-alphabet:: E
-definition: [outside, from the outside, toward the outside]
+forms:
+  - prefix
+roots:
+  - exo-
+"alphabet:": E
+definition:
+  - outside
+  - from the outside
+  - toward the outside
 ---
 >[!Note] DEFINITION of exo-
 >outside, from the outside, toward the outside

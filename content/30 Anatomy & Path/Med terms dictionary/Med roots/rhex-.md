@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [rhex-]
-forms: [combining]
-alphabet:: R
-definition: [rupture]
+roots:
+  - rhex-
+forms:
+  - combining
+"alphabet:": R
+definition:
+  - rupture
 ---
 >[!Note] DEFINITION of rhex-
 >rupture

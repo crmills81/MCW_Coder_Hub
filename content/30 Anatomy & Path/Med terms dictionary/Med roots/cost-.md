@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [cost-]
-forms: [combining]
-alphabet:: C
-definition: [rib]
+roots:
+  - cost-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - rib
 ---
 >[!Note] DEFINITION of cost-
 >rib

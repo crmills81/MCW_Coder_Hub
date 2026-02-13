@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [hypn-]
-forms: [combining]
-alphabet:: H
-definition: [sleep]
+roots:
+  - hypn-
+forms:
+  - combining
+  - prefix
+"alphabet:": H
+definition:
+  - sleep
 ---
 >[!Note] DEFINITION of hypn-
 >sleep

@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [sit-]
-forms: [combining]
-alphabet:: S
-definition: [food]
+roots:
+  - sit-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - food
 ---
 >[!Note] DEFINITION of sit-
 >food

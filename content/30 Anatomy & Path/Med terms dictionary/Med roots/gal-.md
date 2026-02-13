@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [galact-]
-roots: [gal-, galact-]
-forms: [combining]
-alphabet:: G
-definition: [milk]
+tags:
+  - " #medroot"
+  - medroot
+aliases:
+  - galact-
+roots:
+  - gal-
+  - galact-
+forms:
+  - combining
+"alphabet:": G
+definition:
+  - milk
 ---
 >[!Note] DEFINITION of gal-
 >milk

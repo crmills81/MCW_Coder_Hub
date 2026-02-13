@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [arthr-]
-forms: [combining]
-alphabet:: A
-definition: [joint]
+roots:
+  - arthr-
+forms:
+  - combining
+  - prefix
+"alphabet:": A
+definition:
+  - joint
 ---
 >[!Note] DEFINITION of arthr-
 >joint

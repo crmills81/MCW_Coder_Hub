@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [-agogue]
-roots: [agog-, -agogue]
-forms: [combining]
-alphabet:: A
-definition: [leading, drawing forth]
+tags:
+  - medroot
+aliases:
+  - -agogue
+roots:
+  - agog-
+  - -agogue
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - leading
+  - drawing forth
 ---
 >[!Note] DEFINITION of agog-
 >(agent) leading, drawing forth

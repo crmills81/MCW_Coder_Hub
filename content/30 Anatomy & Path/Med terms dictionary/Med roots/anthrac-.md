@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [anthrax]
-roots: [anthrac-, anthrax]
-forms: [combining]
-alphabet:: A
-definition: [coal, anthrax]
+tags:
+  - medroot
+aliases:
+  - anthrax
+roots:
+  - anthrac-
+  - anthrax
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - coal
+  - anthrax
 ---
 >[!Note] DEFINITION of anthrac-
 >1. coal

@@ -1,12 +1,16 @@
 ---
 tags:
-  - " #medterm "
+  - medterm
 aliases: []
 roots:
   - sial-
   - agog-
   - -agogue
 "definition:": agent that increases saliva flow
+"alphabet:": S
+forms:
+  - noun
+  - combining
 ---
 >[!note]+ Definition of sialagogue
 >[[sial-]][[agog-|-agogue]] - agent that increases saliva flow

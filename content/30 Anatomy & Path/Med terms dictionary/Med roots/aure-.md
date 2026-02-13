@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [aure-]
-forms: [combining]
-alphabet:: A
-definition: [golden-yellow]
+roots:
+  - aure-
+forms:
+  - combining
+  - prefix
+"alphabet:": A
+definition:
+  - golden-yellow
 ---
 >[!Note] DEFINITION of aure-
 >golden-yellow

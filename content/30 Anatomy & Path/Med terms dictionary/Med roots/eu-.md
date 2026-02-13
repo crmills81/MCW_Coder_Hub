@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-forms: [prefix]
-roots: [eu-]
-alphabet:: E
-definition: [good, normal, healthy]
+forms:
+  - prefix
+roots:
+  - eu-
+"alphabet:": E
+definition:
+  - good
+  - normal
+  - healthy
 ---
 >[!Note] DEFINITION of eu-
 >good, normal, healthy

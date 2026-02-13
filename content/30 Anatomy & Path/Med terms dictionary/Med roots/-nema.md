@@ -1,21 +1,28 @@
 ---
-tags: [" #medroot"]
-aliases: [herpet-]
-roots: [herpes, herpet-]
-forms: [combining]
-alphabet:: H
-definition: [herpes, a creeping skin disease]
+tags:
+  - medroot
+aliases:
+  - nemat-
+roots:
+  - nema
+  - nemat-
+forms:
+  - combining
+  - suffix
+"alphabet:": N
+definition:
+  - thread
 ---
->[!Note] DEFINITION of herpes
->herpes, a creeping skin disease
+>[!Note] DEFINITION of nema
+>thread (worm)
 _____
->[!info]+ ETYMOLOGY of herpes
->#greek herpes, herpetos (shingles)
+>[!info]+ ETYMOLOGY of nema
+>#greek nema, nematos
 _____
->[!example]+ RELATED TERMS to herpes
+>[!example]+ RELATED TERMS to nema
 >
 _____
->[!tip]+ DERIVATIONS of herpes
+>[!tip]+ DERIVATIONS of nema
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

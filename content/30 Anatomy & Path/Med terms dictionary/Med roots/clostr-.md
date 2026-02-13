@@ -1,10 +1,13 @@
 ---
-tags: [" #medroot"]
+tags:
 aliases: []
-roots: [clostr-]
-forms: [combining]
-alphabet:: C
-definition: [spindle]
+roots:
+  - clostr-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - spindle
 ---
 >[!Note] DEFINITION of clostr-
 >spindle

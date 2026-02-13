@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [alve-]
-forms: [combining]
-alphabet:: A
-definition: [hollow, cavity]
+roots:
+  - alve-
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - hollow
+  - cavity
 ---
 >[!Note] DEFINITION of alve-
 >hollow, cavity

@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [cord-]
-roots: [cor]
-forms: [combining]
-alphabet:: C
-definition: [heart]
+tags:
+  - medroot
+aliases:
+  - cord-
+roots:
+  - cor
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - heart
 ---
 >[!Note] DEFINITION of cor
 >heart

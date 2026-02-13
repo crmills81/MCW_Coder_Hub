@@ -1,12 +1,9 @@
 ---
 epoch: 1770407511165
-modelKey: "gemini-3-pro-preview|google"
-topic: "Note Correction Request"
-
-
-
+modelKey: gemini-3-pro-preview|google
+topic: Note Correction Request
 tags:
-  - 70 Ai Stuff/copilot-conversation
+  - copilot-conversation
 ---
 
 **user**: can you correct whatever is wrong with this note?

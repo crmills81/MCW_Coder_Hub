@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [phys(i)-]
-roots: [phys(i)-, physi-]
-forms: [combining]
-alphabet:: P
-definition: [nature, appearance]
+tags:
+  - medroot
+aliases:
+  - phys(i)-
+roots:
+  - phys(i)-
+  - physi-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - nature
+  - appearance
 ---
 >[!Note] DEFINITION of phys-
 >nature, appearance

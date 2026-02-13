@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pyel-]
-forms: [combining]
-alphabet:: P
-definition: [renal pelvis]
+roots:
+  - pyel-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - renal pelvis
 ---
 >[!Note] DEFINITION of pyel-
 >renal pelvis

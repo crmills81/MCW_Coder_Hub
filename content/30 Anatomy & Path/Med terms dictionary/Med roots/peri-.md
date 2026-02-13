@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [peri-]
-forms: [prefix]
-alphabet:: P
-definition: [around, surrounding]
+roots:
+  - peri-
+forms:
+  - prefix
+"alphabet:": P
+definition:
+  - around
+  - surrounding
 ---
 >[!Note] DEFINITION of peri-
 >around, surrounding

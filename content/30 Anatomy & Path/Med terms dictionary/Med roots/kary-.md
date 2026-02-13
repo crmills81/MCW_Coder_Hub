@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [kary-]
-forms: [combining]
-alphabet:: K
-definition: [nucleus, kernal]
+roots:
+  - kary-
+forms:
+  - combining
+  - prefix
+  - suffix
+"alphabet:": K
+definition:
+  - nucleus
+  - kernal
 ---
 >[!Note] DEFINITION of kary-
 >nucleus, kernal

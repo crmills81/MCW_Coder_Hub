@@ -1,9 +1,9 @@
 ---
-title: DRG <% tp.user.prompt("DRG # (e.g., 291)") %> - <% tp.user.prompt("Description (e.g., Heart Failure MCC)") %>
+title: DRG:
 tags: [inpatient, drg]
-date: <% tp.date.now("YYYY-MM-DD") %>
-msdrg: <% tp.user.prompt("MS-DRG #") %>
-mdc: <% tp.user.prompt("MDC #") %>
+date: 
+msdrg: 
+mdc: 
 ---
 
 ## Principal Dx

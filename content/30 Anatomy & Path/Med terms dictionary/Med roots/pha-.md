@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-forms: [combining]
-roots: [pha-]
-alphabet:: P
-definition: [speak, communicate, talk]
+forms:
+  - combining
+roots:
+  - pha-
+"alphabet:": P
+definition:
+  - speak
+  - communicate
+  - talk
 ---
 >[!Note] Definition of pha-
 >speak, communicate

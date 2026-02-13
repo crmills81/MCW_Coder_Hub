@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [desm-]
-forms: [combining]
-alphabet:: D
-definition: [ligament, connective tissue]
+roots:
+  - desm-
+forms:
+  - combining
+  - prefix
+"alphabet:": D
+definition:
+  - ligament
+  - connective tissue
 ---
 >[!Note] DEFINITION of desm-
 >ligament, connective tissue

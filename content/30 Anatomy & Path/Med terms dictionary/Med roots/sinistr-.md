@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [sinistr-]
-forms: [combining]
-alphabet:: S
-definition: [left]
+roots:
+  - sinistr-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - left
 ---
 >[!Note] DEFINITION of sinistr-
 >left (side)

@@ -1,6 +1,10 @@
 ---
 tags:
   - medroot
+  - medterm
+  - otolaryngology
+  - ENT
+  - specialty/ent
 aliases:
 roots:
   - gloss-

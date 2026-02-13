@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [spermat-]
-roots: [sperm-, spermat-]
-forms: [combining]
-alphabet:: S
-definition: [seed, sperm, semen]
+tags:
+  - medroot
+aliases:
+  - spermat-
+roots:
+  - sperm-
+  - spermat-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - seed
+  - sperm
+  - semen
 ---
 >[!Note] DEFINITION of sperm-
 >seed, sperm, semen

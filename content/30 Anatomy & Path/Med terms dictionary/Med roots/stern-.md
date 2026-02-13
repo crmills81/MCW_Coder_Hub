@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [stern-]
-forms: [combining]
-alphabet:: S
-definition: [chest, breast, breastbone]
+roots:
+  - stern-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - chest
+  - breast
+  - breastbone
 ---
 >[!Note] DEFINITION of stern-
 >chest, breast, breastbone

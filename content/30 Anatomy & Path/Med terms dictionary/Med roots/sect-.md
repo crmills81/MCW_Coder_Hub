@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [sect-]
-forms: [combining]
-alphabet:: S
-definition: [cut]
+roots:
+  - sect-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - cut
 ---
 >[!Note] DEFINITION of sect-
 >cut

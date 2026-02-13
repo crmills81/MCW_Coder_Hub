@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pyrex-]
-forms: [combining]
-alphabet:: P
-definition: [be feverish]
+roots:
+  - pyrex-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - be feverish
 ---
 >[!Note] DEFINITION of pyrex-
 >be feverish

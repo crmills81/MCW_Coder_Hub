@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [bi(os)-]
-forms: [combining]
-alphabet:: B
-definition: [life]
+roots:
+  - bi(os)-
+forms:
+  - combining
+  - prefix
+"alphabet:": B
+definition:
+  - life
 ---
 >[!Note] DEFINITION of bi(os)-
 >life

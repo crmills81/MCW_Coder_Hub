@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medterm "
   - greek
   - medical_coding
   - medterm
@@ -14,6 +13,7 @@ roots:
 "definition:": see everything through a red haze
 forms:
   - adjective
+  - combining
 "alphabet:": E
 ---
 >[!note]+ Definition of [[erythropia]]

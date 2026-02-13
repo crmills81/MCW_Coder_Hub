@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [phrag-]
-roots: [phrac-, phrax-, phrag-]
-forms: [combining]
-alphabet:: P
-definition: [enclose, obstruct]
+tags:
+  - medroot
+aliases:
+  - phrag-
+roots:
+  - phrac-
+  - phrax-
+  - phrag-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - enclose
+  - obstruct
 ---
 >[!Note] DEFINITION of phrac-
 >enclose, obstruct

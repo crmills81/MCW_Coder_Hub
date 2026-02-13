@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [-auxis, -auxe]
-roots: [aux-, -auxe]
-forms: [combining]
-alphabet:: A
-definition: [grow, increase]
+tags:
+  - medroot
+aliases:
+  - -auxis
+  - -auxe
+roots:
+  - aux-
+  - -auxe
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - grow
+  - increase
 ---
 >[!Note] DEFINITION of aux-
 >grow, increase

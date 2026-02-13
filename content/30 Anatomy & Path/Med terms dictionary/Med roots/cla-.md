@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [clas-, -clast]
-roots: [cla-, clas-, -clast]
-forms: [combining]
-alphabet:: C
-definition: [break (up), destroy]
+tags:
+aliases:
+  - clas-
+  - -clast
+roots:
+  - cla-
+  - clas-
+  - -clast
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - break (up)
+  - destroy
 ---
 >[!Note] DEFINITION of cla-
 >break (up) destroy

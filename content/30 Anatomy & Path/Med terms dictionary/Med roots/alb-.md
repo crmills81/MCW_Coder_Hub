@@ -9,6 +9,7 @@ roots:
   - albin-
 forms:
   - combining
+  - prefix
 alphabet: A
 definition:
   - white

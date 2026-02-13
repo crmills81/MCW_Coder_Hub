@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [arctat-]
-roots: [arct-, arctat-]
-forms: [combining]
-alphabet:: A
-definition: [compress]
+tags:
+  - medroot
+aliases:
+  - arctat-
+roots:
+  - arct-
+  - arctat-
+forms:
+  - combining
+  - prefix
+"alphabet:": A
+definition:
+  - compress
 ---
 >[!Note] DEFINITION of arct-
 >compress

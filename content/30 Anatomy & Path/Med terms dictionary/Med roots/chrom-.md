@@ -1,10 +1,20 @@
 ---
-tags: [" #medroot"]
-aliases: [chroma-, chromat-]
-roots: [chrom-, chroma-, chromat-]
-forms: [combining]
-alphabet:: C
-definition: [color, pigment]
+tags:
+  - medroot
+aliases:
+  - chroma-
+  - chromat-
+roots:
+  - chrom-
+  - chroma-
+  - chromat-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - color
+  - pigment
 ---
 >[!Note] DEFINITION of chrom-
 >pigment, color

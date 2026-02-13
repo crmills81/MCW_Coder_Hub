@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [phag-]
-forms: [combining]
-alphabet:: E
-definition: [swallow, eat]
+roots:
+  - phag-
+forms:
+  - combining
+"alphabet:": E
+definition:
+  - swallow
+  - eat
 ---
 >[!Note] DEFINITION of phag-
 >swallow, eat

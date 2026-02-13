@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lep-]
-forms: [combining]
-alphabet:: L
-definition: [attach, seizure]
+roots:
+  - lep-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - attach
+  - seizure
 ---
 >[!Note] DEFINITION of lep-
 >attach, seizure

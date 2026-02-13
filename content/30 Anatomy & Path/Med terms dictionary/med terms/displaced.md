@@ -1,6 +1,7 @@
 ---
 tags:
   - medroot
+  - medterm
 aliases:
   - Bone misalignment
 roots:

@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
 aliases: []
-roots: [opt-]
-forms: [combining]
-alphabet:: O
-definition: [vision, eye]
+roots:
+  - opt-
+forms:
+  - combining
+"alphabet:": O
+definition:
+  - vision
+  - eye
 ---
 >[!Note] DEFINITION of opt-
 >1. vision

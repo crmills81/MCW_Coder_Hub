@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [semin-]
-roots: [sem-, semin-]
-forms: [combining]
-alphabet:: S
-definition: [semen]
+tags:
+  - medroot
+aliases:
+  - semin-
+roots:
+  - sem-
+  - semin-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - semen
 ---
 >[!Note] DEFINITION of sem-
 >semen

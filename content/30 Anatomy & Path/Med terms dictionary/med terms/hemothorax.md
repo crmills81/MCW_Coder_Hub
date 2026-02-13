@@ -1,8 +1,16 @@
 ---
-tags: [" #medterm "]
+tags:
+  - medterm
 aliases: []
-roots: [hem-, thorac-]
-definition:: accumulation of blood within the pleura
+roots:
+  - hem-
+  - thorac-
+"definition:": accumulation of blood within the pleura
+"alphabet:": H
+forms:
+  - combining
+  - noun
+  - diminutive
 ---
 >[!note]+ Definition of hemothorax
 >[[hem-]]o-[[thorac-|thorax-]] - accumulation of blood within the [[pleur-]]a due to blood vessels rupturing (chest blood)

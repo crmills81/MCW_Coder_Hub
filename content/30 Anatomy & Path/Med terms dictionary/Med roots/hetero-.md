@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [heter-]
-forms: [prefix]
-roots: [hetero-, heter-]
-alphabet:: H
-definition: [different, other, relationship to another]
+tags:
+  - medroot
+aliases:
+  - heter-
+forms:
+  - prefix
+roots:
+  - hetero-
+  - heter-
+"alphabet:": H
+definition:
+  - different
+  - other
+  - relationship to another
 ---
 >[!Note] DEFINITION of hetero-
 >different, other, relationship to another

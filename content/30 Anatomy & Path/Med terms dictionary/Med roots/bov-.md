@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [bov-]
-forms: [combining]
-alphabet:: B
-definition: [ox, bull, cow]
+roots:
+  - bov-
+forms:
+  - combining
+  - prefix
+"alphabet:": B
+definition:
+  - ox
+  - bull
+  - cow
 ---
 >[!Note] DEFINITION of bov-
 >ox, bull, cow

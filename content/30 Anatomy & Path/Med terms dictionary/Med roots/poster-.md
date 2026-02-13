@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [-posterior]
-roots: [poster-, -posterior]
-forms: [combining]
-alphabet:: P
-definition: [behind, in back]
+tags:
+  - medroot
+aliases:
+  - -posterior
+roots:
+  - poster-
+  - -posterior
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - behind
+  - in back
 ---
 >[!Note] DEFINITION of poster-
 >behind, in back

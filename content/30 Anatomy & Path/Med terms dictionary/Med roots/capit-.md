@@ -1,10 +1,13 @@
 ---
-tags: [" #medroot"]
+tags:
 aliases: []
-roots: [capit-]
-forms: [combining]
-alphabet:: C
-definition: [head]
+roots:
+  - capit-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - head
 ---
 >[!Note] DEFINITION of capit-
 >#heat

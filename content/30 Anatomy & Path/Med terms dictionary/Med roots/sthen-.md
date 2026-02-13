@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [sthen-]
-forms: [combining]
-alphabet:: S
-definition: [strength]
+roots:
+  - sthen-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - strength
 ---
 >[!Note] DEFINITION of sthen-
 >strength

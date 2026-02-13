@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - " #medroot"
+  - medroot
 aliases: []
-roots: [gingiv-]
-forms: [combining]
-alphabet:: G
-definition: [gum]
+roots:
+  - gingiv-
+forms:
+  - combining
+"alphabet:": G
+definition:
+  - gum
 ---
 >[!Note] DEFINITION of gingiv-
 >gum (of the mouth)

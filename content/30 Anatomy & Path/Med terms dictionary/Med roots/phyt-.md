@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [phyt-]
-forms: [combining]
-alphabet:: P
-definition: [plant, growth]
+roots:
+  - phyt-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - plant
+  - growth
 ---
 >[!Note] DEFINITION of phyt-
 >1. plant (organism)

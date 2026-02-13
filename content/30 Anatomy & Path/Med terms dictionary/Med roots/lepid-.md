@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lepid-]
-forms: [combining]
-alphabet:: L
-definition: [scale]
+roots:
+  - lepid-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - scale
 ---
 >[!Note] DEFINITION of lepid-
 >scale (of an animal)

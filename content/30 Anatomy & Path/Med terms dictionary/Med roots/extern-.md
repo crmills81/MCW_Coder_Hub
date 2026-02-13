@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [extern-]
-forms: [combining]
-alphabet:: E
-definition: [outer]
+roots:
+  - extern-
+forms:
+  - combining
+"alphabet:": E
+definition:
+  - outer
 ---
 >[!Note] DEFINITION of extern-
 >outer

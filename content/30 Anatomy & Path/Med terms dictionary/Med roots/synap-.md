@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [synaps-]
-roots: [synap-, synaps-]
-forms: [combining]
-alphabet:: S
-definition: [synapse]
+tags:
+  - medroot
+aliases:
+  - synaps-
+roots:
+  - synap-
+  - synaps-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - synapse
 ---
 >[!Note] DEFINITION of synap-
 >synapse (point of contact)

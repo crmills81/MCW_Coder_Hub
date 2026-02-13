@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [mon(o)-]
-forms: [prefix]
-roots: [mono-, mon(o)-]
-alphabet:: M
-definition: [one, single]
+tags:
+  - medroot
+aliases:
+  - mon(o)-
+forms:
+  - prefix
+roots:
+  - mono-
+  - mon(o)-
+"alphabet:": M
+definition:
+  - one
+  - single
 ---
 >[!Note] DEFINITION of mono-
 >one, single

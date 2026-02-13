@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [ergon]
-roots: [erg-, ergon]
-forms: [combining]
-alphabet:: E
-definition: [action, work]
+tags:
+  - medroot
+aliases:
+  - ergon
+roots:
+  - erg-
+  - ergon
+forms:
+  - combining
+"alphabet:": E
+definition:
+  - action
+  - work
 ---
 >[!Note] DEFINITION of erg-
 >action, work

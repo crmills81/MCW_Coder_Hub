@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [capill-]
-forms: [combining]
-alphabet:: C
-definition: [capillary]
+roots:
+  - capill-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - capillary
 ---
 >[!Note] DEFINITION of capill-
 >capillary

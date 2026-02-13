@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [semi-]
-forms: [prefix]
-alphabet:: S
-definition: [half]
+roots:
+  - semi-
+forms:
+  - prefix
+"alphabet:": S
+definition:
+  - half
 ---
 >[!Note] DEFINITION of semi-
 >half

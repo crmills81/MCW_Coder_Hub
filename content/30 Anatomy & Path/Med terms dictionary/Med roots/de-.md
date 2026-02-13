@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-forms: [prefix]
-roots: [de-]
-alphabet:: D
-definition: [down, away from, absent]
+forms:
+  - prefix
+roots:
+  - de-
+"alphabet:": D
+definition:
+  - down
+  - away from
+  - absent
 ---
 >[!Note] DEFINITION of de-
 >down, away from, absent

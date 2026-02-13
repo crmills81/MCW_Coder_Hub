@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [oste-]
-forms: [combining]
-alphabet:: O
-definition: [bone]
+roots:
+  - oste-
+forms:
+  - combining
+"alphabet:": O
+definition:
+  - bone
 ---
 >[!Note] DEFINITION of oste-
 >bone

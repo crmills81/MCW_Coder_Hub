@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [hidrot-]
-roots: [hidr-, hidrot-]
-forms: [combining]
-alphabet:: H
-definition: [sweat]
+tags:
+  - medroot
+aliases:
+  - hidrot-
+roots:
+  - hidr-
+  - hidrot-
+forms:
+  - combining
+  - prefix
+"alphabet:": H
+definition:
+  - sweat
 ---
 >[!Note] DEFINITION of hidr-
 >sweat 

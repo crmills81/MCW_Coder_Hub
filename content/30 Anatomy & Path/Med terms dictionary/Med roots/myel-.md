@@ -1,13 +1,21 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [myel-]
-forms: [combining]
-alphabet:: M
-definition: [bone marrow, spinal cord, myelin]
+roots:
+  - myel-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - bone marrow
+  - spinal cord
+  - myelin
 ---
 >[!Note] DEFINITION of myel-
 >bone marrow, spinal cord, myelin
+
+_____
 >[!info]+ ETYMOLOGY of myel-
 >#greek myelos
 _____

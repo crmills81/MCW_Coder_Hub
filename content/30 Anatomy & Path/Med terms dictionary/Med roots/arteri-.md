@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [arteri-]
-forms: [combining]
-alphabet:: A
-definition: [artery]
+roots:
+  - arteri-
+forms:
+  - combining
+  - prefix
+"alphabet:": A
+definition:
+  - artery
 ---
 >[!Note] DEFINITION of arteri-
 >artery

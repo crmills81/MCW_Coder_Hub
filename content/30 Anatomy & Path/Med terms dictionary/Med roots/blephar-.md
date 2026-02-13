@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [blephar-]
-forms: [combining]
-alphabet:: B
-definition: [eyelid]
+roots:
+  - blephar-
+forms:
+  - combining
+  - prefix
+"alphabet:": B
+definition:
+  - eyelid
 ---
 >[!Note] DEFINITION of blephar-
 >eyelid

@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [duc-]
-forms: [combining]
-roots: [duc-, duct-]
-alphabet:: D
-definition: [to lead, to bring, to conduct]
+tags:
+  - medroot
+aliases:
+  - duc-
+forms:
+  - combining
+roots:
+  - duc-
+  - duct-
+"alphabet:": D
+definition:
+  - to lead
+  - to bring
+  - to conduct
 ---
 >[!Note] DEFINITION of duct-
 >to lead, to bring, to conduct

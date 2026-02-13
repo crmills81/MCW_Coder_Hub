@@ -1,8 +1,15 @@
 ---
-tags: [" #medterm "]
+tags:
+  - medterm
 aliases: []
-roots: [pachy-, mening- ]
-definition:: dura mater
+roots:
+  - pachy-
+  - mening-
+"definition:": dura mater
+"alphabet:": p
+forms:
+  - combining
+  - noun
 ---
 >[!note]+ Definition of [[pachymeninx]]
 >[[pachy-]][[mening-|-meninx]] - dura mater (hard mother) outer tough membrane of brain and spinal cord (thick meninges)

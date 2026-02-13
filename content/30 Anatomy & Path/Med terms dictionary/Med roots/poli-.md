@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [poli-]
-forms: [combining]
-alphabet:: P
-definition: [gray matter]
+roots:
+  - poli-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - gray matter
 ---
 >[!Note] DEFINITION of poli-
 >gray matter of brain and spinal cord

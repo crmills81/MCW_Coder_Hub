@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [irid-]
-roots: [ir-, irid-]
-forms: [combining]
-alphabet:: I
-definition: [iris]
+tags:
+  - medroot
+aliases:
+  - irid-
+roots:
+  - ir-
+  - irid-
+forms:
+  - combining
+  - prefix
+"alphabet:": I
+definition:
+  - iris
 ---
 >[!Note] DEFINITION of ir-
 >iris

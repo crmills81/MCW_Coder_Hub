@@ -1,10 +1,21 @@
 ---
-tags: [" #medroot"]
-aliases: [il(in)-, im(in)-, ir(in)-]
-forms: [prefix]
-roots: [in(in)-, il(in)-, im(in)-, ir(in)-]
-alphabet:: I
-definition: [in, into]
+tags:
+  - medroot
+aliases:
+  - il(in)-
+  - im(in)-
+  - ir(in)-
+forms:
+  - prefix
+roots:
+  - in(in)-
+  - il(in)-
+  - im(in)-
+  - ir(in)-
+"alphabet:": I
+definition:
+  - in
+  - into
 ---
 >[!Note] DEFINITION of in(in)-
 >in, into

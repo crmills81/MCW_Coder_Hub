@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [alges-]
-forms: [combining]
-alphabet:: A
-definition: [sensitivity to pain]
+roots:
+  - alges-
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - sensitivity to pain
 ---
 >[!Note] DEFINITION of alges-
 >sensitivity to pain (see also [[alg-]])

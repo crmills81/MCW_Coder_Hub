@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [radic-, radix-]
-roots: [rad-, radic-, radix-]
-forms: [combining]
-alphabet:: R
-definition: [root]
+tags:
+  - medroot
+aliases:
+  - radic-
+  - radix-
+roots:
+  - rad-
+  - radic-
+  - radix-
+forms:
+  - combining
+"alphabet:": R
+definition:
+  - root
 ---
 >[!Note] DEFINITION of rad-
 >root

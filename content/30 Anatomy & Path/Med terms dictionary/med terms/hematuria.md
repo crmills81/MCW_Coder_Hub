@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medterm "
   - medterm
   - medroot
   - specialty/urology
@@ -12,6 +11,10 @@ roots:
   - -ia
 "definition:": blood in urine
 ICD-10 Code: R31.9
+"alphabet:": H
+forms:
+  - noun
+  - combining
 ---
 >[!note]+ Definition of [[hematuria]]
 >[[hem-|hemat-]][[ur-]][[-ia]] - **blood in urine (condition of blood in urine)**; [[Hematuria]] refers to blood or red blood cells mixing with urine, with bleeding that can originate anywhere in the urinary system (kidney, [[ureter]], bladder, urethra) and in men also the prostate. **Gross hematuria** may change urine color and can include clots that may cause pain or obstruct urine flow, while microscopic hematuria often has no symptoms.

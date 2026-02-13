@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [palin-]
-roots: [pali-, palin-]
-forms: [combining]
-alphabet:: P
-definition: [back, again]
+tags:
+  - medroot
+aliases:
+  - palin-
+roots:
+  - pali-
+  - palin-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - back
+  - again
 ---
 >[!Note] DEFINITION of pali-
 >back, again

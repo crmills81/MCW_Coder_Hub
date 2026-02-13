@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
-aliases: [chir-]
-roots: [cheir-, chir-]
-forms: [combining]
-alphabet:: C
-definition: [hand]
+tags:
+aliases:
+  - chir-
+roots:
+  - cheir-
+  - chir-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - hand
 ---
 >[!Note] DEFINITION of cheir-
 >hand

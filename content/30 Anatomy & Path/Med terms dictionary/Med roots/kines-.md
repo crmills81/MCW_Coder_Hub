@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [kinesi-]
-roots: [kines-]
-forms: [combining]
-alphabet:: K
-definition: [movement, motion]
+tags:
+  - medroot
+aliases:
+  - kinesi-
+roots:
+  - kines-
+forms:
+  - combining
+  - prefix
+"alphabet:": K
+definition:
+  - movement
+  - motion
 ---
 >[!Note] DEFINITION of kines-
 >movement, motion 

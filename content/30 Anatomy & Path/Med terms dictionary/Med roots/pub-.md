@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pub-]
-forms: [combining]
-alphabet:: P
-definition: [pubic hair, pubic bone, pubic region, pubis]
+roots:
+  - pub-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - pubic hair
+  - pubic bone
+  - pubic region
+  - pubis
 ---
 >[!Note] DEFINITION of pub-
 >pubic hair, pubic bone, pubic region, pubis

@@ -1,10 +1,9 @@
 ---
-title: <% tp.user.prompt("Case # and Summary (e.g., 101 - Sepsis/GI Bleed)") %>
+title: 
 tags:
   - case-study
   - clinical-log
-  - <% tp.user.prompt("Specialty") %>
-date: <% tp.date.now("YYYY-MM-DD") %>
+date:
 ---
 
 ## 🏥 Hospital Encounter Summary

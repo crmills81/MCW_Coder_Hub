@@ -9,6 +9,7 @@ roots:
   - amino-
 forms:
   - combining
+  - prefix
 alphabet: A
 definition:
   - amnion

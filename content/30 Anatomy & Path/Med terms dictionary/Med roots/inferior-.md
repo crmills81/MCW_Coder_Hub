@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [inferior-]
-forms: [combining]
-alphabet:: I
-definition: [below]
+roots:
+  - inferior-
+forms:
+  - combining
+  - prefix
+"alphabet:": I
+definition:
+  - below
 ---
 >[!Note] DEFINITION of inferior-
 >below

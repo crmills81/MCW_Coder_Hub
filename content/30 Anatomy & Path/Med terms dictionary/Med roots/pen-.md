@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pen-]
-forms: [combining]
-alphabet:: P
-definition: [decrease, deficiency]
+roots:
+  - pen-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - decrease
+  - deficiency
 ---
 >[!Note] DEFINITION of pen-
 >decrease, deficiency

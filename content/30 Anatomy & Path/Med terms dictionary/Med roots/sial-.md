@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [sial-]
-forms: [combining]
-alphabet:: S
-definition: [saliva, salivary duct]
+roots:
+  - sial-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - saliva
+  - salivary duct
 ---
 >[!Note] DEFINITION of sial-
 >saliva, salivary duct

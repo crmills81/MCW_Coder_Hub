@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [gnath-]
-forms: [combining]
-alphabet:: G
-definition: [jaw]
+roots:
+  - gnath-
+forms:
+  - combining
+  - prefix
+"alphabet:": G
+definition:
+  - jaw
 ---
 >[!Note] DEFINITION of gnath-
 >(lower) jaw

@@ -1,5 +1,5 @@
 ---
-tags: [" #medroot"]
+tags: [medroot]
 aliases: [virus-]
 roots: [vir-, virus-]
 forms: [combining]

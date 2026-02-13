@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [aphrodisi-]
-roots: [aphrodis-, aphrodisi-]
-forms: [combining]
-alphabet:: A
-definition: [sexual desire]
+tags:
+  - medroot
+aliases:
+  - aphrodisi-
+roots:
+  - aphrodis-
+  - aphrodisi-
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - sexual desire
 ---
 >[!Note] DEFINITION of aphrodis-
 >sexual desire

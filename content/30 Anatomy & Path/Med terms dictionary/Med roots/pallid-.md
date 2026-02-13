@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pallid-]
-forms: [combining]
-alphabet:: P
-definition: [pale, lacking color]
+roots:
+  - pallid-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - pale
+  - lacking color
 ---
 >[!Note] DEFINITION of pallid-
 >pale, lacking color

@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [bacteri-]
-roots: [bacter-, bacteri-]
-forms: [combining]
-alphabet:: B
-definition: [bacterium]
+tags:
+  - medroot
+aliases:
+  - bacteri-
+roots:
+  - bacter-
+  - bacteri-
+forms:
+  - combining
+  - prefix
+"alphabet:": B
+definition:
+  - bacterium
 ---
 >[!Note] DEFINITION of bacter-
 >bacterium

@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [dem-]
-forms: [combining]
-alphabet:: D
-definition: [people, population]
+roots:
+  - dem-
+forms:
+  - combining
+"alphabet:": D
+definition:
+  - people
+  - population
 ---
 >[!Note] DEFINITION of dem-
 >people, population

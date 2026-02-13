@@ -1,10 +1,19 @@
 ---
-tags: [" #medroot"]
-aliases: [pleg-, plex-]
-roots: [plec-, pleg-, plex-]
-forms: [combining]
-alphabet:: P
-definition: [strike, paralyze]
+tags:
+  - medroot
+aliases:
+  - pleg-
+  - plex-
+roots:
+  - plec-
+  - pleg-
+  - plex-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - strike
+  - paralyze
 ---
 >[!Note] DEFINITION of plec-
 >strike, paralyze

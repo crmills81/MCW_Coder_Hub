@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medroot"
   - medroot
   - greek
 aliases:

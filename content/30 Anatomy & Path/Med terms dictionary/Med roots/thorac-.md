@@ -1,5 +1,5 @@
 ---
-tags: [" #medroot"]
+tags: [medroot]
 aliases: [thorax-]
 roots: [thorac-, thorax-]
 forms: [combining]

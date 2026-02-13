@@ -1,7 +1,7 @@
 ---
 tags:
-  - " #medterm "
   - specialty/urology
+  - medterm
 aliases: []
 roots:
   - cyst-
@@ -10,6 +10,7 @@ roots:
 "definition:": Bladder hernia
 forms:
   - noun
+  - combining
 "alphabet:": C
 ---
 >[!note]+ Definition of cystocele

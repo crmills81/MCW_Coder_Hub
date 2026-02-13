@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [pharmaceu-]
-roots: [pharmac-, pharmaceu-]
-forms: [combining]
-alphabet:: P
-definition: [medicine, drug]
+tags:
+  - medroot
+aliases:
+  - pharmaceu-
+roots:
+  - pharmac-
+  - pharmaceu-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - medicine
+  - drug
 ---
 >[!Note] DEFINITION of pharmac-
 >medicine, drug

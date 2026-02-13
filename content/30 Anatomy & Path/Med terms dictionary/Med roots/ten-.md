@@ -1,5 +1,5 @@
 ---
-tags: [" #medroot"]
+tags: [medroot]
 aliases: [tenon-, tenont-]
 roots: [ten-, tenon-, tenont-]
 forms: [combining]

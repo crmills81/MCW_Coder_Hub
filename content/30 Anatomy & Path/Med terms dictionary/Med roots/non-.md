@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [non-]
-forms: [prefix]
-alphabet:: N
-definition: [not]
+roots:
+  - non-
+forms:
+  - prefix
+"alphabet:": N
+definition:
+  - not
 ---
 >[!Note] DEFINITION of non-
 >not

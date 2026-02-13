@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [ov-]
-forms: [combining]
-alphabet:: O
-definition: [egg]
+roots:
+  - ov-
+forms:
+  - combining
+"alphabet:": O
+definition:
+  - egg
 ---
 >[!Note] DEFINITION of ov-
 >egg

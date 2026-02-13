@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [micr-]
-forms: [combining]
-alphabet:: M
-definition: [small]
+roots:
+  - micr-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - small
 ---
 >[!Note] DEFINITION of micr-
 >(abnormally) small

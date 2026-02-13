@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [pneum(at)-]
-roots: [pneumat-, pneum(at)-]
-forms: [combining]
-alphabet:: P
-definition: [air, gas]
+tags:
+  - medroot
+aliases:
+  - pneum(at)-
+roots:
+  - pneumat-
+  - pneum(at)-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - air
+  - gas
 ---
 >[!Note] DEFINITION of pneumat-
 >air, gas

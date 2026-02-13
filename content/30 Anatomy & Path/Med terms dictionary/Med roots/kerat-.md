@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [kerat-]
-forms: [combining]
-alphabet:: K
-definition: [cornea]
+roots:
+  - kerat-
+forms:
+  - combining
+  - prefix
+"alphabet:": K
+definition:
+  - cornea
 ---
 >[!Note] DEFINITION of kerat-
 >cornea (horn)

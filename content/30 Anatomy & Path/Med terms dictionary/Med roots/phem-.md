@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [phem-]
-forms: [combining]
-alphabet:: P
-definition: [speech]
+roots:
+  - phem-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - speech
 ---
 >[!Note] DEFINITION of phem-
 >speech

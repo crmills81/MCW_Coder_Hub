@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [creat-]
-forms: [combining]
-alphabet:: C
-definition: [flesh]
+roots:
+  - creat-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - flesh
 ---
 >[!Note] DEFINITION of creat-
 >flesh

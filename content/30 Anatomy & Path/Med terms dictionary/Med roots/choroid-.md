@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [choroid-]
-forms: [combining]
-alphabet:: C
-definition: [choroid]
+roots:
+  - choroid-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - choroid
 ---
 >[!Note] DEFINITION of choroid-
 >choroid (thin vascular layer in eye)

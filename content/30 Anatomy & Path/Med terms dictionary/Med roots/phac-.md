@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [phak-]
-roots: [phac-, phak-]
-forms: [combining]
-alphabet:: P
-definition: [lens]
+tags:
+  - medroot
+aliases:
+  - phak-
+roots:
+  - phac-
+  - phak-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - lens
 ---
 >[!Note] DEFINITION of phac-
 >lens

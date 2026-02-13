@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [phthir-]
-forms: [combining]
-alphabet:: P
-definition: [louse]
+roots:
+  - phthir-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - louse
 ---
 >[!Note] DEFINITION of phthir-
 >louse

@@ -1,7 +1,7 @@
 ---
 tags:
-  - " #medterm "
   - specialty/ophthalmology
+  - medterm
 aliases: []
 roots:
   - cyan-
@@ -11,6 +11,7 @@ roots:
 "definition:": seeing everything through a blue haze
 forms:
   - noun
+  - combining
 "alphabet:": C
 subclass: Ureteral Diseases; Urolithiasis
 ---

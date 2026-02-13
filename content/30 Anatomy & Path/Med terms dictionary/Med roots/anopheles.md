@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
+  - medterm
 aliases: []
-roots: [anopheles]
-forms: [combining]
-alphabet:: A
-definition: [useless, harmful]
+roots:
+  - anopheles
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - useless
+  - harmful
 ---
 >[!Note] DEFINITION of anopheles
 >useless, harmful

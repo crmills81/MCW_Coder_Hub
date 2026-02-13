@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [isch-]
-forms: [combining]
-alphabet:: I
-definition: [suppress, check]
+roots:
+  - isch-
+forms:
+  - combining
+  - prefix
+"alphabet:": I
+definition:
+  - suppress
+  - check
 ---
 >[!Note] DEFINITION of isch-
 >suppress, check

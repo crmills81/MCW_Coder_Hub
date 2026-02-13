@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
-aliases: [cervix]
-roots: [cervic-, cervix]
-forms: [combining]
-alphabet:: C
-definition: [neck]
+tags:
+aliases:
+  - cervix
+roots:
+  - cervic-
+  - cervix
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - neck
 ---
 >[!Note] DEFINITION of cervic-
 >neck (of the uterus): cervix uteri

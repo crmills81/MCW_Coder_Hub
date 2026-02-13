@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [phor-]
-forms: [combining]
-alphabet:: P
-definition: [bearing, carrying]
+roots:
+  - phor-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - bearing
+  - carrying
 ---
 >[!Note] DEFINITION of phor-
 >bearing, carrying

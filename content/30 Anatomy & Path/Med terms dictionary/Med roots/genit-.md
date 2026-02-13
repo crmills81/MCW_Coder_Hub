@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - " #medroot"
+  - medroot
 aliases: []
-roots: [genit-]
-forms: [combining]
-alphabet:: G
-definition: [bring forth, give birth]
+roots:
+  - genit-
+forms:
+  - combining
+"alphabet:": G
+definition:
+  - bring forth
+  - give birth
 ---
 >[!Note] DEFINITION of genit-
 >bring forth, give birth (see also: [[gen-]])

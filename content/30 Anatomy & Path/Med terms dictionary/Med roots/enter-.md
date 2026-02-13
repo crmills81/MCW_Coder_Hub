@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [enter-]
-forms: [combining]
-alphabet:: E
-definition: [intestine]
+roots:
+  - enter-
+forms:
+  - combining
+"alphabet:": E
+definition:
+  - intestine
 ---
 >[!Note] DEFINITION of enter-
 >(small) intestine

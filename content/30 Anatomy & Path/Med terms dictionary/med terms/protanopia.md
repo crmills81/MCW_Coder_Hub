@@ -1,7 +1,7 @@
 ---
 tags:
-  - " #medterm "
   - specialty
+  - medterm
 aliases: []
 roots:
   - prot-

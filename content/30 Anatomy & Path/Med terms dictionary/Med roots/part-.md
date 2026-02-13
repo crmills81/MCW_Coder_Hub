@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [part-]
-forms: [combining]
-alphabet:: P
-definition: [give birth]
+roots:
+  - part-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - give birth
 ---
 >[!Note] DEFINITION of part-
 >give birth

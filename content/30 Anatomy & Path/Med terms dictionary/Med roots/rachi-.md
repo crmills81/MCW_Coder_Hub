@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [rhachi-]
-roots: [rachi-, rhachi-]
-forms: [combining]
-alphabet:: R
-definition: [spine]
+tags:
+  - medroot
+aliases:
+  - rhachi-
+roots:
+  - rachi-
+  - rhachi-
+forms:
+  - combining
+"alphabet:": R
+definition:
+  - spine
 ---
 >[!Note] DEFINITION of rachi-
 >spine

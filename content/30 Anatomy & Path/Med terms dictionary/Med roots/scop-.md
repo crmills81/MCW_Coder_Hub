@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [scop-]
-forms: [combining]
-alphabet:: S
-definition: [look at, examine]
+roots:
+  - scop-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - look at
+  - examine
 ---
 >[!Note] DEFINITION of scop-
 >look at, examine

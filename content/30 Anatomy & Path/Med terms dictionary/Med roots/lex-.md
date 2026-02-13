@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lex-]
-forms: [combining]
-alphabet:: L
-definition: [read]
+roots:
+  - lex-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - read
 ---
 >[!Note] DEFINITION of lex-
 >read

@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot "]
+tags:
+  - medroot
 aliases: []
-roots: [pro-]
-forms: [prefix]
-alphabet:: P
-definition: [before, forward, in front]
+roots:
+  - pro-
+forms:
+  - prefix
+"alphabet:": P
+definition:
+  - before
+  - forward
+  - in front
 ---
 >[!Note] DEFINITION of pro-
 >before, forward, in front

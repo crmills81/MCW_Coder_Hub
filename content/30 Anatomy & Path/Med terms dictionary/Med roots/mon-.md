@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [mon-]
-forms: [combining]
-alphabet:: M
-definition: [single]
+roots:
+  - mon-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - single
 ---
 >[!Note] DEFINITION of mon-
 >single

@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [phon-]
-forms: [combining]
-alphabet:: P
-definition: [voice, sound]
+roots:
+  - phon-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - voice
+  - sound
 ---
 >[!Note] DEFINITION of phon-
 >voice, sound

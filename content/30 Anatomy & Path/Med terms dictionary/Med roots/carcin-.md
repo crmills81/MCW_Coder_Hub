@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
 aliases: []
-roots: [carcin-]
-forms: [combining]
-alphabet:: C
-definition: [carcinoma, cancer]
+roots:
+  - carcin-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - carcinoma
+  - cancer
 ---
 >[!Note] DEFINITION of carcin-
 >cancer, [[carcin-]][[30 Anatomy & Path/Med terms dictionary/Med roots/-oma]]

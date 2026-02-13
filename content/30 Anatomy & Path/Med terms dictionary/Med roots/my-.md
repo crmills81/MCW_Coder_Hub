@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [my-]
-forms: [combining]
-alphabet:: M
-definition: [close, shut]
+roots:
+  - my-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - close
+  - shut
 ---
 >[!Note] DEFINITION of my-
 >close, shut

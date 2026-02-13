@@ -1,5 +1,5 @@
 ---
-tags: [" #medroot"]
+tags: [medroot]
 aliases: [trache-, trachy-]
 roots: [trach-, trache-, trachy-]
 forms: [combining]

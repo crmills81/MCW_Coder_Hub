@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [immun-]
-forms: [combining]
-alphabet:: I
-definition: [safe, protected]
+roots:
+  - immun-
+forms:
+  - combining
+  - prefix
+"alphabet:": I
+definition:
+  - safe
+  - protected
 ---
 >[!Note] DEFINITION of immun-
 >safe, protected

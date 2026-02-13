@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [crypt-]
-forms: [combining]
-alphabet:: C
-definition: [hidden, latent]
+roots:
+  - crypt-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - hidden
+  - latent
 ---
 >[!Note] DEFINITION of crypt-
 >hidden, latent

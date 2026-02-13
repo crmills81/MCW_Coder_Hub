@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [glyc-]
-forms: [combining]
-alphabet:: G
-definition: [sugar]
+roots:
+  - glyc-
+forms:
+  - combining
+  - prefix
+"alphabet:": G
+definition:
+  - sugar
 ---
 >[!Note] DEFINITION of glyc-
 >sugar

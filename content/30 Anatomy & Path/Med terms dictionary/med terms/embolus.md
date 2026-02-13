@@ -55,7 +55,7 @@ _____
 | **[[Thromboembolus]]**   | Clot fragment (DVT, AFib mural thrombus)   | [[Pulmonary embolism (PE)]], [[stroke]], [[limb ischemia]].[1] |
 | **Fat embolus**      | Marrow/bone fat (long bone fx)             | Cerebral fat [[embolism]] syndrome, ARDS.[1] |
 | **Air/gas embolus**  | IV air, surgery, decompression             | Coronary/pulmonary [[occlusion]] ([[paradoxical]] via PFO).[1] |
-| **Septic embolus**   | Infected vegetation ([[endocarditis]])         | [[Abscess]]es, mycotic aneurysm.[1] |
+| **Septic embolus**   | Infected vegetation ([[endocarditis]])         | [[abscess]]es, mycotic aneurysm.[1] |
 | **Cholesterol embolus** | Atheroma plaque ([[catheterization]])       | Blue toe syndrome, renal failure.[1] |
 | **[[Amniotic]]**         | Fetal debris ([[placental abruption]])         | **DIC**, maternal collapse.[9] |
 | **Tumor embolus**    | Malignant cells                            | [[Metastasis]].[1] |

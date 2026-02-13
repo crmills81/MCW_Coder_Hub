@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [cortic-]
-roots: [cortex, cortic-]
-forms: [combining]
-alphabet:: C
-definition: [outer layer]
+tags:
+  - medroot
+aliases:
+  - cortic-
+roots:
+  - cortex
+  - cortic-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - outer layer
 ---
 >[!Note] DEFINITION of cortex
 >outer layer (of an organ)

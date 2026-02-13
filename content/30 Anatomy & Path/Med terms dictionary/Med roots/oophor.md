@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [oophor]
-forms: [combining]
-alphabet:: O
-definition: [ovary]
+roots:
+  - oophor
+forms:
+  - combining
+"alphabet:": O
+definition:
+  - ovary
 ---
 >[!Note] DEFINITION of oophor
 >ovary (egg-bearing)

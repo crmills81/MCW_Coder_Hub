@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medroot"
   - medterm
   - urology
 aliases: []

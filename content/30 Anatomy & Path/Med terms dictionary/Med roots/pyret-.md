@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pyret-]
-forms: [combining]
-alphabet:: P
-definition: [fever]
+roots:
+  - pyret-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - fever
 ---
 >[!Note] DEFINITION of pyret-
 >fever

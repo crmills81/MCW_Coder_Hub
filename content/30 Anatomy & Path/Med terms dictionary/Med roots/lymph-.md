@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lymph-]
-forms: [combining]
-alphabet:: L
-definition: [lymph]
+roots:
+  - lymph-
+forms:
+  - combining
+"alphabet:": L
+definition:
+  - lymph
 ---
 >[!Note] DEFINITION of lymph-
 >lymph

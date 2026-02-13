@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [duoden-]
-forms: [combining]
-alphabet:: D
-definition: [duodenum]
+roots:
+  - duoden-
+forms:
+  - combining
+"alphabet:": D
+definition:
+  - duodenum
 ---
 >[!Note] DEFINITION of duoden-
 >duodenum

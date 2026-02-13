@@ -1,10 +1,13 @@
 ---
-tags: [" #medroot"]
+tags:
 aliases: []
-roots: [cente-]
-forms: [combining]
-alphabet:: C
-definition: [pierce]
+roots:
+  - cente-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - pierce
 ---
 >[!Note] DEFINITION of cente-
 >pierce

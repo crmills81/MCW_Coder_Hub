@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [py-]
-forms: [combining]
-alphabet:: P
-definition: [pus]
+roots:
+  - py-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - pus
 ---
 >[!Note] DEFINITION of py-
 >pus

@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [calc-]
-forms: [combining]
-alphabet:: C
-definition: [stone, calcium, lime]
+roots:
+  - calc-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - stone
+  - calcium
+  - lime
 ---
 >[!Note] DEFINITION of calc-
 >stone, calcium, lime (salts)

@@ -1,5 +1,5 @@
 ---
-tags: [" #medroot"]
+tags: [medroot]
 aliases: [-syrinx]
 roots: [syring-, -syrinx]
 forms: [combining]

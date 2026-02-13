@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [pulmon-]
-roots: [pulm-, pulmon-]
-forms: [combining]
-alphabet:: P
-definition: [lung, pulmonary artery]
+tags:
+  - medroot
+aliases:
+  - pulmon-
+roots:
+  - pulm-
+  - pulmon-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - lung
+  - pulmonary artery
 ---
 >[!Note] DEFINITION of pulm-
 >1. lung

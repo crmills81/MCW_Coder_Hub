@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [ect-]
-forms: [prefix]
-roots: [ecto-, ect-]
-alphabet:: E
-definition: [outside of]
+tags:
+  - medroot
+aliases:
+  - ect-
+forms:
+  - prefix
+roots:
+  - ecto-
+  - ect-
+"alphabet:": E
+definition:
+  - outside of
 ---
 >[!Note] DEFINITION of ecto-
 >outside of (location)

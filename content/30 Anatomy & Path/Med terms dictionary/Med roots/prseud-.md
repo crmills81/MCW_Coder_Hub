@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [prseud-]
-forms: [combining]
-alphabet:: P
-definition: [false]
+roots:
+  - prseud-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - false
 ---
 >[!Note] DEFINITION of prseud-
 >false

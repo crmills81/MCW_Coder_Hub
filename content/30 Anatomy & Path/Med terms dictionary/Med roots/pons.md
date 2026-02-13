@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [pont-]
-roots: [pons, pont-]
-forms: [combining]
-alphabet:: P
-definition: [pons]
+tags:
+  - medroot
+aliases:
+  - pont-
+roots:
+  - pons
+  - pont-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - pons
 ---
 >[!Note] DEFINITION of pons
 >pons

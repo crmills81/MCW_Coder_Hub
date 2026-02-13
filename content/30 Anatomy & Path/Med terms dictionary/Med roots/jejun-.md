@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [jejun-]
-forms: [combining]
-alphabet:: I
-definition: [jejunum]
+roots:
+  - jejun-
+forms:
+  - combining
+  - prefix
+"alphabet:": I
+definition:
+  - jejunum
 ---
 >[!Note] DEFINITION of jejun-
 >jejunum

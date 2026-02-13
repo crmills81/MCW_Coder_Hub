@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [dips-]
-forms: [combining]
-alphabet:: D
-definition: [thirst]
+roots:
+  - dips-
+forms:
+  - combining
+  - prefix
+"alphabet:": D
+definition:
+  - thirst
 ---
 >[!Note] DEFINITION of dips-
 >thirst

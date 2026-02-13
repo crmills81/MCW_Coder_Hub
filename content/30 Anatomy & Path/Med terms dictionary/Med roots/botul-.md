@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [botul-]
-forms: [combining]
-alphabet:: B
-definition: [sausage]
+roots:
+  - botul-
+forms:
+  - combining
+  - prefix
+"alphabet:": B
+definition:
+  - sausage
 ---
 >[!Note] DEFINITION of botul-
 >sausage

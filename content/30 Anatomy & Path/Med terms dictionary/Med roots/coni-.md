@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [coni-]
-forms: [combining]
-alphabet:: C
-definition: [dust]
+roots:
+  - coni-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - dust
 ---
 >[!Note] DEFINITION of coni-
 >dust

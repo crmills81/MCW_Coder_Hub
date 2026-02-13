@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [coron-]
-forms: [combining]
-alphabet:: C
-definition: [crown]
+roots:
+  - coron-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - crown
 ---
 >[!Note] DEFINITION of coron-
 >crown

@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [necr-]
-forms: [combining]
-alphabet:: N
-definition: [corpse, dead]
+roots:
+  - necr-
+forms:
+  - combining
+"alphabet:": N
+definition:
+  - corpse
+  - dead
 ---
 >[!Note] DEFINITION of necr-
 >corpse, dead

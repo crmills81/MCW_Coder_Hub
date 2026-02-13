@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pedicul-]
-forms: [combining]
-alphabet:: P
-definition: [louse]
+roots:
+  - pedicul-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - louse
 ---
 >[!Note] DEFINITION of pedicul-
 >louse

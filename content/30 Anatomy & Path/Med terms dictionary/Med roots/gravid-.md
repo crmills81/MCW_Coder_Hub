@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [gravid-]
-forms: [combining]
-alphabet:: G
-definition: [pregnant]
+roots:
+  - gravid-
+forms:
+  - combining
+  - prefix
+"alphabet:": G
+definition:
+  - pregnant
 ---
 >[!Note] DEFINITION of gravid-
 >pregnant

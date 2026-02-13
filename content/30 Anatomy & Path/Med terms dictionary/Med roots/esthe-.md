@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [esthes-]
-roots: [esthe-, esthes-]
-forms: [combining]
-alphabet:: E
-definition: [sensation, sensitivity, sense]
+tags:
+  - medroot
+aliases:
+  - esthes-
+roots:
+  - esthe-
+  - esthes-
+forms:
+  - combining
+"alphabet:": E
+definition:
+  - sensation
+  - sensitivity
+  - sense
 ---
 >[!Note] DEFINITION of esthe-
 >sensation, sensitivity, sense

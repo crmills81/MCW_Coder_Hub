@@ -1,10 +1,13 @@
 ---
-tags: [" #medroot"]
+tags:
 aliases: []
-roots: [cephal-]
-forms: [combining]
-alphabet:: C
-definition: [head]
+roots:
+  - cephal-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - head
 ---
 >[!Note] DEFINITION of cephal-
 >head

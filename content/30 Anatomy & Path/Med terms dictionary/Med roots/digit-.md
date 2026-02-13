@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [digit-]
-forms: [combining]
-alphabet:: D
-definition: [finger, toe]
+roots:
+  - digit-
+forms:
+  - combining
+  - prefix
+"alphabet:": D
+definition:
+  - finger
+  - toe
 ---
 >[!Note] DEFINITION of digit-
 >finger, toe

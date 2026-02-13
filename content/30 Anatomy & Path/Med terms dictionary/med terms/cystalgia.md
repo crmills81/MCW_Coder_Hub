@@ -1,7 +1,7 @@
 ---
 tags:
-  - " #medterm "
   - specialty/urology
+  - medterm
 aliases: []
 roots:
   - cyst-
@@ -10,6 +10,8 @@ roots:
 "definition:": Bladder pain
 forms:
   - adjective
+  - combining
+  - diminutive
 "alphabet:": C
 subclass: Ureteral Diseases; Urolithiasis
 ---

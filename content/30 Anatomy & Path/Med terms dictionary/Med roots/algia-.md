@@ -10,6 +10,7 @@ roots:
   - alg-
 forms:
   - combining
+  - prefix
 alphabet: A
 definition:
   - pain

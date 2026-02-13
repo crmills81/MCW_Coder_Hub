@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [mel-]
-forms: [combining]
-alphabet:: M
-definition: [limb]
+roots:
+  - mel-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - limb
 ---
 >[!Note] DEFINITION of mel-
 >limb

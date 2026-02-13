@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [colp-]
-forms: [combining]
-alphabet:: C
-definition: [vagina]
+roots:
+  - colp-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - vagina
 ---
 >[!Note] DEFINITION of colp-
 >vagina

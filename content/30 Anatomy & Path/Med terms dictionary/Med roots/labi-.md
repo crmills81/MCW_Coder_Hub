@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [labi-]
-forms: [combining]
-alphabet:: L
-definition: [lip]
+roots:
+  - labi-
+forms:
+  - combining
+"alphabet:": L
+definition:
+  - lip
 ---
 >[!Note] DEFINITION of labi-
 >lip

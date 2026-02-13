@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [osm-]
-forms: [combining]
-alphabet:: O
-definition: [sense of smell, odor]
+roots:
+  - osm-
+forms:
+  - combining
+"alphabet:": O
+definition:
+  - sense of smell
+  - odor
 ---
 >[!Note] DEFINITION of osm-
 >1. sense of smell

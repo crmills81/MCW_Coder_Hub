@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-forms: [prefix]
-roots: [dys-]
-alphabet:: D
-definition: [difficult, painful, defective, abnormal]
+forms:
+  - prefix
+roots:
+  - dys-
+"alphabet:": D
+definition:
+  - difficult
+  - painful
+  - defective
+  - abnormal
 ---
 >[!Note] DEFINITION of dys-
 >difficult, painful, defective, abnormal

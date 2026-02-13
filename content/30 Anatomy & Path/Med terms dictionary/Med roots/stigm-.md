@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [stigmat-]
-roots: [stigm-, stigmat-]
-forms: [combining]
-alphabet:: S
-definition: [point, mark, spot]
+tags:
+  - medroot
+aliases:
+  - stigmat-
+roots:
+  - stigm-
+  - stigmat-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - point
+  - mark
+  - spot
 ---
 >[!Note] DEFINITION of stigm-
 >point, mark, spot

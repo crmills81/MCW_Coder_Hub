@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [synov-]
-forms: [combining]
-alphabet:: S
-definition: [synovial fluid, synovial membrane or sac]
+roots:
+  - synov-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - synovial fluid
+  - synovial membrane or sac
 ---
 >[!Note] DEFINITION of synov-
 >synovial fluuid, synovial membrane or sac

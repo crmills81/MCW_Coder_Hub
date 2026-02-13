@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [copr-]
-forms: [combining]
-alphabet:: C
-definition: [excrement, fecal matter]
+roots:
+  - copr-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - excrement
+  - fecal matter
 ---
 >[!Note] DEFINITION of copr-
 >excrement, fecal matter

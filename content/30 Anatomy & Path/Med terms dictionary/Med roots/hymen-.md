@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [hymen-]
-forms: [combining]
-alphabet:: H
-definition: [membrane, hymen]
+roots:
+  - hymen-
+forms:
+  - combining
+  - prefix
+"alphabet:": H
+definition:
+  - membrane
+  - hymen
 ---
 >[!Note] DEFINITION of hymen-
 >1. hymen

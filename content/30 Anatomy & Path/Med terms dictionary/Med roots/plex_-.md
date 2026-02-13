@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [plex_-]
-forms: [combining]
-alphabet:: P
-definition: [plexus]
+roots:
+  - plex_-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - plexus
 ---
 >[!Note] DEFINITION of plex_-
 >plexus

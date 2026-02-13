@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - " #medroot"
+  - medroot
 aliases: []
-roots: [gangli-]
-forms: [combining]
-alphabet:: G
-definition: [ganglion]
+roots:
+  - gangli-
+forms:
+  - combining
+"alphabet:": G
+definition:
+  - ganglion
 ---
 >[!Note] DEFINITION of gangli-
 >ganglion (nerve cell cluster)

@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [multi-]
-roots: [mult-, multi-]
-forms: [prefix]
-alphabet:: M
-definition: [many, much, affecting many parts]
+tags:
+  - medroot
+aliases:
+  - multi-
+roots:
+  - mult-
+  - multi-
+forms:
+  - prefix
+"alphabet:": M
+definition:
+  - many
+  - much
+  - affecting many parts
 ---
 >[!Note] DEFINITION of mult-
 >many, much, affecting many parts

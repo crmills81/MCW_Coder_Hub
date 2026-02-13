@@ -1,10 +1,19 @@
 ---
-tags: [" #medroot"]
-aliases: [coli-, colon-]
-roots: [col-, coli-, colon-]
-forms: [combining]
-alphabet:: C
-definition: [colon, Escherichia coli]
+tags:
+  - medroot
+aliases:
+  - coli-
+  - colon-
+roots:
+  - col-
+  - coli-
+  - colon-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - colon
+  - Escherichia coli
 ---
 >[!Note] DEFINITION of col-
 >colon, Escherichia coli (E. coli)

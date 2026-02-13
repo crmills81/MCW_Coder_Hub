@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [pel-]
-roots: [per-, pel-]
-forms: [prefix]
-alphabet:: P 
-definition: [through, very, thoroughly]
+tags:
+  - medroot
+aliases:
+  - pel-
+roots:
+  - per-
+  - pel-
+forms:
+  - prefix
+"alphabet:": P
+definition:
+  - through
+  - very
+  - thoroughly
 ---
 >[!Note] DEFINITION of per-
 >1. through

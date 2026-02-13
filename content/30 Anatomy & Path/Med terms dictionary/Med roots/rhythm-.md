@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [rhythm-]
-forms: [combining]
-alphabet:: R
-definition: [heartbeat]
+roots:
+  - rhythm-
+forms:
+  - combining
+"alphabet:": R
+definition:
+  - heartbeat
 ---
 >[!Note] DEFINITION of rhythm-
 >heartbeat

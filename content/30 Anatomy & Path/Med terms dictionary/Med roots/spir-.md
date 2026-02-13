@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [spir-]
-forms: [combining]
-alphabet:: S
-definition: [coil, spiral]
+roots:
+  - spir-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - coil
+  - spiral
 ---
 >[!Note] DEFINITION of spir-
 >coil, spiral

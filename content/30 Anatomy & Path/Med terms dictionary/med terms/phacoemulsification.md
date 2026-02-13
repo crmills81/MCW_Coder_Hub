@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medroot"
   - specialty/ophthalmology
 aliases: []
 roots:

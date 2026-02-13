@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [koni]
-forms: [combining]
-alphabet:: K
-definition: [dust]
+roots:
+  - koni
+forms:
+  - combining
+  - prefix
+"alphabet:": K
+definition:
+  - dust
 ---
 >[!Note] DEFINITION of koni
 >dust

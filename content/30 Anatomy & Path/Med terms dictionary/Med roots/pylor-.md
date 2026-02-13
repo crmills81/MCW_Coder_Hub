@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pylor-]
-forms: [combining]
-alphabet:: P
-definition: [pylorus]
+roots:
+  - pylor-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - pylorus
 ---
 >[!Note] DEFINITION of pylor-
 >pylorus

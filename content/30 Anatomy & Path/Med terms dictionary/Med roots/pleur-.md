@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pleur-]
-forms: [combining]
-alphabet:: P
-definition: [pleura]
+roots:
+  - pleur-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - pleura
 ---
 >[!Note] DEFINITION of pleur-
 >pleura (thoracic membrane around lungs)

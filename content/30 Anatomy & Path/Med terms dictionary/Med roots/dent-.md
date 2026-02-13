@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [dent-]
-forms: [combining]
-alphabet:: D
-definition: [tooth]
+roots:
+  - dent-
+forms:
+  - combining
+  - prefix
+"alphabet:": D
+definition:
+  - tooth
 ---
 >[!Note] DEFINITION of dent-
 >tooth

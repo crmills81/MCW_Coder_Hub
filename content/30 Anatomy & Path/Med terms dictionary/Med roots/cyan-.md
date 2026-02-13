@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [cyan-]
-forms: [combining]
-alphabet:: C
-definition: [blue]
+roots:
+  - cyan-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - blue
 ---
 >[!Note] DEFINITION of cyan-
 >blue

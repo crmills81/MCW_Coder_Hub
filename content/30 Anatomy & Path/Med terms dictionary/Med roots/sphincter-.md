@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [sphincter-]
-forms: [combining]
-alphabet:: S
-definition: [sphincter muscle]
+roots:
+  - sphincter-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - sphincter muscle
 ---
 >[!Note] DEFINITION of sphincter-
 >sphincter muscle

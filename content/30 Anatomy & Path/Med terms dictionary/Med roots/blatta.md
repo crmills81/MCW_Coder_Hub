@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [blatta]
-forms: [combining]
-alphabet:: B
-definition: [cockroach]
+roots:
+  - blatta
+forms:
+  - combining
+  - prefix
+"alphabet:": B
+definition:
+  - cockroach
 ---
 >[!Note] DEFINITION of blatta
 >cockroach

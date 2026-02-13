@@ -1,10 +1,19 @@
 ---
-tags: [" #medroot"]
-aliases: [-derma, dermat-]
-roots: [derm-, -derma, dermat-]
-forms: [combining]
-alphabet:: D
-definition: [skin]
+tags:
+  - medroot
+aliases:
+  - -derma
+  - dermat-
+roots:
+  - derm-
+  - -derma
+  - dermat-
+forms:
+  - combining
+  - prefix
+"alphabet:": D
+definition:
+  - skin
 ---
 >[!Note] DEFINITION of derm-
 >skin

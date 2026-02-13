@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [ped-]
-forms: [combining]
-alphabet:: P
-definition: [child]
+roots:
+  - ped-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - child
 ---
 >[!Note] DEFINITION of ped-
 >child

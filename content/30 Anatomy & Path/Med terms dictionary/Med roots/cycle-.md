@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [cycle-]
-forms: [combining]
-alphabet:: C
-definition: [circle, ciliary body]
+roots:
+  - cycle-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - circle
+  - ciliary body
 ---
 >[!Note] DEFINITION of cycle-
 >1. circle

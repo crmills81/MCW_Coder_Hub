@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [rhag-]
-forms: [combining]
-alphabet:: R
-definition: [flow profusely homorrhage]
+roots:
+  - rhag-
+forms:
+  - combining
+"alphabet:": R
+definition:
+  - flow profusely homorrhage
 ---
 >[!Note] DEFINITION of rhag-
 >flow profusely, hemorrhage

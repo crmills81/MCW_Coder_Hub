@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [dors-]
-forms: [combining]
-alphabet:: D
-definition: [back]
+roots:
+  - dors-
+forms:
+  - combining
+"alphabet:": D
+definition:
+  - back
 ---
 >[!Note] DEFINITION of dors-
 >back (of the body)

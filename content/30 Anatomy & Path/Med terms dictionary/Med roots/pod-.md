@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pod-]
-forms: [combining]
-alphabet:: P
-definition: [foot]
+roots:
+  - pod-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - foot
 ---
 >[!Note] DEFINITION of pod-
 >foot

@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [core-]
-roots: [cor-]
-forms: [combining]
-alphabet:: C
-definition: [pupil]
+tags:
+  - medroot
+aliases:
+  - core-
+roots:
+  - cor-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - pupil
 ---
 >[!Note] DEFINITION of cor-
 >pupil (of the eye)

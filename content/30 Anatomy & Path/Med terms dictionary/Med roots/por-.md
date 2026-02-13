@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [por-]
-forms: [combining]
-alphabet:: P
-definition: [passage, opening, duct, pore, cavity]
+roots:
+  - por-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - passage
+  - opening
+  - duct
+  - pore
+  - cavity
 ---
 >[!Note] DEFINITION of por-
 >passage, opening, duct, pore, cavity

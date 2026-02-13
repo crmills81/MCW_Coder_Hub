@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [orex-]
-roots: [orec-, orex-]
-forms: [combining]
-alphabet:: O
-definition: [have an appetite, appetite]
+tags:
+  - medroot
+aliases:
+  - orex-
+roots:
+  - orec-
+  - orex-
+forms:
+  - combining
+"alphabet:": O
+definition:
+  - have an appetite
+  - appetite
 ---
 >[!Note] DEFINITION of orec-
 >have an appetite, appetite

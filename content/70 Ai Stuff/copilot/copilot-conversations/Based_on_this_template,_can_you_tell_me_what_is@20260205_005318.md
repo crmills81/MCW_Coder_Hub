@@ -1,12 +1,9 @@
 ---
 epoch: 1770270798594
-modelKey: "gemini-2.5-pro|google"
-topic: "Debugging Template Parse Error"
-
-
-
+modelKey: gemini-2.5-pro|google
+topic: Debugging Template Parse Error
 tags:
-  - 70 Ai Stuff/copilot-conversation
+  - copilot-conversation
 ---
 
 **user**: Based on this template, can you tell me what is wrong with it? I keep getting a parse error.

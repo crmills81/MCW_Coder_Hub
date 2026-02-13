@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [junct-]
-forms: [combining]
-alphabet:: J
-definition: [join]
+roots:
+  - junct-
+forms:
+  - combining
+"alphabet:": J
+definition:
+  - join
 ---
 >[!Note] DEFINITION of junct-
 >join

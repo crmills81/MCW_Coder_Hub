@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [melan-]
-forms: [combining]
-alphabet:: M
-definition: [menstruation]
+roots:
+  - melan-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - menstruation
 ---
 >[!Note] DEFINITION of melan-
 >menstruation

@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [crym-]
-roots: [cry-, crym-]
-forms: [combining]
-alphabet:: C
-definition: [icy cold]
+tags:
+  - medroot
+aliases:
+  - crym-
+roots:
+  - cry-
+  - crym-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - icy cold
 ---
 >[!Note] DEFINITION of cry-
 >icy cold

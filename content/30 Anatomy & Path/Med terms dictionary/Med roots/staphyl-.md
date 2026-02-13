@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [staphyl-]
-forms: [combining]
-alphabet:: S
-definition: [uvula, palate, staphylococci]
+roots:
+  - staphyl-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - uvula
+  - palate
+  - staphylococci
 ---
 >[!Note] DEFINITION of staphyl-
 >1. uvula, palate

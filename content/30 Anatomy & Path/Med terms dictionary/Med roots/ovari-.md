@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [ovari-]
-forms: [combining]
-alphabet:: O
-definition: [ovary]
+roots:
+  - ovari-
+forms:
+  - combining
+"alphabet:": O
+definition:
+  - ovary
 ---
 >[!Note] DEFINITION of ovari-
 >ovary

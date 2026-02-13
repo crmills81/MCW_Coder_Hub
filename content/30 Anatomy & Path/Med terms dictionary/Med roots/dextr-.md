@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [dextr-]
-forms: [combining]
-alphabet:: D
-definition: [right]
+roots:
+  - dextr-
+forms:
+  - combining
+  - prefix
+"alphabet:": D
+definition:
+  - right
 ---
 >[!Note] DEFINITION of dextr-
 >right (side)

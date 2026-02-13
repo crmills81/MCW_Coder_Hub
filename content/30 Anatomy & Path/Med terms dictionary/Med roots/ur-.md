@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:[medroot]
 aliases: []
-roots: [ur-]
-forms: [combining]
-alphabet:: U
-definition: [urine, urinary tract, uric acid]
+roots:
+  - ur-
+forms:
+  - combining
+"alphabet:": U
+definition:
+  - urine
+  - urinary tract
+  - uric acid
 ---
 >[!Note] DEFINITION of ur-
 >1. urine, urinary tract

@@ -24,7 +24,7 @@ _____
 >[!info]+ ETYMOLOGY of [[percutaneous]]
 >#latin
 >•	Per-: Latin per = “**through**.”
->	•	[[Cutaneous]]: *Latin* cutis = “**skin**” (PIE keu(t)- “**to cover, conceal**”).
+>	•	[[cutaneous]]: *Latin* cutis = “**skin**” (PIE keu(t)- “**to cover, conceal**”).
 >	•	**Coined**: 1862 as percutaneus (“**through the skin**”).
 >	•	**Pronunciation**: /ˌpɜr kjuˈteɪ ni əs/ (“per-kyoo-TAY-nee-us”).
 _____
@@ -53,7 +53,7 @@ _____
 | **PEG (Percutaneous Endoscopic Gastrostomy)** | Feeding tube through abdominal wall.                   |
 | **PCNL (Percutaneous Nephrolithotomy)** | Kidney stone removal via flank puncture.                |
 | **Biopsy (Percutaneous)** | Needle core/aspiration (liver/lung/breast).             |
-| **Drainage**              | [[Abscess]]/[[nephrostomy]]/pigtail pleural.                    |
+| **Drainage**              | [[abscess]]/[[nephrostomy]]/pigtail pleural.                    |
 | **Transdermal**           | Patches/creams (nicotine, fentanyl).[1]           |
 
 ## Coding Context

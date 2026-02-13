@@ -1,10 +1,22 @@
 ---
-tags: [" #medroot"]
-aliases: [orche-, orchi-, orchid-, orchis-]
-roots: [orch-, orche-, orchi-, orchid-, orchis-]
-forms: [combining]
-alphabet:: O
-definition: [testicle]
+tags:
+  - medroot
+aliases:
+  - orche-
+  - orchi-
+  - orchid-
+  - orchis-
+roots:
+  - orch-
+  - orche-
+  - orchi-
+  - orchid-
+  - orchis-
+forms:
+  - combining
+"alphabet:": O
+definition:
+  - testicle
 ---
 >[!Note] DEFINITION of orch-
 >testicle

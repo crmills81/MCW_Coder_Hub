@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [narc-]
-forms: [combining]
-alphabet:: N
-definition: [stupor, numbness]
+roots:
+  - narc-
+forms:
+  - combining
+"alphabet:": N
+definition:
+  - stupor
+  - numbness
 ---
 >[!Note] DEFINITION of narc-
 >stupor, numbness

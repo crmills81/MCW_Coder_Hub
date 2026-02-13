@@ -1,9 +1,12 @@
 ---
-tags: [" #medroot"]
+tags:
 aliases: []
-roots: [root1, root2, root3]
+roots:
+  - root1
+  - root2
+  - root3
 forms: []
-alphabet:: 
+"alphabet:":
 definition: []
 ---
 >[!Note] DEFINITION of {{Title}}

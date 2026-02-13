@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [nyct-]
-forms: [combining]
-alphabet:: N
-definition: [night]
+roots:
+  - nyct-
+forms:
+  - combining
+"alphabet:": N
+definition:
+  - night
 ---
 >[!Note] DEFINITION of nyct-
 >night

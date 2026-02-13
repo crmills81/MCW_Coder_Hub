@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lith-]
-forms: [combining]
-alphabet:: L
-definition: [stone, calculus]
+roots:
+  - lith-
+forms:
+  - combining
+"alphabet:": L
+definition:
+  - stone
+  - calculus
 ---
 >[!Note] DEFINITION of lith-
 >stone, calculus

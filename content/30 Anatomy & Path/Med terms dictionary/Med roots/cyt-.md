@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [cyt-]
-forms: [combining]
-alphabet:: C
-definition: [cell]
+roots:
+  - cyt-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - cell
 ---
 >[!Note] DEFINITION of cyt-
 >cell

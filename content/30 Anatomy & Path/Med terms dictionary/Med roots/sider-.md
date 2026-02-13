@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [sider-]
-forms: [combining]
-alphabet:: S
-definition: [iron]
+roots:
+  - sider-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - iron
 ---
 >[!Note] DEFINITION of sider-
 >iron

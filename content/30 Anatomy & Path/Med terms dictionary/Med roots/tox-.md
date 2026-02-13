@@ -1,5 +1,5 @@
 ---
-tags: [" #medroot"]
+tags: [medroot]
 aliases: [toxi-]
 roots: [tox-, toxi-]
 forms: [combining]

@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [bol-]
-forms: [combining]
-alphabet:: B
-definition: [a throwing, something thrown]
+roots:
+  - bol-
+forms:
+  - combining
+  - prefix
+"alphabet:": B
+definition:
+  - a throwing
+  - something thrown
 ---
 >[!Note] DEFINITION of bol-
 >a throwing; something thrown, slung, cast, chucked

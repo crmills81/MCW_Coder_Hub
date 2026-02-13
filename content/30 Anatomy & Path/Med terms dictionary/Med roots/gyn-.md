@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [gynec-]
-roots: [gyn-, gynec-]
-forms: [combining]
-alphabet:: G
-definition: [woman, female]
+tags:
+  - medroot
+aliases:
+  - gynec-
+roots:
+  - gyn-
+  - gynec-
+forms:
+  - combining
+  - prefix
+"alphabet:": G
+definition:
+  - woman
+  - female
 ---
 >[!Note] DEFINITION of gyn-
 >woman, female

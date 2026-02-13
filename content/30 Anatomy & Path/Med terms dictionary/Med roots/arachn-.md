@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [arachn-]
-forms: [combining]
-alphabet:: A
-definition: [spider, web, arachnoid membrane]
+roots:
+  - arachn-
+forms:
+  - combining
+  - prefix
+"alphabet:": A
+definition:
+  - spider
+  - web
+  - arachnoid membrane
 ---
 >[!Note] DEFINITION of arachn-
 >spider, web, arachnoid membrane

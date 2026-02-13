@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [splanchn-]
-forms: [combining]
-alphabet:: S
-definition: [internal organ, viscus]
+roots:
+  - splanchn-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - internal organ
+  - viscus
 ---
 >[!Note] DEFINITION of splanchn-
 >internal organ, [[viscer-|viscus-]]

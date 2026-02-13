@@ -1,10 +1,19 @@
 ---
-tags: [" #medroot"]
-aliases: [par-]
-roots: [para-, par-]
-forms: [prefix]
-alphabet:: P 
-definition: [alongside, around, abnormal, beyond]
+tags:
+  - medroot
+aliases:
+  - par-
+roots:
+  - para-
+  - par-
+forms:
+  - prefix
+"alphabet:": P
+definition:
+  - alongside
+  - around
+  - abnormal
+  - beyond
 ---
 >[!Note] DEFINITION of para-
 >alongside, around, abnormal, beyond

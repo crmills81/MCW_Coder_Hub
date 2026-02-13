@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lept-]
-forms: [combining]
-alphabet:: L
-definition: [thin, fine, slight]
+roots:
+  - lept-
+forms:
+  - combining
+"alphabet:": L
+definition:
+  - thin
+  - fine
+  - slight
 ---
 >[!Note] DEFINITION of lept-
 >thin, fine, slight

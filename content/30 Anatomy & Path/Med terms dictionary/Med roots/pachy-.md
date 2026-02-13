@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pachy-]
-forms: [combining]
-alphabet:: P
-definition: [thick]
+roots:
+  - pachy-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - thick
 ---
 >[!Note] DEFINITION of pachy-
 >thick

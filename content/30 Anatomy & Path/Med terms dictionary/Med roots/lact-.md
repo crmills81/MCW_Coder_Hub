@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lact-]
-forms: [combining]
-alphabet:: L
-definition: [milk]
+roots:
+  - lact-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - milk
 ---
 >[!Note] DEFINITION of lact-
 >milk

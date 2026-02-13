@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [strept-]
-forms: [combining]
-alphabet:: S
-definition: [streptococci]
+roots:
+  - strept-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - streptococci
 ---
 >[!Note] DEFINITION of strept-
 >[[strept-]]o[[cocc-|-coccus]] (twisted berry bacteria)

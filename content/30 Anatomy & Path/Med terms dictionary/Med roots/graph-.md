@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [graph-]
-forms: [combining]
-alphabet:: G
-definition: [write, record]
+roots:
+  - graph-
+forms:
+  - combining
+  - prefix
+"alphabet:": G
+definition:
+  - write
+  - record
 ---
 >[!Note] DEFINITION of graph-
 >write, record 

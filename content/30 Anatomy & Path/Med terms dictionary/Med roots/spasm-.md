@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [spasm-]
-forms: [combining]
-alphabet:: S
-definition: [spasm, involuntary muscular contraction]
+roots:
+  - spasm-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - spasm
+  - involuntary muscular contraction
 ---
 >[!Note] DEFINITION of spasm-
 >spasm, involuntary muscular contraction

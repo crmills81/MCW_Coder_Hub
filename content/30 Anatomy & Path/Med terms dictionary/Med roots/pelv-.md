@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pelv-]
-forms: [combining]
-alphabet:: P
-definition: [pelvis]
+roots:
+  - pelv-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - pelvis
 ---
 >[!Note] DEFINITION of pelv-
 >pelvis

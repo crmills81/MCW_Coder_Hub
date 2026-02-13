@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medterm "
   - specialty/urology
   - medterm
 aliases:
@@ -12,6 +11,7 @@ roots:
 "definition:": Inflammation of kidney caused by E. coli
 forms:
   - noun
+  - combining
 "alphabet:": C
 ---
 >[!note]+ Definition of [[colinephritis]]

@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [suf-, sup-]
-roots: [sub-, suf-, sup-]
-forms: [prefix]
-alphabet:: S
-definition: [under]
+tags:
+  - medroot
+aliases:
+  - suf-
+  - sup-
+roots:
+  - sub-
+  - suf-
+  - sup-
+forms:
+  - prefix
+"alphabet:": S
+definition:
+  - under
 ---
 >[!Note] DEFINITION of sub-
 >under

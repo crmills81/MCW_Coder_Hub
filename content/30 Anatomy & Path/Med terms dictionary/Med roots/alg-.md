@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [alg-]
-forms: [combining]
-alphabet:: A
-definition: [pain]
+roots:
+  - alg-
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - pain
 ---
 >[!Note] DEFINITION of alg-
 >pain 

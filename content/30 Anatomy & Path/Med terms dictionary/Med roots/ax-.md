@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [axon-]
-roots: [ax-, axon-]
-forms: [combining]
-alphabet:: A
-definition: [axis, axon]
+tags:
+  - medroot
+aliases:
+  - axon-
+roots:
+  - ax-
+  - axon-
+forms:
+  - combining
+  - prefix
+"alphabet:": A
+definition:
+  - axis
+  - axon
 ---
 >[!Note] DEFINITION of ax-
 >axis, axon

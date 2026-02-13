@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [sten-]
-forms: [combining]
-alphabet:: S
-definition: [narrow]
+roots:
+  - sten-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - narrow
 ---
 >[!Note] DEFINITION of sten-
 >narrow

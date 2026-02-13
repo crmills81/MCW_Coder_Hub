@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [laps-]
-forms: [combining]
-alphabet:: L
-definition: [slide, slip]
+roots:
+  - laps-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - slide
+  - slip
 ---
 >[!Note] DEFINITION of laps-
 >slide, slip

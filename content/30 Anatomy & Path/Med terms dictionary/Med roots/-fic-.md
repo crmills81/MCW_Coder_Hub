@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [-fic-]
-forms: [combining]
-alphabet:: F
-definition: [make]
+roots:
+  - -fic-
+forms:
+  - combining
+"alphabet:": F
+definition:
+  - make
 ---
 >[!Note] DEFINITION of -fic-
 >make

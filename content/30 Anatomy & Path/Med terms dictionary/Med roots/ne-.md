@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [ne-]
-forms: [combining]
-alphabet:: N
-definition: [new]
+roots:
+  - ne-
+forms:
+  - combining
+"alphabet:": N
+definition:
+  - new
 ---
 >[!Note] DEFINITION of ne-
 >new

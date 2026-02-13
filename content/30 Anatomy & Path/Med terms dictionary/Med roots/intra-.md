@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [intro-]
-forms: [prefix]
-roots: [intra-, intro-]
-alphabet:: I
-definition: [within]
+tags:
+  - medroot
+aliases:
+  - intro-
+forms:
+  - prefix
+roots:
+  - intra-
+  - intro-
+"alphabet:": I
+definition:
+  - within
 ---
 >[!Note] DEFINITION of intra-
 >within

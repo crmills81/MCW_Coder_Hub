@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [pept-]
-roots: [peps-, pept-]
-forms: [combining]
-alphabet:: P
-definition: [digest]
+tags:
+  - medroot
+aliases:
+  - pept-
+roots:
+  - peps-
+  - pept-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - digest
 ---
 >[!Note] DEFINITION of peps-
 >digest

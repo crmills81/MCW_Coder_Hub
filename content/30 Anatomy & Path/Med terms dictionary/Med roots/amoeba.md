@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
+  - medterm
 aliases: []
-roots: [amoeba]
-forms: [combining]
-alphabet:: A
-definition: [amoeba]
+roots:
+  - amoeba
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - amoeba
 ---
 >[!Note] DEFINITION of amoeba
 >amoeba

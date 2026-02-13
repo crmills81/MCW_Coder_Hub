@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [asperg-]
-forms: [combining]
-alphabet:: A
-definition: [sprinkle]
+roots:
+  - asperg-
+forms:
+  - combining
+  - prefixes
+  - prefix
+"alphabet:": A
+definition:
+  - sprinkle
 ---
 >[!Note] DEFINITION of asperg-
 >sprinkle

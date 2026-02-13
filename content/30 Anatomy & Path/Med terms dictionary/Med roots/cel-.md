@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [celi-]
-roots: [cel-, celi-]
-forms: [combining]
-alphabet:: C
-definition: [abdomen]
+tags:
+  - medroot
+aliases:
+  - celi-
+roots:
+  - cel-
+  - celi-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - abdomen
 ---
 >[!Note] DEFINITION of cel-
 >abdomen

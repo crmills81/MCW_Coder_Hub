@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [onych-]
-forms: [combining]
-alphabet:: O
-definition: [fingernail, toenail]
+roots:
+  - onych-
+forms:
+  - combining
+"alphabet:": O
+definition:
+  - fingernail
+  - toenail
 ---
 >[!Note] DEFINITION of onych-
 >fingernail, toenail

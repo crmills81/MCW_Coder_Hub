@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [cholecyst-, chol-]
-forms: []
-alphabet:: 
-definition: [gallbladder]
+roots:
+  - cholecyst-
+  - chol-
+forms:
+  - prefix
+  - suffix
+  - combining
+"alphabet:":
+definition:
+  - gallbladder
 ---
 >[!Note] DEFINITION of cholecyst-
 >[[chol-]][[-e]]-[[cyst-]] - gallbladder (gall/bile bladder)

@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [iatr-]
-forms: [combining]
-alphabet:: I
-definition: [healer, physician, treatment]
+roots:
+  - iatr-
+forms:
+  - combining
+  - prefix
+"alphabet:": I
+definition:
+  - healer
+  - physician
+  - treatment
 ---
 >[!Note] DEFINITION of iatr-
 >1. healer, physician

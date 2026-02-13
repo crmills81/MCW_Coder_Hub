@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [phylac-]
-forms: [combining]
-alphabet:: P
-definition: [protection]
+roots:
+  - phylac-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - protection
 ---
 >[!Note] DEFINITION of phylac-
 >protection (against disease)

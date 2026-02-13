@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [dis-]
-forms: [prefix]
-roots: [di-, dis_-]
-alphabet:: D
-definition: [two, twice, double]
+tags:
+  - medroot
+aliases:
+  - dis-
+forms:
+  - prefix
+roots:
+  - di-
+  - dis_-
+"alphabet:": D
+definition:
+  - two
+  - twice
+  - double
 ---
 >[!Note] DEFINITION of di-
 >two, twice, double

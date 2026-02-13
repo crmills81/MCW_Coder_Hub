@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [ep-]
-forms: [prefix]
-roots: [epi-, ep-]
-alphabet:: E
-definition: [upon, over, above]
+tags:
+  - medroot
+aliases:
+  - ep-
+forms:
+  - prefix
+roots:
+  - epi-
+  - ep-
+"alphabet:": E
+definition:
+  - upon
+  - over
+  - above
 ---
 >[!Note] DEFINITION of epi-
 >Definition

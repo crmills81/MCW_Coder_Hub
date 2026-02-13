@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lei-]
-forms: [combining]
-alphabet:: L
-definition: [smooth]
+roots:
+  - lei-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - smooth
 ---
 >[!Note] DEFINITION of lei-
 >smooth

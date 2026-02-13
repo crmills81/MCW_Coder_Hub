@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lectul-]
-forms: [combining]
-alphabet:: L
-definition: [couch, bed]
+roots:
+  - lectul-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - couch
+  - bed
 ---
 >[!Note] DEFINITION of lectul-
 >couch, bed

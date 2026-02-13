@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [stat]
-roots: [statim]
-forms: [compound suffix form]
-alphabet:: S
-definition: [immediately, at once]
+tags:
+  - medroot
+aliases:
+  - stat
+roots:
+  - statim
+forms:
+  - compound suffix form
+"alphabet:": S
+definition:
+  - immediately
+  - at once
 ---
 >[!Note] DEFINITION of statim
 >immediately, at once

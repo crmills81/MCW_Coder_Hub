@@ -1,10 +1,21 @@
 ---
-tags: [" #medroot"]
-aliases: [il(very)-, im(very)-, ir(very)-]
-forms: [prefix]
-roots: [in(very)-, il(very)-, im(very)-, ir(very)-]
-alphabet:: I
-definition: [very, thorough]
+tags:
+  - medroot
+aliases:
+  - il(very)-
+  - im(very)-
+  - ir(very)-
+forms:
+  - prefix
+roots:
+  - in(very)-
+  - il(very)-
+  - im(very)-
+  - ir(very)-
+"alphabet:": I
+definition:
+  - very
+  - thorough
 ---
 >[!Note] DEFINITION of in(very)-
 >very, thorough

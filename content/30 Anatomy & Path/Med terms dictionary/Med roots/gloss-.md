@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [gloss-, glot-]
-forms: [combining]
-alphabet:: G
-definition: [tongue]
+roots:
+  - gloss-
+  - glot-
+forms:
+  - combining
+  - prefix
+"alphabet:": G
+definition:
+  - tongue
 ---
 >[!Note] DEFINITION of gloss-
 >tongue

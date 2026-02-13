@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pt-]
-forms: [combining]
-alphabet:: P
-definition: [fall, sag, drop, prolapse]
+roots:
+  - pt-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - fall
+  - sag
+  - drop
+  - prolapse
 ---
 >[!Note] DEFINITION of pt-
 >fall, sag, drop, prolapse

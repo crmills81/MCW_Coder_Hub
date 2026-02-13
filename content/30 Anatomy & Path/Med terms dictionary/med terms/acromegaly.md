@@ -7,6 +7,10 @@ roots:
   - mega-
   - -y
 "definition:": abnormal enlargement of hands, feet, jaw, and/or other extrmities
+"alphabet:": A
+forms:
+  - combining
+  - noun
 ---
 >[!note]+ Definition of acromegaly
 >[[acr-]]o-[[mega-|megal-]][[-y]] - abnormal enlargement of hands, feet, jaw, and/or other extremities, often due to too much GH ( condition of enlarged extremities)

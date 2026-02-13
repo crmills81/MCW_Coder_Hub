@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [phras-]
-forms: [combining]
-alphabet:: P
-definition: [speak]
+roots:
+  - phras-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - speak
 ---
 >[!Note] DEFINITION of phras-
 >speak

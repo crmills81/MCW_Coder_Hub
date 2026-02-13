@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [prot-]
-forms: [combining]
-alphabet:: P
-definition: [first, primitive, early]
+roots:
+  - prot-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - first
+  - primitive
+  - early
 ---
 >[!Note] DEFINITION of prot-
 >first, primitive, early

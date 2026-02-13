@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [prosth-]
-roots: [pros-, prosth-]
-forms: [prefix]
-alphabet:: P
-definition: [in place of]
+tags:
+  - medroot
+aliases:
+  - prosth-
+roots:
+  - pros-
+  - prosth-
+forms:
+  - prefix
+"alphabet:": P
+definition:
+  - in place of
 ---
 >[!Note] DEFINITION of pros-
 >in place of 

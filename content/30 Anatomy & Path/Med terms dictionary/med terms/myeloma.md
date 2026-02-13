@@ -1,8 +1,15 @@
 ---
-tags: [" #medterm "]
+tags:
+  - medterm
 aliases: []
-roots: [myel-, -oma]
-definition:: tumor originating in the bone marrow
+roots:
+  - myel-
+  - -oma
+"definition:": tumor originating in the bone marrow
+"alphabet:": M
+forms:
+  - noun
+  - combining
 ---
 >[!note]+ Definition of myeloma
 >[[myel-]][[30 Anatomy & Path/Med terms dictionary/Med roots/-oma]] - tumor originating in the bone marrow (bone marrow tumor)

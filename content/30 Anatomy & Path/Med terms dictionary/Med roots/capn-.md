@@ -1,10 +1,13 @@
 ---
-tags: [" #medroot"]
+tags:
 aliases: []
-roots: [capn-]
-forms: [combining]
-alphabet:: C
-definition: [carbon dioxide]
+roots:
+  - capn-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - carbon dioxide
 ---
 >[!Note] DEFINITION of capn-
 >carbon dioxide

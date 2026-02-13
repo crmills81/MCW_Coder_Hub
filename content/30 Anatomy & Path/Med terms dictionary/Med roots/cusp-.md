@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [-cuspid]
-roots: [cusp-, -cuspid]
-forms: [combining]
-alphabet:: C
-definition: [point]
+tags:
+  - medroot
+aliases:
+  - -cuspid
+roots:
+  - cusp-
+  - -cuspid
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - point
 ---
 >[!Note] DEFINITION of cusp-
 >point

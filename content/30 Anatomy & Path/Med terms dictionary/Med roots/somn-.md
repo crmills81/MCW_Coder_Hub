@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [somn-]
-forms: [combining]
-alphabet:: S
-definition: [sleep]
+roots:
+  - somn-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - sleep
 ---
 >[!Note] DEFINITION of somn-
 >sleep

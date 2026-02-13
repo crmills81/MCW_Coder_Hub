@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [-arche]
-roots: [arche-, -arche]
-forms: [combining]
-alphabet:: A
-definition: [beginning, origin]
+tags:
+  - medroot
+aliases:
+  - -arche
+roots:
+  - arche-
+  - -arche
+forms:
+  - combining
+  - prefix
+"alphabet:": A
+definition:
+  - beginning
+  - origin
 ---
 >[!Note] DEFINITION of arche-
 >beginning, origin

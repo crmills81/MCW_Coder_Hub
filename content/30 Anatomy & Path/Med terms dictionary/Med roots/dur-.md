@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [dur-]
-forms: [combining]
-alphabet:: D
-definition: [hard]
+roots:
+  - dur-
+forms:
+  - combining
+"alphabet:": D
+definition:
+  - hard
 ---
 >[!Note] DEFINITION of dur-
 >hard

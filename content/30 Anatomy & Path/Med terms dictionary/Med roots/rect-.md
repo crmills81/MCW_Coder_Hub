@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [rect-]
-forms: [combining]
-alphabet:: R
-definition: [rectum]
+roots:
+  - rect-
+forms:
+  - combining
+"alphabet:": R
+definition:
+  - rectum
 ---
 >[!Note] DEFINITION of rect-
 >rectum

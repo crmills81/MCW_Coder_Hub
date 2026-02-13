@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [mne-]
-forms: [combining]
-alphabet:: M
-definition: [remember]
+roots:
+  - mne-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - remember
 ---
 >[!Note] DEFINITION of mne-
 >remember

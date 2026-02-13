@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pyr-]
-forms: [combining]
-alphabet:: P
-definition: [fever, burning]
+roots:
+  - pyr-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - fever
+  - burning
 ---
 >[!Note] DEFINITION of pyr-
 >fever, burning

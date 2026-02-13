@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [sep-]
-forms: [combining]
-alphabet:: S
-definition: [be infected]
+roots:
+  - sep-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - be infected
 ---
 >[!Note] DEFINITION of sep-
 >be infected

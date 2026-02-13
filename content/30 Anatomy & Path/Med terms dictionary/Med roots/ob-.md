@@ -1,10 +1,19 @@
 ---
-tags: [" #medroot"]
-aliases: [oc-, op-]
-roots: [ob-]
-forms: [prefix]
-alphabet:: O
-definition: [against, toward, very, thoroughly]
+tags:
+  - medroot
+aliases:
+  - oc-
+  - op-
+roots:
+  - ob-
+forms:
+  - prefix
+"alphabet:": O
+definition:
+  - against
+  - toward
+  - very
+  - thoroughly
 ---
 >[!Note] DEFINITION of ob-
 >against, toward, very, thoroughly

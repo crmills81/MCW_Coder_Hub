@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lingu-]
-forms: [combining]
-alphabet:: L
-definition: [tongue]
+roots:
+  - lingu-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - tongue
 ---
 >[!Note] DEFINITION of lingu-
 >tongue

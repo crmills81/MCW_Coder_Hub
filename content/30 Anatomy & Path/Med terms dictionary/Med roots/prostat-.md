@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [prostat-]
-forms: [combining]
-alphabet:: P
-definition: [prostate gland]
+roots:
+  - prostat-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - prostate gland
 ---
 >[!Note] DEFINITION of prostat-
 >prostate gland

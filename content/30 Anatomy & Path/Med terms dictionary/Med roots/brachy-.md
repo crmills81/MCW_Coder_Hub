@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [brachy-]
-forms: [combining]
-alphabet:: B
-definition: [short]
+roots:
+  - brachy-
+forms:
+  - combining
+  - prefix
+"alphabet:": B
+definition:
+  - short
 ---
 >[!Note] DEFINITION of brachy-
 >short

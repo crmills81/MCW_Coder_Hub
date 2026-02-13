@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [helc-]
-forms: [combining]
-alphabet:: H
-definition: [ulcer]
+roots:
+  - helc-
+forms:
+  - combining
+  - prefix
+"alphabet:": H
+definition:
+  - ulcer
 ---
 >[!Note] DEFINITION of helc-
 >ulcer

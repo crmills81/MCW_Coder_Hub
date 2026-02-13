@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-forms: [prefix]
-roots: [ana-]
-alphabet:: A
-definition: [up, back, against]
+forms:
+  - prefix
+roots:
+  - ana-
+"alphabet:": A
+definition:
+  - up
+  - back
+  - against
 ---
 >[!Note] DEFINITION of ana-
 >1. Up

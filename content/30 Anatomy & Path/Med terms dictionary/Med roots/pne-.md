@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pne-]
-forms: [combining]
-alphabet:: P
-definition: [breathe]
+roots:
+  - pne-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - breathe
 ---
 >[!Note] DEFINITION of pne-
 >breathe

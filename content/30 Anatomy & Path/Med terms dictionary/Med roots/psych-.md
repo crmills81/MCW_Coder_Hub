@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [psych-]
-forms: [combining]
-alphabet:: P
-definition: [mind]
+roots:
+  - psych-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - mind
 ---
 >[!Note] DEFINITION of psych-
 >mind

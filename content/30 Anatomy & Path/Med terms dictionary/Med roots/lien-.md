@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lien-]
-forms: [combining]
-alphabet:: L
-definition: [spleen]
+roots:
+  - lien-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - spleen
 ---
 >[!Note] DEFINITION of lien-
 >spleen

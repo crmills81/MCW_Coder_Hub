@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [intern-]
-forms: [combining]
-alphabet:: I
-definition: [inner]
+roots:
+  - intern-
+forms:
+  - combining
+  - prefix
+"alphabet:": I
+definition:
+  - inner
 ---
 >[!Note] DEFINITION of intern-
 >inner

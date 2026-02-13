@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [paresis]
-forms: [combining]
-alphabet:: P
-definition: [slackening of strength, paralysis]
+roots:
+  - paresis
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - slackening of strength
+  - paralysis
 ---
 >[!Note] DEFINITION of paresis
 >slackening of strength, paralysis

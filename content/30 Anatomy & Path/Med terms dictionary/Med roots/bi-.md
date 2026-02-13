@@ -1,10 +1,21 @@
 ---
-tags: [" #medroot"]
-aliases: [bis-, bin-]
-forms: [prefix]
-roots: [bi-, bis-, bin-]
-alphabet:: B
-definition: [two, twice, double, both]
+tags:
+  - medroot
+aliases:
+  - bis-
+  - bin-
+forms:
+  - prefix
+roots:
+  - bi-
+  - bis-
+  - bin-
+"alphabet:": B
+definition:
+  - two
+  - twice
+  - double
+  - both
 ---
 >[!Note] DEFINITION of bi-
 >two, twice, double, both

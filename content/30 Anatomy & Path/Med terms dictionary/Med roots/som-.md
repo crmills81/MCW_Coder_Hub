@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [-soma, somat-]
-roots: [som-, -soma, somat-]
-forms: [combining]
-alphabet:: S
-definition: [body]
+tags:
+  - medroot
+aliases:
+  - -soma
+  - somat-
+roots:
+  - som-
+  - -soma
+  - somat-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - body
 ---
 >[!Note] DEFINITION of som-
 >body

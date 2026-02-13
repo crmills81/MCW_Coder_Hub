@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [hepat-]
-roots: [hepar-, hepat-]
-forms: [combining]
-alphabet:: H
-definition: [liver]
+tags:
+  - medroot
+aliases:
+  - hepat-
+roots:
+  - hepar-
+  - hepat-
+forms:
+  - combining
+  - prefix
+"alphabet:": H
+definition:
+  - liver
 ---
 >[!Note] DEFINITION of hepar-
 >liver

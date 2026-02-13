@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [extro-]
-forms: [prefix]
-roots: [extra-, extro-]
-alphabet:: E
-definition: [on the outside, beyond]
+tags:
+  - medroot
+aliases:
+  - extro-
+forms:
+  - prefix
+roots:
+  - extra-
+  - extro-
+"alphabet:": E
+definition:
+  - on the outside
+  - beyond
 ---
 >[!Note] DEFINITION of extra-
 >on the outside, beyond

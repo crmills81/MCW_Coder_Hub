@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [scrot-]
-forms: [combining]
-alphabet:: S
-definition: [scrotum]
+roots:
+  - scrot-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - scrotum
 ---
 >[!Note] DEFINITION of scrot-
 >scrotum

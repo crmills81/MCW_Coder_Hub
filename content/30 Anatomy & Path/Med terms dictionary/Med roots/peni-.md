@@ -1,27 +1,34 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [glaucus]
-forms: [combining]
-alphabet:: G
-definition: [bluish-gray]
+roots:
+  - pen_-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - penis
 ---
->[!Note] DEFINITION of glaucus
->bluish-gray
+>[!Note] DEFINITION of pen_-
+>penis
 _____
->[!info]+ ETYMOLOGY of glaucus
->#greek glaukos
+>[!info]+ ETYMOLOGY of pen_-
+>#latin penis (tail)
 _____
->[!example]+ RELATED TERMS to glaucus
+>[!example]+ RELATED TERMS to pen_-
 >
+>| [[peni-]]  | penis |
+|:----------:| ----- |
+| [[phall-]] |    YES   |
 _____
->[!tip]+ DERIVATIONS of glaucus
+>[!tip]+ DERIVATIONS of pen_-
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
 >SORT file.name ASC
 >```
-____
+___
 >[!faq]- Query
 >```dataview
 >TABLE definition AS Definition

@@ -1,8 +1,15 @@
 ---
-tags: [" #medterm "]
+tags:
+  - medterm
 aliases: []
-roots: [rheumat-, -ism]
-definition:: chronic pain affecting joints and connective tissue
+roots:
+  - rheumat-
+  - -ism
+"definition:": chronic pain affecting joints and connective tissue
+"alphabet:": R
+forms:
+  - combining
+  - noun
 ---
 >[!note]+ Definition of rheumatism
 >[[rhe-|rheumat-]][[-ism]] - chronic pain affecting joints and connective tissue

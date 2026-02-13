@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-forms: [prefix]
-roots: [hyper-]
-alphabet:: H
-definition: [over, above, excessive, beyond normal]
+forms:
+  - prefix
+roots:
+  - hyper-
+"alphabet:": H
+definition:
+  - over
+  - above
+  - excessive
+  - beyond normal
 ---
 >[!Note] DEFINITION of hyper-
 >over, above, excessive, beyond normal

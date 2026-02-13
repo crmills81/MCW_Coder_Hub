@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
-aliases: [chil-]
-roots: [cheil-, chil-]
-forms: [combining]
-alphabet:: C
-definition: [lip]
+tags:
+aliases:
+  - chil-
+roots:
+  - cheil-
+  - chil-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - lip
 ---
 >[!Note] DEFINITION of cheil-
 >hair

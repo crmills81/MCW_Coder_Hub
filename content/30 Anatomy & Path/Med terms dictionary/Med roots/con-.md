@@ -1,10 +1,24 @@
 ---
-tags: [" #medroot"]
-aliases: [co-, col-, com-, cor-]
-forms: [prefix]
-roots: [con-, co-, col-, com-, cor-]
-alphabet:: C
-definition: [together, with, thoroughly, very]
+tags:
+aliases:
+  - co-
+  - col-
+  - com-
+  - cor-
+forms:
+  - prefix
+roots:
+  - con-
+  - co-
+  - col-
+  - com-
+  - cor-
+"alphabet:": C
+definition:
+  - together
+  - with
+  - thoroughly
+  - very
 ---
 >[!Note] DEFINITION of con-
 >1. together, with

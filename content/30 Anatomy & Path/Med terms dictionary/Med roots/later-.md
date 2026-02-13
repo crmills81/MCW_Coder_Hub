@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [later-]
-forms: [combining]
-alphabet:: L
-definition: [side]
+roots:
+  - later-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - side
 ---
 >[!Note] DEFINITION of later-
 >side

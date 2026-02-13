@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lip-]
-forms: [combining]
-alphabet:: L
-definition: [fat]
+roots:
+  - lip-
+forms:
+  - combining
+"alphabet:": L
+definition:
+  - fat
 ---
 >[!Note] DEFINITION of lip-
 >fat

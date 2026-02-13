@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [mycet-]
-roots: [myc-, mycet-]
-forms: [combining]
-alphabet:: M
-definition: [fungus]
+tags:
+  - medroot
+aliases:
+  - mycet-
+roots:
+  - myc-
+  - mycet-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - fungus
 ---
 >[!Note] DEFINITION of myc-
 >fungus

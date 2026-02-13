@@ -73,7 +73,7 @@ last_updated: 2026-02-10
 - **[[Pneumonia]]** (lung infection) - most common source
 - **[[Urinary tract infections (UTI)]]** - especially [[pyelonephritis]]
 - **Intra-abdominal infections** - appendicitis, diverticulitis, peritonitis
-- **Skin/soft tissue infections** - [[cellulitis]], abscesses, wounds
+- **Skin/soft tissue infections** - [[Cellulitis]], abscesses, wounds
 - **Bloodstream infections** - central line infections, [[bacteremia]]
 - **[[Meningitis]]** - CNS infections
 

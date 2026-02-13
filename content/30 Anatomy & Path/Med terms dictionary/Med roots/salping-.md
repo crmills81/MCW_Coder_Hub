@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [-salpingx]
-roots: [salping-, -salpinx]
-forms: [combining]
-alphabet:: S
-definition: [fallopian tube]
+tags:
+  - medroot
+aliases:
+  - -salpingx
+roots:
+  - salping-
+  - -salpinx
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - fallopian tube
 ---
 >[!Note] DEFINITION of salping-
 >fallopian tube

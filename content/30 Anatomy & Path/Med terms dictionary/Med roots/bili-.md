@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [bili-]
-forms: [combining]
-alphabet:: B
-definition: [bile]
+roots:
+  - bili-
+forms:
+  - combining
+  - prefix
+"alphabet:": B
+definition:
+  - bile
 ---
 >[!Note] DEFINITION of bili-
 >bile

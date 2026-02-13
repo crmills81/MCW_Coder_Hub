@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [lys-]
-roots: [ly-, lys-]
-forms: [combining]
-alphabet:: L
-definition: [break down, destroy]
+tags:
+  - medroot
+aliases:
+  - lys-
+roots:
+  - ly-
+  - lys-
+forms:
+  - combining
+"alphabet:": L
+definition:
+  - break down
+  - destroy
 ---
 >[!Note] DEFINITION of ly-
 >break down, destroy

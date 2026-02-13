@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [retin-]
-roots: [ret-, retin-]
-forms: [combining]
-alphabet:: R
-definition: [retina, network, plexus]
+tags:
+  - medroot
+aliases:
+  - retin-
+roots:
+  - ret-
+  - retin-
+forms:
+  - combining
+"alphabet:": R
+definition:
+  - retina
+  - network
+  - plexus
 ---
 >[!Note] DEFINITION of ret-
 >1. retina

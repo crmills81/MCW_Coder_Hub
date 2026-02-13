@@ -1,22 +1,25 @@
 ---
-tags: [" #medroot"]
+tags:
 aliases: []
-roots: [ather-]
-forms: [combining]
-alphabet:: A
-definition: [fatty deposit]
+roots:
+  - ather-
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - fatty deposit
 ---
->[!Note] DEFINITION of ather-
+>[!Note] DEFINITION of [[ather-]]
 >fatty deposit
->*see also: [[adip-]], [[lip-]], [[stear-]] (fat)*
+> *see also: [[adip-]], [[lip-]], [[stear-]] (fat)*
 _____
->[!info]+ ETYMOLOGY of ather-
+>[!info]+ ETYMOLOGY of [[ather-]]
 >#greek athere (soup)
 _____
->[!example]+ RELATED TERMS to ather-
+>[!example]+ RELATED TERMS to [[ather-]]
 >
 _____
->[!tip]+ DERIVATIONS of ather-
+>[!tip]- DERIVATIONS of [[ather-]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -29,5 +32,3 @@ _____
 >FROM #medroot
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
-
-[[Med roots dictionary]]

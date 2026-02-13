@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [mast-]
-forms: [combining]
-alphabet:: M
-definition: [breast]
+roots:
+  - mast-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - breast
 ---
 >[!Note] DEFINITION of mast-
 >breast

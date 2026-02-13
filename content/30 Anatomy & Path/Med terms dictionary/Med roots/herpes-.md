@@ -1,24 +1,30 @@
 ---
-tags: [" #medroot"]
-aliases: []
-roots: [pen_-]
-forms: [combining]
-alphabet:: P
-definition: [penis]
+tags:
+  - medroot
+  - medterm
+aliases:
+  - herpet-
+roots:
+  - herpes
+  - herpet-
+forms:
+  - combining
+  - prefix
+"alphabet:": H
+definition:
+  - herpes
+  - a creeping skin disease
 ---
->[!Note] DEFINITION of pen_-
->penis
+>[!Note] DEFINITION of herpes
+>herpes, a creeping skin disease
 _____
->[!info]+ ETYMOLOGY of pen_-
->#latin penis (tail)
+>[!info]+ ETYMOLOGY of herpes
+>#greek herpes, herpetos (shingles)
 _____
->[!example]+ RELATED TERMS to pen_-
+>[!example]+ RELATED TERMS to herpes
 >
->| [[pen_-]]  | penis |
-|:----------:| ----- |
-| [[phall-]] |    YES   |
 _____
->[!tip]+ DERIVATIONS of pen_-
+>[!tip]+ DERIVATIONS of herpes
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

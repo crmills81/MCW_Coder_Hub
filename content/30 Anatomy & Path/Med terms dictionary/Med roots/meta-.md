@@ -1,10 +1,19 @@
 ---
-tags: [" #medroot"]
-aliases: [met-]
-forms: [prefix]
-roots: [meta-, met-]
-alphabet:: M
-definition: [change, transformation, after, behind]
+tags:
+  - medroot
+aliases:
+  - met-
+forms:
+  - prefix
+roots:
+  - meta-
+  - met-
+"alphabet:": M
+definition:
+  - change
+  - transformation
+  - after
+  - behind
 ---
 >[!Note] DEFINITION of meta-
 >change, transformation, after, behind

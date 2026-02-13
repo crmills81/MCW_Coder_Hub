@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [encephal-]
-forms: [combining]
-alphabet:: E
-definition: [brain]
+roots:
+  - encephal-
+forms:
+  - combining
+"alphabet:": E
+definition:
+  - brain
 ---
 >[!Note] DEFINITION of encephal-
 >[[en-]][[cephal-]] - brain (in head)

@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [chole-]
-roots: [chol-, chole-]
-forms: [combining]
-alphabet:: C
-definition: [bile, gall]
+tags:
+aliases:
+  - chole-
+roots:
+  - chol-
+  - chole-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - bile
+  - gall
 ---
 >[!Note] DEFINITION of chol-
 >bile, gall

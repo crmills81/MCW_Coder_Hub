@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [sanguin-]
-roots: [sangui-, sanguin-]
-forms: [combining]
-alphabet:: S
-definition: [blood]
+tags:
+  - medroot
+aliases:
+  - sanguin-
+roots:
+  - sangui-
+  - sanguin-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - blood
 ---
 >[!Note] DEFINITION of sangui-
 >blood

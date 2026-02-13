@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [macr-]
-forms: [combining]
-alphabet:: M
-definition: [large, long]
+roots:
+  - macr-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - large
+  - long
 ---
 >[!Note] DEFINITION of macr-
 >(abnormally) large or long

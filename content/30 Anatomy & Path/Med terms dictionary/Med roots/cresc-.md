@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [-cret-]
-roots: [cresc-, -cret-]
-forms: [combining]
-alphabet:: C
-definition: [grow]
+tags:
+  - medroot
+aliases:
+  - -cret-
+roots:
+  - cresc-
+  - -cret-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - grow
 ---
 >[!Note] DEFINITION of cresc-
 >(begin to) grow

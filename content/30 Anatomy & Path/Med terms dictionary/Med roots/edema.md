@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
-aliases: [edemat-]
-roots: [edema, edemat-]
-forms: [combining]
-alphabet:: E
-definition: [swelling]
+tags:
+aliases:
+  - edemat-
+roots:
+  - edema
+  - edemat-
+forms:
+  - combining
+"alphabet:": E
+definition:
+  - swelling
 ---
 >[!Note] DEFINITION of edema
 >swelling (often due to fluid accumlation in tissue)

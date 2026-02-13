@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [elc-]
-forms: [combining]
-alphabet:: E
-definition: [ulcer]
+roots:
+  - elc-
+forms:
+  - combining
+"alphabet:": E
+definition:
+  - ulcer
 ---
 >[!Note] DEFINITION of elc-
 >ulcer

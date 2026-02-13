@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [helminth-]
-roots: [helmint-, helminth-]
-forms: [combining]
-alphabet:: H
-definition: [worm]
+tags:
+  - medroot
+aliases:
+  - helminth-
+roots:
+  - helmint-
+  - helminth-
+forms:
+  - combining
+  - prefix
+"alphabet:": H
+definition:
+  - worm
 ---
 >[!Note] DEFINITION of helmint-
 >(intestinal) worm

@@ -106,7 +106,7 @@ _____
 **Indications:**  
 - **Urinary:** [[Retention]], [[incontinence]], post‑op monitoring, neurogenic bladder.[2]
 - **Vascular:** Fluids/meds, TPN, chemotherapy, hemodynamics.  
-- **Drainage:** [[Abscess]], pleural effusion.  
+- **Drainage:** [[abscess]], pleural effusion.  
 - **Interventional:** [[Angioplasty]], embolization, embryo transfer (IVF).[1]
 
 **Care/Prevention:**  

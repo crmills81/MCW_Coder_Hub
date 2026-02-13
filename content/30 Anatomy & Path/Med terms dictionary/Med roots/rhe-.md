@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [rheumat-]
-roots: [rhe-, rheumat-]
-forms: [combining]
-alphabet:: R
-definition: [flow, secrete]
+tags:
+  - medroot
+aliases:
+  - rheumat-
+roots:
+  - rhe-
+  - rheumat-
+forms:
+  - combining
+"alphabet:": R
+definition:
+  - flow
+  - secrete
 ---
 >[!Note] DEFINITION of rhe-
 >flow, secrete

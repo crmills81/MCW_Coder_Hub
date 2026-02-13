@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [diplo-]
-forms: [combining]
-alphabet:: D
-definition: [double, twin]
+roots:
+  - diplo-
+forms:
+  - combining
+  - prefix
+"alphabet:": D
+definition:
+  - double
+  - twin
 ---
 >[!Note] DEFINITION of diplo-
 >double, twin

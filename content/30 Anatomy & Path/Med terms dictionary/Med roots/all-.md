@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [all-]
-forms: [combining]
-alphabet:: A
-definition: [other, divergence, difference from]
+roots:
+  - all-
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - other
+  - divergence
+  - difference from
 ---
 >[!Note] DEFINITION of all-
 >other, divergence, difference from

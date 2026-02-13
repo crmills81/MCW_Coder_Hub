@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [osphr-]
-forms: [combining]
-alphabet:: O
-definition: [sense of smell]
+roots:
+  - osphr-
+forms:
+  - combining
+"alphabet:": O
+definition:
+  - sense of smell
 ---
 >[!Note] DEFINITION of osphr-
 >sense of smell

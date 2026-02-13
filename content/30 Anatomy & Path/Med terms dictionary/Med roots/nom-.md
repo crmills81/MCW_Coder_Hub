@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [nom-]
-forms: [combining]
-alphabet:: N
-definition: [law]
+roots:
+  - nom-
+forms:
+  - combining
+"alphabet:": N
+definition:
+  - law
 ---
 >[!Note] DEFINITION of nom-
 >law

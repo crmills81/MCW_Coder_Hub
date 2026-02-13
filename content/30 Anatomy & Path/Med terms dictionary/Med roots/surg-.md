@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medroot"
   - latin
   - medterm
   - expert

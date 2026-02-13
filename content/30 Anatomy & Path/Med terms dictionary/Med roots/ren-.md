@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [ren-]
-forms: [combining]
-alphabet:: R
-definition: [kidney]
+roots:
+  - ren-
+forms:
+  - combining
+"alphabet:": R
+definition:
+  - kidney
 ---
 >[!Note] DEFINITION of ren-
 >kidney

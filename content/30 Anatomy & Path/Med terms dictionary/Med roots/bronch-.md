@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [bronchi-]
-roots: [bronch-, bronchi-]
-forms: [combining]
-alphabet:: B
-definition: [bronchus]
+tags:
+  - medroot
+aliases:
+  - bronchi-
+roots:
+  - bronch-
+  - bronchi-
+forms:
+  - combining
+  - prefix
+"alphabet:": B
+definition:
+  - bronchus
 ---
 >[!Note] DEFINITION of bronch-
 >bronchus

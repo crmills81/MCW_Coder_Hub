@@ -1,5 +1,5 @@
 ---
-tags: [" #medroot"]
+tags: [medroot]
 aliases: [varic-]
 roots: [varix, varic-]
 forms: [combining]

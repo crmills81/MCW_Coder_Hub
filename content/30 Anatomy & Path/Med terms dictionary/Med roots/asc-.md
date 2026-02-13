@@ -1,10 +1,19 @@
 ---
-tags: [" #medroot"]
-aliases: [ascit-]
-roots: [asc-, ascit-]
-forms: [combining]
-alphabet:: A
-definition: [sac, bag, bladder]
+tags:
+  - medroot
+aliases:
+  - ascit-
+roots:
+  - asc-
+  - ascit-
+forms:
+  - combining
+  - prefix
+"alphabet:": A
+definition:
+  - sac
+  - bag
+  - bladder
 ---
 >[!Note] DEFINITION of asc-
 >sac, bag, bladder (see also: [[burs-]])

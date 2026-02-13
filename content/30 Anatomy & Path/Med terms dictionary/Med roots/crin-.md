@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [crin-]
-forms: [combining]
-alphabet:: C
-definition: [secrete, secretion]
+roots:
+  - crin-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - secrete
+  - secretion
 ---
 >[!Note] DEFINITION of crin-
 >secrete, secretion

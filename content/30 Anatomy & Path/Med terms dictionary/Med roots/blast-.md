@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [blast-]
-forms: [combining]
-alphabet:: B
-definition: [primitive cell]
+roots:
+  - blast-
+forms:
+  - combining
+  - prefix
+"alphabet:": B
+definition:
+  - primitive cell
 ---
 >[!Note] DEFINITION of blast-
 >primitive cell 

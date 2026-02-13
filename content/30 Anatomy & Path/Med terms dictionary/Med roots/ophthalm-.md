@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [ophthalm-]
-forms: [combining]
-alphabet:: O
-definition: [eye]
+roots:
+  - ophthalm-
+forms:
+  - combining
+"alphabet:": O
+definition:
+  - eye
 ---
 >[!Note] DEFINITION of ophthalm-
 >eye

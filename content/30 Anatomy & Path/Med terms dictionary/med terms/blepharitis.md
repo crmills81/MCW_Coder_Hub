@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medroot"
   - general
   - medterm
   - ophthalmology

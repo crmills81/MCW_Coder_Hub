@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [klept-]
-forms: [combining]
-alphabet:: K
-definition: [steal, theft]
+roots:
+  - klept-
+forms:
+  - combining
+"alphabet:": K
+definition:
+  - steal
+  - theft
 ---
 >[!Note] DEFINITION of klept-
 >steal, theft

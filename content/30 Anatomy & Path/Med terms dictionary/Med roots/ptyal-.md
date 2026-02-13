@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [ptyal-]
-forms: [combining]
-alphabet:: P
-definition: [saliva]
+roots:
+  - ptyal-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - saliva
 ---
 >[!Note] DEFINITION of ptyal-
 >saliva

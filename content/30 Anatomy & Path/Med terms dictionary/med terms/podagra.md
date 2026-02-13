@@ -1,8 +1,15 @@
 ---
-tags: [" #medterm "]
+tags:
+  - medterm
 aliases: []
-roots: [pod-, -agra]
-definition:: gout in the foot or large toe
+roots:
+  - pod-
+  - -agra
+"definition:": gout in the foot or large toe
+"alphabet:": P
+forms:
+  - combining
+  - noun
 ---
 >[!note]+ Definition of [[podagra]]
 >[[pod-]][[-agra]] - gout in the foot or large toe

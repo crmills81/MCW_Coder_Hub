@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [eos-]
-forms: [combining]
-alphabet:: E
-definition: [red]
+roots:
+  - eos-
+forms:
+  - combining
+"alphabet:": E
+definition:
+  - red
 ---
 >[!Note] DEFINITION of eos-
 >red (stain); refers to dye

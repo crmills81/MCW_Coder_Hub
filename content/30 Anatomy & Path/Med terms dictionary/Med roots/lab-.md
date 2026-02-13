@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lab-]
-forms: [combining]
-alphabet:: L
-definition: [slide, slip]
+roots:
+  - lab-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - slide
+  - slip
 ---
 >[!Note] DEFINITION of lab-
 >slide, slip

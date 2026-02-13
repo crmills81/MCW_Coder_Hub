@@ -1,21 +1,26 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [icter-]
-forms: [combining]
-alphabet:: I
-definition: [jaundice]
+roots:
+  - -lagnia
+forms:
+  - combining
+  - suffix
+"alphabet:": L
+definition:
+  - abnormal sexual excitation or gratification
 ---
->[!Note] DEFINITION of icter-
->jaundice
+>[!Note] DEFINITION of lagnia
+>abnormal sexual excitation or gratification
 _____
->[!info]+ ETYMOLOGY of icter-
->#greek ikteros
+>[!info]+ ETYMOLOGY of lagnia
+>#greek lagneia
 _____
->[!example]+ RELATED TERMS to icter-
+>[!example]+ RELATED TERMS to lagnia
 >
 _____
->[!tip]+ DERIVATIONS of icter-
+>[!tip]+ DERIVATIONS of lagnia
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

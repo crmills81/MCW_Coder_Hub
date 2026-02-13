@@ -1,5 +1,5 @@
 ---
-tags: [" #medroot"]
+tags: [medroot]
 aliases: [tume-]
 roots: [tum-, tume-]
 forms: [combining]

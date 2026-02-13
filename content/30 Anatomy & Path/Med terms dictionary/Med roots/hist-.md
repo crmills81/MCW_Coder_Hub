@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [histi-]
-roots: [hist-, histi-]
-forms: [combining]
-alphabet:: H
-definition: [tissue]
+tags:
+  - medroot
+aliases:
+  - histi-
+roots:
+  - hist-
+  - histi-
+forms:
+  - combining
+  - prefix
+"alphabet:": H
+definition:
+  - tissue
 ---
 >[!Note] DEFINITION of hist-
 >tissue

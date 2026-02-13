@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [inos-]
-roots: [in-, inos-]
-forms: [combining]
-alphabet:: I
-definition: [fiber, muscle]
+tags:
+  - medroot
+aliases:
+  - inos-
+roots:
+  - in-
+  - inos-
+forms:
+  - combining
+  - prefix
+"alphabet:": I
+definition:
+  - fiber
+  - muscle
 ---
 >[!Note] DEFINITION of in-
 >fiber, muscle

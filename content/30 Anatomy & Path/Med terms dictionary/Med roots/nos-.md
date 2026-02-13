@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [nos-]
-forms: [combining]
-alphabet:: N
-definition: [disease, illness]
+roots:
+  - nos-
+forms:
+  - combining
+"alphabet:": N
+definition:
+  - disease
+  - illness
 ---
 >[!Note] DEFINITION of nos-
 >disease, illness

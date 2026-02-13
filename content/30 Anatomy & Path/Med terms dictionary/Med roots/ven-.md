@@ -1,5 +1,5 @@
 ---
-tags: [" #medroot"]
+tags: [medroot]
 aliases: []
 roots: [ven-]
 forms: [combining]

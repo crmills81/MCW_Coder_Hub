@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
-aliases: [-coccus]
-roots: [cocc-, -coccus]
-forms: [combining]
-alphabet:: C
-definition: [coccus]
+tags:
+aliases:
+  - -coccus
+roots:
+  - cocc-
+  - -coccus
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - coccus
 ---
 >[!Note] DEFINITION of cocc-
 >coccus

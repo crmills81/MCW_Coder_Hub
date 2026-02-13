@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [stabl-]
-roots: [stabil-]
-forms: [combining]
-alphabet:: S
-definition: [stable, fixed]
+tags:
+  - medroot
+aliases:
+  - stabl-
+roots:
+  - stabil-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - stable
+  - fixed
 ---
 >[!Note] DEFINITION of stabil-
 >stable, fixed

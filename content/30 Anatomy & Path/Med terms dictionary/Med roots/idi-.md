@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [idi-]
-forms: [combining]
-alphabet:: I
-definition: [of one's self]
+roots:
+  - idi-
+forms:
+  - combining
+  - prefix
+"alphabet:": I
+definition:
+  - of one's self
 ---
 >[!Note] DEFINITION of idi-
 >of one's self

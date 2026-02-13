@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [meat-]
-forms: [combining]
-alphabet:: M
-definition: [passage, opening, meatus]
+roots:
+  - meat-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - passage
+  - opening
+  - meatus
 ---
 >[!Note] DEFINITION of meat-
 >passage, opening, meatus, hole

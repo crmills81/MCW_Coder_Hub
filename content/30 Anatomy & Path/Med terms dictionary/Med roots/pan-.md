@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [pant-]
-roots: [pan-, pant-]
-forms: [combining]
-alphabet:: P
-definition: [all, entire, every]
+tags:
+  - medroot
+aliases:
+  - pant-
+roots:
+  - pan-
+  - pant-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - all
+  - entire
+  - every
 ---
 >[!Note] DEFINITION of pan-
 >all, entire, every

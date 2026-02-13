@@ -1,6 +1,7 @@
 ---
 tags:
   - medroot
+  - medterm
 aliases:
   - carcinogen
 roots:
@@ -9,6 +10,8 @@ roots:
 forms:
   - prefix
   - suffix
+  - combining
+  - diminutive
 alphabet: C
 definition:
   - cancer; Cancer-causing

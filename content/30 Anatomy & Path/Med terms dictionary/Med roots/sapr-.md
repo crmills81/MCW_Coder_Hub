@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [sapr-]
-forms: [combining]
-alphabet:: S
-definition: [rotten, putrid, decaying]
+roots:
+  - sapr-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - rotten
+  - putrid
+  - decaying
 ---
 >[!Note] DEFINITION of sapr-
 >rotten, putrid, decaying

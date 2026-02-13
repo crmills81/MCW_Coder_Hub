@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [log-]
-forms: [combining]
-alphabet:: L
-definition: [word, study]
+roots:
+  - log-
+forms:
+  - combining
+"alphabet:": L
+definition:
+  - word
+  - study
 ---
 >[!Note] DEFINITION of log-
 >word, study

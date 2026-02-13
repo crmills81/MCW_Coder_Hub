@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medroot"
   - specialty/ophthalmology
   - medterm
   - ophthalmology
@@ -16,6 +15,8 @@ forms:
   - combining
   - prefixes
   - suffixes
+  - prefix
+  - suffix
 "alphabet:": b
 definition:
   - Eyelid repair surgery

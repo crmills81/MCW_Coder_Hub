@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [scler-]
-forms: [combining]
-alphabet:: S
-definition: [hard]
+roots:
+  - scler-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - hard
 ---
 >[!Note] DEFINITION of scler-
 >hard

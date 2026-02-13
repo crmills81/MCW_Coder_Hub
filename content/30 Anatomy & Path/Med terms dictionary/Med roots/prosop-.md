@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [prosop-]
-forms: [combining]
-alphabet:: P
-definition: [face]
+roots:
+  - prosop-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - face
 ---
 >[!Note] DEFINITION of prosop-
 >face

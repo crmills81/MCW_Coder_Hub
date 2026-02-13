@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [-meninx]
-roots: [mening-, -meninx]
-forms: [combining]
-alphabet:: M
-definition: [meningeal membrane, meninges]
+tags:
+  - medroot
+aliases:
+  - -meninx
+roots:
+  - mening-
+  - -meninx
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - meningeal membrane
+  - meninges
 ---
 >[!Note] DEFINITION of mening-
 >meningeal membrane, meninges

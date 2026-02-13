@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [supra-]
-roots: [super-, supra-]
-forms: [prefix]
-alphabet:: S
-definition: [over, above, excess]
+tags:
+  - medroot
+aliases:
+  - supra-
+roots:
+  - super-
+  - supra-
+forms:
+  - prefix
+"alphabet:": S
+definition:
+  - over
+  - above
+  - excess
 ---
 >[!Note] DEFINITION of super-
 >over, above, excess

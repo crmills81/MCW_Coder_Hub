@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [chron-]
-forms: [combining]
-alphabet:: C
-definition: [time, timing]
+roots:
+  - chron-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - time
+  - timing
 ---
 >[!Note] DEFINITION of chron-
 >time, timing

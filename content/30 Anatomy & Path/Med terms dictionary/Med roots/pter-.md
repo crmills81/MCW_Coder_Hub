@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pter-]
-forms: [combining]
-alphabet:: P
-definition: [wing]
+roots:
+  - pter-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - wing
 ---
 >[!Note] DEFINITION of pter-
 >wing

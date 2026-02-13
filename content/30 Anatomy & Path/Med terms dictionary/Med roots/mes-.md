@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [mes-]
-forms: [combining]
-alphabet:: M
-definition: [middle, secondary, partial, mesentery]
+roots:
+  - mes-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - middle
+  - secondary
+  - partial
+  - mesentery
 ---
 >[!Note] DEFINITION of mes-
 >middle, secondary, partial, mesentery

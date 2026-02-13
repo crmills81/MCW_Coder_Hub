@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [retro-]
-forms: [prefix]
-alphabet:: R
-definition: [backward, in back, behind]
+roots:
+  - retro-
+forms:
+  - prefix
+"alphabet:": R
+definition:
+  - backward
+  - in back
+  - behind
 ---
 >[!Note] DEFINITION of retro-
 >backward, in back, behind

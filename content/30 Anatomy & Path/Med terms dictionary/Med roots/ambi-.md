@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-forms: [prefix]
-roots: [ambi-]
-alphabet:: A
-definition: [both]
+forms:
+  - prefix
+roots:
+  - ambi-
+"alphabet:": A
+definition:
+  - both
 ---
 >[!Note] DEFINITION of ambi-
 >Both

@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [poie-]
-forms: [combining]
-alphabet:: P
-definition: [produce, make]
+roots:
+  - poie-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - produce
+  - make
 ---
 >[!Note] DEFINITION of poie-
 >produce, make

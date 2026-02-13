@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [cye-]
-forms: [combining]
-alphabet:: C
-definition: [be pregnant]
+roots:
+  - cye-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - be pregnant
 ---
 >[!Note] DEFINITION of cye-
 >be pregnant

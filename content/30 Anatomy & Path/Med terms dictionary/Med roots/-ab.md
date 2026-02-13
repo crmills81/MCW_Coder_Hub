@@ -5,7 +5,7 @@ aliases: []
 roots:
   - ab-
 forms:
-  - prefix
+  - suffix
 alphabet: A
 definition:
   - away from

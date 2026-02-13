@@ -1,8 +1,8 @@
 ---
 tags:
-  - " #medroot"
   - specialty/urology
   - expert
+  - medroot
 aliases: []
 roots:
   - orchi-

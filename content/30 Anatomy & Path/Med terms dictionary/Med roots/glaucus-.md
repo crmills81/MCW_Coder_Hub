@@ -1,27 +1,32 @@
 ---
-tags: [" #medroot"]
-aliases: [nemat-]
-roots: [nema, nemat-]
-forms: [combining]
-alphabet:: N
-definition: [thread]
+tags:
+  - medroot
+aliases: []
+roots:
+  - glaucus
+forms:
+  - combining
+  - prefix
+"alphabet:": G
+definition:
+  - bluish-gray
 ---
->[!Note] DEFINITION of nema
->thread (worm)
+>[!Note] DEFINITION of glaucus
+>bluish-gray
 _____
->[!info]+ ETYMOLOGY of nema
->#greek nema, nematos
+>[!info]+ ETYMOLOGY of glaucus
+>#greek glaukos
 _____
->[!example]+ RELATED TERMS to nema
+>[!example]+ RELATED TERMS to glaucus
 >
 _____
->[!tip]+ DERIVATIONS of nema
+>[!tip]+ DERIVATIONS of glaucus
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
 >SORT file.name ASC
 >```
-___
+____
 >[!faq]- Query
 >```dataview
 >TABLE definition AS Definition

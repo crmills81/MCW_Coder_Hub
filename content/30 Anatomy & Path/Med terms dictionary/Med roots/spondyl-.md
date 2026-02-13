@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [spondyl-]
-forms: [combining]
-alphabet:: S
-definition: [vertebra]
+roots:
+  - spondyl-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - vertebra
 ---
 >[!Note] DEFINITION of spondyl-
 >vertebra

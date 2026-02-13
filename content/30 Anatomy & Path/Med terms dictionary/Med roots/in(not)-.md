@@ -1,10 +1,20 @@
 ---
-tags: [" #medroot"]
-aliases: [il(not)-, im(not)-, ir(not)-]
-forms: [prefix]
-roots: [in(not)-, il(not)-, im(not)-, ir(not)-]
-alphabet:: I
-definition: [not]
+tags:
+  - medroot
+aliases:
+  - il(not)-
+  - im(not)-
+  - ir(not)-
+forms:
+  - prefix
+roots:
+  - in(not)-
+  - il(not)-
+  - im(not)-
+  - ir(not)-
+"alphabet:": I
+definition:
+  - not
 ---
 >[!Note] DEFINITION of in(not)-
 >not

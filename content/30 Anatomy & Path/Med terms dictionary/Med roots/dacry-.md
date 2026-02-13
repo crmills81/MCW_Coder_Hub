@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [dacry-]
-forms: [combining]
-alphabet:: D
-definition: [tear, lacrimal sac or duct]
+roots:
+  - dacry-
+forms:
+  - combining
+"alphabet:": D
+definition:
+  - tear
+  - lacrimal sac or duct
 ---
 >[!Note] DEFINITION of dacry-
 >tear, lacrimal sac, lacrimal duct

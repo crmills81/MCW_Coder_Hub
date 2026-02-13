@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [metr-]
-forms: [combining]
-alphabet:: M
-definition: [measure]
+roots:
+  - metr-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - measure
 ---
 >[!Note] DEFINITION of metr-
 >measure

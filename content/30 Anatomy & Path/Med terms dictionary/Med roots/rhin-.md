@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [rhin-]
-forms: [combining]
-alphabet:: R
-definition: [nose]
+roots:
+  - rhin-
+forms:
+  - combining
+"alphabet:": R
+definition:
+  - nose
 ---
 >[!Note] DEFINITION of rhin-
 >nose

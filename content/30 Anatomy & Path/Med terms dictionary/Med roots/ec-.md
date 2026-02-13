@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [ex-]
-forms: [prefix]
-roots: [ec-, ex-]
-alphabet:: E
-definition: [out of, away from]
+tags:
+  - medroot
+aliases:
+  - ex-
+forms:
+  - prefix
+roots:
+  - ec-
+  - ex-
+"alphabet:": E
+definition:
+  - out of
+  - away from
 ---
 >[!Note] DEFINITION of ec-
 >out of, away from

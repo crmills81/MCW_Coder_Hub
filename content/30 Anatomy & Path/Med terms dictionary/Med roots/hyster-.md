@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [hyster-]
-forms: [combining]
-alphabet:: H
-definition: [uterus]
+roots:
+  - hyster-
+forms:
+  - combining
+  - prefix
+"alphabet:": H
+definition:
+  - uterus
 ---
 >[!Note] DEFINITION of hyster-
 >uterus

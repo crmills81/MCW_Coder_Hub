@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lacrim-]
-forms: [combining]
-alphabet:: L
-definition: [tear]
+roots:
+  - lacrim-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - tear
 ---
 >[!Note] DEFINITION of lacrim-
 >tear

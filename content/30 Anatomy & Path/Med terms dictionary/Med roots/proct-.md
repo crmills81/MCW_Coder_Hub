@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [proct-]
-forms: [combining]
-alphabet:: P
-definition: [anus]
+roots:
+  - proct-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - anus
 ---
 >[!Note] DEFINITION of proct-
 >anus

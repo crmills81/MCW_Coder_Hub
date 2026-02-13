@@ -1,6 +1,6 @@
 ---
 tags:
-  - " #medroot"
+  - medroot
 aliases:
   - urin/o
 roots:

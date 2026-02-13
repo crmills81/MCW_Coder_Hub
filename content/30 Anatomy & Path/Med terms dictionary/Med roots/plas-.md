@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [plast-]
-roots: [plas-, plast-]
-forms: [combining]
-alphabet:: P
-definition: [form, develop]
+tags:
+  - medroot
+aliases:
+  - plast-
+roots:
+  - plas-
+  - plast-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - form
+  - develop
 ---
 >[!Note] DEFINITION of plas-
 >form, develop

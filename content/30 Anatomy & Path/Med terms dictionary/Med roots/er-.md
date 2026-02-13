@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [erot-]
-roots: [er-, erot-]
-forms: [combining]
-alphabet:: E
-definition: [sexual desire]
+tags:
+  - medroot
+aliases:
+  - erot-
+roots:
+  - er-
+  - erot-
+forms:
+  - combining
+"alphabet:": E
+definition:
+  - sexual desire
 ---
 >[!Note] DEFINITION of er-
 >sexual desire

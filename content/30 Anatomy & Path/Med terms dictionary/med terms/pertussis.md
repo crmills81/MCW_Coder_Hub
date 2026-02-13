@@ -1,9 +1,9 @@
 ---
 tags:
-  - " #medterm "
   - medical_coding
   - specialty
   - latin
+  - medterm
 aliases: []
 roots:
   - per-

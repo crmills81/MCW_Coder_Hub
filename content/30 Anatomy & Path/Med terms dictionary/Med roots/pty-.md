@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pty-]
-forms: [combining]
-alphabet:: P
-definition: [spit]
+roots:
+  - pty-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - spit
 ---
 >[!Note] DEFINITION of pty-
 >spit

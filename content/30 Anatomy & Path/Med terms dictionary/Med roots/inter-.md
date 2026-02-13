@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-forms: [prefix]
-roots: [inter-]
-alphabet:: I 
-definition: [between]
+forms:
+  - prefix
+roots:
+  - inter-
+"alphabet:": I
+definition:
+  - between
 ---
 >[!Note] DEFINITION of inter-
 >between

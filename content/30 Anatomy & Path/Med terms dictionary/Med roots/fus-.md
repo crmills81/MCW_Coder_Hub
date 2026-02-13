@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - " #medroot"
+  - medroot
 aliases: []
-roots: [fus-]
-forms: [combining]
-alphabet:: F
-definition: [pour]
+roots:
+  - fus-
+forms:
+  - combining
+  - prefix
+"alphabet:": F
+definition:
+  - pour
 ---
 >[!Note] DEFINITION of fus-
 >pour

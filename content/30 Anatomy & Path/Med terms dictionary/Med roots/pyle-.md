@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pyle-]
-forms: [combining]
-alphabet:: P
-definition: [portal vein]
+roots:
+  - pyle-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - portal vein
 ---
 >[!Note] DEFINITION of pyle-
 >portal vein

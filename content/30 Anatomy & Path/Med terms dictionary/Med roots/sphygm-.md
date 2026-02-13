@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [sphygm-]
-forms: [combining]
-alphabet:: S
-definition: [pulse]
+roots:
+  - sphygm-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - pulse
 ---
 >[!Note] DEFINITION of sphygm-
 >pulse

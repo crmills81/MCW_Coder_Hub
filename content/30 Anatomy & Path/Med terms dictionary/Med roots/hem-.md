@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [hemat-]
-roots: [hem-, hemat-]
-forms: [combining]
-alphabet:: H
-definition: [blood]
+tags:
+  - medroot
+aliases:
+  - hemat-
+roots:
+  - hem-
+  - hemat-
+forms:
+  - combining
+  - prefix
+"alphabet:": H
+definition:
+  - blood
 ---
 >[!Note] DEFINITION of hem-
 >blood

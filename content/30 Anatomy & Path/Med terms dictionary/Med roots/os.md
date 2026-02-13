@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [os]
-forms: [combining]
-alphabet:: O
-definition: [mouth, opening]
+roots:
+  - os
+forms:
+  - combining
+"alphabet:": O
+definition:
+  - mouth
+  - opening
 ---
 >[!Note] DEFINITION of os
 >mouth, opening

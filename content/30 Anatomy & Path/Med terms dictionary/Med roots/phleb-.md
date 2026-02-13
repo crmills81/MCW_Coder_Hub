@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [phleb-]
-forms: [combining]
-alphabet:: P
-definition: [vein]
+roots:
+  - phleb-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - vein
 ---
 >[!Note] DEFINITION of phleb-
 >vein

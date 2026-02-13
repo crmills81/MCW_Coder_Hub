@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medterm "
   - specialty/ophthalmology
   - medterm
   - ophthalmology

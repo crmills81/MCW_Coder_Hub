@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [path-]
-forms: [combining]
-alphabet:: P
-definition: [disease]
+roots:
+  - path-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - disease
 ---
 >[!Note] DEFINITION of path-
 >disease

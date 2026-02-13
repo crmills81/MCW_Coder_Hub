@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [em-]
-forms: [prefix]
-roots: [en-, em]
-alphabet:: E
-definition: [in, into, within]
+tags:
+  - medroot
+aliases:
+  - em-
+forms:
+  - prefix
+roots:
+  - en-
+  - em
+"alphabet:": E
+definition:
+  - in
+  - into
+  - within
 ---
 >[!Note] DEFINITION of en-
 >movement in, into, within 

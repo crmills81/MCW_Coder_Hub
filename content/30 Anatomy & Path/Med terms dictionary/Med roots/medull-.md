@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [medull-]
-forms: [combining]
-alphabet:: M
-definition: [marrow]
+roots:
+  - medull-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - marrow
 ---
 >[!Note] DEFINITION of medull-
 >marrow

@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [clys-]
-roots: [cly-, clys-]
-forms: [combining]
-alphabet:: C
-definition: [rinse out, inject fluid]
+tags:
+aliases:
+  - clys-
+roots:
+  - cly-
+  - clys-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - rinse out
+  - inject fluid
 ---
 >[!Note] DEFINITION of cly-
 >rinse out, inject fluid

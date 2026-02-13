@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pector-]
-forms: [combining]
-alphabet:: P
-definition: [breast, chest]
+roots:
+  - pector-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - breast
+  - chest
 ---
 >[!Note] DEFINITION of pector-
 >breast, chest

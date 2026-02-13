@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [aort-]
-forms: [combining]
-alphabet:: A
-definition: [aorta]
+roots:
+  - aort-
+forms:
+  - combining
+  - prefix
+"alphabet:": A
+definition:
+  - aorta
 ---
 >[!Note] DEFINITION of aort-
 >aorta

@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [amygdal-]
-forms: [combining]
-alphabet:: A
-definition: [tonsil]
+roots:
+  - amygdal-
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - tonsil
 ---
 >[!Note] DEFINITION of amygdal-
 >tonsil

@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-forms: [prefix]
-roots: [circum-]
-alphabet:: C
-definition: [around]
+forms:
+  - prefix
+roots:
+  - circum-
+"alphabet:": C
+definition:
+  - around
 ---
 >[!Note] DEFINITION of circum-
 >around

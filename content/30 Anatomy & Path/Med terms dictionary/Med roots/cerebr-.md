@@ -1,10 +1,13 @@
 ---
-tags: [" #medroot"]
+tags:
 aliases: []
-roots: [cerebr-]
-forms: [combining]
-alphabet:: C
-definition: [brain]
+roots:
+  - cerebr-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - brain
 ---
 >[!Note] DEFINITION of cerebr-
 >brain

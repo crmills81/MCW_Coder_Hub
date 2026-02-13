@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medroot"
   - specialty/urology
   - medical_coding
   - general

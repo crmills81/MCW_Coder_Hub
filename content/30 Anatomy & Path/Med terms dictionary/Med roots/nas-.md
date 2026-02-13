@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [nas-]
-forms: [combining]
-alphabet:: N
-definition: [nose]
+roots:
+  - nas-
+forms:
+  - combining
+"alphabet:": N
+definition:
+  - nose
 ---
 >[!Note] DEFINITION of nas-
 >nose

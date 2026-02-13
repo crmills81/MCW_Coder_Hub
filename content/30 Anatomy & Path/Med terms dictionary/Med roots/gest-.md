@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [ger_-]
-roots: [gest-, ger_-]
-forms: [combining]
-alphabet:: G
-definition: [bear, carry]
+tags:
+  - " #medroot"
+  - medroot
+aliases:
+  - ger_-
+roots:
+  - gest-
+  - ger_-
+forms:
+  - combining
+"alphabet:": G
+definition:
+  - bear
+  - carry
 ---
 >[!Note] DEFINITION of gest-
 >carry, bear

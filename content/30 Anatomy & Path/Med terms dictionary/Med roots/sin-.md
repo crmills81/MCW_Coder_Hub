@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [sinus-]
-roots: [sin-, sinus-]
-forms: [combining]
-alphabet:: S
-definition: [sinus]
+tags:
+  - medroot
+aliases:
+  - sinus-
+roots:
+  - sin-
+  - sinus-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - sinus
 ---
 >[!Note] DEFINITION of sin-
 >sinus

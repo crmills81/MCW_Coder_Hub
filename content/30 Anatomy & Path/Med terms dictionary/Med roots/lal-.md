@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lal-]
-forms: [combining]
-alphabet:: L
-definition: [talk]
+roots:
+  - lal-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - talk
 ---
 >[!Note] DEFINITION of lal-
 >talk

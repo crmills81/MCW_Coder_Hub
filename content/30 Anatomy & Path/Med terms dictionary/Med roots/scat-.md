@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [scat-]
-forms: [combining]
-alphabet:: S
-definition: [excrement, fecal matter]
+roots:
+  - scat-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - excrement
+  - fecal matter
 ---
 >[!Note] DEFINITION of scat-
 >excrement, fecal matter

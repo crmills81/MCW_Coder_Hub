@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [phren-]
-forms: [combining]
-alphabet:: P
-definition: [mind, diaphragm]
+roots:
+  - phren-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - mind
+  - diaphragm
 ---
 >[!Note] DEFINITION of phren-
 >1. mind

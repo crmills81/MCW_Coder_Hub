@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - " #medroot"
+  - medroot
 aliases: []
-roots: [ger-]
-forms: [combining]
-alphabet:: G
-definition: [old]
+roots:
+  - ger-
+forms:
+  - combining
+"alphabet:": G
+definition:
+  - old
 ---
 >[!Note] DEFINITION of ger-
 >old (not to be confused with: [[gest-|ger_-]])

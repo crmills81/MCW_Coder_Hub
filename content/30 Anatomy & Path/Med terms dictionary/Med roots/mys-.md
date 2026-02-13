@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
-aliases: [my_-]
-roots: [mys-, my_-]
-forms: [combining]
-alphabet:: M
-definition: [muscle]
+tags:
+  - medroot
+aliases:
+roots:
+  - mys-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - muscle
 ---
 >[!Note] DEFINITION of mys-
 >muscle

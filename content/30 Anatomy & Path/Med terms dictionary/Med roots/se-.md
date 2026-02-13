@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [se-]
-forms: [prefix]
-alphabet:: S
-definition: [apart, away from]
+roots:
+  - se-
+forms:
+  - prefix
+"alphabet:": S
+definition:
+  - apart
+  - away from
 ---
 >[!Note] DEFINITION of se-
 >apart, away from

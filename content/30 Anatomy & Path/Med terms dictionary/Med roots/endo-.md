@@ -1,10 +1,20 @@
 ---
-tags: [" #medroot"]
-aliases: [ento-, end-, ent-]
-forms: [prefix]
-roots: [endo-, ento-, end-, ent-]
-alphabet:: E
-definition: [within]
+tags:
+  - medroot
+aliases:
+  - ento-
+  - end-
+  - ent-
+forms:
+  - prefix
+roots:
+  - endo-
+  - ento-
+  - end-
+  - ent-
+"alphabet:": E
+definition:
+  - within
 ---
 >[!Note] DEFINITION of endo-
 >within (location)

@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pur-]
-forms: [combining]
-alphabet:: P
-definition: [pus]
+roots:
+  - pur-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - pus
 ---
 >[!Note] DEFINITION of pur-
 >pus

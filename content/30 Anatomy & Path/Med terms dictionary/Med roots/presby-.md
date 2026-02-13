@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [presby-]
-forms: [combining]
-alphabet:: P
-definition: [old, old age]
+roots:
+  - presby-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - old
+  - old age
 ---
 >[!Note] DEFINITION of presby-
 >old, old age

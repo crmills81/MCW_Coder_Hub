@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [esophag-]
-forms: [combining]
-alphabet:: E
-definition: [esophagus]
+roots:
+  - esophag-
+forms:
+  - combining
+"alphabet:": E
+definition:
+  - esophagus
 ---
 >[!Note] DEFINITION of esophag-
 >[[eso-]][[phag-]] - esophagus (swallow in)

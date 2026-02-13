@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [steth-]
-forms: [combining]
-alphabet:: S
-definition: [chest, breast]
+roots:
+  - steth-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - chest
+  - breast
 ---
 >[!Note] DEFINITION of steth-
 >chest, breast

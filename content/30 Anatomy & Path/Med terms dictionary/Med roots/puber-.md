@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [pubert-]
-roots: [puber-, pubert-]
-forms: [combining]
-alphabet:: P
-definition: [puberty]
+tags:
+  - medroot
+aliases:
+  - pubert-
+roots:
+  - puber-
+  - pubert-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - puberty
 ---
 >[!Note] DEFINITION of puber-
 >puberty

@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [cimex]
-forms: [combining]
-alphabet:: C
-definition: [bug]
+roots:
+  - cimex
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - bug
 ---
 >[!Note] DEFINITION of cimex
 >bug

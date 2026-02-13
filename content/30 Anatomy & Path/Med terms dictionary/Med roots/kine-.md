@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [kine-]
-forms: [combining]
-alphabet:: K
-definition: [move]
+roots:
+  - kine-
+forms:
+  - combining
+  - prefix
+"alphabet:": K
+definition:
+  - move
 ---
 >[!Note] DEFINITION of kine-
 >move 

@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [stomat-]
-roots: [stom-, stomat-]
-forms: [combining]
-alphabet:: S
-definition: [mouth, opening]
+tags:
+  - medroot
+aliases:
+  - stomat-
+roots:
+  - stom-
+  - stomat-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - mouth
+  - opening
 ---
 >[!Note] DEFINITION of stom-
 >mouth, opening

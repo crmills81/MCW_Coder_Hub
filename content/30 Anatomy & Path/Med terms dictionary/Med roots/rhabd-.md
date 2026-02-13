@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [rhabd-]
-forms: [combining]
-alphabet:: R
-definition: [rod]
+roots:
+  - rhabd-
+forms:
+  - combining
+"alphabet:": R
+definition:
+  - rod
 ---
 >[!Note] DEFINITION of rhabd-
 >rod

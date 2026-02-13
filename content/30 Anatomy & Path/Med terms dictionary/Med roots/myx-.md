@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [myx-]
-forms: [combining]
-alphabet:: M
-definition: [mucus]
+roots:
+  - myx-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - mucus
 ---
 >[!Note] DEFINITION of myx-
 >mucus

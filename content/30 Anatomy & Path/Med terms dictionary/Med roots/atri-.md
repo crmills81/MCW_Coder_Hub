@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [atri-]
-forms: [combining]
-alphabet:: A
-definition: [atrium]
+roots:
+  - atri-
+forms:
+  - combining
+  - prefix
+"alphabet:": A
+definition:
+  - atrium
 ---
 >[!Note] DEFINITION of atri-
 >atrium

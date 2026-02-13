@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lat-]
-forms: [combining]
-alphabet:: L
-definition: [bear, carry]
+roots:
+  - lat-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - bear
+  - carry
 ---
 >[!Note] DEFINITION of lat-
 >bear, carry

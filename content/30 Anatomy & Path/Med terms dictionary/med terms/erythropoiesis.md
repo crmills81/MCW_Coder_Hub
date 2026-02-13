@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medterm "
   - greek
   - general
   - medical_coding
@@ -13,6 +12,7 @@ roots:
 "definition:": erythrocyte formation; the production of red blood cells
 forms:
   - noun
+  - combining
 "alphabet:": E
 ---
 >[!note]+ Definition of [[erythropoiesis]]

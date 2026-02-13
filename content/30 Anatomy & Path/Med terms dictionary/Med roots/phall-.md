@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [phall-]
-forms: [combining]
-alphabet:: P
-definition: [penis]
+roots:
+  - phall-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - penis
 ---
 >[!Note] DEFINITION of phall-
 >penis
@@ -16,7 +20,7 @@ _____
 >
 >| [[phall-]]  | penis |
 |:----------:| ----- |
-| [[pen_-]] |   YES    |
+| [[peni-]] |   YES    |
 _____
 >[!tip]+ DERIVATIONS of phall-
 >```dataview

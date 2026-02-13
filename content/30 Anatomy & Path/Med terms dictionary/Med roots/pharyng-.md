@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [pharynx]
-roots: [pharyng-, pharynx]
-forms: [combining]
-alphabet:: P
-definition: [pharynx]
+tags:
+  - medroot
+aliases:
+  - pharynx
+roots:
+  - pharyng-
+  - pharynx
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - pharynx
 ---
 >[!Note] DEFINITION of pharyng-
 >pharynx

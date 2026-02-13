@@ -1,10 +1,20 @@
 ---
-tags: [" #medroot"]
-aliases: [sym-, sy-]
-roots: [syn-, sym-, sy-]
-forms: [prefix]
-alphabet:: S
-definition: [together, with, joined]
+tags:
+  - medroot
+aliases:
+  - sym-
+  - sy-
+roots:
+  - syn-
+  - sym-
+  - sy-
+forms:
+  - prefix
+"alphabet:": S
+definition:
+  - together
+  - with
+  - joined
 ---
 >[!Note] DEFINITION of syn-
 >together, with, joined

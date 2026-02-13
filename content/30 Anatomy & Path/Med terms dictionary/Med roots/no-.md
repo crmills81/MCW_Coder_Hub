@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [no-]
-forms: [combining]
-alphabet:: N
-definition: [mind, mental activity, comprehension]
+roots:
+  - no-
+forms:
+  - combining
+"alphabet:": N
+definition:
+  - mind
+  - mental activity
+  - comprehension
 ---
 >[!Note] DEFINITION of no-
 >mind, mental activity, comprehension

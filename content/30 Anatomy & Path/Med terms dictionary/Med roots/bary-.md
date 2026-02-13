@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [bary-]
-forms: [combining]
-alphabet:: B
-definition: [heavy, dull, hard]
+roots:
+  - bary-
+forms:
+  - combining
+  - prefix
+"alphabet:": B
+definition:
+  - heavy
+  - dull
+  - hard
 ---
 >[!Note] DEFINITION of bary-
 >heavy, dull, hard

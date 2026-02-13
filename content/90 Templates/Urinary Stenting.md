@@ -1,7 +1,7 @@
 ---
 title: Ureteral Stent Placement Op Note
 tags: [urology, surgery, stent]
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: 
 indication: <% await tp.system.prompt("Indication (e.g., obstructing ureteral stone)") %>
 side: <% await tp.system.suggester(["right", "left", "bilateral"], ["right", "left", "bilateral"]) %>
 stent_size: <% await tp.system.prompt("Stent size (e.g., 6F x 26 cm double-J)") %>

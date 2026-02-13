@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [re-]
-forms: [prefix]
-alphabet:: L
-definition: [back, again]
+roots:
+  - re-
+forms:
+  - prefix
+"alphabet:": L
+definition:
+  - back
+  - again
 ---
 >[!Note] DEFINITION of re-
 >back, again

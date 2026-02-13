@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [spir(at)-]
-roots: [spirat-, spir(at)-]
-forms: [combining]
-alphabet:: S
-definition: [breathe]
+tags:
+  - medroot
+aliases:
+  - spir(at)-
+roots:
+  - spirat-
+  - spir(at)-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - breathe
 ---
 >[!Note] DEFINITION of spirat-
 >breathe

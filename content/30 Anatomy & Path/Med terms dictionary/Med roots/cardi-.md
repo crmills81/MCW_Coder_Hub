@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [cardi-]
-forms: [combining]
-alphabet:: C
-definition: [heart, cardia]
+roots:
+  - cardi-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - heart
+  - cardia
 ---
 >[!Note] DEFINITION of cardi-
 >heart, cardia

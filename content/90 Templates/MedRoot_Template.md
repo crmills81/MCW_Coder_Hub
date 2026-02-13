@@ -1,10 +1,14 @@
 ---
-tags: [medroot]
+tags:
+  - medroot
 aliases: []
-roots: ["<% tp.file.title %>"]
-forms: [prefix, suffix]
+roots:
+forms:
+  - prefix
+  - suffix
 alphabet: <% tp.file.title.replace(/[^a-zA-Z]/g, "").charAt(0).toUpperCase() %>
-definition: [INPUT_SHORT_DEF]
+definition:
+  - INPUT_SHORT_DEF
 ---
 >[!Note] DEFINITION of <% tp.file.title %>
 >INPUT_FULL_DEF

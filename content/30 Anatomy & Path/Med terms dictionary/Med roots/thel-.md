@@ -1,5 +1,5 @@
 ---
-tags: [" #medroot"]
+tags: [medroot]
 aliases: [thele-]
 roots: [thel-, thele-]
 forms: [combining]

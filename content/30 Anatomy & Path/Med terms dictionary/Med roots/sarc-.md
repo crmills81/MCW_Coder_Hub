@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [sarc-]
-forms: [combining]
-alphabet:: S
-definition: [flesh, soft tissue, connective tissue]
+roots:
+  - sarc-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - flesh
+  - soft tissue
+  - connective tissue
 ---
 >[!Note] DEFINITION of sarc-
 >flesh, soft tissue, connective tissue

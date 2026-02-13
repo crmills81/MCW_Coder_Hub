@@ -1,6 +1,6 @@
 ---
 tags:
-  - " #medroot"
+  - medroot
 aliases: []
 roots:
   - -rrhaph-

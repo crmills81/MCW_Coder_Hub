@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [megal-]
-roots: [mega-, megal-]
-forms: [combining]
-alphabet:: M
-definition: [large, long]
+tags:
+  - medroot
+aliases:
+  - megal-
+roots:
+  - mega-
+  - megal-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - large
+  - long
 ---
 >[!Note] DEFINITION of mega-
 >(abnormally large or long)

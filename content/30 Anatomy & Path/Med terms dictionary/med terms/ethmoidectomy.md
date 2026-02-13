@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medroot"
   - medical_coding
   - greek
   - general

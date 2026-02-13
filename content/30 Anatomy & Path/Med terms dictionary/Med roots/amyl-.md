@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [amyl-]
-forms: [combining]
-alphabet:: A
-definition: [starch]
+roots:
+  - amyl-
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - starch
 ---
 >[!Note] DEFINITION of amyl-
 >starch

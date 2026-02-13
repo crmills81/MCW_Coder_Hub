@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [ile-]
-forms: [combining]
-alphabet:: I
-definition: [ileum]
+roots:
+  - ile-
+forms:
+  - combining
+  - prefix
+"alphabet:": I
+definition:
+  - ileum
 ---
 >[!Note] DEFINITION of ile-
 >ileum

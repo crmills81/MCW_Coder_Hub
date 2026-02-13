@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [dynam-]
-forms: [combining]
-alphabet:: D
-definition: [force, power, energy]
+roots:
+  - dynam-
+forms:
+  - combining
+"alphabet:": D
+definition:
+  - force
+  - power
+  - energy
 ---
 >[!Note] DEFINITION of dynam-
 >force, power, energy

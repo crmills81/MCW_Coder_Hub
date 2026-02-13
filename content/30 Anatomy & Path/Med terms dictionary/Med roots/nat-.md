@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [nat-]
-forms: [combining]
-alphabet:: N
-definition: [be born]
+roots:
+  - nat-
+forms:
+  - combining
+"alphabet:": N
+definition:
+  - be born
 ---
 >[!Note] DEFINITION of nat-
 >be born

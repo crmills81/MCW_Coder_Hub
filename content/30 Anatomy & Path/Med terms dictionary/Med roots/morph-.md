@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [morph-]
-forms: [combining]
-alphabet:: M
-definition: [form, shape]
+roots:
+  - morph-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - form
+  - shape
 ---
 >[!Note] DEFINITION of morph-
 >form, shape

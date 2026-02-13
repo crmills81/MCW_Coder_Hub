@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [angi-]
-forms: [combining]
-alphabet:: A
-definition: [vessel, duct]
+roots:
+  - angi-
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - vessel
+  - duct
 ---
 >[!Note] DEFINITION of angi-
 >(blood) vessel, duct

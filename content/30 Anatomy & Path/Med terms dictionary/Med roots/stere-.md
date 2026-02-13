@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [stere-]
-forms: [combining]
-alphabet:: S
-definition: [solid, having three dimensions, 3d]
+roots:
+  - stere-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - solid
+  - having three dimensions
+  - 3d
 ---
 >[!Note] DEFINITION of stere-
 >solid, having three dimensions

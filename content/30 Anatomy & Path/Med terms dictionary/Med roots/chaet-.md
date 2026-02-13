@@ -1,10 +1,13 @@
 ---
-tags: [" #medroot"]
+tags:
 aliases: []
-roots: [chaet-]
-forms: [combining]
-alphabet:: C
-definition: [hair]
+roots:
+  - chaet-
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - hair
 ---
 >[!Note] DEFINITION of chaet-
 >hair

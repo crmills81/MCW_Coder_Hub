@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [crani-]
-forms: [combining]
-alphabet:: C
-definition: [skull]
+roots:
+  - crani-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - skull
 ---
 >[!Note] DEFINITION of crani-
 >skull

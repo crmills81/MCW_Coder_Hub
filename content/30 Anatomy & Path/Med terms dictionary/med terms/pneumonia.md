@@ -1,7 +1,7 @@
 ---
 tags:
-  - " #medterm "
   - greek
+  - medterm
 aliases: []
 roots:
   - pneumon-

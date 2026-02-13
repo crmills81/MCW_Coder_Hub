@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [gnos-]
-roots: [gno-, gnos-]
-forms: [combining]
-alphabet:: G
-definition: [know]
+tags:
+  - medroot
+aliases:
+  - gnos-
+roots:
+  - gno-
+  - gnos-
+forms:
+  - combining
+  - prefix
+"alphabet:": G
+definition:
+  - know
 ---
 >[!Note] DEFINITION of gno-
 >know

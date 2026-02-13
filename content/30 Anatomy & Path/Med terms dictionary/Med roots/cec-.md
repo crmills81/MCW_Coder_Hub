@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [cec-]
-forms: [combining]
-alphabet:: C
-definition: [cecum]
+roots:
+  - cec-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - cecum
 ---
 >[!Note] DEFINITION of cec-
 >cecum

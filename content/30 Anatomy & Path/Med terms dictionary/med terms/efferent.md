@@ -1,8 +1,16 @@
 ---
-tags: [" #medterm "]
+tags:
+  - medterm
 aliases: []
-roots: [ex-, fer-, -ent]
-definition:: signals carried from the brain
+roots:
+  - ex-
+  - fer-
+  - -ent
+"definition:": signals carried from the brain
+"alphabet:": E
+forms:
+  - verb
+  - combining
 ---
 >[!note]+ Definition of efferent
 >[[ex-|ef-]][[fer-]][[-ent]] impulse - signals carried from the brain (bearing away)

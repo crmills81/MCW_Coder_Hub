@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-forms: [prefix]
-roots: [contra-]
-alphabet:: C
-definition: [against, opposite]
+forms:
+  - prefix
+roots:
+  - contra-
+"alphabet:": C
+definition:
+  - against
+  - opposite
 ---
 >[!Note] DEFINITION of contra-
 >against, opposite

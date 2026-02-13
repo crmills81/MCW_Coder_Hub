@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [cirs-]
-forms: [combining]
-alphabet:: C
-definition: [dilated and twisted vein, varix]
+roots:
+  - cirs-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - dilated and twisted vein
+  - varix
 ---
 >[!Note] DEFINITION of cirs-
 >dilated and twisted vein, [[varix]]

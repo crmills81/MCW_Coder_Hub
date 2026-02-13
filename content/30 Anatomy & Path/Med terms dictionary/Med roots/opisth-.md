@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [opisth-]
-forms: [combining]
-alphabet:: O
-definition: [located in the back]
+roots:
+  - opisth-
+forms:
+  - combining
+"alphabet:": O
+definition:
+  - located in the back
 ---
 >[!Note] DEFINITION of opisth-
 >located in the back

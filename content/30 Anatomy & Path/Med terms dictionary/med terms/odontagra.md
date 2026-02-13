@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medterm "
   - specialty/ent
   - medical_coding
   - medterm
@@ -9,6 +8,10 @@ roots:
   - odont-
   - -agra
 "definition:": toothache
+"alphabet:": O
+forms:
+  - noun
+  - combining
 ---
 >[!note]+ Definition of odontagra
 >[[odont-]][[-agra]] - toothache, especially from gout (tooth pain)

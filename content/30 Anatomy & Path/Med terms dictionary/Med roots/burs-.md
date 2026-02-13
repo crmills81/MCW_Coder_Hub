@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [burs-]
-forms: [combining]
-alphabet:: B
-definition: [bursa]
+roots:
+  - burs-
+forms:
+  - combining
+  - prefix
+"alphabet:": B
+definition:
+  - bursa
 ---
 >[!Note] DEFINITION of burs-
 >bursa (see also: [[asc-]])

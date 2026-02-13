@@ -1,10 +1,19 @@
 ---
-tags: [" #medroot"]
-aliases: [ankyl-]
-roots: [ancyl-, ankyl-]
-forms: [combining]
-alphabet:: A
-definition: [fused, stiffened, hooked, crooked]
+tags:
+  - medroot
+aliases:
+  - ankyl-
+roots:
+  - ancyl-
+  - ankyl-
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - fused
+  - stiffened
+  - hooked
+  - crooked
 ---
 >[!Note] DEFINITION of ancyl-
 >1. fused, stiffened

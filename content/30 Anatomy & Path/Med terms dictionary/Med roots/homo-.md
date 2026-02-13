@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [homeo-]
-forms: [prefix]
-roots: [homo-, homeo-]
-alphabet:: H
-definition: [same, likeness]
+tags:
+  - medroot
+aliases:
+  - homeo-
+forms:
+  - prefix
+roots:
+  - homo-
+  - homeo-
+"alphabet:": H
+definition:
+  - same
+  - likeness
 ---
 >[!Note] DEFINITION of homo-
 >same, likeness

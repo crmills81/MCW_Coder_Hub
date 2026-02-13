@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [larynx]
-roots: [laryng-, larynx]
-forms: [combining]
-alphabet:: L
-definition: [larynx]
+tags:
+  - medroot
+aliases:
+  - larynx
+roots:
+  - laryng-
+  - larynx
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - larynx
 ---
 >[!Note] DEFINITION of laryng-
 >larynx

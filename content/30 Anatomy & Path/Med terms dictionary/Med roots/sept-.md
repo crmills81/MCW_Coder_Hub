@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [sept-]
-forms: [combining]
-alphabet:: S
-definition: [wall, partition]
+roots:
+  - sept-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - wall
+  - partition
 ---
 >[!Note] DEFINITION of sept-
 >wall, partition

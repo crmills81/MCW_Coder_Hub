@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [ampho-]
-forms: [prefix]
-roots: [amphi-, ampho-]
-alphabet:: A
-definition: [on both sides, both, around]
+tags:
+  - medroot
+aliases:
+  - ampho-
+forms:
+  - prefix
+roots:
+  - amphi-
+  - ampho-
+"alphabet:": A
+definition:
+  - on both sides
+  - both
+  - around
 ---
 >[!Note] DEFINITION of amphi-
 >1. On both sides, both

@@ -1,10 +1,19 @@
 ---
-tags: [" #medroot"]
-aliases: [di(s)-, dif-]
-forms: [prefix]
-roots: [dis-, di(s)-, dif-]
-alphabet:: D
-definition: [apart, away]
+tags:
+  - medroot
+aliases:
+  - di(s)-
+  - dif-
+forms:
+  - prefix
+roots:
+  - dis-
+  - di(s)-
+  - dif-
+"alphabet:": D
+definition:
+  - apart
+  - away
 ---
 >[!Note] DEFINITION of dis-
 >apart, away

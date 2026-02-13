@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [brachi-]
-forms: [combining]
-alphabet:: b
-definition: [arm]
+roots:
+  - brachi-
+forms:
+  - combining
+  - prefix
+"alphabet:": b
+definition:
+  - arm
 ---
 >[!Note] DEFINITION of brachi-
 >(upper) arm

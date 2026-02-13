@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [euryn-]
-roots: [eury-, euryn-]
-forms: [combining]
-alphabet:: E
-definition: [widen, dilate]
+tags:
+  - medroot
+aliases:
+  - euryn-
+roots:
+  - eury-
+  - euryn-
+forms:
+  - combining
+"alphabet:": E
+definition:
+  - widen
+  - dilate
 ---
 >[!Note] DEFINITION of eury-
 >widen, dilate

@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [neutr-]
-forms: [combining]
-alphabet:: N
-definition: [neither]
+roots:
+  - neutr-
+forms:
+  - combining
+"alphabet:": N
+definition:
+  - neither
 ---
 >[!Note] DEFINITION of neutr-
 >neither

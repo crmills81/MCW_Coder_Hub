@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [culex]
-forms: [combining]
-alphabet:: C
-definition: [gnat]
+roots:
+  - culex
+forms:
+  - combining
+"alphabet:": C
+definition:
+  - gnat
 ---
 >[!Note] DEFINITION of culex
 >gnat

@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [calor-]
-forms: [combining]
-alphabet:: C
-definition: [heat, energy]
+roots:
+  - calor-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - heat
+  - energy
 ---
 >[!Note] DEFINITION of calor-
 >heat, energy

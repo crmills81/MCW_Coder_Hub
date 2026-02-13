@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [gram-]
-forms: [combining]
-alphabet:: G
-definition: [a record]
+roots:
+  - gram-
+forms:
+  - combining
+  - prefix
+"alphabet:": G
+definition:
+  - a record
 ---
 >[!Note] DEFINITION of gram-
 >a record 

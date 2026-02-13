@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [malac-]
-forms: [combining]
-alphabet:: M
-definition: [soft]
+roots:
+  - malac-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - soft
 ---
 >[!Note] DEFINITION of malac-
 >soft

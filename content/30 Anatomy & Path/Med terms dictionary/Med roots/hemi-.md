@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-forms: [prefix]
-roots: [hemi-]
-alphabet:: H
-definition: [half, partial, (often) one side of the body]
+forms:
+  - prefix
+roots:
+  - hemi-
+"alphabet:": H
+definition:
+  - half
+  - partial
+  - (often) one side of the body
 ---
 >[!Note] DEFINITION of hemi-
 >1. half, partial

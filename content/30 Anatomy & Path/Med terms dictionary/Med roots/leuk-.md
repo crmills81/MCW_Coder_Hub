@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [leuk-]
-forms: [combining]
-alphabet:: L
-definition: [white, white blood cell]
+roots:
+  - leuk-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - white
+  - white blood cell
 ---
 >[!Note] DEFINITION of leuk-
 >white, white blood cell

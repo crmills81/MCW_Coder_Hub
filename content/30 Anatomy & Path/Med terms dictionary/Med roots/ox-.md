@@ -1,10 +1,20 @@
 ---
-tags: [" #medroot"]
-aliases: [oxy-]
-forms: [combining]
-roots: [ox-, oxy-]
-alphabet:: O
-definition: [acute, pointed, rapid, acid, oxygen]
+tags:
+  - medroot
+aliases:
+  - oxy-
+forms:
+  - combining
+roots:
+  - ox-
+  - oxy-
+"alphabet:": O
+definition:
+  - acute
+  - pointed
+  - rapid
+  - acid
+  - oxygen
 ---
 >[!Note] Definition of ox-
 >1. acute, pointed

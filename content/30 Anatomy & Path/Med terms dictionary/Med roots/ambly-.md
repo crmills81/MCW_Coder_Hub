@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [ambly-]
-forms: [combining]
-alphabet:: A
-definition: [dull, faint]
+roots:
+  - ambly-
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - dull
+  - faint
 ---
 >[!Note] DEFINITION of ambly-
 >dull, faint

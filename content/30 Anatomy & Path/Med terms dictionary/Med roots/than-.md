@@ -1,5 +1,5 @@
 ---
-tags: [" #medroot"]
+tags: [medroot]
 aliases: [thanat-]
 roots: [than-, thanat-]
 forms: [combining]

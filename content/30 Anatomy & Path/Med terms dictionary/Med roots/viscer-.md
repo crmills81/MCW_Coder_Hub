@@ -1,5 +1,5 @@
 ---
-tags: [" #medroot"]
+tags: [medroot]
 aliases: [viscus-]
 roots: [viscer-, viscus-]
 forms: [combining]

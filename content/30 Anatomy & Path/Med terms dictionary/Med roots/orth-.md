@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [orth-]
-forms: [combining]
-alphabet:: O
-definition: [straight, erect, normal]
+roots:
+  - orth-
+forms:
+  - combining
+"alphabet:": O
+definition:
+  - straight
+  - erect
+  - normal
 ---
 >[!Note] DEFINITION of orth-
 >1. straight, erect

@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [poly-]
-forms: [combining]
-alphabet:: P
-definition: [many, excessive]
+roots:
+  - poly-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - many
+  - excessive
 ---
 >[!Note] DEFINITION of poly-
 >many, excessive

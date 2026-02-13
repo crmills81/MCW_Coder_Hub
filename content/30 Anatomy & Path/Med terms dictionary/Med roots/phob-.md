@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [phob-]
-forms: [combining]
-alphabet:: P
-definition: [fear]
+roots:
+  - phob-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - fear
 ---
 >[!Note] DEFINITION of phob-
 >(abnormal) fear

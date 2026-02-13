@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [blenn-]
-forms: [combining]
-alphabet:: B
-definition: [mucus]
+roots:
+  - blenn-
+forms:
+  - combining
+"alphabet:": B
+definition:
+  - mucus
 ---
 >[!Note] DEFINITION of blenn-
 >mucus

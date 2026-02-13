@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [pip-]
-forms: [combining]
-alphabet:: P
-definition: [peep, chirp]
+roots:
+  - pip-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - peep
+  - chirp
 ---
 >[!Note] DEFINITION of pip-
 >peep, chirp

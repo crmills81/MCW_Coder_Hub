@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [drom-]
-forms: [combining]
-alphabet:: D
-definition: [a running, running]
+roots:
+  - drom-
+forms:
+  - combining
+"alphabet:": D
+definition:
+  - a running
+  - running
 ---
 >[!Note] DEFINITION of drom-
 >a running, running

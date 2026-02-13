@@ -1,6 +1,7 @@
 ---
 tags:
   - medroot
+  - medterm
 aliases:
   - cystoscope
 roots:
@@ -9,6 +10,7 @@ roots:
   - -scopy
 forms:
   - noun
+  - combining
 "alphabet:": C
 definition:
   - an instrument for examining

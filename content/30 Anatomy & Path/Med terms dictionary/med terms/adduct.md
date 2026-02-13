@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medterm "
   - general
   - context
   - medterm

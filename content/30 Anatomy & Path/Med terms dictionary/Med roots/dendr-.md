@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [dendr-]
-forms: [combining]
-alphabet:: D
-definition: [dendrite, dendron]
+roots:
+  - dendr-
+forms:
+  - combining
+"alphabet:": D
+definition:
+  - dendrite
+  - dendron
 ---
 >[!Note] DEFINITION of dendr-
 >dendrite, dendron

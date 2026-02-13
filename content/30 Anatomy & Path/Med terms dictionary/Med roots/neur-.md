@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [neur-]
-forms: [combining]
-alphabet:: N
-definition: [neuron, nerve, nervous system]
+roots:
+  - neur-
+forms:
+  - combining
+"alphabet:": N
+definition:
+  - neuron
+  - nerve
+  - nervous system
 ---
 >[!Note] DEFINITION of neur-
 >neuron, nerve, nervous system

@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [granul-]
-forms: [combining]
-alphabet:: G
-definition: [granule]
+roots:
+  - granul-
+forms:
+  - combining
+  - prefix
+"alphabet:": G
+definition:
+  - granule
 ---
 >[!Note] DEFINITION of granul-
 >granule

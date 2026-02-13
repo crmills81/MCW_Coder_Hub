@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [insul-]
-forms: [combining]
-alphabet:: I
-definition: [island]
+roots:
+  - insul-
+forms:
+  - combining
+  - prefix
+"alphabet:": I
+definition:
+  - island
 ---
 >[!Note] DEFINITION of insul-
 >island

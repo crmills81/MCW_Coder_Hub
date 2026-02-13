@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-forms: [prefix]
-roots: [eso-]
-alphabet:: E
-definition: [within, inner, inward]
+forms:
+roots:
+  - eso-
+"alphabet:": E
+definition:
+  - within
+  - inner
+  - inward
 ---
 >[!Note] DEFINITION of eso-
 >within, inner, inward

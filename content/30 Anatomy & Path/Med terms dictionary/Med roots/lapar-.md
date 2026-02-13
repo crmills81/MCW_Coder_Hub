@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [lapar-]
-forms: [combining]
-alphabet:: L
-definition: [abdomen, abdominal wall]
+roots:
+  - lapar-
+forms:
+  - combining
+  - prefix
+"alphabet:": L
+definition:
+  - abdomen
+  - abdominal wall
 ---
 >[!Note] DEFINITION of lapar-
 >abdomen, abdominal wall

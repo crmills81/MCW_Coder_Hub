@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [gonad-]
-forms: [combining]
-alphabet:: G
-definition: [sex glands, sex organs]
+roots:
+  - gonad-
+forms:
+  - combining
+  - prefix
+"alphabet:": G
+definition:
+  - sex glands
+  - sex organs
 ---
 >[!Note] DEFINITION of gonad-
 >sex glands, sex organs

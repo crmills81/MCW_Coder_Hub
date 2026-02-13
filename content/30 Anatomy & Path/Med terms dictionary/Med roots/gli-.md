@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [-glia-]
-roots: [gli-]
-forms: [combining]
-alphabet:: G
-definition: [glia, neuroglia]
+tags:
+  - medroot
+aliases:
+  - -glia-
+roots:
+  - gli-
+forms:
+  - combining
+  - prefix
+"alphabet:": G
+definition:
+  - glia
+  - neuroglia
 ---
 >[!Note] DEFINITION of gli-
 >glia, neuroglia

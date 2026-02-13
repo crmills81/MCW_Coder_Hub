@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [stat-]
-roots: [sta-, stat-]
-forms: [combining]
-alphabet:: S
-definition: [stand, stop]
+tags:
+  - medroot
+aliases:
+  - stat-
+roots:
+  - sta-
+  - stat-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - stand
+  - stop
 ---
 >[!Note] DEFINITION of sta-
 >stand, stop

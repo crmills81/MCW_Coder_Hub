@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [dolich-]
-forms: [combining]
-alphabet:: D
-definition: [long, narrow, slender]
+roots:
+  - dolich-
+forms:
+  - combining
+"alphabet:": D
+definition:
+  - long
+  - narrow
+  - slender
 ---
 >[!Note] DEFINITION of dolich-
 >long, narrow, slender (see also: [[-doch-]])

@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [aut-]
-forms: [combining]
-alphabet:: A
-definition: [self]
+roots:
+  - aut-
+forms:
+  - combining
+  - prefix
+"alphabet:": A
+definition:
+  - self
 ---
 >[!Note] DEFINITION of aut-
 >self

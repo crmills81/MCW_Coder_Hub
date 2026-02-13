@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medterm "
   - medroot
   - medterm
 aliases:

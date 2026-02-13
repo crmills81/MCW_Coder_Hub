@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [pneum(on)-]
-roots: [pneumon-, pneum(on)-]
-forms: [combining]
-alphabet:: P
-definition: [lung]
+tags:
+  - medroot
+aliases:
+  - pneum(on)-
+roots:
+  - pneumon-
+  - pneum(on)-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - lung
 ---
 >[!Note] DEFINITION of pneumon-
 >lung

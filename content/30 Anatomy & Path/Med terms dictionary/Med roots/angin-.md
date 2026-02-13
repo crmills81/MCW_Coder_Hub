@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [angin-]
-forms: [combining]
-alphabet:: A
-definition: [choking pain, angina pectoris]
+roots:
+  - angin-
+forms:
+  - combining
+"alphabet:": A
+definition:
+  - choking pain
+  - angina pectoris
 ---
 >[!Note] DEFINITION of angin-
 >choking pain, angina pectoris (chest pain)

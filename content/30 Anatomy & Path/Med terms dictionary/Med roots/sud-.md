@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [sudor-]
-roots: [sud-, sudor-]
-forms: [combining]
-alphabet:: S
-definition: [sweat, fluid]
+tags:
+  - medroot
+aliases:
+  - sudor-
+roots:
+  - sud-
+  - sudor-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - sweat
+  - fluid
 ---
 >[!Note] DEFINITION of sud-
 >sweat, fluid

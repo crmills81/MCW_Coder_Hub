@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [sigm-]
-forms: [combining]
-alphabet:: S
-definition: [sigmoid colon]
+roots:
+  - sigm-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - sigmoid colon
 ---
 >[!Note] DEFINITION of sigm-
 >sigmoid [[col-|colon-]]

@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
-aliases: [phot-]
-roots: [phos-, phot-]
-forms: [combining]
-alphabet:: P
-definition: [light, daylight]
+tags:
+aliases:
+  - phot-
+roots:
+  - phos-
+  - phot-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - light
+  - daylight
 ---
 >[!Note] DEFINITION of phos-
 >light, daylight

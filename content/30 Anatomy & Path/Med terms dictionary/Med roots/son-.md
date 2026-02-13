@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [son-]
-forms: [combining]
-alphabet:: S
-definition: [sound]
+roots:
+  - son-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - sound
 ---
 >[!Note] DEFINITION of son-
 >sound

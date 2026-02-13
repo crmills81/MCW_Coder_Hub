@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [post-]
-forms: [prefix]
-alphabet:: P
-definition: [after, following, behind]
+roots:
+  - post-
+forms:
+  - prefix
+"alphabet:": P
+definition:
+  - after
+  - following
+  - behind
 ---
 >[!Note] DEFINITION of post-
 >after, following, behind

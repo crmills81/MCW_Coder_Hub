@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [cat-]
-forms: [prefix]
-roots: [cata-, cat-]
-alphabet:: C
-definition: [downward, disordered]
+tags:
+  - medroot
+aliases:
+  - cat-
+forms:
+  - prefix
+roots:
+  - cata-
+  - cat-
+"alphabet:": C
+definition:
+  - downward
+  - disordered
 ---
 >[!Note] DEFINITION of cata-
 >1. downward

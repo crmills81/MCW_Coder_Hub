@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [echo-]
-forms: [combining]
-alphabet:: E
-definition: [reverberating sound, echo]
+roots:
+  - echo-
+forms:
+  - combining
+"alphabet:": E
+definition:
+  - reverberating sound
+  - echo
 ---
 >[!Note] DEFINITION of echo-
 >reverberating sound, echo

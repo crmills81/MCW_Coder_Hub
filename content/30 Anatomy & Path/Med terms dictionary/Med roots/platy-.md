@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [platy-]
-forms: [combining]
-alphabet:: P
-definition: [flat]
+roots:
+  - platy-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - flat
 ---
 >[!Note] DEFINITION of platy-
 >flat

@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
-aliases: [gurgitat-]
-roots: [gurgit-, gurgitat-]
-forms: [combining]
-alphabet:: G
-definition: [flood, flow]
+tags:
+  - medroot
+aliases:
+  - gurgitat-
+roots:
+  - gurgit-
+  - gurgitat-
+forms:
+  - combining
+  - prefix
+"alphabet:": G
+definition:
+  - flood
+  - flow
 ---
 >[!Note] DEFINITION of gurgit-
 >flood, blow

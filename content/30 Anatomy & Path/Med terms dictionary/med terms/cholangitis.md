@@ -1,6 +1,6 @@
 ---
 tags:
-  - " #medterm "
+  - medterm
 aliases: []
 roots:
   - chol-
@@ -8,6 +8,9 @@ roots:
   - -itis
 "definition:": inflammation of hepatic ducts or cystic duct
 forms:
+  - noun
+  - combining
+"alphabet:": C
 ---
 >[!note]+ Definition of cholangitis
 >[[chol-]][[angi-]][[-itis]] - inflammation of hepatic bile ducts or cystic bile duct (inflammation of bile duct)

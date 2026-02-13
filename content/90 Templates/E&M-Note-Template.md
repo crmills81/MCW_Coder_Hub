@@ -1,13 +1,13 @@
 ---
-title: CPT <% tp.user.prompt("Code (e.g., 99233)") %> - <% tp.user.prompt("Type (e.g., Subsequent Inpatient)") %>
+title: CPT:
 tags:
   - medical-coding
   - e-m
-  - <% tp.user.prompt("Specialty (e.g., Urology)") %>
-date: <% tp.date.now("YYYY-MM-DD") %>
-reimb: <% tp.user.prompt("wRVU or $ (e.g., 1.39 / $110)") %>
-time_floor: <% tp.user.prompt("Time threshold in mins (e.g., 50)") %>
-mdm_level: <% tp.user.prompt("MDM Level", ["Straightforward", "Low", "Moderate", "High"]) %>
+  -
+date: 
+reimb:
+time_floor: 
+mdm_level:
 ---
 
 ## 🩺 Requirements (2026 AMA/CMS Guidelines)

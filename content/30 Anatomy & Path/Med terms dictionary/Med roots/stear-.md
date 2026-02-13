@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [steat-]
-roots: [stear-]
-forms: [combining]
-alphabet:: S
-definition: [fat, sebum, sebaceous glands]
+tags:
+  - medroot
+aliases:
+  - steat-
+roots:
+  - stear-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - fat
+  - sebum
+  - sebaceous glands
 ---
 >[!Note] DEFINITION of stear-
 >fat, sebum, sebaceous glands

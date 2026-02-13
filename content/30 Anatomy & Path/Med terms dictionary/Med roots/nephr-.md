@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [nephr-]
-forms: [combining]
-alphabet:: N
-definition: [kidney]
+roots:
+  - nephr-
+forms:
+  - combining
+"alphabet:": N
+definition:
+  - kidney
 ---
 >[!Note] DEFINITION of nephr-
 >kidney

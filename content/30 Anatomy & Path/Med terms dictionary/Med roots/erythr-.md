@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [erythr-]
-forms: [combining]
-alphabet:: E
-definition: [red, red blood cell]
+roots:
+  - erythr-
+forms:
+  - combining
+"alphabet:": E
+definition:
+  - red
+  - red blood cell
 ---
 >[!Note] DEFINITION of erythr-
 >red, red blood cell

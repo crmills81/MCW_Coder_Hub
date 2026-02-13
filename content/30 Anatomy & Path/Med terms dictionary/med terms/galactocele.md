@@ -1,8 +1,15 @@
 ---
-tags: [" #medterm "]
+tags:
+  - medterm
 aliases: []
-roots: [galact-, -cel- ]
-definition:: Milk-filled tumor
+roots:
+  - galact-
+  - -cel-
+"definition:": Milk-filled tumor
+"alphabet:": G
+forms:
+  - noun
+  - combining
 ---
 >[!note]+ Definition of galactocele
 > [[gal-|galact-]]o[[-cel-]][[-e]] - Milk-filled tumor caused by obstruction of milk duct (milk tumor)

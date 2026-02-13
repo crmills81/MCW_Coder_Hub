@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [eme-]
-forms: [combining]
-alphabet:: E
-definition: [vomit]
+roots:
+  - eme-
+forms:
+  - combining
+"alphabet:": E
+definition:
+  - vomit
 ---
 >[!Note] DEFINITION of eme-
 >vomit

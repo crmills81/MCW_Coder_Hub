@@ -1,10 +1,18 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [is-]
-forms: [combining]
-alphabet:: I
-definition: [equal, same, similar, alike]
+roots:
+  - is-
+forms:
+  - combining
+  - prefix
+"alphabet:": I
+definition:
+  - equal
+  - same
+  - similar
+  - alike
 ---
 >[!Note] DEFINITION of is-
 >equal, same, similar, alike

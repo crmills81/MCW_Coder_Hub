@@ -1,10 +1,15 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [chondr-]
-forms: [combining]
-alphabet:: C
-definition: [cartilage]
+roots:
+  - chondr-
+forms:
+  - combining
+  - prefix
+"alphabet:": C
+definition:
+  - cartilage
 ---
 >[!Note] DEFINITION of chondr-
 >cartilage

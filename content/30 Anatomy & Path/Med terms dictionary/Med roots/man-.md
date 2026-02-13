@@ -1,10 +1,14 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [man-]
-forms: [combining]
-alphabet:: M
-definition: [be mad]
+roots:
+  - man-
+forms:
+  - combining
+"alphabet:": M
+definition:
+  - be mad
 ---
 >[!Note] DEFINITION of man-
 >be mad (crazy)

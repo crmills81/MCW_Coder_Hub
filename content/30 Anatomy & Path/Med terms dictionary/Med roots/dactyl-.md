@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
 aliases: []
-roots: [dactyl-]
-forms: [combining]
-alphabet:: D
-definition: [finger, toe]
+roots:
+  - dactyl-
+forms:
+  - combining
+  - prefix
+"alphabet:": D
+definition:
+  - finger
+  - toe
 ---
 >[!Note] DEFINITION of dactyl-
 >finger, toe

@@ -1,10 +1,19 @@
 ---
-tags: [" #medroot"]
-aliases: [hyp-]
-forms:: [prefix]
-roots:: [hypo-, hyp-]
-alphabet:: H
-definition: [under, deficient, below normal, low]
+tags:
+  - medroot
+aliases:
+  - hyp-
+"forms:":
+  - prefix
+"roots:":
+  - hypo-
+  - hyp-
+"alphabet:": H
+definition:
+  - under
+  - deficient
+  - below normal
+  - low
 ---
 >[!Note] Definition of hypo-
 >under, deficient, below normal

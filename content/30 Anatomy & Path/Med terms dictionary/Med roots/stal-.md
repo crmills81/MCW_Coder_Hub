@@ -1,10 +1,17 @@
 ---
-tags: [" #medroot"]
-aliases: [stol-]
-roots: [stal-, stol-]
-forms: [combining]
-alphabet:: S
-definition: [send, contraction]
+tags:
+  - medroot
+aliases:
+  - stol-
+roots:
+  - stal-
+  - stol-
+forms:
+  - combining
+"alphabet:": S
+definition:
+  - send
+  - contraction
 ---
 >[!Note] DEFINITION of stal-
 >send, contraction
