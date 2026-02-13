@@ -1,6 +1,5 @@
-
 ---
-tags:
+tags: 
   - specialty_dashboard
   - specialty/urology
 ---
@@ -26,3 +25,4 @@ TABLE without id file.link as "Topic", file.mtime as "Last Updated"
 FROM #medical_coding/guideline
 WHERE contains(file.tags, this.file.tags[1])
 SORT file.name ASC
+```

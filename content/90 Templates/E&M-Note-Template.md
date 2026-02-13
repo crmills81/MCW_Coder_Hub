@@ -1,13 +1,14 @@
 ---
-title: CPT:
-tags:
+title: 
+CPT: 
+tags: 
   - medical-coding
   - e-m
-  -
+  
 date: 
-reimb:
+reimb: 
 time_floor: 
-mdm_level:
+mdm_level: 
 ---
 
 ## 🩺 Requirements (2026 AMA/CMS Guidelines)
