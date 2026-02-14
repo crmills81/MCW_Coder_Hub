@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Google Sans",
+        header: "Schibsted Grotesk",
         body: "Google Sans",
         code: "Google Sans",
       },
