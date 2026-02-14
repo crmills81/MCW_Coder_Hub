@@ -84,7 +84,7 @@ _____
 ## Related Terms
 
 - **[[Cystoscopy]]:** Synonym (urethra often implied).  
-- **[[Ureteroscopy]]:** [[Ureter]]/renal pelvis ([[52351]] CPT).  
+- **[[ureteroscopy]]:** [[Ureter]]/renal pelvis ([[52351]] CPT).  
 - **[[TURBT]]:** Therapeutic resection via cystoscope.  
 - **[[Cystolitholapaxy]]:** Stone fragmentation ([[52317]] CPT).  
 - **Complications:** UTI (10%), bleeding, perforation (<1%), stricture.[1][4]

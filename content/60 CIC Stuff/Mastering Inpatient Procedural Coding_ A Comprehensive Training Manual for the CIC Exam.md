@@ -44,7 +44,7 @@ As a coder, you will encounter various departments and facility types, each with
 Accurate coding is entirely dependent on the quality of the medical record. The health record is the comprehensive "story" of the patient's hospital stay, and you must review several key documents to abstract the full picture.
 
 * **Discharge Summary (DS):** Often the first stop for a coder, this document provides a synopsis of the entire hospital course.  
-* **Admission History and Physical (H\&P):** This crucial document details the patient's history and the findings from their initial physical examination. It must be documented within 24 hours of an inpatient admission.  
+* **Admission History and Physical (H &P):** This crucial document details the patient's history and the findings from their initial physical examination. It must be documented within 24 hours of an inpatient admission.  
 * **Operative Reports (OR Reports):** These reports are essential for coding surgical procedures, detailing the findings, techniques, and the specific procedures performed.  
 * **Progress Notes:** These are the daily entries from healthcare providers that record the patient's condition, their response to treatments, and the ongoing plan of care.
 
@@ -74,13 +74,13 @@ The table below outlines the function of each of the seven characters.
 
 | Character | Description |
 | :---- | :---- |
-| **1\. Section** | Identifies the broad category of procedure (e.g., Medical and Surgical, Obstetrics). |
-| **2\. Body System** | Specifies the general physiological system or anatomical region involved. |
-| **3\. Root Operation** | Defines the objective, or goal, of the procedure (e.g., Excision, Bypass, Repair). |
-| **4\. Body Part** | Identifies the specific anatomical site where the procedure was performed. |
-| **5\. Approach** | The technique or method used to reach the procedure site (e.g., Open, Percutaneous). |
-| **6\. Device** | Indicates whether a device was left in place at the conclusion of the procedure. |
-| **7\. Qualifier** | Provides additional, specific information about the procedure (e.g., diagnostic). |
+| **1 . Section** | Identifies the broad category of procedure (e.g., Medical and Surgical, Obstetrics). |
+| **2 . Body System** | Specifies the general physiological system or anatomical region involved. |
+| **3 . Root Operation** | Defines the objective, or goal, of the procedure (e.g., Excision, Bypass, Repair). |
+| **4 . Body Part** | Identifies the specific anatomical site where the procedure was performed. |
+| **5 . Approach** | The technique or method used to reach the procedure site (e.g., Open, Percutaneous). |
+| **6 . Device** | Indicates whether a device was left in place at the conclusion of the procedure. |
+| **7 . Qualifier** | Provides additional, specific information about the procedure (e.g., diagnostic). |
 
 To illustrate this structure, let's deconstruct the ICD-10-PCS code `0LB50ZZ`: **Excision of right lower arm and wrist tendon, open approach**.
 
@@ -100,13 +100,13 @@ The first character of an ICD-10-PCS code identifies the broad category of the p
 
 The major sections available in ICD-10-PCS include:
 
-* **0 \- Medical and Surgical:** The largest section, covering most traditional surgical procedures.  
-* **1 \- Obstetrics:** Procedures performed on a pregnant female.  
-* **3 \- Administration:** Procedures involving putting in or on a therapeutic, prophylactic, protective, diagnostic, nutritional, or physiological substance.  
-* **C \- Nuclear Medicine:** Procedures that introduce radioactive material into the body for imaging, diagnosis, or treatment.  
-* **F \- Physical Rehabilitation and Diagnostic Audiology:** Procedures to treat or assess motor function, activities of daily living, or hearing.  
-* **H \- Substance Abuse Treatment:** Procedures such as detoxification services or individual counseling for substance abuse.  
-* **X \- New Technology:** Codes for new and emerging technologies that do not have a place in other sections.
+* **0  - Medical and Surgical:** The largest section, covering most traditional surgical procedures.  
+* **1  - Obstetrics:** Procedures performed on a pregnant female.  
+* **3  - Administration:** Procedures involving putting in or on a therapeutic, prophylactic, protective, diagnostic, nutritional, or physiological substance.  
+* **C  - Nuclear Medicine:** Procedures that introduce radioactive material into the body for imaging, diagnosis, or treatment.  
+* **F  - Physical Rehabilitation and Diagnostic Audiology:** Procedures to treat or assess motor function, activities of daily living, or hearing.  
+* **H  - Substance Abuse Treatment:** Procedures such as detoxification services or individual counseling for substance abuse.  
+* **X  - New Technology:** Codes for new and emerging technologies that do not have a place in other sections.
 
 The Medical and Surgical section is the largest and most commonly used section in inpatient procedural coding. This section provides the foundation for the next character: Body System.
 
@@ -123,66 +123,66 @@ In the Medical and Surgical section, some body systems are subdivided to provide
 
 The combination of the Section and Body System is critical, as it directs the coder to the correct PCS table. It is within this table that the coder will select the most important character in the entire code: the Root Operation.
 
-### **3.4 Character 3: The Heart of the Code \- Root Operations**
+### **3.4 Character 3: The Heart of the Code  - Root Operations**
 
 The Root Operation is the most critical character in building an ICD-10-PCS code because it defines the *objective* of the procedure. Physicians do not typically use PCS terminology in their operative reports; therefore, a coder's primary task is to translate the documented procedural description into the precise definition of one of the 31 root operations. Mastering these definitions is essential for accuracy. The root operations can be organized into logical groups based on their objective.
 
 **Group 1: Procedures that Take Out Some or All of a Body Part**
 
 * **Excision (B):** Cutting out or off, without replacement, a *portion* of a body part.  
-  * *Example:* `0BB40ZZ` \- Excision of Right Upper Lobe Bronchus, Open Approach  
+  * *Example:* `0BB40ZZ`  - Excision of Right Upper Lobe Bronchus, Open Approach  
 * **Resection (T):** Cutting out or off, without replacement, *all* of a body part.  
-  * *Example:* `0FT44ZZ` \- Resection of Gallbladder, Percutaneous Endoscopic Approach  
+  * *Example:* `0FT44ZZ`  - Resection of Gallbladder, Percutaneous Endoscopic Approach  
 * **Detachment (6):** Cutting off all or a portion of the upper or lower extremities.  
 * **Destruction (5):** Physical eradication of all or a portion of a body part by the direct use of energy, force, or a destructive agent.  
-  * *Example:* `085SXZZ` \- Destruction of Right Conjunctiva, External Approach  
+  * *Example:* `085SXZZ`  - Destruction of Right Conjunctiva, External Approach  
 * **Extirpation (C):** Taking or cutting out solid matter from a body part.  
-  * *Example:* `03CU3ZZ` \- Extirpation of Matter from Right Thyroid Artery, Percutaneous Approach
+  * *Example:* `03CU3ZZ`  - Extirpation of Matter from Right Thyroid Artery, Percutaneous Approach
 
 **Group 2: Procedures that Involve Putting In/On, Moving, or Taking Out Devices**
 
 * **Insertion (H):** Putting in a nonbiological device that monitors, assists, performs, or prevents a physiological function but does not physically take the place of a body part.  
-  * *Example:* `0RH14CZ` \- Insertion of Pedicle-Based Spinal Stabilization Device into Cervical Vertebral Joint, Percutaneous Endoscopic Approach  
+  * *Example:* `0RH14CZ`  - Insertion of Pedicle-Based Spinal Stabilization Device into Cervical Vertebral Joint, Percutaneous Endoscopic Approach  
 * **Replacement (R):** Putting in or on biological or synthetic material that physically takes the place and/or function of all or a portion of a body part.  
-  * *Example:* `0KR50JZ` \- Replacement of Right Shoulder Muscle with Synthetic Substitute, Open Approach  
+  * *Example:* `0KR50JZ`  - Replacement of Right Shoulder Muscle with Synthetic Substitute, Open Approach  
 * **Supplement (U):** Putting in or on biological or synthetic material that physically reinforces and/or augments the function of a portion of a body part.  
-  * *Example:* `0DUA7JZ` \- Supplement Jejunum with Synthetic Substitute, Via Natural or Artificial Opening  
+  * *Example:* `0DUA7JZ`  - Supplement Jejunum with Synthetic Substitute, Via Natural or Artificial Opening  
 * **Change (2):** Taking out or off a device from a body part and putting back an identical or similar device in or on the same body part without cutting or puncturing the skin or a mucous membrane.  
-  * *Example:* `2W0NX3Z` \- Change Brace on Right Upper Leg  
+  * *Example:* `2W0NX3Z`  - Change Brace on Right Upper Leg  
 * **Removal (P):** Taking out or off a device from a body part.  
-  * *Example:* `0WPF3JZ` \- Removal of Synthetic Substitute from Abdominal Wall, Percutaneous Approach  
+  * *Example:* `0WPF3JZ`  - Removal of Synthetic Substitute from Abdominal Wall, Percutaneous Approach  
 * **Revision (W):** Correcting, to the extent possible, a portion of a malfunctioning device or the position of a displaced device.  
-  * *Example:* `0QWK05Z` \- Revision of External Fixation Device in Left Fibula, Open Approach
+  * *Example:* `0QWK05Z`  - Revision of External Fixation Device in Left Fibula, Open Approach
 
 **Group 3: Procedures that Involve Cutting or Separation Only**
 
 * **Division (8):** Cutting into a body part without draining fluids and/or gases from the body part in order to separate or transect a body part.  
 * **Release (N):** Freeing a body part from an abnormal physical constraint by cutting or by use of force.  
-  * *Example:* `0RNM3ZZ` \- Release Left Elbow Joint, Percutaneous Approach
+  * *Example:* `0RNM3ZZ`  - Release Left Elbow Joint, Percutaneous Approach
 
 **Group 4: Procedures that Alter the Diameter or Route of a Tubular Body Part**
 
 * **Dilation (7):** Expanding an orifice or the lumen of a tubular body part.  
-  * *Example:* `037L3ZZ` \- Dilation of Left Internal Carotid Artery, Percutaneous Approach  
+  * *Example:* `037L3ZZ`  - Dilation of Left Internal Carotid Artery, Percutaneous Approach  
 * **Restriction (V):** Partially closing an orifice or the lumen of a tubular body part.  
-  * *Example:* `07VB3DZ` \- Restriction of Mesenteric Lymphatic with Intraluminal Device, Percutaneous Approach  
+  * *Example:* `07VB3DZ`  - Restriction of Mesenteric Lymphatic with Intraluminal Device, Percutaneous Approach  
 * **Occlusion (L):** Completely closing an orifice or the lumen of a tubular body part.  
-  * *Example:* `06L53DZ` \- Occlusion of Superior Mesenteric Vein with Intraluminal Device, Percutaneous Approach  
+  * *Example:* `06L53DZ`  - Occlusion of Superior Mesenteric Vein with Intraluminal Device, Percutaneous Approach  
 * **Bypass (1):** Altering the route of passage of the contents of a tubular body part.  
-  * *Example:* `0D1L0Z4` \- Bypass Transverse Colon to Cutaneous, Open Approach
+  * *Example:* `0D1L0Z4`  - Bypass Transverse Colon to Cutaneous, Open Approach
 
 **Group 5: Other Procedures**
 
 * **Drainage (9):** Taking or letting out fluids and/or gases from a body part.  
-  * *Example:* `0R9T3ZZ` \- Drainage of Left Carpometacarpal Joint, Percutaneous Approach  
+  * *Example:* `0R9T3ZZ`  - Drainage of Left Carpometacarpal Joint, Percutaneous Approach  
 * **Inspection (J):** Visually and/or manually exploring a body part.  
-  * *Example:* `0DJD8ZZ` \- Inspection of Lower Intestinal Tract, Via Natural or Artificial Opening Endoscopic  
+  * *Example:* `0DJD8ZZ`  - Inspection of Lower Intestinal Tract, Via Natural or Artificial Opening Endoscopic  
 * **Repair (Q):** Restoring, to the extent possible, a body part to its normal anatomic structure and function.  
-  * *Example:* `10Q08YL` \- Repair Mouth and Throat in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic  
+  * *Example:* `10Q08YL`  - Repair Mouth and Throat in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic  
 * **Reposition (S):** Moving to its normal location or other suitable location all or a portion of a body part.  
-  * *Example:* `XNS50GA` \- Reposition Left Humeral Shaft with Ring External Fixation Device with Automated Strut Adjustment, Open Approach  
+  * *Example:* `XNS50GA`  - Reposition Left Humeral Shaft with Ring External Fixation Device with Automated Strut Adjustment, Open Approach  
 * **Fusion (G):** Joining together articular body parts.  
-  * *Example:* `0SG507Z` \- Fusion of Sacrococcygeal Joint with Autologous Tissue Substitute, Open Approach  
+  * *Example:* `0SG507Z`  - Fusion of Sacrococcygeal Joint with Autologous Tissue Substitute, Open Approach  
 * **Control (3):** Stopping, or attempting to stop, postprocedural or other acute bleeding.
 
 After determining the correct root operation, the coder must identify the specific anatomical site, or Body Part, which is the next element in building the code.
@@ -218,8 +218,8 @@ The final two characters of an ICD-10-PCS code provide additional detail about t
 
 The following examples illustrate the use of these final characters:
 
-* **Device Example:** `0RH14CZ` \- Insertion of **Pedicle-Based Spinal Stabilization Device** into Cervical Vertebral Joint, Percutaneous Endoscopic Approach. Here, the character 'C' in the 6th position clearly identifies the specific type of device inserted.  
-* **Qualifier Example:** `0R9T3ZX` \- Drainage of Left Carpometacarpal Joint, Percutaneous Approach, **Diagnostic**. Here, the character 'X' in the 7th position specifies that the objective of the drainage was diagnostic.
+* **Device Example:** `0RH14CZ`  - Insertion of **Pedicle-Based Spinal Stabilization Device** into Cervical Vertebral Joint, Percutaneous Endoscopic Approach. Here, the character 'C' in the 6th position clearly identifies the specific type of device inserted.  
+* **Qualifier Example:** `0R9T3ZX`  - Drainage of Left Carpometacarpal Joint, Percutaneous Approach, **Diagnostic**. Here, the character 'X' in the 7th position specifies that the objective of the drainage was diagnostic.
 
 Together, all seven characters work in concert to create a complete, precise, and uniquely identifiable code that fully describes the inpatient procedure.
 
@@ -248,7 +248,7 @@ This section will walk through several common inpatient procedures, demonstratin
 
 * **Analysis:** A cholecystectomy is the surgical removal of the gallbladder. The objective is to cut out or off *all* of the gallbladder, which is a distinct body part in PCS.  
 * **Root Operation:** This objective directly corresponds to the root operation **Resection**, which is defined as "Cutting out or off, without replacement, all of a body part."  
-* **Example Code:** `0FT44ZZ` \- Resection of Gallbladder, Percutaneous Endoscopic Approach  
+* **Example Code:** `0FT44ZZ`  - Resection of Gallbladder, Percutaneous Endoscopic Approach  
   * **0**: Medical and Surgical  
   * **F**: Hepatobiliary System and Pancreas (Body System)  
   * **T**: Resection (Root Operation)  
@@ -261,7 +261,7 @@ This section will walk through several common inpatient procedures, demonstratin
 
 * **Analysis:** "Lysis of adhesions" is a procedure to cut bands of scar tissue (adhesions) that are abnormally binding organs together or to the abdominal wall. The objective is to free the constrained body part.  
 * **Root Operation:** The objective of freeing a body part from an abnormal constraint aligns with the definition of **Release**: "Freeing a body part from an abnormal physical constraint by cutting or by use of force."  
-* **Example Code:** `0KNK0ZZ` \- Release Right Abdomen Muscle, Open Approach  
+* **Example Code:** `0KNK0ZZ`  - Release Right Abdomen Muscle, Open Approach  
   * **0**: Medical and Surgical  
   * **K**: Muscles (Body System)  
   * **N**: Release (Root Operation)  
@@ -274,7 +274,7 @@ This section will walk through several common inpatient procedures, demonstratin
 
 * **Analysis:** An "Open Reduction Internal Fixation" is a surgery to fix a fractured bone. The surgeon makes an open incision to access the bone, realigns the fractured pieces ("reduction"), and uses hardware like screws or plates to hold them in place ("internal fixation"). The primary objective is to move the displaced bone back to its normal location.  
 * **Root Operation:** This objective matches the definition of **Reposition**: "Moving to its normal location or other suitable location all or a portion of a body part."  
-* **Example Code:** `0QS646Z` \- Reposition Right Upper Femur with Intramedullary Internal Fixation Device, Percutaneous Endoscopic Approach  
+* **Example Code:** `0QS646Z`  - Reposition Right Upper Femur with Intramedullary Internal Fixation Device, Percutaneous Endoscopic Approach  
   * **0**: Medical and Surgical  
   * **Q**: Lower Bones (Body System)  
   * **S**: Reposition (Root Operation)  
@@ -287,7 +287,7 @@ This section will walk through several common inpatient procedures, demonstratin
 
 * **Analysis:** A "PTCA" is a procedure to treat a narrowed coronary artery. A catheter with a balloon is inserted percutaneously and guided to the narrowed section of the artery. The balloon is then inflated to widen the artery's lumen. The primary objective is to expand the diameter of the tubular body part (the artery).  
 * **Root Operation:** This objective is defined by the root operation **Dilation**: "Expanding an orifice or the lumen of a tubular body part."  
-* **Example Code:** `037L3ZZ` \- Dilation of Left Internal Carotid Artery, Percutaneous Approach *Note: While the analysis focuses on a coronary artery procedure (PTCA), a verifiable example code for coronary artery dilation is not available in the provided source materials. This example of a carotid artery dilation is used to illustrate the Dilation root operation.*  
+* **Example Code:** `037L3ZZ`  - Dilation of Left Internal Carotid Artery, Percutaneous Approach *Note: While the analysis focuses on a coronary artery procedure (PTCA), a verifiable example code for coronary artery dilation is not available in the provided source materials. This example of a carotid artery dilation is used to illustrate the Dilation root operation.*  
   * **0**: Medical and Surgical  
   * **3**: Heart and Great Vessels (Body System)  
   * **7**: Dilation (Root Operation)  

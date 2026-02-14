@@ -13,13 +13,13 @@ Key ICD-10-CM conventions include:
 * **Punctuation and Symbols**
 
   * **Parentheses ( )** are used in both the Alphabetic Index and Tabular List to enclose nonessential modifiers. These are supplementary words that may be present or absent in a diagnostic statement without affecting the assigned code.  
-  * **Brackets \[ \]** are used in the Tabular List to enclose synonyms, alternative wording, or explanatory phrases. In the Alphabetic Index, they identify manifestation codes that must be used in conjunction with an underlying condition code, and these codes in brackets are always sequenced second.  
+  * **Brackets  [  ]** are used in the Tabular List to enclose synonyms, alternative wording, or explanatory phrases. In the Alphabetic Index, they identify manifestation codes that must be used in conjunction with an underlying condition code, and these codes in brackets are always sequenced second.  
   * **Colons :** are used in the Tabular List after an incomplete term that requires one or more modifiers following the colon to make it assignable to a specific category.  
 * **Instructional Notes**
 
   * **"Includes" Notes** appear immediately under a three-character code title to further define or provide examples of the content of the category.  
   * **"Excludes" Notes** indicate that codes excluded from each other are independent.  
-    * **Excludes1** means "NOT CODED HERE\!" and indicates that the excluded code should never be used at the same time as the code above the Excludes1 note, typically when two conditions cannot occur together (e.g., a congenital form vs. an acquired form of the same condition).  
+    * **Excludes1** means "NOT CODED HERE !" and indicates that the excluded code should never be used at the same time as the code above the Excludes1 note, typically when two conditions cannot occur together (e.g., a congenital form vs. an acquired form of the same condition).  
     * **Excludes2** means "Not included here" and indicates that the condition excluded is not part of the condition represented by the code, but a patient may have both conditions simultaneously. In this case, it is acceptable to use both codes together.  
   * **Etiology/Manifestation Convention ("Code First," "Use Additional Code," and "in diseases classified elsewhere")** applies to conditions with an underlying cause (etiology) and multiple body system manifestations. This convention requires the underlying condition (etiology) to be sequenced first, followed by the manifestation. A "use additional code" note will be found at the etiology code, and a "code first" note at the manifestation code. Manifestation codes often include "in diseases classified elsewhere" in their title and are never permitted to be used as a first-listed or principal diagnosis.  
   * **"Code Also" Note** instructs that two codes may be required to fully describe a condition, but it does not provide sequencing direction; sequencing depends on the circumstances of the encounter.  
@@ -41,7 +41,7 @@ The ICD-10-PCS Official Guidelines for Coding and Reporting are found in the fro
 
 Key ICD-10-PCS conventions include:
 
-* **Seven Characters** All ICD-10-PCS codes *must* consist of seven characters. Each character represents a distinct aspect of the procedure: Section, Body System, Root Operation, Body Part, Approach, Device, and Qualifier. If documentation is incomplete for coding purposes, the physician must be queried for the necessary information. The letters "I" and "O" are not used as values in any character position to avoid confusion with the numbers 1 and 0\.
+* **Seven Characters** All ICD-10-PCS codes *must* consist of seven characters. Each character represents a distinct aspect of the procedure: Section, Body System, Root Operation, Body Part, Approach, Device, and Qualifier. If documentation is incomplete for coding purposes, the physician must be queried for the necessary information. The letters "I" and "O" are not used as values in any character position to avoid confusion with the numbers 1 and 0 .
 
 * **Alphabetic Index and Tables** The ICD-10-PCS system uses an Alphabetic Index to direct coders to the appropriate table. However, it is *not* required to consult the index first before proceeding directly to the tables to complete the code. Valid codes include all combinations of choices in characters 4 through 7 contained in the same row of the table.
 

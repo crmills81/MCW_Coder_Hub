@@ -20,7 +20,7 @@ _____
 >[!example]+ RELATED TERMS to [[lithotripsy]]
 >[[nephrolithiasis]]
 >[[calculus]]
->[[Ureteroscopy]]
+>[[ureteroscopy]]
 _____
 >[!tip]+ DERIVATIONS of [[lithotripsy]]
 >```dataview

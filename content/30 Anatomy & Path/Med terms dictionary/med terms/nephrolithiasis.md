@@ -22,7 +22,7 @@ _____
 >- kidney stones
 >- renal calculi
 >- nephroliths
->- [[Urolithiasis]]
+>- [[urolithiasis]]
 
 
 >[!tip]+ DERIVATIONS of [[nephrolithiasis]]

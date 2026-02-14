@@ -12,7 +12,7 @@ The CIC exam requires a **strong foundation** in medical terminology, anatomy, p
 
 ### **A. Anatomy, Physiology, and Medical Terminology**
 
-1. **Reinforce High-Level Concepts:** Understand that ICD-10-PCS is heavily based on anatomy, making a good understanding of body systems crucial, especially for the Body System (Character 2\) and Body Part (Character 4\) elements of a PCS code.  
+1. **Reinforce High-Level Concepts:** Understand that ICD-10-PCS is heavily based on anatomy, making a good understanding of body systems crucial, especially for the Body System (Character 2) and Body Part (Character 4) elements of a PCS code.  
 2. **Create Terminological Aids:** Since you cannot bring a medical dictionary into the exam for some certifications (though the ICD manual itself contains some terms), create **flashcards** or **cheat sheets** to learn prefixes, suffixes, and root operations.  
 3. **Use Your Manuals for Visuals:** Utilize the ICD manual, which often includes anatomy pictures, to reinforce your understanding of specific body parts or conditions.  
 4. **Practice Anatomical Abstraction:** When reviewing operative reports, practice immediately identifying the specific anatomical site and determining the corresponding ICD-10-PCS body system and body part value (Character 4). The appendices in the PCS manual, such as the **Body Part Key**, are essential for this translation.
@@ -52,7 +52,7 @@ ICD-10-PCS coding is a distinct skill set—a building-block system entirely dif
    * **Biopsies:** Diagnostic biopsies are coded using Excision, Extraction, or Drainage, and must include the **Qualifier "Diagnostic"** (X). If a diagnostic biopsy is immediately followed by definitive treatment, **both procedures are coded**.  
    * **Discontinued Procedures:** If a procedure is started but aborted before any root operation is performed, code **Inspection** of the body part or anatomical region inspected.  
    * **Devices:** Code a device **only if it remains** at the conclusion of the procedure. Materials like sutures are not coded as devices.  
-5. **Build Codes from Scratch:** Practice building the full seven-character codes using the Index to find the appropriate Tables, and ensuring all characters (4, 5, 6, 7\) are selected from the **same row** in the table.
+1. **Build Codes from Scratch:** Practice building the full seven-character codes using the Index to find the appropriate Tables, and ensuring all characters (4, 5, 6, 7 ) are selected from the **same row** in the table.
 
 ---
 
@@ -66,7 +66,7 @@ The CIC exam dedicates questions to the intricacies of hospital operations, docu
    * **Queries:** Be prepared to identify when and how to query a provider for clarification on ambiguous, inconsistent, or incomplete documentation. **Crucially, queries must not mention the financial impact of the response**.  
    * **HINNs and ABNs:** Be familiar with these notices of noncoverage used in the hospital setting.  
    * **Auditing Tools:** Be aware of compliance mechanisms like the **Medicare Code Editor (MCE)**, which flags invalid codes or unacceptable principal diagnoses, and monitoring tools like **PEPPER** (Program for Evaluating Payment Patterns Electronic Reports).  
-3. **Deconstruct Health Records:** Practice reviewing the main components of a medical record, such as the History and Physical (H\&P), operative reports, discharge summaries, and Medication Administration Records (MAR). Since all inpatient bedside procedures must be abstracted using ICD-10-PCS codes, thoroughly review the operative report or progress notes for these details.
+1. **Deconstruct Health Records:** Practice reviewing the main components of a medical record, such as the History and Physical (H &P), operative reports, discharge summaries, and Medication Administration Records (MAR). Since all inpatient bedside procedures must be abstracted using ICD-10-PCS codes, thoroughly review the operative report or progress notes for these details.
 
 ---
 

@@ -3,7 +3,7 @@
 
 **Code Level:** High complexity initial inpatient/observation consultation  
 **Typical Time:** 80 minutes (or more, if using time-based method)  
-**2025 Medicare Reimbursement:** Payer-dependent (Medicare no longer pays consult codes; use 99221–99223 for Medicare)  
+**2025 Medicare Reimbursement:** Payer-dependent (Medicare no longer pays consult codes; use 99221-99223 for Medicare)  
 **Requirement Method:** Time-based OR High-Complexity MDM (choose one)
 
 ---
@@ -19,7 +19,7 @@
 
 **NOTE (Payer Policy):**
 - Many commercial payers still recognize 99255 and other consult codes
-- Medicare (and some commercial payers) require you to report **initial hospital/OBS codes 99221–99223** instead of 99255
+- Medicare (and some commercial payers) require you to report **initial hospital/OBS codes 99221-99223** instead of 99255
 
 **Patient Status:** Very sick or very complex (multi-organ involvement, high risk of deterioration, or major diagnostic uncertainty).
 
@@ -59,7 +59,7 @@ _________________________________________________________________
 
 ---
 
-## SECTION 2: HISTORY OF PRESENT ILLNESS (HPI) – Comprehensive
+## SECTION 2: HISTORY OF PRESENT ILLNESS (HPI) - Comprehensive
 
 ### Required: Detailed, complex history linked to consult reason
 
@@ -136,7 +136,7 @@ _________________________________________________________________
 
 ---
 
-## SECTION 5: REVIEW OF SYSTEMS (ROS) – High-Risk Focus
+## SECTION 5: REVIEW OF SYSTEMS (ROS) - High-Risk Focus
 
 **Constitutional:** [ ] Denies / [ ] Reports fever, weight loss, chills, fatigue  
 Details: _________________________________________________________  
@@ -158,7 +158,7 @@ _________________________________________________________________
 
 ---
 
-## SECTION 6: PHYSICAL EXAMINATION (PE) – Detailed, Multi-System
+## SECTION 6: PHYSICAL EXAMINATION (PE) - Detailed, Multi-System
 
 **Vital Signs (Current):**  
 BP: ___/___  HR: _____  RR: _____  Temp: _____  O₂ Sat: _____ on ______  
@@ -191,7 +191,7 @@ _________________________________________________________________
 
 ---
 
-## SECTION 7: ASSESSMENT – HIGH-COMPLEXITY IMPRESSION
+## SECTION 7: ASSESSMENT - HIGH-COMPLEXITY IMPRESSION
 
 **Primary Problem Requiring High-Complexity Consultation:**  
 _________________________________________________________________
@@ -210,7 +210,7 @@ _________________________________________________________________
 
 ---
 
-## SECTION 8: MEDICAL DECISION-MAKING (MDM) – HIGH COMPLEXITY
+## SECTION 8: MEDICAL DECISION-MAKING (MDM) - HIGH COMPLEXITY
 
 ### Must meet **2 of 3** categories at HIGH level
 
@@ -331,7 +331,7 @@ _________________________________________________________________
 **Disposition / Follow-Up:**  
 - [ ] ICU  [ ] Step-down  [ ] Floor with enhanced monitoring  
 - [ ] Frequency of reassessment: _________________________________  
-- [ ] Anticipated decision points (e.g., 24–48 hr re-eval for X): ____  
+- [ ] Anticipated decision points (e.g., 24-48 hr re-eval for X): ____  
 
 ---
 
@@ -361,7 +361,7 @@ _________________________________________________________________
 - [ ] **MDM-BASED:** High-complexity MDM (≥ 2 of 3 categories high)
 
 ### Code Selection:
-- [ ] **CPT 99255** – Initial inpatient/observation consultation, high complexity
+- [ ] **CPT 99255** - Initial inpatient/observation consultation, high complexity
 
 ### Compared to Other Consultation Codes:
 
@@ -381,7 +381,7 @@ _________________________________________________________________
 - [ ] Time or MDM clearly supports high-complexity level
 - [ ] Specific, actionable recommendations provided
 - [ ] Communication with requesting provider documented
-- [ ] For Medicare: Facility policy followed (may need 99221–99223 instead)
+- [ ] For Medicare: Facility policy followed (may need 99221-99223 instead)
 
 ---
 

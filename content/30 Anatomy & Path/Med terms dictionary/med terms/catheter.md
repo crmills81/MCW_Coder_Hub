@@ -79,7 +79,7 @@ _____
 **Insertion CPT (Bladder):**[6][8][5]
 - **[[51701]]** - Non‑indwelling straight cath.  
 - **[[51702]]** - Simple indwelling (Foley).  
-- **[[51703]]** - Complicated (stricture/[[Benign Prostatic Hyperplasia (BPH)|BPH]]).  
+- **[[51703]]** - Complicated (stricture/[[benign prostatic hyperplasia (BPH)|BPH]]).  
 
 **Cardiac/Vascular:** See prior cardiac cath codes (9345x).[7]
 

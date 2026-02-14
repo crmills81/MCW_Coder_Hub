@@ -19,7 +19,7 @@ ICD-10-CM codes have between 3 and 7 characters and have the following character
 - **Character types**:
     - 1st character: always alpha (all letters except "U")
     - 2nd character: numeric (0-9)
-    - 3rd–7th character: alpha or numeric
+    - 3rd-7th character: alpha or numeric
 - **Decimal**: placed after the 3rd character
 - ****Structure**  
     **
@@ -29,7 +29,7 @@ ICD-10-CM codes have between 3 and 7 characters and have the following character
         _Example_: "Intestinal infectious diseases (A00-A09)"
     - **Category**: the first 3 characters of an ICD-10-CM code designate the diagnosis category.  
         _Example_: "A00 - Cholera"
-    - **Etiology, Anatomic Site, Severity**: the 4th–6th character correspond to etiology, anatomic site, severity, or other clinical details.  
+    - **Etiology, Anatomic Site, Severity**: the 4th-6th character correspond to etiology, anatomic site, severity, or other clinical details.  
         _Example_: "A00.0 - Cholera due to Vibrio cholerae 01, biovar cholerae"
     - **Extension**: a 7th character is required in certain sections to encode characteristics of the patient encounter. If there are fewer than 6 characters in the code the **placeholder character "X"** is used to ensure that the seventh character is always in the seventh position.  
         _Example_: "S03.4xxA - Sprain of jaw, initial encounter"
@@ -130,14 +130,14 @@ Chapter references below correspond to sections in the [ICD-10-CM Official Guid
 
 **2025 ICD-10-CM Coding Highlights**
 
-**Cancer in Remission** – 63 new codes added to expand coding to "in remission" including:
+**Cancer in Remission** - 63 new codes added to expand coding to "in remission" including:
 
 - **C81.2A: Mixed cellularity Hodgkin lymphoma, in remission**
 - **C81.3A: Lymphocyte depleted Hodgkin lymphoma, in remission**
 - **C82.5A: Diffuse follicle center lymphoma, in remission**
 - **C82.6A: Cutaneous follicle center lymphoma, in remission**
 
-**Hypoglycemia and Obesity – level and class added to Hypoglycemia and Obesity**
+**Hypoglycemia and Obesity - level and class added to Hypoglycemia and Obesity**
 
 - **E16.A2: Hypoglycemia level 2**
 - **E16.A3: Hypoglycemia level 3**
@@ -147,7 +147,7 @@ Chapter references below correspond to sections in the [ICD-10-CM Official Guid
 - **E74.820: SLC13A5 Citrate Transporter Disorder**
 - **E74.829: Other disorders of citrate metabolism**
 
-**Mental Health Disorders** – type and severity added to eating disorders and 2 new codes added for mental and behavioral conditions in adults:
+**Mental Health Disorders** - type and severity added to eating disorders and 2 new codes added for mental and behavioral conditions in adults:
 
 - **F50.010: Anorexia nervosa, restricting type, mild**
 - **F50.023: Anorexia nervosa, binge eating/purging type, extreme**
@@ -156,7 +156,7 @@ Chapter references below correspond to sections in the [ICD-10-CM Official Guid
 - **F50.83: Pica in adults**
 - **F50.84: Rumination disorder in adults**
 
-**Diseases of the Digestive System** – fifth and sixth character codes added for conditions, providing additional details on condition complexity:
+**Diseases of the Digestive System** - fifth and sixth character codes added for conditions, providing additional details on condition complexity:
 
 - **K60.311: Anal fistula, simple, initial**
 - **K60.32: Anal fistula, complex**
@@ -166,7 +166,7 @@ Chapter references below correspond to sections in the [ICD-10-CM Official Guid
 - **K60.519: Anorectal fistula, simple, unspecified**
 - **K60.522: Anorectal fistula, complex, persistent**
 
-**Conditions Affecting Bones, Joints, or Muscles** – specific locations added for synovitis and tenosynovitis:
+**Conditions Affecting Bones, Joints, or Muscles** - specific locations added for synovitis and tenosynovitis:
 
 - **M65.971: Unspecified synovitis and tenosynovitis, right ankle and foot**
 - **M65.972: Unspecified synovitis and tenosynovitis, left ankle and foot**

@@ -19,8 +19,8 @@ alphabet: D
 definition:
   - impaired voice production
 ---
->[!Note] DEFINITION of [[Dysphonia]]
->[[Dysphonia]] encompasses **voice disorders affecting vocal quality, pitch, loudness, or effort due to abnormalities in vocal cord vibration, muscle tension, neural control, or structural lesions; presentations range from mild hoarseness (rough/raspy voice) to severe breathiness, strain, voice breaks, or complete aphonia (voice loss);** etiologies include inflammation ([[laryngitis]], [[GERD]]), structural lesions (nodules, polyps, cysts), neurological disorders ([[spasmodic dysphonia]], [[vocal cord paralysis]]), functional disorders (muscle tension [[Dysphonia]]), and neoplasms; impacts communication, professional voice users (teachers, singers), and quality of life. 
+>[!Note] DEFINITION of [[dysphonia]]
+>[[dysphonia]] encompasses **voice disorders affecting vocal quality, pitch, loudness, or effort due to abnormalities in vocal cord vibration, muscle tension, neural control, or structural lesions; presentations range from mild hoarseness (rough/raspy voice) to severe breathiness, strain, voice breaks, or complete aphonia (voice loss);** etiologies include inflammation ([[laryngitis]], [[GERD]]), structural lesions (nodules, polyps, cysts), neurological disorders ([[spasmodic dysphonia]], [[vocal cord paralysis]]), functional disorders (muscle tension [[dysphonia]]), and neoplasms; impacts communication, professional voice users (teachers, singers), and quality of life. 
 >
 > #### Related Terms
 >
@@ -31,13 +31,13 @@ definition:
 >- **[[Vocal cord dysfunction ]](VCD):** Paradoxical vocal cord motion.[rush](https://www.rush.edu/conditions/dysphonia)​
 >- **[[Stroboscopy]]:** Gold standard for visualizing vocal cord vibration.[ncbi.nlm.nih](https://www.ncbi.nlm.nih.gov/books/NBK565881/)
 _____
->[!info]+ ETYMOLOGY of [[Dysphonia]]
+>[!info]+ ETYMOLOGY of [[dysphonia]]
 >#greek
 >- **[[Dys-]]:** Greek prefix _[[dus-]]_ = "**bad, difficult, abnormal**."
 - **[[-phonia]]:** Greek _phōnḗ_ (φωνή) = "**voice, sound**."
 - **Literal:** "**Abnormal voice**" or "**difficulty with voice**."
 _____
->[!tip]+ DERIVATIONS of [[Dysphonia]]
+>[!tip]+ DERIVATIONS of [[dysphonia]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

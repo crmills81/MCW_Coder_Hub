@@ -81,7 +81,7 @@ _____
 - **Nephrolithiasis:** Kidney stones (presence).  
 - **Pyelolithotomy:** Incision into renal pelvis (subset).  
 - **ESWL:** Extracorporeal shock wave [[lithotripsy]] (non-[[invasive]]).  
-- **[[Ureteroscopy]] (URS):** Endoscopic for lower stones.  
+- **[[ureteroscopy]] (URS):** Endoscopic for lower stones.  
 - **Staghorn Calculi:** Branching [[struvite]] stones (50081).  
 
 **Complications (5-30%):** Bleeding (transfusion 1-5%), infection/[[sepsis]] (3%), pleural injury ([[supracostal]]), colon perforation; Clavien III+ ~10%.[2]

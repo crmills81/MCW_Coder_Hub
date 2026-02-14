@@ -7,7 +7,7 @@ Clear criteria for determining observation vs inpatient status.
 
 # 🧩 Observation Status
 Use when:
-- Condition expected to resolve in < 24–48 hours
+- Condition expected to resolve in < 24-48 hours
 - Diagnostic uncertainty
 - Short‑term monitoring needed
 - Treatment is low‑intensity

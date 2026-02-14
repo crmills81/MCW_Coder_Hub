@@ -37,7 +37,7 @@ A quick‑reference guide for Medical Decision Making (MDM) levels, including Pr
 | Level | Requirements |
 |--------|--------------|
 | **Straightforward** | Minimal or none |
-| **Low** | Limited data (e.g., 1–2 tests ordered/reviewed) |
+| **Low** | Limited data (e.g., 1-2 tests ordered/reviewed) |
 | **Moderate** | **1 of:**<br>• Category 1 (≥3 items) OR<br>• Category 2 OR<br>• Category 3 |
 | **High** | **2 of:**<br>• Category 1 (≥3 items) AND<br>• Category 2 AND/OR Category 3 |
 

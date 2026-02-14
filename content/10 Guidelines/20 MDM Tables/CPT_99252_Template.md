@@ -1,6 +1,6 @@
 # 99252 INPATIENT CONSULTATION DOCUMENTATION TEMPLATE
 
-## CPT Code 99252: Initial Inpatient Consultation – Low Complexity
+## CPT Code 99252: Initial Inpatient Consultation - Low Complexity
 
 **Code Level:** Low complexity E/M for consult patients  
 **Typical Time:** 20-29 minutes total encounter time  

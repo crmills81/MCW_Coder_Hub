@@ -125,7 +125,7 @@ last_updated: 2026-02-10
 
 **Upper urinary tract obstruction:**
 - **[[Ureteral obstruction]]** (bilateral or solitary functioning kidney)
-  - Kidney stones ([[Urolithiasis]])
+  - Kidney stones ([[urolithiasis]])
   - Tumor compression (bladder, prostate, cervical, colorectal)
   - [[Retroperitoneal]] fibrosis
   - Blood clots
@@ -133,7 +133,7 @@ last_updated: 2026-02-10
 
 **Lower urinary tract obstruction** (more common):
 - **Bladder outlet obstruction:**
-  - **[[Benign Prostatic Hyperplasia (BPH)]] (BPH)** - very common in older men
+  - **[[benign prostatic hyperplasia (BPH)]] (BPH)** - very common in older men
   - Prostate cancer
   - Bladder tumor
   - Neurogenic bladder
@@ -367,7 +367,7 @@ last_updated: 2026-02-10
 **Treat underlying cause:**
 - **Stop bleeding** - surgery, transfusions
 - **Treat heart failure** - diuretics, inotropes, vasodilators
-- **[[Sepsis]] management** - antibiotics, fluids, vasopressors
+- **[[sepsis]] management** - antibiotics, fluids, vasopressors
 - **Discontinue offending medications** - NSAIDs, ACE inhibitors
 
 **Hemodynamic support:**
@@ -641,7 +641,7 @@ last_updated: 2026-02-10
 - [[Hyperkalemia]]
 - [[Metabolic Acidosis]]
 - [[Acute Tubular Necrosis (ATN)]]
-- [[Benign Prostatic Hyperplasia (BPH)]]
+- [[benign prostatic hyperplasia (BPH)]]
 - [[Fractional Excretion of Sodium (FENa)]]
 - [[Dialysis]]
 - [[Post-Obstructive Diuresis]]

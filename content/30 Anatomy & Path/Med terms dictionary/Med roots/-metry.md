@@ -13,7 +13,7 @@ definition:
   - process of measuring
 ---
 >[!Note] DEFINITION of [[-metry]]
->Used to name techniques or fields involving **measurement**, such as in instruments ([[-meter]]) extended to the study or procedure; common in [[ophthalmology]], cardiology, and geometry-related terms like symmetry.
+>Used to name techniques or fields involving **measurement**, such as in instruments ([[-meter]]) extended to the study or procedure; common in [[Ophthalmology]], cardiology, and geometry-related terms like symmetry.
 _____
 >[!info]+ ETYMOLOGY of [[-metry]]
 > #greek From Greek _metrein_ ("**to measure**"), from _metron_ ("**a measure**"), forming nouns for measurement processes in scientific and medical nomenclature.[](https://www.tabers.com/tabersonline/view/Tabers-Dictionary/754837/all/_metry)

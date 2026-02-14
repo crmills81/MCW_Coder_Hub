@@ -15,7 +15,7 @@ Here are some of the most commonly used ophthalmic **surgery** CPT codes, with p
     - Example: Small pupil requiring iris expansion device plus phaco and IOL in a [[pseudoexfoliation]] patient.
         
 
-(These are among the highest‑volume surgical codes in [[ophthalmology]].) [cms+2](https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59805&ver=18&areaId=all&docType=NCA%2CCAL%2CNCD%2CMEDCAC%2CTA%2CMCD%2C6%2C3%2C5%2C1%2CF%2CP&contractOption=all&sortBy=relevance&bc=1)
+(These are among the highest‑volume surgical codes in [[Ophthalmology]].) [cms+2](https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=59805&ver=18&areaId=all&docType=NCA%2CCAL%2CNCD%2CMEDCAC%2CTA%2CMCD%2C6%2C3%2C5%2C1%2CF%2CP&contractOption=all&sortBy=relevance&bc=1)
 
 ## 👁️[[Glaucoma]] surgery and laser
 
@@ -31,7 +31,7 @@ Here are some of the most commonly used ophthalmic **surgery** CPT codes, with p
         
     - Example: Repeat trabeculectomy after failed prior filter.
         
-- **[[65855]] - Laser [[Trabeculoplasty]]**
+- **[[65855]] - Laser [[trabeculoplasty]]**
     
     - Meaning: Laser treatment to the trabecular meshwork to improve [[aqueous]] outflow (e.g., SLT/ALT). [[mbwrcm](https://www.mbwrcm.com/the-revenue-cycle-blog/ophthalmology-billing-coding-for-cataracts-glaucoma)]​
         

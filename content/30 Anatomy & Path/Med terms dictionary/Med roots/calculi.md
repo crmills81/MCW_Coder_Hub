@@ -28,7 +28,7 @@ _____
 > **Related terms**
 > - **[[Lithiasis]]**: The process or condition of forming stones in the body (e.g., [[nephrolithiasis]] for kidney stones).[](https://pmc.ncbi.nlm.nih.gov/articles/PMC6636958/)
 > - **[[-lith]]**: A suffix meaning "**stone**" (from Greek _[[lithos]]_), used in terms like _sialolith_ or _phlebolith_.[](https://chicagoent.com/uncategorized/salivary-stone-pain/)​
-> - **Concretion**: A general term for any solid mass of mineral or organic material formed in the body.[](https://en.wikipedia.org/wiki/Calculus_\(medicine\))
+> - **Concretion**: A general term for any solid mass of mineral or organic material formed in the body.[](https://en.wikipedia.org/wiki/Calculus_ (medicine ))
 > - **Crystallization**: The chemical process by which a solid forms, where the atoms or molecules are highly organized into a structure known as a crystal.
 _____
 >[!tip]+ DERIVATIONS of [[calculi]]

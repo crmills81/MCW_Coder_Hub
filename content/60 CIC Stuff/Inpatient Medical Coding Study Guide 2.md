@@ -18,7 +18,7 @@ This study guide is designed to help you review key concepts for inpatient medic
 * **Quality of Documentation**: Accurate coding hinges entirely on the quality of medical record documentation. Coders must review the complete patient story.  
   * **Key Medical Record Components:Discharge Summary (DS)**: Synopsis of the entire hospital course.  
   * **Emergency Room (ER) Record:** Chief complaint and admitting diagnosis, if applicable.  
-  * **Admission History and Physical (H\&P):** Must be performed and documented within 24 hours of admission.  
+  * **Admission History and Physical (H &P):** Must be performed and documented within 24 hours of admission.  
   * **Progress Notes**: Daily recordings by healthcare providers detailing patient progress and plan of care.  
   * **Operative Reports (OR Reports):** Essential for coding surgical procedures.  
   * **Laboratory and Radiology Reports:** Provide diagnostic information, but codes cannot be assigned *solely* from these without attending physician documentation of clinical significance. However, additional details (e.g., area of fracture) for *confirmed* diagnoses can be taken.  
@@ -41,14 +41,14 @@ This study guide is designed to help you review key concepts for inpatient medic
 * **Uncertain Diagnoses (Inpatient Only):** Code "probable," "suspected," "likely," "questionable," "possible," or "still to be ruled out" diagnoses as if they exist at discharge.  
   * Exceptions: HIV and certain identified influenza viruses (J09, J10) must be *confirmed* to be coded. COVID-19 also needs confirmation, but provider documentation is sufficient.  
 * **POA Indicators:** Assigned to principal and secondary diagnoses to specify if a condition was present at inpatient admission. Crucial for Medicare payment and quality reporting.  
-* **Chapter-Specific Guidelines Focus:** Neoplasms (sequencing based on reason for encounter), hypertension with heart/kidney disease (presumed causal link), acute MI (within 4 weeks), CVA (unilateral weakness \= hemiparesis/hemiplegia), acute respiratory failure (can be principal or secondary), VAP (explicit provider documentation), pressure ulcers (staging from clinicians, code highest stage achieved).  
+* **Chapter-Specific Guidelines Focus:** Neoplasms (sequencing based on reason for encounter), hypertension with heart/kidney disease (presumed causal link), acute MI (within 4 weeks), CVA (unilateral weakness  = hemiparesis/hemiplegia), acute respiratory failure (can be principal or secondary), VAP (explicit provider documentation), pressure ulcers (staging from clinicians, code highest stage achieved).  
 * **Z Codes:** Factors Influencing Health Status and Contact with Health Services. Provide reasons for encounters or additional health status info. Not procedure codes. Categories include contact/exposure, vaccinations, status codes (e.g., CABG status), history codes, aftercare codes (not for injuries), follow-up codes, counseling codes, obstetrical/reproductive services, newborns, pre/post-procedural exams, prophylactic organ removal, elective termination of pregnancy.
 
 
 ## **IV. ICD-10-PCS Coding Guidelines (Procedures)**
 
 * **Seven Characters:** Each code has seven alphanumeric characters, each with a specific meaning. All seven characters must be specified.  
-  * A. **Section**: Broad healthcare service (e.g., Medical and Surgical \- 0).  
+  * A. **Section**: Broad healthcare service (e.g., Medical and Surgical - 0).  
   * B. **Body System**: General physiological system or anatomical region.  
   * C. **Root Operation:** The *objective* of the procedure. This is paramount. Coders must interpret physician documentation.  
   * D. **Body Part:** Specific anatomical site.  
@@ -65,8 +65,8 @@ This study guide is designed to help you review key concepts for inpatient medic
 * **Examination only:** Inspection, Map.  
 * **Put in/back or move body part:** Transplantation, Reattachment, Transfer, Reposition.  
 * **Key PCS Guidelines:** Alphabetic Index & Tables: *Always* verify codes found in the Alphabetic Index in the Tabular List/Tables.  
-* **Biopsy Procedures:** Coded with Excision, Extraction, or Drainage \+ "Diagnostic" qualifier. If followed by definitive treatment at the same site, *both* are coded.  
-* **Planned/Canceled Procedures**: No code if canceled before patient presents. If canceled after presentation but before starting, code principal diagnosis \+ Z code for cancellation. If started but not completed, code the root operation performed. If aborted before any root operation, code "Inspection."  
+* **Biopsy Procedures:** Coded with Excision, Extraction, or Drainage  + "Diagnostic" qualifier. If followed by definitive treatment at the same site, *both* are coded.  
+* **Planned/Canceled Procedures**: No code if canceled before patient presents. If canceled after presentation but before starting, code principal diagnosis  + Z code for cancellation. If started but not completed, code the root operation performed. If aborted before any root operation, code "Inspection."  
 * **Bilateral Procedures:** Single code with bilateral body part value if it exists. Otherwise, code each separately.  
 * **Conversion to Open:** If an endoscopic procedure is attempted but converted to open, *two* codes are necessary (one for endoscopic, one for open).  
 * **Integral Components**: Steps necessary to reach and close the operative site (including anastomosis) are *not* coded separately.  
@@ -78,7 +78,7 @@ This study guide is designed to help you review key concepts for inpatient medic
 
 * **MS-DRGs (Medicare Severity Diagnosis-Related Groups):** The classification system for inpatient hospital stays, dictating reimbursement. Based on principal diagnosis, secondary diagnoses (CCs/MCCs), and procedures. There are approximately 767 MS-DRGs.  
 * **Grouper Software**: Computerized software program used to classify or group codes for reimbursement purposes.  
-* **Outpatient Prospective Payment System (OPPS)**: Used by CMS for outpatient services, implemented in 2000\. It's a set rate-per-service (flat fee). Multiple APCs (Ambulatory Payment Classifications) can be assigned to one outpatient record, unlike the single DRG in inpatient. MACs do not use OPPS.  
+* **Outpatient Prospective Payment System (OPPS)**: Used by CMS for outpatient services, implemented in 2000 . It's a set rate-per-service (flat fee). Multiple APCs (Ambulatory Payment Classifications) can be assigned to one outpatient record, unlike the single DRG in inpatient. MACs do not use OPPS.  
 * **HINN (Hospital Issued Notice of Noncoverage):** Used when the hospital disagrees with the provider on a longer inpatient stay (HINN 10), or for pre-admission/admission (HINN 1). Patients are often responsible for 20% of costs for Part B services.  
 * **Two-Midnight Rule:** For Medicare to cover an inpatient stay, the physician must expect the patient to require hospital care spanning at least two midnights.  
 * **Chargemaster:** A system that helps set up the bill efficiently for inpatient stays, automatically populating the UB-04 form. Requires regular review for outdated codes or complex procedures/complications.  
@@ -275,12 +275,12 @@ States must download the NCCI edit files available on a secure portal (RISSNET) 
 
 ## **Replacement Files**
 
-* April 10, 2025 \- Replacement Files (2nd Quarter, 2025\) - CMS issued replacement files for NCCI Medicare MUE (PRA/OPH) to update the MUE value for Healthcare Common Procedure Coding System (HCPCS) code J1628 effective date April 1, 2025, retroactive to 10/01/2024. Updated public replacement files for Medicare and available using the links in the left navigation pane.  
-* January 29, 2025 \- Replacement Files (1st Quarter, 2025\) - CMS issued replacement files for NCCI Medicaid MUE (PRA/OPH/DME) to update the MUE value for Healthcare Common Procedure Coding System (HCPCS) code J0911 effective date January 1, 2025\. Updated public replacement files for Medicaid and available using the links in the left navigation pane.  
-* Posted Sep 14, 2023 Replacement Files (4th quarter of 2023\) - CMS issued replacement files for NCCI Procedure to Procedure (PTP) edits for the October 1, 2023 files (PRA and OPH). Effective July 1, 2023, CMS implemented NCCI PTP edits between Column One codes 80305, 80306, and 80307 for presumptive test(s), and Column Two codes G0480 - G0483, and G0659 for definitive test(s). CMS will withdraw these edits retroactive to July 1, 2023 in a replacement file for the 4th quarter of 2023\. CMS posted a replacement file on the NCCI PTP webpage.  
-* Effective July 1, 2023, CMS implemented bypassable NCCI PTP edits between Column One codes 22630, 22632, 22633 and 22634, and Column Two codes 63052 and 63053\. CMS will delete these edits in the October 1, 2023 edit files. Providers/suppliers may choose to hold claims until implementation of the October 1, 2023 edit files.  
+* April 10, 2025  - Replacement Files (2nd Quarter, 2025 ) - CMS issued replacement files for NCCI Medicare MUE (PRA/OPH) to update the MUE value for Healthcare Common Procedure Coding System (HCPCS) code J1628 effective date April 1, 2025, retroactive to 10/01/2024. Updated public replacement files for Medicare and available using the links in the left navigation pane.  
+* January 29, 2025  - Replacement Files (1st Quarter, 2025 ) - CMS issued replacement files for NCCI Medicaid MUE (PRA/OPH/DME) to update the MUE value for Healthcare Common Procedure Coding System (HCPCS) code J0911 effective date January 1, 2025 . Updated public replacement files for Medicaid and available using the links in the left navigation pane.  
+* Posted Sep 14, 2023 Replacement Files (4th quarter of 2023 ) - CMS issued replacement files for NCCI Procedure to Procedure (PTP) edits for the October 1, 2023 files (PRA and OPH). Effective July 1, 2023, CMS implemented NCCI PTP edits between Column One codes 80305, 80306, and 80307 for presumptive test(s), and Column Two codes G0480 - G0483, and G0659 for definitive test(s). CMS will withdraw these edits retroactive to July 1, 2023 in a replacement file for the 4th quarter of 2023 . CMS posted a replacement file on the NCCI PTP webpage.  
+* Effective July 1, 2023, CMS implemented bypassable NCCI PTP edits between Column One codes 22630, 22632, 22633 and 22634, and Column Two codes 63052 and 63053 . CMS will delete these edits in the October 1, 2023 edit files. Providers/suppliers may choose to hold claims until implementation of the October 1, 2023 edit files.  
 * CMS issued replacement files with the following changes:  
-* Posted Dec. 7, 2022: Replacement Files (1st quarter 2023\) \- CMS issued replacement files for NCCI Procedure to Procedure (PTP) edits and updated for the January 1, 2023 files (PRA and OPH).
+* Posted Dec. 7, 2022: Replacement Files (1st quarter 2023 )  - CMS issued replacement files for NCCI Procedure to Procedure (PTP) edits and updated for the January 1, 2023 files (PRA and OPH).
 
 
 ## **Deactivation Requests**
@@ -297,17 +297,17 @@ The NCCI program cannot answer questions outside of our scope, or questions abou
 The NCCI webpages include edit files, the Medicare NCCI Policy Manual, FAQs, and additional information. CMS does not provide a look-up service or a clean claims tool.  
 You may submit inquiries about the NCCI program, including those related to NCCI (PTP, MUE, and Add-On) edits, in writing via email to [NCCIPTPMUE@cms.hhs.gov](mailto:NCCIPTPMUE@cms.hhs.gov).
 
-**\*\*NOTE\*\*** Don’t submit any Personally Identifiable Information (PII) or Protected Health Information (PHI).
+** * *NOTE * *** Don’t submit any Personally Identifiable Information (PII) or Protected Health Information (PHI).
 
 ## **Submitting an Appeal** 
 
 States are not required to have a formal appeals process to address claim denials. However, states must ensure that providers have an adequate opportunity to alert them to potential errors associated with claim denials, including those generated by NCCI edits, and that providers have a way to resubmit claims or provide additional documentation to support their claims.  
-You must submit appeals to your responsible State Medicaid Agency, not the NCCI contractor. For CMS policy on provider appeals of denials of payment for HCPCS / CPT codes billed in Medicaid claims due to the Medicaid NCCI methodologies, see [State Medicaid Director Letter \#11-003 (PDF)](https://www.cms.gov/files/document/state-medicaid-director-letter-11-003.pdf). The NCCI contractor cannot process specific claim appeals and cannot forward appeal submissions to the appropriate appeals contractor.
+You must submit appeals to your responsible State Medicaid Agency, not the NCCI contractor. For CMS policy on provider appeals of denials of payment for HCPCS / CPT codes billed in Medicaid claims due to the Medicaid NCCI methodologies, see [State Medicaid Director Letter  #11-003 (PDF)](https://www.cms.gov/files/document/state-medicaid-director-letter-11-003.pdf). The NCCI contractor cannot process specific claim appeals and cannot forward appeal submissions to the appropriate appeals contractor.
 
 ### **Helpful Educational Materials**
 
 * [How To Use NCCI Tools (PDF)](https://www.cms.gov/files/document/mln9018659-how-use-medicaid-national-correct-coding-initiative-ncci-tools.pdf): Learn to navigate the CMS Medicaid NCCI webpages and work with Medicaid procedure-to-procedure edits and medically unlikely edits. Find information on how to access and use the Medicaid NCCI files available to the general public.  
 * CMS no longer participates in the National Medicaid Enterprise Hub (NMEH) calls. However, states can continue to obtain information on the NCCI program via our website and the NCCI Mailbox at NCCIPTPMUE@cms.hhs.gov. As an alternative, states can contact their State Program Integrity Directors to obtain the Fraud, Waste, and Abuse (FWA) Technical Advisory Group (TAG) call information. Please note that only state staff (no contractors) may attend FWA TAG calls.  
-* [Proper Use of Modifiers 59, XE, XP, XS, and XU (PDF)](https://www.cms.gov/files/document/proper-use-modifiers-59-xe-xp-xs-xu.pdf) \- Posted June 8, 2021  
-* [NCCI MUE and PTP Edit Savings Guidance for State Medicaid Agencies (PDF)](https://www.cms.gov/files/document/ncci-mueptp-edit-savings-guidance-state-medicaid-agencies.pdf) \- November 2019  
+* [Proper Use of Modifiers 59, XE, XP, XS, and XU (PDF)](https://www.cms.gov/files/document/proper-use-modifiers-59-xe-xp-xs-xu.pdf)  Posted June 8, 2021  
+* [NCCI MUE and PTP Edit Savings Guidance for State Medicaid Agencies (PDF)](https://www.cms.gov/files/document/ncci-mueptp-edit-savings-guidance-state-medicaid-agencies.pdf) - November 2019  
   

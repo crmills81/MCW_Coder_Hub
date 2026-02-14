@@ -62,7 +62,7 @@ _Coding for procedures often depends strictly on the depth of tissue involved. P
 _Many "skin" codes (Chapter 12) inherently include the subcutaneous tissue, as infections often traverse both layers._
 
 **Category L03: Cellulitis and acute lymphangitis**
-- **[[L03.11]]:** [[Cellulitis]] of part of limb. This code implies infection of the dermis and subcutaneous tissue. If the infection goes deeper into the muscle fascia, it becomes necrotizing fasciitis ([[M72.6]]).
+- **[[L03.11]]:** [[cellulitis]] of part of limb. This code implies infection of the dermis and subcutaneous tissue. If the infection goes deeper into the muscle fascia, it becomes necrotizing fasciitis ([[M72.6]]).
 - **[[L03.90]]:** Cellulitis, unspecified. Used when the specific anatomical location is not documented.
 
 **Category T79: Certain early complications of trauma**

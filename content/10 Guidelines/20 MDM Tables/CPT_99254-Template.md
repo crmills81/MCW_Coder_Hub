@@ -285,7 +285,7 @@ _________________________________________________________________
 - [ ] Integration of multiple complex data sources: _________________________
 - [ ] Reconciliation of conflicting data: _________________________
 
-**Total items documented: _____/3-4 needed**
+**Total items documented: _____3-4 needed**
 
 **Point Achieved?** [ ] YES - **Category 2 Satisfied**  [ ] NO - Check Category 3
 

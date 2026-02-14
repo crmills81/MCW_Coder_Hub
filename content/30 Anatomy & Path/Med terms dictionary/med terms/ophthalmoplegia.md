@@ -26,7 +26,7 @@ _____
 >- **Suffix:** _[[-plegia]]_ - from Greek _plēgē_ / _[[-plegia]]_ = “**stroke, paralysis**.”[popnwords+1](https://popnwords.com/browse/ophthalmoplegia/dictionary)
 >- **Literal meaning:** “**Paralysis** of the eye.”
 >- Related roots:
->- _[[ophthalmo-]]_ (eye) - [[ophthalmology]], [[ophthalmic]], ophthalmoscope.[wordpandit+1](https://wordpandit.com/word-root-ophthalmo/)
+>- _[[ophthalmo-]]_ (eye) - [[Ophthalmology]], [[ophthalmic]], ophthalmoscope.[wordpandit+1](https://wordpandit.com/word-root-ophthalmo/)
 >- _[[-paresis]]_ (weakness, [[partial paralysis]]) - in **[[ophthalmoparesis]]**, a milder form of [[ophthalmoplegia]].
 
 _____

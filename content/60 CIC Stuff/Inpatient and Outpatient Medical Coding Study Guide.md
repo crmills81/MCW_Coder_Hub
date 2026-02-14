@@ -160,7 +160,7 @@
 
   * **Neoplasms (C00-D49):** Sequencing depends on the reason for encounter (primary/secondary malignancy treatment, complications like dehydration, anemia due to malignancy/treatment, chemotherapy/immunotherapy/radiation therapy, pathologic fracture due to neoplasm, malignant neoplasms of ectopic tissue).
 
-  * **Diseases of the Circulatory System (I00-I99)**: Hypertension with heart/kidney disease (presumed causal relationship), Acute Myocardial Infarction (AMI) (I21.- for \<4 weeks, I22.- for subsequent), Cerebrovascular Accident (CVA) (unilateral weakness synonymous with hemiparesis/hemiplegia (G81.-), even if deficits resolve).
+  * **Diseases of the Circulatory System (I00-I99)**: Hypertension with heart/kidney disease (presumed causal relationship), Acute Myocardial Infarction (AMI) (I21.- for  <4 weeks, I22.- for subsequent), Cerebrovascular Accident (CVA) (unilateral weakness synonymous with hemiparesis/hemiplegia (G81.-), even if deficits resolve).
 
   * **Diseases of the Respiratory System (J00-J99)**: Acute Respiratory Failure (J96.0-, J96.2-) (can be principal or secondary), Ventilator-Associated Pneumonia (VAP) (J95.851 *only* if explicitly documented by provider).
 
@@ -294,7 +294,7 @@
 
    *  Leverage your existing knowledge of medical terminology and compliance, as these areas overlap.
 
- By diligently following these guidelines and leveraging available resources, you can build a strong foundation in inpatient coding, prepare effectively for the AAPC CIC certification exam, and achieve your goal of passing. Good luck\!
+ By diligently following these guidelines and leveraging available resources, you can build a strong foundation in inpatient coding, prepare effectively for the AAPC CIC certification exam, and achieve your goal of passing. Good luck !
 
 ## **I. Core Concepts of Inpatient vs. Outpatient Coding**
 
@@ -322,7 +322,7 @@
 
 * **Medical Record**: A legal document requiring accurate and complete information.  
 * Key Information in Medical Record: Facility identifier, patient demographics, date of service, type of admission, discharge date, attending physician, primary diagnosis, pertinent diagnoses, external causes for injury, patient disposition, expected payment, and total charges.  
-* **Auditing & Compliance**: Essential in healthcare coding to ensure accuracy, prevent fraud and abuse, and maintain revenue. Organizations like OIG publish compliance programs for hospitals. RADV audits seek out errors, which can result in significant financial penalties (e.g., Civil Monetary Penalties \- CMPs).  
+* **Auditing & Compliance**: Essential in healthcare coding to ensure accuracy, prevent fraud and abuse, and maintain revenue. Organizations like OIG publish compliance programs for hospitals. RADV audits seek out errors, which can result in significant financial penalties (e.g., Civil Monetary Penalties  - CMPs).  
 * **Queries**: Used to clarify unclear, inconsistent, or incomplete documentation; obtain clinical validation for diagnoses; resolve conflicting documentation; clarify Present on Admission (POA) status; or determine clinical significance of abnormal findings. Queries should not include financial impact.  
 * **HIPAA Privacy Rule**: Ensures Personal Health Information (PHI) is kept private and disclosed only to covered entities or for specific legal/investigatory purposes (e.g., HHS audits).
 
@@ -354,7 +354,7 @@
   * **Non-Pressure Chronic Ulcers (L97.-, L98.4-)**: Similar guidelines to pressure ulcers.  
   * **Injury, poisoning, and certain other consequences of external causes (S00-T88)**:7th Characters: A (initial encounter), D (subsequent encounter), S (sequela). Applied based on active treatment vs. routine care. "S" is added to injury code, sequela coded first.  
   * **Poisoning**: Errors in prescription/administration, intentional overdose, nonprescribed drug with prescribed drug are examples.  
-  * **Transplant Complications (T86)**: Used if complication affects transplanted organ function. Requires T86 code \+ secondary code for specific complication.  
+  * **Transplant Complications (T86)**: Used if complication affects transplanted organ function. Requires T86 code  + secondary code for specific complication.  
 
 ### **C. 2025 ICD-10-CM Updates**
 
@@ -410,7 +410,7 @@
 
 * **Biopsy Procedures**: Coded as Excision, Extraction, or Drainage with the qualifier "Diagnostic." If followed by definitive treatment at the same site, *both* procedures are coded.  
   * **Planned/Canceled Procedures**:Canceled *before* patient presents: No code.  
-  * **Canceled *after* presentation but before starting**: Principal diagnosis is reason for procedure, \+ Z codes for cancellation.  
+  * **Canceled *after* presentation but before starting**: Principal diagnosis is reason for procedure,  + Z codes for cancellation.  
   * **Started but not completed**: Code the root operation *performed*. If aborted before any root operation: Code "Inspection."  
 * **Bilateral Procedures**: If identical procedure on paired organs/tissues and a bilateral body part value exists, use single code with bilateral value. If no bilateral value, code each separately. (e.g., strabismus surgery coded separately for each eye).  
   * **Conversion to Open**: If an endoscopic procedure is converted to open, *two* procedure codes are necessary: one for the endoscopic (often Inspection) and one for the open.  
@@ -459,7 +459,7 @@ Instructions: Answer each question in 2-3 sentences.
  
 9. **What is the significance of the "patient over paperwork" initiative for E/M documentation changes starting in 2021?**  
  
-10. **A patient is admitted with a pressure ulcer at Stage 2\. During the hospital stay, the ulcer progresses to Stage 3 before discharge. How should the pressure ulcer be coded at discharge?**
+10. **A patient is admitted with a pressure ulcer at Stage 2 . During the hospital stay, the ulcer progresses to Stage 3 before discharge. How should the pressure ulcer be coded at discharge?**
 
 ## Answer Key
 

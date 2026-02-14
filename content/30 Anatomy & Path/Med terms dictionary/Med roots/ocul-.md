@@ -18,7 +18,7 @@ definition:
   - eye
 ---
 >[!Note] DEFINITION of [[ocul-]]
->eye; [[Ocul‑]] appears in [[ophthalmology]] and anatomy terms focusing on the [[eyeball]], vision, or eye‑related pathology, such as [[oculomotor]] (*eye movement*) and [[oculoplasty]] (eyelid/orbit surgery). It forms adjectives like [[ocular]] (“*of the eye*”) and professional titles like oculist (old term for [[ophthalmologist]]).
+>eye; [[Ocul‑]] appears in [[Ophthalmology]] and anatomy terms focusing on the [[eyeball]], vision, or eye‑related pathology, such as [[oculomotor]] (*eye movement*) and [[oculoplasty]] (eyelid/orbit surgery). It forms adjectives like [[ocular]] (“*of the eye*”) and professional titles like oculist (old term for [[ophthalmologist]]).
 >
 >|Term|Breakdown|Brief meaning|
 |---|---|---|

@@ -3,9 +3,9 @@
 **Applicable for:** Office/Outpatient, Inpatient, Observation, Consultations, and ED.  
 **Guideline Basis:** 2021 & 2023 AMA CPT Guidelines.
 
-**Patient Name/MRN:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **DOS:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-**Provider:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ **Auditor:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-**Payer:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Medicare/Commercial rules may vary for Prolonged Services)  
+**Patient Name/MRN:**  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ **DOS:**  _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+**Provider:**  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ **Auditor:**  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+**Payer:**  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ (Medicare/Commercial rules may vary for Prolonged Services)  
 ---
 
 **SECTION 1: ENCOUNTER TYPE & CODE SET**
@@ -29,18 +29,18 @@
 
 *Problem must be evaluated or treated at the encounter. Referral without evaluation counts.*
 
-* **\[ \] MINIMAL (Level 2\)**
+* ** [  ] MINIMAL (Level 2 )**
 
   * 1 self-limited or minor problem
 
-* **\[ \] LOW (Level 3\)**
+* ** [  ] LOW (Level 3 )**
 
   * 2+ self-limited/minor problems  
   * 1 stable chronic illness  
   * 1 acute, uncomplicated illness/injury  
   * 1 stable, acute illness (Inpatient only)  
       
-* **\[ \] MODERATE (Level 4\)**
+* ** [  ] MODERATE (Level 4 )**
 
   * 1+ chronic illness w/ exacerbation, progression, or side effects  
   * 2+ stable chronic illnesses  
@@ -48,61 +48,61 @@
   * 1 acute illness w/ systemic symptoms  
   * 1 acute complicated injury  
       
-* **\[ \] HIGH (Level 5\)**
+* ** [  ] HIGH (Level 5 )**
 
   * 1+ chronic illness w/ **severe** exacerbation, progression, or side effects  
   * 1 acute/chronic illness posing **threat to life or bodily function**
 
-**Element 1 Result:** \[ \] Min \[ \] Low \[ \] Mod \[ \] High
+**Element 1 Result:**  [  ] Min  [  ] Low  [  ] Mod  [  ] High
 
 ---
 
 **ELEMENT 2: Amount/Complexity of Data**
 
-*Tests ordered/reviewed are distinct unique CPT codes. Panel \= 1 test.*
+*Tests ordered/reviewed are distinct unique CPT codes. Panel  = 1 test.*
 
-* **\[ \] MINIMAL/NONE (Level 2\)**
+* ** [  ] MINIMAL/NONE (Level 2 )**
 
-* **\[ \] LIMITED (Level 3\) \- (Must meet 1 category)**
+* ** [  ] LIMITED (Level 3 )  - (Must meet 1 category)**
 
   * *Cat 1:* Any combo of **2**: Review external notes; Review unique test result; Order unique test.  
   * *Cat 2:* Assessment requiring independent historian.
 
-* **\[ \] MODERATE (Level 4\) \- (Must meet 1 category)**
+* ** [  ] MODERATE (Level 4 )  - (Must meet 1 category)**
 
   * *Cat 1:* Any combo of **3**: Review external notes; Review unique test result; Order unique test; Independent historian.  
   * *Cat 2:* Independent interpretation of test (not separately reported).  
   * *Cat 3:* Discussion of management/interpretation with external provider.
 
-* **\[ \] EXTENSIVE (Level 5\) \- (Must meet 2 categories)**
+* ** [  ] EXTENSIVE (Level 5 )  - (Must meet 2 categories)**
 
   * *Cat 1:* Any combo of **3** items (Same list as Moderate Cat 1).  
   * *Cat 2:* Independent interpretation of test (not separately reported).  
   * *Cat 3:* Discussion of management/interpretation with external provider.
 
-**Element 2 Result:** \[ \] Min \[ \] Ltd \[ \] Mod \[ \] High  
+**Element 2 Result:**  [  ] Min  [  ] Ltd  [  ] Mod  [  ] High  
 ---
 
 **ELEMENT 3: Risk of Complications/Morbidity**
 
 *Based on consequences of the problem addressed when appropriately treated.*
 
-* **\[ \] MINIMAL (Level 2\)**
+* ** [  ] MINIMAL (Level 2 )**
 
   * Rest, gargles, elastic bandages.
 
-* **\[ \] LOW (Level 3\)**
+* ** [  ] LOW (Level 3 )**
 
   * OTC drugs, PT/OT, Minor surgery w/o risk factors, IV fluids (no additives).
 
-* **\[ \] MODERATE (Level 4\)**
+* ** [  ] MODERATE (Level 4 )**
 
   * **Prescription Drug Management**  
   * Decision regarding minor surgery **w/** risk factors.  
   * Decision regarding elective major surgery **w/o** risk factors.  
   * Diagnosis/Tx limited by **Social Determinants of Health**.
 
-* **\[ \] HIGH (Level 5\)**
+* ** [  ] HIGH (Level 5 )**
 
   * **Drug therapy requiring intensive monitoring for toxicity.**  
   * Decision regarding elective major surgery **w/** risk factors.  
@@ -113,7 +113,7 @@
 
     
 
-**Element 3 Result:** \[ \] Min \[ \] Low \[ \] Mod \[ \] High
+**Element 3 Result:**  [  ] Min  [  ] Low  [  ] Mod  [  ] High
 
 ---
 
@@ -123,9 +123,9 @@
 *Time includes face-to-face and non-face-to-face time on the date of encounter.*
 
 **Activities Documented:**  
-\[ \] Prep/Review \[ \] Hx/Exam \[ \] Counseling \[ \] Orders \[ \] Documentation \[ \] Care Coord.
+ [  ] Prep/Review  [  ] Hx/Exam  [  ] Counseling  [  ] Orders  [  ] Documentation  [  ] Care Coord.
 
-**Total Time:** \_\_\_\_\_\_\_ Minutes
+**Total Time:**  _ _ _ _ _ _ _ Minutes
 
 **Refer to Grid for Code Selection:**
 
@@ -134,7 +134,7 @@
 * **Initial Inpatient:** (40m=L1) (55m=L2) (75m=L3)  
 * **Subsequent Inpatient:** (25m=L1) (35m=L2) (50m=L3)  
 * **Consults:** (35m=L2) (45m=L3) (60m=L4) (80m=L5)  
-* **Discharge:** (≤30m \= 99238\) (\>30m \= 99239\)
+* **Discharge:** (≤30m  = 99238 ) ( >30m  = 99239 )
 
 ---
 
@@ -146,15 +146,15 @@
 
 2. ---
 
-**MDM Result:** \_\_\_\_\_\_\_\_\_
+**MDM Result:**  _ _ _ _ _ _ _ _ _
 
-**Time Based Result:** \_\_\_\_\_\_\_\_\_ (N/A if ED)
+**Time Based Result:**  _ _ _ _ _ _ _ _ _ (N/A if ED)
 
-**FINAL CODE SELECTED:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**FINAL CODE SELECTED:**  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-**\[ \] Correctly Coded**  
-**\[ \] Under Coded** (Support was present for higher level)  
-**\[ \] Over Coded** (Documentation does not support level)
+** [  ] Correctly Coded**  
+** [  ] Under Coded** (Support was present for higher level)  
+** [  ] Over Coded** (Documentation does not support level)
 
 **Auditor Notes:**
 
@@ -166,10 +166,10 @@
 
 | SERVICE TYPE | LEVEL 1 / SF | LEVEL 2 / LOW | LEVEL 3 / MOD | LEVEL 4 / HIGH | LEVEL 5 / HIGH | PROLONGED CODE |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **OFFICE NEW** | N/A | 99202 (15-29m) | 99203 (30-44m) | 99204 (45-59m) | 99205 (60-74m) | \+99417 (CPT) / G2212 |
-| **OFFICE EST** | 99211 (Nurse) | 99212 (10-19m) | 99213 (20-29m) | 99214 (30-39m) | 99215 (40-54m) | \+99417 (CPT) / G2212 |
-| **INIT. INPATIENT** | 99221 (40m) | 99222 (55m) | 99223 (75m) | N/A | N/A | \+99418 (CPT) / G0316 |
-| **SUBSQ. INPATIENT** | 99231 (25m) | 99232 (35m) | 99233 (50m) | N/A | N/A | \+99418 (CPT) / G0316 |
-| **INPT. CONSULT** | N/A | 99252 (35m) | 99253 (45m) | 99254 (60m) | 99255 (80m) | \+99418 (CPT) / G0316 |
+| **OFFICE NEW** | N/A | 99202 (15-29m) | 99203 (30-44m) | 99204 (45-59m) | 99205 (60-74m) |  +99417 (CPT) / G2212 |
+| **OFFICE EST** | 99211 (Nurse) | 99212 (10-19m) | 99213 (20-29m) | 99214 (30-39m) | 99215 (40-54m) |  +99417 (CPT) / G2212 |
+| **INIT. INPATIENT** | 99221 (40m) | 99222 (55m) | 99223 (75m) | N/A | N/A |  +99418 (CPT) / G0316 |
+| **SUBSQ. INPATIENT** | 99231 (25m) | 99232 (35m) | 99233 (50m) | N/A | N/A |  +99418 (CPT) / G0316 |
+| **INPT. CONSULT** | N/A | 99252 (35m) | 99253 (45m) | 99254 (60m) | 99255 (80m) |  +99418 (CPT) / G0316 |
 | **ED (MDM ONLY)** | 99281 | 99282 | 99283 | 99284 | 99285 | N/A |
 

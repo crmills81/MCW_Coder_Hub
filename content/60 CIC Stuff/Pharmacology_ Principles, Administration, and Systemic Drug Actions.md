@@ -5,7 +5,7 @@ Understanding drug nomenclature is a fundamental aspect of medical coding and ph
 All drugs typically have three distinct names:
 
 1. **Chemical Name**: This name is based on the drug's molecular structure and is often complex. For example, N-(4-hydroxyphenyl) acetamide is the chemical name for acetaminophen.  
-2. **Generic Name (International Nonproprietary Name \- INN)**: This is a shortened version of the chemical name and is the drug's official name once approved by the FDA. Generic names are most often used for medical record documentation and coding purposes. Examples include acetaminophen and naproxen.  
+2. **Generic Name (International Nonproprietary Name  - INN)**: This is a shortened version of the chemical name and is the drug's official name once approved by the FDA. Generic names are most often used for medical record documentation and coding purposes. Examples include acetaminophen and naproxen.  
 3. **Brand Name (Trade Name)**: This is the patented name chosen by the manufacturer and protected under copyright. Brand names are generally more familiar to the public, such as Tylenol for acetaminophen or Advil for ibuprofen. Sometimes, different brand names may refer to the same medication. When the generic or chemical name is not available, CMS may use the brand name to distinguish products.
 
 If a specific drug's brand name is not listed in coding references, an Internet search or drug reference book can help determine its generic name or drug category.
@@ -16,14 +16,14 @@ Drugs are often classified based on their therapeutic purpose, action, or the bo
 
 Examples of drug classes and their common stems include:
 
-* **\-vir-**: Antiviral drugs (e.g., Acyclovir)  
-* **\-cillin**: Penicillin-derived antibiotics (e.g., Penicillin)  
-* **\-mab**, **\-ximab**, **\-zumab**: Monoclonal antibodies (e.g., Trastuzumab, Infliximab, Natalizumab, Bevacizumab)  
-* **\-tinib**: Tyrosine-kinase inhibitors (e.g., Erlotinib, Crizotinib)  
-* **\-prazole**: Proton-pump inhibitors (e.g., Omeprazole)  
-* **\-sartan**: Angiotensin receptor antagonists (e.g., Losartan, Valsartan)  
-* **\-olol**: Beta-blockers (e.g., Propranolol)  
-* **\-tidine**: H2 antagonists (e.g., Ranitidine)
+* ** -vir-**: Antiviral drugs (e.g., Acyclovir)  
+* ** -cillin**: Penicillin-derived antibiotics (e.g., Penicillin)  
+* ** -mab**, ** -ximab**, ** -zumab**: Monoclonal antibodies (e.g., Trastuzumab, Infliximab, Natalizumab, Bevacizumab)  
+* ** -tinib**: Tyrosine-kinase inhibitors (e.g., Erlotinib, Crizotinib)  
+* ** -prazole**: Proton-pump inhibitors (e.g., Omeprazole)  
+* ** -sartan**: Angiotensin receptor antagonists (e.g., Losartan, Valsartan)  
+* ** -olol**: Beta-blockers (e.g., Propranolol)  
+* ** -tidine**: H2 antagonists (e.g., Ranitidine)
 
 Other broad categories include:
 
@@ -117,7 +117,7 @@ The sources list several specific routes of administration:
 * **Intracerebroventricular**: Into the cerebral ventricular system.  
 * **Subcutaneous**: Under the skin.
 
-### **ICD-10-PCS Administration Section (Section 3\)**
+### **ICD-10-PCS Administration Section (Section 3 )**
 
 The ICD-10-PCS (International Classification of Diseases, Tenth Revision, Procedure Coding System) includes a specific section for "Administration" procedures, designated as **Section 3**. This section is used for procedures involving "putting in or on a therapeutic, diagnostic, nutritional, physiological, or prophylactic substance".
 
@@ -133,16 +133,16 @@ The ICD-10-PCS (International Classification of Diseases, Tenth Revision, Proced
 
 **Root Operations in the Administration Section**: The Administration section has three distinct root operations, classified based on the broad category of the substance administered:
 
-* **0 \- Introduction**: Defined as "putting in or on a therapeutic, diagnostic, nutritional, physiological, or prophylactic substance *except* blood or blood products".  
+* **0  - Introduction**: Defined as "putting in or on a therapeutic, diagnostic, nutritional, physiological, or prophylactic substance *except* blood or blood products".  
   * *Examples*: Nerve block injection to median nerve, introduction of anti-neoplastic substances, introduction of anti-inflammatory into peripheral vein, radioactive substances into subcutaneous tissue, or other diagnostic substances into the spinal canal.  
-* **1 \- Irrigation**: Defined as "putting in or on a cleansing substance".  
+* **1  - Irrigation**: Defined as "putting in or on a cleansing substance".  
   * *Examples*: Flushing of eye, irrigation of an indwelling device.  
-* **2 \- Transfusion**: Defined as "putting in blood or blood products".  
+* **2  - Transfusion**: Defined as "putting in blood or blood products".  
   * *Examples*: Transfusion of cell saver red cells into central venous line, administration of nonautologous red blood cells via peripheral vein.
 
 **Key Considerations for Coding Administration Procedures**:
 
-* **Substance Classification**: The specific substance (Character 6\) and qualifier (Character 7\) are crucial for accurate coding in this section.  
+* **Substance Classification**: The specific substance (Character 6 ) and qualifier (Character 7 ) are crucial for accurate coding in this section.  
 * **Transplantation vs. Administration**: Putting in a mature and functioning living body part from another individual or animal is coded to the root operation *Transplantation*. However, putting in autologous or nonautologous *cells* (e.g., bone marrow, pancreatic islet cells, stem cells) is coded to the Administration section.  
 * **Irrigation of Indwelling Device**: Irrigation of an indwelling device (e.g., percutaneous nephrostomy tube) is coded to the root operation *Irrigation* in the Administration section.
 
@@ -327,7 +327,7 @@ Examples of drugs that can cause adverse effects, and their corresponding T-code
 * 4-Aminophenol derivatives (T39.1X5A).  
 * Pyrazolone derivatives (T39.2X5A).  
 * Propionic acid derivatives (T39.315A).  
-* Other nonsteroidal anti-inflammatory drugs \[NSAID\] (T39.395A).  
+* Other nonsteroidal anti-inflammatory drugs  [NSAID ] (T39.395A).  
 * Antirheumatics, NEC (T39.4X5A).  
 * Other nonopioid analgesics and antipyretics (T39.8X5A).  
 * Unspecified nonopioid analgesic, antipyretic and antirheumatic (T39.95XA).  
@@ -361,9 +361,9 @@ Examples of drugs that can cause adverse effects, and their corresponding T-code
 * Methylphenidate (T43.635A).  
 * Other psychotropic drugs (T43.8X5A).  
 * Unspecified psychotropic drug (T43.95XA).  
-* Other parasympathomimetics \[cholinergics\] (T44.1X5A).  
+* Other parasympathomimetics  [cholinergics ] (T44.1X5A).  
 * Ganglionic blocking drugs (T44.2X5A).  
-* Other parasympatholytics \[anticholinergics and antimuscarinics\] and spasmolytics (T44.3X5A).  
+* Other parasympatholytics  [anticholinergics and antimuscarinics ] and spasmolytics (T44.3X5A).  
 * Centrally-acting and adrenergic-neuron-blocking agents (T44.8X5A).  
 * Unspecified drugs primarily affecting the autonomic nervous system (T44.905A).  
 * Antiallergic and antiemetic drugs (T45.0X5A).  
@@ -381,7 +381,7 @@ Examples of drugs that can cause adverse effects, and their corresponding T-code
 * Antidiarrheal drugs (T47.6X5A).  
 * Emetics (T47.7X5A).  
 * Oxytocic drugs (T48.0X5A).  
-* Skeletal muscle relaxants \[neuromuscular blocking agents\] (T48.1X5A).  
+* Skeletal muscle relaxants  [neuromuscular blocking agents ] (T48.1X5A).  
 * Other drugs acting on muscles (T48.295A).  
 * Antitussives (T48.3X5A).  
 * Expectorants (T48.4X5A).  
@@ -392,7 +392,7 @@ Examples of drugs that can cause adverse effects, and their corresponding T-code
 * Dental drugs, topically applied (T49.7X5A).  
 * Other topical agents (T49.8X5A).  
 * Mineralocorticoids and their antagonists (T50.0X5A).  
-* Loop \[high-ceiling\] diuretics (T50.1X5A).  
+* Loop  [high-ceiling ] diuretics (T50.1X5A).  
 * Carbonic-anhydrase inhibitors, benzothiadiazides and other diuretics (T50.2X5A).  
 * Electrolytic, caloric and water-balance agents (T50.3X5A).  
 * Drugs affecting uric acid metabolism (T50.4X5A).  
@@ -538,7 +538,7 @@ Pharmacology is the study of drugs, encompassing their actions, purpose, dosage,
 Drugs typically have three names:
 
 * **Chemical Name**: Based on the drug's molecular structure. For example, N-(4-hydroxyphenyl) acetamide is the chemical name for acetaminophen.  
-* **Generic Name (International Nonproprietary Name \- INN)**: A shortened version of the chemical name, approved by the FDA, and often used for medical record documentation and coding. Ibuprofen is a generic name.  
+* **Generic Name (International Nonproprietary Name  - INN)**: A shortened version of the chemical name, approved by the FDA, and often used for medical record documentation and coding. Ibuprofen is a generic name.  
 * **Brand Name**: The patented name selected by the manufacturer, such as Tylenol for acetaminophen or Advil for ibuprofen.
 
 The stem (root word) and suffixes of a generic drug name often provide insight into its therapeutic purpose and drug class. For example, "-vir-" indicates an antiviral drug (e.g., Acyclovir), "-cillin" indicates a penicillin-derived antibiotic (e.g., Penicillin), and "-prazole" indicates a proton-pump inhibitor (e.g., Omeprazole).
@@ -551,7 +551,7 @@ Medications can be administered through various routes, broadly categorized into
 * **Enteral**: Delivered via the gastrointestinal (GI) tract. This includes oral ingestion (swallowed tablets, capsules, drops), or administration through feeding tubes (gastric, duodenal, gastrostomy), or rectally (suppositories, enemas).  
 * **Parenteral**: Any route other than the GI tract, usually involving injections or infusions for systemic effect. Examples include intravenous (IV), intramuscular (IM), intra-arterial, intraosseous infusion, subcutaneous, intracerebral, or intrathecal. Intravenous medications and blood transfusions must be administered according to state law and approved medical staff policies.
 
-For coding purposes in ICD-10-PCS (Procedure Coding System), the "Administration" section (Section 3\) classifies procedures based on the broad category of the substance administered. Root operations in this section include:
+For coding purposes in ICD-10-PCS (Procedure Coding System), the "Administration" section (Section 3 ) classifies procedures based on the broad category of the substance administered. Root operations in this section include:
 
 * **Introduction**: For putting in or on a therapeutic, diagnostic, nutritional, physiological, or prophylactic substance, *except* blood or blood products.  
 * **Irrigation**: For putting in or on a cleansing substance.  

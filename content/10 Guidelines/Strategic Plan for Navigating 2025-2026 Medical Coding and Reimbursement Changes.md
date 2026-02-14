@@ -4,7 +4,7 @@
 
 The healthcare landscape is in a state of continuous evolution, driven by advancements in medicine, shifts in regulatory policy, and the integration of new technologies. For healthcare organizations, proactively managing the upcoming changes in medical coding, billing, and reimbursement is not merely an administrative exercise—it is a critical imperative for survival and success. The period of 2025-2026 marks a significant inflection point, with financial headwinds, new coding requirements, and foundational policy shifts converging to create a complex operational environment. This document serves as a strategic roadmap for healthcare executives and practice managers, providing the analysis and actionable intelligence needed to ensure financial stability, enhance operational efficiency, and maintain rigorous regulatory compliance in the years ahead.
 
-\--------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------
 
 ### **1.0 The Evolving Regulatory and Reimbursement Landscape**
 
@@ -14,8 +14,8 @@ Understanding the macro-level shifts in policy and payment methodology from the 
 
 The most immediate challenge facing providers is a direct and significant reduction in reimbursement rates. The 2025 Physician Fee Schedule (MPFS) Proposed Rule outlines several direct financial pressures that will compress margins and strain operational budgets.
 
-* **Conversion Factor Decrease:** The MPFS conversion factor is projected to decrease by **3.9%** in 2025\. This continues a troubling downward trend that has seen the factor fall from approximately $36 in 2019 to a projected $32 in 2025, eroding the fundamental value assigned to physician services.  
-* **Severe Reimbursement Declines:** The impact of these cuts is stark when viewed at the procedural level. For example, the national reimbursement for CPT code 96413 (chemotherapy administration) has plummeted over the past six years from $143 to a projected figure of approximately $20 in 2025\.  
+* **Conversion Factor Decrease:** The MPFS conversion factor is projected to decrease by **3.9%** in 2025 . This continues a troubling downward trend that has seen the factor fall from approximately $36 in 2019 to a projected $32 in 2025, eroding the fundamental value assigned to physician services.  
+* **Severe Reimbursement Declines:** The impact of these cuts is stark when viewed at the procedural level. For example, the national reimbursement for CPT code 96413 (chemotherapy administration) has plummeted over the past six years from $143 to a projected figure of approximately $20 in 2025.  
 * **Rising Administrative Burden:** These steep financial cuts are occurring in parallel with increasing administrative burdens. Providers are navigating a landscape of expanding prior authorization requirements, the complexities of new coding rules, and the operational demands of electronic health records, all of which add cost and complexity without corresponding payment increases.
 
 #### **1.2 Evaluate Foundational CMS Policies Impacting Operations**
@@ -34,13 +34,13 @@ CMS is actively signaling its intent to integrate digital health tools into futu
 
 These high-level policy directions are not abstract concepts; they are the strategic drivers that directly inform the granular changes to the medical code sets that will define operational and financial performance.
 
-\--------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------
 
 ### **2.0 Strategic Analysis of Major 2025-2026 Code Set Updates**
 
 Mastering the annual updates to medical code sets is of paramount strategic importance. These changes are not merely administrative; they are a direct reflection of advancements in medicine, shifts in public health priorities, and an escalating demand for data-driven healthcare. The updates for 2025-2026 require a new level of documentation and coding precision to ensure accurate reimbursement and quality reporting.
 
-#### **2.1 Deciphering Key ICD-10-CM Updates (Effective October 1, 2025\)**
+#### **2.1 Deciphering Key ICD-10-CM Updates (Effective October 1, 2025 )**
 
 The upcoming changes to the ICD-10-CM code set introduce greater specificity across a wide range of clinical areas. The following table summarizes the most significant updates that will require focused education and documentation improvement.
 
@@ -75,7 +75,7 @@ The consistent trend toward more granular and specific codes has profound strate
 
 These code set modifications translate directly into tangible financial consequences, which must be carefully assessed and managed.
 
-\--------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------
 
 ### **3.0 Financial Impact Assessment and Mitigation Strategies**
 
@@ -103,12 +103,12 @@ For inpatient facilities, the Medicare Severity-Diagnosis Related Group (MS-DRG)
 
 Performance in the Merit-based Incentive Payment System (MIPS), a track within the QPP, is directly tied to future payment adjustments.
 
-* For the 2026 performance period (which will affect 2028 payments), CMS is maintaining the MIPS performance threshold at **75 points**. Clinicians with final scores below this threshold will receive a negative payment adjustment of up to **\-9%**.  
+* For the 2026 performance period (which will affect 2028 payments), CMS is maintaining the MIPS performance threshold at **75 points**. Clinicians with final scores below this threshold will receive a negative payment adjustment of up to ** -9%**.  
 * CMS data highlights a disproportionate risk for smaller organizations. It is estimated that **49% of solo practitioners** and **21% of small practices** will receive a penalty, compared to just 12% of MIPS-eligible clinicians overall. This makes successful MIPS participation a critical financial priority for these groups.
 
 Mitigating these diverse financial risks is not possible without investing in robust operational processes, sophisticated systems, and a well-trained, knowledgeable team.
 
-\--------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------
 
 ### **4.0 Operational Readiness and Implementation Plan**
 
@@ -149,7 +149,7 @@ The organization's technology infrastructure must support and enable compliance 
 
 These operational initiatives are the foundational building blocks for executing the overarching strategic roadmap outlined in the final section of this plan.
 
-\--------------------------------------------------------------------------------
+ --------------------------------------------------------------------------------
 
 ### **5.0 Strategic Recommendations and Action Roadmap**
 

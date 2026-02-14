@@ -13,7 +13,7 @@ last_updated: 2026-02-10
 
 **Sepsis** is a life-threatening medical emergency characterized by a **dysregulated host response to infection** that leads to **organ dysfunction**. It represents the body's extreme and harmful overreaction to an infection, where the immune response causes widespread inflammation that can damage tissues and organs throughout the body.
 
-**Key concept:** [[Sepsis]] is NOT just an infection - it is the body's overwhelming and life-threatening response to that infection.
+**Key concept:** [[sepsis]] is NOT just an infection - it is the body's overwhelming and life-threatening response to that infection.
 
 ---
 
@@ -73,7 +73,7 @@ last_updated: 2026-02-10
 - **[[Pneumonia]]** (lung infection) - most common source
 - **[[Urinary tract infections (UTI)]]** - especially [[pyelonephritis]]
 - **Intra-abdominal infections** - appendicitis, diverticulitis, peritonitis
-- **Skin/soft tissue infections** - [[Cellulitis]], abscesses, wounds
+- **Skin/soft tissue infections** - [[cellulitis]], abscesses, wounds
 - **Bloodstream infections** - central line infections, [[bacteremia]]
 - **[[Meningitis]]** - CNS infections
 

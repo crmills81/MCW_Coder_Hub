@@ -20,7 +20,7 @@ definition:
   - pertaining to a spot
 ---
 >[!Note] DEFINITION of [[macular]]
->[[macular]] (adj.) refers broadly to anything characterized by or involving small spots, such as **macular skin lesions composed of flat, discolored areas without elevation or depression**. In eye disease, it describes conditions that affect the retinal [[macula]], for example [[macular degeneration]], [[macular edema]], and [[macular holes]], where pathology in this central retinal zone impairs fine visual tasks like reading and driving. The underlying noun macula denotes a small spot or blotch, either on the skin or in the eye, and in [[ophthalmology]] is shorthand for macula lutea, the yellowish, oval central retinal region with the highest visual acuity. 
+>[[macular]] (adj.) refers broadly to anything characterized by or involving small spots, such as **macular skin lesions composed of flat, discolored areas without elevation or depression**. In eye disease, it describes conditions that affect the retinal [[macula]], for example [[macular degeneration]], [[macular edema]], and [[macular holes]], where pathology in this central retinal zone impairs fine visual tasks like reading and driving. The underlying noun macula denotes a small spot or blotch, either on the skin or in the eye, and in [[Ophthalmology]] is shorthand for macula lutea, the yellowish, oval central retinal region with the highest visual acuity. 
 >
 >|Term|Breakdown|Meaning|
 |---|---|---|

@@ -18,7 +18,7 @@ definition:
   - bacterial skin infection
 ---
 >[!Note] DEFINITION of [[cellulitis]]
->[[Cellulitis]] is an **acute, spreading bacterial infection affecting the deep [[dermis]] and [[subcutaneous]] tissues**. Unlike an [[abscess]], which is a contained, walled-off collection of [[pus]], cellulitis is a diffuse inflammation that spreads laterally through tissue planes, often facilitated by bacterial [[enzymes]] that break down cellular barriers. It is clinically characterized by the four cardinal signs of inflammation: [[erythema]] (**redness**), [[edema]] (**swelling**), [[calor]] (**warmth**), and tenderness to [[palpation]]. While frequently unilateral, if left untreated, the infection can ascend via lymphatic vessels to the lymph nodes ([[lymphangitis]]) or enter the bloodstream, leading to [[bacteremia]] or life-threatening [[sepsis]].
+>[[cellulitis]] is an **acute, spreading bacterial infection affecting the deep [[dermis]] and [[subcutaneous]] tissues**. Unlike an [[abscess]], which is a contained, walled-off collection of [[pus]], cellulitis is a diffuse inflammation that spreads laterally through tissue planes, often facilitated by bacterial [[enzymes]] that break down cellular barriers. It is clinically characterized by the four cardinal signs of inflammation: [[erythema]] (**redness**), [[edema]] (**swelling**), [[calor]] (**warmth**), and tenderness to [[palpation]]. While frequently unilateral, if left untreated, the infection can ascend via lymphatic vessels to the lymph nodes ([[lymphangitis]]) or enter the bloodstream, leading to [[bacteremia]] or life-threatening [[sepsis]].
 >
 > #### Related Terms & Synonyms
 >- **[[Erysipelas]]:** A specific subtype of superficial cellulitis involving the upper dermis and superficial lymphatics. It is distinguished clinically by **well-demarcated, raised borders** (**unlike the indistinct borders of cellulitis**) and is almost exclusively caused by Group A *Streptococcus*.
@@ -113,7 +113,7 @@ _Cellulitis is primarily managed medically. Procedure codes are rarely used unle
 - **Simple Cellulitis (L03.x):** Generally does **NOT** map to an HCC. It is considered an acute, short-term condition that resolves with antibiotics.
     
 - **Complications & Severity:**
-    - **[[Sepsis]] ([[A41.9]]):** If the cellulitis progresses to Sepsis, it maps to **HCC 2** ([[Septicemia]], Sepsis, and [[Systemic Inflammatory Response Syndrome]]/[[Shock]]), which carries a high risk adjustment weight.
+    - **[[sepsis]] ([[A41.9]]):** If the cellulitis progresses to Sepsis, it maps to **HCC 2** ([[Septicemia]], Sepsis, and [[Systemic Inflammatory Response Syndrome]]/[[Shock]]), which carries a high risk adjustment weight.
     - **Necrotizing Fasciitis ([[M72.6]]):** Maps to **HCC 48** (Inflammatory Bone Disease, [[Osteomyelitis]], and [[Arthropathy]]).
     - **[[Diabetic Ulcer]]:** If cellulitis is associated with a diabetic [[ulcer]], code the ulcer (e.g., [[E11.621]]) which maps to **HCC 161/162** (Chronic Skin Ulcers).
 

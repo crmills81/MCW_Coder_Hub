@@ -37,7 +37,7 @@ _____
 >|**[[N13.5]]**|Crossing vessel and stricture of [[ureter]] without [[hydronephrosis]]|Used when there is a stricture but no kidney swelling [](https://www.aapc.com/codes/icd-10-codes/N28.89)​.|
 >|**[[ureterolithiasis]]**|Stone in the [[ureter]]|Clinical term for the condition coded by **[[50 Medical Coding/ICD-10 Codes/N20.1]]**.|
 >|**[[Hydroureter]]**|Dilation of the [[ureter]]|Accumulation of urine in the [[ureter]] due to obstruction (**[[N13.4]]**) [](https://www.aapc.com/codes/icd-10-codes/N28.89)​.|
->|**[[Ureteroscopy]]**|Scope of the ureter|Minimally invasive procedure to visualize or treat ureteral issues (CPT **5235x**).|
+>|**[[ureteroscopy]]**|Scope of the ureter|Minimally invasive procedure to visualize or treat ureteral issues (CPT **5235x**).|
 >- **[[Ureteropelvic Junction (UPJ)]]**: The point where the [[ureter]] meets the kidney; a common site for congenital obstruction (**[[N13.0]]**).[](https://www.outsourcestrategies.com/blog/icd-10-codes-for-reporting-top-six-urologic-conditions/)​
 >- **Ureterovesical Junction (UVJ)**: The point where the [[ureter]] enters the bladder; acts as a valve to prevent reflux.
 >- **Double Ureter (Duplicated Collecting System)**: A congenital anomaly where two ureters drain a single kidney (**[[Q62.5]]**)

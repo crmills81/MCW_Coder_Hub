@@ -110,7 +110,7 @@ Documentation and coding standards are a significant portion of the CIC exam, af
 1. **Medical Records**:
 
    * A complete medical record provides a comprehensive history of patient care.  
-   * **Key Components:** Patient demographics, History and Physical (H\&P), physician orders, progress notes, consultation reports, operative reports, anesthesia records, pathology and radiology reports, laboratory results, Medication Administration Record (MAR), and discharge summary.  
+   * **Key Components:** Patient demographics, History and Physical (H &P), physician orders, progress notes, consultation reports, operative reports, anesthesia records, pathology and radiology reports, laboratory results, Medication Administration Record (MAR), and discharge summary.  
    * **Content:** Must include administrative and demographic information (facility name, location, patient's full name, address, phone number, ethnicity).  
    * **Completeness:** Medical records must be complete within 30 days of discharge or outpatient care.  
    * **Confidentiality:** Policies should address confidentiality and the use of essential coding resources.  
@@ -185,7 +185,7 @@ A strong grasp of these subjects is crucial for accurate medical coding.
 
 1. **Medical Terminology:** Essential for understanding documentation and translating it into coding language.
 
-   * Familiarize yourself with prefixes (e.g., Nulli- \= none, Primi- \= first, Mono-/uni- \= one, Bi-/di- \= two) and suffixes.  
+   * Familiarize yourself with prefixes (e.g., Nulli-  = none, Primi-  = first, Mono-/uni-  = one, Bi-/di-  = two) and suffixes.  
    * Utilize a medical dictionary (paper or online) to look up unfamiliar terms. CCO integrates study stacks into its medical terminology course for flashcards and games.  
 2. **Anatomy and Physiology:** Understanding how the body works, including organ systems, is fundamental.
 
@@ -226,5 +226,5 @@ Preparing for the CIC exam requires a structured approach and effective use of a
    * **Time Management:** During the exam, allocate a specific amount of time per question (e.g., maximum 2 minutes per question). If you exceed this, you may not be ready for the exam. Practice fill-in-the-blank questions.  
    * **Don't Rush It:** The CIC credential is advanced; give yourself ample time to master the material.
 
-This comprehensive guide should provide a strong foundation for your CIC exam preparation. Good luck\!
+This comprehensive guide should provide a strong foundation for your CIC exam preparation. Good luck !
 

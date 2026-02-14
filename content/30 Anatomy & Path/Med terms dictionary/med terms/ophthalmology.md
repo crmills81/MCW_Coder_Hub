@@ -19,13 +19,13 @@ definition:
   - function
   - and diseases of the eye.
 ---
->[!Note] DEFINITION of [[ophthalmology]]
+>[!Note] DEFINITION of [[Ophthalmology]]
 >It encompasses **comprehensive eye exams, prescription of medications or glasses, laser procedures, and surgeries for conditions like [[cataracts]], [[glaucoma]], and retinal issues**; [[ophthalmologists]] are MD-trained physicians with residency in eye care.
 _____
->[!info]+ ETYMOLOGY of [[ophthalmology]]
+>[!info]+ ETYMOLOGY of [[Ophthalmology]]
 >#greek From Greek "*ophthalmos*" (ὀφθαλμός, **eye**) + "[[-logia]]" (-λογία, *study/discourse*), literally "**the study of eyes**."
 _____
->[!tip]+ DERIVATIONS of [[ophthalmology]]
+>[!tip]+ DERIVATIONS of [[Ophthalmology]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

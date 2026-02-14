@@ -35,11 +35,11 @@ _____
 >- [[Ureteral stone]]
 >- Ureteric calculus
 >- [[ureterolithiasis]]
->- [[Urolithiasis]] (umbrella term)
+>- [[urolithiasis]] (umbrella term)
 >- [[nephrolithiasis]]
 >- Renal colic
 >- - **ESWL**: Extracorporeal Shock Wave [[lithotripsy]], a non-invasive procedure to break up stones (CPT **50590**).
->- **[[Ureteroscopy]]**: Endoscopic removal of the stone (CPT **52352**/**52353**/**52356**).
+>- **[[ureteroscopy]]**: Endoscopic removal of the stone (CPT **52352**/**52353**/**52356**).
 >- **Staghorn [[calculus]]**: A large, branched stone that fills the renal pelvis, distinct from a simple ureteral stone.
 _____
 >[!tip]+ DERIVATIONS of [[ureterolithiasis]]

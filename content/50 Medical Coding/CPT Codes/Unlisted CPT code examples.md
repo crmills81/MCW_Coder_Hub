@@ -82,7 +82,7 @@ On your claim or in your notes, tell the insurance company: "This unlisted proce
 
 **Specifically for my specialties:**
 
-Based on the provided sources, you should use unlisted procedure codes in [[otolaryngology]], [[ophthalmology]], and [[urology]] when a specific CPT or HCPCS code that accurately describes the service performed does not exist. It is inappropriate to report the "best fit" code that merely approximates the service; if the specific procedure is not listed, the unlisted code must be used.
+Based on the provided sources, you should use unlisted procedure codes in [[otolaryngology]], [[Ophthalmology]], and [[urology]] when a specific CPT or HCPCS code that accurately describes the service performed does not exist. It is inappropriate to report the "best fit" code that merely approximates the service; if the specific procedure is not listed, the unlisted code must be used.
 
 Here are specific scenarios and guidelines for these specialties:
 
