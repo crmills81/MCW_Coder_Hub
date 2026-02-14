@@ -1,14 +1,14 @@
-index
-
+---
+title: Welcome
+---
 # 🧭 Coding Dashboard
 
 ## 🎯 Purpose
-A central hub for all coding work, CIC prep, facility references, audit tools, and practice scenarios.
+Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare with me if you're someone other than me visiting. I'll eventually get to fixing the broken links. Anyone who's a coder already knows this might take a long time lolol... 🤓
 
 ---
 
-# 📚 Study & Reference
-
+# 📚 Medical Coding References
 ### High‑Yield References
 - [[MDM Tables]]
 - [[PCS Root Operation Grid]]
@@ -16,9 +16,9 @@ A central hub for all coding work, CIC prep, facility references, audit tools, a
 - [[Status Indicators Quick Reference]]
 - [[UB‑04 Field Reference]]
 - [[Med roots dictionary]]
-- [[Med terms]]
-- [[CPT Codes]]
-- [[ICD-10 Codes]]
+- [[30 Anatomy & Path/Med terms dictionary/Med roots]]
+- [[50 Medical Coding/CPT Codes]]
+- [[50 Medical Coding/ICD-10 Codes]]
 
 ### Coding Rules & Guides
 - [[Audit Checklist]]
