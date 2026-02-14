@@ -20,7 +20,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "Home",
+      condition: (page) => page.fileData.slug !== "Yay, CODING!",
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
