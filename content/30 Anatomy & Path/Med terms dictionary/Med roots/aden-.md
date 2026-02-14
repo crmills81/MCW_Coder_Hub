@@ -55,9 +55,9 @@ The combining form **aden-** refers to glands or glandular tissue, including end
 | adenoma | glandular tumor |
 
 ## Common Medical Terms
-- **Adenitis** – inflammation of a gland  
-- **Adenoma** – benign glandular tumor  
-- **Adenocarcinoma** – malignant glandular tumor  
+- **Adenitis** - inflammation of a gland  
+- **Adenoma** - benign glandular tumor  
+- **Adenocarcinoma** - malignant glandular tumor  
 
 ## Documentation Clues
 - “Mass in gland”

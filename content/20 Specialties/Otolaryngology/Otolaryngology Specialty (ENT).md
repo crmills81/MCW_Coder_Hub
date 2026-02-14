@@ -10,32 +10,32 @@ created: 2026-01-21
 ## Common CPT Codes
 | Code | Category | Description |
 | :--- | :--- | :--- |
-| **31231** | Diagnostic | Nasal endoscopy, diagnostic, unilateral or bilateral |
-| **31575** | Diagnostic | Laryngoscopy, flexible; diagnostic |
-| **69210** | Procedure | Removal impacted cerumen (Separate procedure) |
-| **42820** | Procedure | Tonsillectomy and adenoidectomy; under age 12 |
-| **30520** | Procedure | Septoplasty or submucous resection of nasal septum |
+| **[[31231]]** | Diagnostic | Nasal endoscopy, diagnostic, unilateral or bilateral |
+| **[[31575]]** | Diagnostic | Laryngoscopy, flexible; diagnostic |
+| **[[69210]]** | Procedure | Removal impacted cerumen (Separate procedure) |
+| **[[42820]]** | Procedure | [[tonsillectomy]] and adenoidectomy; under age 12 |
+| **[[30520]]** | Procedure | Septoplasty or submucous resection of nasal septum |
 <br>
 
 ## Common ICD-10-CM Codes
-* **J32.9** – Chronic sinusitis, unspecified
-* **J34.2** – Deviated nasal septum
-* **H66.91** – Otitis media, unspecified, right ear
-* **R49.0** – Dysphonia (Hoarseness)
+* **[[J32.9]]** - Chronic sinusitis, unspecified
+* **[[J34.2]]** - Deviated nasal septum
+* **[[H66.91]]** - Otitis media, unspecified, right ear
+* **[[R49.0]]** - [[Dysphonia]] (Hoarseness)
 
 ## Key Modifiers
-* **-51**: Multiple procedures (very common in ENT sinus surgeries)
-* **-59**: Distinct procedural service (used to unbundle codes when appropriate)
-* **-LT / -RT**: Crucial for ear procedures.
+* **[[-51]]**: Multiple procedures (very common in ENT sinus surgeries)
+* **[[-59]]**: Distinct procedural service (used to unbundle codes when appropriate)
+* **[[-LT]] / [[-RT]]**: Crucial for ear procedures.
 <br>
 
 ## 📖 Specialty Etymology
 | Term | Etymology | Breakdown |
 | :--- | :--- | :--- |
-| **Otolaryngology** | Gr. *[[-ous]]* (ear) + *[[laryng-]]* (throat) + *logos* (study) | Study of the ear and throat. |
-| **[[myringotomy]]** | L. *myringa* (eardrum) + Gr. *[[-tome]]* (incision) | Incision into the eardrum. |
-| **[[Dysphagia]]** | Gr. *[[dys-]]* (difficult/bad) + *[[phagein]]* (to eat) | Difficulty swallowing. |
-| **[[Rhinitis]]** | Gr. *[[rhis]]* (nose) + *[[-itis]]* (inflammation) | Inflammation of the nose. |
+| **[[Otolaryngology]]** | Gr. *[[-ous]]* (**ear**) + *[[laryng-]]* (**throat**) + *logos* (**study**) | Study of the ear and throat. |
+| **[[myringotomy]]** | L. *myringa* (**eardrum**) + Gr. *[[-tome]]* (**incision**) | Incision into the eardrum. |
+| **[[Dysphagia]]** | Gr. *[[dys-]]* (**difficult**/**bad**) + *[[phagein]]* (**to eat**) | Difficulty swallowing. |
+| **[[Rhinitis]]** | Gr. *[[rhis]]* (**nose**) + *[[-itis]]* (**inflammation**) | Inflammation of the nose. |
 
 ---
 <br>

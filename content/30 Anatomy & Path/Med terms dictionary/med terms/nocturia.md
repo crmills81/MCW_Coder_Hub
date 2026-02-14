@@ -18,7 +18,7 @@ definition:
   - nocturnal urinary frequency
 ---
 >[!Note] DEFINITION of [[nocturia]]
->[[nocturia]] is **waking one or more times nightly from sleep to void, disrupting normal sleep cycles**. [[nocturia]] (**nocturnal urinary frequency**) is the complaint of waking ≥1 time per night to urinate, where sleep precedes and follows the voiding episode; *affects >50% adults >50yo*, multifactorial via nocturnal [[polyuria]] (*>20–33% 24hr urine at night*), global polyuria (>40mL/kg/day), reduced nocturnal bladder capacity, or sleep disorders; leads to fatigue, falls (**25% nocturnal fractures**), cognitive impairment.
+>[[nocturia]] is **waking one or more times nightly from sleep to void, disrupting normal sleep cycles**. [[nocturia]] (**nocturnal urinary frequency**) is the complaint of waking ≥1 time per night to urinate, where sleep precedes and follows the voiding episode; *affects >50% adults >50yo*, multifactorial via nocturnal [[polyuria]] (*>20-33% 24hr urine at night*), global polyuria (>40mL/kg/day), reduced nocturnal bladder capacity, or sleep disorders; leads to fatigue, falls (**25% nocturnal fractures**), cognitive impairment.
 _____
 >[!info]+ ETYMOLOGY of [[nocturia]]
 >#latin

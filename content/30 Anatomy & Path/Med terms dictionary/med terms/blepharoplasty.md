@@ -32,13 +32,13 @@ cpt:
 >Surgical repair or reconstruction of the eyelid, often to correct drooping ([[ptosis]]) or remove excess skin. [[Blepharoplasty]] is a surgical procedure that improves the appearance of the eyelids by removing **drooping skin** from upper lids and reducing the look of tired eyes or "*bags*" from lower lids, sometimes **improving vision by treating loose skin that impairs it**.
 >
 >#### ICD-10-CM Code(s):
->**1. H02.83- – [[Dermatochalasis]] of eyelid:**
+>**1. H02.83- - [[Dermatochalasis]] of eyelid:**
 >- **Explanation:** This is the most common diagnosis for functional [[blepharoplasty]]. It refers to "*baggy*" or redundant skin of the eyelids.
 >	- **Note:** Requires a 6th digit for laterality: **[[H02.831]]** (**Right upper**), **[[H02.832]]** (**Right lower**), **[[H02.834]]** (**Left upper**), **[[H02.835]]** (**Left lower**).
->- **2. H02.3- – [[Blepharochalasis]]:**
+>- **2. H02.3- - [[Blepharochalasis]]:**
 >- **Explanation:** Used when the eyelid skin is thin and wrinkled due to recurrent episodes of edema (swelling), often seen in younger patients.
 >	- **Note:** Requires a 6th digit: **[[H02.31]]** (Right upper), **[[H02.34]]** (Left upper).
->- **3. H02.40- – Unspecified [[ptosis]] of eyelid:**
+>- **3. H02.40- - Unspecified [[ptosis]] of eyelid:**
 >- **Explanation:** Used when the eyelid margin itself is drooping. While [[blepharoplasty]] treats excess skin, it is often performed alongside or to address "[[pseudoptosis]]" caused by heavy skin.
 >	- **Note:** Requires a 6th digit: **[[H02.401]]** (Right), **[[H02.402]]** (Left), **[[H02.403]]** (**Bilateral**).
 _____

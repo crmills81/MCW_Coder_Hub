@@ -67,8 +67,8 @@ The prefix **[[apo-]]** indicates separation, derivation, or movement away from 
 | [[dia-]] | through, apart |
 
 ## Common Medical Terms
-- **[[Apocrine]]** – glands that secrete by “separating off” part of the cell  
-- **[[Apoptosis]]** – programmed cell death (cells “fall away”)  
+- **[[Apocrine]]** - glands that secrete by “separating off” part of the cell  
+- **[[Apoptosis]]** - programmed cell death (cells “fall away”)  
 
 ## Documentation Clues
 - “Cellular breakdown”

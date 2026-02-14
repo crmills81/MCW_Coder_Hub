@@ -105,27 +105,27 @@ Source: CMS Medicare Physician Fee Schedule (MPFS) & Global Surgery Booklet
 
 **📆 How to Count Global Days**
 
-**Day of surgery \= Day 0**  
-\- The calendar day the procedure is performed is always counted as \*\*Day 0\*\*.    
-\- Postoperative days begin the following calendar day.  
+**Day of surgery = Day 0**  
+- The calendar day the procedure is performed is always counted as **Day 0**.    
+- Postoperative days begin the following calendar day.  
 
 **Counting rules:**   
-\- Count \*\*consecutive calendar days\*\* (not business days).    
-\- Include \*\*weekends and holidays\*\* in the count.    
-\- The global period ends at \*\*midnight of the last day\*\*.  
+- Count **consecutive calendar days** (not business days).    
+- Include **weekends and holidays** in the count.    
+- The global period ends at ***midnight of the last day**.  
 
 **Examples:**  
-\- \*\*10‑day global (010):\*\*    
-  \- Surgery on June 1 → Day 0\.    
-  \- Global period runs June 2–June 11\.    
-\- \*\*90‑day global (090):\*\*    
-  \- Surgery on June 1 → Day 0\.    
-  \- Global period runs June 2–August 30\.  
+- **10‑day global (010):**    
+  - Surgery on June 1 → Day 0.    
+  - Global period runs June 2-June 11.    
+- **90‑day global (090):**    
+ - Surgery on June 1 → Day 0.    
+  - Global period runs June 2-August 30.  
 
 **Special indicators:**  
-\- \*\*000 (0‑day):\*\* Only services on the day of surgery are bundled.    
-\- \*\*010 (10‑day):\*\* Minor surgeries; postop visits through Day 10 are bundled.    
-\- \*\*090 (90‑day):\*\* Major surgeries; postop visits through Day 90 are bundled.    
-\- \*\*ZZZ:\*\* Add‑on codes; inherit parent procedure’s global period.    
-\- \*\*YYY:\*\* Carrier/MAC determines global period.  
+- **000 (0‑day):** Only services on the day of surgery are bundled.    
+- **010 (10‑day):** Minor surgeries; postop visits through Day 10 are bundled.    
+- **090 (90‑day):** Major surgeries; postop visits through Day 90 are bundled.    
+- **ZZZ** Add‑on codes; inherit parent procedure’s global period.    
+- **YYY:** Carrier/MAC determines global period.  
 

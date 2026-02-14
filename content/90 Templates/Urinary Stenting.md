@@ -8,7 +8,7 @@ stent_size: <% await tp.system.prompt("Stent size (e.g., 6F x 26 cm double-J)") 
 physician: <% await tp.system.prompt("Physician") %>
 anesthesia: <% await tp.system.suggester(["general", "spinal", "MAC"], ["general", "spinal", "MAC"]) %>
 fluoroscopy: <% await tp.system.suggester(["yes", "no"], ["yes", "no"]) %>
-dwell_time: <% await tp.system.prompt("Dwell time (e.g., 1–2 weeks)") %>
+dwell_time: <% await tp.system.prompt("Dwell time (e.g., 1-2 weeks)") %>
 ---
 
 # <% tp.frontmatter.title %> — <% tp.frontmatter.side %> <% tp.frontmatter.indication %>

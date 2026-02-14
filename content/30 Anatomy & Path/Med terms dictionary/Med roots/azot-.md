@@ -35,8 +35,8 @@ The combining form **[[azot-]]** refers to nitrogen compounds, especially waste 
 | [[nephro-]] | kidney |
 
 ## Common Medical Terms
-- **[[Azotemia]]** – elevated nitrogen waste in blood  
-- **[[Azoturia]]** – excess nitrogen compounds in urine  
+- **[[Azotemia]]** - elevated nitrogen waste in blood  
+- **[[Azoturia]]** - excess nitrogen compounds in urine  
 
 ## Documentation Clues
 - “Elevated BUN”

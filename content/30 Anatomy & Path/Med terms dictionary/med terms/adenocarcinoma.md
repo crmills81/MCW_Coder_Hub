@@ -63,21 +63,21 @@ _____
 ## Coding Context (ICD‑O‑3 / ICD‑10‑CM Notes)
 
 **Morphology codes (ICD‑O‑3):**[2][1]
-- **8140/3** – Adenocarcinoma, NOS (most common; used when subtype unspecified).  
-- **8480/3** – Mucinous adenocarcinoma.  
-- **8260/3** – Signet‑ring cell carcinoma (subtype of adenocarcinoma).  
-- **8255/3** – Adenocarcinoma with mixed subtypes.  
+- **8140/3** - Adenocarcinoma, NOS (most common; used when subtype unspecified).  
+- **8480/3** - Mucinous adenocarcinoma.  
+- **8260/3** - Signet‑ring cell carcinoma (subtype of adenocarcinoma).  
+- **8255/3** - Adenocarcinoma with mixed subtypes.  
 - Behavior: **/3** = malignant.[2]
 
 **ICD‑10‑CM:** No standalone code; **site‑specific** (e.g.):  
-- **C34.x** – Malignant neoplasm of bronchus/lung (with adenocarcinoma histology).  
-- **C18.x** – Malignant neoplasm of colon.  
-- **[[C25.3]]** – Malignant neoplasm of pancreatic duct.  
-- **C50.x** – Malignant neoplasm of breast.[5][3]
+- **C34.x** - Malignant neoplasm of bronchus/lung (with adenocarcinoma histology).  
+- **C18.x** - Malignant neoplasm of colon.  
+- **[[C25.3]]** - Malignant neoplasm of pancreatic duct.  
+- **C50.x** - Malignant neoplasm of breast.[5][3]
 
 **Coding tips:**  
 - Pair **histology (8140/3)** with **primary site** code.  
-- For **metastatic adenocarcinoma**, use **C77–C80** series + primary site if known.  
+- For **metastatic adenocarcinoma**, use **C77-C80** series + primary site if known.  
 - **Carcinoma in situ** variants: **D05.x** (breast), **D01.x** (GI tract).[5]
 
 ***

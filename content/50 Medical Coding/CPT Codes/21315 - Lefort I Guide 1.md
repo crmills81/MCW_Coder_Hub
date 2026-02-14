@@ -11,7 +11,7 @@
 | Element | Details |
 |---------|---------|
 | **Code** | 21315 |
-| **Code Type** | Surgical Procedure – Maxillofacial Surgery |
+| **Code Type** | Surgical Procedure - Maxillofacial Surgery |
 | **Procedure Type** | LeFort I Osteotomy (maxillary surgery) |
 | **Global Period** | 090 days (major surgical procedure) |
 | **Work RVU (2025)** | 8.30 RVU |
@@ -23,7 +23,7 @@
 | **2025 Medicare Fee (Non-Facility)** | ~$455.24 (14.08 RVU × $32.3465 CF × GPCI) |
 | **2025 Medicare Fee (Facility)** | ~$405.91 (12.55 RVU × $32.3465 CF × GPCI) |
 | **Conversion Factor (2025)** | $32.3465 |
-| **Estimated Commercial Insurance** | $1,200–$2,000 |
+| **Estimated Commercial Insurance** | $1,200 - 2,000 |
 | **Global Period Includes** | Pre-operative visits, surgery, post-operative visits (90 days) |
 | **Common Place of Service** | Hospital inpatient (21), Hospital outpatient (22), ASC (24) |
 | **Specialty** | Oral & Maxillofacial Surgery, [[Otolaryngology]], Plastic Surgery |
@@ -67,14 +67,14 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 - Dentofacial deformity with significant functional or esthetic impairment
 - Correction after maxillary trauma or congenital malformation
 
-**Procedure Duration:** Typically 2–4 hours depending on complexity
+**Procedure Duration:** Typically 2-4 hours depending on complexity
 
 **Key Distinctions:**
 - **CPT [[21315]]** = LeFort I (horizontal osteotomy above tooth apices)
 - **CPT [[21316]]** = LeFort I with bone graft (same as 21315 but specifically notes graft; many insurers bundle these)
 - **CPT [[21320]]** = LeFort II (pyramid-shaped fracture, more complex)
 - **CPT [[21330]]** = LeFort III (complete midface-cranial base separation, most complex)
-- **CPT [[21346]]–[[21348]]** = Other maxillary osteotomies (sagittal split, vertical, etc.)
+- **CPT [[21346]]-[[21348]]** = Other maxillary osteotomies (sagittal split, vertical, etc.)
 
 **Important Note:** CPT 21315 includes bone graft if used (e.g., autologous bone, allograft, bone morphogenetic protein). Do NOT bill separately for graft material when using 21315.
 
@@ -114,8 +114,8 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 - **Total = ~$405.91 per procedure** (facility, GPCI 1.0)
 
 **Real-World Range (2025):**
-- **Non-Facility (Office-based OR):** **$420–$530** (depending on GPCI, location adjustments)
-- **Facility-Based (Hospital OR, ASC):** **$375–$475** (lower PE RVU, facility overhead covered)
+- **Non-Facility (Office-based OR):** **$420 - $530** (depending on GPCI, location adjustments)
+- **Facility-Based (Hospital OR, ASC):** **$375 - $475** (lower PE RVU, facility overhead covered)
 
 ---
 
@@ -135,7 +135,7 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 - **Separate payment** only for unrelated E/M during global period (use modifier -24)
 
 **Billing Implications:**
-- **Cannot bill separate office visit codes** within 90 days of surgery for related care (e.g., post-op check) – included in global fee
+- **Cannot bill separate office visit codes** within 90 days of surgery for related care (e.g., post-op check) - included in global fee
 - **CAN bill separate codes** for unrelated problems during global period with modifier -24 (unrelated E/M)
 - **CAN bill separate codes** for additional procedures performed same day with modifier -59 (distinct procedural service)
 - Global period does NOT include costs for hospitalization; hospital bills separately for facility/room charges
@@ -253,12 +253,12 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 
 **4. Assistant at Surgery**
 - Can bill assistant surgeon (modifier -80 or -81 or -82, depending on provider type)
-- Assistant typically paid 16–20% of primary surgeon fee
+- Assistant typically paid 16-20% of primary surgeon fee
 - Verify Medicare rules for specific assistant modifiers in your region
 
 **5. Bone Graft Inclusion**
 - Bone graft material and placement included in 21315 code
-- **DO NOT bill separately** for graft material (CPT [[20930]]–[[20938]]) when using 21315
+- **DO NOT bill separately** for graft material (CPT [[20930]]-[[20938]]) when using 21315
 - If graft harvested from separate site with significant additional work, some payers allow separate billing with -59 modifier (verify policy)
 
 **6. Local Coverage Determinations (LCDs)**
@@ -284,7 +284,7 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 
 ---
 
-### Local Coverage Determinations (LCDs) – MAC-Specific
+### Local Coverage Determinations (LCDs) - MAC-Specific
 
 **LCDs vary by Medicare Administrative Contractor (MAC) jurisdiction.**
 
@@ -353,7 +353,7 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 
 ### Medicare 2025 Fee Schedule
 
-**CPT 21315 – LeFort I Maxillary Osteotomy**
+**CPT 21315 - LeFort I Maxillary Osteotomy**
 
 | Category | Value |
 |----------|-------|
@@ -365,9 +365,9 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 | Total RVU (facility) | 12.55 |
 | **Conversion Factor (2025)** | **$32.3465** |
 | **National Average Fee (Non-Facility, GPCI 1.0)** | **$455.24** |
-| **Estimated Range (Non-Facility)** | **$420–$530** |
+| **Estimated Range (Non-Facility)** | **$420 - 530** |
 | **National Average Fee (Facility, GPCI 1.0)** | **$405.91** |
-| **Estimated Range (Facility)** | **$375–$475** |
+| **Estimated Range (Facility)** | **$375 - 475** |
 
 ---
 
@@ -388,20 +388,20 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 ### Commercial Insurance & Medicaid Reimbursement (2025)
 
 **Commercial Insurance:**
-- Typically pays 2–4× Medicare rates
-- **Estimated 21315 payment: $1,200–$2,000** (varies widely by payer)
+- Typically pays 2-4× Medicare rates
+- **Estimated 21315 payment: $1,200 - $2,000** (varies widely by payer)
 - Often requires pre-authorization
 - Some payers may require evidence of orthodontic treatment failure
 
 **Medicaid:**
 - Varies significantly by state
-- **Estimated 21315 payment: $400–$900** (state-dependent)
+- **Estimated 21315 payment: $400 - $900** (state-dependent)
 - Many states cover orthognathic surgery for functional impairment
 - Some states don't cover (considered esthetic in their policies)
 - Prior authorization typically required
 
 **Self-Pay/Cash Price:**
-- Typically $3,000–$8,000 depending on provider, location, complexity
+- Typically $3,000 - $8,000 depending on provider, location, complexity
 - Often offered with financing plans
 
 ---
@@ -470,7 +470,7 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 
 ### Scenario 3: LeFort I During Global Period (Unrelated E/M)
 
-**Scenario:** Patient is in post-op period from LeFort I (surgery 2/1/2026, global period 2/1–5/1/2026). On 2/15/2026, patient develops upper respiratory infection and returns for evaluation and treatment.  
+**Scenario:** Patient is in post-op period from LeFort I (surgery 2/1/2026, global period 2/1-5/1/2026). On 2/15/2026, patient develops upper respiratory infection and returns for evaluation and treatment.  
 **E/M Assessment:** Fever, cough, nasal congestion; not related to LeFort I surgery  
 **Diagnosis:** Acute upper respiratory infection  
 **Coding:**
@@ -498,17 +498,17 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 
 **✓ SHOULD INCLUDE:**
 
-1. **Indication for Surgery** – Malocclusion type, functional impairment (eating, speaking, breathing, sleep)
-2. **Failed Conservative Treatment** – Orthodontics attempted and duration; reasons inadequate
+1. **Indication for Surgery** - Malocclusion type, functional impairment (eating, speaking, breathing, sleep)
+2. **Failed Conservative Treatment** - Orthodontics attempted and duration; reasons inadequate
 3. **Severity Measurements:**
    - Overjet (horizontal overlap of front teeth)
    - Overbite (vertical overlap)
    - Open bite distance (if anterior open bite)
    - ANB angle from cephalometrics
-4. **Imaging Results** – Cephalometric analysis, CT scan findings, panoramic radiographs
-5. **Pre-Operative Photos** – Frontal, profile, intraoral views (optional but helpful)
-6. **Physical Examination** – Occlusal assessment, facial symmetry, nasal patency
-7. **Surgical Technique:**
+1. **Imaging Results** - Cephalometric analysis, CT scan findings, panoramic radiographs
+2. **Pre-Operative Photos** - Frontal, profile, intraoral views (optional but helpful)
+3. **Physical Examination** - Occlusal assessment, facial symmetry, nasal patency
+4. **Surgical Technique:**
    - Intraoral approach documented
    - Extent of osteotomy (horizontal cuts, pterygoid separation)
    - Mobilization of maxilla confirmed
@@ -516,21 +516,21 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
    - Direction of movement (forward, backward, up, down)
    - Amount of movement in millimeters
    - Final occlusal relationship achieved
-9. **Fixation Method** – Type (plates, screws), number, location bilaterally
-10. **Bone Graft (if used):**
+1. **Fixation Method** - Type (plates, screws), number, location bilaterally
+2. **Bone Graft (if used):**
     - Type (autologous, allograft, other)
     - Source (if autologous)
     - Location placed in maxilla
     - Amount used
-11. **Intraoperative Complications** – Bleeding control, mucosal tears, nerve visualization
-12. **Estimated Blood Loss** – Important for post-op management
-13. **Operative Time** – Total time in OR
-14. **Post-Operative Instructions:**
+3. **Intraoperative Complications** - Bleeding control, mucosal tears, nerve visualization
+4. **Estimated Blood Loss** - Important for post-op management
+5. **Operative Time** - Total time in OR
+6. **Post-Operative Instructions:**
     - Dietary modifications
     - Activity restrictions
     - Medication list
     - When to call with concerns
-15. **Follow-Up Schedule** – Specific dates for post-op visits
+7. **Follow-Up Schedule** - Specific dates for post-op visits
 
 **✗ SHOULD AVOID:**
 - Vague descriptions ("osteotomy performed" without specifics)
@@ -544,7 +544,7 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 
 ---
 
-**OPERATIVE REPORT – LeFort I Maxillary Osteotomy (21315)**
+**OPERATIVE REPORT - LeFort I Maxillary Osteotomy (21315)**
 
 **PATIENT:** [Name], Age [X]  
 **DATE OF PROCEDURE:** [Date]  
@@ -598,22 +598,22 @@ Patient positioned supine, prepped and draped in routine sterile fashion. Genera
 
 **Before billing 21315, verify:**
 
-- [ ] **Medical necessity documented** – Functional impairment (eating, speaking, breathing, sleep apnea), not purely esthetic
-- [ ] **Severe malocclusion documented** – Cephalometric measurements, radiographic findings
-- [ ] **Failed conservative treatment documented** – Orthodontics attempted for [X] months without adequate result
-- [ ] **Imaging present** – Cephalometric radiographs, panoramic films, CT scan if obtained
-- [ ] **Surgical technique clearly described** – Type of osteotomy (LeFort I), extent of cuts, mobilization confirmed
-- [ ] **Positioning documented** – Direction and amount of maxillary movement (mm forward/back/up/down)
-- [ ] **Fixation documented** – Type, location, bilaterally confirmed
-- [ ] **Bone graft documented (if used)** – Type, source, location, amount; do NOT bill separately for graft
-- [ ] **Intraoperative complications documented** – Or note "none"
-- [ ] **Operative time documented** – Total time in OR
-- [ ] **Estimated blood loss documented** – Important for perioperative planning
-- [ ] **Post-operative plan documented** – Specific instructions, follow-up schedule
-- [ ] **Post-operative notes complete (within global period)** – Wound status, occlusion, complications, pain control
-- [ ] **No separate billing during global period** – Only 21315 billable for related care during 90 days (except unrelated with -24)
-- [ ] **Proper modifiers used** – -24 if unrelated E/M during global, -59 if distinct procedure same day, -50/-LT/-RT if bilateral
-- [ ] **Global period tracked** – Ensure office doesn't bill post-op visits as separate E/M during 90-day period
+- [ ] **Medical necessity documented** - Functional impairment (eating, speaking, breathing, sleep apnea), not purely esthetic
+- [ ] **Severe malocclusion documented** - Cephalometric measurements, radiographic findings
+- [ ] **Failed conservative treatment documented** - Orthodontics attempted for [X] months without adequate result
+- [ ] **Imaging present** - Cephalometric radiographs, panoramic films, CT scan if obtained
+- [ ] **Surgical technique clearly described** - Type of osteotomy (LeFort I), extent of cuts, mobilization confirmed
+- [ ] **Positioning documented** - Direction and amount of maxillary movement (mm forward/back/up/down)
+- [ ] **Fixation documented** - Type, location, bilaterally confirmed
+- [ ] **Bone graft documented (if used)** - Type, source, location, amount; do NOT bill separately for graft
+- [ ] **Intraoperative complications documented** - Or note "none"
+- [ ] **Operative time documented** - Total time in OR
+- [ ] **Estimated blood loss documented** - Important for perioperative planning
+- [ ] **Post-operative plan documented** - Specific instructions, follow-up schedule
+- [ ] **Post-operative notes complete (within global period)** - Wound status, occlusion, complications, pain control
+- [ ] **No separate billing during global period** - Only 21315 billable for related care during 90 days (except unrelated with -24)
+- [ ] **Proper modifiers used** - -24 if unrelated E/M during global, -59 if distinct procedure same day, -50/-LT/-RT if bilateral
+- [ ] **Global period tracked** - Ensure office doesn't bill post-op visits as separate E/M during 90-day period
 
 ---
 
@@ -627,7 +627,7 @@ Patient positioned supine, prepped and draped in routine sterile fashion. Genera
 - ❌ Surgical technique vague or incomplete (which osteotomy cuts, extent of mobilization?)
 - ❌ Repositioning data missing (amount and direction of movement not documented)
 - ❌ Fixation details incomplete (type, location, bilaterally?)
-- ❌ Bone graft billed separately (20930–20938) when 21315 used (graft included in 21315)
+- ❌ Bone graft billed separately (20930-20938) when 21315 used (graft included in 21315)
 - ❌ Post-operative visits billed as separate E/M during global period (should be included unless unrelated with -24 modifier)
 - ❌ Global period exceeded (surgery on X date, billing post-op visit on date outside 90-day window?)
 - ❌ Bilateral LeFort procedures billed without bilateral modifier or appropriate side-specific modifiers
@@ -666,8 +666,8 @@ Patient positioned supine, prepped and draped in routine sterile fashion. Genera
 
 **Assistant at Surgery ([[Modifier -80]], [[-81]], [[-82]]):**
 - Assistant can be billed separately using appropriate modifier
-- Typical payment: 16–20% of primary surgeon fee
-- Example: If 21315 pays $455, assistant at surgery (modifier [[-80]]) pays ~$73–$91
+- Typical payment: 16-20% of primary surgeon fee
+- Example: If 21315 pays $455, assistant at surgery (modifier [[-80]]) pays ~$73 - $91
 
 **Co-Surgery ([[Modifier -62]]):**
 - Two surgeons working simultaneously on same patient
@@ -680,24 +680,24 @@ Patient positioned supine, prepped and draped in routine sterile fashion. Genera
 
 ### Appropriate 21315 Use Cases ✓
 
-1. **Severe anterior open bite** – Cephalometric evidence of vertical maxillary excess, orthodontically unresponsive
-2. **Class III malocclusion** – [[Maxillary hypoplasia]], functional eating/speaking impairment
-3. **Severe overbite** – Excessive horizontal overlap causing esthetic/functional impairment
-4. **Sleep apnea** – Maxillary hypoplasia contributing to airway obstruction; surgical advancement for airway expansion
-5. **Cleft palate sequelae** – Maxillary retrusion after cleft repair; orthodontics insufficient for correction
-6. **Maxillary asymmetry** – Functional and esthetic impairment; conservative treatment failed
-7. **Dentofacial trauma sequelae** – Maxillary malposition after healing; surgical correction for function/esthetics
+1. **Severe anterior open bite** - Cephalometric evidence of vertical maxillary excess, orthodontically unresponsive
+2. **Class III malocclusion** - [[Maxillary hypoplasia]], functional eating/speaking impairment
+3. **Severe overbite** - Excessive horizontal overlap causing esthetic/functional impairment
+4. **Sleep apnea** - Maxillary hypoplasia contributing to airway obstruction; surgical advancement for airway expansion
+5. **Cleft palate sequelae** - Maxillary retrusion after cleft repair; orthodontics insufficient for correction
+6. **Maxillary asymmetry** - Functional and esthetic impairment; conservative treatment failed
+7. **Dentofacial trauma sequelae** - Maxillary malposition after healing; surgical correction for function/esthetics
 
 ---
 
 ### Inappropriate 21315 Use (Risks) ✗
 
-1. ❌ **Purely esthetic surgery** – No documented functional impairment, only esthetic desires
-2. ❌ **Without failed orthodontic treatment** – Surgery billed without evidence of adequate orthodontic trial
-3. ❌ **Missing cephalometric analysis** – Surgery billed without imaging documentation of severity
-4. ❌ **Bone graft billed separately** – Using both 21315 + bone graft codes ([[20930]]–[[20938]]) when graft included in 21315
-5. ❌ **Post-operative E/M billed during global period** – Separate E/M coded for related post-op care during 90-day global (should be included)
-6. ❌ **Upcoded from simpler osteotomy** – Using 21315 when simpler procedure ([[21121]] genioplasty) would be appropriate
+1. ❌ **Purely esthetic surgery** - No documented functional impairment, only esthetic desires
+2. ❌ **Without failed orthodontic treatment** - Surgery billed without evidence of adequate orthodontic trial
+3. ❌ **Missing cephalometric analysis** - Surgery billed without imaging documentation of severity
+4. ❌ **Bone graft billed separately** - Using both 21315 + bone graft codes ([[20930]]-[[20938]]) when graft included in 21315
+5. ❌ **Post-operative E/M billed during global period** - Separate E/M coded for related post-op care during 90-day global (should be included)
+6. ❌ **Upcoded from simpler osteotomy** - Using 21315 when simpler procedure ([[21121]] genioplasty) would be appropriate
 
 ---
 
@@ -710,7 +710,7 @@ A: No. Medicare requires documentation of functional impairment (eating, speakin
 A: Typically 21315 (standard code). 21316 is older coding convention explicitly noting graft. Many insurers have bundled these codes. Check your payer's policy; most modern practices use 21315 routinely regardless of graft.
 
 **Q: Can I bill the bone graft separately if I harvest from iliac crest?**  
-A: No. Bone graft is included in 21315 RVU. Do NOT bill separately (20930–20938) when using 21315. Some payers allow additional payment for graft HARVESTING from anatomically distant site with -59 modifier, but graft placement is included.
+A: No. Bone graft is included in 21315 RVU. Do NOT bill separately (20930-20938) when using 21315. Some payers allow additional payment for graft HARVESTING from anatomically distant site with -59 modifier, but graft placement is included.
 
 **Q: What's the difference between 21315 and 21316?**  
 A: Minimal. 21315 is the standard code; 21316 explicitly notes bone graft in descriptor. RVU and payment are identical. 21315 used for most cases today.
@@ -736,27 +736,27 @@ A: Still use 21315 (unilateral code). Modifier -LT (left) or -RT (right) can den
 
 ### Tips to Maximize Compliance & Revenue
 
-1. **Document medical necessity thoroughly** – Functional impairment, orthodontic failure, cephalometric measurements all critical
-2. **Obtain pre-authorization** – Many payers require pre-auth for orthognathic surgery; reduces claim denials
-3. **Use proper imaging** – Cephalometric analysis and CT scans document severity; required by most payers
-4. **Do NOT bill graft separately** – Common error: billing 20930 + 21315 results in denial; graft included
-5. **Manage global period correctly** – Track 90-day period; don't code separate E/M during period for related care
-6. **Use -24 modifier appropriately** – Separate unrelated problems during global period with -24 on E/M
-7. **Verify bilateral modifiers** – If bilateral LeFort, confirm payer's preference: -50 vs. -LT/-RT vs. two separate codes
-8. **Include operative report details** – Specific measurements, repositioning amounts, fixation details all help with audits
-9. **Coordinate with orthodontist** – Ensure clear handoff of post-operative care; orthodontist handles final alignment
-10. **Keep comprehensive documentation** – Pre-op photos, cephalometrics, CT scans, operative report, post-op notes all important for defense
+1. **Document medical necessity thoroughly** - Functional impairment, orthodontic failure, cephalometric measurements all critical
+2. **Obtain pre-authorization** - Many payers require pre-auth for orthognathic surgery; reduces claim denials
+3. **Use proper imaging** - Cephalometric analysis and CT scans document severity; required by most payers
+4. **Do NOT bill graft separately** - Common error: billing 20930 + 21315 results in denial; graft included
+5. **Manage global period correctly** - Track 90-day period; don't code separate E/M during period for related care
+6. **Use -24 modifier appropriately** - Separate unrelated problems during global period with -24 on E/M
+7. **Verify bilateral modifiers** - If bilateral LeFort, confirm payer's preference: -50 vs. -LT/-RT vs. two separate codes
+8. **Include operative report details** - Specific measurements, repositioning amounts, fixation details all help with audits
+9. **Coordinate with orthodontist** - Ensure clear handoff of post-operative care; orthodontist handles final alignment
+10. **Keep comprehensive documentation** - Pre-op photos, cephalometrics, CT scans, operative report, post-op notes all important for defense
 
 ---
 
 ## BILLING & CODING RESOURCES
 
 **Recommended Resources:**
-- **AMA CPT Manual 2025** – Official CPT code definitions
+- **AMA CPT Manual 2025** - Official CPT code definitions
 - **CMS Fee Schedule Database:** https://www.cms.gov/medicare/physician-fee-schedule
 - **MAC LCDs:** https://www.cms.gov/cclc/lcd (search for "orthognathic" or "maxillary osteotomy")
 - **American Association of Oral and Maxillofacial Surgeons (AAOMS):** https://www.aaoms.org (coding resources)
-- **Your payer's provider manual** – Payer-specific coverage requirements and modifiers
+- **Your payer's provider manual** - Payer-specific coverage requirements and modifiers
 
 ---
 
@@ -770,7 +770,7 @@ A: Still use 21315 (unilateral code). Modifier -LT (left) or -RT (right) can den
 | **Total RVU (2025, Non-Facility)** | 14.08 |
 | **Medicare Payment (2025, Non-Facility)** | ~$455 |
 | **Medicare Payment (2025, Facility)** | ~$406 |
-| **Typical Time** | 2–4 hours |
+| **Typical Time** | 2-4 hours |
 | **Provider Required** | OMFS, plastic surgeon, ENT (specialty training/board certification) |
 | **Common Modifiers** | -24 (unrelated post-op E/M), -59 (distinct procedure), -50/-LT/-RT (bilateral/side-specific) |
 | **Typical Use** | Anterior open bite, Class III malocclusion, maxillary hypoplasia, sleep apnea |

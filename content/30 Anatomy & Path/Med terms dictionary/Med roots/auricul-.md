@@ -33,9 +33,9 @@ The combining forms **[[aur-]]** and **[[auricul-]]** refer to the ear or ear-sh
 | [[audi-]] | hearing |
 
 ## Common Medical Terms
-- **Auricular hematoma** – blood collection in ear cartilage  
-- **Auricle** – external ear  
-- **Postauricular** – behind the ear  
+- **Auricular hematoma** - blood collection in ear cartilage  
+- **Auricle** - external ear  
+- **Postauricular** - behind the ear  
 
 ## Documentation Clues
 - “External ear swelling”

@@ -58,9 +58,9 @@ The combining form **[[andr-]]** refers to male sex, male hormones, or male char
 | [[gonad-]] | reproductive glands |
 
 ## Common Medical Terms
-- **Androgen** – male hormone  
-- **Andropause** – male hormonal decline  
-- **Andrology** – study of male reproductive health  
+- **Androgen** - male hormone  
+- **Andropause** - male hormonal decline  
+- **Andrology** - study of male reproductive health  
 
 ## Documentation Clues
 - “Low testosterone”

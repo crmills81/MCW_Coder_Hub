@@ -515,7 +515,7 @@ A vital skill for a CIC, a query is a communication tool used to clarify vague, 
 * Several diagnosis and procedure codes have been invalidated or revised. For example, "Fusion of Coccygeal Joint with Internal Fixation Device, Open Approach" is an invalid procedure code for FY2026.  
 * "Coronal craniosynostosis" now has specific unilateral/bilateral/unspecified codes.  
 * HCPCS Level II Codes: CMS continues to establish new codes for drugs and biologicals (e.g., Q5157 for denosumab-bmwo biosimilar, Q4395 for Acelagraft).  
-* Modifier 25, 24, 57: These are PTP-associated modifiers for Medicaid claims that bypass PTP edits with a CCMI of 1, when appended to an E/M code (99202–99499, 92002–92014) based on clinical circumstances and NCCI guidelines.  
+* Modifier 25, 24, 57: These are PTP-associated modifiers for Medicaid claims that bypass PTP edits with a CCMI of 1, when appended to an E/M code (99202-99499, 92002-92014) based on clinical circumstances and NCCI guidelines.  
 * E/M Changes: 2023 saw significant expansion and changes for prolonged services and E/M guidelines, with more changes suspected in the future. Specific E/M code ranges are slated for deletion and replacement.
 
 ICD-10-PCS (International Classification of Diseases, 10th Revision, Procedure Coding System) is a comprehensive, standardized medical coding system primarily used in the United States for classifying procedures performed in hospital inpatient healthcare settings. It was developed by the Centers for Medicare and Medicaid Services (CMS) and 3M Health Information Systems to replace Volume 3 of ICD-9-CM, which was deemed outdated and unable to accommodate more specific procedural detail. This system is distinct from ICD-10-CM, which is used for diagnosis coding.

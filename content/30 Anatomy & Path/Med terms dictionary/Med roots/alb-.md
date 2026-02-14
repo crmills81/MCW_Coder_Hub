@@ -34,9 +34,9 @@ The combining forms **[[alb-]]** and **[[albin-]]** refer to whiteness, pale col
 | [[melan-]] | black/dark pigment |
 
 ## Common Medical Terms
-- **[[Albinism]]** – congenital absence of pigment  
-- **[[Albino]]** – person with albinism  
-- **[[Albumin]]** – “white” protein found in plasma  
+- **[[Albinism]]** - congenital absence of pigment  
+- **[[Albino]]** - person with albinism  
+- **[[Albumin]]** - “white” protein found in plasma  
 
 ## Documentation Clues
 - “Pale skin”

@@ -26,13 +26,13 @@ ICD-10 Code:
 >Eyelid [[ptosis]] (also called [[blepharoptosis]]) is **when the upper lid droops, sags, or falls and may reduce or block vision depending on severity**.  It can be congenital (**present at birth**) or acquired later, and may relate to problems with the muscles/ligaments that raise the eyelid or with the nerves controlling them.​ Ptosis (**[[blepharoptosis]]**) refers to a drooping of the upper eyelid margin. It is clinically distinct from "[[dermatochalasis]]" (**excess skin**). Ptosis is caused by weakness or separation of the levator muscle or a nerve abnormality, whereas **dermatochalasis** is a skin-only issue.
 >
 >#### ICD-10-CM Code(s):
->**H02.40- – Unspecified ptosis of eyelid**
+>**H02.40- - Unspecified ptosis of eyelid**
 >- **Explanation:** This is the most common code for acquired ptosis. It requires a 6th digit for laterality: **[[H02.401]]** (**Right**), **[[H02.402]]** (**Left**), **[[H02.403]]** (**Bilateral**).
 >	- **Use Case:** Standard age-related (**involutional**) drooping of the eyelid muscle.
->**[[Q10.0]] – Congenital ptosis**
+>**[[Q10.0]] - Congenital ptosis**
 >- **Explanation:** Used when the ptosis is present from birth due to improper development of the levator muscle.
     >- **Use Case:** Pediatric patients or adults with a documented lifelong history of the condition.
->- **H02.41- – Mechanical ptosis**
+>- **H02.41- - Mechanical ptosis**
 >- **Explanation:** Used when the eyelid is **drooping** because of a physical weight, such as a large cyst or tumor, pushing the lid down. Requires a 6th digit for laterality: **[[H02.411]]** (**Right**), **[[H02.412]]** (**Left**), **[[H02.413]]** (**Bilateral**).
 >
 >#### Related terms

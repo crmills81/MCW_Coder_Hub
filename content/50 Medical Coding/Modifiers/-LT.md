@@ -1,5 +1,6 @@
 ---
-title: "Modifier -LT (Left side) — Work Guide"
+title: "-LT"
+description: "Modifier -LT (Left side)"
 last_updated: "2026-02"
 type: "coding-guide"
 specialty_tags: ["ophthalmology", "ENT", "modifiers", "laterality", "Medicare"]
@@ -8,7 +9,7 @@ specialty_tags: ["ophthalmology", "ENT", "modifiers", "laterality", "Medicare"]
 # Modifier -LT: Left side (laterality modifier)
 
 ## Quick reference
-- **Definition:** HCPCS modifier **[[-LT**]] means **left side of the body** and is used to identify procedures/items performed/provided on the left side. 
+- **Definition:** HCPCS modifier **[[-LT]]**means **left side of the body** and is used to identify procedures/items performed/provided on the left side. 
 - **What it impacts:** -LT generally **does not change the allowed amount** by itself, but missing a required laterality modifier can trigger **denials or development**. 
 - **Paired modifier:** **[[-RT]]** identifies the right side and is used in the same way when laterality is required. 
 

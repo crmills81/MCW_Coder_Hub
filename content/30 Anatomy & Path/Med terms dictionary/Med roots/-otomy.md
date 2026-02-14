@@ -49,18 +49,18 @@ In coding, recognizing **-otomy** helps confirm that the procedure performed was
 ## **Common Medical Terms Using [[-otomy]]**
 
 ### **General Surgery**
-- **[[Laparotomy]]** – Incision into the abdominal cavity  
-- **[[Thoracotomy]]** – Incision into the chest cavity  
+- **[[Laparotomy]]** - Incision into the abdominal cavity  
+- **[[Thoracotomy]]** - Incision into the chest cavity  
 
 ### **ENT**
-- **[[Tracheotomy]]** – Incision into the trachea  
-- **[[Phlebotomy]]** – Incision into a vein (commonly for blood withdrawal)  
+- **[[Tracheotomy]]** - Incision into the trachea  
+- **[[Phlebotomy]]** - Incision into a vein (commonly for blood withdrawal)  
 
 ### **Neurosurgery**
-- **[[Craniotomy]]** – Opening the skull  
+- **[[Craniotomy]]** - Opening the skull  
 
 ### **Obstetrics / Gynecology**
-- **[[Episiotomy]]** – Incision of the perineum during childbirth  
+- **[[Episiotomy]]** - Incision of the perineum during childbirth  
 
 ---
 

@@ -81,10 +81,10 @@ _____
 
 **CPT Codes (Procedures):**
 
-- **[[31575]]** – Laryngoscopy, flexible fiberoptic; diagnostic.
-- **[[31579]]** – Laryngoscopy w/ stroboscopy.
-- **[[64617]]** – Botulinum toxin injection into laryngeal muscles (spasmodic dysphonia).
-- **[[92520]]** – Laryngeal function studies.
+- **[[31575]]** - Laryngoscopy, flexible fiberoptic; diagnostic.
+- **[[31579]]** - Laryngoscopy w/ stroboscopy.
+- **[[64617]]** - Botulinum toxin injection into laryngeal muscles (spasmodic dysphonia).
+- **[[92520]]** - Laryngeal function studies.
 
 ---
 
@@ -123,17 +123,17 @@ _____
 |**MTD/functional**|Voice therapy with SLP (speech-language pathologist); vocal hygiene.|
 |**Laryngitis**|Voice rest, hydration, treat underlying cause (antivirals, antibiotics if bacterial).|
 |**GERD**|PPIs, H2 blockers, lifestyle modifications.|
-|**Spasmodic dysphonia**|Botulinum toxin injections q3–4 months ([[64617]] CPT).|
+|**Spasmodic dysphonia**|Botulinum toxin injections q3-4 months ([[64617]] CPT).|
 |**Nodules/polyps**|Voice therapy; surgery if refractory ([[microlaryngoscopy]]).|
 |**Vocal cord paralysis**|Voice therapy, medialization procedures, injection [[laryngoplasty]].|
 
-**Prognosis:** Excellent for acute laryngitis (2 weeks); chronic conditions require ongoing management; 70–80% improve with voice therapy for MTD.[[wexnermedical.osu](https://wexnermedical.osu.edu/ear-nose-throat/voice-and-swallowing-disorders/voice-disorders)]​
+**Prognosis:** Excellent for acute laryngitis (2 weeks); chronic conditions require ongoing management; 70-80% improve with voice therapy for MTD.[[wexnermedical.osu](https://wexnermedical.osu.edu/ear-nose-throat/voice-and-swallowing-disorders/voice-disorders)]​
 
 ---
 
 ## Red Flags (Urgent Evaluation)
 
-- Dysphonia >2–3 weeks without improvement.
+- Dysphonia >2-3 weeks without improvement.
 - History of smoking/alcohol (malignancy risk).
 - Hemoptysis, dysphagia, odynophagia.
 - Weight loss, neck mass.

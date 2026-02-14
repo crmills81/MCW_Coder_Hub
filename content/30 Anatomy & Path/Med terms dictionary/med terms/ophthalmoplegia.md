@@ -22,12 +22,12 @@ definition:
 >
 _____
 >[!info]+ ETYMOLOGY of [[ophthalmoplegia]]
->#greek - **Root:** _[[ophthalmo-]]_ – from Greek _ophthalmos_ = “**eye**.”[easyhinglish+1](https://easyhinglish.com/word-root-ophthalmo/)
->- **Suffix:** _[[-plegia]]_ – from Greek _plēgē_ / _[[-plegia]]_ = “**stroke, paralysis**.”[popnwords+1](https://popnwords.com/browse/ophthalmoplegia/dictionary)
+>#greek - **Root:** _[[ophthalmo-]]_ - from Greek _ophthalmos_ = “**eye**.”[easyhinglish+1](https://easyhinglish.com/word-root-ophthalmo/)
+>- **Suffix:** _[[-plegia]]_ - from Greek _plēgē_ / _[[-plegia]]_ = “**stroke, paralysis**.”[popnwords+1](https://popnwords.com/browse/ophthalmoplegia/dictionary)
 >- **Literal meaning:** “**Paralysis** of the eye.”
 >- Related roots:
->- _[[ophthalmo-]]_ (eye) – [[ophthalmology]], [[ophthalmic]], ophthalmoscope.[wordpandit+1](https://wordpandit.com/word-root-ophthalmo/)
->- _[[-paresis]]_ (weakness, [[partial paralysis]]) – in **[[ophthalmoparesis]]**, a milder form of [[ophthalmoplegia]].
+>- _[[ophthalmo-]]_ (eye) - [[ophthalmology]], [[ophthalmic]], ophthalmoscope.[wordpandit+1](https://wordpandit.com/word-root-ophthalmo/)
+>- _[[-paresis]]_ (weakness, [[partial paralysis]]) - in **[[ophthalmoparesis]]**, a milder form of [[ophthalmoplegia]].
 
 _____
 >[!tip]+ DERIVATIONS of [[ophthalmoplegia]]
@@ -49,10 +49,10 @@ _____
 
 Commonly used subtypes/qualifiers:
 
-- **External ophthalmoplegia** – paralysis of the extraocular muscles moving the [[globe]]; pupils may be spared.[wikipedia.nucleos](https://wikipedia.nucleos.com/viewer/wiktionary_en_all/A/ophthalmoplegia)​
-- **Internal ophthalmoplegia** – paralysis of intrinsic eye muscles (pupil, accommodation), e.g., sphincter pupillae, ciliary muscle.[wikipedia.nucleos](https://wikipedia.nucleos.com/viewer/wiktionary_en_all/A/ophthalmoplegia)​
-- **Complete ophthalmoplegia** – all extraocular movements are paralyzed; the eye is essentially immobile in the orbit.[yourdictionary+1](https://www.yourdictionary.com/ophthalmoplegia)
-- **Partial ophthalmoplegia / ophthalmoparesis** – some, but not all, movements or muscles are impaired.[wikipedia.nucleos](https://wikipedia.nucleos.com/viewer/wiktionary_en_all/A/ophthalmoplegia)​
+- **External ophthalmoplegia** - paralysis of the extraocular muscles moving the [[globe]]; pupils may be spared.[wikipedia.nucleos](https://wikipedia.nucleos.com/viewer/wiktionary_en_all/A/ophthalmoplegia)​
+- **Internal ophthalmoplegia** - paralysis of intrinsic eye muscles (pupil, accommodation), e.g., sphincter pupillae, ciliary muscle.[wikipedia.nucleos](https://wikipedia.nucleos.com/viewer/wiktionary_en_all/A/ophthalmoplegia)​
+- **Complete ophthalmoplegia** - all extraocular movements are paralyzed; the eye is essentially immobile in the orbit.[yourdictionary+1](https://www.yourdictionary.com/ophthalmoplegia)
+- **Partial ophthalmoplegia / ophthalmoparesis** - some, but not all, movements or muscles are impaired.[wikipedia.nucleos](https://wikipedia.nucleos.com/viewer/wiktionary_en_all/A/ophthalmoplegia)​
 
 Named clinical entities:
 - **Internuclear ophthalmoplegia (INO):** disorder of conjugate lateral gaze from a lesion of the medial longitudinal fasciculus; impaired adduction of the affected eye with abducting [[nystagmus]] of the contralateral eye.[wikipedia](https://en.wikipedia.org/wiki/Internuclear_ophthalmoplegia)​
@@ -69,8 +69,8 @@ Related descriptive terms:
 
 There is no single universal diagnostic code solely labeled “[[ophthalmoplegia]]”; coding usually depends on **cause and type**. Examples include:
 
-- **Internuclear ophthalmoplegia** – indexed under neurologic disorders of conjugate gaze (e.g., brainstem lesions) rather than a generic “ophthalmoplegia” code.[wikipedia](https://en.wikipedia.org/wiki/Internuclear_ophthalmoplegia)​
-- **Progressive external ophthalmoplegia** – often coded as a mitochondrial or [[muscular dystrophy]] variant, plus eye involvement, depending on the classification system in use.[wordpandit](https://wordpandit.com/word-root-ophthalmo/)​
+- **Internuclear ophthalmoplegia** - indexed under neurologic disorders of conjugate gaze (e.g., brainstem lesions) rather than a generic “ophthalmoplegia” code.[wikipedia](https://en.wikipedia.org/wiki/Internuclear_ophthalmoplegia)​
+- **Progressive external ophthalmoplegia** - often coded as a mitochondrial or [[muscular dystrophy]] variant, plus eye involvement, depending on the classification system in use.[wordpandit](https://wordpandit.com/word-root-ophthalmo/)​
 
 Because of this, in practice you’d:
 
@@ -95,12 +95,12 @@ Representative etiologic categories:
 
 ## Closely Related Terms (Quick List)
 
-- **[[Ophthalmology]]** – medical specialty dealing with eye diseases.[wordpandit](https://wordpandit.com/word-root-ophthalmo/)​
-- **Ophthalmic** – pertaining to the eye.[easyhinglish+1](https://easyhinglish.com/word-root-ophthalmo/)
-- **[[Ophthalmoscope]]** – instrument to examine the interior of the eye.[easyhinglish+1](https://easyhinglish.com/word-root-ophthalmo/)
-- **Ocular / oculomotor** – relating to the eye/eye movement.
-- **[[diplopia]]** – double vision, a common symptom of ophthalmoplegia.
-- **[[Strabismus]]** – misalignment of the eyes, which can result from extraocular muscle palsy.[eophtha](https://www.eophtha.com/posts/word-root-origin-of-ophthalmic-terms)​
+- **[[Ophthalmology]]** - medical specialty dealing with eye diseases.[wordpandit](https://wordpandit.com/word-root-ophthalmo/)​
+- **Ophthalmic** - pertaining to the eye.[easyhinglish+1](https://easyhinglish.com/word-root-ophthalmo/)
+- **[[Ophthalmoscope]]** - instrument to examine the interior of the eye.[easyhinglish+1](https://easyhinglish.com/word-root-ophthalmo/)
+- **Ocular / oculomotor** - relating to the eye/eye movement.
+- **[[diplopia]]** - double vision, a common symptom of ophthalmoplegia.
+- **[[Strabismus]]** - misalignment of the eyes, which can result from extraocular muscle palsy.[eophtha](https://www.eophtha.com/posts/word-root-origin-of-ophthalmic-terms)​
 
 ---
 

@@ -6,6 +6,7 @@ const rvu = await tp.system.prompt("Work RVU (approx)", "0.00");
 const assist = await tp.system.suggester(["Yes (Modifier 80 allowed)", "No (Assist not paid)", "Conditional"], ["Yes", "No", "Conditional"]);
 await tp.file.rename(`${code} - ${desc}`);
 %>
+
 ---
 tags: [reference/cpt, specialty/urology, specialty/ent, specialty/ophthalmology]
 code: <% code %>
@@ -13,6 +14,7 @@ global_days: <% global %>
 wrvu: <% rvu %>
 assistant_payable: <% assist %>
 ---
+
 # 🏥 <% code %> - <% desc %>
 
 ## ⚡ Quick Reference

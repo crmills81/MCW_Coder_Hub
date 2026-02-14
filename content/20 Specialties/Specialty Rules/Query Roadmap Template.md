@@ -1,4 +1,4 @@
-# 🧠 Query Roadmap – {{title}}
+# 🧠 Query Roadmap - {{title}}
 
 ## 🎯 Research Goal
 - What I want to understand:

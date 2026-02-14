@@ -58,20 +58,20 @@ _____
 
 ## Coding Context
 
-**No standalone CPT/ICD code** – modifier for **approach**:
+**No standalone CPT/ICD code** - modifier for **approach**:
 
 **CPT Modifiers:**  
 - **[[-53]]** (discontinued [[percutaneous]] procedure).  
 Embedded in codes:  
-- **[[37213]]** – [[percutaneous]] IVUS.  
-- **[[52301]]** – [[Cystourethroscopy]] w/percutaneous [[nephrostomy]].  
+- **[[37213]]** - [[percutaneous]] IVUS.  
+- **[[52301]]** - [[Cystourethroscopy]] w/percutaneous [[nephrostomy]].  
 
 **ICD-10-PCS Approach Value:**  
-- **Percutaneous (3)** – Via skin puncture (e.g., 0TJB3ZZ bladder inspection percutaneous).[6]
+- **Percutaneous (3)** - Via skin puncture (e.g., 0TJB3ZZ bladder inspection percutaneous).[6]
 
 **ICD-10-CM Complications:**  
-- **[[T80.218A]]** – Infection due to percutaneous [[vascular]] cath.  
-- **[[T81.43xA]]** – Infection post percutaneous drainage.[7]
+- **[[T80.218A]]** - Infection due to percutaneous [[vascular]] cath.  
+- **[[T81.43xA]]** - Infection post percutaneous drainage.[7]
 
 ## Related Terms
 

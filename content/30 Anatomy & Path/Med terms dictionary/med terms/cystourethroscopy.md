@@ -22,7 +22,7 @@ definition:
   - direct visualization of the urethra and bladder via a cystoscope
 ---
 >[!Note] DEFINITION of [[cystourethroscopy]]
->[[cystourethroscopy]] is **an endoscopic procedure using a [[cystoscopy|cystoscope]] to visualize the urethra and bladder lining for diagnosis or treatment**. **Cystourethroscopy** (also called [[cystoscopy]]) involves inserting a thin, lighted endoscope ([[cystoscopy|cystoscope]], 12–30 Fr) through the urethra into the bladder after local anesthesia (*lidocaine jelly*), **irrigating with saline to distend the bladder, and inspecting for abnormalities like tumors, stones, [[strictures]], [[trabeculation]], [[diverticula]], or prostate enlargement**; therapeutic tools can biopsy, resect (**TURBT**), fulgurate, or stent via the working channel.
+>[[cystourethroscopy]] is **an endoscopic procedure using a [[cystoscopy|cystoscope]] to visualize the urethra and bladder lining for diagnosis or treatment**. **Cystourethroscopy** (also called [[cystoscopy]]) involves inserting a thin, lighted endoscope ([[cystoscopy|cystoscope]], 12-30 Fr) through the urethra into the bladder after local anesthesia (*lidocaine jelly*), **irrigating with saline to distend the bladder, and inspecting for abnormalities like tumors, stones, [[strictures]], [[trabeculation]], [[diverticula]], or prostate enlargement**; therapeutic tools can biopsy, resect (**TURBT**), fulgurate, or stent via the working channel.
 _____
 >[!info]+ ETYMOLOGY of [[cystourethroscopy]]
 >#greek
@@ -62,8 +62,8 @@ _____
 | **[[52332]]** | w/ insertion indwelling [[ureteral stent]].          |
 
 **ICD-10-PCS (Inpatient):**  
-- **0TJB8ZZ** – Inspection of bladder, via natural or artificial opening endoscopic.  
-- **0TJD8ZZ** – Inspection of urethra, endoscopic.[12]
+- **0TJB8ZZ** - Inspection of bladder, via natural or artificial opening endoscopic.  
+- **0TJD8ZZ** - Inspection of urethra, endoscopic.[12]
 
 **Diagnoses justifying:** [[N39.0]] (UTI), [[R32]] (incontinence), N20.x (stones), [[D49.4]] (bladder [[neoplasm]]).[13]
 
@@ -78,8 +78,8 @@ _____
 1. **Prep:** Antibiotics if UTI risk; hold anticoagulants; local jelly or sedation/general anesthesia.
 2. **Insertion:** Urethra lubed/numbed; scope advanced (flexible office-based, rigid OR).
 3. **Bladder fill:** Saline irrigation expands wall for 360° view.
-4. **Duration:** 5–20 min office; longer if therapeutic.
-5. **Post:** [[Dysuria]]/[[hematuria]] 1–2 days; rare fever/infection.[5][2][1]
+4. **Duration:** 5-20 min office; longer if therapeutic.
+5. **Post:** [[Dysuria]]/[[hematuria]] 1-2 days; rare fever/infection.[5][2][1]
 
 ## Related Terms
 
@@ -90,7 +90,7 @@ _____
 - **Complications:** UTI (10%), bleeding, perforation (<1%), stricture.[1][4]
 
 **One-Sentence Summary**  
-**Cystourethroscopy** (CPT [[52000]]), combining *[[cysto-]]* (**bladder**) + *[[urethro-]]* ([[urethra]]) + *[[-scopy]]* (examine), endoscopically inspects/ treats via urethral scope for [[hematuria]] (R31.2x), tumors ([[D41.8]]), or stones ([[N20.0]]), typically office-based with 52000–5235x CPT coding.[2][3][4][1]
+**Cystourethroscopy** (CPT [[52000]]), combining *[[cysto-]]* (**bladder**) + *[[urethro-]]* ([[urethra]]) + *[[-scopy]]* (examine), endoscopically inspects/ treats via urethral scope for [[hematuria]] (R31.2x), tumors ([[D41.8]]), or stones ([[N20.0]]), typically office-based with 52000-5235x CPT coding.[2][3][4][1]
 
 Sources
 [1] Cystoscopy - Mayo Clinic https://www.mayoclinic.org/tests-procedures/cystoscopy/about/pac-20393694

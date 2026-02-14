@@ -70,7 +70,7 @@ _____
 | **[[O88.1]]**   | Amniotic embolism.                              |
 | **[[T82.0]]**   | Air embolism post [[vascular]] procedure.           |
 
-**ICD-10-PCS:** **03L00DZ** – [[Occlusion pulmonary artery]] intraluminal device.
+**ICD-10-PCS:** **03L00DZ** - [[Occlusion pulmonary artery]] intraluminal device.
 
 ## Related Terms
 
@@ -90,7 +90,7 @@ Embolus lodges → [[stasis]] → [[infarction]] (wedge infarct lung, pale MI he
 **Diagnostic:** CT-PA (PE gold standard), V/Q scan, echo (RV strain).  
 **Prevention:** LMWH, IVC filter (DVT), DOACs.[1]
 
-**Prognosis:** PE mortality 15–30% untreated; 2–8% treated.[1]
+**Prognosis:** PE mortality 15-30% untreated; 2-8% treated.[1]
 
 **One-Sentence Summary**  
 **Embolus** (Greek *émbolos* "**plug**," Virchow 1848), a mobile [[intravascular]] mass (thrombus > fat > air), lodges distally causing embolism ([[I26.9]] PE, [[I74.9]] arterial) via Virchow's triad, treatable by [[thrombolysis]]/[[anticoagulation]].[2][5][8][1]

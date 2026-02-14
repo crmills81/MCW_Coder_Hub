@@ -1,9 +1,9 @@
 ---
-title: 
+title: Case Note Template
 tags:
   - case-study
   - clinical-log
-date:
+date: 2026-02-13
 ---
 
 ## 🏥 Hospital Encounter Summary

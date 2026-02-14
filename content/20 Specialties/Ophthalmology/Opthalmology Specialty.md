@@ -21,10 +21,10 @@ created: 2026-01-21
 | **67028** | Procedure | Intravitreal injection of pharmacologic agent |
 
 ## Common ICD-10-CM Codes
-* **H25.13** – Age-related nuclear cataract, bilateral
-* **H35.31** – Nonexudative age-related macular degeneration (Dry AMD)
-* **H40.1134** – Primary open-angle glaucoma, bilateral, indeterminate stage
-* **H52.13** – Myopia, bilateral
+* **H25.13** - Age-related nuclear cataract, bilateral
+* **H35.31** - Nonexudative age-related macular degeneration (Dry AMD)
+* **H40.1134** - Primary open-angle glaucoma, bilateral, indeterminate stage
+* **H52.13** - Myopia, bilateral
 
 ## Key Modifiers
 * **-RT / -LT**: Right or Left Eye (Vital for laterality)

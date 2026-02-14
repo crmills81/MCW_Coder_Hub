@@ -23,7 +23,7 @@ definition:
   - percutaneous kidney puncture
 ---
 >[!Note] DEFINITION of [[nephrostomy]]
->[[nephrostomy]] is **the creation of a surgical opening ([[ostomy]]) into the kidney for drainage or access, typically percutaneous**. Nephrostomy ([[percutaneous]] nephrostomy tube, **PCNT**) involves ultrasound/fluoro‑guided flank puncture (18G needle) into **[[renal]] [[calyx]] → guidewire → serial [[dilation]] → 8–14 Fr pigtail/locking‑loop [[catheter]] for urine diversion, relieving [[hydronephrosis]] from stones, strictures, tumors, or infection**; allows antegrade access for [[pyelography]], stenting, or [[biopsy]]; temporary (days–weeks) or [[palliative]].
+>[[nephrostomy]] is **the creation of a surgical opening ([[ostomy]]) into the kidney for drainage or access, typically percutaneous**. Nephrostomy ([[percutaneous]] nephrostomy tube, **PCNT**) involves ultrasound/fluoro‑guided flank puncture (18G needle) into **[[renal]] [[calyx]] → guidewire → serial [[dilation]] → 8-14 Fr pigtail/locking‑loop [[catheter]] for urine diversion, relieving [[hydronephrosis]] from stones, strictures, tumors, or infection**; allows antegrade access for [[pyelography]], stenting, or [[biopsy]]; temporary (days-weeks) or [[palliative]].
 _____
 >[!info]+ ETYMOLOGY of [[nephrostomy]]
 >#greek nephrectomy(n.)::"**excision of a kidney**," 1880, from [[nephro-]] "**kidney**" + [[-ectomy]] "**a cutting out**."
@@ -66,8 +66,8 @@ _____
 ## Procedure Steps (PCNT)
 
 1. **Position:** Prone/oblique; US/fluoro locate [[calyx]].  
-2. **Access:** 18–22G Chiba needle → urine aspirate/opacify.  
-3. **Wire:** 0.035–0.038" J‑wire coiled in pelvis.  
+2. **Access:** 18-22G Chiba needle → urine aspirate/opacify.  
+3. **Wire:** 0.035-0.038" J‑wire coiled in pelvis.  
 4. **Dilate:** Fascial dilators or peel‑away sheath.  
 5. **Tube:** Pigtail/lock catheter positioned; cap or drain.[3][1]
 
@@ -80,11 +80,11 @@ _____
 - **PCNL:** Uses nephrostomy tract for stones ([[50080]]/81).  
 - **[[Suprapubic Catheter]]:** Bladder analog ([[51100]] CPT).  
 
-**Complications:** [[Hemorrhage]] (1–3%), infection (4%), dislodgement (10–20%), [[pneumothorax]] ([[supracostal]]).[3]
+**Complications:** [[Hemorrhage]] (1-3%), infection (4%), dislodgement (10-20%), [[pneumothorax]] ([[supracostal]]).[3]
 
-**Maintenance:** Flush daily, exchange q1–3mo, monitor output/color.[6]
+**Maintenance:** Flush daily, exchange q1-3mo, monitor output/color.[6]
 
-**ICD-10-PCS:** **0T9530Z** – Drainage kidney percutaneous.[7]
+**ICD-10-PCS:** **0T9530Z** - Drainage kidney percutaneous.[7]
 **Diagnoses:** [[N13.9]] (obstruction), [[N20.0]] (stones).[8]
 
 **One-Sentence Summary**  

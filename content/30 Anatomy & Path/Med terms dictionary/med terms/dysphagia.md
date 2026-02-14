@@ -50,18 +50,18 @@
 
 **Associated diagnoses:**
 
-- **[[I69.391]]** – Dysphagia following cerebral infarction ([[stroke]]).
-- **[[K22.0]]** – [[Achalasia]] of cardia.
-- **[[K22.2]]** – Esophageal obstruction.
-- **[[K21.9]]** – [[GERD]].
+- **[[I69.391]]** - Dysphagia following cerebral infarction ([[stroke]]).
+- **[[K22.0]]** - [[Achalasia]] of cardia.
+- **[[K22.2]]** - Esophageal obstruction.
+- **[[K21.9]]** - [[GERD]].
 
 **CPT Codes (Procedures):**
 
-- **[[43197]]** – [[Esophagoscopy]], flexible, diagnostic.
-- **[[74230]]** – Swallowing function study (modified barium swallow/[[videofluoroscopy]]).
-- **[[91010]]** – Esophageal motility study ([[manometry]]).
-- **[[92610]]-[[92617]]** – Swallowing evaluation/training by SLP.
-- **[[43450]]** – Dilation of esophagus.
+- **[[43197]]** - [[Esophagoscopy]], flexible, diagnostic.
+- **[[74230]]** - Swallowing function study (modified barium swallow/[[videofluoroscopy]]).
+- **[[91010]]** - Esophageal motility study ([[manometry]]).
+- **[[92610]]-[[92617]]** - Swallowing evaluation/training by SLP.
+- **[[43450]]** - Dilation of esophagus.
 
 ***
 

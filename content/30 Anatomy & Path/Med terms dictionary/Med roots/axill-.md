@@ -35,9 +35,9 @@ The combining form **[[axill-]]** refers to the axilla (armpit), a region contai
 | [[brachi-]] | arm |
 
 ## Common Medical Terms
-- **Axillary lymph nodes** – nodes in the armpit  
-- **Axillofemoral bypass** – vascular graft from axilla to femoral artery  
-- **Axillary dissection** – removal of lymph nodes  
+- **Axillary lymph nodes** - nodes in the armpit  
+- **Axillofemoral bypass** - vascular graft from axilla to femoral artery  
+- **Axillary dissection** - removal of lymph nodes  
 
 ## Documentation Clues
 - “Axillary incision”

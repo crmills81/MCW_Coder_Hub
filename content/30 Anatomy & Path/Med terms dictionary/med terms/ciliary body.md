@@ -195,112 +195,112 @@ The ciliary body consists of several specialized structures:
 ## Common ICD-10-CM Codes Related to Ciliary Body
 
 ### Inflammatory Conditions
-- **H20.0x** – Acute and subacute iridocyclitis (specify laterality)
-  - [[H20.00]] – Unspecified acute and subacute iridocyclitis
-  - H20.01x – Primary iridocyclitis, right/left eye
-  - H20.02x – Recurrent acute iridocyclitis
-- **H20.1x** – Chronic iridocyclitis
-- **H20.2x** – Lens-induced iridocyclitis
-- **[[H20.9]]** – Unspecified iridocyclitis (uveitis NOS)
-- **H30.1x** – Disseminated [[chorioretinal]] inflammation (intermediate uveitis)
-- **[[H44.131]]-[[H44.139]]** – [[Sympathetic uveitis]] (right/left eye, bilateral, unspecified)
+- **H20.0x** - Acute and subacute iridocyclitis (specify laterality)
+  - [[H20.00]] - Unspecified acute and subacute iridocyclitis
+  - H20.01x - Primary iridocyclitis, right/left eye
+  - H20.02x - Recurrent acute iridocyclitis
+- **H20.1x** - Chronic iridocyclitis
+- **H20.2x** - Lens-induced iridocyclitis
+- **[[H20.9]]** - Unspecified iridocyclitis (uveitis NOS)
+- **H30.1x** - Disseminated [[chorioretinal]] inflammation (intermediate uveitis)
+- **[[H44.131]]-[[H44.139]]** - [[Sympathetic uveitis]] (right/left eye, bilateral, unspecified)
 
 ### Tumors/Neoplasms
-- **D31.4x** – Benign neoplasm of ciliary body (right/left eye)
-  - [[D31.41]] – Benign neoplasm of ciliary body, right eye
-  - [[D31.42]] – Benign neoplasm of ciliary body, left eye
-- **C69.4x** – Malignant neoplasm of ciliary body
-  - [[C69.41]] – Malignant neoplasm of ciliary body, right eye
-  - [[C69.42]] – Malignant neoplasm of ciliary body, left eye
+- **D31.4x** - Benign neoplasm of ciliary body (right/left eye)
+  - [[D31.41]] - Benign neoplasm of ciliary body, right eye
+  - [[D31.42]] - Benign neoplasm of ciliary body, left eye
+- **C69.4x** - Malignant neoplasm of ciliary body
+  - [[C69.41]] - Malignant neoplasm of ciliary body, right eye
+  - [[C69.42]] - Malignant neoplasm of ciliary body, left eye
 
 ### Degenerative/Structural
-- **H21.0x** – Hyphema (blood in anterior chamber, can involve ciliary body trauma)
-- **H21.1x** – Other vascular disorders of iris and ciliary body
-- **H21.2x** – Degeneration of iris and ciliary body
-- **H21.3x** – Cyst of iris, ciliary body and anterior chamber
-  - H21.30x – Idiopathic cysts
-  - H21.31x – Exudative cysts
-  - H21.32x – Implantation cysts
-- **H21.4x** – Pupillary membranes (can involve ciliary body)
-- **H21.5x** – Other and unspecified adhesions and disruptions of iris and ciliary body
-  - H21.50x – Unspecified adhesions of iris
-  - H21.51x – Anterior synechiae (iris to cornea)
-  - H21.52x – Goniosynechiae (iris to trabecular meshwork)
-  - H21.53x – Iridodialysis (iris tear from ciliary body)
-  - H21.54x – Posterior synechiae (iris to lens)
-- **H21.8x** – Other specified disorders of iris and ciliary body
-  - [[H21.81]] – Floppy iris syndrome
-  - [[H21.82]] – Plateau iris syndrome
-  - [[H21.89]] – Other specified disorders
+- **H21.0x** - Hyphema (blood in anterior chamber, can involve ciliary body trauma)
+- **H21.1x** - Other vascular disorders of iris and ciliary body
+- **H21.2x** - Degeneration of iris and ciliary body
+- **H21.3x** - Cyst of iris, ciliary body and anterior chamber
+  - H21.30x - Idiopathic cysts
+  - H21.31x - Exudative cysts
+  - H21.32x - Implantation cysts
+- **H21.4x** - Pupillary membranes (can involve ciliary body)
+- **H21.5x** - Other and unspecified adhesions and disruptions of iris and ciliary body
+  - H21.50x - Unspecified adhesions of iris
+  - H21.51x - Anterior synechiae (iris to cornea)
+  - H21.52x - Goniosynechiae (iris to trabecular meshwork)
+  - H21.53x - Iridodialysis (iris tear from ciliary body)
+  - H21.54x - Posterior synechiae (iris to lens)
+- **H21.8x** - Other specified disorders of iris and ciliary body
+  - [[H21.81]] - Floppy iris syndrome
+  - [[H21.82]] - Plateau iris syndrome
+  - [[H21.89]] - Other specified disorders
 
 ### Trauma
-- **[[S05.0xxA]]** – Injury of conjunctiva and corneal abrasion without foreign body, initial encounter
-- **[[S05.1xxA]]** – Contusion of eyeball and orbital tissues, initial (can include ciliary body injury)
-- **[[S05.2xxA]]** – Ocular laceration and rupture with prolapse or loss of intraocular tissue, initial
-- **[[S05.6xxA]]** – Penetrating wound of eyeball (can involve ciliary body)
-- **[[H44.40]]** – Unspecified hypotony of eye (can result from ciliary body injury)
+- **[[S05.0xxA]]** - Injury of conjunctiva and corneal abrasion without foreign body, initial encounter
+- **[[S05.1xxA]]** - Contusion of eyeball and orbital tissues, initial (can include ciliary body injury)
+- **[[S05.2xxA]]** - Ocular laceration and rupture with prolapse or loss of intraocular tissue, initial
+- **[[S05.6xxA]]** - Penetrating wound of eyeball (can involve ciliary body)
+- **[[H44.40]]** - Unspecified hypotony of eye (can result from ciliary body injury)
 
 ### Glaucoma (Related to Ciliary Body Function)
-- **H40.1x** – Primary open-angle glaucoma (aqueous overproduction/drainage issue)
-- **H40.2x** – Primary angle-closure glaucoma (can involve plateau iris/ciliary body position)
+- **H40.1x** - Primary open-angle glaucoma (aqueous overproduction/drainage issue)
+- **H40.2x** - Primary angle-closure glaucoma (can involve plateau iris/ciliary body position)
 
 ---
 
 ## Common CPT Codes for Ciliary Body Procedures
 
 ### Diagnostic Procedures
-- **[[92002]]-[[92014]]** – Ophthalmologic medical examination and evaluation (includes ciliary body assessment)
-- **[[76510]]-[[76529]]** – Ophthalmic ultrasound (can visualize ciliary body tumors, detachment)
-- **[[92225]]-[[92228]]** – Ophthalmoscopy (extended, may visualize ciliary body area)
+- **[[92002]]-[[92014]]** - Ophthalmologic medical examination and evaluation (includes ciliary body assessment)
+- **[[76510]]-[[76529]]** - Ophthalmic ultrasound (can visualize ciliary body tumors, detachment)
+- **[[92225]]-[[92228]]** - Ophthalmoscopy (extended, may visualize ciliary body area)
 
 ### Surgical Procedures on Ciliary Body
 
 **Glaucoma Procedures (Targeting Ciliary Body):**
-- **[[66710]]** – Ciliary body destruction; [[diathermy]]
-- **[[66711]]** – Ciliary body destruction; [[cryotherapy]]
-- **[[66720]]** – Ciliary body destruction; [[cyclophotocoagulation]], [[transscleral]]
-- **[[66740]]** – Ciliary body destruction; cyclophotocoagulation, endoscopic
-- **[[66761]]** – Iridotomy/iridectomy by laser surgery (can affect ciliary body proximity)
-- **[[66762]]** – Iridoplasty by [[photocoagulation]] (to treat plateau iris syndrome)
+- **[[66710]]** - Ciliary body destruction; [[diathermy]]
+- **[[66711]]** - Ciliary body destruction; [[cryotherapy]]
+- **[[66720]]** - Ciliary body destruction; [[cyclophotocoagulation]], [[transscleral]]
+- **[[66740]]** - Ciliary body destruction; cyclophotocoagulation, endoscopic
+- **[[66761]]** - Iridotomy/iridectomy by laser surgery (can affect ciliary body proximity)
+- **[[66762]]** - Iridoplasty by [[photocoagulation]] (to treat plateau iris syndrome)
 
 **Tumor/Mass Procedures:**
-- **[[66130]]** – Excision of lesion, sclera
-- **[[67036]]** – Vitrectomy, mechanical, pars plana approach (may involve ciliary body area)
-- **[[67039]]** – [[Vitrectomy]] with focal endolaser photocoagulation (can treat ciliary body tumors)
+- **[[66130]]** - Excision of lesion, sclera
+- **[[67036]]** - Vitrectomy, mechanical, pars plana approach (may involve ciliary body area)
+- **[[67039]]** - [[Vitrectomy]] with focal endolaser photocoagulation (can treat ciliary body tumors)
 
 **Repair/Reconstruction:**
-- **[[66680]]** – Repair of iris, ciliary body (suture)
-- **[[66682]]** – Suture of iris, ciliary body with retrieval of suture through small incision
+- **[[66680]]** - Repair of iris, ciliary body (suture)
+- **[[66682]]** - Suture of iris, ciliary body with retrieval of suture through small incision
 
 **Anterior Segment Imaging:**
-- **[[92132]]** – Scanning computerized ophthalmic diagnostic imaging, anterior segment (OCT of ciliary body)
+- **[[92132]]** - Scanning computerized ophthalmic diagnostic imaging, anterior segment (OCT of ciliary body)
 
 ---
 
 ## Key Clinical Pearls
 
-✅ **Hidden structure** – Ciliary body cannot be seen on routine examination (behind iris); requires special imaging (UBM, OCT, gonioscopy) or dilation
+✅ **Hidden structure** - Ciliary body cannot be seen on routine examination (behind iris); requires special imaging (UBM, OCT, gonioscopy) or dilation
 
-✅ **Dual function** – Both mechanical (accommodation via ciliary muscle) and secretory (aqueous humor production)
+✅ **Dual function** - Both mechanical (accommodation via ciliary muscle) and secretory (aqueous humor production)
 
-✅ **Part of uvea** – Shares blood supply and innervation with iris and choroid; inflammation often affects multiple uveal structures (uveitis)
+✅ **Part of uvea** - Shares blood supply and innervation with iris and choroid; inflammation often affects multiple uveal structures (uveitis)
 
-✅ **Critical for IOP** – Aqueous humor production by ciliary processes is main determinant of intraocular pressure
+✅ **Critical for IOP** - Aqueous humor production by ciliary processes is main determinant of intraocular pressure
 
-✅ **Glaucoma target** – Many glaucoma treatments work by:
+✅ **Glaucoma target** - Many glaucoma treatments work by:
 - Reducing aqueous production (medications like beta-blockers, carbonic anhydrase inhibitors)
 - Destroying ciliary tissue (cyclophotocoagulation, cryotherapy)
 
-✅ **Age-related changes** – Ciliary muscle and lens flexibility decrease with age → presbyopia (usually begins age 40+)
+✅ **Age-related changes** - Ciliary muscle and lens flexibility decrease with age → presbyopia (usually begins age 40+)
 
-✅ **Trauma vulnerability** – Blunt trauma can cause:
+✅ **Trauma vulnerability** - Blunt trauma can cause:
 - Cyclodialysis (ciliary body detachment from sclera)
 - Iridodialysis (iris tear from ciliary body)
 - Hyphema (bleeding into anterior chamber)
 
-✅ **Tumor location** – Ciliary body tumors (especially melanomas) can be difficult to detect early because hidden behind iris
+✅ **Tumor location** - Ciliary body tumors (especially melanomas) can be difficult to detect early because hidden behind iris
 
-✅ **Surgical landmark** – Ciliary sulcus is important reference point for:
+✅ **Surgical landmark** - Ciliary sulcus is important reference point for:
 - Intraocular lens placement (cataract surgery)
 - Anterior chamber procedures
 - Glaucoma surgeries
@@ -309,15 +309,15 @@ The ciliary body consists of several specialized structures:
 
 ## Related Obsidian Notes
 
-- [[Uvea]] – Middle vascular layer of eye (iris, ciliary body, choroid)
-- [[Iris]] – Colored part of eye, controls pupil size
-- [[Choroid]] – Vascular layer supplying retina
-- [[Aqueous Humor]] – Clear fluid produced by ciliary body
-- [[Accommodation]] – Focusing mechanism controlled by ciliary muscle
-- [[Glaucoma]] – Elevated intraocular pressure, often involves ciliary body
-- [[uveitis]] – Inflammation of uveal tract (includes iridocyclitis)
-- [[Lens (Eye)]] – Attached to ciliary body via zonular fibers
-- [[Intraocular Pressure]] – Regulated by aqueous humor production/drainage
+- [[Uvea]] - Middle vascular layer of eye (iris, ciliary body, choroid)
+- [[Iris]] - Colored part of eye, controls pupil size
+- [[Choroid]] - Vascular layer supplying retina
+- [[Aqueous Humor]] - Clear fluid produced by ciliary body
+- [[Accommodation]] - Focusing mechanism controlled by ciliary muscle
+- [[Glaucoma]] - Elevated intraocular pressure, often involves ciliary body
+- [[uveitis]] - Inflammation of uveal tract (includes iridocyclitis)
+- [[Lens (Eye)]] - Attached to ciliary body via zonular fibers
+- [[Intraocular Pressure]] - Regulated by aqueous humor production/drainage
 
 ---
 

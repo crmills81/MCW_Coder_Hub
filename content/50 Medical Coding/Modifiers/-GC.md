@@ -1,6 +1,7 @@
 ---
-title: "Modifier -GC (Teaching Physician / Resident Involvement) — Work Guide"
-last_updated: "2026-02"
+title: "-GC"
+description: "Modifier -GC (Teaching Physician / Resident Involvement)"
+last_updated: "2026-02-13"
 type: "coding-guide"
 specialty_tags: ["ophthalmology", "ENT", "teaching-physician", "GME", "Medicare", "modifiers"]
 ---

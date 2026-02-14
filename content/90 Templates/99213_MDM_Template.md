@@ -1,5 +1,5 @@
 # CPT 99213 Documentation Template
-## Established Patient Office Visit – Low Complexity
+## Established Patient Office Visit - Low Complexity
 
 ---
 
@@ -183,7 +183,7 @@ _________________________________________________________________________
 
 **Total Time on Date of Encounter: _________ minutes**
 
-*(Required range for 99213: 20–29 minutes)*
+*(Required range for 99213: 20-29 minutes)*
 
 **Time Allocation (optional but audit-helpful):**
 - ☐ Pre-visit preparation & record review: _________ min
@@ -223,7 +223,7 @@ _________________________________________________________________________
 
 ☐ **MDM-Based:** This encounter meets LOW complexity MDM for CPT 99213 based on documented elements of problem complexity, data reviewed, and risk level.
 
-☐ **Time-Based:** This encounter required 20–29 minutes of total time on the date of service for CPT 99213.
+☐ **Time-Based:** This encounter required 20-29 minutes of total time on the date of service for CPT 99213.
 
 ---
 
@@ -233,7 +233,7 @@ _________________________________________________________________________
 
 - ☐ Patient is established (seen within past 36 months)
 - ☐ Encounter setting is office/outpatient (not inpatient)
-- ☐ At least 2 of 3 MDM elements documented (or time 20–29 min documented)
+- ☐ At least 2 of 3 MDM elements documented (or time 20-29 min documented)
 - ☐ Problems, data reviewed, and risk level are clearly documented
 - ☐ Documentation is specific, not vague (e.g., "diabetes stable, A1C 6.8%" not just "diabetes")
 - ☐ No higher-level code (99214 or above) is more appropriate

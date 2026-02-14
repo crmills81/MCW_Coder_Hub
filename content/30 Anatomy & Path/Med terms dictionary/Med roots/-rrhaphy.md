@@ -48,20 +48,20 @@ In medical coding, **[[-rrhaphy]]** indicates that the surgeon performed a **rep
 ## **Common Medical Terms Using [[-rrhaphy]]**
 
 ### **General Surgery**
-- **[[Herniorrhaphy]]** – Suturing and repair of a hernia defect  
-- **[[Gastrorrhaphy]]** – Suturing of the stomach wall  
+- **[[Herniorrhaphy]]** - Suturing and repair of a hernia defect  
+- **[[Gastrorrhaphy]]** - Suturing of the stomach wall  
 
 ### **Orthopedic**
-- **[[Tenorrhaphy]]** – Suturing of a tendon  
-- **[[Myorrhaphy]]** – Suturing of muscle tissue  
+- **[[Tenorrhaphy]]** - Suturing of a tendon  
+- **[[Myorrhaphy]]** - Suturing of muscle tissue  
 
 ### **Urology / Gynecology**
-- **[[Cystorrhaphy]]** – Suturing of the bladder  
-- **[[Colporrhaphy]]** – Suturing of the vaginal wall (often for prolapse repair)  
+- **[[Cystorrhaphy]]** - Suturing of the bladder  
+- **[[Colporrhaphy]]** - Suturing of the vaginal wall (often for prolapse repair)  
 
 ### **Trauma / Wound Repair**
-- **[[Neurorrhaphy]]** – Suturing of a severed nerve  
-- **[[Angiorrhaphy]]** – Suturing of a blood vessel  
+- **[[Neurorrhaphy]]** - Suturing of a severed nerve  
+- **[[Angiorrhaphy]]** - Suturing of a blood vessel  
 
 ---
 

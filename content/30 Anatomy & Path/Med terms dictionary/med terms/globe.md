@@ -16,7 +16,7 @@ definition:
   - eyeball proper
 ---
 >[!Note] DEFINITION of [[globe]]
->The [[globe]] is a hollow, roughly 24–25 mm diameter sphere in adults, filled with [[aqueous humor]], lens, and [[vitreous]] body, and responsible for receiving light and converting it to neural signals via the retina and optic nerve. Its wall has three main layers: **outer fibrous coat (cornea anteriorly, sclera posteriorly), [[middle vascular uvea]] ([[iris]], [[ciliary body]], [[choroid]]), and inner neurosensory retina**. The [[globe]] occupies about one‑third of the [[orbital]] volume, with the vitreous comprising roughly two‑thirds of the globe’s internal volume. Clinically, “[[globe]]” is used in phrases like globe rupture, open‑globe injury, or globe abnormalities on CT/MRI, referring specifically to damage or pathology of the eyeball itself rather than surrounding orbital structures.
+>The [[globe]] is a hollow, roughly 24-25 mm diameter sphere in adults, filled with [[aqueous humor]], lens, and [[vitreous]] body, and responsible for receiving light and converting it to neural signals via the retina and optic nerve. Its wall has three main layers: **outer fibrous coat (cornea anteriorly, sclera posteriorly), [[middle vascular uvea]] ([[iris]], [[ciliary body]], [[choroid]]), and inner neurosensory retina**. The [[globe]] occupies about one‑third of the [[orbital]] volume, with the vitreous comprising roughly two‑thirds of the globe’s internal volume. Clinically, “[[globe]]” is used in phrases like globe rupture, open‑globe injury, or globe abnormalities on CT/MRI, referring specifically to damage or pathology of the eyeball itself rather than surrounding orbital structures.
 >****
 >|Term|Breakdown / note|Brief meaning|
 |---|---|---|

@@ -21,7 +21,7 @@ definition:
 _____
 >[!info]+ ETYMOLOGY of [[-cel-]]
 >#greek kele; - From **Greek _kēlē_ (κῆλη)**, meaning **"hernia, tumor, rupture."**
->- Entered medical English via **Latin _coele_** in the 17th–18th centuries, systematized during the anatomical revival; modern spelling **-cele** reflects anglicized pronunciation while retaining classical sense of "protrusion through a defect."
+>- Entered medical English via **Latin _coele_** in the 17th-18th centuries, systematized during the anatomical revival; modern spelling **[[-cele]]** reflects anglicized pronunciation while retaining classical sense of "protrusion through a defect."
 _____
 >[!example]+ RELATED TERMS to [[-cel-]]
 >

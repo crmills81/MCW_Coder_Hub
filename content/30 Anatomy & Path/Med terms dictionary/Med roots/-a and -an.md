@@ -34,10 +34,10 @@ The prefixes **a-** and **an-** indicate the absence, lack, or complete loss of 
 | [[hyper-]] | above normal        |
 
 ## Common Medical Terms
-- **[[Anemia]]** – lack of blood/hemoglobin  
-- **[[Anuria]]** – absence of urine  
-- **[[Aphasia]]** – absence of speech  
-- [[**Aseptic**]] – without infection  
+- **[[Anemia]]** - lack of blood/hemoglobin  
+- **[[Anuria]]** - absence of urine  
+- **[[Aphasia]]** - absence of speech  
+- [[**Aseptic**]] - without infection  
 
 ## Documentation Clues
 - “No output”

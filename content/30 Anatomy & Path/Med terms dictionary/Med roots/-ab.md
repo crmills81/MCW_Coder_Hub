@@ -33,9 +33,9 @@ The prefix **[[ab-]]** indicates movement or direction **away from** a structure
 | [[abduction]] | movement away from midline |
 
 ## Common Medical Terms
-- **Abduction** – movement away from the midline  
-- **Abnormal** – away from normal  
-- **Ablation** – removal or destruction away from original tissue  
+- **Abduction** - movement away from the midline  
+- **Abnormal** - away from normal  
+- **Ablation** - removal or destruction away from original tissue  
 
 ## Documentation Clues
 - “Moved away”

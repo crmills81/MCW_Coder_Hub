@@ -63,9 +63,9 @@ The combining form **[[adip-]]** refers to fat, adipose tissue, or fatty deposit
 | [[steat-]] | fat |
 
 ## Common Medical Terms
-- **Adipose** – fatty tissue  
-- **Adipocyte** – fat cell  
-- **Adiposis** – abnormal accumulation of fat  
+- **Adipose** - fatty tissue  
+- **Adipocyte** - fat cell  
+- **Adiposis** - abnormal accumulation of fat  
 
 ## Documentation Clues
 - “Fatty mass”

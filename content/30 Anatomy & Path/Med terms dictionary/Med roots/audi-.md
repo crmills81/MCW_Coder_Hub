@@ -36,9 +36,9 @@ The combining form **[[audi-]]/[[audio-]]** refers to hearing, sound perception,
 | [[phon-]] | sound |
 
 ## Common Medical Terms
-- **[[Audiogram]]** – hearing test  
-- **[[Audiology]]** – study of hearing  
-- **[[Auditory nerve]]** – nerve responsible for hearing  
+- **[[Audiogram]]** - hearing test  
+- **[[Audiology]]** - study of hearing  
+- **[[Auditory nerve]]** - nerve responsible for hearing  
 
 ## Documentation Clues
 - “Hearing loss”

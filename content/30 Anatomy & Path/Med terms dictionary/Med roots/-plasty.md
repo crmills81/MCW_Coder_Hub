@@ -62,32 +62,32 @@ In coding, **[[-plasty]]** signals that the surgeon performed a **reconstructive
 
 ### **Orthopedic Examples**
 
-- **[[Arthroplasty]]** – Surgical reconstruction or replacement of a joint
+- **[[Arthroplasty]]** - Surgical reconstruction or replacement of a joint
     
-- **[[Osteoplasty]]** – Surgical reshaping of bone
+- **[[Osteoplasty]]** - Surgical reshaping of bone
     
-- **[[Rhinoplasty]]** – Reshaping of the nose (ENT but often orthopedic-adjacent in trauma cases)
+- **[[Rhinoplasty]]** - Reshaping of the nose (ENT but often orthopedic-adjacent in trauma cases)
     
 
 ### **Cardiovascular Examples**
 
-- **[[Angioplasty]]** – Widening or repairing a blood vessel
+- **[[Angioplasty]]** - Widening or repairing a blood vessel
     
-- **[[Valvuloplasty]]** – Repair of a heart valve
+- **[[Valvuloplasty]]** - Repair of a heart valve
     
 
 ### **General Surgery Examples**
 
-- **[[Gastroplasty]]** – Reshaping of the stomach (e.g., bariatric surgery)
+- **[[Gastroplasty]]** - Reshaping of the stomach (e.g., bariatric surgery)
     
-- **[[Herniaplasty]]** – Repair of a hernia defect
+- **[[Herniaplasty]]** - Repair of a hernia defect
     
 
 ### **Plastic Surgery Examples**
 
-- **[[Mammoplasty]]** – Reconstruction or reshaping of the breast
+- **[[Mammoplasty]]** - Reconstruction or reshaping of the breast
     
-- **[[Blepharoplasty]]** – Eyelid reshaping
+- **[[Blepharoplasty]]** - Eyelid reshaping
     
 
 ---

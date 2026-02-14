@@ -35,7 +35,7 @@ _____
 
 ## Common Types and CPT Codes
 
-**Cardiac Catheterization CPT Codes ([[93451]]–[[93461]], 935xx congenital):**[4][6][7][2][1]
+**Cardiac Catheterization CPT Codes ([[93451]]-[[93461]], 935xx congenital):**[4][6][7][2][1]
 | Code    | Description (Key Bundles: Catheter Placement, Injection, Imaging S&I)                  |  
 |---------|---------------------------------------------------------------------------------------|  
 | **[[93451]]** | **RHC** + coronary angiography + **LV** gram (if performed).                                 |  
@@ -43,7 +43,7 @@ _____
 | **[[93453]]** | **RHC** + pulmonary artery pressures (no coronary angio).                                |  
 | **[[93456]]** | **RHC** + **LHC** (combined) + coronary angio + **LV** gram.                                     |  
 | **[[93458]]** | **LHC** + coronary angio + **LV** gram (no **RHC**).                                             |  
-| **[[92920]]–[[92944]]** | PCI ([[angioplasty]]/[[stents]]) bundled with diagnostic if same session.                     |  
+| **[[92920]]-[[92944]]** | PCI ([[angioplasty]]/[[stents]]) bundled with diagnostic if same session.                     |  
 
 **Urinary Catheterization CPT Codes:**[3]
 | Code    | Description                                                 |  
@@ -59,19 +59,19 @@ _____
 ## ICD-10 Coding
 
 **ICD-10-PCS (Inpatient Procedure):**[8][2]
-- **4A023N7** – Measure cardiac pressure/sampling, left heart, [[percutaneous]].  
-- **4A023N6** – Right heart, percutaneous.  
-- **4A023N8** – Bilateral (combined), percutaneous.  
+- **4A023N7** - Measure cardiac pressure/sampling, left heart, [[percutaneous]].  
+- **4A023N6** - Right heart, percutaneous.  
+- **4A023N8** - Bilateral (combined), percutaneous.  
 
 **ICD-10-CM Diagnoses (support medical necessity):**[4]
-- **I20.x** – [[Angina pectoris]].  
-- **I21.x** – Acute MI.  
-- **[[I25.1]]** – [[Atherosclerotic]] heart disease.  
-- **I50.x** – Heart failure.  
-- **[[N39.0]]** – UTI (urinary cath context).  
-- **[[Z45.2]]** – Maintenance of [[vascular]] access (post‑cath).  
+- **I20.x** - [[Angina pectoris]].  
+- **I21.x** - Acute MI.  
+- **[[I25.1]]** - [[Atherosclerotic]] heart disease.  
+- **I50.x** - Heart failure.  
+- **[[N39.0]]** - UTI (urinary cath context).  
+- **[[Z45.2]]** - Maintenance of [[vascular]] access (post‑cath).  
 
-**No standalone ICD-10-CM for procedure** – use PCS for inpatient billing.[9][2]
+**No standalone ICD-10-CM for procedure** - use PCS for inpatient billing.[9][2]
 
 ***
 
@@ -84,8 +84,8 @@ _____
 - **Swan‑Ganz:** Pulmonary artery catheter for hemodynamics.  
 
 **Complications (code separately):**  
-- **[[T82.7xxA]]** – Infection/hemorrhage due to cardiac cath.  
-- **[[I97.790]]** – Other postprocedural hemorrhage (circulatory system).  
+- **[[T82.7xxA]]** - Infection/hemorrhage due to cardiac cath.  
+- **[[I97.790]]** - Other postprocedural hemorrhage (circulatory system).  
 
 **Alternatives:** Echocardiography (non‑invasive), CT/MR angiography.
 
@@ -98,7 +98,7 @@ _____
 - **Therapeutic:** PCI (stents), [[valvuloplasty]], TAVR prep, [[electrophysiology]] studies.  
 - **Urinary:** Retention, monitoring output (post‑op, [[neurogenic bladder]]).  
 
-**Approach sites:** Femoral (common), radial (preferred for cardiac – lower bleeding risk), jugular/brachial, [[urethral]].[2][1]
+**Approach sites:** Femoral (common), radial (preferred for cardiac - lower bleeding risk), jugular/brachial, [[urethral]].[2][1]
 
 **Documentation essentials (for coding):**  
 - Access site/vessels catheterized.  

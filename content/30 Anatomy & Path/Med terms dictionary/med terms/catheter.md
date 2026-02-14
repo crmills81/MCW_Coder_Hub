@@ -77,15 +77,15 @@ _____
 | **A4353** | Intermittent with sterile insertion kit (“no‑touch”). |  
 
 **Insertion CPT (Bladder):**[6][8][5]
-- **[[51701]]** – Non‑indwelling straight cath.  
-- **[[51702]]** – Simple indwelling (Foley).  
-- **[[51703]]** – Complicated (stricture/[[Benign Prostatic Hyperplasia (BPH)|BPH]]).  
+- **[[51701]]** - Non‑indwelling straight cath.  
+- **[[51702]]** - Simple indwelling (Foley).  
+- **[[51703]]** - Complicated (stricture/[[Benign Prostatic Hyperplasia (BPH)|BPH]]).  
 
 **Cardiac/Vascular:** See prior cardiac cath codes (9345x).[7]
 
 **ICD‑10‑PCS (Procedures):**  
-- **0T2B7ZZ** – Dilation of urethra w/intradevice (indwelling cath).  
-- Diagnoses: **[[Z46.6]]** – Encounter for fitting/adjustment urinary device; **[[T83.5xxA]]** – Infection due to indwelling urinary cath.[9]
+- **0T2B7ZZ** - Dilation of urethra w/intradevice (indwelling cath).  
+- Diagnoses: **[[Z46.6]]** - Encounter for fitting/adjustment urinary device; **[[T83.5xxA]]** - Infection due to indwelling urinary cath.[9]
 
 ***
 
@@ -96,7 +96,7 @@ _____
 - **CAUTI** (Catheter‑Associated [[urinary tract infection (UTI)|UTI]]): **[[T83.51xA]]**.  
 - **CLABSI** (Central Line‑Associated Bloodstream Infection).  
 **Alternatives:** [[Suprapubic]] catheter, [[nephrostomy]] tube.  
-**Sizes:** French (Fr) units (e.g., 14–16 Fr urinary adult).  
+**Sizes:** French (Fr) units (e.g., 14-16 Fr urinary adult).  
 **Materials:** Silicone (low encrustation), [[hydrophilic]] (self‑lubricating).[2][3]
 
 ***
@@ -116,7 +116,7 @@ _____
 **Historical milestone:** Werner Forssmann (1929) self‑inserted first cardiac cath, proving safety.[10]
 
 **One‑Sentence Summary**  
-**Catheter** (Greek *kathetēr* “let down”), a versatile thin tube (e.g., Foley urinary A4351–3 HCPCS, cardiac via 9345x CPT), enables drainage/infusion/access across [[urology]] (5170x CPT), cardiology, and beyond, with infection risks mitigated by aseptic protocols.[3][5][4][1][2]
+**Catheter** (Greek *kathetēr* “let down”), a versatile thin tube (e.g., Foley urinary A4351-3 HCPCS, cardiac via 9345x CPT), enables drainage/infusion/access across [[urology]] (5170x CPT), cardiology, and beyond, with infection risks mitigated by aseptic protocols.[3][5][4][1][2]
 
 Sources
 [1] Catheter - Wikipedia https://en.wikipedia.org/wiki/Catheter

@@ -70,9 +70,9 @@ The prefix **anti-** indicates opposition, prevention, or action against somethi
 | [[prophylactic]] | preventive |
 
 ## Common Medical Terms
-- **[[Antibiotic]]** – against bacteria  
-- **[[Anticoagulant]]** – prevents clotting  
-- **[[Antiviral]]** – against viruses  
+- **[[Antibiotic]]** - against bacteria  
+- **[[Anticoagulant]]** - prevents clotting  
+- **[[Antiviral]]** - against viruses  
 
 ## Documentation Clues
 - “[[Prophylaxis]]”

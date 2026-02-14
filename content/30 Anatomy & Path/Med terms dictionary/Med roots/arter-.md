@@ -37,9 +37,9 @@ The combining forms **[[arter-]]** and **[[arteri-]]** refer to arteries, the th
 | [[cardi-]] | heart |
 
 ## Common Medical Terms
-- **[[Arteriosclerosis]]** – hardening of arteries  
-- **[[Arteriogram]]** – imaging of arteries  
-- **[[Arteritis]]** – inflammation of an artery  
+- **[[Arteriosclerosis]]** - hardening of arteries  
+- **[[Arteriogram]]** - imaging of arteries  
+- **[[Arteritis]]** - inflammation of an artery  
 
 ## Documentation Clues
 - “Arterial stenosis”

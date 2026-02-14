@@ -16,10 +16,10 @@ created: 2026-01-21
 
 
 ## Common ICD-10-CM Codes
-* **[[N40.1]]** – [[Benign prostatic hyperplasia (BPH)]] with lower urinary tract symptoms
-* **[[N20.0]]** – [[Calculus of kidney]] ([[calculus|stone]])
-* **[[R31.9]]** – [[Hematuria]], unspecified
-* **[[N39.0]]** –[[urinary tract infection (UTI)]], site not specified
+* **[[N40.1]]** - [[Benign prostatic hyperplasia (BPH)]] with lower urinary tract symptoms
+* **[[N20.0]]** - [[Calculus of kidney]] ([[calculus|stone]])
+* **[[R31.9]]** - [[Hematuria]], unspecified
+* **[[N39.0]]** -[[urinary tract infection (UTI)]], site not specified
 
 
 ## Key Modifiers
@@ -81,7 +81,7 @@ Example Obsidian checklist block:
     
 - Mention if ureteral orifice/ureter was tight or required dilation before stent passage.[[askfilo](https://askfilo.com/user-question-answers-smart-solutions/what-cpt-code-should-be-reported-for-the-described-3337393832363034)]​
     
-- Note stent type/size/length and planned dwell time (e.g., 6F × 26 cm double‑J stent; planned removal in 1–2 weeks).[clevelandclinic+1](https://my.clevelandclinic.org/health/treatments/21795-ureteral-stents)
+- Note stent type/size/length and planned dwell time (e.g., 6F × 26 cm double‑J stent; planned removal in 1-2 weeks).[clevelandclinic+1](https://my.clevelandclinic.org/health/treatments/21795-ureteral-stents)
     
 
 Example note phrases:

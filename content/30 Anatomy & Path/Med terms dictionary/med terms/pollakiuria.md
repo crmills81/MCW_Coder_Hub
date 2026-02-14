@@ -16,7 +16,7 @@ definition:
   - frequent urination
 ---
 >[!Note] DEFINITION of [[pollakiuria]]
->[[pollakiuria]] (also called pollakuria or frequent daytime urination syndrome) primarily **affects toilet-trained children aged 3–8 years, causing urges to urinate every 5–30 minutes (up to 40 times daily) during waking hours, but normal nighttime sleep and no pain, incontinence, fever, or excessive thirst.** Unlike [[polyuria]] (high urine volume from causes like diabetes), [[pollakiuria]] involves normal total output in frequent small amounts, often resolving spontaneously in weeks to months; it may recur and is diagnosed by excluding UTI, diabetes, or infection via [[urinalysis]].
+>[[pollakiuria]] (also called pollakuria or frequent daytime urination syndrome) primarily **affects toilet-trained children aged 3-8 years, causing urges to urinate every 5-30 minutes (up to 40 times daily) during waking hours, but normal nighttime sleep and no pain, incontinence, fever, or excessive thirst.** Unlike [[polyuria]] (high urine volume from causes like diabetes), [[pollakiuria]] involves normal total output in frequent small amounts, often resolving spontaneously in weeks to months; it may recur and is diagnosed by excluding UTI, diabetes, or infection via [[urinalysis]].
 _____
 >[!info]+ ETYMOLOGY of [[pollakiuria]]
 >#greek - Pollaki-: Greek _pollakis_ (πολλάκις), meaning “*frequently*” or “*often*.”

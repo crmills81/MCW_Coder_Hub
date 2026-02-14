@@ -18,7 +18,7 @@ definition:
   - Relating to rod‑shaped bacteria.
 ---
 >[!Note] DEFINITION of [[bacill-]]
->**Bacillus**, rod, staff; The combining form **bacill-** refers to rod‑shaped [[bacteria]] belonging to the Bacillus group or similar organisms. It appears in microbiology, infectious disease, and laboratory reporting. **Bacill-** derives from Late Latin _bacillus_ (“*wand, little staff*”), the diminutive of _baculum_ (“*stick, rod*”), and serves as a root in microbiology for rod‑shaped,[[ Gram‑positive]], spore‑forming bacteria of the genus _Bacillus_ (*phylum Bacillota*), which are ubiquitous, aerobic or facultatively anaerobic organisms including pathogens (_B. anthracis_ – anthrax), [[probiotics]] (_B. subtilis_), and environmental saprophytes. It broadly describes any cylindrical/rod‑like bacterial morphology, contrasting with [[spherical cocci]] or **spiral spirilla**, and was formalized in bacteriology by Ferdinand Cohn in 1853
+>**Bacillus**, rod, staff; The combining form **bacill-** refers to rod‑shaped [[bacteria]] belonging to the Bacillus group or similar organisms. It appears in microbiology, infectious disease, and laboratory reporting. **Bacill-** derives from Late Latin _bacillus_ (“*wand, little staff*”), the diminutive of _baculum_ (“*stick, rod*”), and serves as a root in microbiology for rod‑shaped,[[ Gram‑positive]], spore‑forming bacteria of the genus _Bacillus_ (*phylum Bacillota*), which are ubiquitous, aerobic or facultatively anaerobic organisms including pathogens (_B. anthracis_ - anthrax), [[probiotics]] (_B. subtilis_), and environmental saprophytes. It broadly describes any cylindrical/rod‑like bacterial morphology, contrasting with [[spherical cocci]] or **spiral spirilla**, and was formalized in bacteriology by Ferdinand Cohn in 1853
 _____
 >[!info]+ ETYMOLOGY of [[bacill-]]
 >#latin bacillus (**rod, staff**); Latin **[[bacillus]]** → “*little rod, staff*”; 
@@ -93,25 +93,25 @@ _____
 
 **Diagnostic notes:**
 - Identified by **Gram stain** (large Gram‑positive rods), culture on blood agar (often hemolytic), and spore demonstration.[wikipedia](https://en.wikipedia.org/wiki/Bacillus)​
-- **No specific ICD codes for “bacill-” alone** – code by organism (_[[B95.81]]_ for _B. anthracis_, etc.) or disease (e.g., A22.x for anthrax).[pmc.ncbi.nlm.nih](https://pmc.ncbi.nlm.nih.gov/articles/PMC9562425/)​
+- **No specific ICD codes for “bacill-” alone** - code by organism (_[[B95.81]]_ for _B. anthracis_, etc.) or disease (e.g., A22.x for anthrax).[pmc.ncbi.nlm.nih](https://pmc.ncbi.nlm.nih.gov/articles/PMC9562425/)​
 
 **Historical note:**
-- Ferdinand Cohn (1828–1898) refined the genus; Robert Koch used _B. anthracis_ to prove germ theory (1876).[etymonline+2](https://www.etymonline.com/word/bacilli)
+- Ferdinand Cohn (1828-1898) refined the genus; Robert Koch used _B. anthracis_ to prove germ theory (1876).[etymonline+2](https://www.etymonline.com/word/bacilli)
 
 
 ---
 
 ## One‑Sentence Summary
 
-**Bacill-**, from Latin _bacillus_ (“little rod/staff”), is the foundational root in microbiology for rod‑shaped bacteria like the spore‑forming genus _Bacillus_, encompassing pathogens (_B. anthracis_ – [[anthrax]]), opportunists (_B. cereus_), and probiotics, and contrasting morphologically with cocci and spirilla.[merriam-webster+6](https://www.merriam-webster.com/dictionary/bacillus)
+**Bacill-**, from Latin _bacillus_ (“little rod/staff”), is the foundational root in microbiology for rod‑shaped bacteria like the spore‑forming genus _Bacillus_, encompassing pathogens (_B. anthracis_ - [[anthrax]]), opportunists (_B. cereus_), and probiotics, and contrasting morphologically with cocci and spirilla.[merriam-webster+6](https://www.merriam-webster.com/dictionary/bacillus)
 
 10 sources
 
 ---
 ## Common Medical Terms
-- **[[Bacillus]]** – rod‑shaped bacterium  
-- **[[Bacilluria]]** – bacilli in urine  
-- **[[Bacillophobia]]** – fear of microbes  
+- **[[Bacillus]]** - rod‑shaped bacterium  
+- **[[Bacilluria]]** - bacilli in urine  
+- **[[Bacillophobia]]** - fear of microbes  
 
 ## Documentation Clues
 - “[[Gram‑positive rods]]”

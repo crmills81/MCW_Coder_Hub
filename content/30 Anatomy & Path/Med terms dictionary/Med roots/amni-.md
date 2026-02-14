@@ -62,9 +62,9 @@ The combining form **[[amni]]-** refers to the amnion, the thin membrane surroun
 | [[fet-]] | fetus |
 
 ## Common Medical Terms
-- **[[Amniocentesis]]** – sampling of amniotic fluid  
-- **Amnionitis** – inflammation of the amniotic sac  
-- **Amniotic fluid** – protective fetal fluid  
+- **[[Amniocentesis]]** - sampling of amniotic fluid  
+- **Amnionitis** - inflammation of the amniotic sac  
+- **Amniotic fluid** - protective fetal fluid  
 
 ## Documentation Clues
 - “Rupture of membranes”

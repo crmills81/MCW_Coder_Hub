@@ -24,7 +24,7 @@ definition:
 >     - Motor fibers, causing distal weakness, [[atrophy]], [[fasciculations]], gait disturbance, or foot drop.
 >	 - Autonomic fibers, causing orthostatic [[hypotension]], abnormal sweating, GI or bladder dysfunction, sexual dysfunction, or [[pupillary]] changes.
 >From a pattern standpoint, neuropathy may present as a length‑dependent, symmetric
->“stocking–glove” [[polyneuropathy]], focal [[mononeuropathy]], multifocal mononeuropathy, or proximal neuropathy, each with different etiologic considerations. Major causes include **diabetes, alcohol use, nutritional deficiencies (especially B12), autoimmune disease, infections, toxins and medications (notably chemotherapy), hereditary neuropathies, trauma, and [[idiopathic]] forms where no clear cause is identified**.
+>“stocking-glove” [[polyneuropathy]], focal [[mononeuropathy]], multifocal mononeuropathy, or proximal neuropathy, each with different etiologic considerations. Major causes include **diabetes, alcohol use, nutritional deficiencies (especially B12), autoimmune disease, infections, toxins and medications (notably chemotherapy), hereditary neuropathies, trauma, and [[idiopathic]] forms where no clear cause is identified**.
 _____
 >[!info]+ ETYMOLOGY of [[neuropathy]]
 >#greek “[[neuropathy]]” breaks down into the combining form “[[neuro-]]” (**nerve**) and the suffix “[[-pathy]]” (**disease, suffering**), both ultimately from Greek.

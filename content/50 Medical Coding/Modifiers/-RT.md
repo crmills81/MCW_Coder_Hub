@@ -1,5 +1,6 @@
 ---
-title: "Modifier -RT (Right side) — Work Guide"
+title: "-RT"
+description: "Modifier -RT (Right side)"
 last_updated: "2026-02"
 type: "coding-guide"
 specialty_tags: ["ophthalmology", "ENT", "modifiers", "laterality", "Medicare"]

@@ -60,15 +60,15 @@ In medical coding, **[[-desis]]** indicates a **fusion procedure**, which is dis
 ## **Common Medical Terms Using [[-desis]]**
 
 ### **Orthopedic**
-- **[[Arthrodesis]]** – Fusion of a joint (e.g., ankle, spine, wrist)  
-- **[[Syndesmosis]]** – Fusion or stabilization of bones connected by ligaments  
+- **[[Arthrodesis]]** - Fusion of a joint (e.g., ankle, spine, wrist)  
+- **[[Syndesmosis]]** - Fusion or stabilization of bones connected by ligaments  
 
 ### **Podiatry**
-- **[[Tarsodesis]]** – Fusion of tarsal bones  
-- **[[Hallux interphalangeal joint desis]]** – Fusion of the big toe joint  
+- **[[Tarsodesis]]** - Fusion of tarsal bones  
+- **[[Hallux interphalangeal joint desis]]** - Fusion of the big toe joint  
 
 ### **Hand Surgery**
-- **[[Carpodesis]]** – Fusion of carpal bones  
+- **[[Carpodesis]]** - Fusion of carpal bones  
 
 ---
 

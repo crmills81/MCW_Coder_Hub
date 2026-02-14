@@ -11,7 +11,7 @@
 | Element | Details |
 |---------|---------|
 | **Code** | 21315 |
-| **Code Type** | Surgical Procedure – Maxillofacial/Orthognathic Surgery |
+| **Code Type** | Surgical Procedure - Maxillofacial/Orthognathic Surgery |
 | **Procedure Type** | LeFort I maxillary osteotomy with maxillary repositioning |
 | **Global Period** | 090 days (major surgical procedure) |
 | **Work RVU (2025)** | 7.46 RVU |
@@ -23,11 +23,11 @@
 | **2025 Medicare Fee (Non-Facility)** | ~$393.75 (12.17 RVU × $32.3465 CF × GPCI) |
 | **2025 Medicare Fee (Facility)** | ~$351.23 (10.86 RVU × $32.3465 CF × GPCI) |
 | **Conversion Factor (2025)** | $32.3465 |
-| **Estimated Commercial Insurance** | $1,200–$2,000 |
+| **Estimated Commercial Insurance** | $1,200 - 2,000 |
 | **Global Period Includes** | Pre-operative visits, surgery, post-operative visits (90 days) |
 | **Common Place of Service** | Hospital inpatient (21), Hospital outpatient (22), ASC (24) |
 | **Specialty** | Oral & Maxillofacial Surgery, Plastic Surgery, Orthodontics (surgical component) |
-| **Surgical Time** | Typically 2–3 hours |
+| **Surgical Time** | Typically 2-3 hours |
 
 ---
 
@@ -41,7 +41,7 @@
 
 CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathic surgical procedure that surgically repositions the entire maxilla (upper jaw bone). This is one of the most common orthognathic procedures performed to correct significant skeletal jaw discrepancies.
 
-### Surgical Technique – LeFort I Osteotomy
+### Surgical Technique - LeFort I Osteotomy
 
 **Classic LeFort I Approach:**
 - **Horizontal bone cut** made above the dental apices (roots) in the maxilla
@@ -81,7 +81,7 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 - Hemifacial microsomia
 - Combination procedures (often combined with mandibular surgery 21436, 21470)
 
-**Procedure Duration:** Typically 2–3 hours
+**Procedure Duration:** Typically 2-3 hours
 
 **Key Distinctions:**
 - **CPT 21310** = Osteotomy, maxilla, NOT requiring synchronous repositioning—lower RVU (3.91)
@@ -126,8 +126,8 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 - **Total = ~$351.23 per procedure** (facility, GPCI 1.0)
 
 **Real-World Range (2025):**
-- **Non-Facility (Office OR or Hospital):** $365–$455 (depending on GPCI)
-- **Facility-Based (Hospital OR, ASC):** $325–$410 (lower PE RVU)
+- **Non-Facility (Office OR or Hospital):** $365 - $455 (depending on GPCI)
+- **Facility-Based (Hospital OR, ASC):** $325 - $410 (lower PE RVU)
 
 ---
 
@@ -149,7 +149,7 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 - **Separate payment** only for unrelated E/M during global period (use modifier -24)
 
 **Billing Implications:**
-- **Cannot bill separate office visit codes** within 90 days of surgery for related care – included in global fee
+- **Cannot bill separate office visit codes** within 90 days of surgery for related care - included in global fee
 - **CAN bill separate codes** for unrelated problems during global period with modifier -24 (unrelated E/M)
 - **CAN bill separate codes** for additional procedures performed same day (e.g., mandibular surgery 21436) with both RVU values paid
 - Global period does NOT include hospitalization facility charges; hospital bills separately
@@ -172,28 +172,28 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 
 **History of Present Illness:**
 - Onset of jaw deformity, growth history
-- Functional complaints (chewing difficulty, speech, breathing, sleep issues)
+- Functional complaints (**chewing difficulty, speech, breathing, sleep issues**)
 - Prior orthodontic treatment
-- Prior jaw surgery (if any)
+- Prior jaw surgery (**if any**)
 - Trauma history affecting jaw development
 
-**Physical Examination – Critical Measurements:**
+**Physical Examination - Critical Measurements:**
 - **Occlusal Relationships:**
-  - Overjet (forward-backward relationship of front teeth)
-  - Overbite (vertical overlap of front teeth)
-  - Posterior bite relationship (Class I, II, III)
+  - Overjet (**forward-backward relationship of front teeth**)
+  - Overbite (**vertical overlap of front teeth**)
+  - Posterior bite relationship (**Class I, II, III**)
   - Midline deviation
 - **Facial Proportions:**
   - Anterior-posterior maxillary position relative to cranium
-  - Vertical dimensions (facial height assessment)
-  - Facial symmetry (asymmetry documentation)
+  - Vertical dimensions (**facial height assessment**)
+  - Facial symmetry (**asymmetry documentation**)
 - **Soft Tissue Assessment:**
   - Lip position, fullness, relationship to teeth
   - Smile analysis
   - Profile assessment
 - **Airway Assessment:** If sleep apnea indication, airway obstruction documented
 
-**Imaging – CRITICAL:**
+**Imaging - CRITICAL:**
 - **Lateral cephalometric radiograph:** Shows:
   - SNA angle (maxillary position relative to anterior cranial base; normal ~82°)
   - SNB angle (mandibular position relative to anterior cranial base; normal ~80°)
@@ -225,7 +225,7 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 
 **Surgical Procedure Documentation:**
 
-**Technique – LeFort I Osteotomy:**
+**Technique - LeFort I Osteotomy:**
 - **Approach:** Intraoral incision location, extent
 - **Exposure:** Maxillary sidewalls exposed bilaterally
 - **Horizontal osteotomy:** Made above dental apices (height documented)
@@ -240,7 +240,7 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 - **Fixation:** Type and location:
   - Bilateral rigid fixation with titanium L-plates or hybrid plates
   - Number and location of plates
-  - Screw count and positions (typically 4–6 plates total, multiple screws each)
+  - Screw count and positions (typically 4-6 plates total, multiple screws each)
   - Bilateral confirmation of stability
 - **Soft tissue management:**
   - Maxillary tuberosity repositioning
@@ -261,7 +261,7 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 - **Medications:** Pain management, antibiotics, antiemetics
 - **Jaw movement:** Restrictions or guidance on mouth opening
 - **Followup Schedule:** Post-op appointments (typically day 1, week 1, week 3, 6 weeks, 3 months, 6 months)
-- **Imaging:** Post-operative cephalometric radiographs (typically 6–12 weeks post-op to assess healing and final position)
+- **Imaging:** Post-operative cephalometric radiographs (typically 6-12 weeks post-op to assess healing and final position)
 - **Orthodontist coordination:** If post-operative orthodontics planned
 - **Hardware management:** If plates will be removed (typically left in place permanently)
 
@@ -295,26 +295,26 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 **✗ NOT Included (Can bill separately with appropriate modifier):**
 - Unrelated E/M during global period (use modifier -24)
 - Unrelated procedures during global period (use modifier -24 or -59)
-- Concurrent mandibular surgery (e.g., 21436, 21470)—billed with both RVU values
+- Concurrent mandibular surgery (e.g., 21436, [[21470]])—billed with both RVU values
 - Implant removal or revision after global period
 
 ### Modifiers for Global Period
 
 | Modifier | Description | When to Use |
 |----------|-------------|-----------|
-| **-24** | Unrelated E/M during postoperative period | When billing E/M for unrelated problem during 90-day period |
-| **-59** | Distinct procedural service | When performing unrelated procedure same day |
-| **-LT/-RT** | Left/Right side | For side-specific procedures (rarely used with 21315; bilateral by nature) |
-| **-50** | Bilateral procedure | Not typically used with 21315 (already bilateral) |
+| **[[-24]]** | Unrelated E/M during postoperative period | When billing E/M for unrelated problem during 90-day period |
+| **[[-59]]** | Distinct procedural service | When performing unrelated procedure same day |
+| **-[[LT/-RT]]** | Left/Right side | For side-specific procedures (rarely used with 21315; bilateral by nature) |
+| **-[[50]]** | Bilateral procedure | Not typically used with 21315 (already bilateral) |
 | None (most common) | Standard billing | Routine unilateral or bilateral LeFort I |
 
 **Common Billing Combinations:**
-- **21315 + 21436** (LeFort I + bilateral sagittal split osteotomy)—both billed separately with both RVU values
-- **21315 + 21390** (LeFort I + genioplasty)—both billed separately
+- **21315 + [[21436]]** (LeFort I + bilateral sagittal split [[osteotomy]])—both billed separately with both RVU values
+- **21315 + [[21390]]** (LeFort I + [[genioplasty]])—both billed separately
 
 ---
 
-## MEDICARE RULES FOR 21315
+## MEDICARE RULES FOR [[21315]]
 
 ### CMS-Specific Rules & Policies
 
@@ -364,7 +364,7 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 
 ---
 
-### Local Coverage Determinations (LCDs) – MAC-Specific
+### Local Coverage Determinations (LCDs) - MAC-Specific
 
 **LCDs vary by Medicare Administrative Contractor (MAC) jurisdiction.**
 
@@ -405,13 +405,13 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 
 ---
 
-### Concurrent Procedures – 21315 + 21436 (Most Common Combination)
+### Concurrent Procedures - 21315 + 21436 (Most Common Combination)
 
 **Use when:** LeFort I (maxillary) AND bilateral sagittal split (mandibular) performed same day
 
 **Coding:**
-- **21315** (LeFort I maxillary osteotomy) – billed with full RVU value
-- **21436** (bilateral sagittal split osteotomy, mandible) – billed with full RVU value
+- **21315** (LeFort I maxillary osteotomy) - billed with full RVU value
+- **21436** (bilateral sagittal split osteotomy, mandible) - billed with full RVU value
 - Both codes billed separately; both RVU values paid
 - Both carry 90-day global periods (coincide)
 - **Total work RVU:** 7.46 + 7.29 = **14.75 RVU** (for combined procedure)
@@ -425,7 +425,7 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 
 ### Medicare 2025 Fee Schedule
 
-**CPT 21315 – Osteotomy, Maxilla, with Synchronous Repositioning**
+**CPT 21315 - Osteotomy, Maxilla, with Synchronous Repositioning**
 
 | Category | Value |
 |----------|-------|
@@ -437,9 +437,9 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 | Total RVU (facility) | 10.86 |
 | **Conversion Factor (2025)** | **$32.3465** |
 | **National Average Fee (Non-Facility, GPCI 1.0)** | **$393.75** |
-| **Estimated Range (Non-Facility)** | **$365–$455** |
+| **Estimated Range (Non-Facility)** | **$365 - 455** |
 | **National Average Fee (Facility, GPCI 1.0)** | **$351.23** |
-| **Estimated Range (Facility)** | **$325–$410** |
+| **Estimated Range (Facility)** | **$325 - 410** |
 
 ---
 
@@ -447,11 +447,11 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 
 | Metric | 2024 | 2025 | Change |
 |--------|------|------|--------|
-| **Work RVU** | 7.46 | 7.46 | — |
-| **PE RVU (non-facility)** | 3.89 | 3.89 | — |
+| **Work RVU** | 7.46 | 7.46 | - |
+| **PE RVU (non-facility)** | 3.89 | 3.89 | - |
 | **CF** | $33.2875 | $32.3465 | -2.8% |
 | **National Average (Non-Facility)** | ~$405.16 | ~$393.75 | -2.8% |
-| **Global Period** | 090 | 090 | — |
+| **Global Period** | 090 | 090 | - |
 
 **Reason for fee decrease:** 2.8% conversion factor reduction due to expiration of temporary 2024 increase.
 
@@ -460,26 +460,26 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 ### Commercial Insurance & Medicaid Reimbursement (2025)
 
 **Commercial Insurance:**
-- Typically pays 2–4× Medicare rates
-- **Estimated 21315 payment: $1,200–$2,000** (varies by payer)
+- Typically pays 2-4× Medicare rates
+- **Estimated 21315 payment: $1,200 - $2,000** (varies by payer)
 - Often requires pre-authorization
 - Some payers cover only if functional impairment documented
 
 **Medicaid:**
 - Varies significantly by state
-- **Estimated 21315 payment: $300–$800** (state-dependent)
+- **Estimated 21315 payment: $300 - $800** (state-dependent)
 - Many states do NOT cover orthognathic surgery (considered esthetic or elective)
 - States that do cover require functional documentation
 - Prior authorization typically required
 
 **Self-Pay/Cash Price:**
-- Typically $3,000–$8,000 depending on provider, location, complexity, surgeon experience
+- Typically $3,000 - $8,000 depending on provider, location, complexity, surgeon experience
 
 ---
 
 ## COMPARISON TO RELATED CODES
 
-### Maxillary Osteotomy Code Family (21310–21320)
+### Maxillary Osteotomy Code Family (21310-21320)
 
 | Code | Description | Complexity | RVU (Work) | Global |
 |------|-------------|-----------|-----------|--------|
@@ -509,7 +509,7 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 | **Work RVU** | 7.46 | 7.29 | 14.75 |
 | **Total RVU (non-facility)** | 12.17 | 11.60 | 23.77 |
 | **Medicare Payment (non-facility)** | ~$394 | ~$375 | ~$769 |
-| **Surgical Time** | 1.5–2 hrs | 1.5–2 hrs | 3–4 hrs total |
+| **Surgical Time** | 1.5-2 hrs | 1.5-2 hrs | 3-4 hrs total |
 | **Global Period** | 090 days | 090 days | Both coincide (90 days) |
 | **Use Case** | Class II or III with maxillary deficiency | Class III or asymmetry with mandibular excess | Comprehensive jaw correction |
 
@@ -546,7 +546,7 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 - Occlusal relationship verified
 - Intraoral incisions closed
 
-**Post-Op:** Soft diet × 4 weeks. Expect swelling peak at 48 hours, gradual reduction over 2–3 weeks. Sensation returns over 3–6 months.
+**Post-Op:** Soft diet × 4 weeks. Expect swelling peak at 48 hours, gradual reduction over 2-3 weeks. Sensation returns over 3-6 months.
 
 **Coding:**
 - **21315** (LeFort I maxillary advancement)
@@ -554,7 +554,7 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 
 ---
 
-### Scenario 2: Bimaxillary Surgery – LeFort I + Bilateral Sagittal Split (21315 + 21436)
+### Scenario 2: Bimaxillary Surgery - LeFort I + Bilateral Sagittal Split (21315 + 21436)
 
 **Patient:** 32-year-old with Class III malocclusion, mandibular prognathism (overdeveloped lower jaw), maxillary hypoplasia, significant esthetic concern
 
@@ -578,11 +578,11 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 - Final occlusion verified with both jaws repositioned
 - All fixation secured bilaterally on both maxilla and mandible
 
-**Post-Op:** Soft diet × 6 weeks. Jaw elastics × 2–3 weeks for guided healing.
+**Post-Op:** Soft diet × 6 weeks. Jaw elastics × 2-3 weeks for guided healing.
 
 **Coding:**
-- **21315** (LeFort I maxillary advancement) – Full RVU value
-- **21436** (bilateral sagittal split osteotomy, mandible) – Full RVU value
+- **21315** (LeFort I maxillary advancement) - Full RVU value
+- **21436** (bilateral sagittal split osteotomy, mandible) - Full RVU value
 - **Total RVU payment:** ~$394 (21315) + ~$375 (21436) = **~$769**
 - **Diagnosis:** M26.81 (anterior relation anomaly, Class III), M26.02 (anterior maxillary relation anomaly with mandibular prognathism)
 
@@ -642,7 +642,7 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 
 **✓ SHOULD INCLUDE:**
 
-1. **Indication for Surgery** – Malocclusion (Class II, III, etc.), maxillary hypoplasia, asymmetry, sleep apnea, functional impairment
+1. **Indication for Surgery** - Malocclusion (Class II, III, etc.), maxillary hypoplasia, asymmetry, sleep apnea, functional impairment
 2. **Pre-Operative Cephalometric Analysis:**
    - SNA angle with interpretation (normal ~82°)
    - SNB angle with interpretation (normal ~80°)
@@ -650,29 +650,29 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
    - Vertical dimensions (GOAOR, MP to SN)
    - Anterior-posterior maxillary deficiency/excess measurement (mm)
    - Any anterior open bite or other vertical anomalies
-3. **Occlusal Assessment** – Overjet, overbite, posterior bite relationship, midline
-4. **Imaging** – Lateral cephalometric radiographs, panoramic radiographs, CT scan if asymmetry
-5. **Baseline Photographs** – Frontal, lateral, oblique, intraoral
-6. **Physical Examination** – Facial proportions, soft tissue contour, airway assessment (if OSA)
-7. **Surgical Technique** – LeFort I osteotomy described with specifics
-8. **Bone Cuts** – Horizontal osteotomy location (above apices), vertical cuts location (lateral maxillary walls), pterygoid plate separation
-9. **Maxillary Mobilization** – Confirmed mobile as single unit
-10. **Repositioning Data:**
+1. **Occlusal Assessment** - Overjet, overbite, posterior bite relationship, midline
+2. **Imaging** - Lateral cephalometric radiographs, panoramic radiographs, CT scan if asymmetry
+3. **Baseline Photographs** - Frontal, lateral, oblique, intraoral
+4. **Physical Examination** - Facial proportions, soft tissue contour, airway assessment (if OSA)
+5. **Surgical Technique** - LeFort I osteotomy described with specifics
+6. **Bone Cuts** - Horizontal osteotomy location (above apices), vertical cuts location (lateral maxillary walls), pterygoid plate separation
+7. **Maxillary Mobilization** - Confirmed mobile as single unit
+8. **Repositioning Data:**
     - Direction and amount (mm forward/back, rotation degrees, vertical adjustment mm)
     - Bilateral symmetry achieved
     - Intermax fixation or wafers used to guide position
-11. **Fixation – CRITICAL:**
+9. **Fixation - CRITICAL:**
     - Type (titanium L-plates, hybrid plates, etc.)
-    - Number of plates (typically 4–6)
-    - Number and locations of screws (typically 24–40+ total)
+    - Number of plates (typically 4-6)
+    - Number and locations of screws (typically 24-40+ total)
     - Bilateral confirmation of stability
-12. **Soft Tissue Management** – Maxillary tuberosity repositioning, nasal base positioning, incision closure
-13. **Intraoperative Monitoring** – Nerve function (infraorbital, mental nerve), occlusal relationship verification
-14. **Intraoperative Complications** – None vs. specific issues (bleeding, nerve injury, inadequate mobilization, asymmetry requiring correction)
-15. **Operative Time** – Total time in OR
-16. **Estimated Blood Loss** – Important for post-op management, transfusion decisions
-17. **Post-Operative Instructions** – Dietary restrictions, activity limits, medications, followup schedule
-18. **Post-Operative Notes (Global Period)** – Wound healing, maxillary position assessment, occlusal verification, neurosensory status, hardware stability
+10. **Soft Tissue Management** - Maxillary tuberosity repositioning, nasal base positioning, incision closure
+11. **Intraoperative Monitoring** - Nerve function (infraorbital, mental nerve), occlusal relationship verification
+12. **Intraoperative Complications** - None vs. specific issues (bleeding, nerve injury, inadequate mobilization, asymmetry requiring correction)
+13. **Operative Time** - Total time in OR
+14. **Estimated Blood Loss** - Important for post-op management, transfusion decisions
+15. **Post-Operative Instructions** - Dietary restrictions, activity limits, medications, followup schedule
+16. **Post-Operative Notes (Global Period)** - Wound healing, maxillary position assessment, occlusal verification, neurosensory status, hardware stability
 
 **✗ SHOULD AVOID:**
 - Vague descriptions ("LeFort I performed" without specifics on direction, amount, fixation)
@@ -688,7 +688,7 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 
 ---
 
-**OPERATIVE REPORT – LeFort I Maxillary Osteotomy (21315)**
+**OPERATIVE REPORT - LeFort I Maxillary Osteotomy (21315)**
 
 **PATIENT:** [Name], Age [X]  
 **DATE OF PROCEDURE:** [Date]  
@@ -733,8 +733,8 @@ Maxilla repositioned [forward X mm / backward X mm] in anterior-posterior direct
 **Fixation:**
 Rigid internal fixation applied using titanium [L-plates / hybrid plates]:
 - Bilateral plates placed at [locations: e.g., pyriform aperture, zygomaticmaxillary junction, posterior maxilla]
-- [Total: typically 4–6 plates with multiple 2.0mm screws each]
-- Plates secured with 2.0mm titanium screws; typically 24–40+ total screws
+- [Total: typically 4-6 plates with multiple 2.0mm screws each]
+- Plates secured with 2.0mm titanium screws; typically 24-40+ total screws
 - Bilateral symmetry and stability confirmed with manipulation
 - Intermax fixation [used / not used] to guide final occlusion
 
@@ -757,14 +757,14 @@ Intraoral incisions closed in layers using [resorbable sutures / other materials
 **Transfusion:** [Yes/No; if yes, specify units and type]
 
 **POST-OPERATIVE PLAN:**
-1. Soft diet for 4–6 weeks; avoid hard/crunchy foods.
+1. Soft diet for 4-6 weeks; avoid hard/crunchy foods.
 2. Jaw elastics [if applicable]: [type] worn for [duration].
 3. Activity restriction: No contact sports or vigorous activity × 6 weeks.
 4. Pain management: [Specific medications and dosing].
 5. Antibiotics: [Type and duration].
 6. Postoperative follow-up appointments: [Schedule dates].
 7. Post-operative radiographs: Lateral cephalometric radiographs scheduled [X] weeks post-op to assess healing and final position.
-8. Expected outcomes: Improved occlusion, profile balance, functional improvement. Full healing expected at 3–6 months; complete bony consolidation at 6–12 months.
+8. Expected outcomes: Improved occlusion, profile balance, functional improvement. Full healing expected at 3-6 months; complete bony consolidation at 6-12 months.
 
 ---
 
@@ -772,25 +772,25 @@ Intraoral incisions closed in layers using [resorbable sutures / other materials
 
 **Before billing 21315, verify:**
 
-- [ ] **Medical necessity documented** – Functional impairment (eating, speech, breathing, sleep apnea) or significant skeletal deformity; not purely esthetic
-- [ ] **Cephalometric analysis documented** – SNA, SNB, ANB angles with specific values and interpretation
-- [ ] **Maxillary deficiency/excess quantified** – Specific measurement (mm) from normal values
-- [ ] **Pre-operative photographs obtained** – Frontal, lateral, oblique views as baseline
-- [ ] **Imaging documented** – Lateral cephalometric radiographs, panoramic radiographs
-- [ ] **Occlusal assessment documented** – Overjet, overbite, posterior bite, midline
-- [ ] **Surgical technique clearly described** – LeFort I osteotomy with specific bone cuts and locations
-- [ ] **Bone cuts documented** – Horizontal above apices, vertical on lateral walls, pterygoid separation
-- [ ] **Maxillary mobilization confirmed** – Mobile as single unit before repositioning
-- [ ] **Repositioning documented** – Direction (mm forward/back, rotation degrees, vertical adjustment)
-- [ ] **Fixation documented** – Type (plates), number, location, bilateral confirmation
-- [ ] **Intraoperative complications documented** – Or note "none"
-- [ ] **Operative time documented** – Total time in OR
-- [ ] **Estimated blood loss documented** – Important for post-op planning
-- [ ] **Post-operative position verified** – Final occlusion, midline, symmetry documented
-- [ ] **No separate billing during global period** – Only 21315 (and concurrent mandibular surgery if performed) billable for related care during 90 days
-- [ ] **Proper modifiers used** – -24 if unrelated E/M during global, concurrent procedures billed with both RVU values
-- [ ] **Diagnosis code supports indication** – ICD-10 shows functional/medical necessity, not just esthetic intent
-- [ ] **Orthodontic coordination** – If pre-operative orthodontics, note completion before surgery
+- [ ] **Medical necessity documented** - Functional impairment (eating, speech, breathing, sleep apnea) or significant skeletal deformity; not purely esthetic
+- [ ] **Cephalometric analysis documented** - SNA, SNB, ANB angles with specific values and interpretation
+- [ ] **Maxillary deficiency/excess quantified** - Specific measurement (mm) from normal values
+- [ ] **Pre-operative photographs obtained** - Frontal, lateral, oblique views as baseline
+- [ ] **Imaging documented** - Lateral cephalometric radiographs, panoramic radiographs
+- [ ] **Occlusal assessment documented** - Overjet, overbite, posterior bite, midline
+- [ ] **Surgical technique clearly described** - LeFort I osteotomy with specific bone cuts and locations
+- [ ] **Bone cuts documented** - Horizontal above apices, vertical on lateral walls, pterygoid separation
+- [ ] **Maxillary mobilization confirmed** - Mobile as single unit before repositioning
+- [ ] **Repositioning documented** - Direction (mm forward/back, rotation degrees, vertical adjustment)
+- [ ] **Fixation documented** - Type (plates), number, location, bilateral confirmation
+- [ ] **Intraoperative complications documented** - Or note "none"
+- [ ] **Operative time documented** - Total time in OR
+- [ ] **Estimated blood loss documented** - Important for post-op planning
+- [ ] **Post-operative position verified** - Final occlusion, midline, symmetry documented
+- [ ] **No separate billing during global period** - Only 21315 (and concurrent mandibular surgery if performed) billable for related care during 90 days
+- [ ] **Proper modifiers used** - -24 if unrelated E/M during global, concurrent procedures billed with both RVU values
+- [ ] **Diagnosis code supports indication** - ICD-10 shows functional/medical necessity, not just esthetic intent
+- [ ] **Orthodontic coordination** - If pre-operative orthodontics, note completion before surgery
 
 ---
 
@@ -846,8 +846,8 @@ Intraoral incisions closed in layers using [resorbable sutures / other materials
 
 **Assistant at Surgery (Modifier -80, -81, -82):**
 - Assistant can be billed separately using appropriate modifier
-- Typical payment: 16–20% of primary surgeon fee
-- Example: If 21315 pays $394, assistant at surgery pays ~$63–$79
+- Typical payment: 16-20% of primary surgeon fee
+- Example: If 21315 pays $394, assistant at surgery pays ~$63 - $79
 
 ---
 
@@ -855,25 +855,25 @@ Intraoral incisions closed in layers using [resorbable sutures / other materials
 
 ### Appropriate 21315 Use Cases ✓
 
-1. **Maxillary hypoplasia with Class II malocclusion** – Underdeveloped upper jaw with functional eating difficulty
-2. **Anterior open bite** – Teeth don't meet anteriorly; functional and esthetic concern
-3. **Sleep apnea** – Documented OSA; maxillary advancement to expand airway
-4. **Maxillary asymmetry** – Documented with imaging; functional asymmetry
-5. **Cleft palate sequelae** – Maxillary deformity requiring surgical correction after cleft repair
-6. **Combined orthognathic surgery** – LeFort I + mandibular surgery for bimaxillary correction
-7. **Midface deficiency** – Underprojected maxilla with functional impairment
+1. **Maxillary hypoplasia with Class II malocclusion** - Underdeveloped upper jaw with functional eating difficulty
+2. **Anterior open bite** - Teeth don't meet anteriorly; functional and esthetic concern
+3. **Sleep apnea** - Documented OSA; maxillary advancement to expand airway
+4. **Maxillary asymmetry** - Documented with imaging; functional asymmetry
+5. **Cleft palate sequelae** - Maxillary deformity requiring surgical correction after cleft repair
+6. **Combined orthognathic surgery** - LeFort I + mandibular surgery for bimaxillary correction
+7. **Midface deficiency** - Underprojected maxilla with functional impairment
 
 ---
 
 ### Inappropriate 21315 Use (Risks) ✗
 
-1. ❌ **Purely esthetic surgery** – No functional impairment documented; only esthetic desires
-2. ❌ **No cephalometric analysis** – Surgery billed without objective measurements (SNA, SNB, ANB)
-3. ❌ **Missing baseline photography** – No documentation of pre-operative appearance
-4. ❌ **Post-operative E/M billed during global period** – Separate E/M coded for related post-op care during 90-day global
-5. ❌ **Inadequate surgical documentation** – Vague operative notes without bone cut details, fixation specifics
-6. ❌ **Concurrent mandibular surgery not documented** – If 21315 + 21436 billed, mandibular findings/technique must be documented
-7. ❌ **No evidence of pre-operative orthodontics** – Teeth should be orthodontically aligned before surgery
+1. ❌ **Purely esthetic surgery** - No functional impairment documented; only esthetic desires
+2. ❌ **No cephalometric analysis** - Surgery billed without objective measurements (SNA, SNB, ANB)
+3. ❌ **Missing baseline photography** - No documentation of pre-operative appearance
+4. ❌ **Post-operative E/M billed during global period** - Separate E/M coded for related post-op care during 90-day global
+5. ❌ **Inadequate surgical documentation** - Vague operative notes without bone cut details, fixation specifics
+6. ❌ **Concurrent mandibular surgery not documented** - If 21315 + 21436 billed, mandibular findings/technique must be documented
+7. ❌ **No evidence of pre-operative orthodontics** - Teeth should be orthodontically aligned before surgery
 
 ---
 
@@ -912,30 +912,30 @@ A: Still use 21315 (not side-specific). Asymmetric repositioning is part of LeFo
 
 ### Tips to Maximize Compliance & Revenue
 
-1. **Obtain pre-authorization** – REQUIRED for orthognathic procedures; submit cephalometric analysis, photos, medical necessity documentation
-2. **Document cephalometric measurements** – SNA, SNB, ANB angles with specific values (not just "abnormal")
-3. **Obtain baseline photography** – Frontal, lateral, oblique; standard of care
-4. **Include CT scan for asymmetry** – If asymmetry claimed, CT imaging strengthens documentation
-5. **Quantify functional impairment** – Eating difficulty, speech issues, sleep apnea; specific documentation required
-6. **Document bone cuts specifically** – Horizontal location (mm above apices), vertical locations (lateral walls), pterygoid separation
-7. **Include fixation details** – Type of plates, number of plates, screw count and locations
-8. **Document post-operative position** – Final occlusion, midline alignment, symmetry assessment
-9. **Keep operative reports detailed** – Pre-operative measurements, surgical technique, fixation specifics, post-operative verification all critical
-10. **Coordinate with orthodontist** – If concurrent orthodontics, clarify scope (surgical team handles 21315; orthodontist handles orthodontic services)
-11. **Bill concurrent mandibular surgery separately** – If 21315 + 21436, bill both with both RVU values
-12. **Use -24 for unrelated post-op E/M** – Separate unrelated problems during 90-day global with -24 modifier
+1. **Obtain pre-authorization** - REQUIRED for orthognathic procedures; submit cephalometric analysis, photos, medical necessity documentation
+2. **Document cephalometric measurements** - SNA, SNB, ANB angles with specific values (not just "abnormal")
+3. **Obtain baseline photography** - Frontal, lateral, oblique; standard of care
+4. **Include CT scan for asymmetry** - If asymmetry claimed, CT imaging strengthens documentation
+5. **Quantify functional impairment** - Eating difficulty, speech issues, sleep apnea; specific documentation required
+6. **Document bone cuts specifically** - Horizontal location (mm above apices), vertical locations (lateral walls), pterygoid separation
+7. **Include fixation details** - Type of plates, number of plates, screw count and locations
+8. **Document post-operative position** - Final occlusion, midline alignment, symmetry assessment
+9. **Keep operative reports detailed** - Pre-operative measurements, surgical technique, fixation specifics, post-operative verification all critical
+10. **Coordinate with orthodontist** - If concurrent orthodontics, clarify scope (surgical team handles 21315; orthodontist handles orthodontic services)
+11. **Bill concurrent mandibular surgery separately** - If 21315 + 21436, bill both with both RVU values
+12. **Use -24 for unrelated post-op E/M** - Separate unrelated problems during 90-day global with -24 modifier
 
 ---
 
 ## BILLING & CODING RESOURCES
 
 **Recommended Resources:**
-- **AMA CPT Manual 2025** – Official CPT code definitions
+- **AMA CPT Manual 2025** - Official CPT code definitions
 - **CMS Fee Schedule Database:** https://www.cms.gov/medicare/physician-fee-schedule
 - **MAC LCDs:** https://www.cms.gov/cclc/lcd (search for "orthognathic," "LeFort," "maxillary osteotomy")
 - **American Association of Oral and Maxillofacial Surgeons (AAOMS):** https://www.aaoms.org (coding resources, guidelines)
 - **American Society of Plastic Surgeons (ASPS):** https://www.plasticsurgery.org (coding guidance)
-- **Your payer's provider manual** – Payer-specific coverage requirements and authorization procedures
+- **Your payer's provider manual** - Payer-specific coverage requirements and authorization procedures
 
 ---
 
@@ -949,7 +949,7 @@ A: Still use 21315 (not side-specific). Asymmetric repositioning is part of LeFo
 | **Total RVU (2025, Non-Facility)** | 12.17 |
 | **Medicare Payment (2025, Non-Facility)** | ~$394 |
 | **Medicare Payment (2025, Facility)** | ~$351 |
-| **Typical Time** | 2–3 hours |
+| **Typical Time** | 2-3 hours |
 | **Provider Required** | OMFS, plastic surgeon with maxillofacial surgery training |
 | **Common Modifiers** | -24 (unrelated post-op E/M), none (routine), -80/-81/-82 (assistant at surgery) |
 | **Typical Use** | Maxillary advancement, Class II correction, sleep apnea, asymmetry |

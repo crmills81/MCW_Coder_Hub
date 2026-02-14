@@ -29,16 +29,16 @@ forms:
 >
 >#### CPT/HCPCS Code(s) (Common Diagnostic Procedures):
 >When a patient presents with hematuria, a workup is performed to find the source. These are the most common codes associated with that evaluation:
->- **[[52000]] – Cystourethroscopy (separate procedure)**
+>- **[[52000]] - Cystourethroscopy (separate procedure)**
 >- **Explanation:** A diagnostic procedure where a scope is inserted into the bladder to look for tumors, stones, or bleeding sites.
 >	- **wRVU:** 1.10 (Facility) / 2.06 (Non-Facility)
 >	- **Global Period:** 000
 >- **Assistant Payable:** No
 >	- **Bundling:** Bundled into more extensive procedures (e.g., if a biopsy 52204 is performed, 52000 is not billed).
->- **[[81001]] – Urinalysis, automated, with microscopy**
+>- **[[81001]] - Urinalysis, automated, with microscopy**
 >- **Explanation:** Used to confirm the presence of red blood cells (RBCs) and screen for infection (nitrites/leukocytes) as a cause.
 >	- **Global Period:** XXX
->- **[[74177]] – CT Abdomen and Pelvis with contrast**
+>- **[[74177]] - CT Abdomen and Pelvis with contrast**
 >- **Explanation:** Often referred to as a "CT Urogram," this is used to check the kidneys and ureters for stones or masses.
 >- **Global Period:** XXX
 ___

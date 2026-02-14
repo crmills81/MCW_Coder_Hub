@@ -35,9 +35,9 @@ definition:
 | [[pneumo-]] | air, lungs |
 
 ## Common Medical Terms
-- **Baroreceptor** – pressure sensor in blood vessels  
-- **Barotrauma** – injury from pressure changes  
-- **[[Barometric]]** – relating to atmospheric pressure  
+- **Baroreceptor** - pressure sensor in blood vessels  
+- **Barotrauma** - injury from pressure changes  
+- **[[Barometric]]** - relating to atmospheric pressure  
 
 ## Documentation Clues
 - “Pressure injury”
@@ -88,7 +88,7 @@ definition:
 - **Lung:** Alveolar rupture from positive pressure ventilation or scuba diving.
 - **Prevention:** Valsalva, Toynbee maneuvers; tympanostomy tubes; slow pressure equalization.[globalrph](https://globalrph.com/medterm/b/)​
 
-**No direct diagnostic codes for “baro-” alone** – it’s a **prefix** embedded in compound terms, so coding follows the full condition (e.g., [[barotrauma]] coded under trauma/pressure injury categories; baroreflex dysfunction under autonomic disorders).
+**No direct diagnostic codes for “baro-” alone** - it’s a **prefix** embedded in compound terms, so coding follows the full condition (e.g., [[barotrauma]] coded under trauma/pressure injury categories; baroreflex dysfunction under autonomic disorders).
 
 ---
 

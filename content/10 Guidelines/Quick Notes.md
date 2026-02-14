@@ -377,19 +377,19 @@ The ongoing effort to improve global surgery payment accuracy includes solicitin
 
 The relationship between Medicaid and consultation codes depends heavily on whether the specific Medicaid program follows the American Medical Association (AMA) CPT definition of a consultation or adheres to Medicare's rigid payment policies. 
 
-In general, the sources establish that Medicaid programs operate under the broad principles of the National Correct Coding Initiative (NCCI), which often aligns with Medicare's definitions for surgical procedures, but state/commercial policies dictate whether the specific consultation CPT codes (99242–99255) are separately recognized. 
+In general, the sources establish that Medicaid programs operate under the broad principles of the National Correct Coding Initiative (NCCI), which often aligns with Medicare's definitions for surgical procedures, but state/commercial policies dictate whether the specific consultation CPT codes (99242-99255) are separately recognized. 
 
 1. Recognition of CPT Consultation Codes 
 
 While CPT defines specific codes for consultations: 
 
-• Outpatient Consultation Codes: 99242–99245 
+• Outpatient Consultation Codes: 99242-99245 
 
-• Inpatient/Observation Consultation Codes: 99252–99255
+• Inpatient/Observation Consultation Codes: 99252-99255
 
 The primary issue is payment recognition: 
 
-• Medicare Policy: Medicare does not recognize these CPT consultation codes (99241–99245 and 99251–99255) for Part B payment purposes. When providing services that would normally be consultation codes, providers must crosswalk the service to the appropriate level of Initial Hospital Care (99221-99223) or Office/Outpatient E/M codes. 
+• Medicare Policy: Medicare does not recognize these CPT consultation codes (99241-99245 and 99251-99255) for Part B payment purposes. When providing services that would normally be consultation codes, providers must crosswalk the service to the appropriate level of Initial Hospital Care (99221-99223) or Office/Outpatient E/M codes. 
 
 • Medicaid/Commercial Plans: Although the Medicaid NCCI program uses the same definition of major and minor surgery procedures as the Medicare program, commercial Medicaid plans often follow standard CPT rules and may pay for Consultation codes (99255) if the complexity (MDM or time) and the "3 R's" (Request, Review, Report/Recommendations) are met. 
 
@@ -409,7 +409,7 @@ Medicaid coverage and payment constraints are influenced by CMS policies, even w
 
 • Federal Alignment: Claims processing is subject to CMS rules, including NCDs (National Coverage Determinations) and LCDs (Local Coverage Determinations), which determine medical necessity for both Medicare and Medicaid. 
 
-• Specific HCPCS Codes: The sources define specific HCPCS codes designed for Medicaid billing, such as those related to Immunization Counseling (G0310–G0313), which are noted as being for Medicaid billing purposes. 
+• Specific HCPCS Codes: The sources define specific HCPCS codes designed for Medicaid billing, such as those related to Immunization Counseling (G0310-G0313), which are noted as being for Medicaid billing purposes. 
 
 • Medicaid Units of Service (UOS): Medicaid NCD policies may establish explicit limits on the maximum units of service for certain procedures. For example, Diabetes Self-Management Training (HCPCS codes G0108-G0109) is generally limited to 24 combined units per year by Medicare providers, but the limit under Medicaid is 40 units per year. 
 
@@ -438,7 +438,7 @@ First, identify the appropriate E/M family based on where the encounter occurred
 
 -Office or Other Outpatient (O/O) 
 
--99202–99215 
+-99202-99215 
 
 **-MDM OR Total Time**  
 
@@ -446,7 +446,7 @@ First, identify the appropriate E/M family based on where the encounter occurred
 
 **Hospital Inpatient/Observation** 
 
-99221–99223 (Initial) 
+99221-99223 (Initial) 
 
 **MDM OR Time**  
 
@@ -454,15 +454,15 @@ Time may be used when counseling/coordination of care dominates the service.
 
 Consultations (Inpatient/Outpatient) 
 
-99242–99245 (O/O Consult) / 99252–99255 (Inpatient Consult) 
+99242-99245 (O/O Consult) / 99252-99255 (Inpatient Consult) 
 
 **MDM OR Time**
 
-For Medicare, consultation codes (99251–99255) are generally not reimbursed for Part B services and must be cross walked to Initial Hospital Care codes (99221–99223). 
+For Medicare, consultation codes (99251-99255) are generally not reimbursed for Part B services and must be cross walked to Initial Hospital Care codes (99221-99223). 
 
 **Emergency Department (ED)** 
 
-99282–99285 
+99282-99285 
 
 **MDM ONLY** 
 
@@ -546,33 +546,33 @@ Specific time ranges must be met or exceeded for the corresponding E/M level:
 
 99202 / 99212 
 
-15–29 minutes 
+15-29 minutes 
 
-10–19 minutes 
+10-19 minutes 
 
 99203 / 99213 
 
-30–44 minutes 
+30-44 minutes 
 
-20–29 minutes 
+20-29 minutes 
 
 99204 / 99214 
 
-45–59 minutes  
+45-59 minutes  
 
-30–39 minutes 
+30-39 minutes 
 
 99205 / 99215 
 
-60–74 minutes  
+60-74 minutes  
 
-40–54 minutes  
+40-54 minutes  
 
 Step 4: Check for Specialty-Specific Codes and Payer Rules 
 
 Some specialties use specific code sets that may take precedence over general E/M codes, and certain payers have specific rules that must be followed. 
 
-• Ophthalmology: Providers must differentiate between the standard E/M codes (99202–99215) and the specialized Eye Visit Codes (92002, 92004, 92012, 92014). The Eye Visit Codes often have higher reimbursement for routine comprehensive exams, but E/M codes may be necessary for high-complexity MDM (e.g., managing severe glaucoma or complex retinal detachment). 
+• Ophthalmology: Providers must differentiate between the standard E/M codes (99202-99215) and the specialized Eye Visit Codes (92002, 92004, 92012, 92014). The Eye Visit Codes often have higher reimbursement for routine comprehensive exams, but E/M codes may be necessary for high-complexity MDM (e.g., managing severe glaucoma or complex retinal detachment). 
 
 • Medical Necessity: Regardless of the code chosen, the service must be medically necessary (reasonable and necessary for diagnosis or treatment). Coverage often relies on matching the procedure/service to diagnosis codes defined in National Coverage Determinations (NCDs) and Local Coverage Determinations (LCDs). 
 
@@ -594,7 +594,7 @@ Based on the patient's presentation (multiple acute, systemic injuries due to a 
 
 Since the patient is admitted to the hospital and the service is the initial evaluation by the consulting Otolaryngologist, the appropriate code family is Initial Hospital Inpatient or Observation Care. 
 
-While CPT includes Inpatient Consultation Codes (99252–99255), Medicare and many other payers do not reimburse consultation codes. Therefore, the correct practice is to crosswalk the consultation service to the appropriate level of Initial Hospital E/M care. 
+While CPT includes Inpatient Consultation Codes (99252-99255), Medicare and many other payers do not reimburse consultation codes. Therefore, the correct practice is to crosswalk the consultation service to the appropriate level of Initial Hospital E/M care. 
 
 The selection of the appropriate code level (99221-99223) is based on the complexity of the Medical Decision Making (MDM) or the total time spent on the date of the encounter. 
 
@@ -660,7 +660,7 @@ You are correct to identify the highest complexity consultation code.
 
 • Code to Use (CPT Standard): 99255 (Inpatient or observation consultation for a new or established patient... high level of medical decision making). 
 
-• Rationale for Using Consultation Code: Medicare strictly prohibits the billing of consultation codes (99251–99255) for Part B payment, requiring them to be cross walked to Initial Hospital Care codes (99221–99223). However, commercial plans often adhere to the American Medical Association (AMA) CPT guidelines, which define and recognize the Inpatient Consultation codes (99251–99255). Since the payer is a commercial Medicaid plan, 99255 is the technically correct CPT code for a high-level consultation in the inpatient setting. 
+• Rationale for Using Consultation Code: Medicare strictly prohibits the billing of consultation codes (99251-99255) for Part B payment, requiring them to be cross walked to Initial Hospital Care codes (99221-99223). However, commercial plans often adhere to the American Medical Association (AMA) CPT guidelines, which define and recognize the Inpatient Consultation codes (99251-99255). Since the payer is a commercial Medicaid plan, 99255 is the technically correct CPT code for a high-level consultation in the inpatient setting. 
 
 • Rationale for High Level (99255): The complexity of Medical Decision Making (MDM) is High because the patient experienced major trauma (broken orbital bones, skull bones, ribs, leg) requiring emergent intervention. The decision involves managing multiple acute, complicated injuries that pose a threat to life or bodily function, necessitating emergency major surgery for the facial fractures and/or hospitalization. 
 
@@ -1791,7 +1791,7 @@ HCPCS add-on codes are being introduced to address complexity and effort previou
 
 • In-Office Technology Reimbursement (G0561): For Otolaryngology, add-on code G0561 was finalized to be billed with CPT 69433 to describe the additional resource costs associated with using innovative delivery devices and/or systems for in-office tympanostomy with local or topical anesthesia. 
 
-• E/M Complexity (G2211): The complexity add-on code G2211 (visit complexity inherent to E/M) is applied to office or outpatient E/M codes (99202–99205 and 99211–99215) to account for continuing care that serves as the focal point for all needed healthcare services. 
+• E/M Complexity (G2211): The complexity add-on code G2211 (visit complexity inherent to E/M) is applied to office or outpatient E/M codes (99202-99205 and 99211-99215) to account for continuing care that serves as the focal point for all needed healthcare services. 
 
   
 
@@ -1805,7 +1805,7 @@ The CPT 2026 code set alone includes 288 new codes, 84 deletions, and 46 revisio
 
 New codes create specific pathways for billing modern care delivery, reducing administrative burdens, and covering new services: 
 
-• Remote Monitoring (2026): New CPT codes were created to report remote monitoring services over shorter durations (2–15 days within a 30-day period). Furthermore, the time threshold for billing remote monitoring treatment management services was reduced from 20 minutes to 10 minutes for certain new codes and 11 minutes for codes like 99457 and 98980. This allows practices to capture more billable time by making the reporting of interactive communication more granular. 
+• Remote Monitoring (2026): New CPT codes were created to report remote monitoring services over shorter durations (2-15 days within a 30-day period). Furthermore, the time threshold for billing remote monitoring treatment management services was reduced from 20 minutes to 10 minutes for certain new codes and 11 minutes for codes like 99457 and 98980. This allows practices to capture more billable time by making the reporting of interactive communication more granular. 
 
 • Augmented Intelligence (AI) Services: Several new Category I and Category III CPT codes were added to support AI services that augment physician capabilities, such as detecting clinically relevant data or analyzing/quantifying data to produce clinical insights. This helps support patient access to innovative technologies. 
 
@@ -1939,7 +1939,7 @@ This adjustment is projected to impact nearly all procedural codes within specia
 
   
 
-2025–2026 Medicare Policy and Coding Updates for MCW Specialties 
+2025-2026 Medicare Policy and Coding Updates for MCW Specialties 
 
 That is a very practical and important question. Given the sources you have added, which contain recent updates for 2025 and 2026 Medicare policies, CPT codes, and compliance protocols across several specialties, they provide a crucial operational blueprint for your work at MCW, especially in charge capture, abstraction, and compliance roles covering Ophthalmology, Otolaryngology (OTO), and Urology. 
 
@@ -2017,7 +2017,7 @@ B. Otolaryngology (ENT) and Urology
 
 • In-Office Tympanostomy (OTO): The sources confirm the finalization of the add-on HCPCS code G0561 for tympanostomy with local/topical anesthesia and insertion of a ventilating tube when performed with an innovative delivery device (to be billed in conjunction with CPT 69433). This directly addresses reimbursement for resources associated with emerging technology in the OTO office setting. 
 
-• Radiation Oncology/Endovascular: You have notifications regarding major CPT overhauls in related specialties for 2026, specifically in Lower Extremity (LE) vascular procedures (with 46 new codes and the deletion of 37220–37235) and Radiation Oncology treatment delivery (with revised guidelines and deleted codes like 77014, 77385, 77386). You also have Category III codes listed for emerging technologies like Benign Prostate Ablation using HIFU (0950T, effective July 1, 2025), which is relevant for the Urology department. 
+• Radiation Oncology/Endovascular: You have notifications regarding major CPT overhauls in related specialties for 2026, specifically in Lower Extremity (LE) vascular procedures (with 46 new codes and the deletion of 37220-37235) and Radiation Oncology treatment delivery (with revised guidelines and deleted codes like 77014, 77385, 77386). You also have Category III codes listed for emerging technologies like Benign Prostate Ablation using HIFU (0950T, effective July 1, 2025), which is relevant for the Urology department. 
 
 • MIPS: The Quality Care for the Treatment of Ear, Nose, and Throat Disorders MVP is changing, including the reinstatement of quality measure AAO16 (Age-Related Hearing Loss: Comprehensive Audiometric Evaluation). This is crucial for MIPS reporting compliance for the ENT department. 
 
@@ -2405,13 +2405,13 @@ The sources provide crucial regulatory and procedural knowledge effective for th
 
 • Modifier Guidance and Specificity: The documents stress the need for clearer justification when using modifiers like -25 and -59 in specialties like ENT. They also define the Medicare NCCI-associated modifiers (effective January 1, 2015) designed to offer greater reporting specificity than modifier 59: 
 
- ◦ XE – Separate Encounter, for a distinct service during a separate encounter on the same date of service. 
+ ◦ XE - Separate Encounter, for a distinct service during a separate encounter on the same date of service. 
 
- ◦ XS – Separate Structure, for a service on a separate organ/structure. 
+ ◦ XS - Separate Structure, for a service on a separate organ/structure. 
 
- ◦ XP – Separate Practitioner, for a service performed by a different practitioner. 
+ ◦ XP - Separate Practitioner, for a service performed by a different practitioner. 
 
- ◦ XU – Unusual Non-Overlapping Service, for a distinct service that does not overlap usual components of the main service. 
+ ◦ XU - Unusual Non-Overlapping Service, for a distinct service that does not overlap usual components of the main service. 
 
 • Policy Changes for Telehealth and Supervision: 
 
@@ -2615,7 +2615,7 @@ Inappropriate Use Cases
 
 • Non-E/M Services: Modifier 25 should not be appended to a non-E/M service  . 
 
-• G2211 Exception: The new HCPCS add-on code G2211 (for ongoing patient complexity in O/O E/M visits) is not payable when its base service code (e.g., 99202–99205, 99211–99215) is reported with Modifier 25. 
+• G2211 Exception: The new HCPCS add-on code G2211 (for ongoing patient complexity in O/O E/M visits) is not payable when its base service code (e.g., 99202-99205, 99211-99215) is reported with Modifier 25. 
 
   
 
@@ -2961,7 +2961,7 @@ A consultation is defined as a service provided by a physician to render profess
 
 • However, if the documentation requirements (the 3 R's) for a consultation are not met, a subsequent hospital care code should be billed to the highest level the documentation supports. 
 
-• It is crucial to note that Medicare does not recognize these consultation CPT codes (99241–99245 and 99251–99255) for Part B payment purposes. When services using these CPT consultation codes are provided, the coder must crosswalk the service to the appropriate E/M visit code (such as Initial Hospital Care codes 99221-99223) to bill for Medicare services. 
+• It is crucial to note that Medicare does not recognize these consultation CPT codes (99241-99245 and 99251-99255) for Part B payment purposes. When services using these CPT consultation codes are provided, the coder must crosswalk the service to the appropriate E/M visit code (such as Initial Hospital Care codes 99221-99223) to bill for Medicare services. 
 
 • The three R's must also be met for pre-operative clearance visits, and the clearance must not be routine. 
 

@@ -8,8 +8,8 @@ This study guide is designed to help you review key concepts for inpatient medic
 * **Importance of Accuracy:** Accurate coding is paramount as it directly impacts reimbursement and the integrity of healthcare data.  
   * **Inpatient vs. Outpatient: Inpatient:** Requires an admitting order, patient admitted into inpatient status, typically involves a stay of two midnights or more. Goals include higher specificity for diagnoses, coordinating care for multiple diagnoses. Signs and symptoms can be coded while determining the definitive diagnosis.  
   * **Outpatient**: Patient discharged in less than 24 hours, often after ER visits, diagnostic tests, or minor procedures, even if admitted for observation.  
-  * **Primary Coding Systems:** ICD-10-CM: International Classification of Diseases, 10th Revision, Clinical Modification – used for diagnoses.  
-  * **ICD-10-PCS:** International Classification of Diseases, 10th Revision, Procedure Coding System – used for inpatient procedures.  
+  * **Primary Coding Systems:** ICD-10-CM: International Classification of Diseases, 10th Revision, Clinical Modification - used for diagnoses.  
+  * **ICD-10-PCS:** International Classification of Diseases, 10th Revision, Procedure Coding System - used for inpatient procedures.  
   * **CPT/HCPCS Level II:** Used for outpatient services and procedures (including professional services in inpatient settings).  
     
 
@@ -275,9 +275,9 @@ States must download the NCCI edit files available on a secure portal (RISSNET) 
 
 ## **Replacement Files**
 
-* April 10, 2025 \- Replacement Files (2nd Quarter, 2025\) – CMS issued replacement files for NCCI Medicare MUE (PRA/OPH) to update the MUE value for Healthcare Common Procedure Coding System (HCPCS) code J1628 effective date April 1, 2025, retroactive to 10/01/2024. Updated public replacement files for Medicare and available using the links in the left navigation pane.  
-* January 29, 2025 \- Replacement Files (1st Quarter, 2025\) – CMS issued replacement files for NCCI Medicaid MUE (PRA/OPH/DME) to update the MUE value for Healthcare Common Procedure Coding System (HCPCS) code J0911 effective date January 1, 2025\. Updated public replacement files for Medicaid and available using the links in the left navigation pane.  
-* Posted Sep 14, 2023 Replacement Files (4th quarter of 2023\) – CMS issued replacement files for NCCI Procedure to Procedure (PTP) edits for the October 1, 2023 files (PRA and OPH). Effective July 1, 2023, CMS implemented NCCI PTP edits between Column One codes 80305, 80306, and 80307 for presumptive test(s), and Column Two codes G0480 – G0483, and G0659 for definitive test(s). CMS will withdraw these edits retroactive to July 1, 2023 in a replacement file for the 4th quarter of 2023\. CMS posted a replacement file on the NCCI PTP webpage.  
+* April 10, 2025 \- Replacement Files (2nd Quarter, 2025\) - CMS issued replacement files for NCCI Medicare MUE (PRA/OPH) to update the MUE value for Healthcare Common Procedure Coding System (HCPCS) code J1628 effective date April 1, 2025, retroactive to 10/01/2024. Updated public replacement files for Medicare and available using the links in the left navigation pane.  
+* January 29, 2025 \- Replacement Files (1st Quarter, 2025\) - CMS issued replacement files for NCCI Medicaid MUE (PRA/OPH/DME) to update the MUE value for Healthcare Common Procedure Coding System (HCPCS) code J0911 effective date January 1, 2025\. Updated public replacement files for Medicaid and available using the links in the left navigation pane.  
+* Posted Sep 14, 2023 Replacement Files (4th quarter of 2023\) - CMS issued replacement files for NCCI Procedure to Procedure (PTP) edits for the October 1, 2023 files (PRA and OPH). Effective July 1, 2023, CMS implemented NCCI PTP edits between Column One codes 80305, 80306, and 80307 for presumptive test(s), and Column Two codes G0480 - G0483, and G0659 for definitive test(s). CMS will withdraw these edits retroactive to July 1, 2023 in a replacement file for the 4th quarter of 2023\. CMS posted a replacement file on the NCCI PTP webpage.  
 * Effective July 1, 2023, CMS implemented bypassable NCCI PTP edits between Column One codes 22630, 22632, 22633 and 22634, and Column Two codes 63052 and 63053\. CMS will delete these edits in the October 1, 2023 edit files. Providers/suppliers may choose to hold claims until implementation of the October 1, 2023 edit files.  
 * CMS issued replacement files with the following changes:  
 * Posted Dec. 7, 2022: Replacement Files (1st quarter 2023\) \- CMS issued replacement files for NCCI Procedure to Procedure (PTP) edits and updated for the January 1, 2023 files (PRA and OPH).

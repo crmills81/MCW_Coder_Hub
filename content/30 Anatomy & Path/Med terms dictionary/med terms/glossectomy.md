@@ -51,28 +51,28 @@ _____
 
 ## Common clinical subtypes/associations
 
-- Tongue cancer [[glossectomy]] – primary use for squamous cell carcinoma of the tongue.[clevelandclinic+1](https://my.clevelandclinic.org/health/treatments/24155-glossectomy)
+- Tongue cancer [[glossectomy]] - primary use for squamous cell carcinoma of the tongue.[clevelandclinic+1](https://my.clevelandclinic.org/health/treatments/24155-glossectomy)
     
-- Reconstructive [[glossectomy]] – with flap reconstruction post-total removal.[cancercenter+1](https://www.cancercenter.com/treatment-options/surgery/glossectomy)
+- Reconstructive [[glossectomy]] - with flap reconstruction post-total removal.[cancercenter+1](https://www.cancercenter.com/treatment-options/surgery/glossectomy)
     
-- Base of tongue [[glossectomy]] (midline) – for sleep apnea, reducing posterior tongue size.
+- Base of tongue [[glossectomy]] (midline) - for sleep apnea, reducing posterior tongue size.
     
-- Neck [[dissection]] with [[glossectomy]] – for lymph node staging in cancer.[ncbi.nlm.nih](https://www.ncbi.nlm.nih.gov/books/NBK560636/)​
+- Neck [[dissection]] with [[glossectomy]] - for lymph node staging in cancer.[ncbi.nlm.nih](https://www.ncbi.nlm.nih.gov/books/NBK560636/)​
     
 
 ## Frequently associated procedures/structures
 
-- [[Laryngectomy]] – often with total [[glossectomy]] to prevent aspiration.[oncolink+1](https://www.oncolink.org/cancers/head-and-neck/treatments/surgical-treatments/surgical-procedures-glossectomy)
+- [[Laryngectomy]] - often with total [[glossectomy]] to prevent aspiration.[oncolink+1](https://www.oncolink.org/cancers/head-and-neck/treatments/surgical-treatments/surgical-procedures-glossectomy)
     
-- [[Tracheostomy]] – temporary airway management post-surgery.[webmd](https://www.webmd.com/cancer/glossectomy)​
+- [[Tracheostomy]] - temporary airway management post-surgery.[webmd](https://www.webmd.com/cancer/glossectomy)​
     
-- Radial forearm free flap – common reconstruction donor site.[webmd+1](https://www.webmd.com/cancer/glossectomy)
+- Radial forearm free flap - common reconstruction donor site.[webmd+1](https://www.webmd.com/cancer/glossectomy)
     
-- [[Anterolateral]] thigh flap – for larger defects.[ncbi.nlm.nih](https://www.ncbi.nlm.nih.gov/books/NBK560636/)​
+- [[Anterolateral]] thigh flap - for larger defects.[ncbi.nlm.nih](https://www.ncbi.nlm.nih.gov/books/NBK560636/)​
     
-- [[Mandibulectomy]] – if cancer involves jaw.[ncbi.nlm.nih](https://www.ncbi.nlm.nih.gov/books/NBK560636/)​
+- [[Mandibulectomy]] - if cancer involves jaw.[ncbi.nlm.nih](https://www.ncbi.nlm.nih.gov/books/NBK560636/)​
     
-- Adjuvant radiotherapy/chemotherapy – post-resection for advanced disease.[yalemedicine](https://www.yalemedicine.org/clinical-keywords/glossectomy)
+- Adjuvant radiotherapy/chemotherapy - post-resection for advanced disease.[yalemedicine](https://www.yalemedicine.org/clinical-keywords/glossectomy)
 
 <br>​
 

@@ -21,7 +21,7 @@ definition:
   - inflammation of the uvea
 ---
 >[!Note] DEFINITION of [[uveitis]]
->[[uveitis]] is inflammation of the [[uvea]]—**the middle vascular layer of the eye (iris, ciliary body, choroid)—threatening vision if untreated**. **Uveitis** encompasses [[intraocular]] inflammation primarily affecting the uvea (**iris/ciliary anteriorly, vitreous/pars plana intermediately, choroid/retina posteriorly, or all layers in panuveitis**), presenting acutely (hours–weeks) or chronically (>3 months) with cells/flare in anterior chamber/[[vitreous]], [[synechiae]], cystoid [[macular edema]] (CME), or retinal [[vasculitis]]; idiopathic (~50%) or associated with **HLA-B27** spondyloarthropathies, **JIA**, [[sarcoidosis]], infections (**HSV, TB**, [[toxoplasmosis]]), or **masquerade syndromes** ([[lymphoma]]).
+>[[uveitis]] is inflammation of the [[uvea]]—**the middle vascular layer of the eye (iris, ciliary body, choroid)—threatening vision if untreated**. **Uveitis** encompasses [[intraocular]] inflammation primarily affecting the uvea (**iris/ciliary anteriorly, vitreous/pars plana intermediately, choroid/retina posteriorly, or all layers in panuveitis**), presenting acutely (hours-weeks) or chronically (>3 months) with cells/flare in anterior chamber/[[vitreous]], [[synechiae]], cystoid [[macular edema]] (CME), or retinal [[vasculitis]]; idiopathic (~50%) or associated with **HLA-B27** spondyloarthropathies, **JIA**, [[sarcoidosis]], infections (**HSV, TB**, [[toxoplasmosis]]), or **masquerade syndromes** ([[lymphoma]]).
 _____
 >[!info]+ ETYMOLOGY of [[uveitis]]
 >#latin
@@ -66,7 +66,7 @@ _____
 | **Posterior**        | [[Choroid]]/retina                         | Vision loss, [[scotomas]], [[chorioretinal]] lesions.[3] |
 | **Panuveitis**       | All uveal layers                       | Combined symptoms; severe vision threat.[4] |
 
-**SUN Grading:** Anterior chamber cell (0–4+), flare (0–4+).[3]
+**SUN Grading:** Anterior chamber cell (0-4+), flare (0-4+).[3]
 
 ## Causes and Associations
 
@@ -90,7 +90,7 @@ _____
 - **Posterior/non-infectious:** Periocular/systemic steroids, [[immunosuppressants]] (methotrexate, adalimumab).[2]
 - **Infectious:** Antimicrobials (acyclovir, ganciclovir).  
 
-**Complications:** [[cataracts|cataract]], [[glaucoma]], band [[keratopathy]], **CME**, [[retinal detachment]], blindness (5–10%).[3]
+**Complications:** [[cataracts|cataract]], [[glaucoma]], band [[keratopathy]], **CME**, [[retinal detachment]], blindness (5-10%).[3]
 
 **Prognosis:** Acute anterior excellent; posterior/chronic vision-threatening.[1]
 

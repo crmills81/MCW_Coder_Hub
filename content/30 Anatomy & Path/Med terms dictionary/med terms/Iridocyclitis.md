@@ -108,7 +108,7 @@ Sources
 [3] Iridocyclitis: What It Is, Symptoms & Treatments - Cleveland Clinic https://my.clevelandclinic.org/health/diseases/iridocyclitis
 [4] Iridocyclitis: What is it? Causes and Treatment https://beacheye.com/blog/iridocyclitis-what-is-it-causes-and-treatment/
 [5] A to Z: Iridocyclitis - - Dayton Children's Hospital https://childrensdayton.org/kidshealth/az-iridocyclitis/
-[6] Iridocyclitis – Knowledge and References - Taylor & Francis https://taylorandfrancis.com/knowledge/Medicine_and_healthcare/Immunology/Iridocyclitis/
+[6] Iridocyclitis - Knowledge and References - Taylor & Francis https://taylorandfrancis.com/knowledge/Medicine_and_healthcare/Immunology/Iridocyclitis/
 [7] IRIDOCYCLITIS Definition & Meaning | Merriam-Webster Medical https://www.merriam-webster.com/medical/iridocyclitis
 [8] iridocyclitis | Taber's Medical Dictionary https://www.tabers.com/tabersonline/view/Tabers-Dictionary/764998/all/iridocyclitis?q=eye
 [9] Iridocyclitis - an overview | ScienceDirect Topics https://www.sciencedirect.com/topics/medicine-and-dentistry/iridocyclitis

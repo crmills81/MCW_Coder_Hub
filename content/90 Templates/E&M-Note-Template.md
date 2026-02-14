@@ -1,10 +1,9 @@
 ---
-title: 
-CPT: 
+title: E&M Note Template
+CPT: [enter cpt here]
 tags: 
   - medical-coding
   - e-m
-  
 date: 
 reimb: 
 time_floor: 

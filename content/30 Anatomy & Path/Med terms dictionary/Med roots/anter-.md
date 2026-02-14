@@ -62,8 +62,8 @@ The combining form **anter-** refers to the front or anterior aspect of the body
 | [[ventr-]] | belly/front |
 
 ## Common Medical Terms
-- **Anterolateral** – front and side  
-- **Anteroposterior (AP)** – front‑to‑back imaging view  
+- **Anterolateral** - front and side  
+- **Anteroposterior (AP)** - front‑to‑back imaging view  
 
 ## Documentation Clues
 - “Anterior approach”

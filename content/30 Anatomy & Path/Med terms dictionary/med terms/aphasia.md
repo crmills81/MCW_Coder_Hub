@@ -85,17 +85,17 @@ ___
 - **Apraxia of speech:** Motor planning deficit (often w/Broca's).  
 - **[[Alexia]]:** Reading deficit; **[[agraphia]]:** writing.  
 - **[[Anomia]]:** Naming deficit (**all types**).  
-- **NIHSS:** Includes aphasia score (0–4).[3]
+- **NIHSS:** Includes aphasia score (0-4).[3]
 
 ## Clinical Details
 
 **Assessment:** Boston Naming Test, Token Test, repetition ("no ifs ands buts").  
 **Symptoms:** Paraphasias (**literal: "spoon"→"poon"; semantic: "spoon"→"fork"**), neologisms, jargon, perseveration.[1]
-**Prognosis:** 30–50% significant recovery (1st 3 months); speech therapy key.[2]
+**Prognosis:** 30-50% significant recovery (1st 3 months); speech therapy key.[2]
 **Management:** Speech-language pathology, constraint-induced therapy, apps (Constant Therapy).[4]
 
 **One-Sentence Summary**  
-**Aphasia** ([[R47.01]]/[[I69.320]], Greek *[[a-]] [[-phasia]]* "without speech"), disrupts language post-stroke (Broca's telegraphic/Wernicke's fluent/global/PPA), spares cognition; speech therapy yields 30–50% recovery.[1][2][3]
+**Aphasia** ([[R47.01]]/[[I69.320]], Greek *[[a-]] [[-phasia]]* "without speech"), disrupts language post-stroke (Broca's telegraphic/Wernicke's fluent/global/PPA), spares cognition; speech therapy yields 30-50% recovery.[1][2][3]
 
 Sources
 [1] Aphasia - Symptoms & causes - Mayo Clinic https://www.mayoclinic.org/diseases-conditions/aphasia/symptoms-causes/syc-20369518

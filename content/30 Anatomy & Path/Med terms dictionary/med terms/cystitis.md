@@ -22,13 +22,13 @@ ICD-10 Code: N30.00
 >**Acute bacterial [[cystitis]]** causes **[[dysuria]], urgency, frequency, and sometimes [[hematuria]]**; it resolves with antibiotics but recurs in many cases, while interstitial cystitis (IC/BPS) is chronic with pelvic pain and no infection. Risk factors include **female anatomy, sexual activity, catheters, and menopause; complications like [[pyelonephritis]]** can arise if untreated.
 >
 >#### Diagnosis Code(s):
->**1. [[N30.00]] – Acute cystitis without [[hematuria]]**
+>**1. [[N30.00]] - Acute cystitis without [[hematuria]]**
 >- **Explanation:** This is the most common code for a typical sudden-onset bladder infection.
 >	- **Note:** If blood is present in the urine, use **[[N30.01]]** (**Acute cystitis with hematuria**).
->	- **2. [[N30.10]] – Interstitial cystitis (chronic) without hematuria**
+>	- **2. [[N30.10]] - Interstitial cystitis (chronic) without hematuria**
 >- **Explanation:** A chronic, painful bladder syndrome not caused by bacteria.
 >	- **Note:** If blood is present, use **[[N30.11]]** (**Interstitial cystitis with hematuria**).
->	- **3. [[N30.40]] – Irradiation cystitis without hematuria**
+>	- **3. [[N30.40]] - Irradiation cystitis without hematuria**
 >- **Explanation:** Used for patients experiencing bladder inflammation as a side effect of radiation therapy (common in prostate or cervical cancer treatment).
 _____
 >[!info]+ ETYMOLOGY of **[[cystitis]]**

@@ -36,9 +36,9 @@ The combining form **angi-/angio-** refers to vessels, typically blood or lympha
 | [[arter-]] | artery |
 
 ## Common Medical Terms
-- **[[Angioplasty]]** – vessel repair  
-- **[[Angiogram]]** – imaging of vessels  
-- **[[Angiogenesis]]** – formation of new vessels  
+- **[[Angioplasty]]** - vessel repair  
+- **[[Angiogram]]** - imaging of vessels  
+- **[[Angiogenesis]]** - formation of new vessels  
 
 ## Documentation Clues
 - “[[Stenosis]]”

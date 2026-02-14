@@ -1,6 +1,7 @@
 ---
-title: "Modifier -TC (Technical Component) — Work Guide"
-last_updated: "2026-02"
+title: "-TC"
+description: "Modifier -TC (Technical Component)"
+last_updated: "2026-02-13"
 type: "coding-guide"
 specialty_tags: ["ophthalmology", "ENT", "modifiers", "component-billing", "Medicare"]
 ---

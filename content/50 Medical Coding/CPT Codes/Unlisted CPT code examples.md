@@ -21,9 +21,9 @@ Because unlisted codes (often ending in "99") have no established value or descr
 
 **Common Unlisted Code Examples:**
 
-* **[[30999]]** – Unlisted procedure, nose  
-* **[[69399]]** – Unlisted procedure, external ear  
-* **[[29999]]** – Unlisted procedure, arthroscopy
+* **[[30999]]** - Unlisted procedure, nose  
+* **[[69399]]** - Unlisted procedure, external ear  
+* **[[29999]]** - Unlisted procedure, arthroscopy
 
 Unlisted codes almost always end in "**99**" (or sometimes "89"). They are categorized by body system or section in the CPT book.
 
@@ -31,48 +31,48 @@ Here are more examples broken down by specialty to help you recognize them:
 
 ### **Surgery / Musculoskeletal**
 
-* **[[20999]]** – Unlisted procedure, musculoskeletal system, general  
+* **[[20999]]** - Unlisted procedure, musculoskeletal system, general  
   * *Scenario:* A surgeon performs a novel tendon transfer technique that isn't described by any existing orthopedic code.  
-* **[[22899]]** – Unlisted procedure, spine  
+* **[[22899]]** - Unlisted procedure, spine  
   * *Scenario:* Used for a new type of minimally invasive spinal implant that doesn't fit the descriptors for current instrumentation codes.  
-* **[[27599]]** – Unlisted procedure, femur or knee  
+* **[[27599]]** - Unlisted procedure, femur or knee  
   * *Scenario:* You might use this for a complex revision of a knee surgery that utilizes a brand-new experimental approach.
 
 ### **Digestive System**
 
-* **[[43289]]** – Unlisted laparoscopy procedure, esophagus  
+* **[[43289]]** - Unlisted laparoscopy procedure, esophagus  
   * *Scenario:* A doctor performs a laparoscopic repair of the esophagus using a method that doesn't match the specific "Nissen fundoplication" or hernia repair codes.  
-* **[[44799]]** – Unlisted procedure, intestine  
+* **[[44799]]** - Unlisted procedure, intestine  
   * *Scenario:* Used for rare intestinal surgeries, such as extensive distinct rerouting of the small bowel not covered by standard resection/anastomosis codes.  
-* **[[47399]]** – Unlisted procedure, liver  
+* **[[47399]]** - Unlisted procedure, liver  
   * *Scenario:* Sometimes used for new types of liver tumor ablation technologies that don't match existing radiofrequency or cryoablation codes.
 
 ### **Cardiovascular & Respiratory**
 
-* **[[33999]]** – Unlisted procedure, cardiac surgery  
+* **[[33999]]** - Unlisted procedure, cardiac surgery  
   * *Scenario:* A cardiac surgeon performs a hybrid procedure involving both open heart surgery and a catheter-based intervention that has no combined code.  
-* **[[31299]]** – Unlisted procedure, accessory sinuses  
+* **[[31299]]** - Unlisted procedure, accessory sinuses  
   * *Scenario:* Often used by ENTs for sinus surgeries using novel tools (like certain drug-eluting stents) if no specific "placement of stent" code exists for that sinus.
 
 ### **Radiology**
 
-* **[[76499]]** – Unlisted diagnostic radiographic procedure  
+* **[[76499]]** - Unlisted diagnostic radiographic procedure  
   * *Scenario:* Used for an X-ray study that uses a non-standard view or technique required for a rare deformity.  
-* **[[76999]]** – Unlisted ultrasound procedure  
+* **[[76999]]** - Unlisted ultrasound procedure  
   * *Scenario:* Could be used for a specialized ultrasound examination (e.g., of a specific foreign body) not covered by organ-specific ultrasound codes.
 
 ### **Pathology & Laboratory**
 
-* **[[81599]]** – Unlisted multianalyte assay with algorithmic analysis  
+* **[[81599]]** - Unlisted multianalyte assay with algorithmic analysis  
   * *Scenario:* Frequently used for new "gene expression profile" tests (cancer classifiers) that are proprietary and haven't been assigned a specific CPT or PLA code yet.  
-* **[[84999]]** – Unlisted chemistry procedure  
+* **[[84999]]** - Unlisted chemistry procedure  
   * *Scenario:* Used for a lab test measuring a rare substance in the blood for which no specific analyte code exists.
 
 ### **Medicine & Vaccines**
 
-* **[[90749]]** – Unlisted vaccine/toxoid  
+* **[[90749]]** - Unlisted vaccine/toxoid  
   * *Scenario:* Used when a new vaccine is FDA-approved but the CPT code hasn't been updated to include it yet (common during early release of new vaccines).  
-* **[[99199]]** – Unlisted special service, procedure, or report  
+* **[[99199]]** - Unlisted special service, procedure, or report  
   * *Scenario:* A "catch-all" for general medical services that don't fit anywhere else, often used for administrative or special reporting services required by a payer.
 
 ### **Quick Tip for Usage**
@@ -98,7 +98,7 @@ Here are specific scenarios and guidelines for these specialties:
 
 * Anterior Segment Procedures: Use code [[66999]] (*Unlisted procedure, anterior segment of eye*) for procedures performed on the anterior segment of the eye that do not have a specific code.  
 * General Services: Use code [[92499]] (*Unlisted ophthalmological service or procedure*) for general ophthalmological services or procedures not listed elsewhere.  
-* Visual Fields: Use unlisted codes if an examination method does not fit the defined visual field examination codes ([[92081]]–[[92083]]).
+* Visual Fields: Use unlisted codes if an examination method does not fit the defined visual field examination codes ([[92081]]-[[92083]]).
 
 
 ### **Urology**

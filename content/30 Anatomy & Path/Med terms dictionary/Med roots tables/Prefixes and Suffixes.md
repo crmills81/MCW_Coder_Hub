@@ -278,7 +278,7 @@ forms:
 |**-itis**|[inflammation](https://en.wikipedia.org/wiki/Inflammation "Inflammation")|Greek -ῖτις (_-îtis_) fem. form of [-ίτης](https://en.wiktionary.org/wiki/-%CE%AF%CF%84%CE%B7%CF%82#Ancient_Greek "wikt:-ίτης") (_-ítēs_), pertaining to, because it was used with the feminine noun [νόσος](https://en.wiktionary.org/wiki/%CE%BD%CF%8C%CF%83%CE%BF%CF%82#Ancient_Greek "wikt:νόσος") (_nósos_, disease), thus _-îtis nósos_, disease of the, disease pertaining to|[tonsillitis](https://en.wikipedia.org/wiki/Tonsillitis "Tonsillitis")|
 |**-ium**|structure, tissue|Latin _[-ium](https://en.wiktionary.org/wiki/-ium#Latin "wikt:-ium")_, aggregation or mass of (such as tissue)|[pericardium](https://en.wikipedia.org/wiki/Pericardium "Pericardium")|
 
-### J–K
+### J-K
 
 |Affix|Meaning|Origin language and etymology|Example(s)|
 |---|---|---|---|
@@ -389,7 +389,7 @@ forms:
 |**-opsy**|examination or inspection|Greek [ὄψῐς](https://en.wiktionary.org/wiki/%E1%BD%84%CF%88%CE%B9%CF%82#Ancient_Greek "wikt:ὄψις") (_ópsis_), view|[biopsy](https://en.wikipedia.org/wiki/Biopsy "Biopsy"), [autopsy](https://en.wikipedia.org/wiki/Autopsy "Autopsy")|
 |**optic(o)-**|of or relating to chemical properties of the [eye](https://en.wikipedia.org/wiki/Eye "Eye")|Middle French _[optique](https://en.wiktionary.org/wiki/optique#Middle_French "wikt:optique")_; from Greek [ὀπτῐκός](https://en.wiktionary.org/wiki/%E1%BD%80%CF%80%CF%84%CE%B9%CE%BA%CF%8C%CF%82#Ancient_Greek "wikt:ὀπτικός") (_optikós_); cognate with Latin _[oculus](https://en.wiktionary.org/wiki/oculus#Latin "wikt:oculus")_, relating to the eye|opticochemical|
 |**or(o)-**|of or pertaining to the mouth|Latin _[ōs](https://en.wiktionary.org/wiki/os#Latin "wikt:os")_, _ōris_, mouth|[oral](https://en.wikipedia.org/wiki/Mouth "Mouth")|
-|**-or**|one who, agent noun–forming suffix|generally appended where Latin would do it—to the root of a Latin-type perfect passive participle. Cf. [-er](https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes#-er)|doctor|
+|**-or**|one who, agent noun-forming suffix|generally appended where Latin would do it—to the root of a Latin-type perfect passive participle. Cf. [-er](https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes#-er)|doctor|
 |**orchi(o)-**, **orchid(o)-**, **orch(o)-**|[testis](https://en.wikipedia.org/wiki/Testis "Testis")|Greek [ὄρχις](https://en.wiktionary.org/wiki/%E1%BD%84%CF%81%CF%87%CE%B9%CF%82#Ancient_Greek "wikt:ὄρχις") (_órkhis_), testicle, ovary|[orchiectomy](https://en.wikipedia.org/wiki/Orchiectomy "Orchiectomy"), [orchidectomy](https://en.wikipedia.org/wiki/Orchidectomy "Orchidectomy")|
 |**orth(o)-**|denoting something as straight or correct|Greek [ὀρθός](https://en.wiktionary.org/wiki/%E1%BD%80%CF%81%CE%B8%CF%8C%CF%82#Ancient_Greek "wikt:ὀρθός") (_orthós_), straight, correct, normal|[orthodontist](https://en.wikipedia.org/wiki/Orthodontist "Orthodontist")|
 |**-osis**|a condition, [disease](https://en.wikipedia.org/wiki/Disease "Disease"), process or increase|Greek [-ωσις](https://en.wiktionary.org/wiki/-%CF%89%CF%83%CE%B9%CF%82#Ancient_Greek "wikt:-ωσις") (_-ōsis_), state, abnormal condition, action|[Harlequin type ichthyosis](https://en.wikipedia.org/wiki/Harlequin_type_ichthyosis "Harlequin type ichthyosis"), [psychosis](https://en.wikipedia.org/wiki/Psychosis "Psychosis"), [osteoporosis](https://en.wikipedia.org/wiki/Osteoporosis "Osteoporosis"), [phagocytosis](https://en.wikipedia.org/wiki/Phagocytosis "Phagocytosis")|
@@ -481,7 +481,7 @@ forms:
 |**pylor-**|gate|Greek [πυλωρός](https://en.wiktionary.org/wiki/%CF%80%CF%85%CE%BB%CF%89%CF%81%CF%8C%CF%82#Ancient_Greek "wikt:πυλωρός") (_pulōrós_), gate keeper; lower orifice of the stomach|[pyloric sphincter](https://en.wikipedia.org/wiki/Pyloric_sphincter "Pyloric sphincter")|
 |**pyr-**|[fever](https://en.wikipedia.org/wiki/Fever "Fever")|Greek [πῦρ](https://en.wiktionary.org/wiki/%CF%80%E1%BF%A6%CF%81#Ancient_Greek "wikt:πῦρ"), [πυρετός](https://en.wiktionary.org/wiki/%CF%80%CF%85%CF%81%CE%B5%CF%84%CF%8C%CF%82#Ancient_Greek "wikt:πυρετός") (_pûr, puretós_), fire, heat, fever|[antipyretic](https://en.wikipedia.org/wiki/Antipyretic "Antipyretic")|
 
-### Q–R
+### Q-R
 
 |Affix|Meaning|Origin language and etymology|Example(s)|
 |---|---|---|---|
@@ -617,7 +617,7 @@ forms:
 |**vesic(o)-**|of or pertaining to the [bladder](https://en.wikipedia.org/wiki/Urinary_bladder "Urinary bladder")|Latin _[vēsīca](https://en.wiktionary.org/wiki/vesica#Latin "wikt:vesica")_, bladder, blister|[vesical arteries](https://en.wikipedia.org/wiki/Vesical_arteries "Vesical arteries")|
 |**viscer(o)-**|of or pertaining to the internal organs, the [viscera](https://en.wikipedia.org/wiki/Viscera "Viscera")|Latin _[viscus](https://en.wiktionary.org/wiki/viscus#Latin "wikt:viscus")_ (pl. _viscera_), internal organ(s)|[viscera](https://en.wikipedia.org/wiki/Viscera "Viscera")|
 
-### X–Z
+### X-Z
 
 |Affix|Meaning|Origin language and etymology|Example(s)|
 |---|---|---|---|
@@ -640,114 +640,114 @@ This section contains lists of different root classification (e.g. body componen
 
 |Bodily concept|Greek root in English|Latin root in English|Other root in English|
 |---|---|---|---|
-|**digestion**|-pepsia|–|–|
-|**disease**|-pathy|–|–|
-|**eating**|-phagia|-vory|–|
+|**digestion**|-pepsia|-|-|
+|**disease**|-pathy|-|-|
+|**eating**|-phagia|-vory|-|
 
 #### Body parts and substances
 
 |Body part or component|Greek root in English|Latin root in English|Other root in English|
 |---|---|---|---|
-|**abdomen**|_[lapar-](https://en.wiktionary.org/wiki/%CE%BB%CE%B1%CF%80%CE%B1%CF%81%CF%8C%CF%82#Ancient_Greek "wikt:λαπαρός")_|abdomin-|–|
-|**aorta**|aort-|–|–|
-|**arm**|_[brachi-](https://en.wiktionary.org/wiki/%CE%B2%CF%81%CE%B1%CF%87%CE%AF%CF%89%CE%BD#Ancient_Greek "wikt:βραχίων")_|[arm-](https://en.wiktionary.org/wiki/armus#Latin "wikt:armus")|–|
-|**armpit**|_[maschal-](https://en.wiktionary.org/wiki/%CE%BC%CE%B1%CF%83%CF%87%CE%AC%CE%BB%CE%B7#Ancient_Greek "wikt:μασχάλη")_|[axill-](https://en.wiktionary.org/wiki/axilla#Latin "wikt:axilla")|–|
-|**artery**|_[arteri-](https://en.wiktionary.org/wiki/%E1%BC%80%CF%81%CF%84%CE%B7%CF%81%CE%AF%CE%B1#Ancient_Greek "wikt:ἀρτηρία")_|–|–|
-|**back**|_[not-](https://en.wiktionary.org/wiki/%CE%BD%E1%BF%B6%CF%84%CE%BF%CE%BD#Ancient_Greek "wikt:νῶτον")_|[dors-](https://en.wiktionary.org/wiki/dorsum#Latin "wikt:dorsum")|–|
-|**big toe**|–|allic-, hallic-|–|
-|**bladder**|_[cyst-](https://en.wiktionary.org/wiki/%CE%BA%CF%8D%CF%83%CF%84%CE%B9%CF%82#Ancient_Greek "wikt:κύστις")_|[vesic-](https://en.wiktionary.org/wiki/vesica#Latin "wikt:vesica")|–|
-|**blood**|_[haem(at)-](https://en.wiktionary.org/wiki/%CE%B1%E1%BC%B7%CE%BC%CE%B1#Ancient_Greek "wikt:αἷμα")_ ([Br. English](https://en.wikipedia.org/wiki/British_English "British English"));  <br>hem(at)- ([Am. English](https://en.wikipedia.org/wiki/American_English "American English"))|[sangui-](https://en.wiktionary.org/wiki/sanguis#Latin "wikt:sanguis"), sanguin-|–|
-|**blood clot**|_[thromb-](https://en.wiktionary.org/wiki/%CE%B8%CF%81%CF%8C%CE%BC%CE%B2%CE%BF%CF%82#Ancient_Greek "wikt:θρόμβος")_|–|–|
-|**blood vessel**|angi-|[vas-](https://en.wiktionary.org/wiki/vas#Latin "wikt:vas"), [vascul-](https://en.wiktionary.org/wiki/vasculum#Latin "wikt:vasculum")|–|
-|**body**|_[soma-](https://en.wiktionary.org/wiki/%CF%83%E1%BF%B6%CE%BC%CE%B1#Ancient_Greek "wikt:σῶμα")_, somat-|[corpor-](https://en.wiktionary.org/wiki/corpus#Latin "wikt:corpus")|–|
-|**bone**|_[oste-](https://en.wiktionary.org/wiki/%E1%BD%80%CF%83%CF%84%CE%AD%CE%BF%CE%BD#Ancient_Greek "wikt:ὀστέον")_|[ossi-](https://en.wiktionary.org/wiki/os#Latin "wikt:os")|–|
-|**[bone marrow](https://en.wikipedia.org/wiki/Bone_marrow "Bone marrow")**, **marrow**|_[myel-](https://en.wiktionary.org/wiki/%CE%BC%CF%85%CE%B5%CE%BB%CF%8C%CF%82#Ancient_Greek "wikt:μυελός")_|[medull-](https://en.wiktionary.org/wiki/medulla#Latin "wikt:medulla")|–|
-|**brain**|encephal-|[cerebr-](https://en.wiktionary.org/wiki/cerebrum#Latin "wikt:cerebrum")|–|
-|**breast**|_[mast-](https://en.wiktionary.org/wiki/%CE%BC%CE%B1%CF%83%CF%84%CF%8C%CF%82#Ancient_Greek "wikt:μαστός")_|mamm-|–|
-|**chest**|_[steth-](https://en.wiktionary.org/wiki/%CF%83%CF%84%E1%BF%86%CE%B8%CE%BF%CF%82#Ancient_Greek "wikt:στῆθος")_|pector-|–|
-|**cheek**|parei-|bucc-|–|
-|**ear**|_[ot(o)-](https://en.wiktionary.org/wiki/%CE%BF%E1%BD%96%CF%82#Ancient_Greek "wikt:οὖς")_|aur(i)-|–|
-|**eggs**, **ova**|oo-|ov-|–|
+|**abdomen**|_[lapar-](https://en.wiktionary.org/wiki/%CE%BB%CE%B1%CF%80%CE%B1%CF%81%CF%8C%CF%82#Ancient_Greek "wikt:λαπαρός")_|abdomin-|-|
+|**aorta**|aort-|-|-|
+|**arm**|_[brachi-](https://en.wiktionary.org/wiki/%CE%B2%CF%81%CE%B1%CF%87%CE%AF%CF%89%CE%BD#Ancient_Greek "wikt:βραχίων")_|[arm-](https://en.wiktionary.org/wiki/armus#Latin "wikt:armus")|-|
+|**armpit**|_[maschal-](https://en.wiktionary.org/wiki/%CE%BC%CE%B1%CF%83%CF%87%CE%AC%CE%BB%CE%B7#Ancient_Greek "wikt:μασχάλη")_|[axill-](https://en.wiktionary.org/wiki/axilla#Latin "wikt:axilla")|-|
+|**artery**|_[arteri-](https://en.wiktionary.org/wiki/%E1%BC%80%CF%81%CF%84%CE%B7%CF%81%CE%AF%CE%B1#Ancient_Greek "wikt:ἀρτηρία")_|-|-|
+|**back**|_[not-](https://en.wiktionary.org/wiki/%CE%BD%E1%BF%B6%CF%84%CE%BF%CE%BD#Ancient_Greek "wikt:νῶτον")_|[dors-](https://en.wiktionary.org/wiki/dorsum#Latin "wikt:dorsum")|-|
+|**big toe**|-|allic-, hallic-|-|
+|**bladder**|_[cyst-](https://en.wiktionary.org/wiki/%CE%BA%CF%8D%CF%83%CF%84%CE%B9%CF%82#Ancient_Greek "wikt:κύστις")_|[vesic-](https://en.wiktionary.org/wiki/vesica#Latin "wikt:vesica")|-|
+|**blood**|_[haem(at)-](https://en.wiktionary.org/wiki/%CE%B1%E1%BC%B7%CE%BC%CE%B1#Ancient_Greek "wikt:αἷμα")_ ([Br. English](https://en.wikipedia.org/wiki/British_English "British English"));  <br>hem(at)- ([Am. English](https://en.wikipedia.org/wiki/American_English "American English"))|[sangui-](https://en.wiktionary.org/wiki/sanguis#Latin "wikt:sanguis"), sanguin-|-|
+|**blood clot**|_[thromb-](https://en.wiktionary.org/wiki/%CE%B8%CF%81%CF%8C%CE%BC%CE%B2%CE%BF%CF%82#Ancient_Greek "wikt:θρόμβος")_|-|-|
+|**blood vessel**|angi-|[vas-](https://en.wiktionary.org/wiki/vas#Latin "wikt:vas"), [vascul-](https://en.wiktionary.org/wiki/vasculum#Latin "wikt:vasculum")|-|
+|**body**|_[soma-](https://en.wiktionary.org/wiki/%CF%83%E1%BF%B6%CE%BC%CE%B1#Ancient_Greek "wikt:σῶμα")_, somat-|[corpor-](https://en.wiktionary.org/wiki/corpus#Latin "wikt:corpus")|-|
+|**bone**|_[oste-](https://en.wiktionary.org/wiki/%E1%BD%80%CF%83%CF%84%CE%AD%CE%BF%CE%BD#Ancient_Greek "wikt:ὀστέον")_|[ossi-](https://en.wiktionary.org/wiki/os#Latin "wikt:os")|-|
+|**[bone marrow](https://en.wikipedia.org/wiki/Bone_marrow "Bone marrow")**, **marrow**|_[myel-](https://en.wiktionary.org/wiki/%CE%BC%CF%85%CE%B5%CE%BB%CF%8C%CF%82#Ancient_Greek "wikt:μυελός")_|[medull-](https://en.wiktionary.org/wiki/medulla#Latin "wikt:medulla")|-|
+|**brain**|encephal-|[cerebr-](https://en.wiktionary.org/wiki/cerebrum#Latin "wikt:cerebrum")|-|
+|**breast**|_[mast-](https://en.wiktionary.org/wiki/%CE%BC%CE%B1%CF%83%CF%84%CF%8C%CF%82#Ancient_Greek "wikt:μαστός")_|mamm-|-|
+|**chest**|_[steth-](https://en.wiktionary.org/wiki/%CF%83%CF%84%E1%BF%86%CE%B8%CE%BF%CF%82#Ancient_Greek "wikt:στῆθος")_|pector-|-|
+|**cheek**|parei-|bucc-|-|
+|**ear**|_[ot(o)-](https://en.wiktionary.org/wiki/%CE%BF%E1%BD%96%CF%82#Ancient_Greek "wikt:οὖς")_|aur(i)-|-|
+|**eggs**, **ova**|oo-|ov-|-|
 |**[eye](https://en.wikipedia.org/wiki/Eye "Eye")**|ophthalm(o)-|ocul(o)-|optic(o)- (_French_)|
-|**eyelid**|blephar(o)-|cili-, palpebr-|–|
-|**face**|prosop(o)-|faci(o)-|–|
-|**fallopian tubes**|salping(o)-|–|–|
-|**fat**, **fatty tissue**|lip(o)-|adip-|–|
-|**[finger](https://en.wikipedia.org/wiki/Finger "Finger")**|dactyl(o)-|digit-|–|
-|**forehead**|–|front(o)-|–|
-|**gallbladder**|cholecyst(o)-|fell-|–|
-|**genitals**, sexually undifferentiated|gon(o)-, phall(o)-|–|–|
-|**gland**|aden(o)-|–|–|
-|**glans** _penis_ or _clitoridis_|balan(o)-|–|–|
-|**gums**|–|gingiv-|–|
-|**hair**|trich(o)-|capill-|–|
-|**hands**|cheir(o)-, chir(o)-|manu-|–|
-|**head**|cephal(o)-|capit(o)-|–|
-|**heart**|cardi(o)-|cordi-|–|
-|**hip**, **hip-joint**|–|cox-|–|
-|**horn**|cerat(o)-|cornu-|–|
-|**intestine**|enter(o)-|–|–|
-|**jaw**|gnath(o)-|–|–|
-|**kidney**|nephr(o)-|ren-|–|
-|**knee**|gon-|genu-|–|
-|**lip**|cheil(o)-, chil(o)-|labi(o)-|–|
-|**liver**|hepat(o)-|jecor-|–|
-|**loins**, **pubic region**|episi(o)-|pudend-|–|
-|**lungs**|pneumon-|pulmon(i)-, (pulmo-)|–|
-|**marrow**, **bone marrow**|myel(o)-|medull-|–|
-|**mind**|psych-|ment-|–|
-|**mouth**|stomat(o)-|or-|–|
-|**muscle**|my(o)-|–|–|
-|**nail**|onych(o)-|ungui-|–|
-|**navel**|omphal(o)-|umbilic-|–|
-|**neck**|trachel(o)-|cervic-|–|
-|**nerve; the nervous system**|neur(o)-|nerv-|–|
-|**nipple**, **teat**|thele-|papill-, mammill-|–|
-|**nose**|rhin(o)-|nas-|–|
-|**ovary**|oophor(o)-|ovari(o)-|–|
-|**pelvis**|pyel(o)-|pelv(i)-|–|
-|**penis**|pe(o)-|–|–|
-|**pupil (of the eye)**|cor-, core-, coro-|–|–|
-|**rib**|pleur(o)-|cost(o)-|–|
-|**rib cage**|thorac(i)-, thorac(o)-|–|–|
-|**shoulder**|om(o)-|humer(o)-|–|
-|**sinus**|–|sinus-|–|
-|**skin**|derm-, dermat(o)-|cut-, cuticul-|–|
-|**skull**|crani(o)-|–|–|
-|**stomach**|gastr(o)-|ventr(o)-|–|
-|**testis**|orchi(o)-, orchid(o)-|–|–|
-|**throat** (upper throat cavity)|pharyng(o)-|–|–|
-|**throat** (lower throat cavity/voice box)|laryng(o)-|–|–|
-|**thumb**|–|pollic-|–|
-|**tooth**|odont(o)-|dent(i)-|–|
-|**tongue**|gloss-, glott-|lingu(a)-|–|
-|**toe**|dactyl(o)-|digit-|–|
-|**tumour**|cel-, onc(o)-|tum-|–|
-|**ureter**|ureter(o)-|ureter(o)-|–|
-|**urethra**|urethr(o)-, urethr(a)-|urethr(o)-, urethr(a)-|–|
-|**urine**, **urinary system**|ur(o)-|urin(o)-|–|
-|**uterine tubes**|salping(o)-|salping(o)-|–|
-|**uterus**|hyster(o)-, metr(o)-|uter(o)-|–|
-|**vagina**|colp(o)-|vagin-|–|
-|**vein**|phleb(o)-|ven-|–|
-|**vulva**|episi(o)-|vulv-|–|
-|**womb**|hyster(o)-, metr(o)-|uter(o)-|–|
-|**wrist**|carp(o)-|carp(o)-|–|
+|**eyelid**|blephar(o)-|cili-, palpebr-|-|
+|**face**|prosop(o)-|faci(o)-|-|
+|**fallopian tubes**|salping(o)-|-|-|
+|**fat**, **fatty tissue**|lip(o)-|adip-|-|
+|**[finger](https://en.wikipedia.org/wiki/Finger "Finger")**|dactyl(o)-|digit-|-|
+|**forehead**|-|front(o)-|-|
+|**gallbladder**|cholecyst(o)-|fell-|-|
+|**genitals**, sexually undifferentiated|gon(o)-, phall(o)-|-|-|
+|**gland**|aden(o)-|-|-|
+|**glans** _penis_ or _clitoridis_|balan(o)-|-|-|
+|**gums**|-|gingiv-|-|
+|**hair**|trich(o)-|capill-|-|
+|**hands**|cheir(o)-, chir(o)-|manu-|-|
+|**head**|cephal(o)-|capit(o)-|-|
+|**heart**|cardi(o)-|cordi-|-|
+|**hip**, **hip-joint**|-|cox-|-|
+|**horn**|cerat(o)-|cornu-|-|
+|**intestine**|enter(o)-|-|-|
+|**jaw**|gnath(o)-|-|-|
+|**kidney**|nephr(o)-|ren-|-|
+|**knee**|gon-|genu-|-|
+|**lip**|cheil(o)-, chil(o)-|labi(o)-|-|
+|**liver**|hepat(o)-|jecor-|-|
+|**loins**, **pubic region**|episi(o)-|pudend-|-|
+|**lungs**|pneumon-|pulmon(i)-, (pulmo-)|-|
+|**marrow**, **bone marrow**|myel(o)-|medull-|-|
+|**mind**|psych-|ment-|-|
+|**mouth**|stomat(o)-|or-|-|
+|**muscle**|my(o)-|-|-|
+|**nail**|onych(o)-|ungui-|-|
+|**navel**|omphal(o)-|umbilic-|-|
+|**neck**|trachel(o)-|cervic-|-|
+|**nerve; the nervous system**|neur(o)-|nerv-|-|
+|**nipple**, **teat**|thele-|papill-, mammill-|-|
+|**nose**|rhin(o)-|nas-|-|
+|**ovary**|oophor(o)-|ovari(o)-|-|
+|**pelvis**|pyel(o)-|pelv(i)-|-|
+|**penis**|pe(o)-|-|-|
+|**pupil (of the eye)**|cor-, core-, coro-|-|-|
+|**rib**|pleur(o)-|cost(o)-|-|
+|**rib cage**|thorac(i)-, thorac(o)-|-|-|
+|**shoulder**|om(o)-|humer(o)-|-|
+|**sinus**|-|sinus-|-|
+|**skin**|derm-, dermat(o)-|cut-, cuticul-|-|
+|**skull**|crani(o)-|-|-|
+|**stomach**|gastr(o)-|ventr(o)-|-|
+|**testis**|orchi(o)-, orchid(o)-|-|-|
+|**throat** (upper throat cavity)|pharyng(o)-|-|-|
+|**throat** (lower throat cavity/voice box)|laryng(o)-|-|-|
+|**thumb**|-|pollic-|-|
+|**tooth**|odont(o)-|dent(i)-|-|
+|**tongue**|gloss-, glott-|lingu(a)-|-|
+|**toe**|dactyl(o)-|digit-|-|
+|**tumour**|cel-, onc(o)-|tum-|-|
+|**ureter**|ureter(o)-|ureter(o)-|-|
+|**urethra**|urethr(o)-, urethr(a)-|urethr(o)-, urethr(a)-|-|
+|**urine**, **urinary system**|ur(o)-|urin(o)-|-|
+|**uterine tubes**|salping(o)-|salping(o)-|-|
+|**uterus**|hyster(o)-, metr(o)-|uter(o)-|-|
+|**vagina**|colp(o)-|vagin-|-|
+|**vein**|phleb(o)-|ven-|-|
+|**vulva**|episi(o)-|vulv-|-|
+|**womb**|hyster(o)-, metr(o)-|uter(o)-|-|
+|**wrist**|carp(o)-|carp(o)-|-|
 
 ### Roots of color
 
 |Color|Greek root in English|Latin root in English|Other root in English|
 |---|---|---|---|
-|**[black](https://en.wikipedia.org/wiki/Black "Black")**|_[melan-](https://en.wiktionary.org/wiki/%CE%BC%CE%AD%CE%BB%CE%B1%CF%82#Ancient_Greek "wikt:μέλας")_|atr-, nigr-|–|
-|**[blue](https://en.wikipedia.org/wiki/Blue "Blue")**|_[cyan-](https://en.wiktionary.org/wiki/%CE%BA%CF%85%CE%B1%CE%BD%CF%8C%CF%82#Ancient_Greek "wikt:κυανός")_|cerule-|–|
-|**[gold](https://en.wikipedia.org/wiki/Gold_\(color\) "Gold (color)")**|_[chrys-](https://en.wiktionary.org/wiki/%CF%87%CF%81%CF%85%CF%83%CF%8C%CF%82#Ancient_Greek "wikt:χρυσός")_|[aur-](https://en.wiktionary.org/wiki/aurum#Latin "wikt:aurum")|–|
-|**[gray](https://en.wikipedia.org/wiki/Gray "Gray")**, **[grey](https://en.wikipedia.org/wiki/Grey "Grey")**|_[poli-](https://en.wiktionary.org/wiki/%CF%80%CE%BF%CE%BB%CE%B9%CF%8C%CF%82#Ancient_Greek "wikt:πολιός")_|can-|–|
-|**[green](https://en.wikipedia.org/wiki/Green "Green")**|_[chlor-](https://en.wiktionary.org/wiki/%CF%87%CE%BB%CF%89%CF%81%CF%8C%CF%82#Ancient_Greek "wikt:χλωρός")_|vir-|–|
-|**purple**|porphyr-|purpur-, purpureo-|–|
-|**[red](https://en.wikipedia.org/wiki/Red "Red")**|_[erythr-](https://en.wiktionary.org/wiki/%E1%BC%90%CF%81%CF%85%CE%B8%CF%81%CF%8C%CF%82#Ancient_Greek "wikt:ἐρυθρός")_, rhod-|rub-, [rubr-](https://en.wiktionary.org/wiki/ruber#Latin "wikt:ruber"), [ruf-](https://en.wiktionary.org/wiki/rufus#Latin "wikt:rufus")|–|
-|**red-orange**|cirrh-|–|–|
-|**[silver](https://en.wikipedia.org/wiki/Silver_\(color\) "Silver (color)")**|–|[argent-](https://en.wiktionary.org/wiki/argentum#Latin "wikt:argentum")|–|
-|**[white](https://en.wikipedia.org/wiki/White "White")**|leuc-, leuk-|alb-, cand-|–|
+|**[black](https://en.wikipedia.org/wiki/Black "Black")**|_[melan-](https://en.wiktionary.org/wiki/%CE%BC%CE%AD%CE%BB%CE%B1%CF%82#Ancient_Greek "wikt:μέλας")_|atr-, nigr-|-|
+|**[blue](https://en.wikipedia.org/wiki/Blue "Blue")**|_[cyan-](https://en.wiktionary.org/wiki/%CE%BA%CF%85%CE%B1%CE%BD%CF%8C%CF%82#Ancient_Greek "wikt:κυανός")_|cerule-|-|
+|**[gold](https://en.wikipedia.org/wiki/Gold_\(color\) "Gold (color)")**|_[chrys-](https://en.wiktionary.org/wiki/%CF%87%CF%81%CF%85%CF%83%CF%8C%CF%82#Ancient_Greek "wikt:χρυσός")_|[aur-](https://en.wiktionary.org/wiki/aurum#Latin "wikt:aurum")|-|
+|**[gray](https://en.wikipedia.org/wiki/Gray "Gray")**, **[grey](https://en.wikipedia.org/wiki/Grey "Grey")**|_[poli-](https://en.wiktionary.org/wiki/%CF%80%CE%BF%CE%BB%CE%B9%CF%8C%CF%82#Ancient_Greek "wikt:πολιός")_|can-|-|
+|**[green](https://en.wikipedia.org/wiki/Green "Green")**|_[chlor-](https://en.wiktionary.org/wiki/%CF%87%CE%BB%CF%89%CF%81%CF%8C%CF%82#Ancient_Greek "wikt:χλωρός")_|vir-|-|
+|**purple**|porphyr-|purpur-, purpureo-|-|
+|**[red](https://en.wikipedia.org/wiki/Red "Red")**|_[erythr-](https://en.wiktionary.org/wiki/%E1%BC%90%CF%81%CF%85%CE%B8%CF%81%CF%8C%CF%82#Ancient_Greek "wikt:ἐρυθρός")_, rhod-|rub-, [rubr-](https://en.wiktionary.org/wiki/ruber#Latin "wikt:ruber"), [ruf-](https://en.wiktionary.org/wiki/rufus#Latin "wikt:rufus")|-|
+|**red-orange**|cirrh-|-|-|
+|**[silver](https://en.wikipedia.org/wiki/Silver_\(color\) "Silver (color)")**|-|[argent-](https://en.wiktionary.org/wiki/argentum#Latin "wikt:argentum")|-|
+|**[white](https://en.wikipedia.org/wiki/White "White")**|leuc-, leuk-|alb-, cand-|-|
 |**[yellow](https://en.wikipedia.org/wiki/Yellow "Yellow")**|_[xanth-](https://en.wiktionary.org/wiki/%CE%BE%CE%B1%CE%BD%CE%B8%CF%8C%CF%82#Ancient_Greek "wikt:ξανθός")_|[flav-](https://en.wiktionary.org/wiki/flavus#Latin "wikt:flavus")|[jaun-](https://en.wiktionary.org/wiki/jaune#French "wikt:jaune") ([French](https://en.wikipedia.org/wiki/French_language "French language"))|
 
 ### Roots of description
@@ -755,59 +755,59 @@ This section contains lists of different root classification (e.g. body componen
 |Description|Greek root in English|Latin root in English|Other root in English|
 |---|---|---|---|
 |**bad**, **incorrect**|cac-, dys-|mal-|mis-|
-|**bent**, **crooked**|ankyl-|prav-|–|
-|**big**|mega-, megal(o)-|magn(i)-|–|
-|**biggest**|megist-|maxim-|–|
-|**broad**, **wide**|eury-|lat(i)-|–|
-|**cold**|cry(o)-|frig(i)-|–|
-|**dead**|necr(o)-|mort-|–|
-|**equal**|is(o)-|equ(i)-|–|
-|**false**|pseud(o)-|fals(i)-|–|
-|**fast**|tachy-|celer-|–|
-|**female**, **feminine**|thely-|–|–|
-|**flat**|platy-|plan(i)-|–|
-|**good**, **well**|eu-|ben(e)-, bon(i)-|–|
-|**great**|mega-, megal(o)-|magn(i)-|–|
-|**hard**|scler(o)-|dur(i)-|–|
-|**heavy**|bar(o)-|grav(i)-|–|
-|**hollow**|coel(o)-|cav(i)-|–|
-|**huge**|megal(o)-|magn(i)-|–|
-|**irregular**|poikil(o)|–|–|
-|**large; extremely large**|mega-|magn(i)-|–|
-|**largest**|megist-|maxim-|–|
-|**long**|macr(o)-|long(i)-|–|
-|**male**, **masculine**|arseno-|vir-|–|
-|**narrow**|sten(o)-|angust(i)-|–|
-|**new**|ne(o)-|nov(i)-|–|
-|**normal**, **correct**|orth(o)-|rect(i)-|–|
-|**old**|paleo-|veter-|–|
-|**sharp**|oxy-|ac-|–|
-|**short**|brachy-|brev(i)-|–|
-|**small**|micr(o)-|parv(i)- (rare)|–|
-|**smallest**|–|minim-|–|
-|**slow**|brady-|tard(i)-|–|
-|**soft**|malac(o)-|moll(i)-|–|
-|**straight**|orth(o)-|rect(i)-|–|
-|**thick**|pachy-|crass(i)-|–|
-|**varied**, **various**|poikilo-|vari-|–|
+|**bent**, **crooked**|ankyl-|prav-|-|
+|**big**|mega-, megal(o)-|magn(i)-|-|
+|**biggest**|megist-|maxim-|-|
+|**broad**, **wide**|eury-|lat(i)-|-|
+|**cold**|cry(o)-|frig(i)-|-|
+|**dead**|necr(o)-|mort-|-|
+|**equal**|is(o)-|equ(i)-|-|
+|**false**|pseud(o)-|fals(i)-|-|
+|**fast**|tachy-|celer-|-|
+|**female**, **feminine**|thely-|-|-|
+|**flat**|platy-|plan(i)-|-|
+|**good**, **well**|eu-|ben(e)-, bon(i)-|-|
+|**great**|mega-, megal(o)-|magn(i)-|-|
+|**hard**|scler(o)-|dur(i)-|-|
+|**heavy**|bar(o)-|grav(i)-|-|
+|**hollow**|coel(o)-|cav(i)-|-|
+|**huge**|megal(o)-|magn(i)-|-|
+|**irregular**|poikil(o)|-|-|
+|**large; extremely large**|mega-|magn(i)-|-|
+|**largest**|megist-|maxim-|-|
+|**long**|macr(o)-|long(i)-|-|
+|**male**, **masculine**|arseno-|vir-|-|
+|**narrow**|sten(o)-|angust(i)-|-|
+|**new**|ne(o)-|nov(i)-|-|
+|**normal**, **correct**|orth(o)-|rect(i)-|-|
+|**old**|paleo-|veter-|-|
+|**sharp**|oxy-|ac-|-|
+|**short**|brachy-|brev(i)-|-|
+|**small**|micr(o)-|parv(i)- (rare)|-|
+|**smallest**|-|minim-|-|
+|**slow**|brady-|tard(i)-|-|
+|**soft**|malac(o)-|moll(i)-|-|
+|**straight**|orth(o)-|rect(i)-|-|
+|**thick**|pachy-|crass(i)-|-|
+|**varied**, **various**|poikilo-|vari-|-|
 
 ### Roots of position
 
 |Description|Greek root in English|Latin root in English|Other root in English|
 |---|---|---|---|
-|**around**, **surrounding**|[peri-](https://en.wiktionary.org/wiki/peri- "wikt:peri-")|[circum-](https://en.wiktionary.org/wiki/circum- "wikt:circum-")|–|
-|**internal**, **within**|[endo-](https://en.wiktionary.org/wiki/endo- "wikt:endo-")|[intra-](https://en.wiktionary.org/wiki/intra- "wikt:intra-")|–|
-|**left**|[levo-](https://en.wiktionary.org/wiki/levo- "wikt:levo-")|laev-, sinistr-|–|
-|**middle**|[meso-, mes-](https://en.wiktionary.org/wiki/meso- "wikt:meso-")|medi-|–|
-|**right**|dexi-|[dex-, dextr-, dextro-](https://en.wiktionary.org/wiki/dextro- "wikt:dextro-")|–|
+|**around**, **surrounding**|[peri-](https://en.wiktionary.org/wiki/peri- "wikt:peri-")|[circum-](https://en.wiktionary.org/wiki/circum- "wikt:circum-")|-|
+|**internal**, **within**|[endo-](https://en.wiktionary.org/wiki/endo- "wikt:endo-")|[intra-](https://en.wiktionary.org/wiki/intra- "wikt:intra-")|-|
+|**left**|[levo-](https://en.wiktionary.org/wiki/levo- "wikt:levo-")|laev-, sinistr-|-|
+|**middle**|[meso-, mes-](https://en.wiktionary.org/wiki/meso- "wikt:meso-")|medi-|-|
+|**right**|dexi-|[dex-, dextr-, dextro-](https://en.wiktionary.org/wiki/dextro- "wikt:dextro-")|-|
 
 ### Prefixes of quantity or amount
 
 |Description|Greek root in English|Latin root in English|Other root in English|
 |---|---|---|---|
-|**double**|diplo-|dupli-|–|
-|**equal**|iso-|equi-|–|
-|**few**|oligo-|pauci-|–|
+|**double**|diplo-|dupli-|-|
+|**equal**|iso-|equi-|-|
+|**few**|oligo-|pauci-|-|
 |**half**|hemi-|semi-|demi- (French)|
-|**many**, **much**|poly-|multi-|–|
-|**twice**|dis-|bis-|–|
+|**many**, **much**|poly-|multi-|-|
+|**twice**|dis-|bis-|-|

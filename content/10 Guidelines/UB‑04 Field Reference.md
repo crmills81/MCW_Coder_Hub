@@ -14,9 +14,9 @@ Quick reference for key UB‑04 fields used in facility billing.
 | **FL 13** | Admission hour |
 | **FL 14** | Admission type |
 | **FL 15** | Admission source |
-| **FL 42–49** | Revenue codes |
+| **FL 42-49** | Revenue codes |
 | **FL 44** | HCPCS/Rates |
-| **FL 66–69** | Diagnosis codes |
+| **FL 66-69** | Diagnosis codes |
 | **FL 74** | Principal procedure |
 | **FL 76** | Attending provider |
 

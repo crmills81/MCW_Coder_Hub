@@ -24,11 +24,11 @@ _____
 >- **[[mandibulo-]] / [[mandibulo-]]**: of or relating to the mandible (lower jaw).
 >- **Related medical terms**
 >- Terms built on the same roots
->- [[submandibular]] gland – salivary gland beneath the [[mandible]]. [ncbi.nlm.nih+1](https://www.ncbi.nlm.nih.gov/books/NBK542272/) [[-ectomy]]
->- [[Submandibular]] duct (Wharton's duct) – excretory duct opening into the mouth floor.[kenhub+1](https://www.kenhub.com/en/library/anatomy/the-submandibular-gland) [[-ectomy]]
->- [[Submandibular]] triangle – anatomical triangle containing the gland. [[-ectomy]] [kenhub](https://www.kenhub.com/en/library/anatomy/the-submandibular-gland)​
->- [[Submandibular]] ganglion – parasympathetic relay for gland secretion.[ncbi.nlm.nih](https://www.ncbi.nlm.nih.gov/books/NBK542272/) [[​-ectomy]]
->- [[submandibular]] fossa – depression on medial mandible for the gland
+>- [[submandibular]] gland - salivary gland beneath the [[mandible]]. [ncbi.nlm.nih+1](https://www.ncbi.nlm.nih.gov/books/NBK542272/) [[-ectomy]]
+>- [[Submandibular]] duct (Wharton's duct) - excretory duct opening into the mouth floor.[kenhub+1](https://www.kenhub.com/en/library/anatomy/the-submandibular-gland) [[-ectomy]]
+>- [[Submandibular]] triangle - anatomical triangle containing the gland. [[-ectomy]] [kenhub](https://www.kenhub.com/en/library/anatomy/the-submandibular-gland)​
+>- [[Submandibular]] ganglion - parasympathetic relay for gland secretion.[ncbi.nlm.nih](https://www.ncbi.nlm.nih.gov/books/NBK542272/) [[​-ectomy]]
+>- [[submandibular]] fossa - depression on medial mandible for the gland
 _____
 >[!tip]+ DERIVATIONS of [[submandibular]]
 >```dataview

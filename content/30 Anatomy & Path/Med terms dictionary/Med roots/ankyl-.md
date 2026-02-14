@@ -35,8 +35,8 @@ The combining form **[[ankyl-]]** refers to stiffness, immobility, or abnormal f
 | [[spondyl-]] | vertebra |
 
 ## Common Medical Terms
-- **[[Ankylosis]]** – abnormal joint stiffness  
-- **Ankylosing spondylitis** – inflammatory spinal fusion disorder  
+- **[[Ankylosis]]** - abnormal joint stiffness  
+- **Ankylosing spondylitis** - inflammatory spinal fusion disorder  
 
 ## Documentation Clues
 - “Limited ROM”

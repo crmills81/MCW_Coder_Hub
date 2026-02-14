@@ -35,9 +35,9 @@ The combining form **[[ambul-]]** refers to walking, movement, or mobility. It a
 | mobility | ability to move |
 
 ## Common Medical Terms
-- **[[Ambulatory]]** – able to walk  
-- **[[Ambulation]]** – the act of walking  
-- **Ambulatory care** – outpatient care  
+- **[[Ambulatory]]** - able to walk  
+- **[[Ambulation]]** - the act of walking  
+- **Ambulatory care** - outpatient care  
 
 ## Documentation Clues
 - “Ambulates with assistance”

@@ -35,9 +35,9 @@ The combining forms **[[alges-]]** and **[[-algia]]** refer to pain, painful con
 | [[hyperalgesia]] | increased sensitivity to pain |
 
 ## Common Medical Terms
-- **[[Neuralgia]]** – nerve pain  
-- **[[Myalgia]]** – muscle pain  
-- **[[Analgesic]]** – pain-relieving medication  
+- **[[Neuralgia]]** - nerve pain  
+- **[[Myalgia]]** - muscle pain  
+- **[[Analgesic]]** - pain-relieving medication  
 
 ## Documentation Clues
 - “Pain reported”

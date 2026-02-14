@@ -79,7 +79,7 @@ _____
 - **Filtration:** Kidney [[glomeruli]].  
 - **Sensory:** Taste buds, olfactory epithelium.[6][4][1]
 
-**No specific ICD/CPT codes for "epithelial" alone** – pathology context (e.g., [[D13.7]] epithelial [[neoplasm]] benign; [[C34.9]] lung [[carcinoma]] w/epithelial histology).[1]
+**No specific ICD/CPT codes for "epithelial" alone** - pathology context (e.g., [[D13.7]] epithelial [[neoplasm]] benign; [[C34.9]] lung [[carcinoma]] w/epithelial histology).[1]
 
 **One-Sentence Summary**  
 **Epithelial** tissue, Greek *[[epi-]]thēlē* (“upon covering”), forms avascular sheets (simple squamous alveoli to stratified skin) for protection/secretion/absorption across ecto/meso/endoderm origins, prone to carcinomas like adenocarcinoma.[5][6][2][4][1]

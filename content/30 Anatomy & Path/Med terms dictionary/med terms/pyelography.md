@@ -55,14 +55,14 @@ _____
 | **Retrograde**       | Cystoscopic ureteral catheter injection (no renal function).[7][8] | **[[52351]]** (w/[[ureteroscopy]]), **[[52005]]** (diagnostic). |
 | **Antegrade**        | [[Percutaneous]] [[nephrostomy]] contrast injection.[5] | **[[50392]]** ([[nephrostogram]]), **[[50434]]** ([[fluoroscopy]]). |
 
-**ICD-10-PCS:** **BT1D0ZZ** – Fluoroscopy urinary system.[9]
+**ICD-10-PCS:** **BT1D0ZZ** - Fluoroscopy urinary system.[9]
 
 ## Procedure Details
 
 **IVP Protocol:**[1][2][4]
 1. Scout KUB (pre-contrast).  
-2. IV iodinated contrast (1–2 mL/kg).  
-3. [[Nephrogram]] (1–5 min), [[pyelogram]] (5–15 min), [[ureter]]/bladder views.  
+2. IV iodinated contrast (1-2 mL/kg).  
+3. [[Nephrogram]] (1-5 min), [[pyelogram]] (5-15 min), [[ureter]]/bladder views.  
 4. Compression/release films; post-void.  
 
 **Indications:** [[Hematuria]], flank pain, stones ([[N20.0]]), obstruction ([[N13.8]]), congenital anomalies.[3]
