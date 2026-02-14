@@ -10,7 +10,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
       "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
+      "HappyCOVERGIRLCo": "https://happycovergirlcocovers.com",
+/    },
   }),
 }
 
@@ -19,7 +20,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
+      condition: (page) => page.fileData.slug !== "Home",
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),

@@ -9,11 +9,11 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Crystal's MCW Coder Hub",
-    pageTitleSuffix: "",
+    pageTitleSuffix: "Yay, coding!",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: 'google', tagId: '<G-ERKZQHRW7W>',
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
@@ -23,21 +23,21 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Google Sans",
+        body: "Google Sans",
+        code: "Google Sans",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
+          light: "#faedfa",
+          lightgray: "#eee1f5",
           gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
+          darkgray: "#260226",
           dark: "#2b2b2b",
           secondary: "#284b63",
           tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          highlight: "rgba(50, 0, 51, 0.15)",
+          textHighlight: "#b3aa0288",
         },
         darkMode: {
           light: "#161618",
