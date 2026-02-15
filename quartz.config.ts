@@ -23,21 +23,21 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Google Sans",
-        body: "Google Sans",
-        code: "Google Sans",
+        header: "Schibsted Grotesk",
+        body: "Source Sans Pro",
+        code: "Cascadia Code",
       },
       colors: {
         lightMode: {
-          light: "#faedfa",
-          lightgray: "#eee1f5",
+          light: "#faf8f8",
+          lightgray: "#e5e5e5",
           gray: "#b8b8b8",
-          darkgray: "#260226",
+          darkgray: "#4e4e4e",
           dark: "#2b2b2b",
           secondary: "#284b63",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          textHighlight: "#fff23688",
         },
         darkMode: {
           light: "#161618",
@@ -66,7 +66,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
@@ -89,7 +89,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      //Plugin.CustomOgImages(),
+      Plugin.CustomOgImages(),
     ],
   },
 }
