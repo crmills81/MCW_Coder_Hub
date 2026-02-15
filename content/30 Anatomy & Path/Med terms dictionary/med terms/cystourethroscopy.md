@@ -79,7 +79,7 @@ _____
 2. **Insertion:** Urethra lubed/numbed; scope advanced (flexible office-based, rigid OR).
 3. **Bladder fill:** Saline irrigation expands wall for 360° view.
 4. **Duration:** 5-20 min office; longer if therapeutic.
-5. **Post:** [[Dysuria]]/[[hematuria]] 1-2 days; rare fever/infection.[5][2][1]
+5. **Post:** [[dysuria]]/[[hematuria]] 1-2 days; rare fever/infection.[5][2][1]
 
 ## Related Terms
 

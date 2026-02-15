@@ -70,16 +70,16 @@ last_updated: 2026-02-10
 **Most common infectious sources:**
 
 **Bacterial (most common):**
-- **[[Pneumonia]]** (lung infection) - most common source
-- **[[Urinary tract infections (UTI)]]** - especially [[pyelonephritis]]
+- **[[pneumonia]]** (lung infection) - most common source
+- **[[urinary tract infection (UTI)]]** - especially [[pyelonephritis]]
 - **Intra-abdominal infections** - appendicitis, diverticulitis, peritonitis
 - **Skin/soft tissue infections** - [[cellulitis]], abscesses, wounds
 - **Bloodstream infections** - central line infections, [[bacteremia]]
-- **[[Meningitis]]** - CNS infections
+- **[[meningitis]]** - CNS infections
 
 **Other pathogens:**
 - **Viral** - influenza, [[COVID-19]], herpes viruses
-- **Fungal** - [[Candida]], Aspergillus (especially in immunocompromised)
+- **Fungal** - [[candida]], Aspergillus (especially in immunocompromised)
 - **Parasitic** - malaria (in endemic areas)
 
 **Common causative organisms:**
@@ -105,8 +105,8 @@ last_updated: 2026-02-10
 
 - **Chronic medical conditions:**
   - Diabetes
-  - [[Chronic kidney disease]]
-  - [[Chronic liver disease]]
+  - [[chronic kidney disease]]
+  - [[chronic liver disease]]
   - Heart failure
   - COPD/lung disease
 
