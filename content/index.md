@@ -1,5 +1,6 @@
 ---
-title: Welcome
+title: Yay, MEDICAL CODING!!!
+description: Welcome to my work in progress! Lol
 ---
 # 🧭 Coding Dashboard
 
@@ -9,6 +10,7 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 ---
 
 # 📚 Medical Coding References
+
 ### High‑Yield References
 - [[MDM Tables]]
 - [[PCS Root Operation Grid]]
@@ -31,7 +33,7 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 
 ### Coding Practice
 - [[Coding Scenarios]]
-- [[Practice Case 1 – {{Urology}}]]
+- [[Practice Case 1 - {{Urology}}]]
 - [[Facility E&M Quick Guide]]
 - [[PCS Practice Grid]]
 
@@ -58,28 +60,6 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 - Query compliance  
 
 ---
-
-# 🗂 Active Work
-
-### Current Focus
-- 
-- 
-- 
-
-### Notes in Progress
-- 
-- 
-
----
-
-# 🧠 Insights & Patterns
-- Coding pitfalls I keep seeing:
-- Audit patterns:
-- PCS traps:
-- DRG patterns:
-
----
-
 # 🔗 Cross‑Links
 - [[Coding Career OS Canvas]]
 - [[CIC Study Notes]]

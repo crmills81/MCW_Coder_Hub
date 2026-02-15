@@ -31,7 +31,7 @@
 
 ---
 
-## SHORT DEFINITION
+## 📋SHORT DEFINITION
 
 **CPT [[21315]]** describes a **LeFort I maxillary [[osteotomy]]**, a surgical procedure in which the [[maxilla]] (upper jaw) is surgically fractured and repositioned to correct severe [[malocclusion]], facial asymmetry, or other [[maxillofacial]] deformities. The procedure can be performed as a single-piece movement or with additional segments or combinations as needed.
 

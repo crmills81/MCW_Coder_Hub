@@ -13,7 +13,7 @@ As a facility biller, you are the translator between **clinical reality** and **
 
 This role requires precision, curiosity, and a willingness to understand both the **clinical** and **administrative** sides of healthcare.
 
-Before we can bill anything, we must understand **where** the surgery occurred — because the location determines the rules, the payment system, and the documentation requirements.
+Before we can bill anything, we must understand **where** the surgery occurred -- because the location determines the rules, the payment system, and the documentation requirements.
 
 ---
 
@@ -50,16 +50,16 @@ Every code you assign begins with a clinical term. If you can break down the wor
 
 #### **Word Parts You Must Master**
 
-- **Prefix** – modifies meaning
+- **Prefix** - modifies meaning
     
     - _[[hyper-]]_ (excessive), _[[sub-]]_ (below), _[[peri-]]_ (around)
-- **Root** – the body part
+- **Root** - the body part
     
     - _[[neur-]]_ (nerve), _[[gastr-]]_ (stomach), _[[arthr-]]_ (joint)
-- **Suffix** – the action or condition
+- **Suffix** - the action or condition
     
     - _[[-ectomy]]_ (removal), _[[-plasty]]_ (repair), _[[-scopy]]_ (visual exam)
-- **Combining Vowel** – usually “o,” used for flow
+- **Combining Vowel** - usually “o,” used for flow
     
     - [[neur/o/plasty]]
     - [[arthr/o/scopy]]
@@ -72,10 +72,10 @@ Every code you assign begins with a clinical term. If you can break down the wor
 
 #### **More Surgical Examples**
 
-- **[[Arthroscopy]]** – visual examination of a joint
-- **[[Cholecystectomy]]** – removal of the gallbladder
-- **[[Laminectomy]]** – removal of part of the vertebral arch
-- **[[Tenorrhaphy]]** – suturing of a tendon
+- **[[Arthroscopy]]** - visual examination of a joint
+- **[[Cholecystectomy]]** - removal of the gallbladder
+- **[[Laminectomy]]** - removal of part of the vertebral arch
+- **[[Tenorrhaphy]]** - suturing of a tendon
 
 #### **Critical Spelling Alert**
 
@@ -98,8 +98,8 @@ These describe **what was done** — the surgical service.
 
 Examples:
 
-- 29881 – Knee arthroscopy with meniscectomy
-- 66984 – Cataract extraction with IOL insertion
+- [[29881]] - Knee arthroscopy with meniscectomy
+- [[66984]] - Cataract extraction with IOL insertion
 
 #### **ICD‑10‑CM Codes (Diagnosis)**
 
@@ -107,8 +107,8 @@ These describe **why the service was necessary**.
 
 Examples:
 
-- M17.11 – Unilateral primary osteoarthritis, right knee
-- H25.13 – Age-related nuclear cataract, bilateral
+- [[M17.11]] - Unilateral primary osteoarthritis, right knee
+- [[H25.13]] - Age-related nuclear cataract, bilateral
 
 #### **ICD‑10 Requires Specificity**
 
@@ -133,11 +133,11 @@ Modifiers add nuance to CPT codes. They tell the payer:
 
 Common facility modifiers:
 
-- **SG** – ASC facility service
-- **50** – Bilateral procedure
-- **51** – Multiple procedures
-- **73** – Discontinued before anesthesia
-- **74** – Discontinued after anesthesia
+- **[[-SG]]** - ASC facility service
+- **[[-50]]** - Bilateral procedure
+- **[[-51]]** - Multiple procedures
+- **[[-73]]** - Discontinued before anesthesia
+- **[[-74]]** - Discontinued after anesthesia
 
 Modifiers can increase, decrease, or completely change reimbursement.
 
@@ -218,6 +218,4 @@ Facility billing is a blend of clinical understanding, regulatory knowledge, and
 You are not just “billing.”  
 You are safeguarding compliance, supporting patient access, and keeping the surgical world running smoothly.
 
----
 
-If you want, I can expand this into a **full multi‑chapter handbook**, add **case studies**, or build **interactive Obsidian templates** that link each section to your coding tools.

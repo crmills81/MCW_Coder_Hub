@@ -46,7 +46,7 @@ A04.8	Other specified bacterial intestinal infections
 A04.9	"Bacterial intestinal infection, unspecified"
 A05.0	Foodborne staphylococcal intoxication
 A05.1	Botulism food poisoning
-A05.2	Foodborne Clostridium perfringens \[Clostridium welchii] intoxication
+A05.2	Foodborne Clostridium perfringens  [Clostridium welchii] intoxication
 A05.3	Foodborne Vibrio parahaemolyticus intoxication
 A05.4	Foodborne Bacillus cereus intoxication
 A05.5	Foodborne Vibrio vulnificus intoxication
@@ -65,7 +65,7 @@ A06.82	Other amebic genitourinary infections
 A06.89	Other amebic infections
 A06.9	"Amebiasis, unspecified"
 A07.0	Balantidiasis
-A07.1	Giardiasis \[lambliasis]
+A07.1	Giardiasis  [lambliasis]
 A07.2	Cryptosporidiosis
 A07.3	Isosporiasis
 A07.4	Cyclosporiasis
@@ -254,7 +254,7 @@ A40.9	"Streptococcal sepsis, unspecified"
 [[A41.3]]	Sepsis due to Hemophilus influenzae
 [[A41.4]]	Sepsis due to anaerobes
 [[A41.50]]	"Gram-negative sepsis, unspecified"
-[[A41.51]]	Sepsis due to Escherichia coli \[E. coli]
+[[A41.51]]	Sepsis due to Escherichia coli  [E. coli]
 [[A41.52]]	Sepsis due to Pseudomonas
 [[A41.53]]	Sepsis due to Serratia
 [[A41.54]]	Sepsis due to Acinetobacter baumannii
@@ -281,7 +281,7 @@ A44.9	"Bartonellosis, unspecified"
 A46.	Erysipelas
 A48.0	Gas gangrene
 A48.1	Legionnaires' disease
-A48.2	Nonpneumonic Legionnaires' disease \[Pontiac fever]
+A48.2	Nonpneumonic Legionnaires' disease  [Pontiac fever]
 A48.3	Toxic shock syndrome
 A48.4	Brazilian purpuric fever
 A48.51	Infant botulism
@@ -473,7 +473,7 @@ A74.81	Chlamydial peritonitis
 A74.89	Other chlamydial diseases
 A74.9	"Chlamydial infection, unspecified"
 A75.0	Epidemic louse-borne typhus fever due to Rickettsia prowazekii
-A75.1	Recrudescent typhus \[Brill's disease]
+A75.1	Recrudescent typhus  [Brill's disease]
 A75.2	Typhus fever due to Rickettsia typhi
 A75.3	Typhus fever due to Rickettsia tsutsugamushi
 A75.9	"Typhus fever, unspecified"
@@ -482,7 +482,7 @@ A77.1	Spotted fever due to Rickettsia conorii
 A77.2	Spotted fever due to Rickettsia siberica
 A77.3	Spotted fever due to Rickettsia australis
 A77.40	"Ehrlichiosis, unspecified"
-A77.41	Ehrlichiosis chaffeensis \[E. chaffeensis]
+A77.41	Ehrlichiosis chaffeensis  [E. chaffeensis]
 A77.49	Other ehrlichiosis
 A77.8	Other spotted fevers
 A77.9	"Spotted fever, unspecified"
@@ -490,7 +490,7 @@ A78.	Q fever
 A79.0	Trench fever
 A79.1	Rickettsialpox due to Rickettsia akari
 A79.81	Rickettsiosis due to Ehrlichia sennetsu
-A79.82	Anaplasmosis \[A. phagocytophilum]
+A79.82	Anaplasmosis  [A. phagocytophilum]
 A79.89	Other specified rickettsioses
 A79.9	"Rickettsiosis, unspecified"
 A80.0	"Acute paralytic poliomyelitis, vaccine-associated"
@@ -522,7 +522,7 @@ A83.5	California encephalitis
 A83.6	Rocio virus disease
 A83.8	Other mosquito-borne viral encephalitis
 A83.9	"Mosquito-borne viral encephalitis, unspecified"
-A84.0	Far Eastern tick-borne encephalitis \[Russian spring-summer encephalitis]
+A84.0	Far Eastern tick-borne encephalitis  [Russian spring-summer encephalitis]
 A84.1	Central European tick-borne encephalitis
 A84.81	Powassan virus disease
 A84.89	Other tick-borne viral encephalitis
@@ -537,11 +537,11 @@ A87.1	Adenoviral meningitis
 A87.2	Lymphocytic choriomeningitis
 A87.8	Other viral meningitis
 A87.9	"Viral meningitis, unspecified"
-A88.0	Enteroviral exanthematous fever \[Boston exanthem]
+A88.0	Enteroviral exanthematous fever  [Boston exanthem]
 A88.1	Epidemic vertigo
 A88.8	Other specified viral infections of central nervous system
 A89.	Unspecified viral infection of central nervous system
-A90.	Dengue fever \[classical dengue]
+A90.	Dengue fever  [classical dengue]
 A91.	Dengue hemorrhagic fever
 A92.0	Chikungunya virus disease
 A92.1	O'nyong-nyong fever
@@ -732,7 +732,7 @@ B33.22	Viral myocarditis
 B33.23	Viral pericarditis
 B33.24	Viral cardiomyopathy
 B33.3	"Retrovirus infections, not elsewhere classified"
-B33.4	Hantavirus (cardio)-pulmonary syndrome \[HPS] \[HCPS]
+B33.4	Hantavirus (cardio)-pulmonary syndrome  [HPS]  [HCPS]
 B33.8	Other specified viral diseases
 B34.0	"Adenovirus infection, unspecified"
 B34.1	"Enterovirus infection, unspecified"
@@ -902,8 +902,8 @@ B60.19	Other acanthamebic disease
 B60.2	Naegleriasis
 B60.8	Other specified protozoal diseases
 B64.	Unspecified protozoal disease
-B65.0	Schistosomiasis due to Schistosoma haematobium \[urinary schistosomiasis]
-B65.1	Schistosomiasis due to Schistosoma mansoni \[intestinal schistosomiasis]
+B65.0	Schistosomiasis due to Schistosoma haematobium  [urinary schistosomiasis]
+B65.1	Schistosomiasis due to Schistosoma mansoni  [intestinal schistosomiasis]
 B65.2	Schistosomiasis due to Schistosoma japonicum
 B65.3	Cercarial dermatitis
 B65.8	Other schistosomiasis
@@ -1004,7 +1004,7 @@ B87.89	Myiasis of other sites
 B87.9	"Myiasis, unspecified"
 B88.01	Infestation by Demodex mites
 B88.09	Other acariasis
-B88.1	Tungiasis \[sandflea infestation]
+B88.1	Tungiasis  [sandflea infestation]
 B88.2	Other arthropod infestations
 B88.3	External hirudiniasis
 B88.8	Other specified infestations
@@ -1032,19 +1032,19 @@ B95.61	Methicillin susceptible Staphylococcus aureus infection as the cause of d
 B95.62	Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere
 B95.7	Other staphylococcus as the cause of diseases classified elsewhere
 B95.8	Unspecified staphylococcus as the cause of diseases classified elsewhere
-B96.0	Mycoplasma pneumoniae \[M. pneumoniae] as the cause of diseases classified elsewhere
-B96.1	Klebsiella pneumoniae \[K. pneumoniae] as the cause of diseases classified elsewhere
-B96.20	Unspecified Escherichia coli \[E. coli] as the cause of diseases classified elsewhere
-B96.21	Shiga toxin-producing Escherichia coli \[E. coli] \[STEC] O157 as the cause of diseases classified elsewhere
-B96.22	Other specified Shiga toxin-producing Escherichia coli \[E. coli] \[STEC] as the cause of diseases classified elsewhere
-B96.23	Unspecified Shiga toxin-producing Escherichia coli \[E. coli] \[STEC] as the cause of diseases classified elsewhere
-B96.29	Other Escherichia coli \[E. coli] as the cause of diseases classified elsewhere
-B96.3	Hemophilus influenzae \[H. influenzae] as the cause of diseases classified elsewhere
+B96.0	Mycoplasma pneumoniae  [M. pneumoniae] as the cause of diseases classified elsewhere
+B96.1	Klebsiella pneumoniae  [K. pneumoniae] as the cause of diseases classified elsewhere
+B96.20	Unspecified Escherichia coli  [E. coli] as the cause of diseases classified elsewhere
+B96.21	Shiga toxin-producing Escherichia coli  [E. coli]  [STEC] O157 as the cause of diseases classified elsewhere
+B96.22	Other specified Shiga toxin-producing Escherichia coli  [E. coli]  [STEC] as the cause of diseases classified elsewhere
+B96.23	Unspecified Shiga toxin-producing Escherichia coli  [E. coli]  [STEC] as the cause of diseases classified elsewhere
+B96.29	Other Escherichia coli  [E. coli] as the cause of diseases classified elsewhere
+B96.3	Hemophilus influenzae  [H. influenzae] as the cause of diseases classified elsewhere
 B96.4	Proteus (mirabilis) (morganii) as the cause of diseases classified elsewhere
 B96.5	Pseudomonas (aeruginosa) (mallei) (pseudomallei) as the cause of diseases classified elsewhere
-B96.6	Bacteroides fragilis \[B. fragilis] as the cause of diseases classified elsewhere
-B96.7	Clostridium perfringens \[C. perfringens] as the cause of diseases classified elsewhere
-B96.81	Helicobacter pylori \[H. pylori] as the cause of diseases classified elsewhere
+B96.6	Bacteroides fragilis  [B. fragilis] as the cause of diseases classified elsewhere
+B96.7	Clostridium perfringens  [C. perfringens] as the cause of diseases classified elsewhere
+B96.81	Helicobacter pylori  [H. pylori] as the cause of diseases classified elsewhere
 B96.82	Vibrio vulnificus as the cause of diseases classified elsewhere
 B96.83	Acinetobacter baumannii as the cause of diseases classified elsewhere
 B96.89	Other specified bacterial agents as the cause of diseases classified elsewhere
@@ -1058,9 +1058,9 @@ B97.29	Other coronavirus as the cause of diseases classified elsewhere
 B97.30	Unspecified retrovirus as the cause of diseases classified elsewhere
 B97.31	Lentivirus as the cause of diseases classified elsewhere
 B97.32	Oncovirus as the cause of diseases classified elsewhere
-B97.33	"Human T-cell lymphotrophic virus, type I \[HTLV-I] as the cause of diseases classified elsewhere"
-B97.34	"Human T-cell lymphotrophic virus, type II \[HTLV-II] as the cause of diseases classified elsewhere"
-B97.35	"Human immunodeficiency virus, type 2 \[HIV 2] as the cause of diseases classified elsewhere"
+B97.33	"Human T-cell lymphotrophic virus, type I  [HTLV-I] as the cause of diseases classified elsewhere"
+B97.34	"Human T-cell lymphotrophic virus, type II  [HTLV-II] as the cause of diseases classified elsewhere"
+B97.35	"Human immunodeficiency virus, type 2  [HIV 2] as the cause of diseases classified elsewhere"
 B97.39	Other retrovirus as the cause of diseases classified elsewhere
 B97.4	Respiratory syncytial virus as the cause of diseases classified elsewhere
 B97.5	Reovirus as the cause of diseases classified elsewhere
@@ -2170,8 +2170,8 @@ C88.20	Heavy chain disease not having achieved remission
 C88.21	"Heavy chain disease, in remission"
 C88.30	Immunoproliferative small intestinal disease not having achieved remission
 C88.31	"Immunoproliferative small intestinal disease, in remission"
-C88.40	Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue \[MALT-lymphoma] not having achieved remission
-C88.41	"Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue \[MALT-lymphoma], in remission"
+C88.40	Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue  [MALT-lymphoma] not having achieved remission
+C88.41	"Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue  [MALT-lymphoma], in remission"
 C88.80	Other malignant immunoproliferative diseases not having achieved remission
 C88.81	"Other malignant immunoproliferative diseases, in remission"
 C88.90	"Malignant immunoproliferative disease, unspecified not having achieved remission"
@@ -2816,7 +2816,7 @@ D53.1	"Other megaloblastic anemias, not elsewhere classified"
 D53.2	Scorbutic anemia
 D53.8	Other specified nutritional anemias
 D53.9	"Nutritional anemia, unspecified"
-D55.0	Anemia due to glucose-6-phosphate dehydrogenase \[G6PD] deficiency
+D55.0	Anemia due to glucose-6-phosphate dehydrogenase  [G6PD] deficiency
 D55.1	Anemia due to other disorders of glutathione metabolism
 D55.21	Anemia due to pyruvate kinase deficiency
 D55.29	Anemia due to other disorders of glycolytic enzymes
@@ -2827,7 +2827,7 @@ D56.0	Alpha thalassemia
 D56.1	Beta thalassemia
 D56.2	Delta-beta thalassemia
 D56.3	Thalassemia minor
-D56.4	Hereditary persistence of fetal hemoglobin \[HPFH]
+D56.4	Hereditary persistence of fetal hemoglobin  [HPFH]
 D56.5	Hemoglobin E-beta thalassemia
 D56.8	Other thalassemias
 D56.9	"Thalassemia, unspecified"
@@ -2891,7 +2891,7 @@ D59.31	Infection-associated hemolytic-uremic syndrome
 D59.32	Hereditary hemolytic-uremic syndrome
 D59.39	Other hemolytic-uremic syndrome
 D59.4	Other nonautoimmune hemolytic anemias
-D59.5	Paroxysmal nocturnal hemoglobinuria \[Marchiafava-Micheli]
+D59.5	Paroxysmal nocturnal hemoglobinuria  [Marchiafava-Micheli]
 D59.6	Hemoglobinuria due to hemolysis from other external causes
 D59.8	Other acquired hemolytic anemias
 D59.9	"Acquired hemolytic anemia, unspecified"
@@ -2924,7 +2924,7 @@ D64.4	Congenital dyserythropoietic anemia
 D64.81	Anemia due to antineoplastic chemotherapy
 D64.89	Other specified anemias
 D64.9	"Anemia, unspecified"
-D65.	Disseminated intravascular coagulation \[defibrination syndrome]
+D65.	Disseminated intravascular coagulation  [defibrination syndrome]
 D66.	Hereditary factor VIII deficiency
 D67.	Hereditary factor IX deficiency
 D68.00	"Von Willebrand disease, unspecified"
@@ -2976,10 +2976,10 @@ D71.8	Other functional disorders of polymorphonuclear neutrophils
 D71.9	"Functional disorders of polymorphonuclear neutrophils, unspecified"
 D72.0	Genetic anomalies of leukocytes
 D72.10	"Eosinophilia, unspecified"
-D72.110	Idiopathic hypereosinophilic syndrome \[IHES]
-D72.111	Lymphocytic Variant Hypereosinophilic Syndrome \[LHES]
+D72.110	Idiopathic hypereosinophilic syndrome  [IHES]
+D72.111	Lymphocytic Variant Hypereosinophilic Syndrome  [LHES]
 D72.118	Other hypereosinophilic syndrome
-D72.119	"Hypereosinophilic syndrome \[HES], unspecified"
+D72.119	"Hypereosinophilic syndrome  [HES], unspecified"
 D72.12	Drug rash with eosinophilia and systemic symptoms syndrome
 D72.18	Eosinophilia in diseases classified elsewhere
 D72.19	Other eosinophilia
@@ -3039,36 +3039,36 @@ D78.81	Other intraoperative complications of the spleen
 D78.89	Other postprocedural complications of the spleen
 D80.0	Hereditary hypogammaglobulinemia
 D80.1	Nonfamilial hypogammaglobulinemia
-D80.2	Selective deficiency of immunoglobulin A \[IgA]
-D80.3	Selective deficiency of immunoglobulin G \[IgG] subclasses
-D80.4	Selective deficiency of immunoglobulin M \[IgM]
-D80.5	Immunodeficiency with increased immunoglobulin M \[IgM]
+D80.2	Selective deficiency of immunoglobulin A  [IgA]
+D80.3	Selective deficiency of immunoglobulin G  [IgG] subclasses
+D80.4	Selective deficiency of immunoglobulin M  [IgM]
+D80.5	Immunodeficiency with increased immunoglobulin M  [IgM]
 D80.6	Antibody deficiency with near-normal immunoglobulins or with hyperimmunoglobulinemia
 D80.7	Transient hypogammaglobulinemia of infancy
 D80.8	Other immunodeficiencies with predominantly antibody defects
 D80.9	"Immunodeficiency with predominantly antibody defects, unspecified"
-D81.0	Severe combined immunodeficiency \[SCID] with reticular dysgenesis
-D81.1	Severe combined immunodeficiency \[SCID] with low T- and B-cell numbers
-D81.2	Severe combined immunodeficiency \[SCID] with low or normal B-cell numbers
+D81.0	Severe combined immunodeficiency  [SCID] with reticular dysgenesis
+D81.1	Severe combined immunodeficiency  [SCID] with low T- and B-cell numbers
+D81.2	Severe combined immunodeficiency  [SCID] with low or normal B-cell numbers
 D81.30	"Adenosine deaminase deficiency, unspecified"
 D81.31	Severe combined immunodeficiency due to adenosine deaminase deficiency
 D81.32	Adenosine deaminase 2 deficiency
 D81.39	Other adenosine deaminase deficiency
 D81.4	Nezelof's syndrome
-D81.5	Purine nucleoside phosphorylase \[PNP] deficiency
+D81.5	Purine nucleoside phosphorylase  [PNP] deficiency
 D81.6	Major histocompatibility complex class I deficiency
 D81.7	Major histocompatibility complex class II deficiency
 D81.810	Biotinidase deficiency
 D81.818	Other biotin-dependent carboxylase deficiency
 D81.819	"Biotin-dependent carboxylase deficiency, unspecified"
-D81.82	Activated Phosphoinositide 3-kinase Delta Syndrome \[APDS]
+D81.82	Activated Phosphoinositide 3-kinase Delta Syndrome  [APDS]
 D81.89	Other combined immunodeficiencies
 D81.9	"Combined immunodeficiency, unspecified"
 D82.0	Wiskott-Aldrich syndrome
 D82.1	Di George's syndrome
 D82.2	Immunodeficiency with short-limbed stature
 D82.3	Immunodeficiency following hereditary defective response to Epstein-Barr virus
-D82.4	Hyperimmunoglobulin E \[IgE] syndrome
+D82.4	Hyperimmunoglobulin E  [IgE] syndrome
 D82.8	Immunodeficiency associated with other specified major defects
 D82.9	"Immunodeficiency associated with major defect, unspecified"
 D83.0	Common variable immunodeficiency with predominant abnormalities of B-cell numbers and function
@@ -3076,7 +3076,7 @@ D83.1	Common variable immunodeficiency with predominant immunoregulatory T-cell 
 D83.2	Common variable immunodeficiency with autoantibodies to B- or T-cells
 D83.8	Other common variable immunodeficiencies
 D83.9	"Common variable immunodeficiency, unspecified"
-D84.0	Lymphocyte function antigen-1 \[LFA-1] defect
+D84.0	Lymphocyte function antigen-1  [LFA-1] defect
 D84.1	Defects in the complement system
 D84.81	Immunodeficiency due to conditions classified elsewhere
 D84.821	Immunodeficiency due to drugs
@@ -3110,7 +3110,7 @@ D89.810	Acute graft-versus-host disease
 D89.811	Chronic graft-versus-host disease
 D89.812	Acute on chronic graft-versus-host disease
 D89.813	"Graft-versus-host disease, unspecified"
-D89.82	Autoimmune lymphoproliferative syndrome \[ALPS]
+D89.82	Autoimmune lymphoproliferative syndrome  [ALPS]
 D89.831	"Cytokine release syndrome, grade 1"
 D89.832	"Cytokine release syndrome, grade 2"
 D89.833	"Cytokine release syndrome, grade 3"
@@ -3681,10 +3681,10 @@ E30.8	Other disorders of puberty
 E30.9	"Disorder of puberty, unspecified"
 E31.0	Autoimmune polyglandular failure
 E31.1	Polyglandular hyperfunction
-E31.20	"Multiple endocrine neoplasia \[MEN] syndrome, unspecified"
-E31.21	Multiple endocrine neoplasia \[MEN] type I
-E31.22	Multiple endocrine neoplasia \[MEN] type IIA
-E31.23	Multiple endocrine neoplasia \[MEN] type IIB
+E31.20	"Multiple endocrine neoplasia  [MEN] syndrome, unspecified"
+E31.21	Multiple endocrine neoplasia  [MEN] type I
+E31.22	Multiple endocrine neoplasia  [MEN] type IIA
+E31.23	Multiple endocrine neoplasia  [MEN] type IIB
 E31.8	Other polyglandular dysfunction
 E31.9	"Polyglandular dysfunction, unspecified"
 E32.0	Persistent hyperplasia of thymus
@@ -3738,7 +3738,7 @@ E51.12	Wet beriberi
 E51.2	Wernicke's encephalopathy
 E51.8	Other manifestations of thiamine deficiency
 E51.9	"Thiamine deficiency, unspecified"
-E52.	Niacin deficiency \[pellagra]
+E52.	Niacin deficiency  [pellagra]
 E53.0	Riboflavin deficiency
 E53.1	Pyridoxine deficiency
 E53.8	Deficiency of other specified B group vitamins
@@ -3763,7 +3763,7 @@ E61.6	Vanadium deficiency
 E61.7	Deficiency of multiple nutrient elements
 E61.8	Deficiency of other specified nutrient elements
 E61.9	"Deficiency of nutrient element, unspecified"
-E63.0	Essential fatty acid \[EFA] deficiency
+E63.0	Essential fatty acid  [EFA] deficiency
 E63.1	Imbalance of constituents of food intake
 E63.8	Other specified nutritional deficiencies
 E63.9	"Nutritional deficiency, unspecified"
@@ -3894,7 +3894,7 @@ E74.01	von Gierke disease
 E74.02	Pompe disease
 E74.03	Cori disease
 E74.04	McArdle disease
-E74.05	Lysosome-associated membrane protein 2 \[LAMP2] deficiency
+E74.05	Lysosome-associated membrane protein 2  [LAMP2] deficiency
 E74.09	Other glycogen storage disease
 E74.10	"Disorder of fructose metabolism, unspecified"
 E74.11	Essential fructosuria
@@ -3956,8 +3956,8 @@ E77.1	Defects in glycoprotein degradation
 E77.8	Other disorders of glycoprotein metabolism
 E77.9	"Disorder of glycoprotein metabolism, unspecified"
 E78.00	"Pure hypercholesterolemia, unspecified"
-E78.010	Homozygous familial hypercholesterolemia \[HoFH]
-E78.011	Heterozygous familial hypercholesterolemia \[HeFH]
+E78.010	Homozygous familial hypercholesterolemia  [HoFH]
+E78.011	Heterozygous familial hypercholesterolemia  [HeFH]
 E78.019	"Familial hypercholesterolemia, unspecified"
 E78.1	Pure hyperglyceridemia
 E78.2	Mixed hyperlipidemia
@@ -4718,8 +4718,8 @@ F34.0	Cyclothymic disorder
 F34.1	Dysthymic disorder
 F34.81	Disruptive mood dysregulation disorder
 F34.89	Other specified persistent mood disorders
-F34.9	"Persistent mood \[affective] disorder, unspecified"
-F39.	Unspecified mood \[affective] disorder
+F34.9	"Persistent mood  [affective] disorder, unspecified"
+F39.	Unspecified mood  [affective] disorder
 F40.00	"Agoraphobia, unspecified"
 F40.01	Agoraphobia with panic disorder
 F40.02	Agoraphobia without panic disorder
@@ -4743,7 +4743,7 @@ F40.291	Gynephobia
 F40.298	Other specified phobia
 F40.8	Other phobic anxiety disorders
 F40.9	"Phobic anxiety disorder, unspecified"
-F41.0	Panic disorder \[episodic paroxysmal anxiety]
+F41.0	Panic disorder  [episodic paroxysmal anxiety]
 F41.1	Generalized anxiety disorder
 F41.3	Other mixed anxiety disorders
 F41.8	Other specified anxiety disorders
@@ -4831,8 +4831,8 @@ F51.11	Primary hypersomnia
 F51.12	Insufficient sleep syndrome
 F51.13	Hypersomnia due to other mental disorder
 F51.19	Other hypersomnia not due to a substance or known physiological condition
-F51.3	Sleepwalking \[somnambulism]
-F51.4	Sleep terrors \[night terrors]
+F51.3	Sleepwalking  [somnambulism]
+F51.4	Sleep terrors  [night terrors]
 F51.5	Nightmare disorder
 F51.8	Other sleep disorders not due to a substance or known physiological condition
 F51.9	"Sleep disorder not due to a substance or known physiological condition, unspecified"
@@ -4972,7 +4972,7 @@ G01.	Meningitis in bacterial diseases classified elsewhere
 G02.	Meningitis in other infectious and parasitic diseases classified elsewhere
 G03.0	Nonpyogenic meningitis
 G03.1	Chronic meningitis
-G03.2	Benign recurrent meningitis \[Mollaret]
+G03.2	Benign recurrent meningitis  [Mollaret]
 G03.8	Meningitis due to other specified causes
 G03.9	"Meningitis, unspecified"
 G04.00	"Acute disseminated encephalitis and encephalomyelitis, unspecified"
@@ -5009,7 +5009,7 @@ G11.5	Hypomyelination - hypogonadotropic hypogonadism - hypodontia
 G11.6	Leukodystrophy with vanishing white matter disease
 G11.8	Other hereditary ataxias
 G11.9	"Hereditary ataxia, unspecified"
-G12.0	"Infantile spinal muscular atrophy, type I \[Werdnig-Hoffman]"
+G12.0	"Infantile spinal muscular atrophy, type I  [Werdnig-Hoffman]"
 G12.1	Other inherited spinal muscular atrophy
 G12.20	"Motor neuron disease, unspecified"
 G12.21	Amyotrophic lateral sclerosis
@@ -5039,7 +5039,7 @@ G21.4	Vascular parkinsonism
 G21.8	Other secondary parkinsonism
 G21.9	"Secondary parkinsonism, unspecified"
 G23.0	Hallervorden-Spatz disease
-G23.1	Progressive supranuclear ophthalmoplegia \[Steele-Richardson-Olszewski]
+G23.1	Progressive supranuclear ophthalmoplegia  [Steele-Richardson-Olszewski]
 G23.2	Striatonigral degeneration
 G23.3	Hypomyelination with atrophy of the basal ganglia and cerebellum
 G23.8	Other specified degenerative diseases of basal ganglia
@@ -5100,8 +5100,8 @@ G35.C0	"Secondary progressive multiple sclerosis, unspecified"
 G35.C1	Active secondary progressive multiple sclerosis
 G35.C2	Non-active secondary progressive multiple sclerosis
 G35.D	"Multiple sclerosis, unspecified"
-G36.0	Neuromyelitis optica \[Devic]
-G36.1	Acute and subacute hemorrhagic leukoencephalitis \[Hurst]
+G36.0	Neuromyelitis optica  [Devic]
+G36.1	Acute and subacute hemorrhagic leukoencephalitis  [Hurst]
 G36.8	Other specified acute disseminated demyelination
 G36.9	"Acute disseminated demyelination, unspecified"
 G37.0	Diffuse sclerosis of central nervous system
@@ -5109,7 +5109,7 @@ G37.1	Central demyelination of corpus callosum
 G37.2	Central pontine myelinolysis
 G37.3	Acute transverse myelitis in demyelinating disease of central nervous system
 G37.4	Subacute necrotizing myelitis of central nervous system
-G37.5	Concentric sclerosis \[Balo] of central nervous system
+G37.5	Concentric sclerosis  [Balo] of central nervous system
 G37.81	Myelin oligodendrocyte glycoprotein antibody disease
 G37.89	Other specified demyelinating diseases of central nervous system
 G37.9	"Demyelinating disease of central nervous system, unspecified"
@@ -5488,7 +5488,7 @@ G72.0	Drug-induced myopathy
 G72.1	Alcoholic myopathy
 G72.2	Myopathy due to other toxic agents
 G72.3	Periodic paralysis
-G72.41	Inclusion body myositis \[IBM]
+G72.41	Inclusion body myositis  [IBM]
 G72.49	"Other inflammatory and immune myopathies, not elsewhere classified"
 G72.81	Critical illness myopathy
 G72.89	Other specified myopathies
@@ -5562,7 +5562,7 @@ G89.3	Neoplasm related pain (acute) (chronic)
 G89.4	Chronic pain syndrome
 G90.01	Carotid sinus syncope
 G90.09	Other idiopathic peripheral autonomic neuropathy
-G90.1	Familial dysautonomia \[Riley-Day]
+G90.1	Familial dysautonomia  [Riley-Day]
 G90.2	Horner's syndrome
 G90.3	Multi-system degeneration of the autonomic nervous system
 G90.4	Autonomic dysreflexia
@@ -5579,7 +5579,7 @@ G90.59	Complex regional pain syndrome I of other specified site
 G90.81	Serotonin syndrome
 G90.89	Other disorders of autonomic nervous system
 G90.9	"Disorder of the autonomic nervous system, unspecified"
-G90.A	Postural orthostatic tachycardia syndrome \[POTS]
+G90.A	Postural orthostatic tachycardia syndrome  [POTS]
 G90.B	LMNB1-related autosomal dominant leukodystrophy
 G91.0	Communicating hydrocephalus
 G91.1	Obstructive hydrocephalus
@@ -6929,7 +6929,7 @@ H25.812	"Combined forms of age-related cataract, left eye"
 H25.813	"Combined forms of age-related cataract, bilateral"
 H25.819	"Combined forms of age-related cataract, unspecified eye"
 H25.89	Other age-related cataract
-\[\[H25.9]]	Unspecified age-related cataract
+ [ [H25.9]]	Unspecified age-related cataract
 H26.001	"Unspecified infantile and juvenile cataract, right eye"
 H26.002	"Unspecified infantile and juvenile cataract, left eye"
 H26.003	"Unspecified infantile and juvenile cataract, bilateral"
@@ -6998,7 +6998,7 @@ H26.492	"Other secondary cataract, left eye"
 H26.493	"Other secondary cataract, bilateral"
 H26.499	"Other secondary cataract, unspecified eye"
 H26.8	Other specified cataract
-\[\[H26.9]]	Unspecified cataract
+ [ [H26.9]]	Unspecified cataract
 H27.00	"Aphakia, unspecified eye"
 H27.01	"Aphakia, right eye"
 H27.02	"Aphakia, left eye"
@@ -7019,10 +7019,10 @@ H27.139	"Posterior dislocation of lens, unspecified eye"
 H27.8	Other specified disorders of lens
 H27.9	Unspecified disorder of lens
 H28.	Cataract in diseases classified elsewhere
-\[\[H30.001]]	"Unspecified focal chorioretinal inflammation, right eye"
-\[\[H30.002]]	"Unspecified focal chorioretinal inflammation, left eye"
-\[\[H30.003]]	"Unspecified focal chorioretinal inflammation, bilateral"
-\[\[H30.009]]	"Unspecified focal chorioretinal inflammation, unspecified eye"
+ [ [H30.001]]	"Unspecified focal chorioretinal inflammation, right eye"
+ [ [H30.002]]	"Unspecified focal chorioretinal inflammation, left eye"
+ [ [H30.003]]	"Unspecified focal chorioretinal inflammation, bilateral"
+ [ [H30.009]]	"Unspecified focal chorioretinal inflammation, unspecified eye"
 H30.011	"Focal chorioretinal inflammation, juxtapapillary, right eye"
 H30.012	"Focal chorioretinal inflammation, juxtapapillary, left eye"
 H30.013	"Focal chorioretinal inflammation, juxtapapillary, bilateral"
@@ -7187,10 +7187,10 @@ H33.311	"Horseshoe tear of retina without detachment, right eye"
 H33.312	"Horseshoe tear of retina without detachment, left eye"
 H33.313	"Horseshoe tear of retina without detachment, bilateral"
 H33.319	"Horseshoe tear of retina without detachment, unspecified eye"
-\[\[H33.321]]	"Round hole, right eye"
-\[\[H33.322]]	"Round hole, left eye"
-\[\[H33.323]]	"Round hole, bilateral"
-\[\[H33.329]]	"Round hole, unspecified eye"
+ [ [H33.321]]	"Round hole, right eye"
+ [ [H33.322]]	"Round hole, left eye"
+ [ [H33.323]]	"Round hole, bilateral"
+ [ [H33.329]]	"Round hole, unspecified eye"
 H33.331	"Multiple defects of retina without detachment, right eye"
 H33.332	"Multiple defects of retina without detachment, left eye"
 H33.333	"Multiple defects of retina without detachment, bilateral"
@@ -7199,15 +7199,15 @@ H33.40	"Traction detachment of retina, unspecified eye"
 H33.41	"Traction detachment of retina, right eye"
 H33.42	"Traction detachment of retina, left eye"
 H33.43	"Traction detachment of retina, bilateral"
-\[\[H33.8]]	Other retinal detachments
+ [ [H33.8]]	Other retinal detachments
 H34.00	"Transient retinal artery occlusion, unspecified eye"
 H34.01	"Transient retinal artery occlusion, right eye"
 H34.02	"Transient retinal artery occlusion, left eye"
 H34.03	"Transient retinal artery occlusion, bilateral"
 H34.10	"Central retinal artery occlusion, unspecified eye"
-\[\[H34.11]]	"Central retinal artery occlusion, right eye"
-\[\[H34.12]]	"Central retinal artery occlusion, left eye"
-\[\[H34.13]]	"Central retinal artery occlusion, bilateral"
+ [ [H34.11]]	"Central retinal artery occlusion, right eye"
+ [ [H34.12]]	"Central retinal artery occlusion, left eye"
+ [ [H34.13]]	"Central retinal artery occlusion, bilateral"
 H34.211	"Partial retinal artery occlusion, right eye"
 H34.212	"Partial retinal artery occlusion, left eye"
 H34.213	"Partial retinal artery occlusion, bilateral"
@@ -7216,18 +7216,18 @@ H34.231	"Retinal artery branch occlusion, right eye"
 H34.232	"Retinal artery branch occlusion, left eye"
 H34.233	"Retinal artery branch occlusion, bilateral"
 H34.239	"Retinal artery branch occlusion, unspecified eye"
-\[\[H34.8110]]	"Central retinal vein occlusion, right eye, with macular edema"
-\[\[H34.8111]]	"Central retinal vein occlusion, right eye, with retinal neovascularization"
-\[\[H34.8112]]	"Central retinal vein occlusion, right eye, stable"
-\[\[H34.8120]]	"Central retinal vein occlusion, left eye, with macular edema"
-\[\[H34.8121]]	"Central retinal vein occlusion, left eye, with retinal neovascularization"
-\[\[H34.8122]]	"Central retinal vein occlusion, left eye, stable"
-\[\[H34.8130]]	"Central retinal vein occlusion, bilateral, with macular edema"
-\[\[H34.8131]]	"Central retinal vein occlusion, bilateral, with retinal neovascularization"
-\[\[H34.8132]]	"Central retinal vein occlusion, bilateral, stable"
-\[\[H34.8190]]	"Central retinal vein occlusion, unspecified eye, with macular edema"
-\[\[H34.8191]]	"Central retinal vein occlusion, unspecified eye, with retinal neovascularization"
-\[\[H34.8192]]	"Central retinal vein occlusion, unspecified eye, stable"
+ [ [H34.8110]]	"Central retinal vein occlusion, right eye, with macular edema"
+ [ [H34.8111]]	"Central retinal vein occlusion, right eye, with retinal neovascularization"
+ [ [H34.8112]]	"Central retinal vein occlusion, right eye, stable"
+ [ [H34.8120]]	"Central retinal vein occlusion, left eye, with macular edema"
+ [ [H34.8121]]	"Central retinal vein occlusion, left eye, with retinal neovascularization"
+ [ [H34.8122]]	"Central retinal vein occlusion, left eye, stable"
+ [ [H34.8130]]	"Central retinal vein occlusion, bilateral, with macular edema"
+ [ [H34.8131]]	"Central retinal vein occlusion, bilateral, with retinal neovascularization"
+ [ [H34.8132]]	"Central retinal vein occlusion, bilateral, stable"
+ [ [H34.8190]]	"Central retinal vein occlusion, unspecified eye, with macular edema"
+ [ [H34.8191]]	"Central retinal vein occlusion, unspecified eye, with retinal neovascularization"
+ [ [H34.8192]]	"Central retinal vein occlusion, unspecified eye, stable"
 H34.821	"Venous engorgement, right eye"
 H34.822	"Venous engorgement, left eye"
 H34.823	"Venous engorgement, bilateral"
@@ -7250,10 +7250,10 @@ H35.011	"Changes in retinal vascular appearance, right eye"
 H35.012	"Changes in retinal vascular appearance, left eye"
 H35.013	"Changes in retinal vascular appearance, bilateral"
 H35.019	"Changes in retinal vascular appearance, unspecified eye"
-\[\[H35.021]]	"Exudative retinopathy, right eye"
-\[\[H35.022]]	"Exudative retinopathy, left eye"
-\[\[H35.023]]	"Exudative retinopathy, bilateral"
-\[\[H35.029]]	"Exudative retinopathy, unspecified eye"
+ [ [H35.021]]	"Exudative retinopathy, right eye"
+ [ [H35.022]]	"Exudative retinopathy, left eye"
+ [ [H35.023]]	"Exudative retinopathy, bilateral"
+ [ [H35.029]]	"Exudative retinopathy, unspecified eye"
 H35.031	"Hypertensive retinopathy, right eye"
 H35.032	"Hypertensive retinopathy, left eye"
 H35.033	"Hypertensive retinopathy, bilateral"
@@ -7312,16 +7312,16 @@ H35.21	"Other non-diabetic proliferative retinopathy, right eye"
 H35.22	"Other non-diabetic proliferative retinopathy, left eye"
 H35.23	"Other non-diabetic proliferative retinopathy, bilateral"
 H35.30	Unspecified macular degeneration
-\[\[H35.3110]]	"Nonexudative age-related macular degeneration, right eye, stage unspecified"
-\[\[H35.3111]]	"Nonexudative age-related macular degeneration, right eye, early dry stage"
-\[\[H35.3112]]	"Nonexudative age-related macular degeneration, right eye, intermediate dry stage"
-\[\[H35.3113]]	"Nonexudative age-related macular degeneration, right eye, advanced atrophic without subfoveal involvement"
-\[\[H35.3114]]	"Nonexudative age-related macular degeneration, right eye, advanced atrophic with subfoveal involvement"
-\[\[H35.3120]]	"Nonexudative age-related macular degeneration, left eye, stage unspecified"
-\[\[H35.3121]]	"Nonexudative age-related macular degeneration, left eye, early dry stage"
-\[\[H35.3122]]	"Nonexudative age-related macular degeneration, left eye, intermediate dry stage"
-\[\[H35.3123]]	"Nonexudative age-related macular degeneration, left eye, advanced atrophic without subfoveal involvement"
-\[\[H35.3124]]	"Nonexudative age-related macular degeneration, left eye, advanced atrophic with subfoveal involvement"
+ [ [H35.3110]]	"Nonexudative age-related macular degeneration, right eye, stage unspecified"
+ [ [H35.3111]]	"Nonexudative age-related macular degeneration, right eye, early dry stage"
+ [ [H35.3112]]	"Nonexudative age-related macular degeneration, right eye, intermediate dry stage"
+ [ [H35.3113]]	"Nonexudative age-related macular degeneration, right eye, advanced atrophic without subfoveal involvement"
+ [ [H35.3114]]	"Nonexudative age-related macular degeneration, right eye, advanced atrophic with subfoveal involvement"
+ [ [H35.3120]]	"Nonexudative age-related macular degeneration, left eye, stage unspecified"
+ [ [H35.3121]]	"Nonexudative age-related macular degeneration, left eye, early dry stage"
+ [ [H35.3122]]	"Nonexudative age-related macular degeneration, left eye, intermediate dry stage"
+ [ [H35.3123]]	"Nonexudative age-related macular degeneration, left eye, advanced atrophic without subfoveal involvement"
+ [ [H35.3124]]	"Nonexudative age-related macular degeneration, left eye, advanced atrophic with subfoveal involvement"
 H35.3130	"Nonexudative age-related macular degeneration, bilateral, stage unspecified"
 H35.3131	"Nonexudative age-related macular degeneration, bilateral, early dry stage"
 H35.3132	"Nonexudative age-related macular degeneration, bilateral, intermediate dry stage"
@@ -9162,7 +9162,7 @@ I27.29	Other secondary pulmonary hypertension
 I27.81	Cor pulmonale (chronic)
 I27.82	Chronic pulmonary embolism
 I27.83	Eisenmenger's syndrome
-I27.840	Fontan-associated liver disease \[FALD]
+I27.840	Fontan-associated liver disease  [FALD]
 I27.841	Fontan-associated lymphatic dysfunction
 I27.848	Other Fontan-associated condition
 I27.849	"Fontan related circulation, unspecified"
@@ -10010,7 +10010,7 @@ I72.8	Aneurysm of other specified arteries
 I72.9	Aneurysm of unspecified site
 I73.00	Raynaud's syndrome without gangrene
 I73.01	Raynaud's syndrome with gangrene
-I73.1	Thromboangiitis obliterans \[Buerger's disease]
+I73.1	Thromboangiitis obliterans  [Buerger's disease]
 I73.81	Erythromelalgia
 I73.89	Other specified peripheral vascular diseases
 I73.9	"Peripheral vascular disease, unspecified"
@@ -10056,7 +10056,7 @@ I77.810	Thoracic aortic ectasia
 I77.811	Abdominal aortic ectasia
 I77.812	Thoracoabdominal aortic ectasia
 I77.819	"Aortic ectasia, unspecified site"
-I77.82	Antineutrophilic cytoplasmic antibody \[ANCA] vasculitis
+I77.82	Antineutrophilic cytoplasmic antibody  [ANCA] vasculitis
 I77.89	Other specified disorders of arteries and arterioles
 I77.9	"Disorder of arteries and arterioles, unspecified"
 I78.0	Hereditary hemorrhagic telangiectasia
@@ -10419,7 +10419,7 @@ I97.88	"Other intraoperative complications of the circulatory system, not elsewh
 I97.89	"Other postprocedural complications and disorders of the circulatory system, not elsewhere classified"
 I99.8	Other disorder of circulatory system
 I99.9	Unspecified disorder of circulatory system
-J00.	Acute nasopharyngitis \[common cold]
+J00.	Acute nasopharyngitis  [common cold]
 J01.00	"Acute maxillary sinusitis, unspecified"
 J01.01	Acute recurrent maxillary sinusitis
 J01.10	"Acute frontal sinusitis, unspecified"
@@ -10449,7 +10449,7 @@ J04.11	Acute tracheitis with obstruction
 J04.2	Acute laryngotracheitis
 J04.30	"Supraglottitis, unspecified, without obstruction"
 J04.31	"Supraglottitis, unspecified, with obstruction"
-J05.0	Acute obstructive laryngitis \[croup]
+J05.0	Acute obstructive laryngitis  [croup]
 J05.10	Acute epiglottitis without obstruction
 J05.11	Acute epiglottitis with obstruction
 J06.0	Acute laryngopharyngitis
@@ -10568,13 +10568,13 @@ J35.9	"Chronic disease of tonsils and adenoids, unspecified"
 J36.	Peritonsillar abscess
 J37.0	Chronic laryngitis
 J37.1	Chronic laryngotracheitis
-\[\[J38.00]]	"Paralysis of vocal cords and larynx, unspecified"
-\[\[J38.01]]	"Paralysis of vocal cords and larynx, unilateral"
-\[\[J38.02]]	"Paralysis of vocal cords and larynx, bilateral"
-\[\[J38.1]]	Polyp of vocal cord and larynx
-\[\[J38.2]]	Nodules of vocal cords
-\[\[J38.3]]	Other diseases of vocal cords
-\[\[J38.4]]	Edema of larynx
+ [ [J38.00]]	"Paralysis of vocal cords and larynx, unspecified"
+ [ [J38.01]]	"Paralysis of vocal cords and larynx, unilateral"
+ [ [J38.02]]	"Paralysis of vocal cords and larynx, bilateral"
+ [ [J38.1]]	Polyp of vocal cord and larynx
+ [ [J38.2]]	Nodules of vocal cords
+ [ [J38.3]]	Other diseases of vocal cords
+ [ [J38.4]]	Edema of larynx
 J38.5	Laryngeal spasm
 J38.6	Stenosis of larynx
 J38.7	Other diseases of larynx
@@ -10589,7 +10589,7 @@ J41.0	Simple chronic bronchitis
 J41.1	Mucopurulent chronic bronchitis
 J41.8	Mixed simple and mucopurulent chronic bronchitis
 J42.	Unspecified chronic bronchitis
-J43.0	Unilateral pulmonary emphysema \[MacLeod's syndrome]
+J43.0	Unilateral pulmonary emphysema  [MacLeod's syndrome]
 J43.1	Panlobular emphysema
 J43.2	Centrilobular emphysema
 J43.8	Other emphysema
@@ -10746,7 +10746,7 @@ J95.831	Postprocedural hemorrhage of a respiratory system organ or structure fol
 J95.84	Transfusion-related acute lung injury (TRALI)
 J95.850	Mechanical complication of respirator
 J95.851	Ventilator associated pneumonia
-J95.859	Other complication of respirator \[ventilator]
+J95.859	Other complication of respirator  [ventilator]
 J95.860	Postprocedural hematoma of a respiratory system organ or structure following a respiratory system procedure
 J95.861	Postprocedural hematoma of a respiratory system organ or structure following other procedure
 J95.862	Postprocedural seroma of a respiratory system organ or structure following a respiratory system procedure
@@ -10806,7 +10806,7 @@ K03.2	Erosion of teeth
 K03.3	Pathological resorption of teeth
 K03.4	Hypercementosis
 K03.5	Ankylosis of teeth
-K03.6	Deposits \[accretions] on teeth
+K03.6	Deposits  [accretions] on teeth
 K03.7	Posteruptive color changes of dental hard tissues
 K03.81	Cracked tooth
 K03.89	Other specified diseases of hard tissues of teeth
@@ -10954,8 +10954,8 @@ K11.9	"Disease of salivary gland, unspecified"
 K12.0	Recurrent oral aphthae
 K12.1	Other forms of stomatitis
 K12.2	Cellulitis and abscess of mouth
-\[\[K12.30]]	"Oral mucositis (ulcerative), unspecified"
-\[\[K12.31]]	Oral mucositis (ulcerative) due to antineoplastic therapy
+ [ [K12.30]]	"Oral mucositis (ulcerative), unspecified"
+ [ [K12.31]]	Oral mucositis (ulcerative) due to antineoplastic therapy
 K12.32	Oral mucositis (ulcerative) due to other drugs
 K12.33	Oral mucositis (ulcerative) due to radiation
 K12.39	Other oral mucositis (ulcerative)
@@ -11276,9 +11276,9 @@ K56.2	Volvulus
 K56.3	Gallstone ileus
 K56.41	Fecal impaction
 K56.49	Other impaction of intestine
-K56.50	"Intestinal adhesions \[bands], unspecified as to partial versus complete obstruction"
-K56.51	"Intestinal adhesions \[bands], with partial obstruction"
-K56.52	Intestinal adhesions \[bands] with complete obstruction
+K56.50	"Intestinal adhesions  [bands], unspecified as to partial versus complete obstruction"
+K56.51	"Intestinal adhesions  [bands], with partial obstruction"
+K56.52	Intestinal adhesions  [bands] with complete obstruction
 K56.600	"Partial intestinal obstruction, unspecified as to cause"
 K56.601	"Complete intestinal obstruction, unspecified as to cause"
 K56.609	"Unspecified intestinal obstruction, unspecified as to partial versus complete obstruction"
@@ -11650,7 +11650,7 @@ L02.11	Cutaneous abscess of neck
 L02.12	Furuncle of neck
 L02.13	Carbuncle of neck
 L02.211	Cutaneous abscess of abdominal wall
-L02.212	"Cutaneous abscess of back \[any part, except buttock and flank]"
+L02.212	"Cutaneous abscess of back  [any part, except buttock and flank]"
 L02.213	Cutaneous abscess of chest wall
 L02.214	Cutaneous abscess of groin
 L02.215	Cutaneous abscess of perineum
@@ -11658,7 +11658,7 @@ L02.216	Cutaneous abscess of umbilicus
 L02.217	Cutaneous abscess of flank
 L02.219	"Cutaneous abscess of trunk, unspecified"
 L02.221	Furuncle of abdominal wall
-L02.222	"Furuncle of back \[any part, except buttock and flank]"
+L02.222	"Furuncle of back  [any part, except buttock and flank]"
 L02.223	Furuncle of chest wall
 L02.224	Furuncle of groin
 L02.225	Furuncle of perineum
@@ -11666,7 +11666,7 @@ L02.226	Furuncle of umbilicus
 L02.227	Furuncle of flank
 L02.229	"Furuncle of trunk, unspecified"
 L02.231	Carbuncle of abdominal wall
-L02.232	"Carbuncle of back \[any part, except buttock]"
+L02.232	"Carbuncle of back  [any part, except buttock]"
 L02.233	Carbuncle of chest wall
 L02.234	Carbuncle of groin
 L02.235	Carbuncle of perineum
@@ -11714,11 +11714,11 @@ L02.629	Furuncle of unspecified foot
 L02.631	Carbuncle of right foot
 L02.632	Carbuncle of left foot
 L02.639	Carbuncle of unspecified foot
-L02.811	"Cutaneous abscess of head \[any part, except face]"
+L02.811	"Cutaneous abscess of head  [any part, except face]"
 L02.818	Cutaneous abscess of other sites
-L02.821	"Furuncle of head \[any part, except face]"
+L02.821	"Furuncle of head  [any part, except face]"
 L02.828	Furuncle of other sites
-L02.831	"Carbuncle of head \[any part, except face]"
+L02.831	"Carbuncle of head  [any part, except face]"
 L02.838	Carbuncle of other sites
 L02.91	"Cutaneous abscess, unspecified"
 L02.92	"Furuncle, unspecified"
@@ -11755,7 +11755,7 @@ L03.213	Periorbital cellulitis
 L03.221	Cellulitis of neck
 L03.222	Acute lymphangitis of neck
 L03.311	Cellulitis of abdominal wall
-L03.312	Cellulitis of back \[any part except buttock]
+L03.312	Cellulitis of back  [any part except buttock]
 L03.313	Cellulitis of chest wall
 L03.314	Cellulitis of groin
 L03.315	Cellulitis of perineum
@@ -11764,7 +11764,7 @@ L03.317	Cellulitis of buttock
 L03.319	"Cellulitis of trunk, unspecified"
 L03.31A	Cellulitis of flank
 L03.321	Acute lymphangitis of abdominal wall
-L03.322	Acute lymphangitis of back \[any part except buttock]
+L03.322	Acute lymphangitis of back  [any part except buttock]
 L03.323	Acute lymphangitis of chest wall
 L03.324	Acute lymphangitis of groin
 L03.325	Acute lymphangitis of perineum
@@ -11772,9 +11772,9 @@ L03.326	Acute lymphangitis of umbilicus
 L03.327	Acute lymphangitis of buttock
 L03.329	"Acute lymphangitis of trunk, unspecified"
 L03.32A	Acute lymphangitis of flank
-L03.811	"Cellulitis of head \[any part, except face]"
+L03.811	"Cellulitis of head  [any part, except face]"
 L03.818	Cellulitis of other sites
-L03.891	"Acute lymphangitis of head \[any part, except face]"
+L03.891	"Acute lymphangitis of head  [any part, except face]"
 L03.898	Acute lymphangitis of other sites
 L03.90	"Cellulitis, unspecified"
 L03.91	"Acute lymphangitis, unspecified"
@@ -11797,14 +11797,14 @@ L08.9	"Local infection of the skin and subcutaneous tissue, unspecified"
 L10.0	Pemphigus vulgaris
 L10.1	Pemphigus vegetans
 L10.2	Pemphigus foliaceous
-L10.3	Brazilian pemphigus \[fogo selvagem]
+L10.3	Brazilian pemphigus  [fogo selvagem]
 L10.4	Pemphigus erythematosus
 L10.5	Drug-induced pemphigus
 L10.81	Paraneoplastic pemphigus
 L10.89	Other pemphigus
 L10.9	"Pemphigus, unspecified"
 L11.0	Acquired keratosis follicularis
-L11.1	Transient acantholytic dermatosis \[Grover]
+L11.1	Transient acantholytic dermatosis  [Grover]
 L11.8	Other specified acantholytic disorders
 L11.9	"Acantholytic disorder, unspecified"
 L12.0	Bullous pemphigoid
@@ -11887,7 +11887,7 @@ L29.81	Cholestatic pruritus
 L29.89	Other pruritus
 L29.9	"Pruritus, unspecified"
 L30.0	Nummular dermatitis
-L30.1	Dyshidrosis \[pompholyx]
+L30.1	Dyshidrosis  [pompholyx]
 L30.2	Cutaneous autosensitization
 L30.3	Infective dermatitis
 L30.4	Erythema intertrigo
@@ -11925,7 +11925,7 @@ L44.0	Pityriasis rubra pilaris
 L44.1	Lichen nitidus
 L44.2	Lichen striatus
 L44.3	Lichen ruber moniliformis
-L44.4	Infantile papular acrodermatitis \[Gianotti-Crosti]
+L44.4	Infantile papular acrodermatitis  [Gianotti-Crosti]
 L44.8	Other specified papulosquamous disorders
 L44.9	"Papulosquamous disorder, unspecified"
 L45.	Papulosquamous disorders in diseases classified elsewhere
@@ -11950,7 +11950,7 @@ L50.8	Other urticaria
 L50.9	"Urticaria, unspecified"
 L51.0	Nonbullous erythema multiforme
 L51.1	Stevens-Johnson syndrome
-L51.2	Toxic epidermal necrolysis \[Lyell]
+L51.2	Toxic epidermal necrolysis  [Lyell]
 L51.3	Stevens-Johnson syndrome-toxic epidermal necrolysis overlap syndrome
 L51.8	Other erythema multiforme
 L51.9	"Erythema multiforme, unspecified"
@@ -11968,7 +11968,7 @@ L55.2	Sunburn of third degree
 L55.9	"Sunburn, unspecified"
 L56.0	Drug phototoxic response
 L56.1	Drug photoallergic response
-L56.2	Photocontact dermatitis \[berloque dermatitis]
+L56.2	Photocontact dermatitis  [berloque dermatitis]
 L56.3	Solar urticaria
 L56.4	Polymorphous light eruption
 L56.5	Disseminated superficial actinic porokeratosis (DSAP)
@@ -11985,7 +11985,7 @@ L57.9	"Skin changes due to chronic exposure to nonionizing radiation, unspecifie
 L58.0	Acute radiodermatitis
 L58.1	Chronic radiodermatitis
 L58.9	"Radiodermatitis, unspecified"
-L59.0	Erythema ab igne \[dermatitis ab igne]
+L59.0	Erythema ab igne  [dermatitis ab igne]
 L59.8	Other specified disorders of the skin and subcutaneous tissue related to radiation
 L59.9	"Disorder of the skin and subcutaneous tissue related to radiation, unspecified"
 L60.0	Ingrowing nail
@@ -12101,7 +12101,7 @@ L82.1	Other seborrheic keratosis
 L83.	Acanthosis nigricans
 L84.	Corns and callosities
 L85.0	Acquired ichthyosis
-L85.1	Acquired keratosis \[keratoderma] palmaris et plantaris
+L85.1	Acquired keratosis  [keratoderma] palmaris et plantaris
 L85.2	Keratosis punctata (palmaris et plantaris)
 L85.3	Xerosis cutis
 L85.8	Other specified epidermal thickening
@@ -12302,14 +12302,14 @@ L91.8	Other hypertrophic disorders of the skin
 L91.9	"Hypertrophic disorder of the skin, unspecified"
 L92.0	Granuloma annulare
 L92.1	"Necrobiosis lipoidica, not elsewhere classified"
-L92.2	Granuloma faciale \[eosinophilic granuloma of skin]
+L92.2	Granuloma faciale  [eosinophilic granuloma of skin]
 L92.3	Foreign body granuloma of the skin and subcutaneous tissue
 L92.8	Other granulomatous disorders of the skin and subcutaneous tissue
 L92.9	"Granulomatous disorder of the skin and subcutaneous tissue, unspecified"
 L93.0	Discoid lupus erythematosus
 L93.1	Subacute cutaneous lupus erythematosus
 L93.2	Other local lupus erythematosus
-L94.0	Localized scleroderma \[morphea]
+L94.0	Localized scleroderma  [morphea]
 L94.1	Linear scleroderma
 L94.2	Calcinosis cutis
 L94.3	Sclerodactyly
@@ -12492,8 +12492,8 @@ L97.928	Non-pressure chronic ulcer of unspecified part of left lower leg with ot
 L97.929	Non-pressure chronic ulcer of unspecified part of left lower leg with unspecified severity
 L98.0	Pyogenic granuloma
 L98.1	Factitial dermatitis
-L98.2	Febrile neutrophilic dermatosis \[Sweet]
-L98.3	Eosinophilic cellulitis \[Wells]
+L98.2	Febrile neutrophilic dermatosis  [Sweet]
+L98.3	Eosinophilic cellulitis  [Wells]
 L98.411	Non-pressure chronic ulcer of buttock limited to breakdown of skin
 L98.412	Non-pressure chronic ulcer of buttock with fat layer exposed
 L98.413	Non-pressure chronic ulcer of buttock with necrosis of muscle
@@ -13803,30 +13803,30 @@ M11.879	"Other specified crystal arthropathies, unspecified ankle and foot"
 M11.88	"Other specified crystal arthropathies, vertebrae"
 M11.89	"Other specified crystal arthropathies, multiple sites"
 M11.9	"Crystal arthropathy, unspecified"
-M12.00	"Chronic postrheumatic arthropathy \[Jaccoud], unspecified site"
-M12.011	"Chronic postrheumatic arthropathy \[Jaccoud], right shoulder"
-M12.012	"Chronic postrheumatic arthropathy \[Jaccoud], left shoulder"
-M12.019	"Chronic postrheumatic arthropathy \[Jaccoud], unspecified shoulder"
-M12.021	"Chronic postrheumatic arthropathy \[Jaccoud], right elbow"
-M12.022	"Chronic postrheumatic arthropathy \[Jaccoud], left elbow"
-M12.029	"Chronic postrheumatic arthropathy \[Jaccoud], unspecified elbow"
-M12.031	"Chronic postrheumatic arthropathy \[Jaccoud], right wrist"
-M12.032	"Chronic postrheumatic arthropathy \[Jaccoud], left wrist"
-M12.039	"Chronic postrheumatic arthropathy \[Jaccoud], unspecified wrist"
-M12.041	"Chronic postrheumatic arthropathy \[Jaccoud], right hand"
-M12.042	"Chronic postrheumatic arthropathy \[Jaccoud], left hand"
-M12.049	"Chronic postrheumatic arthropathy \[Jaccoud], unspecified hand"
-M12.051	"Chronic postrheumatic arthropathy \[Jaccoud], right hip"
-M12.052	"Chronic postrheumatic arthropathy \[Jaccoud], left hip"
-M12.059	"Chronic postrheumatic arthropathy \[Jaccoud], unspecified hip"
-M12.061	"Chronic postrheumatic arthropathy \[Jaccoud], right knee"
-M12.062	"Chronic postrheumatic arthropathy \[Jaccoud], left knee"
-M12.069	"Chronic postrheumatic arthropathy \[Jaccoud], unspecified knee"
-M12.071	"Chronic postrheumatic arthropathy \[Jaccoud], right ankle and foot"
-M12.072	"Chronic postrheumatic arthropathy \[Jaccoud], left ankle and foot"
-M12.079	"Chronic postrheumatic arthropathy \[Jaccoud], unspecified ankle and foot"
-M12.08	"Chronic postrheumatic arthropathy \[Jaccoud], other specified site"
-M12.09	"Chronic postrheumatic arthropathy \[Jaccoud], multiple sites"
+M12.00	"Chronic postrheumatic arthropathy  [Jaccoud], unspecified site"
+M12.011	"Chronic postrheumatic arthropathy  [Jaccoud], right shoulder"
+M12.012	"Chronic postrheumatic arthropathy  [Jaccoud], left shoulder"
+M12.019	"Chronic postrheumatic arthropathy  [Jaccoud], unspecified shoulder"
+M12.021	"Chronic postrheumatic arthropathy  [Jaccoud], right elbow"
+M12.022	"Chronic postrheumatic arthropathy  [Jaccoud], left elbow"
+M12.029	"Chronic postrheumatic arthropathy  [Jaccoud], unspecified elbow"
+M12.031	"Chronic postrheumatic arthropathy  [Jaccoud], right wrist"
+M12.032	"Chronic postrheumatic arthropathy  [Jaccoud], left wrist"
+M12.039	"Chronic postrheumatic arthropathy  [Jaccoud], unspecified wrist"
+M12.041	"Chronic postrheumatic arthropathy  [Jaccoud], right hand"
+M12.042	"Chronic postrheumatic arthropathy  [Jaccoud], left hand"
+M12.049	"Chronic postrheumatic arthropathy  [Jaccoud], unspecified hand"
+M12.051	"Chronic postrheumatic arthropathy  [Jaccoud], right hip"
+M12.052	"Chronic postrheumatic arthropathy  [Jaccoud], left hip"
+M12.059	"Chronic postrheumatic arthropathy  [Jaccoud], unspecified hip"
+M12.061	"Chronic postrheumatic arthropathy  [Jaccoud], right knee"
+M12.062	"Chronic postrheumatic arthropathy  [Jaccoud], left knee"
+M12.069	"Chronic postrheumatic arthropathy  [Jaccoud], unspecified knee"
+M12.071	"Chronic postrheumatic arthropathy  [Jaccoud], right ankle and foot"
+M12.072	"Chronic postrheumatic arthropathy  [Jaccoud], left ankle and foot"
+M12.079	"Chronic postrheumatic arthropathy  [Jaccoud], unspecified ankle and foot"
+M12.08	"Chronic postrheumatic arthropathy  [Jaccoud], other specified site"
+M12.09	"Chronic postrheumatic arthropathy  [Jaccoud], multiple sites"
 M12.10	"Kaschin-Beck disease, unspecified site"
 M12.111	"Kaschin-Beck disease, right shoulder"
 M12.112	"Kaschin-Beck disease, left shoulder"
@@ -14252,9 +14252,9 @@ M21.339	"Wrist drop, unspecified wrist"
 M21.371	"Foot drop, right foot"
 M21.372	"Foot drop, left foot"
 M21.379	"Foot drop, unspecified foot"
-M21.40	"Flat foot \[pes planus] (acquired), unspecified foot"
-M21.41	"Flat foot \[pes planus] (acquired), right foot"
-M21.42	"Flat foot \[pes planus] (acquired), left foot"
+M21.40	"Flat foot  [pes planus] (acquired), unspecified foot"
+M21.41	"Flat foot  [pes planus] (acquired), right foot"
+M21.42	"Flat foot  [pes planus] (acquired), left foot"
 M21.511	"Acquired clawhand, right hand"
 M21.512	"Acquired clawhand, left hand"
 M21.519	"Acquired clawhand, unspecified hand"
@@ -14979,18 +14979,18 @@ M27.69	Other endosseous dental implant failure
 M27.8	Other specified diseases of jaws
 M27.9	"Disease of jaws, unspecified"
 M30.0	Polyarteritis nodosa
-M30.1	Polyarteritis with lung involvement \[Churg-Strauss]
+M30.1	Polyarteritis with lung involvement  [Churg-Strauss]
 M30.2	Juvenile polyarteritis
-M30.3	Mucocutaneous lymph node syndrome \[Kawasaki]
+M30.3	Mucocutaneous lymph node syndrome  [Kawasaki]
 M30.8	Other conditions related to polyarteritis nodosa
 M31.0	Hypersensitivity angiitis
 M31.10	"Thrombotic microangiopathy, unspecified"
-M31.11	Hematopoietic stem cell transplantation-associated thrombotic microangiopathy \[HSCT-TMA]
+M31.11	Hematopoietic stem cell transplantation-associated thrombotic microangiopathy  [HSCT-TMA]
 M31.19	Other thrombotic microangiopathy
 M31.2	Lethal midline granuloma
 M31.30	Wegener's granulomatosis without renal involvement
 M31.31	Wegener's granulomatosis with renal involvement
-M31.4	Aortic arch syndrome \[Takayasu]
+M31.4	Aortic arch syndrome  [Takayasu]
 M31.5	Giant cell arteritis with polymyalgia rheumatica
 M31.6	Other giant cell arteritis
 M31.7	Microscopic polyangiitis
@@ -15051,7 +15051,7 @@ M35.2	Behcet's disease
 M35.3	Polymyalgia rheumatica
 M35.4	Diffuse (eosinophilic) fasciitis
 M35.5	Multifocal fibrosclerosis
-M35.6	Relapsing panniculitis \[Weber-Christian]
+M35.6	Relapsing panniculitis  [Weber-Christian]
 M35.7	Hypermobility syndrome
 M35.81	Multisystem inflammatory syndrome
 M35.89	Other specified systemic involvement of connective tissue
@@ -15364,16 +15364,16 @@ M48.061	"Spinal stenosis, lumbar region without neurogenic claudication"
 M48.062	"Spinal stenosis, lumbar region with neurogenic claudication"
 M48.07	"Spinal stenosis, lumbosacral region"
 M48.08	"Spinal stenosis, sacral and sacrococcygeal region"
-M48.10	"Ankylosing hyperostosis \[Forestier], site unspecified"
-M48.11	"Ankylosing hyperostosis \[Forestier], occipito-atlanto-axial region"
-M48.12	"Ankylosing hyperostosis \[Forestier], cervical region"
-M48.13	"Ankylosing hyperostosis \[Forestier], cervicothoracic region"
-M48.14	"Ankylosing hyperostosis \[Forestier], thoracic region"
-M48.15	"Ankylosing hyperostosis \[Forestier], thoracolumbar region"
-M48.16	"Ankylosing hyperostosis \[Forestier], lumbar region"
-M48.17	"Ankylosing hyperostosis \[Forestier], lumbosacral region"
-M48.18	"Ankylosing hyperostosis \[Forestier], sacral and sacrococcygeal region"
-M48.19	"Ankylosing hyperostosis \[Forestier], multiple sites in spine"
+M48.10	"Ankylosing hyperostosis  [Forestier], site unspecified"
+M48.11	"Ankylosing hyperostosis  [Forestier], occipito-atlanto-axial region"
+M48.12	"Ankylosing hyperostosis  [Forestier], cervical region"
+M48.13	"Ankylosing hyperostosis  [Forestier], cervicothoracic region"
+M48.14	"Ankylosing hyperostosis  [Forestier], thoracic region"
+M48.15	"Ankylosing hyperostosis  [Forestier], thoracolumbar region"
+M48.16	"Ankylosing hyperostosis  [Forestier], lumbar region"
+M48.17	"Ankylosing hyperostosis  [Forestier], lumbosacral region"
+M48.18	"Ankylosing hyperostosis  [Forestier], sacral and sacrococcygeal region"
+M48.19	"Ankylosing hyperostosis  [Forestier], multiple sites in spine"
 M48.20	"Kissing spine, site unspecified"
 M48.21	"Kissing spine, occipito-atlanto-axial region"
 M48.22	"Kissing spine, cervical region"
@@ -16120,7 +16120,7 @@ M65.349	"Trigger finger, unspecified ring finger"
 M65.351	"Trigger finger, right little finger"
 M65.352	"Trigger finger, left little finger"
 M65.359	"Trigger finger, unspecified little finger"
-M65.4	Radial styloid tenosynovitis \[de Quervain]
+M65.4	Radial styloid tenosynovitis  [de Quervain]
 M65.80	"Other synovitis and tenosynovitis, unspecified site"
 M65.811	"Other synovitis and tenosynovitis, right shoulder"
 M65.812	"Other synovitis and tenosynovitis, left shoulder"
@@ -16535,9 +16535,9 @@ M71.172	"Other infective bursitis, left ankle and foot"
 M71.179	"Other infective bursitis, unspecified ankle and foot"
 M71.18	"Other infective bursitis, other site"
 M71.19	"Other infective bursitis, multiple sites"
-M71.20	"Synovial cyst of popliteal space \[Baker], unspecified knee"
-M71.21	"Synovial cyst of popliteal space \[Baker], right knee"
-M71.22	"Synovial cyst of popliteal space \[Baker], left knee"
+M71.20	"Synovial cyst of popliteal space  [Baker], unspecified knee"
+M71.21	"Synovial cyst of popliteal space  [Baker], right knee"
+M71.22	"Synovial cyst of popliteal space  [Baker], left knee"
 M71.30	"Other bursal cyst, unspecified site"
 M71.311	"Other bursal cyst, right shoulder"
 M71.312	"Other bursal cyst, left shoulder"
@@ -16625,7 +16625,7 @@ M71.879	"Other specified bursopathies, unspecified ankle and foot"
 M71.88	"Other specified bursopathies, other site"
 M71.89	"Other specified bursopathies, multiple sites"
 M71.9	"Bursopathy, unspecified"
-M72.0	Palmar fascial fibromatosis \[Dupuytren]
+M72.0	Palmar fascial fibromatosis  [Dupuytren]
 M72.1	Knuckle pads
 M72.2	Plantar fascial fibromatosis
 M72.4	Pseudosarcomatous fibromatosis
@@ -16674,9 +16674,9 @@ M76.22	"Iliac crest spur, left hip"
 M76.30	"Iliotibial band syndrome, unspecified leg"
 M76.31	"Iliotibial band syndrome, right leg"
 M76.32	"Iliotibial band syndrome, left leg"
-M76.40	"Tibial collateral bursitis \[Pellegrini-Stieda], unspecified leg"
-M76.41	"Tibial collateral bursitis \[Pellegrini-Stieda], right leg"
-M76.42	"Tibial collateral bursitis \[Pellegrini-Stieda], left leg"
+M76.40	"Tibial collateral bursitis  [Pellegrini-Stieda], unspecified leg"
+M76.41	"Tibial collateral bursitis  [Pellegrini-Stieda], right leg"
+M76.42	"Tibial collateral bursitis  [Pellegrini-Stieda], left leg"
 M76.50	"Patellar tendinitis, unspecified knee"
 M76.51	"Patellar tendinitis, right knee"
 M76.52	"Patellar tendinitis, left knee"
@@ -17093,7 +17093,7 @@ M80.8B9K	"Other osteoporosis with current pathological fracture, unspecified pel
 M80.8B9P	"Other osteoporosis with current pathological fracture, unspecified pelvis, subsequent encounter for fracture with malunion"
 M80.8B9S	"Other osteoporosis with current pathological fracture, unspecified pelvis, sequela"
 M81.0	Age-related osteoporosis without current pathological fracture
-M81.6	Localized osteoporosis \[Lequesne]
+M81.6	Localized osteoporosis  [Lequesne]
 M81.8	Other osteoporosis without current pathological fracture
 M83.0	Puerperal osteomalacia
 M83.1	Senile osteomalacia
@@ -18917,9 +18917,9 @@ M90.879	"Osteopathy in diseases classified elsewhere, unspecified ankle and foot
 M90.88	"Osteopathy in diseases classified elsewhere, other site"
 M90.89	"Osteopathy in diseases classified elsewhere, multiple sites"
 M91.0	Juvenile osteochondrosis of pelvis
-M91.10	"Juvenile osteochondrosis of head of femur \[Legg-Calve-Perthes], unspecified leg"
-M91.11	"Juvenile osteochondrosis of head of femur \[Legg-Calve-Perthes], right leg"
-M91.12	"Juvenile osteochondrosis of head of femur \[Legg-Calve-Perthes], left leg"
+M91.10	"Juvenile osteochondrosis of head of femur  [Legg-Calve-Perthes], unspecified leg"
+M91.11	"Juvenile osteochondrosis of head of femur  [Legg-Calve-Perthes], right leg"
+M91.12	"Juvenile osteochondrosis of head of femur  [Legg-Calve-Perthes], left leg"
 M91.20	"Coxa plana, unspecified hip"
 M91.21	"Coxa plana, right hip"
 M91.22	"Coxa plana, left hip"
@@ -18944,12 +18944,12 @@ M92.12	"Juvenile osteochondrosis of radius and ulna, left arm"
 M92.201	"Unspecified juvenile osteochondrosis, right hand"
 M92.202	"Unspecified juvenile osteochondrosis, left hand"
 M92.209	"Unspecified juvenile osteochondrosis, unspecified hand"
-M92.211	"Osteochondrosis (juvenile) of carpal lunate \[Kienbock], right hand"
-M92.212	"Osteochondrosis (juvenile) of carpal lunate \[Kienbock], left hand"
-M92.219	"Osteochondrosis (juvenile) of carpal lunate \[Kienbock], unspecified hand"
-M92.221	"Osteochondrosis (juvenile) of metacarpal heads \[Mauclaire], right hand"
-M92.222	"Osteochondrosis (juvenile) of metacarpal heads \[Mauclaire], left hand"
-M92.229	"Osteochondrosis (juvenile) of metacarpal heads \[Mauclaire], unspecified hand"
+M92.211	"Osteochondrosis (juvenile) of carpal lunate  [Kienbock], right hand"
+M92.212	"Osteochondrosis (juvenile) of carpal lunate  [Kienbock], left hand"
+M92.219	"Osteochondrosis (juvenile) of carpal lunate  [Kienbock], unspecified hand"
+M92.221	"Osteochondrosis (juvenile) of metacarpal heads  [Mauclaire], right hand"
+M92.222	"Osteochondrosis (juvenile) of metacarpal heads  [Mauclaire], left hand"
+M92.229	"Osteochondrosis (juvenile) of metacarpal heads  [Mauclaire], unspecified hand"
 M92.291	"Other juvenile osteochondrosis, right hand"
 M92.292	"Other juvenile osteochondrosis, left hand"
 M92.299	"Other juvenile osteochondrosis, unspecified hand"
@@ -19088,7 +19088,7 @@ M93.972	"Osteochondropathy, unspecified, left ankle and foot"
 M93.979	"Osteochondropathy, unspecified, unspecified ankle and foot"
 M93.98	"Osteochondropathy, unspecified other"
 M93.99	"Osteochondropathy, unspecified multiple sites"
-M94.0	Chondrocostal junction syndrome \[Tietze]
+M94.0	Chondrocostal junction syndrome  [Tietze]
 M94.1	Relapsing polychondritis
 M94.20	"Chondromalacia, unspecified site"
 M94.211	"Chondromalacia, right shoulder"
@@ -19406,7 +19406,7 @@ N07.7	"Hereditary nephropathy, not elsewhere classified with diffuse crescentic 
 N07.8	"Hereditary nephropathy, not elsewhere classified with other morphologic lesions"
 N07.9	"Hereditary nephropathy, not elsewhere classified with unspecified morphologic lesions"
 N07.A	"Hereditary nephropathy, not elsewhere classified with C3 glomerulonephritis"
-N07.B	"Hereditary nephropathy, not elsewhere classified with APOL1-mediated kidney disease \[AMKD]"
+N07.B	"Hereditary nephropathy, not elsewhere classified with APOL1-mediated kidney disease  [AMKD]"
 N08.	Glomerular disorders in diseases classified elsewhere
 N10.	Acute pyelonephritis
 N11.0	Nonobstructive reflux-associated chronic pyelonephritis
@@ -20000,7 +20000,7 @@ N84.8	Polyp of other parts of female genital tract
 N84.9	"Polyp of female genital tract, unspecified"
 N85.00	"Endometrial hyperplasia, unspecified"
 N85.01	Benign endometrial hyperplasia
-N85.02	Endometrial intraepithelial neoplasia \[EIN]
+N85.02	Endometrial intraepithelial neoplasia  [EIN]
 N85.2	Hypertrophy of uterus
 N85.3	Subinvolution of uterus
 N85.4	Malposition of uterus
@@ -20355,12 +20355,12 @@ O12.22	"Gestational edema with proteinuria, second trimester"
 O12.23	"Gestational edema with proteinuria, third trimester"
 O12.24	"Gestational edema with proteinuria, complicating childbirth"
 O12.25	"Gestational edema with proteinuria, complicating the puerperium"
-O13.1	"Gestational \[pregnancy-induced] hypertension without significant proteinuria, first trimester"
-O13.2	"Gestational \[pregnancy-induced] hypertension without significant proteinuria, second trimester"
-O13.3	"Gestational \[pregnancy-induced] hypertension without significant proteinuria, third trimester"
-O13.4	"Gestational \[pregnancy-induced] hypertension without significant proteinuria, complicating childbirth"
-O13.5	"Gestational \[pregnancy-induced] hypertension without significant proteinuria, complicating the puerperium"
-O13.9	"Gestational \[pregnancy-induced] hypertension without significant proteinuria, unspecified trimester"
+O13.1	"Gestational  [pregnancy-induced] hypertension without significant proteinuria, first trimester"
+O13.2	"Gestational  [pregnancy-induced] hypertension without significant proteinuria, second trimester"
+O13.3	"Gestational  [pregnancy-induced] hypertension without significant proteinuria, third trimester"
+O13.4	"Gestational  [pregnancy-induced] hypertension without significant proteinuria, complicating childbirth"
+O13.5	"Gestational  [pregnancy-induced] hypertension without significant proteinuria, complicating the puerperium"
+O13.9	"Gestational  [pregnancy-induced] hypertension without significant proteinuria, unspecified trimester"
 O14.00	"Mild to moderate pre-eclampsia, unspecified trimester"
 O14.02	"Mild to moderate pre-eclampsia, second trimester"
 O14.03	"Mild to moderate pre-eclampsia, third trimester"

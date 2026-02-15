@@ -1,4 +1,4 @@
-# CPT Code 21315: Documentation & Billing Guide
+# 🩺CPT Code 21315: Documentation & Billing Guide
 ## Osteotomy, Maxilla, with Synchronous Repositioning of Segments and Soft Tissues (LeFort I)
 
 **Last Updated:** February 2026  
@@ -31,7 +31,7 @@
 
 ---
 
-## SHORT DEFINITION
+## 📋SHORT DEFINITION
 
 **CPT 21315** describes a **LeFort I maxillary osteotomy** with repositioning of the maxilla (upper jaw). This major surgical procedure involves cutting the maxilla above the teeth with synchronous repositioning of the maxillary bone segments and soft tissues to correct skeletal malocclusion, jaw deformities, sleep apnea, or functional/esthetic problems.
 
