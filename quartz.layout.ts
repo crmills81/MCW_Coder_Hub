@@ -8,9 +8,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
       "HappyCOVERGIRLCo": "https://happycovergirlcocovers.com",
+      "My Etsy Shop!": "happycovergirlco.etsy.com",
+      "My Bluesky": "https://bsky.app/profile/happycovergirlcocovers.com",
+      "My Pinterest": "https://www.pinterest.com/HappyCOVERGIRLCoArts/",
     },
   }),
 }
@@ -20,7 +21,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
       component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "Yay, CODING!",
+      condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
