@@ -1,9 +1,17 @@
 ---
-title: "-RT"
-description: "Modifier -RT (Right side)"
-last_updated: "2026-02"
-type: "coding-guide"
-specialty_tags: ["ophthalmology", "ENT", "modifiers", "laterality", "Medicare"]
+title: -RT
+description: Modifier -RT (Right side)
+last_updated: 2026-02
+type: coding-guide
+specialty_tags:
+  - ophthalmology
+  - ENT
+  - modifiers
+  - laterality
+  - Medicare
+aliases:
+  - Modifier -RT
+  - Modifier RT
 ---
 
 # Modifier -RT: Right side (laterality modifier)

@@ -1,9 +1,17 @@
 ---
-title: "-TC"
-description: "Modifier -TC (Technical Component)"
-last_updated: "2026-02-13"
-type: "coding-guide"
-specialty_tags: ["ophthalmology", "ENT", "modifiers", "component-billing", "Medicare"]
+title: -TC
+description: Modifier -TC (Technical Component)
+last_updated: 2026-02-13
+type: coding-guide
+specialty_tags:
+  - ophthalmology
+  - ENT
+  - modifiers
+  - component-billing
+  - Medicare
+aliases:
+  - Modifier -TC
+  - Modifier TC
 ---
 
 # Modifier -TC: Technical component (component billing)
@@ -16,7 +24,7 @@ specialty_tags: ["ophthalmology", "ENT", "modifiers", "component-billing", "Medi
 ---
 
 ## Medicare PC/TC indicator (the “is -TC allowed?” switch)
-CMS uses the MPFS **Professional Component/Technical Component (PC/TC) indicator** to show whether a CPT/HCPCS code can be split into professional vs technical components. 
+CMS uses the MPFS **Professional Component/Technical Component ([[PC]]/TC) indicator** to show whether a CPT/HCPCS code can be split into professional vs technical components. 
 
 Common PC/TC indicator meanings (from CMS MPFS indicator definitions):
 - **Indicator 0 (physician service):** PC/TC concept does not apply; **-26 and -TC cannot be used**. 

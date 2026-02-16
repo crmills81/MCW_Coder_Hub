@@ -8134,7 +8134,7 @@ H53.043	"Amblyopia suspect, bilateral"
 H53.049	"Amblyopia suspect, unspecified eye"
 [[H53.10]]	Unspecified subjective visual disturbances
 H53.11	Day blindness
-[[H53.121]]	"Transient visual loss, right eye"
+[[H53.122]]	"Transient visual loss, right eye"
 [[H53.122]]	"Transient visual loss, left eye"
 [[H53.123]]	"Transient visual loss, bilateral"
 [[H53.129]]	"Transient visual loss, unspecified eye"

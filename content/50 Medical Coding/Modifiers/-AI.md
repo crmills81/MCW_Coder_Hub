@@ -1,9 +1,19 @@
 ---
-title: "-AI"
-description: "Modifier -AI (Principal Physician of Record)"
-last_updated: "2026-02-13"
-type: "coding-guide"
-specialty_tags: ["ophthalmology", "ENT", "E/M", "hospital", "nursing-facility", "Medicare", "modifiers"]
+title: -AI
+description: Modifier -AI (Principal Physician of Record)
+last_updated: 2026-02-13
+type: coding-guide
+specialty_tags:
+  - ophthalmology
+  - ENT
+  - E/M
+  - hospital
+  - nursing-facility
+  - Medicare
+  - modifiers
+aliases:
+  - Modifier -AI
+  - Modifier AI
 ---
 
 # Modifier -AI: Principal Physician of Record (Medicare)

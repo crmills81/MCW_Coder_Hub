@@ -1,9 +1,18 @@
 ---
-title: "-GC"
-description: "Modifier -GC (Teaching Physician / Resident Involvement)"
-last_updated: "2026-02-13"
-type: "coding-guide"
-specialty_tags: ["ophthalmology", "ENT", "teaching-physician", "GME", "Medicare", "modifiers"]
+title: -GC
+description: Modifier -GC (Teaching Physician / Resident Involvement)
+last_updated: 2026-02-13
+type: coding-guide
+specialty_tags:
+  - ophthalmology
+  - ENT
+  - teaching-physician
+  - GME
+  - Medicare
+  - modifiers
+aliases:
+  - Modifier -GC
+  - Modifier GC
 ---
 
 # Modifier -GC: Resident service under teaching physician direction

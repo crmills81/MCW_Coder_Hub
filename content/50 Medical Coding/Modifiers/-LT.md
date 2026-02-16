@@ -1,9 +1,17 @@
 ---
-title: "-LT"
-description: "Modifier -LT (Left side)"
-last_updated: "2026-02"
-type: "coding-guide"
-specialty_tags: ["ophthalmology", "ENT", "modifiers", "laterality", "Medicare"]
+title: -LT
+description: Modifier -LT (Left side)
+last_updated: 2026-02
+type: coding-guide
+specialty_tags:
+  - ophthalmology
+  - ENT
+  - modifiers
+  - laterality
+  - Medicare
+aliases:
+  - Modifier -LT
+  - Modifier LT
 ---
 
 # Modifier -LT: Left side (laterality modifier)
