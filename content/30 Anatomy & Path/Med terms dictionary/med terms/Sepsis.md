@@ -411,7 +411,7 @@ If sepsis documented:
 ### E/M Services (Critical Care)
 - **[[99291]]** - Critical care, first 30-74 minutes
 - **[[99292]]** - Critical care, each additional 30 minutes
-- **[[99221]]-[[99223]]** - Initial hospital care
+- **[[10 Guidelines/00 E&M Resources/99221]]-[[99223]]** - Initial hospital care
 - **[[99231]]-[[99233]]** - Subsequent hospital care
 - **[[99281]]-[[99285]]** - Emergency department services
 - **[[99304]]-[[99310]]** - Nursing facility services (if sepsis in SNF)

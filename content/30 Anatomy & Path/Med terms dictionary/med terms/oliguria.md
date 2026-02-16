@@ -526,7 +526,7 @@ last_updated: 2026-02-10
 ## Common CPT Codes with Oliguria
 
 ### E/M Services
-- **[[99221]]-[[99223]]** - Initial hospital care
+- **[[10 Guidelines/00 E&M Resources/99221]]-[[99223]]** - Initial hospital care
 - **[[99231-[[99233]]** - Subsequent hospital care
 - **[[99291-[[99292]]** - Critical care (if severe)
 - **[[99281-[[99285]]** - Emergency department services

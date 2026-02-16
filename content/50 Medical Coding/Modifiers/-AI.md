@@ -27,7 +27,7 @@ CMS also notes the goal is identification on **initial hospital/NF** codes, and 
 
 ## Documentation requirements (what to see in the record)
 The chart should make it clear that the billing provider is functioning as the **admitting/attending** (the physician overseeing overall care) versus a consultant/specialist providing input. 
-At a minimum, documentation should support the billed **initial hospital** ([[99221]]-[[99223]]) or **initial NF** ([[99304]]-[[99306]]) level of service, and the claim line should reflect principal physician status with **[[-AI]]**.
+At a minimum, documentation should support the billed **initial hospital** ([[10 Guidelines/00 E&M Resources/99221]]-[[99223]]) or **initial NF** ([[99304]]-[[99306]]) level of service, and the claim line should reflect principal physician status with **[[-AI]]**.
 
 Practical documentation cues that help support “principal physician of record” (use what’s true for the encounter):
 - “Admitting physician,” “Attending of record,” “Hospitalist/primary inpatient team,” “Assuming overall inpatient management,” “Oversees care plan and coordinates consultants.” 
@@ -56,6 +56,6 @@ MAC education highlights why this matters operationally: CGS warns that if the p
 
 **Fast checklist**
 - Is this **Medicare (or a payer that mirrors Medicare)**?   
-- Is this an **initial hospital inpatient/observation** ([[99221]]-[[99223]]) or **initial NF** (99304-99306) claim line? 
+- Is this an **initial hospital inpatient/observation** ([[10 Guidelines/00 E&M Resources/99221]]-[[99223]]) or **initial NF** (99304-99306) claim line? 
 - Is the provider truly the **admitting/attending/principal physician of record**?  
 - If yes to all: append **-AI** to that initial E/M line. 

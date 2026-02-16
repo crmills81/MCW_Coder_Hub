@@ -31,7 +31,7 @@ definition:
 
 The suffix **[[-plasty]]** refers to a **surgical procedure performed to repair, restore, reshape, or reconstruct** a tissue or anatomical structure. This may involve altering the shape, improving function, correcting deformities, or restoring normal anatomy after trauma, disease, or congenital abnormalities. Procedures ending in **[[-plasty]]** often involve grafts, implants, reshaping, or removal of damaged tissue.
 
-In coding, **[[-plasty]]** signals that the surgeon performed a **reconstructive or restorative** operation rather than a removal (**[[-ectomy]]**) or fixation ([[**-desis]]**). Understanding this suffix helps confirm that the CPT code selected aligns with the documented surgical intent.
+In coding, **[[-plasty]]** signals that the surgeon performed a **reconstructive or restorative** operation rather than a removal (**[[-ectomy]]**) or fixation (**[[-desis]]**). Understanding this suffix helps confirm that the CPT code selected aligns with the documented surgical intent.
 
 ---
 

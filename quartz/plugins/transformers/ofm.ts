@@ -57,7 +57,7 @@ const defaultOptions: Options = {
   enableYouTubeEmbed: true,
   enableVideoEmbed: true,
   enableCheckbox: true,
-  disableBrokenWikilinks: true,
+  disableBrokenWikilinks: false,
 }
 
 const calloutMapping = {
