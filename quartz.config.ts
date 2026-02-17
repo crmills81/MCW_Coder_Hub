@@ -21,26 +21,26 @@ const config: QuartzConfig = {
       "private", 
       "templates", 
       ".obsidian",
-    "30 Anatomy & Path/Med terms/med roots tables"
+      "content/30 Anatomy & Path/Med terms dictionary/Med roots",
     ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Google Sans",
-        body: "Quicksand",
-        code: "Cascadia Code",
+        header: "Google Sans Code",
+        body: "Google Sans Code",
+        code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
           light: "#faf8f8",
-          lightgray: "#e5e5e5",
+          lightgray: "##eee9f0",
           gray: "#b8b8b8",
           darkgray: "#000000",
-          dark: "#431f69",
+          dark: "#4b2175",
           secondary: "#2f1647",
-          tertiary: "#bf00ff",
+          tertiary: "##600180",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
