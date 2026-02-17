@@ -17,7 +17,12 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "crmills81.github.io/MCW_Coder_Hub",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: [
+      "private", 
+      "templates", 
+      ".obsidian",
+    "30 Anatomy & Path/Med terms/med roots tables",
+    ]
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
