@@ -21,8 +21,8 @@ const config: QuartzConfig = {
       "private", 
       "templates", 
       ".obsidian",
-    "30 Anatomy & Path/Med terms/med roots tables",
-    ]
+    "30 Anatomy & Path/Med terms/med roots tables"
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
