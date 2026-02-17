@@ -12,6 +12,7 @@ specialty_tags:
 aliases:
   - Modifier -TC
   - Modifier TC
+  - TC
 ---
 
 # Modifier -TC: Technical component (component billing)

@@ -13,6 +13,7 @@ specialty_tags:
 aliases:
   - Modifier -GC
   - Modifier GC
+  - GC
 ---
 
 # Modifier -GC: Resident service under teaching physician direction

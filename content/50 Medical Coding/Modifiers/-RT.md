@@ -12,6 +12,7 @@ specialty_tags:
 aliases:
   - Modifier -RT
   - Modifier RT
+  - RT
 ---
 
 # Modifier -RT: Right side (laterality modifier)

@@ -669,7 +669,7 @@ Patient positioned supine, prepped and draped in routine sterile fashion. Genera
 - Typical payment: 16-20% of primary surgeon fee
 - Example: If 21315 pays $455, assistant at surgery (modifier [[-80]]) pays ~$73 - $91
 
-**Co-Surgery ([[Modifier -62]]):**
+**Co-Surgery ([[-62]]):**
 - Two surgeons working simultaneously on same patient
 - Each surgeon bills 21315[[-62]]
 - Each receives 50% of fee (two 50% payments = 100% coverage of procedure)

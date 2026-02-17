@@ -14,6 +14,7 @@ specialty_tags:
 aliases:
   - Modifier -AI
   - Modifier AI
+  - AI
 ---
 
 # Modifier -AI: Principal Physician of Record (Medicare)

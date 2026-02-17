@@ -1,3 +1,6 @@
+Practice Cases
+
+
 This practice case focuses on evaluation and management (E/M) and procedural coding for a complex urological patient. Use the clinical note below to determine the appropriate ICD-10-CM, CPT, and E/M codes.
 
 ## Clinical Note: Subsequent Hospital Visit

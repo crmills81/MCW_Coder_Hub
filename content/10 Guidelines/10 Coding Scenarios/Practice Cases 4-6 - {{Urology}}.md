@@ -1,6 +1,5 @@
-Here are the two urology cases reformatted to match the structure of the first clinical note, including history, examination, and the "Medical Keyword" breakdown for each.
+Practice Cases
 
----
 
 ## Case 4: Clinical Note: Subsequent Hospital Visit
 
