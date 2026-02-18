@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "HappyCOVERGIRLCo": "https://happycovergirlcocovers.com",
-      "My Etsy Shop!": "happycovergirlco.etsy.com",
+      "My Etsy Shop!": "https://happycovergirlco.etsy.com",
       "My Bluesky": "https://bsky.app/profile/happycovergirlcocovers.com",
       "My Pinterest": "https://www.pinterest.com/HappyCOVERGIRLCoArts/",
     },
