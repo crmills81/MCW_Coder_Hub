@@ -1,4 +1,4 @@
-Unlisted CPT codes are non-specific codes used as a **last resort** when no existing CPT or HCPCS Level II code accurately describes the procedure, service, or technology you provided. They act as placeholders for services that are too new, rare, or unusual to have their own permanent code.
+**Unlisted CPT codes** are non-specific codes used as a **last resort** when no existing CPT or HCPCS Level II code accurately describes the procedure, service, or technology you provided. They act as placeholders for services that are too new, rare, or unusual to have their own permanent code.
 
 ### **Why Would I Use Them?**
 
@@ -84,9 +84,9 @@ On your claim or in your notes, tell the insurance company: "This unlisted proce
 
 Based on the provided sources, you should use unlisted procedure codes in [[otolaryngology]], [[Ophthalmology]], and [[urology]] when a specific CPT or HCPCS code that accurately describes the service performed does not exist. It is inappropriate to report the "best fit" code that merely approximates the service; if the specific procedure is not listed, the unlisted code must be used.
 
-Here are specific scenarios and guidelines for these specialties:
+**Here are specific scenarios and guidelines for these specialties:**
 
-### **Otolaryngology (ENT)**
+#### **Otolaryngology (ENT)**
 
 * Turbinate Excision: Use unlisted code [[30999]] (*Unlisted procedure, nose*) when performing excisions of the superior or middle turbinates. The specific CPT code [[30130]] (*Excision inferior turbinate, partial or complete*) is strictly for the inferior turbinate.  
 * Sinus Surgery with Novel Tools: Use unlisted code [[31299]] (*Unlisted procedure, accessory sinuses*) for sinus surgeries utilizing novel technologies, such as certain drug-eluting stents, if no specific code exists for the placement of that stent in that sinus.  
@@ -94,14 +94,14 @@ Here are specific scenarios and guidelines for these specialties:
 * Lacrimal System: Use code [[68899]] (*Unlisted procedure, lacrimal system*) for procedures on the lacrimal system not described by other codes.
 
 
-### **Ophthalmology**
+#### **Ophthalmology**
 
 * Anterior Segment Procedures: Use code [[66999]] (*Unlisted procedure, anterior segment of eye*) for procedures performed on the anterior segment of the eye that do not have a specific code.  
 * General Services: Use code [[92499]] (*Unlisted ophthalmological service or procedure*) for general ophthalmological services or procedures not listed elsewhere.  
 * Visual Fields: Use unlisted codes if an examination method does not fit the defined visual field examination codes ([[92081]]-[[92083]]).
 
 
-### **Urology**
+#### **Urology**
 
 * Laparoscopic Ureter Procedures: Use code [[50949]] (*Unlisted laparoscopy procedure, ureter*) for laparoscopic procedures on the ureter that lack a specific code.  
 * Male Genital Procedures: Use code [[55899]] (*Unlisted procedure, male genital system*) for procedures on the male genital system not described by existing codes.  
