@@ -1,4 +1,4 @@
-# 2026 Coding and Payment Guide – Prostate Health
+# 2026 Coding and Payment Guide - Prostate Health
 
 The coding options listed within this guide are commonly used codes and are not intended to be an all-inclusive list. They are thought to be relevant to Prostate Health procedures and are referenced throughout this document. We recommend consulting your relevant manuals for appropriate coding options. Payer policies will vary and should be verified prior to treatment for limitations on diagnosis, coding, or site of service requirements.
 
@@ -8,7 +8,7 @@ To determine whether there are relevant C-codes for any Boston Scientific produc
 
 CPT® codes with their respective long descriptions will be found on page 3.
 
-## Physician Payment – Medicare Unadjusted National Average
+## Physician Payment - Medicare Unadjusted National Average
 
 <table>
 <thead>
@@ -67,7 +67,7 @@ CPT® codes with their respective long descriptions will be found on page 3.
 
 “N/A” indicates that Medicare has not deemed this procedure to be reimbursable in this setting.
 
-## Hospital Outpatient and ASC Payment – Medicare Unadjusted National Average
+## Hospital Outpatient and ASC Payment - Medicare Unadjusted National Average
 
 <table>
 <thead>
@@ -129,7 +129,7 @@ CPT® codes with their respective long descriptions will be found on page 3.
 
 ---
 
-# Hospital Inpatient Payment – Medicare Unadjusted National Average
+# Hospital Inpatient Payment - Medicare Unadjusted National Average
 
 MS-DRG assignment is based on a combination of diagnoses and procedure codes reported. While MS-DRGs listed in this guide represent likely assignments, Boston Scientific cannot guarantee assignment to any one specific MS-DRG.
 
@@ -291,12 +291,12 @@ Suggested Revenue Code for Device Codes C1889
 
 # 2025 Coding & Payment Quick Reference
 
-Physician payment rates are 2026 Medicare national averages. Source: Centers for Medicare and Medicaid Services. CMS-1832-F, Physician Fee Schedule – Addendum B, Relative Value File October 2025 release, RVU24D file.
+Physician payment rates are 2026 Medicare national averages. Source: Centers for Medicare and Medicaid Services. CMS-1832-F, Physician Fee Schedule - Addendum B, Relative Value File October 2025 release, RVU24D file.
 https://www.cms.gov/medicare/payment/fee-schedules/physician/federal-regulation-notices/cms-1832-f
 
 The 2026 National Average Medicare physician payment rates have been calculated using a 2026 conversion factor effective January 1, 2026, of $33.4009. Rates subject to change.
 
-Hospital outpatient payment rates are 2026 Medicare OPPS Addendum B national averages. Source: Centers for Medicare and Medicaid Services. CMS OPPS – November 2025 release, CMS-1834-FC file.
+Hospital outpatient payment rates are 2026 Medicare OPPS Addendum B national averages. Source: Centers for Medicare and Medicaid Services. CMS OPPS - November 2025 release, CMS-1834-FC file.
 https://www.cms.gov/medicare/payment/prospective-payment-systems/hospital-outpatient/regulations-notices/cms-1834-fc
 
 ASC payment rates are 2026 Medicare ASC Addendum AA national averages. ASC rates are from the 2026 Ambulatory Surgical Center Covered Procedures List. Source: Centers for Medicare and Medicaid Services. CMS ASC November 2025 release, ASC Approved HCPCS Code and Payment Rates https://www.cms.gov/medicare/payment/prospective-payment-systems/ambulatory-surgical-center-asc/asc-regulations-and-notices/cms-1834-fc

@@ -1,12 +1,12 @@
 
 # UnitedHealthcare® Commercial Policy Appendix: Applicable Code List
 
-# Outpatient Surgical Procedures – Site of Service:
+# Outpatient Surgical Procedures - Site of Service:
 # CPT/HCPCS Codes
 
 This list of codes applies to the Medical Policy titled
-**Outpatient Surgical Procedures – Site of Service**
-Effective Date: January 1, 2026 [Procedures – Site of Service](Procedures - Site of Service) for Commercial plans.
+**Outpatient Surgical Procedures - Site of Service**
+Effective Date: January 1, 2026 [Procedures - Site of Service](Procedures - Site of Service) for Commercial plans.
 
 ## Applicable Codes
 

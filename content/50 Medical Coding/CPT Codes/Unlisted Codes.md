@@ -114,7 +114,7 @@ CPT 2026
 | 44238 | Unlisted laparoscopy procedure, intestine (except rectum) |
 | 44799 | Unlisted procedure, small intestine |
 | 44899 | Unlisted procedure, Meckel's diverticulum and the mesentery |
-| 44 44979 | Unlisted laparoscopy procedure, appendix |
+| 44979 | Unlisted laparoscopy procedure, appendix |
 | 45399 | Unlisted procedure, colon |
 | 45499 | Unlisted laparoscopy procedure, rectum |
 | 45999 | Unlisted procedure, rectum |
@@ -125,7 +125,7 @@ CPT 2026
 | 47999 | Unlisted procedure, biliary tract |
 | 48999 | Unlisted procedure, pancreas |
 | 49329 | Unlisted laparoscopy procedure, abdomen, peritoneum and omentum |
-| 4 49659 | Unlisted laparoscopy procedure, herniorrhaphy, herniotomy |
+| 49659 | Unlisted laparoscopy procedure, herniorrhaphy, herniotomy |
 | 49999 | Unlisted procedure, abdomen, peritoneum and omentum |
 | 50549 | Unlisted laparoscopy procedure, renal |
 

@@ -1,8 +1,7 @@
-<header>Stone Management Procedures</header>
 <header>2026 Coding & Payment Quick Reference</header>
 
 
-# 2026 Coding and Payment Guide – Stone Management Procedures
+# 2026 Coding and Payment Guide - Stone Management Procedures
 
 The coding options listed within this guide are commonly used codes and are not intended to be an all-inclusive list. They are thought to be relevant to Stone Management procedures and are referenced throughout this document. We recommend consulting your relevant manuals for appropriate coding options. Payer policies will vary and should be verified prior to treatment for limitations on diagnosis, coding, or site of service requirements.
 
@@ -12,7 +11,7 @@ To determine whether there are relevant C-codes for any Boston Scientific produc
 
 CPT® codes with their respective long descriptions will be found on page 7.
 
-## Physician Payment – Medicare Unadjusted National Average
+## Physician Payment - Medicare Unadjusted National Average
 
 <table>
   <thead>
@@ -165,21 +164,8 @@ CPT® codes with their respective long descriptions will be found on page 7.
 
 “N/A” indicates that Medicare has not deemed this procedure to be reimbursable in this setting.
 
-Copyright 2025 American Medical Association. All rights reserved.
-CPT is a registered trademark of the American Medical Association.
-See important notes on the uses and limitations of this information on page 9.
-
-&lt;page_number&gt;1&lt;/page_number&gt;
 
 ---
-
-
-## Page 2
-
-<header>Stone Management Procedures</header>
-<header>2026 Coding & Payment Quick Reference</header>
-
-# Physician Payment, continued – Medicare Unadjusted National Average
 
 <table>
   <thead>
@@ -308,7 +294,7 @@ See important notes on the uses and limitations of this information on page 9.
     </tr>
     <tr>
       <td>52235</td>
-      <td>Cystourethroscopy, with fulguration and/or resection of medium bladder tumor(s) (2.0 – 5.0 cm)</td>
+      <td>Cystourethroscopy, with fulguration and/or resection of medium bladder tumor(s) (2.0 - 5.0 cm)</td>
       <td>$255</td>
       <td>7.62</td>
       <td>N/A</td>
@@ -327,7 +313,7 @@ See important notes on the uses and limitations of this information on page 9.
 
 “N/A” indicates that Medicare has not deemed this procedure to be reimbursable in this setting.
 
-# Hospital Outpatient and ASC Payment – Medicare Unadjusted National Average
+# Hospital Outpatient and ASC Payment - Medicare Unadjusted National Average
 
 <table>
   <thead>
@@ -424,20 +410,9 @@ See important notes on the uses and limitations of this information on page 9.
 
 * C-code may be applicable. See page 8 for more information.
 
-<footer>Copyright 2025 American Medical Association. All rights reserved.</footer>
-<footer>CPT is a registered trademark of the American Medical Association.</footer>
-<footer>See important notes on the uses and limitations of this information on page 9.</footer>
-&lt;page_number&gt;2&lt;/page_number&gt;
 
 ---
 
-
-## Page 3
-
-<header>Stone Management Procedures</header>
-<header>2026 Coding & Payment Quick Reference</header>
-
-# Hospital Outpatient and ASC Payment, continued – Medicare Unadjusted National Average
 
 <table>
   <thead>
@@ -622,7 +597,7 @@ See important notes on the uses and limitations of this information on page 9.
     </tr>
     <tr>
       <td>52235</td>
-      <td>Cystourethroscopy, with fulguration and/or resection of medium bladder tumor(s) (2.0 – 5.0 cm)</td>
+      <td>Cystourethroscopy, with fulguration and/or resection of medium bladder tumor(s) (2.0 - 5.0 cm)</td>
       <td>5374</td>
       <td>J1</td>
       <td>$3,601</td>
@@ -641,20 +616,10 @@ See important notes on the uses and limitations of this information on page 9.
 
 “N/A” indicates that Medicare has not deemed this procedure to be reimbursable in this setting.
 
-<footer>Copyright 2025 American Medical Association. All rights reserved.
-CPT is a registered trademark of the American Medical Association.
-See important notes on the uses and limitations of this information on page 9.</footer>
-&lt;page_number&gt;3&lt;/page_number&gt;
 
 ---
 
-
-## Page 4
-
-<header>Stone Management Procedures</header>
-<header>2026 Coding & Payment Quick Reference</header>
-
-# Hospital Inpatient Payment – Medicare Unadjusted National Average
+# Hospital Inpatient Payment - Medicare Unadjusted National Average
 
 MS-DRG assignment is based on a combination of diagnoses and procedure codes reported. While MS-DRGs listed in this guide represent likely assignments, Boston Scientific cannot guarantee assignment to any one specific MS-DRG.
 
@@ -785,15 +750,9 @@ The patient's medical record must support the existence and treatment of the com
 </table>
 
 <footer>See important notes on the uses and limitations of this information on page 9.</footer>
-&lt;page_number&gt;4&lt;/page_number&gt;
+
 
 ---
-
-
-## Page 5
-
-<header>Stone Management Procedures</header>
-<header>2026 Coding & Payment Quick Reference</header>
 
 # ICD-10 PCS Procedure Codes
 
@@ -970,17 +929,10 @@ The patient's medical record must support the existence and treatment of the com
 </table>
 
 <footer>See important notes on the uses and limitations of this information on page 9.</footer>
-&lt;page_number&gt;5&lt;/page_number&gt;
+
 
 ---
 
-
-## Page 6
-
-<header>Stone Management Procedures</header>
-<header>2026 Coding & Payment Quick Reference</header>
-
-# ICD-10 PCS Procedure Codes, continued
 
 <table>
   <thead>
@@ -1100,15 +1052,10 @@ The patient's medical record must support the existence and treatment of the com
 </table>
 
 <footer>See important notes on the uses and limitations of this information on page 9.</footer>
-&lt;page_number&gt;6&lt;/page_number&gt;
+
 
 ---
 
-
-## Page 7
-
-<header>Stone Management Procedures</header>
-<header>2026 Coding & Payment Quick Reference</header>
 
 # C-Code Information
 
@@ -1144,8 +1091,6 @@ On claims for Medicare beneficiaries, hospitals should report not only the appro
 *   It's important that hospitals report C-Codes as well as the associated device costs as this may help inform more accurate future outpatient hospital payment rates.
 
 Medicare follows NUBC guidelines.¹ The UB-04 Editor includes the revenue code 0278 for use with C1747.²
-
-Note: The Centers for Medicare & Medicaid Services (CMS) approved a transitional pass-through (TPT) payment category for single-use ureteroscopes, including the LithoVue™ and LithoVue™ Elite Single-Use Digital Flexible Ureteroscope effective January 1, 2023. Separate TPT device reimbursement using device pass-through code C1747 is available for dates of service January 1, 2023, through December 31, 2025. Beginning with dates of service January 1, 2026, separate device reimbursement has expired and reimbursement for the device is packaged into the procedure payment. However, CMS expects providers to continue reporting C1747 for these devices in 2026 so that the agency can collect accurate cost data for future rate-setting.
 
 Suggested Revenue Code for Device Codes C1889
 
@@ -1233,20 +1178,8 @@ Suggested Revenue Code for Device Codes C1889
   </tbody>
 </table>
 
-<footer>Copyright 2025 American Medical Association. All rights reserved.
-CPT is a registered trademark of the American Medical Association.
-See important notes on the uses and limitations of this information on page 9.</footer>
-&lt;page_number&gt;7&lt;/page_number&gt;
-
 ---
 
-
-## Page 8
-
-<header>Stone Management Procedures</header>
-<header>2026 Coding & Payment Quick Reference</header>
-
-CPT® Codes with Long Descriptions, continued
 
 <table>
   <thead>
@@ -1351,25 +1284,18 @@ CPT® Codes with Long Descriptions, continued
   </tbody>
 </table>
 
-<footer>Copyright 2025 American Medical Association. All rights reserved.
-CPT is a registered trademark of the American Medical Association.
-See important notes on the uses and limitations of this information on page 9.</footer>
-&lt;page_number&gt;8&lt;/page_number&gt;
+
 
 ---
 
 
-## Page 9
-
-# Stone Management Procedures
-
 <header>2026 Coding & Payment Quick Reference</header>
 
-Physician payment rates are 2026 Medicare national averages. Source: Centers for Medicare and Medicaid Services. CMS-1832-F, Physician Fee Schedule – Addendum B, Relative Value File October 2025 release, RVU24D file. https://www.cms.gov/medicare/payment/fee-schedules/physician/federal-regulation-notices/cms-1832-f
+Physician payment rates are 2026 Medicare national averages. Source: Centers for Medicare and Medicaid Services. CMS-1832-F, Physician Fee Schedule - Addendum B, Relative Value File October 2025 release, RVU24D file. https://www.cms.gov/medicare/payment/fee-schedules/physician/federal-regulation-notices/cms-1832-f
 
 The 2026 National Average Medicare physician payment rates have been calculated using a 2026 conversion factor effective January 1, 2026, of $33.4009. Rates subject to change.
 
-Hospital outpatient payment rates are 2026 Medicare OPPS Addendum B national averages. Source: Centers for Medicare and Medicaid Services. CMS OPPS – November 2025 release, CMS-1834-FC file. https://www.cms.gov/medicare/payment/prospective-payment-systems/hospital-outpatient/regulations-notices/cms-1834-fc
+Hospital outpatient payment rates are 2026 Medicare OPPS Addendum B national averages. Source: Centers for Medicare and Medicaid Services. CMS OPPS - November 2025 release, CMS-1834-FC file. https://www.cms.gov/medicare/payment/prospective-payment-systems/hospital-outpatient/regulations-notices/cms-1834-fc
 
 ASC payment rates are 2026 Medicare ASC Addendum AA national averages. ASC rates are from the 2026 Ambulatory Surgical Center Covered Procedures List. Source: Centers for Medicare and Medicaid Services. CMS ASC November 2025 release, ASC Approved HCPCS Code and Payment Rates https://www.cms.gov/medicare/payment/prospective-payment-systems/ambulatory-surgical-center-asc/asc-regulations-and-notices/cms-1834-fc
 
@@ -1415,31 +1341,6 @@ Health economic and reimbursement information provided by Boston Scientific Corp
 
 Payer policies will vary and should be verified prior to treatment for limitations on diagnosis, coding, or site of service requirements. The coding options listed within this guide are commonly used codes and are not intended to be an all-inclusive list. We recommend consulting your relevant manuals for appropriate coding options.
 
-**Sequestration Disclaimer**
-Rates referenced in these guides do not reflect Sequestration or other reductions that may be implemented in 2026.
 
 **CPT® Disclaimer**
 Current Procedural Terminology (CPT) Copyright 2025 American Medical Association. All rights reserved. CPT is a registered trademark of the American Medical Association. Applicable FARS/DFARS Restrictions apply to government use. Fee schedules, relative value units, conversion factors, and/or related components are not assigned by the AMA, are not part of CPT, and the AMA is not recommending their use. The AMA does not directly or indirectly practice medicine or dispense medical services. The AMA assumes no liability for data contained or not contained herein.
-
-All trademarks are the property of their respective owners.
-
-&lt;page_number&gt;9&lt;/page_number&gt;
-
-&lt;img&gt;Boston Scientific&lt;/img&gt;
-Advancing science for life™
-
-Boston Scientific Corporation
-300 Boston Scientific Way
-Marlborough, MA 01752-1234
-https://www.bostonscientific.com/en-US/reimbursement.html
-
-**Ordering Information**
-1.888.272.1001
-
-©2026 Boston Scientific Corporation
-or its affiliates. All rights reserved.
-
-Effective: 1JAN2026
-Expires: 31DEC2026
-MS-DRG Rates Expire: 30SEP2026
-URO-2028206-AB DEC 2025
