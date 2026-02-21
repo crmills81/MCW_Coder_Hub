@@ -1,4 +1,8 @@
-## 2026 Coding and Payment Guide – Stone Management Procedures
+<header>Stone Management Procedures</header>
+<header>2026 Coding & Payment Quick Reference</header>
+
+
+# 2026 Coding and Payment Guide – Stone Management Procedures
 
 The coding options listed within this guide are commonly used codes and are not intended to be an all-inclusive list. They are thought to be relevant to Stone Management procedures and are referenced throughout this document. We recommend consulting your relevant manuals for appropriate coding options. Payer policies will vary and should be verified prior to treatment for limitations on diagnosis, coding, or site of service requirements.
 
@@ -8,7 +12,7 @@ To determine whether there are relevant C-codes for any Boston Scientific produc
 
 CPT® codes with their respective long descriptions will be found on page 7.
 
-### Physician Payment – Medicare Unadjusted National Average
+## Physician Payment – Medicare Unadjusted National Average
 
 <table>
   <thead>
@@ -159,6 +163,24 @@ CPT® codes with their respective long descriptions will be found on page 7.
   </tbody>
 </table>
 
+“N/A” indicates that Medicare has not deemed this procedure to be reimbursable in this setting.
+
+Copyright 2025 American Medical Association. All rights reserved.
+CPT is a registered trademark of the American Medical Association.
+See important notes on the uses and limitations of this information on page 9.
+
+&lt;page_number&gt;1&lt;/page_number&gt;
+
+---
+
+
+## Page 2
+
+<header>Stone Management Procedures</header>
+<header>2026 Coding & Payment Quick Reference</header>
+
+# Physician Payment, continued – Medicare Unadjusted National Average
+
 <table>
   <thead>
     <tr>
@@ -305,7 +327,7 @@ CPT® codes with their respective long descriptions will be found on page 7.
 
 “N/A” indicates that Medicare has not deemed this procedure to be reimbursable in this setting.
 
-### Hospital Outpatient and ASC Payment – Medicare Unadjusted National Average
+# Hospital Outpatient and ASC Payment – Medicare Unadjusted National Average
 
 <table>
   <thead>
@@ -402,9 +424,20 @@ CPT® codes with their respective long descriptions will be found on page 7.
 
 * C-code may be applicable. See page 8 for more information.
 
+<footer>Copyright 2025 American Medical Association. All rights reserved.</footer>
+<footer>CPT is a registered trademark of the American Medical Association.</footer>
+<footer>See important notes on the uses and limitations of this information on page 9.</footer>
+&lt;page_number&gt;2&lt;/page_number&gt;
 
 ---
 
+
+## Page 3
+
+<header>Stone Management Procedures</header>
+<header>2026 Coding & Payment Quick Reference</header>
+
+# Hospital Outpatient and ASC Payment, continued – Medicare Unadjusted National Average
 
 <table>
   <thead>
@@ -608,10 +641,20 @@ CPT® codes with their respective long descriptions will be found on page 7.
 
 “N/A” indicates that Medicare has not deemed this procedure to be reimbursable in this setting.
 
+<footer>Copyright 2025 American Medical Association. All rights reserved.
+CPT is a registered trademark of the American Medical Association.
+See important notes on the uses and limitations of this information on page 9.</footer>
+&lt;page_number&gt;3&lt;/page_number&gt;
+
 ---
 
 
-### Hospital Inpatient Payment – Medicare Unadjusted National Average
+## Page 4
+
+<header>Stone Management Procedures</header>
+<header>2026 Coding & Payment Quick Reference</header>
+
+# Hospital Inpatient Payment – Medicare Unadjusted National Average
 
 MS-DRG assignment is based on a combination of diagnoses and procedure codes reported. While MS-DRGs listed in this guide represent likely assignments, Boston Scientific cannot guarantee assignment to any one specific MS-DRG.
 
@@ -674,7 +717,7 @@ MS-DRG assignment is based on a combination of diagnoses and procedure codes rep
 
 The patient's medical record must support the existence and treatment of the complication or co-morbidity
 
-### ICD-10 CM Diagnosis Codes
+# ICD-10 CM Diagnosis Codes
 
 <table>
   <thead>
@@ -741,10 +784,18 @@ The patient's medical record must support the existence and treatment of the com
   </tbody>
 </table>
 
+<footer>See important notes on the uses and limitations of this information on page 9.</footer>
+&lt;page_number&gt;4&lt;/page_number&gt;
 
 ---
 
-### ICD-10 PCS Procedure Codes
+
+## Page 5
+
+<header>Stone Management Procedures</header>
+<header>2026 Coding & Payment Quick Reference</header>
+
+# ICD-10 PCS Procedure Codes
 
 <table>
   <thead>
@@ -918,8 +969,18 @@ The patient's medical record must support the existence and treatment of the com
   </tbody>
 </table>
 
+<footer>See important notes on the uses and limitations of this information on page 9.</footer>
+&lt;page_number&gt;5&lt;/page_number&gt;
 
 ---
+
+
+## Page 6
+
+<header>Stone Management Procedures</header>
+<header>2026 Coding & Payment Quick Reference</header>
+
+# ICD-10 PCS Procedure Codes, continued
 
 <table>
   <thead>
@@ -1038,10 +1099,18 @@ The patient's medical record must support the existence and treatment of the com
   </tbody>
 </table>
 
+<footer>See important notes on the uses and limitations of this information on page 9.</footer>
+&lt;page_number&gt;6&lt;/page_number&gt;
+
 ---
 
 
-### C-Code Information
+## Page 7
+
+<header>Stone Management Procedures</header>
+<header>2026 Coding & Payment Quick Reference</header>
+
+# C-Code Information
 
 For all C-Code information, please reference the C-code Finder: http://www.bostonscientific.com/en-US/reimbursement/ccode-finder.html.
 
@@ -1076,6 +1145,8 @@ On claims for Medicare beneficiaries, hospitals should report not only the appro
 
 Medicare follows NUBC guidelines.¹ The UB-04 Editor includes the revenue code 0278 for use with C1747.²
 
+Note: The Centers for Medicare & Medicaid Services (CMS) approved a transitional pass-through (TPT) payment category for single-use ureteroscopes, including the LithoVue™ and LithoVue™ Elite Single-Use Digital Flexible Ureteroscope effective January 1, 2023. Separate TPT device reimbursement using device pass-through code C1747 is available for dates of service January 1, 2023, through December 31, 2025. Beginning with dates of service January 1, 2026, separate device reimbursement has expired and reimbursement for the device is packaged into the procedure payment. However, CMS expects providers to continue reporting C1747 for these devices in 2026 so that the agency can collect accurate cost data for future rate-setting.
+
 Suggested Revenue Code for Device Codes C1889
 
 <table>
@@ -1093,7 +1164,7 @@ Suggested Revenue Code for Device Codes C1889
   </tbody>
 </table>
 
-### CPT® Codes with Long Descriptions
+# CPT® Codes with Long Descriptions
 
 <table>
   <thead>
@@ -1162,7 +1233,18 @@ Suggested Revenue Code for Device Codes C1889
   </tbody>
 </table>
 
+<footer>Copyright 2025 American Medical Association. All rights reserved.
+CPT is a registered trademark of the American Medical Association.
+See important notes on the uses and limitations of this information on page 9.</footer>
+&lt;page_number&gt;7&lt;/page_number&gt;
+
 ---
+
+
+## Page 8
+
+<header>Stone Management Procedures</header>
+<header>2026 Coding & Payment Quick Reference</header>
 
 CPT® Codes with Long Descriptions, continued
 
@@ -1269,8 +1351,17 @@ CPT® Codes with Long Descriptions, continued
   </tbody>
 </table>
 
+<footer>Copyright 2025 American Medical Association. All rights reserved.
+CPT is a registered trademark of the American Medical Association.
+See important notes on the uses and limitations of this information on page 9.</footer>
+&lt;page_number&gt;8&lt;/page_number&gt;
+
 ---
 
+
+## Page 9
+
+# Stone Management Procedures
 
 <header>2026 Coding & Payment Quick Reference</header>
 
@@ -1327,85 +1418,28 @@ Payer policies will vary and should be verified prior to treatment for limitatio
 **Sequestration Disclaimer**
 Rates referenced in these guides do not reflect Sequestration or other reductions that may be implemented in 2026.
 
-| AVSD -- Shunt for dialysis - Arteriovenostomy for renal dialysis |               |                                                                                                                                      |                 |
-| ---------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
-| **Procedure Code Category**                                      | **CPT Codes** | **Code Description**                                                                                                                 | **Code Status** |
-| AVSD                                                             | 36800         | Insertion of cannula for [[hemodialysis]], other purpose (separate procedure); vein to vein                                          | No change       |
-| AVSD                                                             | 36810         | Insertion of cannula for hemodialysis, other purpose (separate procedure); arteriovenous, external (Scribner type)                   | No change       |
-| AVSD                                                             | 36815         | Insertion of cannula for hemodialysis, other purpose (separate procedure); arteriovenous, external revision, or closure              | No change       |
-| AVSD                                                             | 36818         | [[arteriovenous anastomosis]], open; by upper arm [[cephalic]] vein transposition                                                    | No change       |
-| AVSD                                                             | 36819         | [[Arteriovenous anastomosis]], open; by upper arm [[basilic]] vein transposition                                                     | No change       |
-| AVSD                                                             | 36820         | [[Arteriovenous anastomosis]], open; by forearm vein transposition                                                                   | No change       |
-| AVSD                                                             | 36821         | [[Arteriovenous anastomosis]], open; direct, any site (e.g., Cimino type) (separate procedure)                                       | No change       |
-| AVSD                                                             | 36825         | Creation of arteriovenous fistula by other than direct arteriovenous anastomosis (separate procedure); autogenous graft              | No change       |
-| AVSD                                                             | 36830         | Creation of arteriovenous fistula by other than direct [[arteriovenous anastomosis]] (separate procedure); non autogenous graft      | No change       |
-| AVSD                                                             | 36832         | Revision, open, arteriovenous fistula; without [[thrombectomy]], autogenous or nonautogenous [[dialysis]] graft (separate procedure) | No change       |
-| AVSD                                                             | 36833         | Revision, open, arteriovenous fistula; with thrombectomy, autogenous or nonautogenous [[dialysis]] graft (separate procedure)        | No change       |
-| AVSD                                                             | 36838         | Distal [[revascularization]] and interval ligation (DRIL), upper extremity hemodialysis access (steal syndrome)                      | No change       |
-|                                                                  |               |                                                                                                                                      |                 |
+**CPT® Disclaimer**
+Current Procedural Terminology (CPT) Copyright 2025 American Medical Association. All rights reserved. CPT is a registered trademark of the American Medical Association. Applicable FARS/DFARS Restrictions apply to government use. Fee schedules, relative value units, conversion factors, and/or related components are not assigned by the AMA, are not part of CPT, and the AMA is not recommending their use. The AMA does not directly or indirectly practice medicine or dispense medical services. The AMA assumes no liability for data contained or not contained herein.
 
+All trademarks are the property of their respective owners.
 
-| KTP -- Kidney transplant - Transplantation of kidney |           |                                                                                                                                          |             |
-| ---------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| Procedure Code Category                              | CPT Codes | Code Description                                                                                                                         | Code Status |
-| KTP                                                  | 50340     | Recipient [[20 Specialties/Urology/Urology - Nephrectomy (Kidney Removal) |Urology - Nephrectomy (Kidney Removal)]] (separate procedure) | No change   |
-| KTP                                                  | 50360     | Renal [[allotransplantation]], implantation of graft; without recipient [[nephrectomy]]                                                  | No change   |
-| KTP                                                  | 50365     | Renal allotransplantation, implantation of graft; with recipient nephrectomy                                                             | No change   |
-| KTP                                                  | 50380     | Renal autotransplantation, reimplantation of kidney                                                                                      | No change   |
+&lt;page_number&gt;9&lt;/page_number&gt;
 
+&lt;img&gt;Boston Scientific&lt;/img&gt;
+Advancing science for life™
 
-| NEPH -- Kidney surgery - Resection or manipulation of the kidney with or without removal of related structures |               |                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                     |           |
-| -------------------------------------------------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| **Procedure Code Category**                                                                                    | **CPT Codes** | **Code Description**                                                                                                                                                                                                                                                                             | **Code Status**                                                                                                                                                     |           |
-| NEPH                                                                                                           | 50010         | Renal exploration, not necessitating other specific procedures                                                                                                                                                                                                                                   | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50020         | Drainage of perirenal or renal abscess, open                                                                                                                                                                                                                                                     | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50040         | Nephrostomy, [[nephrotomy]] with drainage                                                                                                                                                                                                                                                        | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50045         | Nephrotomy, with exploration                                                                                                                                                                                                                                                                     | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50060         | [[nephrolithotomy]]; removal of calculus                                                                                                                                                                                                                                                         | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50065         | Nephrolithotomy; secondary surgical operation for calculus                                                                                                                                                                                                                                       | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50070         | Nephrolithotomy; complicated by congenital kidney abnormality                                                                                                                                                                                                                                    | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50075         | Nephrolithotomy; removal of large staghorn [[calculus]] filling renal pelvis and calyces (including anatrophic pyelolithotomy)                                                                                                                                                                   | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50120         | [[Pyelotomy]]; with exploration                                                                                                                                                                                                                                                                  | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50125         | Pyelotomy; with drainage, pyelostomy                                                                                                                                                                                                                                                             | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50130         | Pyelotomy; with removal of [[calculus]] ([[pyelolithotomy]], [[pelviolithotomy]], including [[coagulum pyelolithotomy]])                                                                                                                                                                         | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50205         | Renal biopsy; by surgical exposure of kidney                                                                                                                                                                                                                                                     | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50220         | [[nephrectomy]], including partial [[ureterectomy]], any open approach including rib resection;                                                                                                                                                                                                  | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50225         | [[nephrectomy]], including partial [[ureterectomy]], any open approach including rib resection; complicated because of previous surgery on same kidney                                                                                                                                           | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50230         | Nephrectomy, including partial [[ureterectomy]], any open approach including rib resection; radical, with regional [[lymphadenectomy]] and/or vena caval [[thrombectomy]]                                                                                                                        | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50234         | Nephrectomy with total [[ureterectomy]] and bladder cuff; through same incision                                                                                                                                                                                                                  | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50236         | Nephrectomy with total ureterectomy and bladder cuff; through separate incision                                                                                                                                                                                                                  | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50240         | [[nephrectomy]], partial                                                                                                                                                                                                                                                                         | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50250         | [[Ablation]], open, 1 or more renal mass lesion(s), [[cryosurgical]], including intraoperative ultrasound guidance and monitoring, if performed                                                                                                                                                  | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50280         | Excision or unroofing of cyst(s) of kidney                                                                                                                                                                                                                                                       | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50290         | Excision of [[perinephric]] cyst                                                                                                                                                                                                                                                                 | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50320         | Donor nephrectomy (including cold preservation); open, from living donor                                                                                                                                                                                                                         | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50400         | [[Pyeloplasty]] (Foley Y-pyeloplasty), plastic operation on renal pelvis, with or without plastic operation on [[ureter]], nephropexy, [[nephrostomy]], [[pyelostomy]], or ureteral splinting; simple                                                                                            | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50405         | [[pyeloplasty]] (Foley Y-pyeloplasty), plastic operation on renal pelvis, with or without plastic operation on [[ureter]], [[nephropexy]], nephrostomy, pyelostomy, or ureteral splinting; complicated (congenital kidney abnormality, secondary pyeloplasty, solitary kidney, [[calycoplasty]]) | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50541         | [[Laparoscopy]], surgical; ablation of renal cysts                                                                                                                                                                                                                                               | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50542         | [[Laparoscopy]], surgical; ablation of renal mass lesion(s), including intraoperative ultrasound guidance and monitoring, when performed                                                                                                                                                         | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50543         | Laparoscopy, surgical; partial nephrectomy                                                                                                                                                                                                                                                       | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | [[50545]]     | Laparoscopy, surgical; radical [[10 Guidelines/10 Coding Scenarios/Urology - Nephrectomy (Kidney Removal)                                                                                                                                                                                        | Urology - Nephrectomy (Kidney Removal)]] (includes removal of Gerota's fascia and surrounding fatty tissue, removal of regional lymph nodes, and [[adrenalectomy]]) | No change |
-| NEPH                                                                                                           | 50546         | Laparoscopy, surgical; nephrectomy, including partial ureterectomy                                                                                                                                                                                                                               | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50547         | Laparoscopy, surgical; donor nephrectomy (including cold preservation), from living donor                                                                                                                                                                                                        | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50548         | Laparoscopy, surgical; nephrectomy with total ureterectomy                                                                                                                                                                                                                                       | No change                                                                                                                                                           |           |
-| NEPH                                                                                                           | 50549         | Unlisted laparoscopic nephrectomy                                                                                                                                                                                                                                                                | No change                                                                                                                                                           |           |
+Boston Scientific Corporation
+300 Boston Scientific Way
+Marlborough, MA 01752-1234
+https://www.bostonscientific.com/en-US/reimbursement.html
 
+**Ordering Information**
+1.888.272.1001
 
-| PRST -- Prostate surgery - Suprapubic, retropubic, radical, or perineal excision of the prostate; does not include transurethral resection of the prostate |               |                                                                                                                                                                                                                                           |                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| **Procedure Code Category**                                                                                                                                | **CPT Codes** | **Code Description**                                                                                                                                                                                                                      | **Code Status** |
-| PRST                                                                                                                                                       | 55705         | Biopsy, prostate; incisional, any approach                                                                                                                                                                                                | No change       |
-| PRST                                                                                                                                                       | 55810         | [[Prostatectomy]], perineal radical                                                                                                                                                                                                       | No change       |
-| PRST                                                                                                                                                       | 55812         | Prostatectomy, perineal radical; with lymph node biopsy(s) (limited pelvic [[lymphadenectomy]])                                                                                                                                           | No change       |
-| PRST                                                                                                                                                       | 55815         | Prostatectomy, perineal radical; with bilateral pelvic [[lymphadenectomy]], including external iliac, hypogastric and obturator nodes                                                                                                     | No change       |
-| PRST                                                                                                                                                       | 55821         | Prostatectomy (including control of postoperative bleeding, [[vasectomy]], [[meatotomy]], urethral calibration and/or dilation, and internal urethrotomy); suprapubic, subtotal, 1 or 2 stages                                            | No change       |
-| PRST                                                                                                                                                       | 55831         | [[Prostatectomy]] (including control of postoperative bleeding, vasectomy, meatotomy, urethral calibration and/or dilation, and internal urethrotomy); retropubic, subtotal                                                               | No change       |
-| PRST                                                                                                                                                       | 55840         | [[Prostatectomy]], retropubic radical, with or without nerve sparing;                                                                                                                                                                     | No change       |
-| PRST                                                                                                                                                       | 55842         | [[Prostatectomy]], retropubic radical, with or without nerve sparing; with lymph node biopsy(s) (limited pelvic lymphadenectomy)                                                                                                          | No change       |
-| PRST                                                                                                                                                       | 55845         | Prostatectomy, retropubic radical, with or without nerve sparing; with bilateral pelvic lymphadenectomy, including external [[iliac]], hypogastric, and obturator nodes                                                                   | No change       |
-| PRST                                                                                                                                                       | 55866         | [[Laparoscopy]], surgical prostatectomy, retropubic radical, including nerve sparing, includes robotic assistance, when performed                                                                                                         | No change       |
-| PRST                                                                                                                                                       | 55867         | [[Laparoscopy]], surgical prostatectomy, simple subtotal (including control of postoperative bleeding, vasectomy, meatotomy, urethral calibration and/or dilation, and internal urethrotomy), includes robotic assistance, when performed | No change       |
-| PRST                                                                                                                                                       | 55868         | [[Laparoscopy]], surgical prostatectomy, retropubic radical, including nerve sparing, includes robotic assistance, when performed; with lymph node biopsy(ies) (limited pelvic [[lymphadenectomy]])                                       | Added           |
-| PRST                                                                                                                                                       | 55869         | Laparoscopy, surgical prostatectomy, retropubic radical, including nerve sparing, includes robotic assistance, when performed; with bilateral pelvic lymphadenectomy, including external iliac, [[hypogastric]], and obturator nodes      | Added           |
+©2026 Boston Scientific Corporation
+or its affiliates. All rights reserved.
 
-
+Effective: 1JAN2026
+Expires: 31DEC2026
+MS-DRG Rates Expire: 30SEP2026
+URO-2028206-AB DEC 2025
