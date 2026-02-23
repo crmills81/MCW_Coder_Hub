@@ -1,4 +1,4 @@
-Coding conventions are the general rules for using a classification system that must be followed to ensure accurate and consistent coding. They are crucial for interpreting both the Alphabetic Index and the Tabular List (or Tables for procedures) correctly, guiding coders in selecting the most precise codes supported by documentation. Adherence to these guidelines is often required under regulations like HIPAA, making them vital for accurate reimbursement, data quality, and compliance. The instructions and conventions within the classification itself always take precedence over general coding guidelines.
+Coding conventions are the general rules for using a classification system that must be followed to ensure accurate and consistent coding. They are crucial for interpreting both the Alphabetic Index and the Tabular List (**or Tables for procedures**) correctly, guiding coders in selecting the most precise codes supported by documentation. Adherence to these guidelines is often required under regulations like HIPAA, making them vital for accurate reimbursement, data quality, and compliance. The instructions and conventions within the classification itself always take precedence over general coding guidelines.
 
 Coding conventions are categorized for both diagnosis coding (ICD-10-CM) and procedure coding (ICD-10-PCS), each with its unique set of rules.
 
@@ -6,7 +6,7 @@ Coding conventions are categorized for both diagnosis coding (ICD-10-CM) and pro
 
 The ICD-10-CM Official Guidelines for Coding and Reporting, approved by the Cooperating Parties (AHA, AHIMA, CMS, and NCHS), detail these conventions. These guidelines are organized into sections, with Section I covering conventions, general coding guidelines, and chapter-specific guidelines applicable to all healthcare settings.
 
-Key ICD-10-CM conventions include:
+**Key ICD-10-CM conventions include:**
 
 * **Alphabetic Index and Tabular List** The ICD-10-CM system is divided into an Alphabetic Index and a Tabular List. It is critical to never code directly from the Alphabetic Index without verifying the code in the Tabular List to ensure accuracy and specificity. The Alphabetic Index lists terms and corresponding codes alphabetically, while the Tabular List is an alphanumeric listing of codes divided into chapters based on body system or condition.
 

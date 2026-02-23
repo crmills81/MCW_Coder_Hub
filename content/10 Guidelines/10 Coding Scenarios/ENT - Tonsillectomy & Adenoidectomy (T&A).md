@@ -19,20 +19,20 @@ creation_date: 2026-01-22
 *(Select based on: What was removed? + How old is the patient?)*
 
 **1. Tonsils AND Adenoids (T&A):**
-* **42820:** Under 12.
-* **42821:** Age 12 or older.
+* [ ] **42820:** Under 12.
+* [ ] **42821:** Age 12 or older.
 
 **2. Tonsils ONLY:**
-* **42825:** Under 12.
-* **42826:** Age 12 or older.
+* [ ] **42825:** Under 12.
+* [ ] **42826:** Age 12 or older.
 
 **3. Adenoids ONLY:**
-* **42830:** Under 12.
-* **42831:** Age 12 or older.
+* [ ] **42830:** Under 12.
+* [ ] **42831:** Age 12 or older.
 
 **4. Post-Op Bleeding (Return to OR):**
-* **42960:** Control oropharyngeal hemorrhage (Simple).
-* **42962:** Control with other methods (Secondary/Delayed bleed).
+* [ ] **42960:** Control oropharyngeal hemorrhage (Simple).
+* [ ] **42962:** Control with other methods (Secondary/Delayed bleed).
 
 ### ⚠️ Modifier Watch
 *Crucial modifiers for T&A:*
@@ -44,9 +44,9 @@ creation_date: 2026-01-22
 
 ## 🩺 Diagnosis & Medical Necessity
 * **Supported Diagnoses:**
-    * J35.01 (Chronic Tonsillitis)
-    * G47.33 (Obstructive Sleep Apnea) - *Very common indication for T&A in kids.*
-    * J35.3 (Hypertrophy of tonsils with adenoids)
+    * [ ] J35.01 (Chronic Tonsillitis)
+    * [ ] G47.33 (Obstructive Sleep Apnea) - *Very common indication for T&A in kids.*
+    * [ ] J35.3 (Hypertrophy of tonsils with adenoids)
 
 ---
 

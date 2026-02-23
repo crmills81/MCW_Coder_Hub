@@ -1,8 +1,8 @@
-# **Global Procedure Codes and Global Days - Quick Reference**
+## **Global Procedure Codes and Global Days - Quick Reference**
 
-## **1. Global Day Indicators (CMS)**
+### **1. Global Day Indicators (CMS)**
 
-* 000 - 0-Day Global
+* **000 - 0-Day Global**
 
   * No pre-op or post-op period.  
   * Typical for:
@@ -11,7 +11,7 @@
     * Many endoscopies  
     * Some diagnostic/therapeutic procedures
 
-* 010 - 10-Day Global
+* **010 - 10-Day Global**
 
   * Surgery day + 10 post-op days (11 total).
 
@@ -20,16 +20,16 @@
     * Procedure  
     * Typical post-op visits related to that procedure
 
-* 090 - 90-Day Global
+* **090 - 90-Day Global**
 
   * 1 pre-op day + surgery day + 90 post-op days (92 total).  
   * Major surgeries.
 
-* 045 - 45-Day Global
+* **045 - 45-Day Global**
 
   * Rare category; used for specific maternity/postpartum scenarios.
 
-* XXX / 999 - Global Concept Does Not Apply
+* **XXX / 999 - Global Concept Does Not Apply**
 
   * No global period.  
   * Typically:
@@ -41,17 +41,13 @@
 
 ---
 
-## 
 
-## 
+#### 2. Examples by Specialty / Body System
 
-## 
+>[!note]
+>Exact global days are payer- and year-specific. Always verify against the current CMS MPFS or payer policy.
 
-## **2. Examples by Specialty / Body System**
-
-Note: Exact global days are payer- and year-specific. Always verify against the current CMS MPFS or payer policy.
-
-## **2.1 Integumentary (10000-19999)**
+#### 2.1 Integumentary (10000-19999)
 
 **Common 10-day global examples**
 
@@ -61,7 +57,7 @@ Note: Exact global days are payer- and year-specific. Always verify against the 
 * [[12020]]-[[12021]] - Simple wound exploration and repair  
 * [[17000]] - Destruction (e.g., premalignant lesion, first lesion)
 
-**Common 90-day global examples**
+#### Common 90-day global examples
 
 * [[11450]]-[[11471]] - Excision of malignant lesions (by size/site)  
 * [[13160]] - Secondary closure of surgical wound or dehiscence  
@@ -70,7 +66,7 @@ Note: Exact global days are payer- and year-specific. Always verify against the 
 
 ---
 
-## **2.2 Musculoskeletal / Orthopedic (20000-29999)**
+#### 2.2 Musculoskeletal / Orthopedic (20000-29999)
 
 **Typically 90-day global**
 
@@ -81,32 +77,32 @@ Note: Exact global days are payer- and year-specific. Always verify against the 
 * [[27447]] - Total knee arthroplasty
 
 (Some minor orthopedic procedures may carry 0- or 10-day globals; verify each code.)  
+
 ---
 
-## 
 
-## **2.3 Ophthalmology (65000-68999)**
+#### 2.3 Ophthalmology (**65000**-68999)
 
-Common 90-day global example
+**Common 90-day global example**
 
-* 66984 - Extracapsular cataract removal with IOL (routine cataract)
+* **66984** - Extracapsular cataract removal with IOL (routine cataract)
 
 Minor ophthalmic procedures can be 0- or 10-day global depending on the code.  
+
 ---
 
-## 
 
-## **2.4 GI / Endoscopy (40000-49999, selected)**
+#### 2.4 GI / Endoscopy (40000-49999, selected)
 
-Many endoscopies and minor GI procedures:
+**Many endoscopies and minor GI procedures:**
 
 * Commonly 0-day global (000) - no post-op period; each encounter distinct.
 
-Major abdominal surgeries:
+**Major abdominal surgeries:**
 
 * Typically 90-day global (090).
 
-Examples to verify in MPFS (global likely 0 or 90 depending on complexity):
+**Examples to verify in MPFS (global likely 0 or 90 depending on complexity):**
 
 * 43235 - Upper GI endoscopy; diagnostic  
 * 45378 - Colonoscopy; diagnostic  
@@ -114,9 +110,7 @@ Examples to verify in MPFS (global likely 0 or 90 depending on complexity):
 
 ---
 
-## 
-
-## **2.5 OB / Maternity (59000-59999)**
+#### 2.5 OB / Maternity (59000-59999)
 
 Some OB codes historically associated with 45-day global periods (payer-specific; now often handled via OB package/bundles), e.g.:
 
@@ -127,12 +121,13 @@ Some OB codes historically associated with 45-day global periods (payer-specific
 * 59618-59622 - VBAC/C-section with/without postpartum care  
 * 59430 - Postpartum care only
 
-Always check current payer OB/global policies for exact handling.  
+>[!note]
+>Always check current payer OB/global policies for exact handling.  
+
 ---
 
-## 
 
-## **2.6 E/M and “No Global” Services (Most 99202-99499, Labs, Imaging)**
+#### 2.6 E/M and “No Global” Services (Most 99202-99499, Labs, Imaging)
 
 * Office/outpatient visits (99202-99215): no surgical global - “XXX/999”.  
 * Labs (80047+, 81000+, 87003+): no global.  
@@ -140,7 +135,7 @@ Always check current payer OB/global policies for exact handling.
 
 ---
 
-## **3. Practical Coding Notes**
+3. **Practical Coding Notes**
 
 * Use Modifier 57 when the E/M service results in a decision for a major surgery (90-day global) on the same or following day.  
 * Use Modifier 25 for a significant, separately identifiable E/M on the same day as a minor procedure (0- or 10-day global).  
@@ -150,67 +145,68 @@ Always check current payer OB/global policies for exact handling.
   * 55 - Postoperative management only  
   * 56 - Preoperative management only
 
-Note: The official CMS Medicare Physician Fee Schedule (MPFS) Look-Up Tool is your authoritative source, and you can filter by "Global" indicator to see current assignments. Since global periods occasionally change, it's worth checking the CMS website annually for updates.
+>[!note]
+>The official CMS Medicare Physician Fee Schedule (MPFS) Look-Up Tool is your authoritative source, and you can filter by "Global" indicator to see current assignments. Since global periods occasionally change, it's worth checking the CMS website annually for updates.
 
 | Global Days   | Count   | Description                                                                       | Example Codes                                                                                                   |
 | ------------- | ------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 0 Days (000)  | ~250+   | Endoscopies & minor procedures; no pre-op or post-op period included              | [[10030]], [[11000]], [[11004]], [[29000]], [[92920]], [[99213]]                                                |
-| 10 Days (010) | ~300+   | Minor procedures; 11 total days (day of surgery + 10 post-op days)                | [[10060]]-[[10061]], [[11010]], [[11400]]-[[11446]], [[12020]]-[[12057]], [[17000]], [[26341]]                  |
-| 45 Days (045) | ~10-15  | Rare category; primarily maternity/postpartum codes                               | [[59409]], [[59410]], [[59412]], [[59414]], [[59430]], [[59514]]-[[59620]]                                      |
-| 90 Days (090) | ~1,500+ | Major surgical procedures; 92 total days (1 pre-op + day of surgery + 90 post-op) | [[11450]]-[[11471]], [[13160]], [[14000+]], [[19110+]], [[20661+]], [[21010+]], [[27130]], [[27447]], [[66984]] |
-| 999 (N/A)     | ~5,000+ | Concept does not apply; diagnostic tests, labs, E/M, vaccines                     | [[70010+]], [[80047+]], [[81000+]], [[87003+]], [[90832+]], [[93000+]], [[99201+]]                              |
+| **0 Days (000)**  | ~250+   | Endoscopies & minor procedures; no pre-op or post-op period included              | [[10030]], [[11000]], [[11004]], [[29000]], [[92920]], [[99213]]                                                |
+| **10 Days (010)** | ~300+   | Minor procedures; 11 total days (day of surgery + 10 post-op days)                | [[10060]]-[[10061]], [[11010]], [[11400]]-[[11446]], [[12020]]-[[12057]], [[17000]], [[26341]]                  |
+| **45 Days (045)** | ~10-15  | Rare category; primarily maternity/postpartum codes                               | [[59409]], [[59410]], [[59412]], [[59414]], [[59430]], [[59514]]-[[59620]]                                      |
+| **90 Days (090)** | ~1,500+ | Major surgical procedures; 92 total days (1 pre-op + day of surgery + 90 post-op) | [[11450]]-[[11471]], [[13160]], [[14000+]], [[19110+]], [[20661+]], [[21010+]], [[27130]], [[27447]], [[66984]] |
+| **999 (N/A)**     | ~5,000+ | Concept does not apply; diagnostic tests, labs, E/M, vaccines                     | [[70010+]], [[80047+]], [[81000+]], [[87003+]], [[90832+]], [[93000+]], [[99201+]]                              |
 
 ---
 
-## **Key Code Ranges by Specialty**
+### Key Code Ranges by Specialty
 
-## **Integumentary (Skin): 10000-19999**
+#### Integumentary (Skin): 10000-19999
 
-* ## 10060-10061 (Incision/drainage)  = 10 days
+* 10060-10061 (Incision/drainage)  = 10 days
 
-* ## 11400-11446 (Benign lesion removal)  = 10 days
+* 11400-11446 (Benign lesion removal)  = 10 days
 
-* ## 11450-11471 (Malignant lesion removal)  = 90 days
+* 11450-11471 (Malignant lesion removal)  = 90 days
 
-## **Musculoskeletal (Orthopedic): 20000-29999**
+#### Musculoskeletal (Orthopedic): 20000-29999
 
-* ## 20661-20693 (Joint procedures)  = 90 days
+* 20661-20693 (Joint procedures)  = 90 days
 
-* ## 27130 (Total hip replacement)  = 90 days
+* 27130 (Total hip replacement)  = 90 days
 
-* ## 27447 (Total knee replacement)  = 90 days
+* 27447 (Total knee replacement)  = 90 days
 
-## **Eye (Ophthalmology): 65000-68899**
+#### Eye (Ophthalmology): 65000-68899
 
-* ## 66984 (Cataract surgery)  = 90 days
+* 66984 (Cataract surgery)  = 90 days
 
-## **ENT (Otolaryngology): 30000-32999**
+#### ENT (Otolaryngology): 30000-32999
 
-* ## 31000+ (Laryngoscopy procedures)  = 10 days to 90 days
-
-
-## **Cardiovascular/Thoracic: 33000-37999**
-
-* ## Most cardiac surgeries  = 90 days
+* 31000+ (Laryngoscopy procedures)  = 10 days to 90 days
 
 
-## **GI (Gastroenterology): 43000-47999**
+#### Cardiovascular/Thoracic: 33000-37999
 
-* ## Many endoscopic procedures  = 0 days
+* Most cardiac surgeries  = 90 days
 
-* ## Major GI surgeries  = 90 days
 
-## ---
+#### GI (Gastroenterology): 43000-47999
 
-## **For Your E/M Coding Work**
+* Many endoscopic procedures  = 0 days
 
-* ## Use Modifier -57 (Decision for Surgery) on major procedure E/M visits (90-day global)—this is billable separately.
+* Major GI surgeries  = 90 days
 
-* ## Use Modifier -25 on same-day E/M if it's significant and separately identifiable from procedure.
+---
 
-* ## Use Modifiers -54, -55, -56 for split global care between providers.
+#### For Your E/M Coding Work
 
-## **Quick Reference for Optum E/M Coding**
+*  Use Modifier -57 (Decision for Surgery) on major procedure E/M visits (90-day global)—this is billable separately.
+
+*  Use Modifier -25 on same-day E/M if it's significant and separately identifiable from procedure.
+
+*  Use Modifiers -54, -55, -56 for split global care between providers.
+
+#### Quick Reference for Optum E/M Coding
 
 When determining if an E/M is included in a surgical global or billable separately, check:
 
@@ -218,7 +214,7 @@ When determining if an E/M is included in a surgical global or billable separate
 2. Is the E/M on the procedure day or within the post-op period?  
 3. Is it related to the surgery or unrelated?
 
-## **Sources**:
+ **Sources**:
 
 1. [https://www.cms.gov/medicare/payment/fee-schedules/physician/global-surgery-data-collection](https://www.cms.gov/medicare/payment/fee-schedules/physician/global-surgery-data-collection)  
 2. [https://partner.medica.com/ ~/media/Documents/Provider/Global-Days-Assignments-Code-List.pdf](https://partner.medica.com/~/media/Documents/Provider/Global-Days-Assignments-Code-List.pdf)  
@@ -241,11 +237,11 @@ When determining if an E/M is included in a surgical global or billable separate
 19. [https://www.aafp.org/about/policies/all/fees-global-surgical.html](https://www.aafp.org/about/policies/all/fees-global-surgical.html)  
 20. [https://kb.daisybill.com/articles/ground-rules-what-do-the-zero-10-or-90-day-global-days-mean](https://kb.daisybill.com/articles/ground-rules-what-do-the-zero-10-or-90-day-global-days-mean)
 
-Each of those payers ultimately anchors to Medicare’s global surgery rules, then layers its own reimbursement quirks on top. A practical PDF for you should treat CMS global policy as the base and then flag payer-specific variations you watch for.[cms+1](https://www.cms.gov/medicare/payment/fee-schedules/physician/global-surgery-data-collection)​
+Each of those payers ultimately anchors to Medicare’s global surgery rules, then layers its own reimbursement quirks on top. A practical PDF for you should treat CMS global policy as the base and then flag payer-specific variations you watch for.​
 
 ## **Medicare (Traditional  + Advantage)**
 
-* Uses CMS global indicators: 000, 010, 090, XXX, YYY, ZZZ; global days are visible in the Medicare Physician Fee Schedule (MPFS) Look-Up Tool and in Medicare contractor calculators (Novitas, Palmetto, Noridian, etc.).[med.noridianmedicare+2](https://med.noridianmedicare.com/web/jeb/specialties/surgery/global-surgery)​
+* Uses CMS global indicators: 000, 010, 090, XXX, YYY, ZZZ; global days are visible in the Medicare Physician Fee Schedule (MPFS) Look-Up Tool and in Medicare contractor calculators (Novitas, Palmetto, Noridian, etc.).​
 
 * Medicare Advantage (replacement) plans generally mirror MPFS global days, but may alter:
 
@@ -255,7 +251,7 @@ Each of those payers ultimately anchors to Medicare’s global surgery rules, th
 
 ## **Wisconsin Medicaid**
 
-* Wisconsin Medicaid policy follows the Medicare global framework but may publish its own global days key or code lists, often derived from NCCI and CMS tables.[medicaid.ms+1](https://www.medicaid.ms.gov/wp-content/uploads/2014/10/NCCI_GlobalSurgicalDays.pdf)​
+* Wisconsin Medicaid policy follows the Medicare global framework but may publish its own global days key or code lists, often derived from NCCI and CMS tables.​
 
 * Watch for:
 
@@ -264,7 +260,7 @@ Each of those payers ultimately anchors to Medicare’s global surgery rules, th
 
 ## **BCBS of Wisconsin**
 
-* Commercial BCBS plans generally adopt CMS-style global periods, but policy manuals (often titled “Global Surgery” or “Global Days”) define which services are considered part of the package and which are billable separately.[bridgespanhealth+1](https://www.bridgespanhealth.com/provider/library/policies-guidelines/reimbursement-policy/global-days)​  
+* Commercial BCBS plans generally adopt CMS-style global periods, but policy manuals (often titled “Global Surgery” or “Global Days”) define which services are considered part of the package and which are billable separately. 
 * Common differences:
 
   * Stricter interpretation of what is “related” to the surgery for E/M within global.  
@@ -274,7 +270,7 @@ Each of those payers ultimately anchors to Medicare’s global surgery rules, th
 
 * These large commercial payers typically:
 
-  * Use Medicare global periods as the baseline for physician services.[imedclaims+1](https://imedclaims.com/global-period-in-medical-billing/)​
+  * Use Medicare global periods as the baseline for physician services.​
 
   * Issue plan-specific reimbursement policies (often titled “Global Surgery,” “Global Days,” or “Minor and Major Procedures”) that:
 
@@ -282,14 +278,14 @@ Each of those payers ultimately anchors to Medicare’s global surgery rules, th
     * Spell out exactly how to use Modifiers 54/55/56, 58, 78, and 79 .  
     * Sometimes restrict separate payment for post-op E/M more than CMS would.
 
-* Many of these payers host online global calculators or policy PDFs in their provider portals; these are excellent to link in your own internal PDF as references.[novitas-solutions+2](https://www.novitas-solutions.com/webcenter/portal/MedicareJH/GlobalSurgeryCalc)​
+* Many of these payers host online global calculators or policy PDFs in their provider portals; these are excellent to link in your own internal PDF as references.​
 
 ## **Medicare/Medicaid Replacement Plans**
 
 * Medicare Advantage and Medicaid managed care plans administratively follow Medicare/Medicaid, but:
 
   * May require different authorization and documentation to recognize post-op complications vs routine global care.  
-  * Sometimes publish their own “Global Surgery” reimbursement policies that override default CMS interpretations for payment (not coding) purposes.[auctusgroupconsulting+1](https://auctusgroupconsulting.com/global-period-in-medical-billing/)​
+  * Sometimes publish their own “Global Surgery” reimbursement policies that override default CMS interpretations for payment (not coding) purposes.​
 
 If you want, the next step can be a payer appendix section you can paste into your PDF, with one short subsection per payer (Medicare, WI Medicaid, BCBS WI, UMR/UHC, Cigna, Aetna, MA/MCO) listing: “Global period source,” “Where to verify,” and “Key modifier notes.”
 
@@ -310,22 +306,22 @@ If you want, the next step can be a payer appendix section you can paste into yo
 
 ## **Medicare (Traditional)**
 
-* Global period source: CMS Medicare Physician Fee Schedule (MPFS) and MLN Global Surgery booklet.[cms+1](https://www.cms.gov/medicare/payment/fee-schedules/physician/global-surgery-data-collection)​
+* Global period source: CMS Medicare Physician Fee Schedule (MPFS) and MLN Global Surgery booklet.
 
 * **Where to verify:**
 
   * MPFS Look‑Up Tool (field “Global Surgery” / indicators 000, 010, 090, XXX, YYY, ZZZ).  
-  * Your MAC’s online global surgery calculator (e.g., Novitas, Palmetto, Noridian).[med.noridianmedicare+1](https://med.noridianmedicare.com/web/jeb/specialties/surgery/global-surgery)​
+  * Your MAC’s online global surgery calculator (e.g., Novitas, Palmetto, Noridian).​
 
 * **Key notes:**
 
   * Uses strict 0/10/90‑day rules; post‑op visits related to the surgery are bundled.  
-  * Modifier 57 for E/M resulting in a 90‑day global surgery; Modifier 25 for significant, separately identifiable E/M with 0‑ or 10‑day procedures.[cms+1](https://www.cms.gov/files/document/mln907166-global-surgery-booklet.pdf)​  
+  * Modifier 57 for E/M resulting in a 90‑day global surgery; Modifier 25 for significant, separately identifiable E/M with 0‑ or 10‑day procedures.
   * Modifiers 54/55/56 split pre‑op, intra‑op, and post‑op care.
 
 ## **Medicare Advantage (Medicare Replacement Plans)**
 
-* **Global period source: CMS MPFS; most MA plans mirror Medicare’s global indicators.[aapc+1](https://www.aapc.com/blog/92086-global-surgery-coding-in-2025/)​**
+* **Global period source: CMS MPFS; most MA plans mirror Medicare’s global indicators.​**
 
 * **Where to verify:**
 
@@ -339,7 +335,7 @@ If you want, the next step can be a payer appendix section you can paste into yo
 
 **Wisconsin Medicaid**
 
-* **Global period source: Largely based on CMS/NCCI global surgery logic and key lists.[medicaid.ms+1](https://www.medicaid.ms.gov/wp-content/uploads/2014/10/NCCI_GlobalSurgicalDays.pdf)​**
+* **Global period source: Largely based on CMS/NCCI global surgery logic and key lists.​**
 
 * **Where to verify:**
 
@@ -366,7 +362,7 @@ If you want, the next step can be a payer appendix section you can paste into yo
 
 ## **BCBS of Wisconsin**
 
-* **Global period source: CMS‑style 0/10/90‑day structure adapted in BCBS reimbursement policies.[bridgespanhealth+1](https://www.bridgespanhealth.com/provider/library/policies-guidelines/reimbursement-policy/global-days)​**
+* **Global period source: CMS‑style 0/10/90‑day structure adapted in BCBS reimbursement policies.​**
 
 * **Where to verify:**
 
@@ -379,7 +375,7 @@ If you want, the next step can be a payer appendix section you can paste into yo
 
 ## **UMR / UnitedHealthcare (UHC)**
 
-* Global period source: Medicare framework plus UHC’s own coverage and reimbursement policies.[imedclaims+1](https://imedclaims.com/global-period-in-medical-billing/)​
+* Global period source: Medicare framework plus UHC’s own coverage and reimbursement policies.​
 
 * Where to verify:
 
@@ -392,7 +388,7 @@ If you want, the next step can be a payer appendix section you can paste into yo
 
 ## **Cigna**
 
-* Global period source: CMS global surgery methodology with Cigna payment policy overlay.[auctusgroupconsulting+1](https://auctusgroupconsulting.com/global-period-in-medical-billing/)​
+* Global period source: CMS global surgery methodology with Cigna payment policy overlay.
 
 * Where to verify:
 
@@ -405,7 +401,7 @@ If you want, the next step can be a payer appendix section you can paste into yo
 
 ## **Aetna**
 
-* Global period source: Medicare‑based global periods with Aetna‑specific reimbursement policies.[imedclaims+1](https://imedclaims.com/global-period-in-medical-billing/)​
+* Global period source: Medicare‑based global periods with Aetna‑specific reimbursement policies.​
 
 * Where to verify:
 
@@ -500,12 +496,10 @@ A concise, global‑period‑focused modifier sheet fits perfectly at the end of
 
 ---
 
-## 
-
 ## **Practical Tips Across Payers**
 
-* Always pair the **correct modifier  + clear documentation** of why the E/M or procedure is unrelated, staged, or separate; Medicare and commercial payers publish global surgery and modifier policies that should be checked regularly.[cms+2](https://www.cms.gov/files/document/mln907166-global-surgery-booklet.pdf)​  
-* For your mix of Medicare, WI Medicaid, BCBS WI, UMR, UHC, Cigna, Aetna, and replacement plans, the *meaning* of these modifiers is Medicare‑based, but **payment edits and prior auth rules vary**, so keep payer‑specific policies bookmarked in your PDF appendix.[cms+3](https://www.cms.gov/medicare/payment/fee-schedules/physician/global-surgery-data-collection)​
+* Always pair the **correct modifier  + clear documentation** of why the E/M or procedure is unrelated, staged, or separate; Medicare and commercial payers publish global surgery and modifier policies that should be checked regularly.
+* For your mix of Medicare, WI Medicaid, BCBS WI, UMR, UHC, Cigna, Aetna, and replacement plans, the *meaning* of these modifiers is Medicare‑based, but **payment edits and prior auth rules vary**, so keep payer‑specific policies bookmarked in your PDF appendix.​
 
 **Sources:**
 

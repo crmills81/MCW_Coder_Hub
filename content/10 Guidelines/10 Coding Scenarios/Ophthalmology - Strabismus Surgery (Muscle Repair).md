@@ -17,13 +17,13 @@ creation_date: 2026-01-22
 
 ## 💰 CPT Selection Logic
 *(Base Codes - Horizontal)*
-* **67311:** One horizontal muscle.
-* **67312:** Two horizontal muscles (same eye).
+* [ ] **67311:** One horizontal muscle.
+* [ ] **67312:** Two horizontal muscles (same eye).
 
 *(Base Codes - Vertical/Oblique)*
-* **67314:** One vertical muscle (excluding superior oblique).
-* **67316:** Two or more vertical muscles (same eye).
-* **67318:** Superior Oblique muscle surgery.
+* [ ] **67314:** One vertical muscle (excluding superior oblique).
+* [ ] **67316:** Two or more vertical muscles (same eye).
+* [ ] **67318:** Superior Oblique muscle surgery.
 
 ### ⚠️ The "Add-On" Gold Mine
 *Never miss these +Codes (List them separately!):*

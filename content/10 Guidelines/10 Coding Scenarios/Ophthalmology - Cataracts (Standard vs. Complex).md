@@ -9,8 +9,8 @@ creation_date: 2026-01-17
 # Ophthalmology - Cataracts (Standard vs. Complex)
 
 ## 📋 The Rule (Quick Summary)
-> **Standard (66984)** is the default for Phacoemulsification with IOL insertion.
-> **Complex (66982)** requires the use of *specific mechanical devices* or techniques to manage a difficult pupil or lens. Just "taking longer" does not make it complex.
+> **Standard ([[66984]])** is the default for Phacoemulsification with IOL insertion.
+> **Complex ([[66982]])** requires the use of *specific mechanical devices* or techniques to manage a difficult pupil or lens. Just "taking longer" does not make it complex.
 
 ---
 
@@ -27,9 +27,9 @@ creation_date: 2026-01-17
 
 ### ⚠️ Modifier Watch
 *Crucial modifiers for Cataracts:*
-- [ ] **-RT / -LT:** **MANDATORY.** Do not use -50.
-- [ ] **-55 (Post-Op Management):** Use this if the surgeon is *only* doing the surgery and handing off post-op care to an outside optometrist (Co-management).
-- [ ] **-79 (Unrelated):** Use if operating on the Left Eye during the global period of the Right Eye.
+- [ ] **[[-RT]] / [[-LT]]:** **MANDATORY.** Do not use -50.
+- [ ] **[[-55]] (Post-Op Management):** Use this if the surgeon is *only* doing the surgery and handing off post-op care to an outside optometrist (Co-management).
+- [ ] **[[-79]] (Unrelated):** Use if operating on the Left Eye during the global period of the Right Eye.
 
 ---
 
