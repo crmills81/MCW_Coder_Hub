@@ -89,25 +89,26 @@ Nephrectomy CPT Family
 
 | Approach | Code Range |
 |----------|-----------|
-| Open (any incision, including rib resection) | 50220-50236 |
-| Laparoscopic (standard, hand-assisted, or robotic-assisted) | 50543-50548 |
-| Donor procurement | 50300, 50320, 50547 |
+| Open (any incision, including rib resection) | [[50220]]-[[50236]] |
+| Laparoscopic (standard, hand-assisted, or robotic-assisted) | [[50543]]-[[50548]] |
+| Donor procurement | [[50300]], [[50320]], [[50547]] |
 
-**Critical rule:** Never apply an open code to a laparoscopic procedure or vice versa. Robotic-assisted laparoscopic nephrectomy is coded with laparoscopic codes (50543-50548) — no separate robotic CPT currently exists for nephrectomy.
+>[!warning] Critical rule:
+>Never apply an open code to a laparoscopic procedure or vice versa. Robotic-assisted laparoscopic nephrectomy is coded with laparoscopic codes (50543-50548) — no separate robotic CPT currently exists for nephrectomy.
 
 ---
 
 ### Step 2 — Determine Scope of Resection
 
-| Scope | Open | Laparoscopic |
-|-------|------|-------------|
-| Entire kidney only (simple, no LND) | 50220 | 50545 |
-| Entire kidney, prior surgery complicating | 50225 | Not separately described — use 50545-22 |
-| Entire kidney with regional LND | 50230 | 50546 |
-| Entire kidney with LND and/or IVC thrombectomy | 50230 | 50230 (convert to open) |
-| Entire kidney with total ureterectomy + bladder cuff (one incision) | 50234 | 50548 |
-| Entire kidney with total ureterectomy (two incisions) | 50236 | 50548 |
-| Partial kidney only (nephron-sparing) | 50240 | 50543 |
+| Scope                                                               | Open      | Laparoscopic                            |
+| ------------------------------------------------------------------- | --------- | --------------------------------------- |
+| Entire kidney only (simple, no LND)                                 | [[50220]] | 50545                                   |
+| Entire kidney, prior surgery complicating                           | [[50225]] | Not separately described — use [[50545]][[-22]] |
+| Entire kidney with regional LND                                     | [[50230]] | [[50546]]                               |
+| Entire kidney with LND and/or IVC thrombectomy                      | 50230     | 50230 (convert to open)                 |
+| Entire kidney with total ureterectomy + bladder cuff (one incision) | [[50234]]     | [[50548]]                                   |
+| Entire kidney with total ureterectomy (two incisions)               | [[50236]]     | 50548                                   |
+| Partial kidney only (nephron-sparing)                               | [[50240]]     | [[50543]]                                   |
 
 ---
 
@@ -115,39 +116,42 @@ Nephrectomy CPT Family
 
 The presence or absence of **regional lymphadenectomy** is the single most important code selector in the nephrectomy family:
 
-| LND Status | Open Code | Laparoscopic Code |
-|-----------|-----------|------------------|
-| No LND, or only incidental hilar node removal | 50220 | 50545 |
-| Formal regional LND documented as distinct surgical step | 50230 | 50546 |
-| Extensive LND beyond regional (full para-aortic, pelvic) | 50230 + consider 38780-59 or modifier 22 | 50546 + consider 38589-59 or modifier 22 |
+| LND Status                                               | Open Code                                | Laparoscopic Code                        |
+| -------------------------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| **No LND, or only incidental hilar node removal**            | 50220                                    | 50545                                    |
+| **Formal regional LND documented as distinct surgical step** | 50230                                    | 50546                                    |
+| **Extensive LND beyond regional (full para-aortic, pelvic)** | 50230 + consider 38780-59 or modifier 22 | 50546 + consider 38589-59 or modifier 22 |
 
-**Documentation requirement:** The operative note must explicitly describe the regional lymphadenectomy as a distinct, intentional surgical step — identifying node locations dissected and removed — to support 50230 or 50546 over the simpler code.
+>[!important]
+>**Documentation requirement:** The operative note must explicitly describe the regional lymphadenectomy as a distinct, intentional surgical step — identifying node locations dissected and removed — to support 50230 or 50546 over the simpler code.
 
 ---
 
 ### Step 4 — IVC Thrombectomy
 
-| IVC Thrombus Scenario | Code |
-|-----------------------|------|
-| No IVC involvement | 50220 or 50230 depending on LND |
-| Renal vein thrombus only (no IVC extension) | 50230 open; 50546 laparoscopic if LND performed |
-| Infrarenal IVC involvement (Level I) | 50230 — open approach strongly preferred |
-| Infrahepatic IVC involvement (Level II-III) | 50230 — open; cardiovascular assist often required |
-| Suprahepatic/intracardiac thrombus (Level IV) | 50230 + unlisted vascular or 37799 for complex IVC reconstruction; cardiovascular/CT surgery co-surgeon |
+| IVC Thrombus Scenario                         | Code                                                                                                    |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| **No IVC involvement**                            | 50220 or 50230 depending on LND                                                                         |
+| **Renal vein thrombus only (no IVC extension)**   | 50230 open; 50546 laparoscopic if LND performed                                                         |
+| **Infrarenal IVC involvement (Level I)**          | 50230 — open approach strongly preferred                                                                |
+| **Infrahepatic IVC involvement (Level II-III)**   | 50230 — open; cardiovascular assist often required                                                      |
+| **Suprahepatic/intracardiac thrombus (Level IV)** | 50230 + unlisted vascular or 37799 for complex IVC reconstruction; cardiovascular/CT surgery co-surgeon |
 
-**Critical note:** IVC thrombectomy is bundled into CPT 50230's descriptor. Do not separately bill a vascular code for standard IVC tumor thrombus extraction within the operative field. Separate vascular codes apply only when IVC wall resection, patch repair, or complex reconstruction is required beyond standard thrombus extraction.
+>[!warning] Critical note:
+>IVC thrombectomy is bundled into CPT 50230's descriptor. Do not separately bill a vascular code for standard IVC tumor thrombus extraction within the operative field. Separate vascular codes apply only when IVC wall resection, patch repair, or complex reconstruction is required beyond standard thrombus extraction.
 
 ---
 
 ### Step 5 — Total vs. Partial Ureterectomy
 
-| Ureterectomy Extent | Open | Laparoscopic |
-|--------------------|------|-------------|
-| Proximal ureter only (standard) | 50220, 50225, 50230 | 50545, 50546 |
-| Total ureterectomy with bladder cuff, one incision, with LND | 50234 | 50548 |
-| Total ureterectomy with bladder cuff, two incisions | 50236 | 50548 |
+| Ureterectomy Extent                                          | Open                | Laparoscopic |
+| ------------------------------------------------------------ | ------------------- | ------------ |
+| **Proximal ureter only (standard)**                              | 50220, 50225, 50230 | 50545, 50546 |
+| **Total ureterectomy with bladder cuff, one incision, with LND** | 50234               | 50548        |
+| **Total ureterectomy with bladder cuff, two incisions**          | 50236               | 50548        |
 
-**Indication for total ureterectomy:** Upper tract urothelial carcinoma (transitional cell carcinoma of the renal pelvis or ureter) — to prevent ureteral stump recurrence, the entire ureter including a cuff of bladder must be removed.
+>[!important]
+>**Indication for total ureterectomy:** Upper tract urothelial carcinoma (transitional cell carcinoma of the renal pelvis or ureter) — to prevent ureteral stump recurrence, the entire ureter including a cuff of bladder must be removed.
 
 ---
 

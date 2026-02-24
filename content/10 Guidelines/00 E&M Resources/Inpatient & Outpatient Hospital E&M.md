@@ -25,30 +25,30 @@ creation_date: 2026-01-22
 
 | CPT Code | Level | MDM Requirement | Time (Floor/Unit) |
 | :--- | :--- | :--- | :--- |
-| **99221** | Low / SF | Straightforward / Low | 40 min |
-| **99222** | Moderate | Moderate | 55 min |
-| **99223** | High | High | 75 min |
+| **[[99221]]** | Low / SF | Straightforward / Low | 40 min |
+| **[[99222]]** | Moderate | Moderate | 55 min |
+| **[[99223]]** | High | High | 75 min |
 
 ### 2. Subsequent Care (Rounding / Daily Visits)
 *Use this for daily follow-ups.*
 
 | CPT Code | Level | MDM Requirement | Time (Floor/Unit) |
 | :--- | :--- | :--- | :--- |
-| **99231** | Low / SF | Straightforward / Low | 25 min |
-| **99232** | Moderate | Moderate | 35 min |
-| **99233** | High | High | 50 min |
+| **[[99231]]** | Low / SF | Straightforward / Low | 25 min |
+| **[[99232]]** | Moderate | Moderate | 35 min |
+| **[[99233]]** | High | High | 50 min |
 
 ### 3. Discharge Day Management
 *Only billable on the day the patient leaves.*
-* **99238:** 30 minutes or less.
-* **99239:** More than 30 minutes. (MUST document time!)
+* **[[99238]]:** 30 minutes or less.
+* **[[99239]]:** More than 30 minutes. (MUST document time!)
 
 ---
 
 ## ⚠️ The "Consult" Trap (Medicare vs. Commercial)
 * **Medicare / Most Payers:** Do NOT pay for Consultation codes (99252-99255).
     * *Rule:* If you are a consultant, you bill **99221-99223** (Initial Hospital Care).
-    * *Modifier -AI:* Only the "Admitting" doctor adds -AI. You (the specialist) generally do not.
+    * *Modifier [[-AI]]:* Only the "Admitting" doctor adds -AI. You (the specialist) generally do not.
 * **Some Commercial Payers:** Still accept 99252-99255. *Check your MCW payer grid.*
 
 ---

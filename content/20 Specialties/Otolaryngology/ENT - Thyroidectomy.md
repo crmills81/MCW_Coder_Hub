@@ -19,18 +19,18 @@ creation_date: 2026-01-22
 ## 💰 CPT Selection Logic
 
 **1. The Thyroid Gland:**
-* **60240 (Total):** Complete removal.
-* **60220 (Lobectomy):** Removing one side (unilateral).
-* **60260 (Completion):** Re-operation to remove remaining thyroid tissue.
+* **[[60240]] (Total):** Complete removal.
+* **[[60220]] (Lobectomy):** Removing one side (unilateral).
+* **[[60260]] (Completion):** Re-operation to remove remaining thyroid tissue.
 * *Note:* If they do a Lobectomy (60220) and then decide *intra-operatively* to take the other side, cross out 60220 and bill **60240 (Total)**.
 
 **2. The Lymph Nodes (Neck Dissection):**
 * *Bundled:* Removal of a "few" nodes or nodes attached to the gland is INCLUDED.
-* **+60512 (Add-on):** Limited neck dissection (compartment-oriented).
-* **69801 (Radical Neck):** Massive resection (Sternocleidomastoid, Jugular Vein, Spinal Accessory Nerve). *Billable separately with modifier? Check CCI.*
+* **+[[60512]] (Add-on):** Limited neck dissection (compartment-oriented).
+* **[[69801]] (Radical Neck):** Massive resection (Sternocleidomastoid, Jugular Vein, Spinal Accessory Nerve). *Billable separately with modifier? Check CCI.*
 
 ### ⚠️ Modifier Watch
-- [ ] **-50 (Bilateral):** **NO.** Codes are defined as "Total" (inherently bilateral) or "Lobectomy" (unilateral definition).
+- [ ] **[[-50]] (Bilateral):** **NO.** Codes are defined as "Total" (inherently bilateral) or "Lobectomy" (unilateral definition).
 - [ ] **Nerve Monitoring (+95940):** **Red Flag.** Most payers (Medicare) deny this for the surgeon. Only the Neurologist/Audiologist monitoring it can bill. If the surgeon just places the leads, it's bundled.
 
 ---

@@ -17,18 +17,18 @@ creation_date: 2026-01-22
 *(Start at the bottom and work up - choose the "biggest" surgery)*
 
 **1. Tympanoplasty Only (Eardrum Repair):**
-* **69631:** Repair of eardrum (Myringoplasty) + inspection of ossicles.
-* **69632:** Repair + Ossicular Chain Reconstruction (OCR) (Fixing the bones).
+* **[[69631]]:** Repair of eardrum (Myringoplasty) + inspection of ossicles.
+* **[[69632]]:** Repair + Ossicular Chain Reconstruction (OCR) (Fixing the bones).
 
 **2. Mastoidectomy Only (Drilling bone behind ear):**
-* **69501:** Simple (Complete).
-* **69502:** Modified Radical (Removes disease, preserves hearing structures).
-* **69511:** Radical (Removes everything).
+* **[[69501]]:** Simple (Complete).
+* **[[69502]]:** Modified Radical (Removes disease, preserves hearing structures).
+* **[[69511]]:** Radical (Removes everything).
 
 **3. The COMBO Codes (Tymp + Mastoid):**
-* **69641:** Tympanoplasty + Mastoidectomy (Intact wall).
-* **69642:** Tympanoplasty + Mastoidectomy + OCR (Bone repair).
-* **69643:** Tympanoplasty + Mastoidectomy (Wall down/Radical).
+* **[[69641]]:** Tympanoplasty + Mastoidectomy (Intact wall).
+* **[[69642]]:** Tympanoplasty + Mastoidectomy + OCR (Bone repair).
+* **[[69643]]:** Tympanoplasty + Mastoidectomy (Wall down/Radical).
 
 ### ⚠️ Modifier Watch
 - [ ] **-50 (Bilateral):** Allowed (150% pay).

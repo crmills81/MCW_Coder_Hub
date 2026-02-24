@@ -27,7 +27,7 @@ date_created: 2026-02-23
 date_modified: 2026-02-23
 ncci_notes:
   - Fundus photography (92250) and OCT (92133, 92134) are generally mutually exclusive per NCCI for the same eye on the same date — use modifier XU or 59 only when both are medically necessary and documentable.
-  - Extended ophthalmoscopy (92201, 92202) is included in posterior segment surgical procedures (67005–67229) when performed same-day.
+  - Extended ophthalmoscopy (92201, 92202) is included in posterior segment surgical procedures (67005-67229) when performed same-day.
 key_modifiers_in_ophthalmology:
   - -LT / -RT (left eye / right eye)
   - -50 (bilateral procedure)
@@ -37,10 +37,10 @@ key_modifiers_in_ophthalmology:
   - -79 (unrelated procedure during post-op period)
   - -55 (post-op management only)
 related_notes:
-  - "[[H20.051]] – Hypopyon, right eye"
-  - "[[Uveitis and Iridocyclitis – Clinical Overview]]"
+  - "[[H20.051]] - Hypopyon, right eye"
+  - "[[Uveitis and Iridocyclitis - Clinical Overview]]"
   - "[[50 Medical Coding/Modifiers/Global Surgical Package MOC]]"
-  - "[[Global Surgery Period Modifiers – Comparison & Reference]]"
+  - "[[Global Surgery Period Modifiers - Comparison & Reference]]"
 source: AMA CPT 2025/2026, CMS MPFS, NCCI Policy Manual Chapter 11, ECBC Ophthalmology Billing Cheat Sheet, Review of Ophthalmology 2026 Update
 ---
 
@@ -63,7 +63,7 @@ These ophthalmology-specific exam codes are an alternative to standard E/M codes
 | 92012 | Ophthalmological services, established patient, intermediate | Follow-up / focused visit |
 | 92014 | Ophthalmological services, established patient, comprehensive | Complete exam including refraction |
 
-**Key billing note:** 92002–92014 are the codes most specific to ophthalmology examinations. Providers may alternatively use standard E/M codes (99202–99215) for office visits — payer policy and documentation type should guide the choice.
+**Key billing note:** 92002-92014 are the codes most specific to ophthalmology examinations. Providers may alternatively use standard E/M codes (99202-99215) for office visits — payer policy and documentation type should guide the choice.
 
 ---
 
@@ -71,12 +71,12 @@ These ophthalmology-specific exam codes are an alternative to standard E/M codes
 
 | CPT | Description |
 |-----|-------------|
-| 99202–99205 | New patient, office/outpatient E/M, levels 2–5 |
-| 99212–99215 | Established patient, office/outpatient E/M, levels 2–5 |
-| 99221–99223 | Initial hospital inpatient E/M |
-| 99231–99233 | Subsequent hospital inpatient E/M |
-| 99241–99245 | Office consultation (some payers; not recognized by Medicare) |
-| 99251–99255 | Inpatient consultation (some payers; not recognized by Medicare) |
+| 99202-99205 | New patient, office/outpatient E/M, levels 2-5 |
+| 99212-99215 | Established patient, office/outpatient E/M, levels 2-5 |
+| 99221-99223 | Initial hospital inpatient E/M |
+| 99231-99233 | Subsequent hospital inpatient E/M |
+| 99241-99245 | Office consultation (some payers; not recognized by Medicare) |
+| 99251-99255 | Inpatient consultation (some payers; not recognized by Medicare) |
 
 ---
 
@@ -281,7 +281,7 @@ These ophthalmology-specific exam codes are an alternative to standard E/M codes
 ## NCCI Bundling Watchpoints (Ophthalmology-Specific)
 
 - **92250 + 92133/92134:** Fundus photography and OCT are mutually exclusive per NCCI for the same eye on the same date. Append modifier XU or 59 **only** when both are independently medically necessary and fully documented.
-- **92201/92202 + posterior segment surgery:** Extended ophthalmoscopy is bundled into posterior segment surgical procedures (67005–67229) when performed same-day. Extended ophthalmoscopy would normally not be reported pre-operatively same-day as an elective posterior segment procedure.
+- **92201/92202 + posterior segment surgery:** Extended ophthalmoscopy is bundled into posterior segment surgical procedures (67005-67229) when performed same-day. Extended ophthalmoscopy would normally not be reported pre-operatively same-day as an elective posterior segment procedure.
 - **67028 (intravitreal injection) + E/M same day:** Modifier 25 on the E/M is required to separately bill E/M on the same day as an intravitreal injection when the E/M represents a significant, separately identifiable service beyond the pre-injection evaluation.
 - **Bilateral eye procedures:** When the same procedure is performed bilaterally at the same session, use modifier 50 or bill separately with RT/LT per payer instructions.
 
@@ -318,9 +318,9 @@ These ophthalmology-specific exam codes are an alternative to standard E/M codes
 ## Suggested Obsidian Linkouts
 
 - [[H20.051]] — Hypopyon, right eye
-- [[Uveitis and Iridocyclitis – Clinical Overview]]
+- [[Uveitis and Iridocyclitis - Clinical Overview]]
 - [[50 Medical Coding/Modifiers/Global Surgical Package MOC]]
-- [[Global Surgery Period Modifiers – Comparison & Reference]]
+- [[Global Surgery Period Modifiers - Comparison & Reference]]
 - [[-25]] (modifier 25 — critical for same-day injection + E/M)
 - [[-22]] (modifier 22 — complex ophthalmic surgical cases)
 - [[-76]] and [[-77]] (repeat procedure modifiers — relevant for bilateral staged procedures)

@@ -309,14 +309,14 @@ This reference index covers the major **CPT code families in Urology** — organ
 
 **TURP Family**
 
-| CPT   | Description                                                       |                            |
-| ----- | ----------------------------------------------------------------- | -------------------------- |
-| 52601 | **Transurethral electrosurgical resection of prostate, complete**     | TURP                       |
-| 52630 | **Transurethral resection of prostate, residual or regrowth tissue**  | Re-TURP                    |
-| 52640 | **Transurethral resection of postoperative bladder neck contracture** | BNC resection              |
-| 52647 | **Laser coagulation of prostate, non-contact**                        | VLAP/coagulation laser     |
-| 52648 | **Laser vaporization of prostate, contact**                           | PVP/KTP laser              |
-| 52649 | **Laser enucleation of prostate, without morcellation**               | HoLEP without morcellation |
+| CPT       | Description                                                           |                            |
+| --------- | --------------------------------------------------------------------- | -------------------------- |
+| [[52601]] | **Transurethral electrosurgical resection of prostate, complete**     | TURP                       |
+| [[52630]] | **Transurethral resection of prostate, residual or regrowth tissue**  | Re-TURP                    |
+| [[52640]] | **Transurethral resection of postoperative bladder neck contracture** | BNC resection              |
+| [[52647]] | **Laser coagulation of prostate, non-contact**                        | VLAP/coagulation laser     |
+| [[52648]] | **Laser vaporization of prostate, contact**                           | PVP/KTP laser              |
+| [[52649]] | **Laser enucleation of prostate, without morcellation**               | HoLEP without morcellation |
 
 ---
 

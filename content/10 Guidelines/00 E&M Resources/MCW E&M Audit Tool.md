@@ -29,18 +29,18 @@
 
 *Problem must be evaluated or treated at the encounter. Referral without evaluation counts.*
 
-* ** [  ] MINIMAL (Level 2 )**
+- [ ] **MINIMAL (Level 2 )**
 
   * 1 self-limited or minor problem
 
-* ** [  ] LOW (Level 3 )**
+ - [ ] **LOW (Level 3 )**
 
   * 2+ self-limited/minor problems  
   * 1 stable chronic illness  
   * 1 acute, uncomplicated illness/injury  
   * 1 stable, acute illness (Inpatient only)  
       
-* ** [  ] MODERATE (Level 4 )**
+ - [ ] **MODERATE (Level 4 )**
 
   * 1+ chronic illness w/ exacerbation, progression, or side effects  
   * 2+ stable chronic illnesses  
@@ -48,7 +48,7 @@
   * 1 acute illness w/ systemic symptoms  
   * 1 acute complicated injury  
       
-* ** [  ] HIGH (Level 5 )**
+- [ ] **HIGH (Level 5 )**
 
   * 1+ chronic illness w/ **severe** exacerbation, progression, or side effects  
   * 1 acute/chronic illness posing **threat to life or bodily function**
@@ -61,20 +61,20 @@
 
 *Tests ordered/reviewed are distinct unique CPT codes. Panel  = 1 test.*
 
-* ** [  ] MINIMAL/NONE (Level 2 )**
+ - [ ] **MINIMAL/NONE (Level 2 )**
 
-* ** [  ] LIMITED (Level 3 )  - (Must meet 1 category)**
+ - [ ] **LIMITED (Level 3 )  - (Must meet 1 category)**
 
   * *Cat 1:* Any combo of **2**: Review external notes; Review unique test result; Order unique test.  
   * *Cat 2:* Assessment requiring independent historian.
 
-* ** [  ] MODERATE (Level 4 )  - (Must meet 1 category)**
+- [ ] **MODERATE (Level 4 )  - (Must meet 1 category)**
 
   * *Cat 1:* Any combo of **3**: Review external notes; Review unique test result; Order unique test; Independent historian.  
   * *Cat 2:* Independent interpretation of test (not separately reported).  
   * *Cat 3:* Discussion of management/interpretation with external provider.
 
-* ** [  ] EXTENSIVE (Level 5 )  - (Must meet 2 categories)**
+- [ ] **EXTENSIVE (Level 5 )  - (Must meet 2 categories)**
 
   * *Cat 1:* Any combo of **3** items (Same list as Moderate Cat 1).  
   * *Cat 2:* Independent interpretation of test (not separately reported).  
@@ -87,22 +87,22 @@
 
 *Based on consequences of the problem addressed when appropriately treated.*
 
-* ** [  ] MINIMAL (Level 2 )**
+ - [ ] **MINIMAL (Level 2 )**
 
   * Rest, gargles, elastic bandages.
 
-* ** [  ] LOW (Level 3 )**
+- [ ] **LOW (Level 3 )**
 
   * OTC drugs, PT/OT, Minor surgery w/o risk factors, IV fluids (no additives).
 
-* ** [  ] MODERATE (Level 4 )**
+- [ ] **MODERATE (Level 4 )**
 
   * **Prescription Drug Management**  
   * Decision regarding minor surgery **w/** risk factors.  
   * Decision regarding elective major surgery **w/o** risk factors.  
   * Diagnosis/Tx limited by **Social Determinants of Health**.
 
-* ** [  ] HIGH (Level 5 )**
+- [ ] **HIGH (Level 5 )**
 
   * **Drug therapy requiring intensive monitoring for toxicity.**  
   * Decision regarding elective major surgery **w/** risk factors.  
@@ -113,7 +113,8 @@
 
     
 
-**Element 3 Result:**  [  ] Min  [  ] Low  [  ] Mod  [  ] High
+>- **Element 3 Result:**  
+>- [ ] Min [   ] Low [   ] Mod [   ] High
 
 ---
 
@@ -152,9 +153,9 @@
 
 **FINAL CODE SELECTED:**  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-** [  ] Correctly Coded**  
-** [  ] Under Coded** (Support was present for higher level)  
-** [  ] Over Coded** (Documentation does not support level)
+- [ ]  **Correctly Coded**  
+- [ ] **Under Coded** (Support was present for higher level)  
+- [ ] **Over Coded** (Documentation does not support level)
 
 **Auditor Notes:**
 

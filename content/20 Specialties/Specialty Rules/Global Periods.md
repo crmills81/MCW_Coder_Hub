@@ -1,8 +1,8 @@
 | hcpcs | desc                         | global | status |
 |-------|------------------------------|--------|--------|
 | 10040 | Acne surgery                 | 010    | A      |
-| 10060 | I&d abscess simple/single    | 010    | A      |
-| 10061 | I&d abscess comp/multiple    | 010    | A      |
+| [[10060]] | I&d abscess simple/single    | 010    | A      |
+| [[10061]] | I&d abscess comp/multiple    | 010    | A      |
 | 10120 | Inc&rmvl fb subq tiss smpl   | 010    | A      |
 | 10140 | I&d hmtma seroma/fluid collj | 010    | A      |
 | 10160 | Pnxr aspir absc hmtma bulla  | 010    | A      |
