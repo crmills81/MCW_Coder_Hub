@@ -38,7 +38,7 @@ source: CMS MLN Matters / NCCI Policy
 ---
 
 
-# CPT Modifier XP - Separate Practitioner
+# Modifier XP - Separate Practitioner
 
 ## Short Definition
 A service that is distinct because it was performed by a **different practitioner** than the one who performed the primary (bundled) service.
@@ -76,14 +76,14 @@ This modifier is especially relevant in group practices, hospital-based settings
 ## X{EPSU} Modifier Family — Quick Reference
 | Modifier | Full Name | Reason for Distinctness |
 |----------|-----------|------------------------|
-| XE | Separate Encounter | Different encounter, same DOS |
-| XP | Separate Practitioner | Different provider performed the service |
-| XS | Separate Structure | Different organ or anatomical structure |
-| XU | Unusual Non-Overlapping Service | Does not overlap usual components of main service |
-| 59 | Distinct Procedural Service | Use ONLY if no X{EPSU} modifier applies |
+| [[-XE]] | Separate Encounter | Different encounter, same DOS |
+| -XP | Separate Practitioner | Different provider performed the service |
+| [[-XS]] | Separate Structure | Different organ or anatomical structure |
+| [[-XU]] | Unusual Non-Overlapping Service | Does not overlap usual components of main service |
+| [[-59]] | Distinct Procedural Service | Use ONLY if no X{EPSU} modifier applies |
 
 ## Quick Example
-- A colorectal surgeon performs a colonoscopy with biopsy (45380) on a patient.
+- A colorectal surgeon performs a colonoscopy with biopsy ([[45380]]) on a patient.
 - Later the same day, the patient's gastroenterologist (separate group, separate NPI) performs a flexible sigmoidoscopy for a distinct clinical reason.
 - The gastroenterologist's service would normally bundle with the colonoscopy, but since a **different practitioner** performed it, modifier **XP** is appended to indicate the services are distinct due to separate practitioners.
 - Both providers bill under their own NPIs with appropriate documentation in separate notes.

@@ -6,8 +6,6 @@ tags:
 creation_date: 2026-01-22
 ---
 
-# Urology - BPH Procedures (TURP, Greenlight, UroLift)
-
 ## 📋 The Rule (Quick Summary)
 > **Destruction vs. Suspension:** Coding depends entirely on the **technique** used to treat the enlarged prostate.
 > * **TURP/Greenlight:** Removes tissue (resection/vaporization).

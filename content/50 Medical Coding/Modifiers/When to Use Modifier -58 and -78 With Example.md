@@ -1,4 +1,4 @@
-**Your question**: I have a chart that I'm coding. Pt had the CPT 35800 done on 2/1/26 but then due to bleeding around the trach site, the ENT doctor was called back to the patient on 2/2/26 to have a flexible fiber optic tracheoscopy inserted and cuff reinflated. Can I bill out the CPT 31575 for 2/2/26 after coding CT 35800 BEFORE the patient needed a new trach the very next day? If so what modifier do I use? If not, why?
+**Your question**: I have a chart that I'm coding. Pt had the CPT 35800 done on 2/1/26 but then due to bleeding around the trach site, the ENT doctor was called back to the patient on 2/2/26 to have a flexible fiber optic tracheoscopy inserted and cuff reinflated. Can I bill out the CPT [[31575]] for 2/2/26 after coding CT [[35800]] BEFORE the patient needed a new trach the very next day? If so what modifier do I use? If not, why?
 
 **Microsoft Copilot**: Let’s walk through it cleanly and defensibly.
 
@@ -83,7 +83,7 @@ This aligns with CPT guidance for post‑op diagnostic procedures.
 
 ### 🚫 Why NOT Modifier ‑59?
 
-Modifier ‑59 is for:
+Modifier [[‑59]] is for:
 
 - **Same‑day**
 - **Same session**
@@ -95,13 +95,13 @@ This was:
 - A **post‑op evaluation**
 - Not an NCCI edit issue
 
-Using ‑59 here would be **incorrect and audit‑vulnerable** [AAPC](https://www.aapc.com/blog/25335-a-quick-guide-to-separate-procedures/).
+Using [[‑59]] here would be **incorrect and audit‑vulnerable** [AAPC](https://www.aapc.com/blog/25335-a-quick-guide-to-separate-procedures/).
 
 ---
 
 ### 🚫 Why NOT Modifier ‑78?
 
-Modifier ‑78 applies to:
+Modifier [[‑78]] applies to:
 
 - **Return to the OR**
 - **Unplanned surgical procedures**

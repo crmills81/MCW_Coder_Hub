@@ -19,7 +19,7 @@ created: 2026-01-21
 * **[[J32.9]]** - Chronic sinusitis, unspecified
 * **[[J34.2]]** - Deviated nasal septum
 * **[[H66.91]]** - Otitis media, unspecified, right ear
-* **[[R49.0]]** - [[dysphonia]] (Hoarseness)
+* **[[50 Medical Coding/ICD-10 Codes/R49.0]]** - [[dysphonia]] (Hoarseness)
 
 ## Key Modifiers
 * **[[-51]]**: Multiple procedures (very common in ENT sinus surgeries)

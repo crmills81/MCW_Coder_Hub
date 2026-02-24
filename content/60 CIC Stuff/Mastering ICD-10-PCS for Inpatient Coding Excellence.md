@@ -1,36 +1,36 @@
 **Mastering ICD-10-PCS for Inpatient Coding Excellence**  
-Alright, let's get you absolutely prepared for your CIC exam with the AAPC by dissecting the beast that is ICD-10-PCS coding ! This is truly a crucial area for any Certified Inpatient Coder, as it defines the procedures performed during a hospital stay and directly impacts reimbursement and data quality. Mastering it is non-negotiable for your success in inpatient coding  [1-7 ].  
+Alright, let's get you absolutely prepared for your CIC exam with the AAPC by dissecting the beast that is ICD-10-PCS coding ! This is truly a crucial area for any Certified Inpatient Coder, as it defines the procedures performed during a hospital stay and directly impacts reimbursement and data quality. Mastering it is non-negotiable for your success in inpatient coding.  
 The Foundation: What is ICD-10-PCS and Why It Matters for Inpatient Care
 
-ICD-10-PCS, which stands for International Classification of Diseases, 10th Revision, Procedure Coding System, is the standardized medical coding system **exclusively used in the United States for classifying and reporting procedures performed in inpatient and hospital settings**  [1, 8-25 ]. It's a completely different code set from CPT, which is primarily used for outpatient and professional services  [1, 3, 6, 9, 11, 26-29 ].
+ICD-10-PCS, which stands for International Classification of Diseases, 10th Revision, Procedure Coding System, is the standardized medical coding system **exclusively used in the United States for classifying and reporting procedures performed in inpatient and hospital settings**  [1, 8-25 ]. It's a completely different code set from CPT, which is primarily used for outpatient and professional services.
 
 **Why is understanding ICD-10-PCS absolutely vital for your CIC exam and your career?**
 
-• **Reimbursement:** ICD-10-PCS codes, alongside the principal diagnosis and other secondary diagnoses, directly determine the assignment of Medicare Severity Diagnosis-Related Groups (MS-DRGs)  [2, 5, 6, 9, 27, 28, 30-32 ]. These MS-DRGs are the basis for hospital reimbursement for inpatient stays  [2, 5, 6, 9, 27, 28, 30, 31, 33-37 ]. Incorrect PCS coding can lead to denied claims or incorrect payments, impacting the financial health of healthcare facilities  [36, 37 ].  
-• **Data and Quality Measures:** Accurate ICD-10-PCS coding ensures reliable healthcare data, which is used for statistical analysis, research, quality improvement, and public health policy-making  [12, 14, 35-39 ]. This detailed data is crucial for tracking health interventions and assessing quality of care  [35-37, 40, 41 ].  
-• **Compliance:** Adherence to ICD-10-PCS guidelines is a legal requirement under the Health Insurance Portability and Accountability Act (HIPAA)  [41-48 ]. Inaccurate coding can lead to legal penalties  [36, 37 ].
+• **Reimbursement:** ICD-10-PCS codes, alongside the principal diagnosis and other secondary diagnoses, directly determine the assignment of Medicare Severity Diagnosis-Related Groups (MS-DRGs). These MS-DRGs are the basis for hospital reimbursement for inpatient stays. Incorrect PCS coding can lead to denied claims or incorrect payments, impacting the financial health of healthcare facilities.  
+• **Data and Quality Measures:** Accurate ICD-10-PCS coding ensures reliable healthcare data, which is used for statistical analysis, research, quality improvement, and public health policy-making. This detailed data is crucial for tracking health interventions and assessing quality of care.  
+• **Compliance:** Adherence to ICD-10-PCS guidelines is a legal requirement under the Health Insurance Portability and Accountability Act (HIPAA). Inaccurate coding can lead to legal penalties.
 
 **The Genesis of ICD-10-PCS: A Historical Perspective**
 
-The development of ICD-10-PCS was a direct response to the limitations of ICD-9-CM Volume 3, which was outdated and couldn't be expanded for more specific procedural detail  [21, 35, 49, 50 ]. The Centers for Medicare and Medicaid Services (CMS) funded a project in 1993, awarding a contract to 3M Health Information Systems to develop this new system for procedural coding  [21, 43, 49-53 ]. ICD-10-PCS was initially released in 1998 and has been updated since  [49 ]. While the World Health Organization (WHO) maintains the International Classification of Diseases (ICD) for mortality data, ICD-10-PCS is a U.S.-specific clinical modification, making it unique compared to other international procedure classifications  [8, 16, 18, 21, 54, 55 ]. The National Center for Health Statistics (NCHS) and CMS are responsible for its maintenance  [12, 14, 43, 52, 56 ].
+The development of ICD-10-PCS was a direct response to the limitations of ICD-9-CM Volume 3, which was outdated and couldn't be expanded for more specific procedural detail. The Centers for Medicare and Medicaid Services (CMS) funded a project in 1993, awarding a contract to 3M Health Information Systems to develop this new system for procedural coding. ICD-10-PCS was initially released in 1998 and has been updated since. While the World Health Organization (WHO) maintains the International Classification of Diseases (ICD) for mortality data, ICD-10-PCS is a U.S.-specific clinical modification, making it unique compared to other international procedure classifications. The National Center for Health Statistics (NCHS) and CMS are responsible for its maintenance.
 
 **Deciphering the ICD-10-PCS Code Structure: The Seven Characters**
 
-Acing your CIC exam requires you to truly understand the meticulous structure of ICD-10-PCS codes. Unlike ICD-10-CM, which classifies diagnoses, ICD-10-PCS uses a multiaxial, seven-character alphanumeric code structure to classify procedures  [43, 52, 57-68 ]. Each of these seven characters represents a specific aspect of the procedure performed  [43, 52, 58-71 ].
+Acing your CIC exam requires you to truly understand the meticulous structure of ICD-10-PCS codes. Unlike ICD-10-CM, which classifies diagnoses, ICD-10-PCS uses a multiaxial, seven-character alphanumeric code structure to classify procedures. Each of these seven characters represents a specific aspect of the procedure performed.
 
 **Here’s the breakdown you need to commit to memory:**
 
-1 . **Section (1st character):** This broadly categorizes the healthcare service  [43, 52, 58-61, 69-72 ]. The Medical and Surgical section (value '0') contains the vast majority of inpatient procedures  [73-77 ]. Other sections include Obstetrics, Placement, Administration, Measurement and Monitoring, Imaging, Nuclear Medicine, Radiation Therapy, Mental Health, Substance Abuse Treatment, and New Technology  [8, 73, 78-82 ].
+1 . **Section (1st character):** This broadly categorizes the healthcare service. The Medical and Surgical section (value '0') contains the vast majority of inpatient procedures. Other sections include Obstetrics, Placement, Administration, Measurement and Monitoring, Imaging, Nuclear Medicine, Radiation Therapy, Mental Health, Substance Abuse Treatment, and New Technology.
 
-2 . **Body System (2nd character):** This identifies the general physiological system or anatomical region where the procedure was performed  [43, 52, 58, 59, 69-72 ].
+2 . **Body System (2nd character):** This identifies the general physiological system or anatomical region where the procedure was performed.
 
-3 . **Root Operation (3rd character):** **This is the cornerstone of PCS coding.** It defines the **objective or intent** of the procedure  [43, 52, 58, 59, 62, 69-72, 83-93 ]. It's crucial because physicians don't always use PCS terminology in their documentation, so it's *your responsibility* as the coder to interpret what the documentation means in terms of PCS definitions  [58, 59, 83-91, 94-97 ]. There are 31 root operations in the Medical and Surgical section alone  [70, 71, 94, 98, 99 ].
+3 . **Root Operation (3rd character):** **This is the cornerstone of PCS coding.** It defines the **objective or intent** of the procedure. It's crucial because physicians don't always use PCS terminology in their documentation, so it's *your responsibility* as the coder to interpret what the documentation means in terms of PCS definitions. There are 31 root operations in the Medical and Surgical section alone.
 
     ◦ **Common Root Operations you absolutely must know for the CIC exam**  [58, 59, 62 ]:   
- * **Excision (B):** Cutting out or off a *portion* of a body part without replacement  [58, 59, 62, 94 ].   
- * **Resection (T):** Cutting out or off *all* of a body part without replacement  [58, 59, 94 ].   
- * **Drainage (9):** Taking or letting out fluids and/or gases from a body part (e.g., incision and drainage, thoracentesis)  [58, 59, 62, 100-102 ]. If diagnostic, the qualifier 'Diagnostic' is used  [102 ].   
- * **Extirpation (C):** Taking or cutting out *solid matter* from a body part (e.g., kidney stone, blood clot)  [58, 59, 62, 103 ].   
+ * **Excision (B):** Cutting out or off a *portion* of a body part without replacement.   
+ * **Resection (T):** Cutting out or off *all* of a body part without replacement.   
+ * **Drainage (9):** Taking or letting out fluids and/or gases from a body part (e.g., incision and drainage, thoracentesis). If diagnostic, the qualifier 'Diagnostic' is used  [102 ].   
+ * **Extirpation (C):** Taking or cutting out *solid matter* from a body part (e.g., kidney stone, blood clot).   
  * **Fragmentation (F):** Breaking solid matter into pieces (e.g., ESWL for kidney stones)  [58, 59 ].   
  * **Division (8):** Cutting into a body part to separate or transect it  [58, 59, 104 ].   
  * **Release (N):** Freeing a body part from abnormal constraint (e.g., lysis of adhesions)  [58, 59 ].   

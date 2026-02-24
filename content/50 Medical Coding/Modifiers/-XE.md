@@ -37,7 +37,7 @@ source: CMS MLN Matters / NCCI Policy
 ---
 
 
-# CPT Modifier XE - Separate Encounter
+# Modifier XE - Separate Encounter
 
 ## Short Definition
 A service that is distinct because it occurred during a **separate encounter** on the same date of service.
@@ -73,11 +73,11 @@ The key distinction: both services happen on the **same day**, but they are sepa
 ## X{EPSU} Modifier Family — Quick Reference
 | Modifier | Full Name | Reason for Distinctness |
 |----------|-----------|------------------------|
-| XE | Separate Encounter | Different encounter, same DOS |
-| XP | Separate Practitioner | Different provider performed the service |
-| XS | Separate Structure | Different organ or anatomical structure |
-| XU | Unusual Non-Overlapping Service | Does not overlap usual components of main service |
-| 59 | Distinct Procedural Service | Use ONLY if no X{EPSU} modifier applies |
+| -XE | Separate Encounter | Different encounter, same DOS |
+| [[-XP]] | Separate Practitioner | Different provider performed the service |
+| [[-XS]] | Separate Structure | Different organ or anatomical structure |
+| [[-XU]] | Unusual Non-Overlapping Service | Does not overlap usual components of main service |
+| [[-59]] | Distinct Procedural Service | Use ONLY if no X{EPSU} modifier applies |
 
 ## Quick Example
 - Patient sees an otolaryngologist in the morning for nasal congestion; a diagnostic nasal endoscopy is performed.

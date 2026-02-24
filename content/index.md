@@ -1,5 +1,5 @@
 ---
-title: Yay, MEDICAL CODING!!!
+title: 🌟 Yay, MEDICAL CODING!!! 🌟
 description: Welcome to my work in progress! Lol
 ---
 # 💥 Coding Dashboard
@@ -13,7 +13,7 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 
 ## High‑Yield References
 - [[10 Guidelines/20 MDM Tables - Printable/MDM Tables]]
-- [[10 Guidelines/PCS Root Operation Grid|PCS Root Operation Grid]]
+- [[60 CIC Stuff/PCS Root Operation Grid|PCS Root Operation Grid]]
 - [[10 Guidelines/00 E&M Resources/Facility E&M Quick Guide]]
 - [[Status Indicators Quick Reference]]
 - [[10 Guidelines/UB‑04 Field Reference]]
@@ -51,7 +51,7 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 - [[CIC Study Plan]]
 - [[CIC Study Notes]]
 - [[CIC Quick Reference]]
-- [[PCS Root Operation Grid]]
+- [[60 CIC Stuff/PCS Root Operation Grid]]
 
 ## High‑Yield Topics
 - OR vs Non‑OR procedures  

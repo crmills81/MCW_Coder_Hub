@@ -71,7 +71,7 @@ A structured, repeatable study roadmap for mastering facility coding and prepari
 - [[Coding Scenarios]]
 
 ## PCS Practice
-- [[PCS Root Operation Grid]]
+- [[60 CIC Stuff/PCS Root Operation Grid]]
 
 ## DRG Practice
 - [[DRG Mapping Sheet]]
@@ -90,7 +90,7 @@ A structured, repeatable study roadmap for mastering facility coding and prepari
 ---
 
 # 🔗 Cross‑Links
-- [[Coding Dashboard]]
+- [[index]]
 - [[CIC Quick Reference]]
 - [[MDM Tables]]
 - [[Audit Checklists]]

@@ -45,7 +45,7 @@ status: active
 source: CMS Medicare Claims Processing Manual / ASA / Novitas / Moda Health / CMS Transmittal 1859
 ---
 
-# -QZ
+# Modifier -QZ: CRNA Without Medical Direction
 
 ## Short Definition
 The CRNA personally performed and fully managed the entire anesthesia service without medical direction or supervision by a physician.
@@ -92,12 +92,12 @@ QZ is particularly relevant in states where the governor has opted out of the Me
 ## Anesthesia Payment Modifier Family — Quick Reference
 | Modifier | Reported By | Scenario | Rate |
 |----------|-------------|----------|------|
-| AA | Anesthesiologist | Personally performed, full case | 100% |
-| QK | Anesthesiologist | Medically directing 2-4 concurrent cases | 50% |
-| QY | Anesthesiologist | Medically directing 1 CRNA | 50% |
-| AD | Anesthesiologist | Supervising 5+ concurrent cases | Limited base units only |
-| QX | CRNA / AA | Medically directed by a physician | 50% |
-| QZ | CRNA | Without medical direction by a physician | 100% CRNA rate |
+| [[-AA]] | Anesthesiologist | Personally performed, full case | 100% |
+| [[-QK]] | Anesthesiologist | Medically directing 2-4 concurrent cases | 50% |
+| [[-QY]] | Anesthesiologist | Medically directing 1 CRNA | 50% |
+| [[-AD]] | Anesthesiologist | Supervising 5+ concurrent cases | Limited base units only |
+| [[-QX]] | CRNA / AA | Medically directed by a physician | 50% |
+| [[-QZ]] | CRNA | Without medical direction by a physician | 100% CRNA rate |
 
 ## Quick Example
 - A CRNA in an independent practice state performs the full anesthesia service for a knee arthroscopy (01382).

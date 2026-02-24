@@ -41,7 +41,7 @@ source: CMS MLN Matters / NCCI Policy
 ---
 
 
-# CPT Modifier XU - Unusual Non-Overlapping Service
+# Modifier XU - Unusual Non-Overlapping Service
 
 ## Short Definition
 A service that is distinct because it **does not overlap the usual components** of the main service — even though the two codes are typically bundled together.
@@ -83,15 +83,15 @@ This is the most nuanced of the X{EPSU} modifiers. It is used when the procedure
 ## X{EPSU} Modifier Family — Quick Reference
 | Modifier | Full Name | Reason for Distinctness |
 |----------|-----------|------------------------|
-| XE | Separate Encounter | Different encounter, same DOS |
-| XP | Separate Practitioner | Different provider performed the service |
-| XS | Separate Structure | Different organ or anatomical structure |
-| XU | Unusual Non-Overlapping Service | Does not overlap usual components of main service |
-| 59 | Distinct Procedural Service | Use ONLY if no X{EPSU} modifier applies |
+| [[-XE]] | Separate Encounter | Different encounter, same DOS |
+| [[-XP]] | Separate Practitioner | Different provider performed the service |
+| [[-XS]] | Separate Structure | Different organ or anatomical structure |
+| [[-XU]] | Unusual Non-Overlapping Service | Does not overlap usual components of main service |
+| [[-59]] | Distinct Procedural Service | Use ONLY if no X{EPSU} modifier applies |
 
 ## Quick Example
-- An otolaryngologist performs a rigid diagnostic nasal endoscopy (31231) for nasal complaints.
-- During the same visit, the physician performs a separate flexible laryngoscopy (31575) because the patient also reports coughing, throat clearing, and difficulty swallowing — a completely separate clinical complaint with no overlapping service components.
+- An otolaryngologist performs a rigid diagnostic nasal endoscopy ([[31231]]) for nasal complaints.
+- During the same visit, the physician performs a separate flexible laryngoscopy ([[31575]]) because the patient also reports coughing, throat clearing, and difficulty swallowing — a completely separate clinical complaint with no overlapping service components.
 - These two codes are typically bundled, but because the laryngoscopy work does not overlap the nasal endoscopy's components, modifier **XU** is appended to the laryngoscopy.
 - Documentation: the note addresses two distinct complaints, explains the clinical necessity of each procedure, and demonstrates non-overlapping work.
 

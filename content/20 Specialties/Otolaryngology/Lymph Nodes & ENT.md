@@ -14,4 +14,4 @@ If you are coding a claim for an ENT provider regarding lymph nodes, ensure the 
 - [[**L04.0]]:** Acute [[lymphadenitis]] of **face, head and neck**.
 
 
-[[Otolaryngology Specialty (ENT)]]
+[[00 Otolaryngology Specialty (ENT)]]

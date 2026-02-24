@@ -6,9 +6,9 @@ tags:
 creation_date: 2026-01-22
 ---
 
-# ENT - Tympanoplasty & Mastoidectomy Hierarchy
-
 ## 📋 The Rule (Quick Summary)
+
+> [!important]
 > **The Combo Rule:** Never bill a Tympanoplasty **(69631)** and a Mastoidectomy **(69502)** separately if they are done in the same session. There is a "Combo Code" that covers both.
 
 ---

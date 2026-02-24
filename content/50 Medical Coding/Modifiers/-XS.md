@@ -40,7 +40,7 @@ source: CMS MLN Matters / NCCI Policy
 ---
 
 
-# CPT Modifier XS - Separate Structure
+# Modifier XS - Separate Structure
 
 ## Short Definition
 A service that is distinct because it was performed on a **separate organ or anatomical structure**.
@@ -79,11 +79,11 @@ The rationale is that when the same CPT code or a related code is performed bila
 ## X{EPSU} Modifier Family — Quick Reference
 | Modifier | Full Name | Reason for Distinctness |
 |----------|-----------|------------------------|
-| XE | Separate Encounter | Different encounter, same DOS |
-| XP | Separate Practitioner | Different provider performed the service |
-| XS | Separate Structure | Different organ or anatomical structure |
-| XU | Unusual Non-Overlapping Service | Does not overlap usual components of main service |
-| 59 | Distinct Procedural Service | Use ONLY if no X{EPSU} modifier applies |
+| [[-XE]] | Separate Encounter | Different encounter, same DOS |
+| [[-XP]] | Separate Practitioner | Different provider performed the service |
+| -XS | Separate Structure | Different organ or anatomical structure |
+| [[-XU]] | Unusual Non-Overlapping Service | Does not overlap usual components of main service |
+| [[-59]] | Distinct Procedural Service | Use ONLY if no X{EPSU} modifier applies |
 
 ## Quick Example
 - A dermatologist performs destruction of a malignant lesion on the patient's right forearm and a second, separate destruction of a malignant lesion on the patient's left shoulder during the same encounter.

@@ -44,7 +44,7 @@ status: active
 source: CMS Medicare Claims Processing Manual / ASA / Novitas / Palmetto GBA
 ---
 
-# -QK
+# Modifier -QK: Anesthesiologist Medical Direction
 
 ## Short Definition
 The anesthesiologist is medically directing two, three, or four concurrent anesthesia procedures being performed by qualified individuals.
@@ -96,12 +96,12 @@ All seven of the following must be performed and documented by the anesthesiolog
 ## Anesthesia Payment Modifier Family — Quick Reference
 | Modifier | Reported By | Scenario | Rate |
 |----------|-------------|----------|------|
-| AA | Anesthesiologist | Personally performed, full case | 100% |
-| QK | Anesthesiologist | Medically directing 2-4 concurrent cases | 50% |
-| QY | Anesthesiologist | Medically directing 1 CRNA | 50% |
-| AD | Anesthesiologist | Supervising 5+ concurrent cases | Limited base units only |
-| QX | CRNA / AA | Medically directed by a physician | 50% |
-| QZ | CRNA | Without medical direction by a physician | 100% CRNA rate |
+| [[-AA]] | Anesthesiologist | Personally performed, full case | 100% |
+| -QK | Anesthesiologist | Medically directing 2-4 concurrent cases | 50% |
+| [[-QY]] | Anesthesiologist | Medically directing 1 CRNA | 50% |
+| [[-AD]] | Anesthesiologist | Supervising 5+ concurrent cases | Limited base units only |
+| [[-QX]] | CRNA / AA | Medically directed by a physician | 50% |
+| [[-QZ]] | CRNA | Without medical direction by a physician | 100% CRNA rate |
 
 ## Quick Example
 - Anesthesiologist Dr. B is medically directing three concurrent OR cases, each staffed by a CRNA.

@@ -1,4 +1,4 @@
-# 2026 Coding and Payment Guide - Prostate Health
+[[]]# 2026 Coding and Payment Guide - Prostate Health
 
 The coding options listed within this guide are commonly used codes and are not intended to be an all-inclusive list. They are thought to be relevant to Prostate Health procedures and are referenced throughout this document. We recommend consulting your relevant manuals for appropriate coding options. Payer policies will vary and should be verified prior to treatment for limitations on diagnosis, coding, or site of service requirements.
 

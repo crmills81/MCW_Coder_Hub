@@ -40,7 +40,7 @@ status: active
 source: CMS Medicare Claims Processing Manual / ASA / Novitas / Palmetto GBA
 ---
 
-# -AA
+# Modifier -AA: Anesthesia Services Personally Performed by Anesthesiologist
 
 ## Short Definition
 The anesthesia service was personally and fully performed by the anesthesiologist throughout the entire procedure — from pre-anesthesia evaluation through emergence and post-anesthesia care.
@@ -80,11 +80,11 @@ This modifier is the highest-level anesthesia payment modifier and results in re
 | Modifier | Reported By | Scenario | Rate |
 |----------|-------------|----------|------|
 | AA | Anesthesiologist | Personally performed, full case | 100% |
-| QK | Anesthesiologist | Medically directing 2-4 concurrent cases | 50% |
-| QY | Anesthesiologist | Medically directing 1 CRNA | 50% |
-| AD | Anesthesiologist | Supervising 5+ concurrent cases | Limited base units only |
-| QX | CRNA / AA | Medically directed by a physician | 50% |
-| QZ | CRNA | Without medical direction by a physician | 100% CRNA rate |
+| [[-QK]] | Anesthesiologist | Medically directing 2-4 concurrent cases | 50% |
+| [[-QY]] | Anesthesiologist | Medically directing 1 CRNA | 50% |
+| [[-AD]] | Anesthesiologist | Supervising 5+ concurrent cases | Limited base units only |
+| [[-QX]] | CRNA / AA | Medically directed by a physician | 50% |
+| [[-QZ]] | CRNA | Without medical direction by a physician | 100% CRNA rate |
 
 ## Quick Example
 - Anesthesiologist Dr. A personally performs all anesthesia services for a total hip arthroplasty (CPT 01214).

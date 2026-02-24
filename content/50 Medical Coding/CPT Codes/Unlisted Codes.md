@@ -1,6 +1,6 @@
 # Unlisted Surgery Guidelines
 
-**Surgery Guidelines 10004-69990**
+#### Surgery Guidelines 10004-69990
 
 **Follow-Up Care for Diagnostic Procedures**
 
@@ -64,70 +64,70 @@ Some of the procedures or services listed in the CPT codebook that are commonly 
 
 CPT 2026
 
-| Code | Description |
-|---|---|
-| 15999 | Unlisted procedure, excision pressure ulcer |
-| 17999 | Unlisted procedure, skin, mucous membrane and subcutaneous tissue |
-| 19499 | Unlisted procedure, breast |
-| 20999 | Unlisted procedure, musculoskeletal system, general |
-| 21089 | Unlisted maxillofacial prosthetic procedure |
-| 21299 | Unlisted craniofacial and maxillofacial procedure |
-| 21499 | Unlisted musculoskeletal procedure, head |
-| 21899 | Unlisted procedure, neck or thorax |
-| 22899 | Unlisted procedure, spine |
-| 22999 | Unlisted procedure, abdomen, musculoskeletal system |
-| 23929 | Unlisted procedure, shoulder |
-| 24999 | Unlisted procedure, humerus or elbow |
-| 25999 | Unlisted procedure, forearm or wrist |
-| 26989 | Unlisted procedure, hands or fingers |
-| 27299 | Unlisted procedure, pelvis or hip joint |
-| 27599 | Unlisted procedure, femur or knee |
-| 27899 | Unlisted procedure, leg or ankle |
-| 28899 | Unlisted procedure, foot or toes |
-| 29799 | Unlisted procedure, casting or strapping |
-| 29999 | Unlisted procedure, arthroscopy |
-| 30999 | Unlisted procedure, nose |
-| 31299 | Unlisted procedure, accessory sinuses |
-| 31599 | Unlisted procedure, larynx |
-| 31899 | Unlisted procedure, trachea, bronchi |
-| 32999 | Unlisted procedure, lungs and pleura |
-| 33999 | Unlisted procedure, cardiac surgery |
-| 36299 | Unlisted procedure, vascular injection |
-| 37501 | Unlisted vascular endoscopy procedure |
-| 37799 | Unlisted procedure, vascular surgery |
-| 38129 | Unlisted laparoscopy procedure, spleen |
-| 38589 | Unlisted laparoscopy procedure, lymphatic system |
-| 38999 | Unlisted procedure, hemic or lymphatic system |
-| 39499 | Unlisted procedure, mediastinum |
-| 39599 | Unlisted procedure, diaphragm |
-| 40799 | Unlisted procedure, lips |
-| 40899 | Unlisted procedure, vestibule of mouth |
-| 41599 | Unlisted procedure, tongue, floor of mouth |
-| 41899 | Unlisted procedure, dentoalveolar structures |
-| 42299 | Unlisted procedure, palate, uvula |
-| 42699 | Unlisted procedure, salivary glands or ducts |
-| 42999 | Unlisted procedure, pharynx, adenoids, or tonsils |
-| 43289 | Unlisted laparoscopy procedure, esophagus |
-| 43499 | Unlisted procedure, esophagus |
-| 43659 | Unlisted laparoscopy procedure, stomach |
-| 43999 | Unlisted procedure, stomach |
-| 44238 | Unlisted laparoscopy procedure, intestine (except rectum) |
-| 44799 | Unlisted procedure, small intestine |
-| 44899 | Unlisted procedure, Meckel's diverticulum and the mesentery |
-| 44979 | Unlisted laparoscopy procedure, appendix |
-| 45399 | Unlisted procedure, colon |
-| 45499 | Unlisted laparoscopy procedure, rectum |
-| 45999 | Unlisted procedure, rectum |
-| 46999 | Unlisted procedure, anus |
-| 47379 | Unlisted laparoscopic procedure, liver |
-| 47399 | Unlisted procedure, liver |
-| 47579 | Unlisted laparoscopy procedure, biliary tract |
-| 47999 | Unlisted procedure, biliary tract |
-| 48999 | Unlisted procedure, pancreas |
-| 49329 | Unlisted laparoscopy procedure, abdomen, peritoneum and omentum |
-| 49659 | Unlisted laparoscopy procedure, herniorrhaphy, herniotomy |
-| 49999 | Unlisted procedure, abdomen, peritoneum and omentum |
-| 50549 | Unlisted laparoscopy procedure, renal |
+| Code      | Description                                                       |
+| --------- | ----------------------------------------------------------------- |
+| **15999** | Unlisted procedure, excision pressure ulcer                       |
+| **17999** | Unlisted procedure, skin, mucous membrane and subcutaneous tissue |
+| **19499** | Unlisted procedure, breast                                        |
+| **20999** | Unlisted procedure, musculoskeletal system, general               |
+| **21089** | Unlisted maxillofacial prosthetic procedure                       |
+| **21299** | Unlisted craniofacial and maxillofacial procedure                 |
+| **21499** | Unlisted musculoskeletal procedure, head                          |
+| **21899** | Unlisted procedure, neck or thorax                                |
+| **22899** | Unlisted procedure, spine                                         |
+| **22999** | Unlisted procedure, abdomen, musculoskeletal system               |
+| **23929** | Unlisted procedure, shoulder                                      |
+| **24999** | Unlisted procedure, humerus or elbow                              |
+| **25999** | Unlisted procedure, forearm or wrist                              |
+| **26989** | Unlisted procedure, hands or fingers                              |
+| **27299** | Unlisted procedure, pelvis or hip joint                           |
+| **27599** | Unlisted procedure, femur or knee                                 |
+| **27899** | Unlisted procedure, leg or ankle                                  |
+| **28899** | Unlisted procedure, foot or toes                                  |
+| **29799** | Unlisted procedure, casting or strapping                          |
+| **29999** | Unlisted procedure, arthroscopy                                   |
+| **30999** | Unlisted procedure, nose                                          |
+| **31299** | Unlisted procedure, accessory sinuses                             |
+| **31599** | Unlisted procedure, larynx                                        |
+| **31899** | Unlisted procedure, trachea, bronchi                              |
+| **32999** | Unlisted procedure, lungs and pleura                              |
+| **33999** | Unlisted procedure, cardiac surgery                               |
+| **36299** | Unlisted procedure, vascular injection                            |
+| **37501** | Unlisted vascular endoscopy procedure                             |
+| **37799** | Unlisted procedure, vascular surgery                              |
+| **38129** | Unlisted laparoscopy procedure, spleen                            |
+| **38589** | Unlisted laparoscopy procedure, lymphatic system                  |
+| **38999** | Unlisted procedure, hemic or lymphatic system                     |
+| **39499** | Unlisted procedure, mediastinum                                   |
+| **39599** | Unlisted procedure, diaphragm                                     |
+| **40799** | Unlisted procedure, lips                                          |
+| **40899** | Unlisted procedure, vestibule of mouth                            |
+| **41599** | Unlisted procedure, tongue, floor of mouth                        |
+| **41899** | Unlisted procedure, dentoalveolar structures                      |
+| **42299** | Unlisted procedure, palate, uvula                                 |
+| **42699** | Unlisted procedure, salivary glands or ducts                      |
+| **42999** | Unlisted procedure, pharynx, adenoids, or tonsils                 |
+| **43289** | Unlisted laparoscopy procedure, esophagus                         |
+| **43499** | Unlisted procedure, esophagus                                     |
+| **43659** | Unlisted laparoscopy procedure, stomach                           |
+| **43999** | Unlisted procedure, stomach                                       |
+| **44238** | Unlisted laparoscopy procedure, intestine (except rectum)         |
+| **44799** | Unlisted procedure, small intestine                               |
+| **44899** | Unlisted procedure, Meckel's diverticulum and the mesentery       |
+| **44979** | Unlisted laparoscopy procedure, appendix                          |
+| **45399** | Unlisted procedure, colon                                         |
+| **45499** | Unlisted laparoscopy procedure, rectum                            |
+| **45999** | Unlisted procedure, rectum                                        |
+| **46999** | Unlisted procedure, anus                                          |
+| **47379** | Unlisted laparoscopic procedure, liver                            |
+| **47399** | Unlisted procedure, liver                                         |
+| **47579** | Unlisted laparoscopy procedure, biliary tract                     |
+| **47999** | Unlisted procedure, biliary tract                                 |
+| **48999** | Unlisted procedure, pancreas                                      |
+| **49329** | Unlisted laparoscopy procedure, abdomen, peritoneum and omentum   |
+| **49659** | Unlisted laparoscopy procedure, herniorrhaphy, herniotomy         |
+| **49999** | Unlisted procedure, abdomen, peritoneum and omentum               |
+| **50549** | Unlisted laparoscopy procedure, renal                             |
 
 Surgery Guidelines 1004-6990
 

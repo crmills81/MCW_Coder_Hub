@@ -5,9 +5,6 @@ tags:
   - context/mcw_profee
 creation_date: 2026-01-22
 ---
-
-# Ophthalmology - Strabismus Surgery
-
 ## 📋 The Rule (Quick Summary)
 > **Count the Muscles:** Strabismus coding is per **muscle**, not per eye.
 > **Horizontal vs. Vertical:** Vertical muscles (Superior/Inferior Rectus, Obliques) pay more/differently than Horizontal ones (Lateral/Medial Rectus).

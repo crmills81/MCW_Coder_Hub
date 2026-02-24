@@ -65,13 +65,13 @@ Modifier 77 is **not** an official global surgery modifier per the NCCI classifi
 
 | Modifier | Name | Applies To | Timing | Related or Unrelated | Initiates New Global Period? |
 |----------|------|-----------|--------|----------------------|------------------------------|
-| 24 | Unrelated E/M During Post-Op Period | E/M codes only | During post-op period | **Unrelated** to original surgery | No |
-| 25 | Significant Separately Identifiable E/M Same Day as Procedure | E/M codes only | **Same day** as procedure (0 or 10-day global) | Separate clinical indication | No |
-| 57 | Decision for Surgery | E/M codes only | Day of or day **before** a 90-day global surgery | The E/M is what led to the surgery decision | No |
-| 58 | Staged or Related Procedure During Post-Op Period | Procedure codes only | During post-op period | **Related** — staged, more extensive, or therapy following original | **Yes** |
-| 77 | Repeat Procedure by Another Physician | Procedure codes only | Same day or during post-op period | Same procedure, **different provider** | Yes (for the repeating provider) |
-| 78 | Unplanned Return to OR for Treatment of Complication | Procedure codes only | During post-op period | **Related** — complication of original surgery | **No** — stays within original global |
-| 79 | Unrelated Procedure During Post-Op Period | Procedure codes only | During post-op period | **Unrelated** to original surgery | **Yes** |
+| [[-24]] | Unrelated E/M During Post-Op Period | E/M codes only | During post-op period | **Unrelated** to original surgery | No |
+| [[-25]] | Significant Separately Identifiable E/M Same Day as Procedure | E/M codes only | **Same day** as procedure (0 or 10-day global) | Separate clinical indication | No |
+| [[-57]] | Decision for Surgery | E/M codes only | Day of or day **before** a 90-day global surgery | The E/M is what led to the surgery decision | No |
+| [[-58]] | Staged or Related Procedure During Post-Op Period | Procedure codes only | During post-op period | **Related** — staged, more extensive, or therapy following original | **Yes** |
+| [[-77]] | Repeat Procedure by Another Physician | Procedure codes only | Same day or during post-op period | Same procedure, **different provider** | Yes (for the repeating provider) |
+| [[-78]] | Unplanned Return to OR for Treatment of Complication | Procedure codes only | During post-op period | **Related** — complication of original surgery | **No** — stays within original global |
+| [[-79]] | Unrelated Procedure During Post-Op Period | Procedure codes only | During post-op period | **Unrelated** to original surgery | **Yes** |
 
 ---
 

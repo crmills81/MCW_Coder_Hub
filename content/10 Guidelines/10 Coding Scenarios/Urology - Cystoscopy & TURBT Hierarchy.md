@@ -6,8 +6,6 @@ tags:
 creation_date: 2026-01-17
 ---
 
-# Urology - Cystoscopy & TURBT Hierarchy
-
 ## 📋 The Rule (Quick Summary)
 > **The "Base Code" Rule:** Cystoscopy (52000) is the "entry fee" for the bladder. If *any* other transurethral procedure is performed (TURP, TURBT, Ureteroscopy), the 52000 is **bundled** and cannot be billed separately.
 

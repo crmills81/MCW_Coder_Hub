@@ -28,7 +28,7 @@ These codes were released early but are effective for **CPT 2026** (implementati
 
 - **0950T: Benign Prostate Ablation (HIFU)**
     
-    - **Descriptor:** Ablation of benign prostate tissue, transrectal, with high intensity–focused ultrasound (HIFU), including ultrasound guidance.
+    - **Descriptor:** Ablation of benign prostate tissue, transrectal, with high intensity -focused ultrasound (HIFU), including ultrasound guidance.
     - _Note:_ Distinct from **55880**, which is for _malignant_ prostate tissue.
 - **0991T: Lithotripsy with Microspheres**
     
@@ -50,7 +50,7 @@ These codes were released early but are effective for **CPT 2026** (implementati
 
 ### **4. Digital Health & Remote Monitoring**
 
-- **New Codes:** 2026 adds codes for shorter duration remote monitoring (2–15 days).
+- **New Codes:** 2026 adds codes for shorter duration remote monitoring (2 -15 days).
 - **Time Thresholds:** New codes allow reporting treatment management after **10 minutes** (down from the previous 20-minute threshold) for certain services.
 
 Would you like me to draft a specific guide note for the new **HIFU (0950T)** code or the **Lithotripsy (0991T)** code for your vault?

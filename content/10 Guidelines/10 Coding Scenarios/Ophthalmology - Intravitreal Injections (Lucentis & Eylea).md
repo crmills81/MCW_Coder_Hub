@@ -6,8 +6,6 @@ tags:
 creation_date: 2026-01-22
 ---
 
-# Ophthalmology - Intravitreal Injections (Lucentis/Eylea/Avastin)
-
 ## 📋 The Rule (Quick Summary)
 > **Drug vs. Procedure:** You bill for the injection (67028) AND the drug (J-Code).
 > **Bilateral Rule:** Medicare requires bilateral injections to be billed as two separate lines with -RT and -LT (not -50).

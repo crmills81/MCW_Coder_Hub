@@ -43,7 +43,7 @@ status: active
 source: CMS Medicare Claims Processing Manual / ASA / Novitas / Moda Health
 ---
 
-# -QX
+# Modifier -QX: Qualified Nonphysician Anesthetist Medically Directed
 
 ## Short Definition
 The CRNA or anesthesiologist assistant (AA) provided anesthesia services under the medical direction of a physician anesthesiologist.
@@ -80,12 +80,12 @@ Both the anesthesiologist (billing QK or QY) and the CRNA/AA (billing QX) each r
 ## Anesthesia Payment Modifier Family — Quick Reference
 | Modifier | Reported By | Scenario | Rate |
 |----------|-------------|----------|------|
-| AA | Anesthesiologist | Personally performed, full case | 100% |
-| QK | Anesthesiologist | Medically directing 2-4 concurrent cases | 50% |
-| QY | Anesthesiologist | Medically directing 1 CRNA | 50% |
-| AD | Anesthesiologist | Supervising 5+ concurrent cases | Limited base units only |
-| QX | CRNA / AA | Medically directed by a physician | 50% |
-| QZ | CRNA | Without medical direction by a physician | 100% CRNA rate |
+| [[-AA]] | Anesthesiologist | Personally performed, full case | 100% |
+| [[-QK]] | Anesthesiologist | Medically directing 2-4 concurrent cases | 50% |
+| [[-QY]] | Anesthesiologist | Medically directing 1 CRNA | 50% |
+| [[-AD]] | Anesthesiologist | Supervising 5+ concurrent cases | Limited base units only |
+| -QX | CRNA / AA | Medically directed by a physician | 50% |
+| [[-QZ]] | CRNA | Without medical direction by a physician | 100% CRNA rate |
 
 ## Quick Example
 - Anesthesiologist Dr. C is medically directing two concurrent OR cases.

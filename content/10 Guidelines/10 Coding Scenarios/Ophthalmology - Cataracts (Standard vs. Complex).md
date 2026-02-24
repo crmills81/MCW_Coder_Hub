@@ -6,8 +6,6 @@ tags:
 creation_date: 2026-01-17
 ---
 
-# Ophthalmology - Cataracts (Standard vs. Complex)
-
 ## 📋 The Rule (Quick Summary)
 > **Standard ([[66984]])** is the default for Phacoemulsification with IOL insertion.
 > **Complex ([[66982]])** requires the use of *specific mechanical devices* or techniques to manage a difficult pupil or lens. Just "taking longer" does not make it complex.

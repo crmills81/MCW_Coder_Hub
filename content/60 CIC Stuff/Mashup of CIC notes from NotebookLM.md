@@ -1,44 +1,44 @@
 **Navigating Default Medical Codes: A Guide to Unspecified Documentation**  
-A default code is assigned when a condition is documented in the medical record without additional information or specificity, and the default code represents the condition most commonly associated with the main term or is the unspecified code for that condition  [1-3 ]. This means that when the provider's documentation lacks the detail needed to select a more specific code, the classification system provides a default option to ensure a code can still be assigned  [2, 3 ].
+A default code is assigned when a condition is documented in the medical record without additional information or specificity, and the default code represents the condition most commonly associated with the main term or is the unspecified code for that condition. This means that when the provider's documentation lacks the detail needed to select a more specific code, the classification system provides a default option to ensure a code can still be assigned.
 
 Here's a detailed breakdown of when a default code is assigned, based on the provided sources:
 
 **General Principle of Default Code Assignment**  
-A default code is a code listed next to a main term in the ICD-10-CM Alphabetic Index  [1-3 ]. It represents the condition most commonly associated with that main term, or it serves as the unspecified code for the condition  [1-3 ]. The primary situation for assigning a default code is when the medical record documentation is insufficient to assign a more specific code  [4-6 ]. This aligns with the principle of coding to the highest degree of certainty known for that encounter, reporting unspecified codes when they accurately reflect what is known at that time  [7, 8 ].
+A default code is a code listed next to a main term in the ICD-10-CM Alphabetic Index. It represents the condition most commonly associated with that main term, or it serves as the unspecified code for the condition. The primary situation for assigning a default code is when the medical record documentation is insufficient to assign a more specific code. This aligns with the principle of coding to the highest degree of certainty known for that encounter, reporting unspecified codes when they accurately reflect what is known at that time.
 
 **Specific Scenarios for Default Code Assignment**  
 1 . **Unspecified Conditions**:  
-    ◦ If a condition is documented without any additional information, such as "appendicitis" without specifying if it's acute or chronic, the default code for that condition should be assigned  [1, 3 ].  
-    ◦ Similarly, for "pneumonia" without further specificity (e.g., aspiration or viral), the default code J18.9, Pneumonia, unspecified, would be assigned  [2, 9 ].  
-    ◦ For "anemia" without further specificity, the default code D64.9, anemia, unspecified, would be assigned, especially if no specific subterm is available for "chronic" anemia  [10 ].  
-    ◦ In cases of coma, if the underlying cause is unknown or it's a traumatic brain injury without a documented coma scale, R40.20, Unspecified coma, is assigned  [11, 12 ].  
+    ◦ If a condition is documented without any additional information, such as "appendicitis" without specifying if it's acute or chronic, the default code for that condition should be assigned.  
+    ◦ Similarly, for "[[pneumonia]]" without further specificity (e.g., aspiration or viral), the default code J18.9, Pneumonia, unspecified, would be assigned.  
+    ◦ For "anemia" without further specificity, the default code D64.9, anemia, unspecified, would be assigned, especially if no specific subterm is available for "chronic" anemia.  
+    ◦ In cases of coma, if the underlying cause is unknown or it's a traumatic brain injury without a documented coma scale, R40.20, Unspecified coma, is assigned.  
 2 . **Type of Diabetes Mellitus Not Documented**:  
-    ◦ If the type of diabetes mellitus is not documented in the medical record, the default is E11.-, Type 2 diabetes mellitus  [13, 14 ]. This applies even if the patient uses insulin, in which case E11.- is still assigned, with additional codes from Z79 to identify the long-term use of insulin or other antidiabetic drugs  [13 ].  
+    ◦ If the type of diabetes mellitus is not documented in the medical record, the default is E11.-, Type 2 diabetes mellitus. This applies even if the patient uses insulin, in which case E11.- is still assigned, with additional codes from Z79 to identify the long-term use of insulin or other antidiabetic drugs.  
 3 . **Acute vs. Chronic Conditions**:  
-    ◦ When both "acute" and "chronic" forms of a condition are present, and the documentation doesn't specify which is to be sequenced first (or if only "chronic" is documented with an acute exacerbation and a single code doesn't capture both), the default guidance varies by condition. Generally, for conditions with both acute and chronic forms, if no specific instructions are provided, the acute form may be the default or sequenced first if both are present  [14 ].  
-    ◦ For post-thoracotomy and other postoperative pain not specified as acute or chronic, the default is the code for the acute form (e.g., G89.12)  [15, 16 ].  
+    ◦ When both "acute" and "chronic" forms of a condition are present, and the documentation doesn't specify which is to be sequenced first (or if only "chronic" is documented with an acute exacerbation and a single code doesn't capture both), the default guidance varies by condition. Generally, for conditions with both acute and chronic forms, if no specific instructions are provided, the acute form may be the default or sequenced first if both are present.  
+    ◦ For post-thoracotomy and other postoperative pain not specified as acute or chronic, the default is the code for the acute form (e.g., G89.12).  
 4 . **Fracture Types**:  
-    ◦ A fracture not indicated as open or closed should be coded to **closed**  [14, 17 ].  
-    ◦ A fracture not indicated whether displaced or not displaced should be coded to **displaced**  [14, 17 ].  
-    ◦ For open fractures, if the Gustilo classification type is not specified, the 7th character for open fracture type I or II should be assigned (B, E, H, M, Q)  [18, 19 ].  
+    ◦ A fracture not indicated as open or closed should be coded to **closed**.  
+    ◦ A fracture not indicated whether displaced or not displaced should be coded to **displaced**.  
+    ◦ For open fractures, if the Gustilo classification type is not specified, the 7th character for open fracture type I or II should be assigned (B, E, H, M, Q.  
 5 . **Dominant/Non-dominant Side**:  
-    ◦ For codes related to hemiplegia, hemiparesis, or monoplegia (G81.- and G83.1, G83.2, G83.3), if the affected side is documented but not specified as dominant or non-dominant, and the classification does not indicate a default:  * For ambidextrous patients, the default should be **dominant**  [14, 20-22 ].  * If the left side is affected, the default is **non-dominant**  [14, 20-22 ].  * If the right side is affected, the default is **dominant**  [14, 20-22 ].  
+    ◦ For codes related to hemiplegia, hemiparesis, or monoplegia (G81.- and G83.1, G83.2, G83.3), if the affected side is documented but not specified as dominant or non-dominant, and the classification does not indicate a default:  * For ambidextrous patients, the default should be **dominant**.  * If the left side is affected, the default is **non-dominant**  .  * If the right side is affected, the default is **dominant**.  
 6 . **Sepsis without Specified Organism**:  
-    ◦ For a diagnosis of sepsis where the type of infection or causal organism is not further specified, code A41.9, Sepsis, unspecified organism, is assigned  [23, 24 ].  
-    ◦ For a perinate with documented sepsis without documentation of congenital or community-acquired origin, the default is **congenital** sepsis, and a code from category P36 should be assigned  [25-27 ].  
+    ◦ For a diagnosis of sepsis where the type of infection or causal organism is not further specified, code A41.9, Sepsis, unspecified organism, is assigned.  
+    ◦ For a perinate with documented sepsis without documentation of congenital or community-acquired origin, the default is **congenital** sepsis, and a code from category P36 should be assigned.  
 7 . **Visual Loss**:  
-    ◦ If "blindness" or "low vision" of both eyes is documented but the visual impairment category is not documented, code H54.3, Unqualified visual loss, both eyes, is assigned  [28 ].  
-    ◦ If "blindness" or "low vision" in one eye is documented but the visual impairment category is not documented, a code from H54.6-, Unqualified visual loss, one eye, is assigned  [28 ].  
-    ◦ If "blindness" or "visual loss" is documented without any information about whether one or both eyes are affected, code H54.7, Unspecified visual loss, is assigned  [28 ].  
+    ◦ If "blindness" or "low vision" of both eyes is documented but the visual impairment category is not documented, code H54.3, Unqualified visual loss, both eyes, is assigned.  
+    ◦ If "blindness" or "low vision" in one eye is documented but the visual impairment category is not documented, a code from H54.6-, Unqualified visual loss, one eye, is assigned.  
+    ◦ If "blindness" or "visual loss" is documented without any information about whether one or both eyes are affected, code H54.7, Unspecified visual loss, is assigned.  
 8 . **Glaucoma Stage**:  
-    ◦ When there is no documentation regarding the stage of glaucoma, the seventh character "0," unspecified, should be assigned  [28, 29 ]. This is distinct from "indeterminate stage" (seventh character "4") used when the stage cannot be clinically determined  [28, 29 ].  
+    ◦ When there is no documentation regarding the stage of glaucoma, the seventh character "0," unspecified, should be assigned. This is distinct from "indeterminate stage" (seventh character "4") used when the stage cannot be clinically determined.  
 9 . **External Cause Intent**:  
-    ◦ If the intent (accident, self-harm, assault) of the cause of an injury or other condition is unknown or unspecified, the intent is coded as **accidental intent**  [30-32 ]. All transport accident categories assume accidental intent  [30, 32 ]. "Undetermined intent" is only used if the documentation specifically states that the intent cannot be determined  [30-32 ].  
+    ◦ If the intent (accident, self-harm, assault) of the cause of an injury or other condition is unknown or unspecified, the intent is coded as **accidental intent**. All transport accident categories assume accidental intent. "Undetermined intent" is only used if the documentation specifically states that the intent cannot be determined.  
 10 . **Congenital vs. Community-Acquired Conditions in Newborns**:  
-• If a newborn has a condition that could be due to the birth process or community-acquired, and documentation does not clarify, the default is **due to the birth process**, and a Chapter 16 code should be used  [26, 33, 34 ].
+• If a newborn has a condition that could be due to the birth process or community-acquired, and documentation does not clarify, the default is **due to the birth process**, and a Chapter 16 code should be used.
 
 **Importance of Specificity and Provider Queries**  
-While default codes are necessary tools when documentation is incomplete, coders are continually trying to determine the most specific diagnosis  [35 ]. It is crucial to use both the Alphabetic Index and the Tabular List to ensure that the most accurate and specific code is assigned  [36, 37 ]. Coders must assign codes to the highest level of specificity  [38-41 ]. If the documentation is unclear, inconsistent, or incomplete, particularly when a default code might be applied but more specific information could exist, a query to the provider is appropriate and often necessary for clarification  [8, 17, 39, 42-66 ]. This ensures that coding accurately reflects the patient's condition and the care provided, which is vital for proper reimbursement and quality reporting  [62-64, 66-71 ].
+While default codes are necessary tools when documentation is incomplete, coders are continually trying to determine the most specific diagnosis. It is crucial to use both the Alphabetic Index and the Tabular List to ensure that the most accurate and specific code is assigned. Coders must assign codes to the highest level of specificity If the documentation is unclear, inconsistent, or incomplete, particularly when a default code might be applied but more specific information could exist, a query to the provider is appropriate and often necessary for clarification . This ensures that coding accurately reflects the patient's condition and the care provided, which is vital for proper reimbursement and quality reporting.
 
 Symptom codes are appropriate in various scenarios, primarily when a definitive diagnosis has not yet been established. The sources provide clear guidelines on when to use symptom codes, when to avoid them, and their role in the broader context of medical coding, particularly for "other diagnoses" or secondary conditions.
 

@@ -32,7 +32,7 @@ aliases:
 ---
 
 ## Medicare billing rules (high yield)
-- **Don’t combine -LT/-RT with -50 when -50 applies:** CMS states **LT and RT shall not be reported when the [[-50]] modifier applies**. 
+- **Don’t combine -LT/[[-RT]] with -50 when -50 applies:** CMS states **LT and RT shall not be reported when the [[-50]] modifier applies**. 
 - **If billing bilateral using RT/LT lines:** Noridian’s instruction is to bill bilateral usage as **two separate claim lines** using **RT and LT** with **one unit of service on each line**.
 - **Avoid inherently bilateral descriptors:** If the procedure code description specifies **bilateral** or a specific side, laterality modifiers are not appropriate. 
 
