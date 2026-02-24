@@ -25,15 +25,15 @@ tags:
   - index
 note_type: MOC
 specialty: Urology
-section: Surgery — Urinary System (CPT 50220–50548)
+section: Surgery — Urinary System (CPT 50220-50548)
 mdc: MDC 11 — Diseases and Disorders of the Kidney and Urinary Tract
 status: active
 date_created: 2026-02-23
 date_modified: 2026-02-23
 related_notes:
-  - "[[CPT 50220]] – Open simple nephrectomy"
-  - "[[CPT 50230]] – Open radical nephrectomy with lymphadenectomy"
-  - "[[CPT 50546]] – Laparoscopic radical nephrectomy with lymphadenectomy"
+  - "[[CPT 50220]] - Open simple nephrectomy"
+  - "[[CPT 50230]] - Open radical nephrectomy with lymphadenectomy"
+  - "[[CPT 50546]] - Laparoscopic radical nephrectomy with lymphadenectomy"
   - "[[📋 Urology CPT Codes Reference]]"
   - "[[50 Medical Coding/Modifiers/Global Surgical Package MOC]]"
   - "[[Procedure Status & Complexity Modifiers]]"
@@ -53,31 +53,31 @@ This index covers the complete **CPT nephrectomy procedure family** — all open
 Nephrectomy CPT Family  
 │  
 ├── OPEN NEPHRECTOMY  
-│ ├── 50220 – Nephrectomy, open, simple, with partial ureterectomy → [[CPT 50220]]  
-│ ├── 50225 – Nephrectomy, open, complicated (prior surgery same kidney)  
-│ ├── 50230 – Radical nephrectomy, open, with regional LND and/or IVC thrombectomy → [[CPT 50230]]  
-│ ├── 50234 – Radical nephrectomy with total ureterectomy + bladder cuff, transperitoneal, with LND  
-│ └── 50236 – Radical nephrectomy with total ureterectomy (two separate incisions)  
+│ ├── 50220 - Nephrectomy, open, simple, with partial ureterectomy → [[CPT 50220]]  
+│ ├── 50225 - Nephrectomy, open, complicated (prior surgery same kidney)  
+│ ├── 50230 - Radical nephrectomy, open, with regional LND and/or IVC thrombectomy → [[CPT 50230]]  
+│ ├── 50234 - Radical nephrectomy with total ureterectomy + bladder cuff, transperitoneal, with LND  
+│ └── 50236 - Radical nephrectomy with total ureterectomy (two separate incisions)  
 │  
 ├── PARTIAL NEPHRECTOMY  
-│ ├── 50240 – Partial nephrectomy, open (nephron-sparing)  
-│ └── 50543 – Laparoscopic partial nephrectomy  
+│ ├── 50240 - Partial nephrectomy, open (nephron-sparing)  
+│ └── 50543 - Laparoscopic partial nephrectomy  
 │  
 ├── LAPAROSCOPIC NEPHRECTOMY  
-│ ├── 50544 – Laparoscopic pyeloplasty (UPJ — no kidney removal; related procedure)  
-│ ├── 50545 – Laparoscopic radical nephrectomy (no separately documented LND)  
-│ ├── 50546 – Laparoscopic radical nephrectomy with regional lymphadenectomy → [[CPT 50546]]  
-│ ├── 50547 – Laparoscopic donor nephrectomy, living donor  
-│ ├── 50548 – Laparoscopic nephrectomy with total ureterectomy  
-│ └── 50549 – Unlisted laparoscopic procedure, renal  
+│ ├── 50544 - Laparoscopic pyeloplasty (UPJ — no kidney removal; related procedure)  
+│ ├── 50545 - Laparoscopic radical nephrectomy (no separately documented LND)  
+│ ├── 50546 - Laparoscopic radical nephrectomy with regional lymphadenectomy → [[CPT 50546]]  
+│ ├── 50547 - Laparoscopic donor nephrectomy, living donor  
+│ ├── 50548 - Laparoscopic nephrectomy with total ureterectomy  
+│ └── 50549 - Unlisted laparoscopic procedure, renal  
 │  
 ├── DONOR NEPHRECTOMY  
-│ ├── 50300 – Donor nephrectomy, open, cadaver donor  
-│ └── 50320 – Donor nephrectomy, open, living donor  
+│ ├── 50300 - Donor nephrectomy, open, cadaver donor  
+│ └── 50320 - Donor nephrectomy, open, living donor  
 │  
 └── ABLATION (non-resective — related)  
-├── 50541 – Laparoscopic ablation of renal cysts  
-└── 50542 – Laparoscopic ablation of renal mass lesion
+├── 50541 - Laparoscopic ablation of renal cysts  
+└── 50542 - Laparoscopic ablation of renal mass lesion
 ```
 
 
@@ -89,11 +89,11 @@ Nephrectomy CPT Family
 
 | Approach | Code Range |
 |----------|-----------|
-| Open (any incision, including rib resection) | 50220–50236 |
-| Laparoscopic (standard, hand-assisted, or robotic-assisted) | 50543–50548 |
+| Open (any incision, including rib resection) | 50220-50236 |
+| Laparoscopic (standard, hand-assisted, or robotic-assisted) | 50543-50548 |
 | Donor procurement | 50300, 50320, 50547 |
 
-**Critical rule:** Never apply an open code to a laparoscopic procedure or vice versa. Robotic-assisted laparoscopic nephrectomy is coded with laparoscopic codes (50543–50548) — no separate robotic CPT currently exists for nephrectomy.
+**Critical rule:** Never apply an open code to a laparoscopic procedure or vice versa. Robotic-assisted laparoscopic nephrectomy is coded with laparoscopic codes (50543-50548) — no separate robotic CPT currently exists for nephrectomy.
 
 ---
 
@@ -132,7 +132,7 @@ The presence or absence of **regional lymphadenectomy** is the single most impor
 | No IVC involvement | 50220 or 50230 depending on LND |
 | Renal vein thrombus only (no IVC extension) | 50230 open; 50546 laparoscopic if LND performed |
 | Infrarenal IVC involvement (Level I) | 50230 — open approach strongly preferred |
-| Infrahepatic IVC involvement (Level II–III) | 50230 — open; cardiovascular assist often required |
+| Infrahepatic IVC involvement (Level II-III) | 50230 — open; cardiovascular assist often required |
 | Suprahepatic/intracardiac thrombus (Level IV) | 50230 + unlisted vascular or 37799 for complex IVC reconstruction; cardiovascular/CT surgery co-surgeon |
 
 **Critical note:** IVC thrombectomy is bundled into CPT 50230's descriptor. Do not separately bill a vascular code for standard IVC tumor thrombus extraction within the operative field. Separate vascular codes apply only when IVC wall resection, patch repair, or complex reconstruction is required beyond standard thrombus extraction.
@@ -306,16 +306,16 @@ Always code the specific renal malignancy and all documented comorbidities for c
 
 ## Suggested Obsidian Linkouts
 
-- [[50220]] – Open simple nephrectomy
-- [[50230]] – Open radical nephrectomy with LND and/or IVC thrombectomy
-- [[50546]] – Laparoscopic radical nephrectomy with regional LND
+- [[50220]] - Open simple nephrectomy
+- [[50230]] - Open radical nephrectomy with LND and/or IVC thrombectomy
+- [[50546]] - Laparoscopic radical nephrectomy with regional LND
 - [[📋 Urology CPT Codes Reference]]
 - [[50 Medical Coding/Modifiers/Global Surgical Package MOC]]
 - [[Procedure Status & Complexity Modifiers]]
-- [[-22]] – Modifier 22, increased procedural services
-- [[-53]] – Modifier 53, discontinued procedure
-- [[-62]] – Modifier 62, co-surgeons
-- [[-78]] – Modifier 78, unplanned return to OR
-- [[-80]] – Modifier 80, surgical assistant
-- [[-AS]] – Modifier AS, PA/NP first assist
-- [[-RT / -LT]] – Laterality modifiers
+- [[-22]] - Modifier 22, increased procedural services
+- [[-53]] - Modifier 53, discontinued procedure
+- [[-62]] - Modifier 62, co-surgeons
+- [[-78]] - Modifier 78, unplanned return to OR
+- [[-80]] - Modifier 80, surgical assistant
+- [[-AS]] - Modifier AS, PA/NP first assist
+- [[-RT / -LT]] - Laterality modifiers

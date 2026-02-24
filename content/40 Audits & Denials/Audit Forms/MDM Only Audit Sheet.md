@@ -2,7 +2,7 @@ Appendix 1. **Audit Worksheets**
 
 **Evaluation and Management Services Worksheets**
 Office and Other Outpatient Services Audit Worksheet
-The following worksheet may be used to collect the necessary data when auditing a medical record for office and other outpatient services (99202–99205 and 99212–99215). Practices can choose to create a custom audit worksheet for each type of E/M service (e.g., office, hospital inpatient or observation care, nursing facility visit, etc.) as in this example, or they can create one audit worksheet for all E/M services.
+The following worksheet may be used to collect the necessary data when auditing a medical record for office and other outpatient services (99202-99205 and 99212-99215). Practices can choose to create a custom audit worksheet for each type of E/M service (e.g., office, hospital inpatient or observation care, nursing facility visit, etc.) as in this example, or they can create one audit worksheet for all E/M services.
 
 Appendix 1. Audit Worksheets
 # Medical Decision Making
@@ -17,7 +17,7 @@ Appendix 1. Audit Worksheets
 Audit Worksheets
 
 
-**Office and Other Outpatient Services Audit Worksheet – Time Only Reporting**
+**Office and Other Outpatient Services Audit Worksheet - Time Only Reporting**
 <table>
 <tr>
 <th>Record Number</th>
@@ -128,14 +128,14 @@ The table below shows the time required to report each unit of 99417 in addition
 
 | New Patient | Code |
 |---|---|
-| 60–74 minutes | 99205 |
-| 75–89 minutes | 99205 x1 and 99417 x1 |
-| 90–104 minutes | 99205 x1 and 99417 x2 |
+| 60-74 minutes | 99205 |
+| 75-89 minutes | 99205 x1 and 99417 x1 |
+| 90-104 minutes | 99205 x1 and 99417 x2 |
 | 105 or more minutes | 99205 x1 and 99417 x3 or more for each additional 15 minutes |
 | Established Patient | Code |
-| 40–54 minutes | 99215 |
-| 55–69 minutes | 99215 x1 and 99417 x1 |
-| 70–84 minutes | 99215 x1 and 99417 x2 |
+| 40-54 minutes | 99215 |
+| 55-69 minutes | 99215 x1 and 99417 x1 |
+| 70-84 minutes | 99215 x1 and 99417 x2 |
 | 85 or more minutes | 99215 x1 and 99417 x3 or more for each additional 15 minutes |
 
 # Appendix 1. Audit Worksheets

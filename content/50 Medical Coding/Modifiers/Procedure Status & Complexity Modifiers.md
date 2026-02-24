@@ -47,9 +47,9 @@ Understanding the distinctions between these modifiers — especially 52 vs. 53,
 | Modifier | Name | Applies To | Direction | Initiated By | Audit Risk |
 |----------|------|-----------|-----------|-------------|-----------|
 | [[-22]] | Increased Procedural Services | Procedure codes (primary only) | More work than typical | Physician/QHP performing the procedure | High |
-| [[-23]] | Unusual Anesthesia | Anesthesia CPT codes (00100–01999) only | Anesthesia needed when not normally required | Anesthesiologist/CRNA — NOT the surgeon | Moderate |
-| [[-52]] | Reduced Services | Procedure codes | Less work than typical — provider's discretion | Physician/QHP who reduced the service | Low–Moderate |
-| [[-53]] | Discontinued Procedure | Procedure codes (physician/QHP only — NOT facility) | Procedure stopped mid-stream — patient safety | Physician/QHP only | Moderate–High |
+| [[-23]] | Unusual Anesthesia | Anesthesia CPT codes (00100-01999) only | Anesthesia needed when not normally required | Anesthesiologist/CRNA — NOT the surgeon | Moderate |
+| [[-52]] | Reduced Services | Procedure codes | Less work than typical — provider's discretion | Physician/QHP who reduced the service | Low-Moderate |
+| [[-53]] | Discontinued Procedure | Procedure codes (physician/QHP only — NOT facility) | Procedure stopped mid-stream — patient safety | Physician/QHP only | Moderate-High |
 
 ---
 
@@ -73,7 +73,7 @@ Service was LESS than typical
 
 ---
 
-### Modifier 22 – Increased Procedural Services
+### Modifier 22 - Increased Procedural Services
 
 **Short Definition**
 The work required to perform the procedure was **substantially greater** than typically required for the reported CPT code — due to increased intensity, time, technical difficulty, or physical/mental effort.
@@ -109,13 +109,13 @@ The work required to perform the procedure was **substantially greater** than ty
 
 ---
 
-### Modifier 23 – Unusual Anesthesia
+### Modifier 23 - Unusual Anesthesia
 
 **Short Definition**
 A procedure that normally requires **no anesthesia or only local anesthesia** was performed under **general anesthesia** due to unusual circumstances.
 
 **Key Facts**
-- Appended to the **anesthesia CPT code (00100–01999)** — never to the surgical CPT code.
+- Appended to the **anesthesia CPT code (00100-01999)** — never to the surgical CPT code.
 - Used exclusively by the **anesthesiologist or CRNA** — not by the surgeon.
 - If the **surgeon** personally administers anesthesia for a procedure not typically requiring it, they use **modifier 47** on the surgical CPT instead.
 - Some payers treat modifier 23 as informational only — verify payer-specific payment policy.
@@ -143,7 +143,7 @@ A procedure that normally requires **no anesthesia or only local anesthesia** wa
 
 ---
 
-### Modifier 52 – Reduced Services
+### Modifier 52 - Reduced Services
 
 **Short Definition**
 A procedure or service was **partially reduced or eliminated at the provider's discretion** — the procedure was started and partially performed but not completed to its full typical scope.
@@ -177,7 +177,7 @@ A procedure or service was **partially reduced or eliminated at the provider's d
 
 ---
 
-### Modifier 53 – Discontinued Procedure
+### Modifier 53 - Discontinued Procedure
 
 **Short Definition**
 A surgical or diagnostic procedure was **started but discontinued before completion** due to extenuating circumstances or a **threat to the patient's well-being**.
@@ -242,7 +242,7 @@ This is the most commonly confused pairing in this modifier family. The single m
 |----------|-------------|-------------|
 | What was greater than normal? | The surgical/procedural work itself | The anesthesia required |
 | Who appends it? | The surgeon or QHP performing the procedure | The anesthesiologist or CRNA |
-| What code is it appended to? | Surgical/procedural CPT code | Anesthesia CPT code (00100–01999) |
+| What code is it appended to? | Surgical/procedural CPT code | Anesthesia CPT code (00100-01999) |
 | What if the surgeon provides anesthesia for a procedure not normally requiring it? | N/A | Use modifier 47 on the surgical CPT instead |
 | Common trigger | Adhesions, obesity, intra-op complications | Pediatric non-cooperation, phobia, local anesthetic allergy |
 
@@ -265,7 +265,7 @@ This is the most commonly confused pairing in this modifier family. The single m
 
 ### Global Surgery Family
 - [[50 Medical Coding/Modifiers/Global Surgical Package MOC]]
-- [[Global Surgery Period Modifiers – Comparison & Reference]]
+- [[Global Surgery Period Modifiers - Comparison & Reference]]
 
 ### Anesthesia Family
 - [[-AA]]

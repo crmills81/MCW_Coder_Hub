@@ -25,7 +25,7 @@ tags:
   - MDC02
 note_type: MOC
 specialty: Ophthalmology
-chapter_range: Surgery — Eye and Ocular Adnexa (65091–68899); Medicine — Ophthalmology (92002–92499)
+chapter_range: Surgery — Eye and Ocular Adnexa (65091-68899); Medicine — Ophthalmology (92002-92499)
 mdc: MDC 02 — Diseases and Disorders of the Eye
 status: active
 date_created: 2026-02-23
@@ -42,7 +42,7 @@ related_notes:
 
 ## What This MOC Covers
 
-This reference index covers the major **CPT code families in Ophthalmology** — organized by anatomic region and procedure type. Use this note to navigate individual procedure notes, identify correct code selection within a family, understand bundling rules, and locate modifier and global period guidance. Codes span the Surgery — Eye and Ocular Adnexa section (65091–68899) and the Medicine — Ophthalmology section (92002–92499) of CPT.
+This reference index covers the major **CPT code families in Ophthalmology** — organized by anatomic region and procedure type. Use this note to navigate individual procedure notes, identify correct code selection within a family, understand bundling rules, and locate modifier and global period guidance. Codes span the Surgery — Eye and Ocular Adnexa section (65091-68899) and the Medicine — Ophthalmology section (92002-92499) of CPT.
 
 ---
 
@@ -281,8 +281,8 @@ This reference index covers the major **CPT code families in Ophthalmology** —
 |-----|-------------|--------|-------|
 | 67028 | Intravitreal injection | 000 | Anti-VEGF, steroid, antibiotic — office or ASC |
 | 67036 | PPV | 090 | (see vitreous section above) |
-| 67039–67043 | PPV with membrane work | 090 | ERM, ILM, subretinal |
-| 67101–67113 | Retinal detachment repair | 090 | (see vitreous section above) |
+| 67039-67043 | PPV with membrane work | 090 | ERM, ILM, subretinal |
+| 67101-67113 | Retinal detachment repair | 090 | (see vitreous section above) |
 | 67141/67145 | Prophylactic laser or cryo | 000 | Retinal breaks/lattice |
 | 67228 | PRP laser | 090 | Diabetic retinopathy |
 | 67500 | Retrobulbar injection of medication | 000 | Steroid, alcohol block |
@@ -454,7 +454,7 @@ This reference index covers the major **CPT code families in Ophthalmology** —
 | 68325 | Conjunctivorhinostomy with lacrimal sac | 090 | (see lacrimal) |
 | 68371 | Harvesting of conjunctival allograft, living donor | 000 | Graft harvest |
 | 68400 | Incision, drainage of conjunctival abscess | 010 | Conjunctival abscess |
-| 68500–68510 | Excision/biopsy of lacrimal gland | 090/000 | (see lacrimal) |
+| 68500-68510 | Excision/biopsy of lacrimal gland | 090/000 | (see lacrimal) |
 
 ---
 
@@ -472,9 +472,9 @@ This reference index covers the major **CPT code families in Ophthalmology** —
 
 > [!tip]
 > **Ophthalmology E/M vs. Standard E/M Note:**
-> - 92002–92014 are ophthalmology-specific exam codes that include elements unique to eye exams (biomicroscopy, dilated fundus exam, tonometry, etc.).
-> - Standard E/M codes (99202–99215) may also be used by ophthalmologists — especially for medical management of systemic conditions with ocular manifestations.
-> - Do NOT bill both 92002–92014 AND 99202–99215 for the same encounter.
+> - 92002-92014 are ophthalmology-specific exam codes that include elements unique to eye exams (biomicroscopy, dilated fundus exam, tonometry, etc.).
+> - Standard E/M codes (99202-99215) may also be used by ophthalmologists — especially for medical management of systemic conditions with ocular manifestations.
+> - Do NOT bill both 92002-92014 AND 99202-99215 for the same encounter.
 
 
 ---
@@ -566,7 +566,7 @@ This reference index covers the major **CPT code families in Ophthalmology** —
 | 000 | Intravitreal injection (67028), YAG vitreolysis (67031), laser (67145/67141), punctal plug (68761), sub-Tenon injection (67515), corneal scraping (65430), paracentesis (65800) |
 | 010 | YAG capsulotomy (66821), ALT/SLT laser (65855), LPI (66761), chalazion (67800), eyelid lesion (67840), NLD probing (68810) |
 | 090 | Cataract (66984), complex cataract (66982), MIGS (66183), trabeculectomy (66170), tube shunt (66179/66180), PPV (67036), RD repair (67107/67108), corneal transplant (65756/65730), ptosis repair (67904), strabismus (67311), orbitotomy (67412), DCR (68720), enucleation (65101) |
-| XXX | Diagnostic tests — OCT (92132–92134), FA (92235), VF (92083), topography (92025) |
+| XXX | Diagnostic tests — OCT (92132-92134), FA (92235), VF (92083), topography (92025) |
 
 ---
 
@@ -658,7 +658,7 @@ This reference index covers the major **CPT code families in Ophthalmology** —
 | -52 | Reduced services — incomplete procedure |
 | -53 | Discontinued procedure — patient safety reason |
 | -59 | Distinct procedural service — separate same-day procedures (PPV + cataract) |
-| -E1–E4 | Upper/lower eyelid laterality — E1 right upper, E2 left upper, E3 right lower, E4 left lower |
+| -E1-E4 | Upper/lower eyelid laterality — E1 right upper, E2 left upper, E3 right lower, E4 left lower |
 | -TC | Technical component — imaging (OCT, FA) when facility performs technical only |
 | -26 | Professional component — interpretation of imaging only |
 
@@ -689,14 +689,14 @@ This reference index covers the major **CPT code families in Ophthalmology** —
 - [[Procedure Status & Complexity Modifiers]]
 - [[Otolaryngology CPT Codes Reference]]
 - [[📋 Urology CPT Codes Reference]]
-- [[-25]] – Modifier 25
-- [[-50]] – Modifier 50, bilateral procedures
-- [[-58]] – Modifier 58, staged procedure
-- [[-59]] – Modifier 59, distinct procedural service
-- [[-78]] – Modifier 78, unplanned return to OR
-- [[-79]] – Modifier 79, unrelated procedure during global period
-- [[-RT / -LT]] – Laterality modifiers
-- [[-E1 / -E2 / -E3 / -E4]] – Eyelid laterality modifiers
-- [[-TC]] – Technical component modifier
-- [[-26]] – Professional component modifier
-- [[-22]] – Modifier 22, increased procedural services
+- [[-25]] - Modifier 25
+- [[-50]] - Modifier 50, bilateral procedures
+- [[-58]] - Modifier 58, staged procedure
+- [[-59]] - Modifier 59, distinct procedural service
+- [[-78]] - Modifier 78, unplanned return to OR
+- [[-79]] - Modifier 79, unrelated procedure during global period
+- [[-RT / -LT]] - Laterality modifiers
+- [[-E1 / -E2 / -E3 / -E4]] - Eyelid laterality modifiers
+- [[-TC]] - Technical component modifier
+- [[-26]] - Professional component modifier
+- [[-22]] - Modifier 22, increased procedural services

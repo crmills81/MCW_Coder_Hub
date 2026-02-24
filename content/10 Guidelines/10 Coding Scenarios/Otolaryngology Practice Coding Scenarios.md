@@ -130,7 +130,7 @@ Each scenario below presents a realistic clinical encounter. Read the scenario, 
 - Documentation must describe the septoplasty and turbinate reduction as separate, distinct interventions with separate indications.
 - If the turbinate reduction was merely incidental to gaining access for the septoplasty, separate billing may not be supported — the operative note must describe the turbinate pathology and treatment as independent.
 - Global period: 090 for both — routine post-op care is bundled.
-- Do NOT use functional rhinoplasty codes (30400–30420) for septoplasty — these are cosmetic/structural rhinoplasty codes and differ from purely functional septoplasty.
+- Do NOT use functional rhinoplasty codes (30400-30420) for septoplasty — these are cosmetic/structural rhinoplasty codes and differ from purely functional septoplasty.
 
 ---
 
@@ -188,7 +188,7 @@ Each scenario below presents a realistic clinical encounter. Read the scenario, 
 - Do NOT separately bill myringotomy (69420) when tube insertion (69436) is performed — myringotomy is bundled into 69436.
 - If the adenoids are also removed at the same session for Eustachian tube dysfunction, add 42830 (adenoidectomy) with modifier -51 — adenoidectomy is separately reportable.
 - Global period: 010 (10-day global) for 69436 — shorter than major surgical procedures.
-- Audiogram (92551–92557) performed pre-operatively is separately billable with the appropriate diagnosis code.
+- Audiogram (92551-92557) performed pre-operatively is separately billable with the appropriate diagnosis code.
 
 ---
 
@@ -306,7 +306,7 @@ Each scenario below presents a realistic clinical encounter. Read the scenario, 
   - 69631 — Tympanoplasty without mastoidectomy, with ossicular chain reconstruction.
   - 69632 — Tympanoplasty without mastoidectomy, with ossicular chain reconstruction and synthetic prosthesis.
   - 69633 — Tympanoplasty without mastoidectomy, with perilymph fistula repair.
-  - 69641–69646 — Tympanoplasty with mastoidectomy variants.
+  - 69641-69646 — Tympanoplasty with mastoidectomy variants.
 - If PORP is used (partial ossicular replacement prosthesis), 69631 is typically appropriate; if TORP (total ossicular replacement), consider 69632.
 - Global period: 090.
 - Document the type of prosthesis, the ear (laterality), and the specific ossicular bones affected.
@@ -316,7 +316,7 @@ Each scenario below presents a realistic clinical encounter. Read the scenario, 
 ## Scenario 10 — Complex Head and Neck: Total Laryngectomy with Neck Dissection
 
 **Clinical Scenario**
-63-year-old with T3N2M0 squamous cell carcinoma of the supraglottic larynx, confirmed by biopsy. The patient is taken to the OR for total laryngectomy with bilateral selective neck dissection (Level II–IV). The surgeon also performs tracheal-esophageal puncture (TEP) for voice prosthesis at the time of the laryngectomy.
+63-year-old with T3N2M0 squamous cell carcinoma of the supraglottic larynx, confirmed by biopsy. The patient is taken to the OR for total laryngectomy with bilateral selective neck dissection (Level II-IV). The surgeon also performs tracheal-esophageal puncture (TEP) for voice prosthesis at the time of the laryngectomy.
 
 **Your Turn — Assign CPT and ICD-10-CM before reading the answer.**
 
@@ -336,10 +336,10 @@ Each scenario below presents a realistic clinical encounter. Read the scenario, 
 
 **Rationale and Coding Pearls**
 - 31360 = total laryngectomy **without** radical neck dissection. When radical neck dissection (sternocleidomastoid, internal jugular, CN XI) is performed, use 31365. When modified radical neck dissection is performed, documentation must specify what is preserved.
-- Selective neck dissection (Levels II–IV only, preserving SCM, IJV, CN XI) = 38720 per level grouping; verify with the specific operative note.
+- Selective neck dissection (Levels II-IV only, preserving SCM, IJV, CN XI) = 38720 per level grouping; verify with the specific operative note.
 - TEP (tracheoesophageal puncture) at time of laryngectomy is separately reportable with modifier -51 — it is not bundled into 31360.
 - Bilateral neck dissection uses modifier **-50** on the neck dissection code, or report each side separately with -RT/-LT per payer requirements.
-- Neck dissection levels dissected must be documented in the operative note — payers and auditors look for specificity of levels I–VI to support the level of complexity and code selection.
+- Neck dissection levels dissected must be documented in the operative note — payers and auditors look for specificity of levels I-VI to support the level of complexity and code selection.
 - Global period: 090 for all procedure codes.
 - Post-operative rehabilitation (speech therapy, swallowing evaluation) is separately coded and billed when performed.
 
@@ -388,11 +388,11 @@ Patient undergoes 42826 (tonsillectomy, age 12+) on Day 1. Returns on Day 7 with
 - [[Otolaryngology CPT Codes Reference]]
 - [[50 Medical Coding/Modifiers/Global Surgical Package MOC]]
 - [[Procedure Status & Complexity Modifiers]]
-- [[50220]] – Open simple nephrectomy (cross-specialty global period reference)
-- [[-25]] – Modifier 25
-- [[-50]] – Modifier 50, bilateral procedures
-- [[-51]] – Modifier 51, multiple procedures
-- [[-78]] – Modifier 78, unplanned return to OR
-- [[-22]] – Modifier 22, increased procedural services
-- [[-62]] – Modifier 62, co-surgeons
-- [[-LT / -RT]] – Laterality modifiers
+- [[50220]] - Open simple nephrectomy (cross-specialty global period reference)
+- [[-25]] - Modifier 25
+- [[-50]] - Modifier 50, bilateral procedures
+- [[-51]] - Modifier 51, multiple procedures
+- [[-78]] - Modifier 78, unplanned return to OR
+- [[-22]] - Modifier 22, increased procedural services
+- [[-62]] - Modifier 62, co-surgeons
+- [[-LT / -RT]] - Laterality modifiers

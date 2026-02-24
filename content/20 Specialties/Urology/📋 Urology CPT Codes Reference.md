@@ -23,13 +23,13 @@ tags:
   - MDC11
 note_type: MOC
 specialty: Urology
-chapter_range: Surgery — Urinary System (CPT 50010–53899)
+chapter_range: Surgery — Urinary System (CPT 50010-53899)
 mdc: MDC 11 — Diseases and Disorders of the Kidney and Urinary Tract
 status: active
 date_created: 2026-02-23
 date_modified: 2026-02-23
 related_notes:
-  - "[[CPT 50230]] – Radical nephrectomy open with lymphadenectomy"
+  - "[[CPT 50230]] - Radical nephrectomy open with lymphadenectomy"
   - "[[50 Medical Coding/Modifiers/Global Surgical Package MOC]]"
   - "[[Procedure Status & Complexity Modifiers]]"
 ---
@@ -38,7 +38,7 @@ related_notes:
 
 ## What This MOC Covers
 
-This reference index covers the major **CPT code families in Urology** — organized by anatomic region and procedure type. Use this note to navigate to individual procedure notes, identify correct code selection within a family, understand bundling rules, and locate modifier and global period guidance. All codes fall under the **Surgery — Urinary System** CPT section (50010–53899) unless otherwise noted.
+This reference index covers the major **CPT code families in Urology** — organized by anatomic region and procedure type. Use this note to navigate to individual procedure notes, identify correct code selection within a family, understand bundling rules, and locate modifier and global period guidance. All codes fall under the **Surgery — Urinary System** CPT section (50010-53899) unless otherwise noted.
 
 ---
 
@@ -76,7 +76,7 @@ This reference index covers the major **CPT code families in Urology** — organ
 | [[50546]]     | Laparoscopic radical nephrectomy with regional lymphadenectomy                              | 090     | ~22.0      |
 | [[50548]]     | Laparoscopic nephrectomy with total ureterectomy                                            | 090     | ~22.0      |
 
-**Key distinction:** Use open codes (50220–50240) for open approaches. Use laparoscopic codes (50543–50548) for minimally invasive. Do not mix open and laparoscopic descriptors.
+**Key distinction:** Use open codes (50220-50240) for open approaches. Use laparoscopic codes (50543-50548) for minimally invasive. Do not mix open and laparoscopic descriptors.
 
 ---
 
@@ -266,7 +266,7 @@ This reference index covers the major **CPT code families in Urology** — organ
 | [[52214]] | **Cystourethroscopy with fulguration**                                                                             | Ablation of lesion                    |
 | [[52224]] | **Cystourethroscopy with fulguration of trigone**                                                                  | Trigone-specific                      |
 | [[52234]] | **Cystourethroscopy with fulguration and/or resection of small bladder tumor, less than 0.5 cm**                   | TURBT small                           |
-| [[52235]] | **Cystourethroscopy with fulguration and/or resection of medium bladder tumor, 0.5–2.0 cm**                        | TURBT medium                          |
+| [[52235]] | **Cystourethroscopy with fulguration and/or resection of medium bladder tumor, 0.5-2.0 cm**                        | TURBT medium                          |
 | [[52240]] | **Cystourethroscopy with fulguration and/or resection of large bladder tumor**                                     | TURBT large                           |
 | [[52250]] | **Cystourethroscopy with insertion of radioactive substance**                                                      | Brachytherapy implant                 |
 | [[52260]] | **Cystourethroscopy with dilation of bladder for interstitial cystitis under anesthesia**                          | IC dilation                           |
@@ -445,8 +445,8 @@ Always verify the specific CPT MPFS assistant-at-surgery indicator — status ma
 | [[C64.2]]   | **Malignant neoplasm of left kidney**        | 50230, 50546, 50240                        |
 | [[C65.1]]   | **Malignant neoplasm of right renal pelvis** | [[50234]], [[50548]]                       |
 | [[C65.2]]   | **Malignant neoplasm of left renal pelvis**  | 50234, 50548                               |
-| C67.x       | **Malignant neoplasm of bladder**            | [[51570]]–[[51597]], [[52240]]             |
-| [[C61]]     | **Malignant neoplasm of prostate**           | [[55840]]–[[55866]]                        |
+| C67.x       | **Malignant neoplasm of bladder**            | [[51570]]-[[51597]], [[52240]]             |
+| [[C61]]     | **Malignant neoplasm of prostate**           | [[55840]]-[[55866]]                        |
 | C62.x       | **Malignant neoplasm of testis**             | [[54530]]                                  |
 | [[N20.0]]   | **Calculus of kidney**                       | [[50080]], [[50081]], [[50590]]            |
 | [[N20.1]]   | **Calculus of ureter**                       | [[52352]], [[52353]], [[52356]]            |
@@ -457,7 +457,7 @@ Always verify the specific CPT MPFS assistant-at-surgery indicator — status ma
 | [[N32.81]]  | **Overactive bladder**                       | [[52287]] (Botox), [[51729]] (urodynamics) |
 | [[N39.3]]   | **Stress incontinence, female**              | [[51992]], [[57220]]                       |
 | [[N99.110]] | **Post-procedural urethral stricture, male** | [[52276]], [[52281]]                       |
-| Q61.x       | **Polycystic kidney disease**                | 50220–50230 (rare)                         |
+| Q61.x       | **Polycystic kidney disease**                | 50220-50230 (rare)                         |
 
 ---
 
@@ -487,14 +487,14 @@ Always verify the specific CPT MPFS assistant-at-surgery indicator — status ma
 
 ## Suggested Obsidian Linkouts
 
-- [[50230]] – Radical nephrectomy open with lymphadenectomy
+- [[50230]] - Radical nephrectomy open with lymphadenectomy
 - [[50 Medical Coding/Modifiers/Global Surgical Package MOC]]
 - [[Procedure Status & Complexity Modifiers]]
-- [[-22]] – Modifier 22
-- [[-50]] – Modifier 50, bilateral
-- [[-51]] – Modifier 51, multiple procedures
-- [[-58]] – Modifier 58, staged procedure
-- [[-62]] – Modifier 62, co-surgeons
-- [[-78]] – Modifier 78, unplanned return to OR
-- [[-80]] – Modifier 80, surgical assistant
-- [[-AS]] – Modifier AS
+- [[-22]] - Modifier 22
+- [[-50]] - Modifier 50, bilateral
+- [[-51]] - Modifier 51, multiple procedures
+- [[-58]] - Modifier 58, staged procedure
+- [[-62]] - Modifier 62, co-surgeons
+- [[-78]] - Modifier 78, unplanned return to OR
+- [[-80]] - Modifier 80, surgical assistant
+- [[-AS]] - Modifier AS

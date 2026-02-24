@@ -130,7 +130,7 @@ OR
       <td></td>
       <td>N/A</td>
       <td>☐ Pertinent to problem<br>(1 system)</td>
-      <td>☐ Extended<br>(Pert and others)<br>(2–9 systems)</td>
+      <td>☐ Extended<br>(Pert and others)<br>(2-9 systems)</td>
       <td>☐ Complete<br>(Pert and all others)<br>(10 systems)</td>
     </tr>
     <tr>
@@ -171,9 +171,9 @@ OR
   </tbody>
 </table>
 
-*Complete PFSH: 2 history areas: a) established patients – office (outpatient) care, domiciliary care, home care; b) emergency department; c) subsequent nursing facility care; and, d) subsequent hospital care.
+*Complete PFSH: 2 history areas: a) established patients - office (outpatient) care, domiciliary care, home care; b) emergency department; c) subsequent nursing facility care; and, d) subsequent hospital care.
 
-3 history areas: a) new patients – office (outpatient) care, domiciliary care, home care; b) consultations; c) initial hospital care; d) hospital observation; and, e) initial nursing facility care.
+3 history areas: a) new patients - office (outpatient) care, domiciliary care, home care; b) consultations; c) initial hospital care; d) hospital observation; and, e) initial nursing facility care.
 
 <table>
   <thead>
@@ -211,19 +211,19 @@ OR
     <tr>
       <td>Limited to affected body area or organ system</td>
       <td>One body area or organ system</td>
-      <td>1–5 bulleted elements</td>
+      <td>1-5 bulleted elements</td>
       <td>PROBLEM-FOCUSED EXAM</td>
     </tr>
     <tr>
       <td>Affected body area or organ system and other symptomatic or related organ systems</td>
-      <td>2–7 body areas and/or organ systems</td>
-      <td>6–11 bulleted elements</td>
+      <td>2-7 body areas and/or organ systems</td>
+      <td>6-11 bulleted elements</td>
       <td>EXPANDED PROBLEM-FOCUSED EXAM</td>
     </tr>
     <tr>
       <td>Extended exam of affected body area or organ system and other symptomatic or related organ systems</td>
-      <td>2–7 body areas and/or organ systems</td>
-      <td>12–17 bulleted elements for 2 or more systems</td>
+      <td>2-7 body areas and/or organ systems</td>
+      <td>12-17 bulleted elements for 2 or more systems</td>
       <td>DETAILED EXAM</td>
     </tr>
     <tr>
@@ -258,7 +258,7 @@ Code each component separately using respective Tables A-C, then compare results
 
 ### Section A
 
-Coding Number of Diagnoses or Management Options – Use the Tables A.1 and A.2 on page 2 to determine the numbers of diagnoses or management options.
+Coding Number of Diagnoses or Management Options - Use the Tables A.1 and A.2 on page 2 to determine the numbers of diagnoses or management options.
 
 Note: In all cases, the information in the clinical record (history and physical) must clearly support diagnostic impressions. Diagnostic impressions listed but not supported elsewhere in the clinical record must not be included in the problem list for coding purposes.
 
@@ -387,7 +387,7 @@ Determine total points for each diagnosis or problem and associated management o
 
 Section B
 
-Coding Amount and/or Complexity of Data Reviewed or Ordered – Determine total points for amount and/or complexity of data reviewed or ordered using Table B. Use the “Total Points” for Section D. Final assignment of Medical Decision Making Type.
+Coding Amount and/or Complexity of Data Reviewed or Ordered - Determine total points for amount and/or complexity of data reviewed or ordered using Table B. Use the “Total Points” for Section D. Final assignment of Medical Decision Making Type.
 
 <table>
   <thead>
@@ -399,7 +399,7 @@ Coding Amount and/or Complexity of Data Reviewed or Ordered – Determine total 
   <tbody>
     <tr>
       <td>Order and/or review medically reasonable and necessary clinical laboratory procedures.<br>Note: Count laboratory panels as one procedure.</td>
-      <td>1–3 procedures</td>
+      <td>1-3 procedures</td>
       <td>1</td>
     </tr>
     <tr>
@@ -409,7 +409,7 @@ Coding Amount and/or Complexity of Data Reviewed or Ordered – Determine total 
     </tr>
     <tr>
       <td>Order and/or review medically reasonable and necessary diagnostic imaging studies in Radiology section of CPT.</td>
-      <td>1–3 procedures</td>
+      <td>1-3 procedures</td>
       <td>1</td>
     </tr>
     <tr>
@@ -419,7 +419,7 @@ Coding Amount and/or Complexity of Data Reviewed or Ordered – Determine total 
     </tr>
     <tr>
       <td>Order and/or review medically reasonable and necessary diagnostic procedures in Medical section of CPT.</td>
-      <td>1–3 procedures</td>
+      <td>1-3 procedures</td>
       <td>1</td>
     </tr>
     <tr>
@@ -640,9 +640,9 @@ Use Table C.1 to determine the highest level or risk associated with each of the
 
 ### Final Assignment of Medical Decision Making Type
 
-1. Line A – Use Total Diagnosis Points or the Total Management Option Points from Section A (Tables A.1 and A.2).
-2. Line B – Use Total Points from Section B (Table B).
-3. Line C – Use highest level of risk from Section C (Table C.2).
+1. Line A - Use Total Diagnosis Points or the Total Management Option Points from Section A (Tables A.1 and A.2).
+2. Line B - Use Total Points from Section B (Table B).
+3. Line C - Use highest level of risk from Section C (Table C.2).
 4. Choose final Type of Medical Decision Making. Final Type Requires 2 of the 3 MDM Components below be met or exceeded.
 
 ### Table D Final Assignment of Medical Decision Making Type
@@ -652,20 +652,20 @@ Use Table C.1 to determine the highest level or risk associated with each of the
 <tr>
 <th></th>
 <th>A. Number of diagnoses or management options</th>
-<th>1 Point – Minimal</th>
-<th>2 Points – Limited</th>
-<th>3 Points – Multiple</th>
-<th>>4 Points – Extensive</th>
+<th>1 Point - Minimal</th>
+<th>2 Points - Limited</th>
+<th>3 Points - Multiple</th>
+<th>>4 Points - Extensive</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td></td>
 <td>B. Amount and complexity of data reviewed/ordered</td>
-<td><=1 Point – None/Minimal</td>
-<td>2 Points – Limited</td>
-<td>3 Points – Multiple</td>
-<td>>4 Points – Extensive</td>
+<td><=1 Point - None/Minimal</td>
+<td>2 Points - Limited</td>
+<td>3 Points - Multiple</td>
+<td>>4 Points - Extensive</td>
 </tr>
 <tr>
 <td></td>
