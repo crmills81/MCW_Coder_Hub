@@ -41,7 +41,7 @@ The combining form **angi-/angio-** refers to vessels, typically blood or lympha
 - **[[Angiogenesis]]** - formation of new vessels  
 
 ## Documentation Clues
-- “[[Stenosis]]”
+- “[[stenosis]]”
 - “[[Occlusion]]”
 - “Contrast injected into vessel”
 

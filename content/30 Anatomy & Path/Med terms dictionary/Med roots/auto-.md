@@ -32,7 +32,7 @@ The prefix **[[auto-]]** refers to something that arises from, acts on, or relat
 
 ## Common Medical Terms
 - **[[Autograft]]** - graft taken from the same person  
-- **[[Autoimmune]]** - immune system attacks self  
+- **[[autoimmune]]** - immune system attacks self  
 - **[[Autonomic]]** - self-regulating nervous system  
 
 ## Documentation Clues

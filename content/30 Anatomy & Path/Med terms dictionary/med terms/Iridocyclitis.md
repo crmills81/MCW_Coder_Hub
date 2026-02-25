@@ -66,7 +66,7 @@ _____
 **Symptoms:**[1][3][4]
 - Unilateral > bilateral eye pain.  
 - Ciliary flush ([[perilimbal]] injection).  
-- [[Photophobia]], blurred vision.  
+- [[photophobia]], blurred vision.  
 - [[Miosis]] (reactive spasm).  
 
 **Slit-lamp signs:**  

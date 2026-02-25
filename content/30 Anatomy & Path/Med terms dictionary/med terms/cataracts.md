@@ -31,7 +31,7 @@ _____
 >[!info]+ ETYMOLOGY of [[cataracts]]
 >#latin From Latin "cataracta" (**waterfall, portcullis**), from Greek "katarrhaktēs" (down-rushing), metaphorically describing the white opacity resembling rushing water or an obstruction.
 _____
->[!tip]+ DERIVATIONS of [[cataracts]]
+>[!tip]- DERIVATIONS of [[cataracts]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

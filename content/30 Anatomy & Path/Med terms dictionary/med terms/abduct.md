@@ -1,7 +1,8 @@
 ---
 tags:
   - medterm
-aliases: []
+aliases:
+  - abduction
 roots:
   - ab-
   - duct-
