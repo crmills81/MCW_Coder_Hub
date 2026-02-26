@@ -1,6 +1,7 @@
 ---
 tags:
   - medroot
+  - medterm
   - otolaryngology
 aliases: []
 roots:
@@ -17,18 +18,11 @@ definition:
   - place for
 ---
 >[!Note] DEFINITION of [[-arium]]
->forms nouns: denotes a place for something, place for;
->
->|Term|Meaning|Application|
-|---|---|---|
-|**Bradycardia**|A heart rate that is slower than normal, typically below 60 beats per minute in adults [studocu+1](https://www.studocu.com/en-us/messages/question/10709783/using-your-knowledge-of-medical-word-parts-what-does-the-term-bradycardia-refer-toarapid-heart).|Cardiology/Vital Signs [facebook](https://www.facebook.com/codingclarified/posts/coding-clarified-medical-terminology-word-of-the-day-prefix-brady-pronunciation-/1506721318122733/)​|
-|**Bradypnea**|Abnormally slow breathing rate [wordpandit](https://wordpandit.com/word-root-brady/)​.|Respiratory Assessment [wordpandit](https://wordpandit.com/word-root-brady/)​|
-|**Bradykinesia**|Slowness of movement, often a hallmark symptom of Parkinson’s disease [etymonline+1](https://www.etymonline.com/word/brady-).|Neurology [wordpandit](https://wordpandit.com/word-root-brady/)​|
-|**[[bradylalia]]**|Abnormally slow speech [wordpandit](https://wordpandit.com/word-root-brady/)​.|Speech Pathology [wordpandit](https://wordpandit.com/word-root-brady/)​|
+>**Forms nouns**: denotes a place for something, place for; **-arium** is a Latin-derived suffix used in medical and scientific terminology to denote a place, structure, or container associated with a particular function or substance. In medical contexts, it typically refers to **anatomical spaces, receptacles**, or areas that contain or are related to specific biological materials or processes.
 >
 _____
 >[!info]+ ETYMOLOGY of [[-arium]]
->#latin Derived from the Latin neuter suffix **[[-arium]]**, which is the singular form of **[[-aria]]**. It is closely related to the suffix **[[-ary]]**, which also indicates a place or connection.
+>#latin Derived from the Latin neuter suffix **[[-arium]]**, which is the singular form of **[[-aria]]**. It is closely related to the suffix **[[-ary]]**, which also indicates a place or connection. From Latin **-arium** (neuter form of [[-arius]]), meaning "**place for**" or "**pertaining to**." The suffix derives from the Latin adjective-forming ending that creates nouns indicating location, container, or association.
 _____
 >[!example]+ RELATED TERMS to [[-arium]]
 >
@@ -37,8 +31,17 @@ _____
 |  [[-ary]]  |    YES    | pertaining to |
 | [[-orium]] |    YES    |       -       |
 |  [[-ory]]  |    YES    |       -       |
+>
+>***
+>
+>**Medical Examples**
+>
+>- **Ovarium** - ovary (place where ova are produced)
+>- **Aquarium** - water container (non-medical, but demonstrates the suffix)
+>- **Vivarium** - place for living specimens
+>
 _____
->[!tip]+ DERIVATIONS of [[-arium]]
+>[!tip]- DERIVATIONS of [[-arium]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

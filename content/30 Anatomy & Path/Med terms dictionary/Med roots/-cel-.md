@@ -47,5 +47,8 @@ _____
 >```
 
 [[Med roots dictionary]]
-
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]
 

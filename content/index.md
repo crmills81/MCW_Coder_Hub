@@ -3,15 +3,16 @@ title: 🌟 Yay, MEDICAL CODING!!! 🌟
 description: Welcome to my work in progress! Lol
 ---
 # 💥 Coding Dashboard
-
+>
 ## 🎯 Purpose
 Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare with me if you're someone other than me visiting. I'll eventually get to fixing the broken links. Anyone who's a coder already knows this might take a long time lolol... 🤓
 
 ---
 
 # 📔 Medical Coding References
-
+>
 ## High‑Yield References
+
 - [[10 Guidelines/20 MDM Tables - Printable/MDM Tables]]
 - [[60 CIC Stuff/PCS Root Operation Grid|PCS Root Operation Grid]]
 - [[10 Guidelines/00 E&M Resources/Facility E&M Quick Guide]]
@@ -30,14 +31,14 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 ---
 
 # 🧪 Practice & Scenarios
-
+>
 ## Coding Practice
 - [[Coding Scenarios]]
 - [[Practice Case 1 - {{Urology}}]]
 - [[Practice Case 2 - {{Urology}}]]
 - [[Practice Cases 4-6 - {{Urology}}]]
 - [[Facility E&M Quick Guide]]
-- [[PCS Practice Grid]]
+
 
 ## Audit Practice
 - [[Audit Notes]]
@@ -46,7 +47,7 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 ---
 
 # 🩺 CIC Exam Prep
-
+>
 ## CIC Study Tools
 - [[CIC Study Plan]]
 - [[CIC Study Notes]]
@@ -61,6 +62,7 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 - Query compliance  
 
 ---
+
 # 🔗 Cross‑Links
 - [[CIC Study Notes]]
 - [[Audit Checklists]]

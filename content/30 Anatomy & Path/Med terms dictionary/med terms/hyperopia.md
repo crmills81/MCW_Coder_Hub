@@ -2,6 +2,7 @@
 tags:
   - medterm
   - medroot
+  - ophthalmology
 aliases:
   - long-sightedness
   - farsightedness
