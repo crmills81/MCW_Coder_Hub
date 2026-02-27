@@ -1,6 +1,7 @@
 ---
 tags:
   - medroot
+  - medterm
 aliases:
   - -ar
 roots:
@@ -81,7 +82,7 @@ _____
 >
 
 _____
->[!tip]+ DERIVATIONS of [[-ary]]
+>[!tip]- DERIVATIONS of [[-ary]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

@@ -19,7 +19,7 @@ definition:
 _____
 >[!info]+ ETYMOLOGY of [[lymphangitis]]
 >#latin 
->The term was first recorded in **1835–1845** as a New Latin coinage in medical literature. The root _lympha_ comes from Classical Latin meaning "**water**" or "**clear water**," with the spelling influenced by folk etymology connecting it to the Greek _nýmphē_ ("*nymph*"). The combining element _lymphangi-_ (or _[[lymphangei-]]_) combines the Latin lymph root with the Greek vessel root _ángos_, which also appears in related terms like _angiogram_ and _angioplasty_. The suffix _[[-itis]]_ is from the Greek feminine adjectival form meaning "pertaining to *a disease of*," standardized through centuries of Galenic and Hippocratic tradition to indicate inflammatory pathology.
+>The term was first recorded in **1835-1845** as a New Latin coinage in medical literature. The root _lympha_ comes from Classical Latin meaning "**water**" or "**clear water**," with the spelling influenced by folk etymology connecting it to the Greek _nýmphē_ ("*nymph*"). The combining element _lymphangi-_ (or _[[lymphangei-]]_) combines the Latin lymph root with the Greek vessel root _ángos_, which also appears in related terms like _angiogram_ and _angioplasty_. The suffix _[[-itis]]_ is from the Greek feminine adjectival form meaning "pertaining to *a disease of*," standardized through centuries of Galenic and Hippocratic tradition to indicate inflammatory pathology.
 >
 >**Pronunciation:** _lim-fan-JY-tis_ (American English) / _lim-fan-jee-EYE-tis_ (**alternate**)
 >>
@@ -43,8 +43,8 @@ _____
 > 
 > |Code|Description|Chapter|
 > |---|---|---|
-> |**[[I89.1]]**|[[lymphangitis]] (chronic/subacute, noninfective) |Chapter 9 — Diseases of the Circulatory System (I00–I99)  |
-> |**[[L03.9]]**|[[Cellulitis]] and **acute** lymphangitis, unspecified | Chapter 12 — Diseases of the Skin and Subcutaneous Tissue (L00–L99)  ​|
+> |**[[I89.1]]**|[[lymphangitis]] (chronic/subacute, noninfective) |Chapter 9 — Diseases of the Circulatory System (I00-I99)  |
+> |**[[L03.9]]**|[[Cellulitis]] and **acute** lymphangitis, unspecified | Chapter 12 — Diseases of the Skin and Subcutaneous Tissue (L00-L99)  ​|
 > 
 >  ⚠️ **Coding tip:** The _L03_ category covers **acute** infectious lymphangitis (**almost always bacterial, often coded with cellulitis together**). The _I89.1_ code covers **chronic or subacute** lymphangitis and specifically excludes filarial causes. Don't mix these up on your query reviews!
 > >

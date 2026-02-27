@@ -45,7 +45,7 @@ The prefix **[[ab-]]** indicates movement or direction **away from** a structure
 Important in musculoskeletal coding for describing **movement direction**.
 
 _____
->[!tip]+ DERIVATIONS of ab-
+>[!tip]- DERIVATIONS of ab-
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name

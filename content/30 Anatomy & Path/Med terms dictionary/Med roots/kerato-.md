@@ -39,7 +39,7 @@ _____
 >[!example]+ RELATED TERMS to [[kerato-]]
 >**Cornea (Ophthalmology)**
 >
->In the eye, the cornea gets its name from Medieval Latin _cornea tela_ ("**horny web/sheath**"), directly referencing its horn-like texture. It is the transparent, avascular anterior layer covering the iris and pupil, responsible for approximately 65–75% of the eye's refractive power.
+>In the eye, the cornea gets its name from Medieval Latin _cornea tela_ ("**horny web/sheath**"), directly referencing its horn-like texture. It is the transparent, avascular anterior layer covering the iris and pupil, responsible for approximately 65-75% of the eye's refractive power.
 >
 >|Term|Breakdown|Meaning|
 >|---|---|---|

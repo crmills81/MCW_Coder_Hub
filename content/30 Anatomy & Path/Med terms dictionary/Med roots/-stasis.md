@@ -22,7 +22,7 @@ _____
 >From Greek στάσῐς (stásis) — "**a standing still, a posture, a placing**," from the verb ἵστημι (**histēmi, "to cause to stand, to place, to set"**), from Proto-Indo-European root steh₂- ("**to stand**").
 >
 >The PIE root steh₂- is extraordinarily productive in both Greek and Latin, giving English words like **stand, stable, station, static, status, substance, and system**.
->As a medical suffix, [[-stasis]] entered English via New Latin medical coinage, first broadly appearing in the 18th–19th centuries.
+>As a medical suffix, [[-stasis]] entered English via New Latin medical coinage, first broadly appearing in the 18th-19th centuries.
 > ***
 > 
 >**Root Breakdown**

@@ -16,6 +16,7 @@ definition:
   - pertaining to
   - located in
 ---
+
 >[!Note] DEFINITION of [[-an]]
 >Forms adjectives: pertaining to, located in; **-an** is a nominal and adjectival suffix used extensively in medical terminology to form words that indicate **relationship, association, or pertaining to a specific anatomical structure, body part, organ system, condition, or medical concept**. It transforms root words (**typically from Latin or Greek origins**) into adjectives or nouns that describe something connected to or characteristic of the base term. This suffix is particularly common in anatomical terminology, where it designates structures, regions, or characteristics associated with specific body parts or physiological systems.
 _____

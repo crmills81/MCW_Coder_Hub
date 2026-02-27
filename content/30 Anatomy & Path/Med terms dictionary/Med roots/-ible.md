@@ -1,7 +1,8 @@
 ---
 tags:
   - medroot
-aliases: []
+aliases:
+  - -able
 roots:
   - -ible
 forms:

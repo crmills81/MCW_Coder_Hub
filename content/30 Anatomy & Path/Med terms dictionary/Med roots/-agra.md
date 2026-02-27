@@ -2,11 +2,14 @@
 tags:
   - medroot
   - medterm
-aliases: []
+aliases:
+  - alg-
 roots:
   - -agra
 forms:
   - combining
+  - suffix form
+  - compound suffix form
 "alphabet:": A
 definition:
   - pain
@@ -17,7 +20,7 @@ definition:
 >
 The distinction between **-agra** and other pain suffixes is important. While **-algia** refers broadly to pain of any character or intensity in a region, **-agra** carries the connotation of a sudden _attack_ or _seizure_ of pain — reflecting an acute, episodic, and often excruciating quality. This nuance is rooted in its earliest and most famous application in the word _podagra_ (**gout of the foot**), which Hippocrates described as one of the most painful conditions known to medicine. The suffix was subsequently extended to describe similarly acute pain presentations in other anatomical locations.
 >
-In the context of inpatient coding, conditions carrying the **-agra** suffix often map to inflammatory arthropathy categories in ICD-10-CM (**particularly the M10–M11 range for gout and crystal arthropathies**) or to acute pain diagnoses depending on etiology and documentation. Recognizing the suffix helps the coder understand the clinical urgency and acuity implied in physician documentation, which can support medical necessity and severity of illness determinations.
+In the context of inpatient coding, conditions carrying the **-agra** suffix often map to inflammatory arthropathy categories in ICD-10-CM (**particularly the M10-M11 range for gout and crystal arthropathies**) or to acute pain diagnoses depending on etiology and documentation. Recognizing the suffix helps the coder understand the clinical urgency and acuity implied in physician documentation, which can support medical necessity and severity of illness determinations.
 >
 In urology, **gonagra** (knee) and **chiragra** (*hand/wrist*) may appear incidentally, but more relevant is the strong association between **-agra** conditions like gout (_podagra_) and uric acid nephrolithiasis — a direct urological complication of hyperuricemia that frequently drives inpatient admissions and requires precise ICD-10-CM coding of both the gouty arthropathy and the associated [[calculus]].
 _____
@@ -26,13 +29,9 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-agra]]
 > 
-| [[-agra]] | pain | gout |
-|:---------:|:----:|:----:|
-| [[alg-]]  | YES  |  -   |
-| [[odyn-]] | YES  |  -   |
->**Related Terms**
->
->- **Podagra** — acute gout/seizure of pain in the foot (most classic usage; from Greek _pous/podos_, foot); maps to ICD-10-CM **M10.071–M10.072** (gout of ankle and foot)
+>-  [[alg-]] - pain
+>-  [[odyn-]] - pain
+>- **Podagra** — acute gout/seizure of pain in the foot (most classic usage; from Greek _pous/podos_, foot); maps to ICD-10-CM **M10.071-M10.072** (gout of ankle and foot)
 >- **Chiragra** — acute seizure of pain in the hand or wrist (from Greek _cheir_, hand)
 >- **Gonagra** — acute seizure of pain in the knee (from Greek _gony_, knee)
 >- **Meragra** — acute seizure of pain in the thigh (from Greek _meros_, thigh)
@@ -44,7 +43,7 @@ _____
 >- **[[-algia]]** — broader pain suffix for comparison (e.g., _arthralgia_, _[[neuralgia]]_)
 >- **[[-dynia]]** — pain suffix with more chronic/functional connotation (e.g., _vulvodynia_, _coccydynia_)
 >- **Arthropathy** — general term for joint disease; the disease category under which most **-agra** conditions are coded in ICD-10-CM
->- **Crystal arthropathy** — ICD-10-CM category M10–M11; the primary coding home for gout and related **-agra** conditions
+>- **Crystal arthropathy** — ICD-10-CM category M10-M11; the primary coding home for gout and related **-agra** conditions
 >
 
 _____

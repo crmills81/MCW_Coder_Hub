@@ -24,7 +24,7 @@ definition:
 _____
 >[!info]+ ETYMOLOGY of [[dysuria]]
 >#greek
->- First recorded in English **1350–1400**, making it one of the older medical terms in use.​
+>- First recorded in English **1350-1400**, making it one of the older medical terms in use.​
 >    
 >- From **New Latin _dysuria_**, from **Greek _δυσουρία_ (_dysouria_)**, from:
 >   

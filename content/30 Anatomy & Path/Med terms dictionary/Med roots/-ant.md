@@ -1,12 +1,15 @@
 ---
 tags:
   - medroot
+  - medterm
 aliases:
   - -ent
 roots:
   - -ant
 forms:
   - suffix
+  - suffixes
+  - compound suffix form
 "alphabet:": A
 definition:
   - "'forms present participle'"
@@ -27,10 +30,8 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-ant]]
 >
-| [[-ant]]  | pp  | person/thing that does something |
-|:---------:|:---:|:--------------------------------:|
-| [[-ent]]  | YES |               YES                |
-| [[-ient]] | YES |               YES                |
+[[-ent]]             
+[[-ient]]              
 >
 >**Related Terms**
 >
