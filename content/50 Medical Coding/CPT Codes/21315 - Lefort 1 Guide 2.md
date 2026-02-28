@@ -1,4 +1,40 @@
-# 🩺CPT Code 21315: Documentation & Billing Guide
+---
+tags:
+  - CPT
+  - ENT
+  - NasalFracture
+  - ClosedTreatment
+  - Musculoskeletal
+  - Trauma
+  - ProfeeCoding
+short_definition: Closed Treatment of Nasal Fracture without Stabilization
+aliases:
+  - "21315"
+  - Closed Nasal Fracture without Stabilization
+  - Nasal Fracture Closed No Stab
+code_type: CPT
+code_number: "21315"
+category: Fracture and/or Dislocation Procedures on the Nose
+subsection: Musculoskeletal System Head
+specialty:
+  - Otolaryngology ENT
+  - Plastic Surgery
+  - Emergency Medicine
+  - Facial Plastic Surgery
+global_period: "090"
+bilateral: "0"
+assistant_payable: false
+multiple_procedure_reduction: "2"
+wRVU: 2.58
+conversion_factor_2025: 32.3465
+fracture_treatment_type: Closed
+stabilization: false
+created: 2026-02-27
+updated: 2026-02-27
+---
+
+
+## 🩺CPT Code 21315: Documentation & Billing Guide
 ## Osteotomy, Maxilla, with Synchronous Repositioning of Segments and Soft Tissues (LeFort I)
 
 **Last Updated:** February 2026  
@@ -8,26 +44,26 @@
 
 ## QUICK REFERENCE
 
-| Element | Details |
-|---------|---------|
-| **Code** | 21315 |
-| **Code Type** | Surgical Procedure - Maxillofacial/Orthognathic Surgery |
-| **Procedure Type** | LeFort I maxillary osteotomy with maxillary repositioning |
-| **Global Period** | 090 days (major surgical procedure) |
-| **Work RVU (2025)** | 7.46 RVU |
-| **Practice Expense RVU (2025, Non-Facility)** | 3.89 RVU |
-| **Practice Expense RVU (2025, Facility)** | 2.58 RVU |
-| **Malpractice RVU (2025)** | 0.82 RVU |
-| **Total RVU (2025, Non-Facility)** | 12.17 RVU |
-| **Total RVU (2025, Facility)** | 10.86 RVU |
-| **2025 Medicare Fee (Non-Facility)** | ~$393.75 (12.17 RVU × $32.3465 CF × GPCI) |
-| **2025 Medicare Fee (Facility)** | ~$351.23 (10.86 RVU × $32.3465 CF × GPCI) |
-| **Conversion Factor (2025)** | $32.3465 |
-| **Estimated Commercial Insurance** | $1,200 - 2,000 |
-| **Global Period Includes** | Pre-operative visits, surgery, post-operative visits (90 days) |
-| **Common Place of Service** | Hospital inpatient (21), Hospital outpatient (22), ASC (24) |
-| **Specialty** | Oral & Maxillofacial Surgery, Plastic Surgery, Orthodontics (surgical component) |
-| **Surgical Time** | Typically 2-3 hours |
+| Element                                       | Details                                                                          |
+| --------------------------------------------- | -------------------------------------------------------------------------------- |
+| **Code**                                      | **21315**                                                                        |
+| **Code Type**                                 | Surgical Procedure - Maxillofacial/Orthognathic Surgery                          |
+| **Procedure Type**                            | LeFort I maxillary osteotomy with maxillary repositioning                        |
+| **Global Period**                             | **090 days (major surgical procedure)**                                          |
+| **Work RVU (2025)**                           | 7.46 RVU                                                                         |
+| **Practice Expense RVU (2025, Non-Facility)** | 3.89 RVU                                                                         |
+| **Practice Expense RVU (2025, Facility)**     | 2.58 RVU                                                                         |
+| **Malpractice RVU (2025)**                    | 0.82 RVU                                                                         |
+| **Total RVU (2025, Non-Facility)**            | 12.17 RVU                                                                        |
+| **Total RVU (2025, Facility)**                | 10.86 RVU                                                                        |
+| **2025 Medicare Fee (Non-Facility)**          | ~$393.75 (12.17 RVU × $32.3465 CF × GPCI)                                        |
+| **2025 Medicare Fee (Facility)**              | ~$351.23 (10.86 RVU × $32.3465 CF × GPCI)                                        |
+| **Conversion Factor (2025)**                  | $32.3465                                                                         |
+| **Estimated Commercial Insurance**            | $1,200 - 2,000                                                                   |
+| **Global Period Includes**                    | Pre-operative visits, surgery, post-operative visits (90 days)                   |
+| **Common Place of Service**                   | Hospital inpatient (21), Hospital outpatient (22), ASC (24)                      |
+| **Specialty**                                 | Oral & Maxillofacial Surgery, Plastic Surgery, Orthodontics (surgical component) |
+| **Surgical Time**                             | Typically 2-3 hours                                                              |
 
 ---
 
