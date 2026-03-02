@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# give me short and long definitions, codes, etymology, related terms, and any other details you can give me about the medical keyword, ureteral obstruction create a markdown file.
-
-Based on the search results, here is a comprehensive markdown file about ureteral obstruction:
-
 ***
 
 # URETERAL OBSTRUCTION - Medical Keyword Reference

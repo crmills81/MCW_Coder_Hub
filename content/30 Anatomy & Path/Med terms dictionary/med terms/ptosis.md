@@ -44,7 +44,7 @@ _____
 >#greek _Ptosis_ comes from Greek _**ptōsis**_, literally “*a falling/a fall*,” from a verb meaning “*to fall.*”​  
 In medical word-building lists, _[[-ptosis]]_ is explicitly glossed as “*falling, drooping, downward placement, prolapse*,” reflecting that original sense.
 _____
->[!tip]+ DERIVATIONS of [[ptosis]]
+>[!tip]- DERIVATIONS of [[ptosis]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

@@ -30,7 +30,7 @@ _____
 >- [[Urethroscopy]]
 >- [[hematuria]]
 _____
->[!tip]+ DERIVATIONS of [[cystoscopy]]
+>[!tip]- DERIVATIONS of [[cystoscopy]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

@@ -34,7 +34,7 @@ _____
 >[!info]+ ETYMOLOGY of **[[cystitis]]**
 >#greek From Greek _kystis_ (κύστις, "bladder") + _[[-itis]]_ ("**inflammation**"), first used in 1774. Interstitial **[[cystitis]]** traces to 1808 descriptions by Philip Syng Physick of bladder inflammation without stones.
 _____
->[!tip]+ DERIVATIONS of **[[cystitis]]**
+>[!tip]- DERIVATIONS of **[[cystitis]]**
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

@@ -25,7 +25,7 @@ _____
 >[!info]+ ETYMOLOGY of [[Ophthalmology]]
 >#greek From Greek "*ophthalmos*" (ὀφθαλμός, **eye**) + "[[-logia]]" (-λογία, *study/discourse*), literally "**the study of eyes**."
 _____
->[!tip]+ DERIVATIONS of [[Ophthalmology]]
+>[!tip]- DERIVATIONS of [[Ophthalmology]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

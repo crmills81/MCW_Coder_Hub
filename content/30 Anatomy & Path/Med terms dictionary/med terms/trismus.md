@@ -31,7 +31,7 @@ _____
 >[!info]+ ETYMOLOGY of [[trismus]]
 >#greek The term derives from Greek _trismos_ (τρισμός), meaning "*a scream, grinding, or gnashing of teeth,*" akin to _trizein_ "*to squeak or gnash*," entered English via New #latin around 1693 to denote tetanus-related lockjaw
 _____
->[!tip]+ DERIVATIONS of [[trismus]]
+>[!tip]- DERIVATIONS of [[trismus]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

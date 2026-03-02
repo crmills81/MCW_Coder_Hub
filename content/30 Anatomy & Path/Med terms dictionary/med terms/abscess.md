@@ -1,6 +1,7 @@
 ---
 tags:
   - medterm
+  - medroot
 aliases:
   - abscesses
 roots:
@@ -164,8 +165,6 @@ ______
 > - **Primary:** **Incision and Drainage (I&D)**. Antibiotics alone are often ineffective because they cannot penetrate the abscess wall and are neutralized by the pH of the pus.
 > - **Adjunctive:** Antibiotics (if systemic symptoms, cellulitis, or immunocompromised status exists).
 > - **Packing:** The wound is often left open or packed with gauze to allow it to heal from the inside out (secondary intention) to prevent recurrence.
-
-
 
 
 [[Med roots]]

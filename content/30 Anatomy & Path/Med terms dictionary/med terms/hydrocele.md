@@ -19,7 +19,7 @@ _____
 >- Breakdown: **ὕδωρ (_húdōr_)** ("water") + **κήλη (_kḗlē_)** ("hernia, tumor, swelling").[](https://ozgurkilickesmez.com/en/what-is-hydrocele-what-causes-it-what-are-the-treatment-methods/)
 >- Literally **"water hernia"** or **"water swelling,"** reflecting the fluid-filled sac appearance; described since ancient times (Hippocrates).
 _____
->[!tip]+ DERIVATIONS of  [[hydrocele]]
+>[!tip]- DERIVATIONS of  [[hydrocele]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot
@@ -35,5 +35,9 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]
 

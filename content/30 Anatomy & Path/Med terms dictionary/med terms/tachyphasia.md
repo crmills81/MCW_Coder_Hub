@@ -22,7 +22,7 @@ ___
 >[!info]+ Etymology of [[tachyphasia]]
 >The term "[[tachyphasia]]" originates from #greek words, combining "**tachys**" (**swift**) and "**phasis**" (**speech**), with **"phasis" itself derived from "phanai" (to speak)**. It is also known as tachyphresia and describes excessive volubility with rapid, pressured speech, often associated with conditions like **manic episodes of bipolar disorder** and **some cases of schizophrenia.**
 _____
->[!tip]+ DERIVATIONS of [[tachyphasia]]
+>[!tip]- DERIVATIONS of [[tachyphasia]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

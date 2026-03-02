@@ -34,7 +34,7 @@ _____
 >[!info]+ ETYMOLOGY of [[macular]]
 >#latin “[[macular]]” is formed from Latin _[[macula]]_ meaning “**spot, stain**” plus the adjectival suffix _[[‑ar]]_ “**pertaining to.**” The base noun _[[macula]]_ has been used in English since about the 15th century for spots or blotches, especially on the skin or eye. In ophthalmic usage, _macula lutea_ (“*yellow spot*”) appears in the 19th century for the central retinal area opposite the pupil where vision is most distinct. The adjective “[[macular]]” is attested by the early 1800s in the sense “**spotted**,” and by the late 1800s specifically as “pertaining to the macula lutea of the eye.”[pmc.ncbi.nlm.nih+2](https://pmc.ncbi.nlm.nih.gov/articles/PMC4177979/)
 _____
->[!tip]+ DERIVATIONS of [[macular]]]]
+>[!tip]- DERIVATIONS of [[macular]]]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

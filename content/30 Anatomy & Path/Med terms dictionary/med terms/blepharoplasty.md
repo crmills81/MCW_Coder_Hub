@@ -54,7 +54,7 @@ _____
 >- **Transconjunctival blepharoplasty / East Asian blepharoplasty:** specific technique/approach variants (e.g., internal lower-lid approach; creation or adjustment of a supratarsal fold in “double eyelid” surgery).
 
 _____
->[!tip]+ DERIVATIONS of [[blepharoplasty]]
+>[!tip]- DERIVATIONS of [[blepharoplasty]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name
@@ -68,4 +68,8 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

@@ -19,7 +19,7 @@ _____
 >- **[[displaced]]**: From Latin _[[dis-]]_ (“apart, in different directions”) + _placere_ (“to place”), giving the sense “moved from its usual or proper place.” 
 >- Together, **nondisplaced** literally means **“not moved out of place.”**
 _____
->[!tip]+ DERIVATIONS of [[nondisplaced]]
+>[!tip]- DERIVATIONS of [[nondisplaced]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot
@@ -35,4 +35,8 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

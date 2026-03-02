@@ -21,7 +21,7 @@ _____
 >- **Protein**: From the Greek _prōteios_, meaning "**primary**" or "first rank."
 >- **[[-uria]]**: A suffix derived from the Greek _ouron_, meaning "urine" or "**condition of the urine**."
 _____
->[!tip]+ DERIVATIONS of [[proteinuria]]
+>[!tip]- DERIVATIONS of [[proteinuria]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

@@ -30,9 +30,29 @@ _____
 >#latin The term is derived from three distinct linguistic roots that describe its nature and location:
 >- **[[Benign]]**: From the Latin _benignus_, meaning "**kind**" or "**favorable**," used in medicine to indicate a condition that is not malignant or cancerous.[](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/benign-prostatic-hyperplasia)​
 >- **[[Prostatic]]**: Derived from the Greek _prostatēs_, meaning "**one who stands before**" (**referring to the gland's position in front of the bladder**), combined with the suffix _[[-ic]]_ meaning "relating to".[](https://en.wikipedia.org/wiki/Benign_prostatic_hyperplasia)​
->- **[[Hyperplasia]]**: Formed from the #Greek _[[hyper-]]_ ("*over*" or "*excessive*") and _[[-plasis]]_ ("*formation*" or "*molding*"), referring specifically to an increase in the number of cells. *[[gene-]]::*genə-, also *[[gen-]], Proto-Indo-European root meaning "give birth, beget," with derivatives referring to procreation and familial and tribal groups.
+>- **[[Hyperplasia]]**: Formed from the #Greek _[[hyper-]]_ ("*over*" or "*excessive*") and _[[-plasis]]_ ("*formation*" or "*molding*"), referring specifically to an increase in the number of cells. [[gene-]]::genə-, also [[gen-]] Proto-Indo-European root meaning "give birth, beget," with derivatives referring to procreation and familial and tribal groups.
 _____
->[!tip]+ DERIVATIONS of [[benign prostatic hyperplasia (BPH)]]
+
+> [!example]+ **Related Terms and Coding**
+> 
+> For professional medical coding, the following terms and ICD-10-CM classifications are essential for accurate documentation:
+> 
+> |Term/Code|Description|
+> |---|---|
+> |**[[N40.0]]**|[[benign prostatic hyperplasia (BPH)]] without lower urinary tract symptoms (LUTS)  |
+> |**[[N40.1]]**|[[benign prostatic hyperplasia (BPH)]] with lower urinary tract symptoms  |
+> |**LUTS**|Lower Urinary Tract Symptoms, the clinical manifestation of BPH  |
+> |**DHT**| Dihydrotestosterone, the primary androgen responsible for prostate growth  |
+> |**TURP**|[[Transurethral]] [[Resection]] of the Prostate, a common surgical treatment for BPH  |
+> |**PSA**| Prostate-Specific Antigen, a blood test used to screen for prostate issues |
+> 
+> - **[[hypertrophy]]**: Often used interchangeably with [[hyperplasia]], but technically refers to an increase in cell size rather than cell number.
+>     
+> - **[[Prostatism]]**: An older clinical term used to describe the symptoms associated with an enlarged prostate.
+>     
+> - **Detrusor Overactivity**: A condition where the bladder muscle contracts involuntarily, often secondary to chronic BPH obstruction.
+____
+>[!tip]- DERIVATIONS of [[benign prostatic hyperplasia (BPH)]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
@@ -47,25 +67,6 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-
-## Related Terms and Coding
-
-For professional medical coding, the following terms and ICD-10-CM classifications are essential for accurate documentation:
-
-|Term/Code|Description|
-|---|---|
-|**[[N40.0]]**|[[benign prostatic hyperplasia (BPH)]] without lower urinary tract symptoms (LUTS) [](https://imedclaims.com/icd-10-code-for-benign-prostatic-hyperplasia-bph/).|
-|**[[N40.1]]**|[[benign prostatic hyperplasia (BPH)]] with lower urinary tract symptoms [](https://imedclaims.com/icd-10-code-for-benign-prostatic-hyperplasia-bph/).|
-|**LUTS**|Lower Urinary Tract Symptoms, the clinical manifestation of BPH [](https://www.ncbi.nlm.nih.gov/books/NBK558920/).|
-|**DHT**|Dihydrotestosterone, the primary androgen responsible for prostate growth [](https://www.yalemedicine.org/conditions/enlarged-prostate-benign-prostatic-hyperplasia-bph)​.|
-|**TURP**|Transurethral Resection of the Prostate, a common surgical treatment for BPH [](https://www.laiic.com/blogs/laiichouse-radiology-blog/what-is-benign-prostatic-hyperplasia-bph-anyways)​.|
-|**PSA**|Prostate-Specific Antigen, a blood test used to screen for prostate issues [](https://imedclaims.com/icd-10-code-for-benign-prostatic-hyperplasia-bph/)​.|
-
-- **[[hypertrophy]]**: Often used interchangeably with hyperplasia, but technically refers to an increase in cell size rather than cell number.[](https://emedicine.medscape.com/article/437359-overview)
-    
-- **Prostatism**: An older clinical term used to describe the symptoms associated with an enlarged prostate.
-    
-- **Detrusor Overactivity**: A condition where the bladder muscle contracts involuntarily, often secondary to chronic BPH obstruction.[](https://www.ncbi.nlm.nih.gov/books/NBK558920/)
 
 [[Med roots]]
 [[Appendix A Prefixes]]

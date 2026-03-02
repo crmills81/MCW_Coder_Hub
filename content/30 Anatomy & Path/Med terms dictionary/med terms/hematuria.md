@@ -43,16 +43,16 @@ forms:
 >- **Global Period:** XXX
 ___
 >[!info]+ Etymology of [[hematuria]]
->_Hematuria_ is built from #greek roots: “**haima**” (**blood**) + “*ouron*/[[-uria]]” (**urine/urination**).[](https://int.livhospital.com/frank-hematuria-understanding-blood-in-urine/)​  
+>_Hematuria_ is built from #greek roots: “**haima**” (**blood**) + “*ouron*/[[-uria]]” (**urine/urination**). 
 >In word-part terms used in med terminology, it’s essentially [[hemat-]]/[[hem-]] (**blood**) + [[-uria]] (**urine condition**).
 ___
 >[!note]+ Related terms]
->- **[[Microhematuria]] / microscopic [[hematuria]]:** small amounts of blood in urine not visible to the eye.[](https://en.wikipedia.org/wiki/Microhematuria)​
->- **[[Gross hematuria]]:** visible blood/discoloration in urine.[](https://www.niddk.nih.gov/health-information/urologic-diseases/hematuria-blood-urine)​
+>- **[[Microhematuria]] / microscopic [[hematuria]]:** small amounts of blood in urine not visible to the eye.​
+>- **[[Gross hematuria]]:** visible blood/discoloration in urine.
 >- **Red urine ≠ [[hematuria]] (look-alikes):** discoloration can also come from hemoglobin, myoglobin, porphyrins, some drugs, or foods (e.g., beets), so confirmation is typically by [[urinalysis]]/microscopy.
 
 _____
->[!tip]+ DERIVATIONS of [[hematuria]]
+>[!tip]- DERIVATIONS of [[hematuria]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

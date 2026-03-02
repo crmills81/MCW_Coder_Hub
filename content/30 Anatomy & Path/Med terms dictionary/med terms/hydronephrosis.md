@@ -24,7 +24,7 @@ _____
 >[!info]+ ETYMOLOGY of [[hydronephrosis]]
 >#greek- From Greek _hydr-_ (ὕδωρ, "**water**") + _nephros_ (νεφρός, "**kidney**") + _[[-osis]]_ ("**condition, state**"), literally "**watery kidney swelling,**" coined in the 19th century for pathological dilation.[](https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes)
 _____
->[!tip]+ DERIVATIONS of [[hydronephrosis]]
+>[!tip]- DERIVATIONS of [[hydronephrosis]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

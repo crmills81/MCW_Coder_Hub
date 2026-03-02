@@ -26,11 +26,9 @@ _____
 >[!info]+ ETYMOLOGY of [[vitreoretinal]]
 >#latin A modern compound combining form built from two Latin-origin roots: [[vitreo-]] : from Latin **vitreus** ("**glassy, glass-like**"), from **vitrum** ("**glass**"), describing the clear, glass-like gel of the [[vitreous]] humor. 
 >**retinal**: from Medieval Latin [[retina]], believed to derive from Latin rete ("**net**"), describing the net-like appearance of the retinal blood vessels. The compound [[vitreoretinal]] is a 20th-century clinical coinage linking these two anatomical structures as a functional and surgical unit.
-
 _____
 
-
-> [!caution] RELATED TERMS
+> [!caution]+ RELATED TERMS
 > **[[Vitrectomy]]**: Surgical removal of vitreous gel, the hallmark vitreoretinal procedure. 
 > **[[Vitreoretinopathy]]**: Disease of the vitreous and retina (e.g., proliferative vitreoretinopathy/PVR). 
 > **[[Retinal detachment]]**: Separation of the retina from the underlying RPE; a key vitreoretinal emergency. 

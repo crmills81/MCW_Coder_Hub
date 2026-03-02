@@ -32,7 +32,7 @@ _____
 >[!info]+ ETYMOLOGY of [[mandible]]
 >#latin “**[[mandible]]**” derives from Late Latin _mandibula_ “**jaw**,” from Latin _mandere_ “**to chew**,” possibly from Proto-Indo-European _mendh-_ “**to chew**” (also source of Greek _mastax_ “**mouth, morsel**”).
 _____
->[!tip]+ DERIVATIONS of [[mandible]]
+>[!tip]- DERIVATIONS of [[mandible]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

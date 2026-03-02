@@ -23,7 +23,7 @@ _____
 >Pharyngitis
 >[[Peritonsillar]]
 _____
->[!tip]+ DERIVATIONS of [[tonsillectomy]]
+>[!tip]- DERIVATIONS of [[tonsillectomy]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

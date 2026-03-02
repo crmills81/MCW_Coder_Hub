@@ -19,5 +19,28 @@ forms:
 >[[per-]][[tuss-]][[-is]] - whooping cough (thorough cough) per·tus·sis /pərˈtəsəs/
 ___
 >[!info]+ Etymology of [[pertussis]]
->late 18th century: modern Latin, from [per-](https://www.google.com/search?num=10&newwindow=1&sca_esv=c03ec876592c9bde&sxsrf=ANbL-n5TzUXusCsuY0S7DuY7ncgLcByHCw:1768789766612&q=per-&si=AL3DRZGGlSGqtKsw-WkD4rNX0DfBL2oTi3lbyM-mQYxseyKKlSTx8rLdwoUqXqYEbuAV8aAw4f4lOjGdWFoLGU_Ex8JitdLRsA%3D%3D&expnd=1&sa=X&ved=2ahUKEwjXneKtx5aSAxXFE1kFHZSCLhoQgCt6BAgWEBA) ‘away, extremely’ + Latin _tussis_ ‘a cough’.
+>late 18th century: modern Latin, from [per-] ‘away, extremely’ + Latin _tussis_ ‘a cough’.
+
+_____
+>[!tip]- DERIVATIONS of [[]]
+>```dataview
+>TABLE definition AS Definition
+>FROM #medterm 
+>WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
+>SORT file.name ASC
+>```
+_____
+>[!faq]- Query functionality
+>```dataview
+>TABLE definition AS Definition
+>FROM #medterm 
+>WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>```
+
+
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]
 

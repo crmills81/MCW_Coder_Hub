@@ -18,11 +18,11 @@ forms:
 >[[ur-]]o[[-cel-]][[-e]] - accumulation of urine (fluid) in scrotum (urine swelling) A [[urocele]], also known as a **[[uroscheocele]]**, occurs when urine leaks (extravasates) from the urinary tract into the surrounding scrotal tissues. This is typically a secondary condition resulting from trauma, severe infection, or a rupture in the urethra that allows urine to bypass its normal channel and collect in the tunica vaginalis or scrotal wall. Unlike a **common [[hydrocele]]**, which contains serous fluid, a [[urocele]] specifically contains urine and often requires immediate medical intervention to prevent tissue [[necrosis]] or infection.
 ___
 >[!info]+ ETYMOLOGY of [[urocele]]
->#greek The word is formed from two Greek-derived components:[](https://nursing.unboundmedicine.com/nursingcentral/view/Tabers-Dictionary/771037/0/urocele)
->- **[[uro-]]**: Derived from the Greek _oûron_, meaning "urine" or "**urinary tract**".[](https://www.urologynews.uk.com/features/history-of-urology/post/urological-etymology)
+>#greek The word is formed from two Greek-derived components:
+>- **[[uro-]]**: Derived from the Greek _oûron_, meaning "urine" or "**urinary tract**".
 >- **[[-cele]]**: Derived from the Greek _kēlē_, meaning "tumor," "**hernia**," or "**swelling**".
 _____
->[!tip]+ DERIVATIONS of [[urocele]]
+>[!tip]- DERIVATIONS of [[urocele]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

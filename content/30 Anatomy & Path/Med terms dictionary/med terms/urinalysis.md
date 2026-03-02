@@ -20,9 +20,9 @@ definition:
 >The test includes macroscopic checks for color (*yellow from urochrome, changes indicate dehydration or blood*), clarity (cloudy suggests infection), odor, and specific gravity (1.003-1.035 normal); **dipstick for pH (5-7), glucose, ketones, protein, blood, leukocytes, nitrite, bilirubin, urobilinogen; microscopy for RBCs, WBCs, epithelial cells, casts, crystals, bacteria**. Used for UTI diagnosis, [[hematuria]] evaluation, [[proteinuria]] screening in pregnancy, and monitoring diabetes or kidney function.
 _____
 >[!info]+ ETYMOLOGY of [[urinalysis]]
->#latin From "**urine**" (Latin _urina_, from PIE _ur-_, "water, liquid") + "analysis" (Greek _análysis_, "breaking up"); coined 1889, evolving from ancient [[uroscopy]] around 6000 years ago.[](https://www.ncbi.nlm.nih.gov/books/NBK557685/)
+>#latin From "**urine**" (Latin _urina_, from PIE _ur-_, "water, liquid") + "analysis" (Greek _análysis_, "breaking up"); coined 1889, evolving from ancient [[uroscopy]] around 6000 years ago.
 _____
->[!tip]+ DERIVATIONS of [[urinalysis]]
+>[!tip]- DERIVATIONS of [[urinalysis]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

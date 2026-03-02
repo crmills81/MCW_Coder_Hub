@@ -29,18 +29,18 @@ definition:
 >	- **[[N10]] - Acute [[pyelonephritis]]:** Used when the infection has reached the kidneys (often presenting with flank pain and fever).
 _____
 >[!info]+ ETYMOLOGY of [[urinary tract infection (UTI)]]
->#latin _Urinary_ (“of or pertaining to urine”) traces back to Latin _urina_ (“**urine**”).[](https://www.etymonline.com/word/urinary)​  
-_Tract_ comes from Latin _tractus_ (“course, passage”), from _trahere_ (“**to pull/draw**”), which fits the idea of a bodily “passage.”[](https://www.etymonline.com/word/tract)​  
+>#latin _Urinary_ (“of or pertaining to urine”) traces back to Latin _urina_ (“**urine**”).​  
+_Tract_ comes from Latin _tractus_ (“course, passage”), from _trahere_ (“**to pull/draw**”), which fits the idea of a bodily “passage.” 
 _Infection_ comes from Late Latin _infectionem_/_infectio_, from Latin _inficere_ (“**to spoil, stain**”).
 
 _____
 >[!info]+ RELATED TERMS
->- **[[Cystitis]]:** **bladder infection**; people often use “**UTI**” to mean cystitis specifically.[](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-infection-uti-in-adults)
->- **[[Pyelonephritis]]:** **kidney infection** (an upper-tract **UTI**), often arising when a lower-tract infection spreads upward.[](https://www.niddk.nih.gov/health-information/urologic-diseases/kidney-infection-pyelonephritis/definition-facts)​
+>- **[[Cystitis]]:** **bladder infection**; people often use “**UTI**” to mean cystitis specifically.
+>- **[[Pyelonephritis]]:** **kidney infection** (an upper-tract **UTI**), often arising when a lower-tract infection spreads upward.​
 >- **[[Urethritis]]** (urethra infection) and **CAUTI** ([[catheter]]-associated UTI) are common related labels depending on the site/cause.
 
 _____
->[!tip]+ DERIVATIONS of [[urinary tract infection (UTI)]]
+>[!tip]- DERIVATIONS of [[urinary tract infection (UTI)]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

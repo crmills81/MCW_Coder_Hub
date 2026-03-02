@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # DYSPHAGIA - Medical Keyword Reference
 
 **[[Dysphagia]]** is difficulty swallowing food or liquids, representing an abnormal delay in movement of a food bolus from the oropharynx to the stomach.[^1][^2][^5]
@@ -12,7 +10,7 @@
 **Dysphagia** is **difficulty or inability to swallow** solids, liquids, or both due to impaired [[oropharyngeal]] or [[esophageal]] function.[^2][^5][^1]
 
 **Long definition**
-**Dysphagia** is **an abnormal delay in the movement of a food bolus from the mouth to the stomach, classified as oropharyngeal (difficulty initiating swallow from weakened throat muscles or neurological problems) or esophageal (difficulty moving food through the esophagus from blockages, strictures, motility disorders, or extrinsic compression)**; causes include neurological disorders (stroke, [[Parkinson's]]), structural abnormalities ([[strictures]], tumors, [[achalasia]], Zenker [[diverticulum]]), inflammatory conditions ([[GERD]], [[eosinophilic]] [[esophagitis]]), and muscular conditions ([[scleroderma]]); complications include aspiration [[pneumonia]], malnutrition, [[dehydration]], and weight loss, requiring multidisciplinary diagnostic evaluation and treatment.[^3][^4][^5][^1][^2]
+**Dysphagia** is **an abnormal delay in the movement of a food bolus from the mouth to the stomach, classified as oropharyngeal (difficulty initiating swallow from weakened throat muscles or neurological problems) or esophageal (difficulty moving food through the esophagus from blockages, strictures, motility disorders, or extrinsic compression)**; causes include neurological disorders (stroke, [[Parkinson's]]), structural abnormalities ([[strictures]], tumors, [[achalasia]], Zenker [[diverticulum]]), inflammatory conditions ([[GERD]], [[eosinophilic]] [[esophagitis]]), and muscular conditions ([[scleroderma]]); complications include aspiration [[pneumonia]], malnutrition, [[dehydration]], and weight loss, requiring multidisciplinary diagnostic evaluation and treatment.
 
 ***
 
@@ -28,7 +26,7 @@
 
 | Type | Location/Phase | Characteristics |
 | :-- | :-- | :-- |
-| **[[Oropharyngeal dysphagia]]** | Mouth/throat (oral \& pharyngeal phases) | Difficulty initiating swallow; choking, coughing, nasal regurgitation; weak throat muscles; neurological causes.[^2][^4] |
+| **[[Oropharyngeal dysphagia]]** | Mouth/throat (oral  & pharyngeal phases) | Difficulty initiating swallow; choking, coughing, nasal regurgitation; weak throat muscles; neurological causes.[^2][^4] |
 | **[[Esophageal dysphagia]]** | Esophagus (esophageal phase) | Food stuck in chest; sensation after swallowing initiated; structural or motility problems.[^2][^4][^5] |
 
 
@@ -179,25 +177,9 @@
 
 **Document created:** February 13, 2026
 **Medical coding professional reference**
-<span style="display:none">[^8][^9]</span>
 
-<div align="center">⁂</div>
-
-[^1]: https://www.uofmhealth.org/our-care/specialties-services/dysphagia-difficulty-swallowing
-
-[^2]: https://www.mayoclinic.org/diseases-conditions/dysphagia/symptoms-causes/syc-20372028
-
-[^3]: https://my.clevelandclinic.org/health/symptoms/21195-dysphagia-difficulty-swallowing
-
-[^4]: https://www.nyp.org/digestive/dysphagia
-
-[^5]: https://pmc.ncbi.nlm.nih.gov/articles/PMC6140149/
-
-[^6]: https://www.chop.edu/conditions-diseases/dysphagia
-
-[^7]: https://www.medicalnewstoday.com/articles/177473
-
-[^8]: https://medlineplus.gov/swallowingdisorders.html
-
-[^9]: https://gastroassociates.com/understanding-difficulty-swallowing-esophageal-dysphagia-explained/
-
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

@@ -27,7 +27,7 @@ _____
 >[!info]+ ETYMOLOGY of [[photopsia]]
 >#greek  [[photopsia]] refers to subjective visual sensations of light—**described as streaks, zigzags, lightning‑like flashes, sparkles, or camera‑flash bursts**—that occur in the visual field without external illumination. Mechanically or electrically triggered activity in the retina or visual pathways (for example, [[vitreoretinal]] traction in posterior vitreous detachment) causes retinal cells to fire, which the brain interprets as light. Common associations include **posterior vitreous detachment**, retinal tears or detachment, migraine aura (with or without headache), occipital lobe [[ischemia]], optic neuritis, and age‑related macular degeneration. New‑onset or sudden increase in photopsias, especially with floaters or a curtain over vision, is an ophthalmic urgency due to the risk of retinal break or detachment.
 _____
->[!tip]+ DERIVATIONS of [[photopsia]]
+>[!tip]- DERIVATIONS of [[photopsia]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

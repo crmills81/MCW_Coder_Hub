@@ -29,7 +29,7 @@ _____
 >	- _Rhegnunai_: "**To break**" or "**burst**"
 >	- Combined, it literally means a "**bursting forth of blood**".
 _____
->[!tip]+ DERIVATIONS of [[vitreous hemorrhage]]
+>[!tip]- DERIVATIONS of [[vitreous hemorrhage]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
@@ -48,17 +48,17 @@ _____
 
 |Term|Definition|
 |---|---|
-|**[[Posterior Vitreous Detachment (PVD)]]**|Separation of the [[vitreous gel]] from the [[retina]]; a common mechanical cause of VH [](https://www.ncbi.nlm.nih.gov/books/NBK559131/)​.|
-|**[[Neovascularization]]**|Growth of new, fragile blood vessels (often due to diabetes) that are prone to leaking into the vitreous [](https://eyewiki.org/Vitreous_Hemorrhage)​.|
-|**[[Terson Syndrome]]**|[[vitreous hemorrhage]] occurring in association with a [[subarachnoid]] hemorrhage (intracranial bleed) [](https://pmc.ncbi.nlm.nih.gov/articles/PMC10155538/)​.|
-|**[[Ghost Cell Glaucoma]]**|A complication where degenerated red blood cells (rigid "[[ghost cells]]") block the trabecular meshwork, raising intraocular pressure [](https://pmc.ncbi.nlm.nih.gov/articles/PMC10155538/)​.|
-|**[[Pars Plana Vitrectomy (PPV)]]**|The surgical procedure to remove the vitreous humor and blood; often required if the blood does not clear spontaneously [](https://eyewiki.org/Vitreous_Hemorrhage)​.|
+|**[[Posterior Vitreous Detachment (PVD)]]**|Separation of the [[vitreous gel]] from the [[retina]]; a common mechanical cause of VH |
+|**[[Neovascularization]]**|Growth of new, fragile blood vessels (often due to diabetes) that are prone to leaking into the vitreous |
+|**[[Terson Syndrome]]**|[[vitreous hemorrhage]] occurring in association with a [[subarachnoid]] hemorrhage (intracranial bleed) |
+|**[[Ghost Cell Glaucoma]]**|A complication where degenerated red blood cells (rigid "[[ghost cells]]") block the trabecular meshwork, raising intraocular pressure  |
+|**[[Pars Plana Vitrectomy (PPV)]]**|The surgical procedure to remove the vitreous humor and blood; often required if the blood does not clear spontaneously |
 
-<br>
+
 
 ## Coder's Corner: ICD-10-CM & CPT
 
-**ICD-10-CM Codes (Category [[H43.11]] - Vitreous Hemorrhage)**[](https://www.outsourcestrategies.com/blog/coding-for-diabetic-retinopathy/)
+**ICD-10-CM Codes (Category [[H43.11]] - Vitreous Hemorrhage)**
 
 - **[[H43.11]]**: Vitreous hemorrhage, right eye
     

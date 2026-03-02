@@ -30,7 +30,7 @@ _____
 >[!info]+ ETYMOLOGY of [[iridotomy]]
 >#greek "[[iridotomy]]" derives from "[[irido-]]" (from Greek _îris_, rainbow, referring to the iris) + "[[-tomy]]" (Greek _tomḗ_, a **cutting, incision**). The term was coined in 1818 by Karl Wilhelm Ulrich Wagner from Greek roots for iris (_îris_) and cut (_tomḗ_).
 _____
->[!tip]+ DERIVATIONS of [[iridotomy]]
+>[!tip]- DERIVATIONS of [[iridotomy]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

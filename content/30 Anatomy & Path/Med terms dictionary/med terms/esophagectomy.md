@@ -60,7 +60,7 @@ _____
 >     
 > - **[[Esophagostomy]]** — surgical creation of an opening in the esophagus (CPT [[43351]])
 >     
-> - **[[Esophagoscopy]]** — visual examination of the esophagus (CPT [[43191]]–[[43229]])
+> - **[[Esophagoscopy]]** — visual examination of the esophagus (CPT [[43191]]-[[43229]])
 >     
 > - **[[Esophagogastrectomy]]** — removal of esophagus + proximal stomach
 >     
@@ -77,7 +77,7 @@ _____
 
 
 > [!warning]+ Coding Corner (CPT)
-> These live in the **43100–43124** range:​
+> These live in the **43100-43124** range:​
 > 
 > | CPT | Description |
 > |---|---|
@@ -261,3 +261,8 @@ _____
 > | **Stricture** | Dysphagia, narrowing | K22.2 |
 > 
 > 
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

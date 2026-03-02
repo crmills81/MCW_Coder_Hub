@@ -26,7 +26,7 @@ _____
 >- _-genic_ (Greek _genes_, "born of" or "produced by").[](https://www.etymonline.com/word/carcinogenic)​
 >- **History:** The term "carcinogen" was first used in 1853, with the adjectival form "carcinogenic" appearing in medical literature by 1926.
 _____
->[!tip]+ **DERIVATIONS** of [[carcinogenic]]
+>[!tip]- **DERIVATIONS** of [[carcinogenic]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

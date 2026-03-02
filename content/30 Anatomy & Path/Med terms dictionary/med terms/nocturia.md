@@ -26,7 +26,7 @@ _____
 >	•	[[-uria]]: Greek *ouron* (οὖρον) = “*urine*.”
 >	•	**Literal**: “Nighttime urination” (*coined 19th century*).
 _____
->[!tip]+ DERIVATIONS of [[nocturia]]
+>[!tip]- DERIVATIONS of [[nocturia]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
@@ -94,18 +94,6 @@ _____
 **One-Sentence Summary**  
 **Nocturia** (R35.1), Latin/Greek “night-urine,” disrupts sleep via [[polyuria]]/OAB/[[apnea]] (≥2x/night severe), doubling fall/fracture risk in elderly; diagnose via voiding diary, treat underlying etiology.[5][2][1][3]
 
-Sources
-[1] Nocturia: Causes, Symptoms, Diagnosis & Treatment https://my.clevelandclinic.org/health/diseases/14510-nocturia
-[2] Nocturia: Symptoms, Diagnosis & Treatment https://www.urologyhealth.org/urology-a-z/n/nocturia
-[3] Nocturia - StatPearls - NCBI Bookshelf https://www.ncbi.nlm.nih.gov/books/NBK518987/
-[4] What Is Nocturia, and What Can I Do About It? https://doctorsparksc.com/news/what-is-nocturia-and-what-can-i-do-about-it
-[5] Nocturia: Frequent Urination at Night - Sleep Foundation https://www.sleepfoundation.org/physical-health/nocturia-or-frequent-unrination-night
-[6] Doctor explains NOCTURIA (peeing at night) - YouTube https://www.youtube.com/watch?v=40KRfzifB3s
-[7] Nocturia Causes, Symptoms, and Treatments - Arkansas Urology https://arkansasurology.com/nocturia/
-[8] Overactive bladder - Symptoms and causes - Mayo Clinic https://www.mayoclinic.org/diseases-conditions/overactive-bladder/symptoms-causes/syc-20355715
-[9] Nocturia A guide to assessment and management - RACGP https://www.racgp.org.au/afp/2012/june/nocturia-a-guide-to-assessment-and-management
-[10] Nocturia | Cedars-Sinai https://www.cedars-sinai.org/health-library/diseases-and-conditions/n/nocturia.html
-[11] Oncology ICD-10 Codes - Cancer Therapy Advisor https://www.cancertherapyadvisor.com/home/tools/oncology-icd10-codes/
 
 
 [[Med roots]]

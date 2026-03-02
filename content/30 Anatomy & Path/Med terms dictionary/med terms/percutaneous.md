@@ -28,7 +28,7 @@ _____
 >	•	**Coined**: 1862 as percutaneus (“**through the skin**”).
 >	•	**Pronunciation**: /ˌpɜr kjuˈteɪ ni əs/ (“per-kyoo-TAY-nee-us”).
 _____
->[!tip]+ DERIVATIONS of [[percutaneous]]
+>[!tip]- DERIVATIONS of [[percutaneous]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
@@ -87,16 +87,6 @@ Embedded in codes:
 **One-Sentence Summary**  
 **Percutaneous** (Latin *per cutem* “**through skin**,” coined 1862), denotes needle-puncture access (ICD-10-PCS approach “3”) for minimally [[invasive]] procedures like PCI or biopsies, contrasting open surgery via Seldinger method.[2][1][3]
 
-Sources
-[1] percutaneous | informedhealth.org https://www.informedhealth.org/glossary/percutaneous.html
-[2] Percutaneous - Etymology, Origin & Meaning https://www.etymonline.com/word/percutaneous
-[3] Percutaneous - Wikipedia https://en.wikipedia.org/wiki/Percutaneous
-[4] PERCUTANEOUS Definition & Meaning - Dictionary.com https://www.dictionary.com/browse/percutaneous
-[5] PERCUTANEOUS Definition & Meaning - Merriam-Webster https://www.merriam-webster.com/dictionary/percutaneous
-[6] Cardiac Catheterization Coding in ICD-10-PCS https://hiacode.com/blog/education/cardiac-catheterization-coding-in-icd-10-pcs
-[7] Oncology ICD-10 Codes - Cancer Therapy Advisor https://www.cancertherapyadvisor.com/home/tools/oncology-icd10-codes/
-[8] percutaneous - Wiktionary, the free dictionary https://en.wiktionary.org/wiki/percutaneous
-[9] Define the following medical term: Percutaneous https://homework.study.com/explanation/define-the-following-medical-term-percutaneous.html
 
 
 [[Med roots]]

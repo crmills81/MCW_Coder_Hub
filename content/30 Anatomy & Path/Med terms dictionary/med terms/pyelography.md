@@ -30,7 +30,7 @@ _____
 >	•	[[-graphy]]: Greek *graphḗ* = “**writing, recording**.”
 >	•	**Literal**: “**Basin imaging**” (*coined early 20th century with iodinated contrast*).
 _____
->[!tip]+ DERIVATIONS of [[pyelography]]
+>[!tip]- DERIVATIONS of [[pyelography]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
@@ -81,16 +81,7 @@ _____
 **One-Sentence Summary**  
 **Pyelography** (Greek *[[pyelo-]][[-graphy]]* “pelvis imaging,” CPT 74400 IVP), opacifies renal pelvis/ureters via IV/retrograde/antegrade contrast for stones ([[N20.0]]), obstruction, or hematuria, with IVP protocol capturing nephrogram/pyelogram phases.[7][1][2][4]
 
-Sources
-[1] Intravenous pyelogram - Mayo Clinic https://www.mayoclinic.org/tests-procedures/intravenous-pyelogram/about/pac-20394475
-[2] Intravenous Pyelogram (IVP) - Radiologyinfo.org https://www.radiologyinfo.org/en/info/ivp
-[3] Intravenous pyelogram: MedlinePlus Medical Encyclopedia https://medlineplus.gov/ency/article/003782.htm
-[4] Intravenous Pyelogram - StatPearls - NCBI Bookshelf https://www.ncbi.nlm.nih.gov/books/NBK559034/
-[5] Antegrade Pyelography | Clinical Keywords - Yale Medicine https://www.yalemedicine.org/clinical-keywords/antegrade-pyelography
-[6] Definition of intravenous pyelography - NCI Dictionary of Cancer ... https://www.cancer.gov/publications/dictionaries/cancer-terms/def/intravenous-pyelography
-[7] Retrograde Pyelogram: Procedure, Risks & Advantages https://my.clevelandclinic.org/health/treatments/22684-retrograde-pyelogram
-[8] Retrograde Pyelography: Symptoms, Diagnosis & Treatment https://www.urologyhealth.org/urology-a-z/r/retrograde-pyelography
-[9] Cardiac Catheterization Coding in ICD-10-PCS https://hiacode.com/blog/education/cardiac-catheterization-coding-in-icd-10-pcs
+
 
 
 [[Med roots]]

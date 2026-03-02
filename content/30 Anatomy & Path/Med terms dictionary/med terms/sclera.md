@@ -30,7 +30,7 @@ _____
 >#latin First attested in English in 1886 as medical Latin **sclera**, from Greek σκληρά (μήνιγξ) (*sklēra meninks*), meaning "*the hard* (**membrane**)." The key root is Greek σκληρός (sklēros), "**hard, dry, harsh**," from PIE root [[skley-]] ("**to cut**") or related to [[skel-]] ("**to parch, dry**"). The combining form [[sclero-]] carries the dual meaning of (1) "**sclera of the eye**" and (2) "hard/hardening" more broadly throughout medicine. **Components**: Greek [[sklēr(o)-]] (hard) + [[-a]] (**noun ending, feminine**)
 ____
 
-> [!tip] RELATED OPHTHALMOLIC TERMS
+> [!tip]+ RELATED OPHTHALMOLIC TERMS
 > | Term | Meaning |
 > |---|---|
 > | **[[Scleritis]]** | Serious, painful inflammation of the sclera; often associated with systemic [[autoimmune]] disease (e.g., RA, [[granulomatosis]] with [[polyangiitis]])  |
@@ -44,7 +44,7 @@ ____
 > | **[[Limbus]]** | Junction of sclera and cornea; important anatomical landmark  |
 _____
 
-> [!warning] *Sclero-* BEYOND THE EYE
+> [!warning]+ *Sclero-* BEYOND THE EYE
 > Because *[[sclero-]]* means "**hard/hardening**," it generates major terms well outside ophthalmology:
 > 
 > | Term | Specialty | Meaning |
@@ -58,7 +58,7 @@ _____
 > | **[[Osteosclerosis]]** | Orthopedics | Abnormal hardening of bone   |
 > | **[[Tuberous sclerosis]]** | Neurology/Genetics | Tumor-causing genetic disorder with sclerotic brain lesions |
 _____
->[!tip]- DERIVATIONS of sclera
+>[!tip]- DERIVATIONS of [[sclera]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

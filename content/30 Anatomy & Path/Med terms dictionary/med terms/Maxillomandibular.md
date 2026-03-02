@@ -31,7 +31,7 @@ _____
 >#latin - [[maxillo-]]: from Latin _[[maxilla]]_, meaning “*jaw*” or “*upper jaw.*”- Mandibular: from Latin _[[mandibula]]_, meaning “jaw,” especially the *lower jaw*.  
 >Combined, [[maxillomandibular]] literally means “*of the maxilla and mandible*.”
 _____
->[!tip]+ DERIVATIONS of [[maxillomandibular]]
+>[!tip]- DERIVATIONS of [[maxillomandibular]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

@@ -18,7 +18,7 @@ ___
 >[!info]+ Etymology of [[surgeon]]
 >#greek Middle English: from Anglo-Norman French _surgien_, contraction of Old French _serurgien_, based on Latin _chirurgia_, from Greek _kheirourgia_ ‘handiwork, surgery’, from _kheir_ ‘hand’ + _ergon_ ‘work’
 _____
->[!tip]+ DERIVATIONS of [[surgeon]]
+>[!tip]- DERIVATIONS of [[surgeon]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

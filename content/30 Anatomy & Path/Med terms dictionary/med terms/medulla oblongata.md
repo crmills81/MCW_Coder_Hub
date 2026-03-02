@@ -21,7 +21,7 @@ ___
 >-**Oblongata**: Derived from the Latin oblongus, meaning "**elongated**" or "**lengthened**".
 >-**Bulb**: An archaic term once commonly used for the **medulla**; the derivative adjective "**bulbar**" is still used in clinical medicine to refer to the **medulla** and its associated **cranial nerves.**
 _____
->[!tip]+ DERIVATIONS of [[medulla oblongata]]
+>[!tip]- DERIVATIONS of [[medulla oblongata]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

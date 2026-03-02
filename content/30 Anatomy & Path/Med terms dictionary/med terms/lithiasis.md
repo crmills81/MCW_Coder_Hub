@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# give me short and long definitions, codes, etymology, related terms, and any other details you can give me about the medical keyword, lithiasis create a markdown file.
-
-Based on the search results, here is a comprehensive markdown file about lithiasis:
-
 ***
 
 # LITHIASIS - Medical Keyword Reference
@@ -58,31 +52,31 @@ Lithiasis refers to the pathological formation of mineral and acid salt concreti
 
 | Code | Description |
 | :-- | :-- |
-| **N20.0** | Calculus of kidney (nephrolithiasis, renal stone). |
-| **N20.1** | Calculus of ureter (ureterolithiasis). |
-| **N20.2** | Calculus of kidney with calculus of ureter. |
-| **N20.9** | Urinary calculus, unspecified (urolithiasis). |
-| **N21.0** | Calculus in bladder (cystolithiasis). |
-| **N21.1** | Calculus in urethra. |
-| **K80.0** | Calculus of gallbladder with acute cholecystitis. |
-| **K80.2** | Calculus of gallbladder without cholecystitis (cholelithiasis). |
-| **K80.5** | Calculus of bile duct without cholangitis/cholecystitis (choledocholithiasis). |
-| **K11.5** | Sialolithiasis (calculus of salivary gland/duct). |
-| **K86.81** | Exocrine pancreatic insufficiency (includes pancreatolithiasis context). |
+| **[[N20.0]]** | Calculus of kidney (nephrolithiasis, renal stone). |
+| **[[N20.1]]** | Calculus of ureter (ureterolithiasis). |
+| **[[N20.2]]** | Calculus of kidney with calculus of ureter. |
+| **[[N20.9]]** | Urinary calculus, unspecified (urolithiasis). |
+| **[[N21.0]]** | Calculus in bladder (cystolithiasis). |
+| **[[N21.1]]** | Calculus in urethra. |
+| **[[K80.0]]** | Calculus of gallbladder with acute cholecystitis. |
+| **[[K80.2]]** | Calculus of gallbladder without cholecystitis (cholelithiasis). |
+| **[[K80.5]]** | Calculus of bile duct without cholangitis/cholecystitis (choledocholithiasis). |
+| **[[K11.5]]** | Sialolithiasis (calculus of salivary gland/duct). |
+| **[[K86.81]]** | Exocrine pancreatic insufficiency (includes pancreatolithiasis context). |
 
 **CPT Codes (Treatment Procedures):**
 
 
 | Code | Description |
 | :-- | :-- |
-| **50060** | Nephrolithotomy; removal of kidney stone, complicated. |
-| **50080** | Percutaneous nephrolithotomy ≤2 cm. |
-| **50081** | Percutaneous nephrolithotomy >2 cm or complex. |
-| **50590** | Lithotripsy, extracorporeal shock wave (ESWL). |
-| **52310-52315** | Cystourethroscopy with removal ureteral/renal calculus. |
-| **47564** | Laparoscopic cholecystectomy with exploration common duct (choledocholithiasis). |
-| **43264** | ERCP with endoscopic retrograde removal stone(s) from biliary/pancreatic ducts. |
-| **42330-42340** | Sialolithotomy (removal salivary duct stone). |
+| **[[50060]]** | Nephrolithotomy; removal of kidney stone, complicated. |
+| **[[50080]]** | Percutaneous nephrolithotomy ≤2 cm. |
+| **[[50081]]** | Percutaneous nephrolithotomy >2 cm or complex. |
+| **[[50590]]** | Lithotripsy, extracorporeal shock wave (ESWL). |
+| **[[52310]]-[[52315]]** | Cystourethroscopy with removal ureteral/renal calculus. |
+| **[[47564]]** | Laparoscopic cholecystectomy with exploration common duct (choledocholithiasis). |
+| **[[43264]]** | ERCP with endoscopic retrograde removal stone(s) from biliary/pancreatic ducts. |
+| **[[42330]]-[[42340]]** | Sialolithotomy (removal salivary duct stone). |
 
 
 ***
@@ -92,7 +86,7 @@ Lithiasis refers to the pathological formation of mineral and acid salt concreti
 - **Calculus (pl. calculi):** Medical term for stone.[^2][^3]
 - **Concretion:** Hardened mass formed by mineral deposition.
 - **Renal colic:** Severe flank pain from ureteral stone obstruction.[^7]
-- **Hydronephrosis:** Kidney swelling from obstructed urine flow.
+- **[[Hydronephrosis]]:** Kidney swelling from obstructed urine flow.
 - **ESWL:** Extracorporeal shock wave lithotripsy (non-invasive stone fragmentation).
 - **Lithotripsy:** Stone fragmentation technique.
 - **Lithotomy:** Surgical removal of stone.
@@ -203,26 +197,16 @@ Lithiasis refers to the pathological formation of mineral and acid salt concreti
 
 ## One-Sentence Summary
 
-**Lithiasis** (Greek *lith-iasis* "stone condition," circa 1657), pathological calculus formation in kidneys (N20.0 nephrolithiasis), gallbladder (K80.2 cholelithiasis), ducts, or glands from supersaturation/crystallization, presenting with colicky pain/obstruction, diagnosed via CT/ultrasound, treated conservatively (hydration) or interventionally (ESWL 50590, PCNL 50080-81, cholecystectomy, ERCP 43264).[^6][^1][^3][^2][^7]
+**Lithiasis** (Greek *lith-iasis* "stone condition," circa 1657), pathological calculus formation in kidneys (N20.0 nephrolithiasis), gallbladder (K80.2 cholelithiasis), ducts, or glands from supersaturation/crystallization, presenting with colicky pain/obstruction, diagnosed via CT/ultrasound, treated conservatively (hydration) or interventionally (ESWL 50590, PCNL 50080-81, cholecystectomy, ERCP 43264).
 
 ***
 
 **Document created:** February 13, 2026
 **Medical coding professional reference**
 
-<div align="center">⁂</div>
 
-[^1]: https://www.merriam-webster.com/dictionary/lithiasis
-
-[^2]: https://en.wiktionary.org/wiki/lithiasis
-
-[^3]: https://www.dictionary.com/browse/lithiasis
-
-[^4]: https://www.oreateai.com/blog/understanding-the-suffix-lithiasis-in-medical-terminology/8c723252117defe5641c387e34e89660
-
-[^5]: https://www.yourdictionary.com/lithiasis
-
-[^6]: https://www.clinicalanatomy.com/mtd/214-olithiasis
-
-[^7]: https://www.osmosis.org/answers/nephrolithiasis
-
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

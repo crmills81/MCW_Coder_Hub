@@ -1,10 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# give me short and long definitions, codes, etymology, related terms, and any other details you can give me about the medical keyword, cyclodialysis create a markdown file.
-
-Based on the search results, here is a comprehensive markdown file about cyclodialysis:
-
-***
 
 # CYCLODIALYSIS - Medical Keyword Reference
 
@@ -15,11 +8,10 @@ Based on the search results, here is a comprehensive markdown file about cyclodi
 ## Short and Long Definitions
 
 **Short definition**
-**Cyclodialysis** is **separation of the ciliary body from the sclera**, either traumatic or surgical, causing abnormal aqueous drainage and ocular hypotony.[^2][^5][^1]
+**Cyclodialysis** is **separation of the ciliary body from the sclera**, either traumatic or surgical, causing abnormal aqueous drainage and ocular hypotony.
 
 **Long definition**
-Cyclodialysis is the disinsertion of longitudinal ciliary muscle fibers from the scleral spur, creating an aberrant pathway (cyclodialysis cleft) for aqueous humor drainage into the suprachoroidal space, dramatically increasing aqueous outflow and predisposing the eye to hypotony (IOP ≤5 mmHg); historically performed intentionally as a surgical procedure to reduce intraocular pressure in refractory open-angle and aphakic glaucoma, but now more commonly encountered as an unintended traumatic or iatrogenic complication following blunt ocular trauma or intraocular surgeries (phacoemulsification, trabeculectomy, IOL procedures); complications include chronic hypotony, hypotony maculopathy, choroidal detachment, optic disc edema, and decreased visual acuity requiring medical or surgical closure.[^3][^4][^6][^2]
-
+Cyclodialysis is the disinsertion of longitudinal ciliary muscle fibers from the scleral spur, creating an aberrant pathway (cyclodialysis cleft) for aqueous humor drainage into the suprachoroidal space, dramatically increasing aqueous outflow and predisposing the eye to hypotony (IOP ≤5 mmHg); historically performed intentionally as a surgical procedure to reduce intraocular pressure in refractory open-angle and aphakic glaucoma, but now more commonly encountered as an unintended traumatic or iatrogenic complication following blunt ocular trauma or intraocular surgeries (phacoemulsification, trabeculectomy, IOL procedures); complications include chronic hypotony, hypotony maculopathy, choroidal detachment, optic disc edema, and decreased visual acuity requiring medical or surgical closure.
 ***
 
 ## Etymology
@@ -190,17 +182,8 @@ Cyclodialysis is the disinsertion of longitudinal ciliary muscle fibers from the
 **Document created:** February 13, 2026
 **Medical coding professional reference**
 
-<div align="center">⁂</div>
-
-[^1]: https://www.merriam-webster.com/medical/cyclodialysis
-
-[^2]: https://en.wiktionary.org/wiki/cyclodialysis
-
-[^3]: https://eyewiki.org/Cyclodialysis_Clefts
-
-[^4]: https://onlinelibrary.wiley.com/doi/10.1111/aos.14210
-
-[^5]: https://www.encyclopedia.com/caregiving/dictionaries-thesauruses-pictures-and-press-releases/cyclodialysis
-
-[^6]: https://pmc.ncbi.nlm.nih.gov/articles/PMC5256542/
-
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

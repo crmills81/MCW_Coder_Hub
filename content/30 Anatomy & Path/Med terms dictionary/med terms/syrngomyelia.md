@@ -21,7 +21,7 @@ ___
 >States its etymology comes from international scientific vocabulary, combining _syringo- + -myel- + -ia_
 
 _____
->[!tip]+ DERIVATIONS of [[syrngomyelia]]
+>[!tip]- DERIVATIONS of [[syrngomyelia]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

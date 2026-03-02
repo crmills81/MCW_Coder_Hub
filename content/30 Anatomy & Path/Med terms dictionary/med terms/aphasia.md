@@ -20,7 +20,7 @@ roots:
 ---
 >[!note] Definition of [[aphasia]]
 >[[a-]][[pha-]][[-ia|-sia]] - Impaired ability to use or comprehend words (**condition of lacking communication**)
->1. ([pathology](https://en.wiktionary.org/wiki/pathology#English "pathology")) A [partial](https://en.wiktionary.org/wiki/partial#English "partial") or [total](https://en.wiktionary.org/wiki/total#English "total") [loss](https://en.wiktionary.org/wiki/loss#English "loss") of [language](https://en.wiktionary.org/wiki/language#English "language") [skills](https://en.wiktionary.org/wiki/skill#English "skill") due to [brain](https://en.wiktionary.org/wiki/brain#English "brain") [damage](https://en.wiktionary.org/wiki/damage#English "damage"). Usually, damage to the left [perisylvian](https://en.wiktionary.org/wiki/perisylvian#English "perisylvian") region, including [Broca's area](https://en.wiktionary.org/wiki/Broca%27s_area#English "Broca's area") and [Wernicke's area](https://en.wiktionary.org/wiki/Wernicke%27s_area#English "Wernicke's area"), causes aphasia. **Aphasia** results from damage to dominant (usually left) hemisphere perisylvian language areas (Broca’s frontal, Wernicke’s [[temporal]], [[arcuate fasciculus]]), disrupting phonology, syntax, semantics, or fluency; classified as fluent (Wernicke’s: nonsensical [[verbosity]]), nonfluent (Broca’s: effortful telegraphic speech), conduction (**repetition deficit**), anomic (**word-finding**), global (total loss), or primary progressive (**degenerative**); spares intelligence but isolates socially.
+>1.  A [partial or [total](https://en.wiktionary.org/wiki/total#English "total") [loss]] **Aphasia** results from damage to dominant (usually left) hemisphere perisylvian language areas (Broca’s frontal, Wernicke’s [[temporal]], [[arcuate fasciculus]]), disrupting phonology, syntax, semantics, or fluency; classified as fluent (Wernicke’s: nonsensical [[verbosity]]), nonfluent (Broca’s: effortful telegraphic speech), conduction (**repetition deficit**), anomic (**word-finding**), global (total loss), or primary progressive (**degenerative**); spares intelligence but isolates socially.
 
 ___
 >[!info]+ Etymology of [[aphasia]]
@@ -32,10 +32,10 @@ ___
 _____
 
 >[!example]+ RELATED TERMS to [[aphasia]]
->- [monophasia](https://en.wiktionary.org/wiki/monophasia#English "monophasia")
+>- [monophasia]
 _____
 
->[!tip]+ DERIVATIONS of [[aphasia]]
+>[!tip]- DERIVATIONS of [[aphasia]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name
@@ -97,14 +97,8 @@ ___
 **One-Sentence Summary**  
 **Aphasia** ([[R47.01]]/[[I69.320]], Greek *[[a-]] [[-phasia]]* "without speech"), disrupts language post-stroke (Broca's telegraphic/Wernicke's fluent/global/PPA), spares cognition; speech therapy yields 30-50% recovery.[1][2][3]
 
-Sources
-[1] Aphasia - Symptoms & causes - Mayo Clinic https://www.mayoclinic.org/diseases-conditions/aphasia/symptoms-causes/syc-20369518
-[2] Aphasia: Causes, Symptoms & Treatment https://my.clevelandclinic.org/health/diseases/5502-aphasia
-[3] Aphasia - NIDCD - NIH https://www.nidcd.nih.gov/health/aphasia
-[4] What is Aphasia? Symptoms, Types and Treatment https://www.brownhealth.org/be-well/what-aphasia-symptoms-types-and-treatment
-[5] Types of aphasia https://www.stroke.org.uk/stroke/effects/aphasia/types-of-aphasia
-[6] Aphasia https://www.nm.org/conditions-and-care-areas/neurosciences/comprehensive-stroke-centers/aphasia
-[7] Aphasia https://medlineplus.gov/aphasia.html
-[8] Aphasia https://www.childneurologyfoundation.org/disorder/aphasia/
-[9] Doctor explains APHASIA - definition, symptoms, causes ... - YouTube https://www.youtube.com/watch?v=nvaZXSsvF4I
-[10] Oncology ICD-10 Codes - Cancer Therapy Advisor https://www.cancertherapyadvisor.com/home/tools/oncology-icd10-codes/
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

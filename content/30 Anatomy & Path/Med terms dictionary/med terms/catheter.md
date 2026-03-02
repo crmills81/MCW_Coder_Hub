@@ -43,23 +43,6 @@ _____
 > **Materials:** Silicone (low encrustation), [[hydrophilic]] (self‑lubricating).
 _____
 
->[!tip]- DERIVATIONS of [[catheter]]
->```dataview
->TABLE definition AS Definition
->FROM #medterm 
->WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
->SORT file.name ASC
->```
-_____
->[!faq]- Query functionality
->```dataview
->TABLE definition AS Definition
->FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
->```
-
-***
-
 > [!example] COMMON TYPES
 > | Type                  | Description/Uses                                              | Examples/Sites                  |
 > |-----------------------|---------------------------------------------------------------|---------------------------------|
@@ -72,13 +55,9 @@ _____
 > | **Pigtail**          | Drainage of [[abscess]]/pleural effusion/[[pneumothorax]].            | [[percutaneous]]. |
 > | **Angiographic (Cobra/Sidewinder)** | Selective vessel cannulation.                   | Aorta branches. |
 
-
 ***
 
-## Coding Context (CPT / HCPCS / ICD‑10)
-
-
-> [!important]
+> [!important]+ **Coding Context (CPT / HCPCS / ICD‑10)**
 > **Urinary Catheter HCPCS (DME/supplies)**:
 > 
 > | Code   | Description                                      |  
@@ -116,6 +95,21 @@ _____
 > 
 > **One‑Sentence Summary**  
 > **Catheter** (Greek *kathetēr* “let down”), a versatile thin tube (e.g., Foley urinary A4351-3 HCPCS, cardiac via 9345x CPT), enables drainage/infusion/access across [[urology]] (5170x CPT), cardiology, and beyond, with infection risks mitigated by aseptic protocols.
+____
+>[!tip]- DERIVATIONS of [[catheter]]
+>```dataview
+>TABLE definition AS Definition
+>FROM #medterm 
+>WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
+>SORT file.name ASC
+>```
+_____
+>[!faq]- Query functionality
+>```dataview
+>TABLE definition AS Definition
+>FROM #medterm 
+>WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>```
 
 
 

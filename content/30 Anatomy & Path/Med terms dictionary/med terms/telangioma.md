@@ -22,7 +22,7 @@ ___
 >[!info]+ Etymology of [[telangioma]]
 >#latin “[[Telangioma]]” breaks down as **[[tel‑]]/[[telo‑]]** (“**end**,” referring to terminal vessels) + **angio‑** (“vessel”) + **‑oma** (“**tumor**” or “**swelling**”). This parallels the related term **[[telangiectasia]]**, which comes from [[tel‑]] “**end**” + [[angio‑]] “**vessel**” + [[ectasia]] “**dilation**,” and denotes dilated end vessels visible on skin or mucosa.
 _____
->[!tip]+ DERIVATIONS of  [[telangioma]]
+>[!tip]- DERIVATIONS of  [[telangioma]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

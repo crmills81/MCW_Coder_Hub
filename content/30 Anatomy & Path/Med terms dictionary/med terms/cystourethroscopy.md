@@ -31,7 +31,7 @@ _____
 >	•	[[-scopy]]: Greek *skopeîn* = “**to examine, look at**.”
 >	•	**Literal**: “Bladder-urethra examination.”
 _____
->[!tip]+ DERIVATIONS of [[cystourethroscopy]]
+>[!tip]- DERIVATIONS of [[cystourethroscopy]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
@@ -87,25 +87,11 @@ _____
 - **[[ureteroscopy]]:** [[Ureter]]/renal pelvis ([[52351]] CPT).  
 - **[[TURBT]]:** Therapeutic resection via cystoscope.  
 - **[[Cystolitholapaxy]]:** Stone fragmentation ([[52317]] CPT).  
-- **Complications:** UTI (10%), bleeding, perforation (<1%), stricture.[1][4]
+- **Complications:** UTI (10%), bleeding, perforation (<1%), stricture.
 
 **One-Sentence Summary**  
-**Cystourethroscopy** (CPT [[52000]]), combining *[[cysto-]]* (**bladder**) + *[[urethro-]]* ([[urethra]]) + *[[-scopy]]* (examine), endoscopically inspects/ treats via urethral scope for [[hematuria]] (R31.2x), tumors ([[D41.8]]), or stones ([[N20.0]]), typically office-based with 52000-5235x CPT coding.[2][3][4][1]
+**Cystourethroscopy** (CPT [[52000]]), combining *[[cysto-]]* (**bladder**) + *[[urethro-]]* ([[urethra]]) + *[[-scopy]]* (examine), endoscopically inspects/ treats via urethral scope for [[hematuria]] (R31.2x), tumors ([[D41.8]]), or stones ([[N20.0]]), typically office-based with 52000-5235x CPT coding
 
-Sources
-[1] Cystoscopy - Mayo Clinic https://www.mayoclinic.org/tests-procedures/cystoscopy/about/pac-20393694
-[2] Cystoscopy: Purpose, Procedure, Risks & Recovery - Cleveland Clinic https://my.clevelandclinic.org/health/diagnostics/16553-cystoscopy
-[3] Cystourethroscopy - UROGYN Savannah https://urogynsavannah.com/diagnostics-treatment/cystourethroscopy/
-[4] Cystoscopy - StatPearls - NCBI Bookshelf https://www.ncbi.nlm.nih.gov/sites/books/NBK493180/
-[5] Cystoscopy - UCSF Benioff Children's Hospitals https://www.ucsfbenioffchildrens.org/medical-tests/cystoscopy
-[6] Cystoscopy for Men - UR Medicine - University of Rochester https://www.urmc.rochester.edu/encyclopedia/Content?contentTypeID=92&ContentID=P07771
-[7] Cystoscopy (overactive bladder) - YouTube https://www.youtube.com/watch?v=0faFfYsaOKs
-[8] About Your Cystoscopy in the Operating Room https://www.mskcc.org/cancer-care/patient-education/about-your-cystoscopy
-[9] Cystoscopy | Cigna https://www.cigna.com/knowledge-center/hw/medical-tests/cystoscopy-hw210556
-[10] What is a cystoscopy? | MD Anderson Cancer Center https://www.mdanderson.org/cancerwise/what-is-a-cystoscopy.h00-159699123.html
-[11] Medical Coding Cardiac Catheterization https://codingclarified.com/medical-coding-cardiac-catheterization/
-[12] Cardiac Catheterization Coding in ICD-10-PCS https://hiacode.com/blog/education/cardiac-catheterization-coding-in-icd-10-pcs
-[13] Oncology ICD-10 Codes - Cancer Therapy Advisor https://www.cancertherapyadvisor.com/home/tools/oncology-icd10-codes/
 
 
 [[Med roots]]

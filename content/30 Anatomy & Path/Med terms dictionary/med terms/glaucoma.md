@@ -23,7 +23,7 @@ _____
 >[!info]+ ETYMOLOGY of [[glaucoma]]
 >#greek From Greek "glaukōma" (γλαύκωμα), derived from "*glaukos*" (γλαυκός), meaning gleaming, blue-green, or gray, originally describing the cloudy, bluish hue of affected eyes (like [[cataracts]] or acute angle-closure).
 _____
->[!tip]+ DERIVATIONS of [[glaucoma]]
+>[!tip]- DERIVATIONS of [[glaucoma]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

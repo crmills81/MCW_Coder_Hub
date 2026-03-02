@@ -20,10 +20,10 @@ definition:
 ---
 
 >[!Note] DEFINITION of [[urolithiasis]]
->Formation of, and thus also presence of, [calculi](https://en.wiktionary.org/wiki/calculus#English:_medical_concretion "calculus") in the [urinary tract](https://en.wiktionary.org/wiki/urinary_tract#English "urinary tract"). [[urolithiasis]] is **the formation of urinary calculi (“stones”) in the urinary system**. [[nephrolithiasis]] or. “kidney stones” refers to calculi or stones in the kidney and is the most common form of urinary tract. stone disease. Ureter and bladder calculi almost always originate in the kidneys.
+>Formation of, and thus also presence of, [calculi] in the [urinary tract]. [[urolithiasis]] is **the formation of urinary calculi (“stones”) in the urinary system**. [[nephrolithiasis]] or. “kidney stones” refers to calculi or stones in the kidney and is the most common form of urinary tract. stone disease. Ureter and bladder calculi almost always originate in the kidneys.
 _____
 >[!info]+ ETYMOLOGY of [[urolithiasis]]
->[surface analysis](https://en.wiktionary.org/wiki/Appendix:Glossary#surface_analysis "Appendix:Glossary"), _[uro-](https://en.wiktionary.org/wiki/uro-#English "uro-")_ +‎ _[lithiasis](https://en.wiktionary.org/wiki/lithiasis#English "lithiasis")_, or, by [surface analysis](https://en.wiktionary.org/wiki/Appendix:Glossary#surface_analysis "Appendix:Glossary"), _[urolith](https://en.wiktionary.org/wiki/urolith#English "urolith")_ +‎ _[-iasis](https://en.wiktionary.org/wiki/-iasis#English "-iasis")_. [[u·ro·li·thi·a·sis]] [ yoo r-oh-li-thahy-uh-sis ]
+>[surface analysis], _[uro-]_ +‎ _[lithiasis], or, by [surface analysis] _[urolith] +‎ _[-iasis]. [[u·ro·li·thi·a·sis]] [ yoo r-oh-li-thahy-uh-sis ]
 _____
 >[!example]+ RELATED TERMS to [[urolithiasis]]
 >- [[nephropathy]]
@@ -32,7 +32,7 @@ _____
 >- [[hyperuricemia]]
 
 _____
->[!tip]+ DERIVATIONS of [[urolithiasis]]
+>[!tip]- DERIVATIONS of [[urolithiasis]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
@@ -47,4 +47,8 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

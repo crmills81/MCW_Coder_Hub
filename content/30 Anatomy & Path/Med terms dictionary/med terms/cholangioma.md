@@ -22,7 +22,7 @@ ___
 > #greek [[Cholangiomas]] combines _[[cholangio-]]_ (from Greek _kholḗ_ "**bile**" + _angeîon_ "**vessel**," **meaning bile duct**) + _[[-oma]]_ (Greek for "**tumor**" or "**swelling**").
 
 _____
->[!tip]+ DERIVATIONS of [[cholangioma]]
+>[!tip]- DERIVATIONS of [[cholangioma]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

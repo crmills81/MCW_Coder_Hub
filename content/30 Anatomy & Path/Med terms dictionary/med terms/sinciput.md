@@ -15,7 +15,7 @@ forms:
 ___
 >[!info]+ Etymology of [[sinciput]]
 _____
->[!tip]+ DERIVATIONS of [[sinciput]]
+>[!tip]- DERIVATIONS of [[sinciput]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

@@ -30,7 +30,7 @@ _____
 >- [[Submandibular]] ganglion - parasympathetic relay for gland secretion.[ncbi.nlm.nih](https://www.ncbi.nlm.nih.gov/books/NBK542272/) [[​-ectomy]]
 >- [[submandibular]] fossa - depression on medial mandible for the gland
 _____
->[!tip]+ DERIVATIONS of [[submandibular]]
+>[!tip]- DERIVATIONS of [[submandibular]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

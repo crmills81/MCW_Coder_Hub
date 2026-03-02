@@ -24,8 +24,8 @@ _____
 >- nephroliths
 >- [[urolithiasis]]
 
-
->[!tip]+ DERIVATIONS of [[nephrolithiasis]]
+____
+>[!tip]- DERIVATIONS of [[nephrolithiasis]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name

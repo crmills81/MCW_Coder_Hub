@@ -34,7 +34,7 @@ _____
 >
 >Merriam-Webster defines it generally as plastic surgery of a trabecula and, specifically in [[Ophthalmology]], as laser surgery creating small openings in the trabecular meshwork to reduce IOP in open-angle glaucoma.
 _____
->[!tip]+ DERIVATIONS of [[trabeculoplasty]]
+>[!tip]- DERIVATIONS of [[trabeculoplasty]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

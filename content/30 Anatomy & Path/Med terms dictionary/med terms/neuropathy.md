@@ -32,7 +32,7 @@ _____
 >	•	[[‑pathy]]: from Greek [[‑patheia]] meaning “*suffering, feeling, disease, condition*,” used to denote a disorder or disease process.
 So [[neuropathy]] literally means a “*nerve disease*” or “*condition of the nerves*,” matching its modern medical sense of nerve damage or dysfunction.
 _____
->[!tip]+ DERIVATIONS of [[neuropathy]]
+>[!tip]- DERIVATIONS of [[neuropathy]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

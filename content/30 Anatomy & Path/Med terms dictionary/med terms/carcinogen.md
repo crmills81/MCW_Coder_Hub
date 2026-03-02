@@ -19,7 +19,7 @@ _____
 >#greek; - **Roots:** _Karkinos_ (meaning "crab" or "cancer") + _[[-gen]]_ (meaning "producer" or "source").
 >- **Historical Context:** The term was coined as a shorthand for "cancer-generator," first appearing in English medical texts in the mid-19th century. carcinogen(n.)::"cancer-causing substance," 1853, from carcinoma "malignant tumor, cancer" + [[-gen]].
 _____
->[!tip]+ **DERIVATIONS** of [[carcinogen]]
+>[!tip]- **DERIVATIONS** of [[carcinogen]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

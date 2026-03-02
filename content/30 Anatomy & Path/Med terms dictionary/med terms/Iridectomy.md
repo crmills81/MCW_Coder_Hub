@@ -30,7 +30,7 @@ _____
 >[!info]+ ETYMOLOGY of [[Iridectomy]]
 >#greek *iris* + *ektomē* The term is a compound of two primary Greek roots: * **[[irid-]]**: Derived from the Greek *iris* (genitive *iridos*), meaning "**rainbow**" or "**halo**," referring to the colored circle of the eye. * **[[-ectomy]]**: Derived from the Greek *ektomē* ("excision"), which comes from *ek* ("**out**") + *temnein* ("**to cut**")
 _____
->[!tip]+ DERIVATIONS of [[Iridectomy]]
+>[!tip]- DERIVATIONS of [[Iridectomy]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

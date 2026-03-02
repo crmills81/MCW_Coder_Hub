@@ -33,7 +33,7 @@ _____
 >[Urolithiasis](https://en.wikipedia.org/wiki/Urolithiasis)
 >[Cholelithiasis](https://en.wikipedia.org/wiki/Cholelithiasis)
 _____
->[!tip]+ DERIVATIONS of [[calculus]]
+>[!tip]- DERIVATIONS of [[calculus]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

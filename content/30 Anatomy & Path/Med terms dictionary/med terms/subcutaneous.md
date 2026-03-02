@@ -36,7 +36,7 @@ _____
  >    - _Cutis_ (*Latin for skin*).
 >- **Historical Context:** Originally used in anatomical texts to describe the "**fatty layer**" or "**panniculus adiposus**" distinct from the "*true skin*" ([[dermis]]) and the "*flesh*" (**muscle**). Historically, surgeons differentiated this layer because infections here could spread rapidly along the fascial planes.
 _____
->[!tip]+ DERIVATIONS of [[subcutaneous]]
+>[!tip]- DERIVATIONS of [[subcutaneous]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

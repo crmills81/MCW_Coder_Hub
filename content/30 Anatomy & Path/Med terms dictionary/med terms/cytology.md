@@ -1,9 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# give me short and long definitions, codes, etymology, related terms, and any other details you can give me about the medical keyword, cytology create a markdown file.
-
-Based on my knowledge, here is a comprehensive markdown file about cytology:
-
 ***
 
 # CYTOLOGY - Medical Keyword Reference
@@ -189,3 +183,8 @@ Cytology is the branch of pathology focused on examining individual cells and sm
 **Document created:** February 13, 2026
 **Medical coding professional reference**
 
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

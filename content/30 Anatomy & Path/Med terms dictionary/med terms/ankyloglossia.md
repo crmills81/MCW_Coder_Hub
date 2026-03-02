@@ -5,6 +5,7 @@ tags:
   - otolaryngology
 aliases:
   - ankylochilia
+  - Tongue-tie
 roots:
   - ankyloglossia
   - ankyl-
@@ -28,7 +29,26 @@ _____
 >[[-glossia]]: From the Greek *glōssa*, meaning "*tongue*".
 >**Suffix**: The suffix [[-ia]] denotes a medical condition or state.
 _____
->[!tip]+ DERIVATIONS of [[ankyloglossia]]
+
+> [!example]+ **Related Terms and Coding**
+> For professional medical coding, the following diagnostic and procedural codes are standard for documenting [[ankyloglossia]]:
+>
+>
+> |Term/Code|Context|Description|
+> |---|---|---|
+> |**[[Q38.1]]**|ICD-10-CM|The primary diagnostic code for [[ankyloglossia]] (*tongue-tie*), categorized under congenital malformations |
+> |**[[41010]]**|CPT Code|**[[Frenotomy]]**: Incision of the [[lingual frenulum]] (usually for infants) .|
+> |**[[Lingual Frenulum]]**|Anatomy|The vertical fold of mucous membrane that connects the tongue to the floor of the mouth |
+> |**[[Frenuloplasty]]**|Procedure|Surgical repair or repositioning of the frenulum to increase mobility.|
+>> 
+> - **[[Macroglossia]]**: An abnormally large tongue, often associated with specific syndromes (ICD-10-CM **[[Q38.2]]**).​
+>     
+> - **Microglossia**: An abnormally small tongue (ICD-10-CM **[[Q38.3]]**).​
+>     
+> - **Bifid Tongue**: A cleft or "***forked***" tongue due to incomplete fusion during development.
+>
+____
+>[!tip]- DERIVATIONS of [[ankyloglossia]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
@@ -42,25 +62,7 @@ _____
 >FROM #medterm 
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
-
-## Related Terms and Coding
-
-For professional medical coding, the following diagnostic and procedural codes are standard for documenting [[ankyloglossia]]:
-
-|Term/Code|Context|Description|
-|---|---|---|
-|**[[Q38.1]]**|ICD-10-CM|The primary diagnostic code for [[ankyloglossia]] (*tongue-tie*), categorized under congenital malformations [](https://publications.aap.org/codingnews/article/doi/10.1542/pcco_book117_document004/28039/You-Code-It).|
-|**[[41010]]**|CPT Code|**Frenotomy**: Incision of the [[lingual frenulum]] (usually for infants) [](https://www.mayoclinic.org/diseases-conditions/tongue-tie/symptoms-causes/syc-20378452)​.|
-|**[[41115]]**|CPT Code|**Frenectomy**: Complete excision of the [[lingual frenulum]].|
-|**[[Lingual Frenulum]]**|Anatomy|The vertical fold of mucous membrane that connects the tongue to the floor of the mouth [](https://en.wikipedia.org/wiki/Ankyloglossia).|
-|**[[Frenuloplasty]]**|Procedure|Surgical repair or repositioning of the frenulum to increase mobility.|
-
-- **Macroglossia**: An abnormally large tongue, often associated with specific syndromes (ICD-10-CM **[[Q38.2]]**).[](https://www.aapc.com/codes/icd-10-codes/Q38.1)​
-    
-- **Microglossia**: An abnormally small tongue (ICD-10-CM **[[Q38.3]]**).[](https://www.aapc.com/codes/icd-10-codes/Q38.1)​
-    
-- **Bifid Tongue**: A cleft or "***forked***" tongue due to incomplete fusion during development.
-
+____
 
 [[Med roots]]
 [[Appendix A Prefixes]]

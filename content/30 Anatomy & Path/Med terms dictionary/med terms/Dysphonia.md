@@ -24,12 +24,13 @@ definition:
 >
 > #### Related Terms
 >
->- **Hoarseness:** Synonym for dysphonia; rough vocal quality.[clevelandclinic](https://my.clevelandclinic.org/health/diseases/17105-hoarseness)​
->- **[[Aphonia]]:** Complete voice loss (**more severe than dysphonia**).[ncbi.nlm.nih](https://www.ncbi.nlm.nih.gov/books/NBK565881/)​
->- **Laryngitis:** Laryngeal inflammation causing dysphonia.[wexnermedical.osu](https://wexnermedical.osu.edu/ear-nose-throat/voice-and-swallowing-disorders/voice-disorders)​
+>- **Hoarseness:** Synonym for dysphonia; rough vocal quality.​
+>- **[[Aphonia]]:** Complete voice loss (**more severe than dysphonia**).​
+>- **Laryngitis:** Laryngeal inflammation causing dysphonia.​
 >- **[[Dysarthria]]:** Motor speech disorder (**articulation**) vs. vocal quality.
->- **[[Vocal cord dysfunction ]](VCD):** Paradoxical vocal cord motion.[rush](https://www.rush.edu/conditions/dysphonia)​
->- **[[Stroboscopy]]:** Gold standard for visualizing vocal cord vibration.[ncbi.nlm.nih](https://www.ncbi.nlm.nih.gov/books/NBK565881/)
+>- **[[Vocal cord dysfunction ]](VCD):** Paradoxical vocal cord motion.​
+>- **[[Stroboscopy]]:** Gold standard for visualizing vocal cord vibration.
+>
 _____
 >[!info]+ ETYMOLOGY of [[dysphonia]]
 >#greek
@@ -37,7 +38,7 @@ _____
 - **[[-phonia]]:** Greek _phōnḗ_ (φωνή) = "**voice, sound**."
 - **Literal:** "**Abnormal voice**" or "**difficulty with voice**."
 _____
->[!tip]+ DERIVATIONS of [[dysphonia]]
+>[!tip]- DERIVATIONS of [[dysphonia]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
@@ -58,12 +59,12 @@ _____
 
 |Type|Characteristics/Mechanism|Presentation|
 |---|---|---|
-|**[[Spasmodic dysphonia]]**|Neurological; laryngeal dystonia with involuntary vocal cord spasms from overactive brain signals.[wexnermedical.osu+1](https://wexnermedical.osu.edu/ear-nose-throat/voice-and-swallowing-disorders/voice-disorders)|Strained/strangled (adductor) or breathy (abductor); voice breaks every few sentences.|
-|**Muscle tension dysphonia (MTD)**|Excessive laryngeal muscle tension; abnormal muscle activation patterns.[wexnermedical.osu+2](https://wexnermedical.osu.edu/ear-nose-throat/voice-and-swallowing-disorders/voice-disorders)|Strained, effortful voice; most common voice disorder.|
-|**Functional dysphonia**|No anatomical/neurological cause; voice impairment from overuse or psychological factors.[wexnermedical.osu+1](https://wexnermedical.osu.edu/ear-nose-throat/voice-and-swallowing-disorders/voice-disorders)|Hypofunctional (incomplete cord closure) or hyperfunctional (overuse).|
-|**Hoarseness/laryngitis**|Vocal cord inflammation/swelling from infection, overuse, irritants.[wexnermedical.osu+1](https://wexnermedical.osu.edu/ear-nose-throat/voice-and-swallowing-disorders/voice-disorders)|Rough, raspy voice; lasts ~2 weeks with viral infection.|
-|**Vocal cord paralysis**|Nerve damage interrupting laryngeal innervation (recurrent laryngeal nerve).[wexnermedical.osu+2](https://wexnermedical.osu.edu/ear-nose-throat/voice-and-swallowing-disorders/voice-disorders)|Weak, breathy voice; aspiration risk.|
-|**[[Phonotraumatic lesions]]**|[[Nodules]], [[polyps]], cysts from vocal abuse/overuse.[nationwidechildrens+1](https://www.nationwidechildrens.org/conditions/hoarse-voice-dysphonia)|Hoarseness, pitch breaks, vocal fatigue in professional voice users.|
+|**[[Spasmodic dysphonia]]**|Neurological; laryngeal dystonia with involuntary vocal cord spasms from overactive brain signals.|Strained/strangled (adductor) or breathy (abductor); voice breaks every few sentences.|
+|**Muscle tension dysphonia (MTD)**|Excessive laryngeal muscle tension; abnormal muscle activation patterns.|Strained, effortful voice; most common voice disorder.|
+|**Functional dysphonia**|No anatomical/neurological cause; voice impairment from overuse or psychological factors.|Hypofunctional (incomplete cord closure) or hyperfunctional (overuse).|
+|**Hoarseness/laryngitis**|Vocal cord inflammation/swelling from infection, overuse, irritants.|Rough, raspy voice; lasts ~2 weeks with viral infection.|
+|**Vocal cord paralysis**|Nerve damage interrupting laryngeal innervation (recurrent laryngeal nerve).|Weak, breathy voice; aspiration risk.|
+|**[[Phonotraumatic lesions]]**|[[Nodules]], [[polyps]], cysts from vocal abuse/overuse.|Hoarseness, pitch breaks, vocal fatigue in professional voice users.|
 
 ---
 
@@ -73,7 +74,7 @@ _____
 
 |Code|Description|
 |---|---|
-|**[[R49.0]]**|Dysphonia (unspecified hoarseness).|
+|**[[50 Medical Coding/ICD-10 Codes/R49.0]]**|Dysphonia (unspecified hoarseness).|
 |**[[R49.1]]**|[[Aphonia]] (complete voice loss).|
 |**[[J38.3]]**|Vocal cord paralysis.|
 |**[[J04.0]]**|Acute laryngitis.|
@@ -90,7 +91,7 @@ _____
 
 ## Causes and Risk Factors
 
-**Common etiologies:**[mayoclinic+2](https://www.mayoclinic.org/diseases-conditions/voice-disorders/symptoms-causes/syc-20353022)
+**Common etiologies:**
 - **Inflammation:** [[Viral laryngitis]], **GERD** ([[laryngopharyngeal reflux]]), allergies.
 - **Overuse/trauma:** Excessive talking, yelling, singing (teachers, singers, coaches).
 - **Structural lesions:** Vocal nodules ("singer's nodes"), polyps, cysts, [[papillomas]] (HPV).
@@ -102,7 +103,7 @@ _____
 
 ## Clinical Details
 
-**Symptoms:**[rush+1](https://www.rush.edu/conditions/dysphonia)
+**Symptoms:**
 - Hoarse, raspy, breathy, or strained voice.
 - Voice breaks/pitch changes.
 - Throat pain, rawness with speaking.
@@ -114,9 +115,9 @@ _____
 - **History:** Duration, triggers, voice use patterns.
 - **Laryngoscopy:** Flexible fiberoptic or [[videostroboscopy]] (visualize vocal cord motion, lesions).
 - **Acoustic analysis:** Voice quality measures.
-- **Labs:** If systemic disease suspected (thyroid, autoimmune).[[ncbi.nlm.nih](https://www.ncbi.nlm.nih.gov/books/NBK565881/)]​
+- **Labs:** If systemic disease suspected (thyroid, autoimmune).​
 
-**Management:**[pennmedicine+2](https://www.pennmedicine.org/conditions/spasmodic-dysphonia)
+**Management:**
 
 |Condition|Treatment|
 |---|---|
@@ -127,7 +128,7 @@ _____
 |**Nodules/polyps**|Voice therapy; surgery if refractory ([[microlaryngoscopy]]).|
 |**Vocal cord paralysis**|Voice therapy, medialization procedures, injection [[laryngoplasty]].|
 
-**Prognosis:** Excellent for acute laryngitis (2 weeks); chronic conditions require ongoing management; 70-80% improve with voice therapy for MTD.[[wexnermedical.osu](https://wexnermedical.osu.edu/ear-nose-throat/voice-and-swallowing-disorders/voice-disorders)]​
+**Prognosis:** Excellent for acute laryngitis (2 weeks); chronic conditions require ongoing management; 70-80% improve with voice therapy for MTD​
 
 ---
 
@@ -137,13 +138,13 @@ _____
 - History of smoking/alcohol (malignancy risk).
 - Hemoptysis, dysphagia, odynophagia.
 - Weight loss, neck mass.
-- Acute airway compromise.[[ncbi.nlm.nih](https://www.ncbi.nlm.nih.gov/books/NBK565881/)]​
+- Acute airway compromise.​
 
 ---
 
 ## One-Sentence Summary
 
-**Dysphonia** ([[R49.0]], Greek _dys[[-phonia]]_ "abnormal voice"), manifests as hoarseness/strain/breathiness from vocal cord inflammation (**laryngitis**), lesions (**nodules**), neurological disorders (spasmodic dystonia [[64617]] botox), or muscle tension (MTD), treated via voice therapy/surgery/medical management.[clevelandclinic+3](https://my.clevelandclinic.org/health/diseases/17105-hoarseness)
+**Dysphonia** ([[50 Medical Coding/ICD-10 Codes/R49.0]], Greek _dys[[-phonia]]_ "abnormal voice"), manifests as hoarseness/strain/breathiness from vocal cord inflammation (**laryngitis**), lesions (**nodules**), neurological disorders (spasmodic dystonia [[64617]] botox), or muscle tension (MTD), treated via voice therapy/surgery/medical management.
 
 ---
 

@@ -33,7 +33,7 @@ _____
 >[!info]+ ETYMOLOGY of angle-closure [[glaucoma]]
 >#greek The term "[[glaucoma]]" derives from Ancient Greek _glaukós_ (γλαυκός), meaning "**gleaming, blue-green, or gray,**" referring to the eye's appearance in advanced cases. "Angle-closure" describes the blocked iridocorneal angle; roots include *[[glauc(o)-]]* (**grayish**) and _**[[-oma]]**_ (condition or mass).
 _____
->[!tip]+ DERIVATIONS of angle-closure [[glaucoma]]
+>[!tip]- DERIVATIONS of angle-closure [[glaucoma]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

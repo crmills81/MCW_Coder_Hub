@@ -17,7 +17,7 @@ _____
 >[!info]+ ETYMOLOGY of [[rhinoplasty]]
 >#greek “Rhinoplasty” is formed from the Greek combining form _rhino-_ meaning “nose” (from Greek _[[rhis]], rhino-_, nose) and _-plasty_ from Greek _[[-plastia]]_ / _[[-plastos]]_ meaning “molded, formed.” Literally, it denotes “molding/shaping of the nose.”
 _____
->[!tip]+ DERIVATIONS of [[rhinoplasty]]
+>[!tip]- DERIVATIONS of [[rhinoplasty]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

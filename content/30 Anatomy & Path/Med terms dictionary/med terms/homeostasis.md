@@ -2,7 +2,9 @@
 tags:
   - medterm
   - medroot
-aliases: Homoeostasis
+aliases:
+  - Homoeostasis
+  - hemostasis
 roots:
   - homeostasis
   - homeo-
@@ -29,7 +31,7 @@ _____
 **[[Allostasis]]**: Adaptive adjustment to anticipated changes, differing from strict homeostasis.
 **Negative feedback**: Primary mechanism (e.g., **thermoregulation**).
 **Positive feedback**: Amplifies changes (e.g., labor contractions).
-**Examples**: **[[Cytostasis]]** (*cell stopping*), hemostasis (*blood stopping*).
+**Examples**: **[[Cytostasis]]** (*cell stopping*), [[hemostasis]] (*blood stopping*).
 _____
 >[!tip]- DERIVATIONS of [[homeostasis]]
 >```dataview

@@ -30,7 +30,7 @@ _____
 >- **[[-o]]-**: A combining vowel used in medical terminology to connect word roots and suffixes for ease of pronunciation.[](https://www.ncbi.nlm.nih.gov/books/NBK607447/)​
 >- **[[-scopy]]**: Derived from the Greek _skopia_, meaning "**to look at**" or "**visual examination**".
 _____
->[!tip]+ DERIVATIONS of [[ureteroscopy]]
+>[!tip]- DERIVATIONS of [[ureteroscopy]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name

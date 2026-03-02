@@ -20,17 +20,17 @@ definition:
 >****
 >|Term|Breakdown / note|Brief meaning|
 |---|---|---|
-|[[Bulbus oculi]]|Latin “*bulb of the eye*”|Anatomical term equivalent to globe/eyeball.[medical-dictionary.thefreedictionary+1](https://medical-dictionary.thefreedictionary.com/globe+of+the+eye)|
-|[[Eyeball]]|Common English term|The globe of the eye excluding appendages like eyelids and muscles.[medical-dictionary.thefreedictionary+1](https://medical-dictionary.thefreedictionary.com/globe+of+the+eye)|
-|Ocular globe|ocular “*of the eye*” + [[globe]]|Eyeball, about 25 mm in diameter when emmetropic.[vitreum+1](https://vitreum.ro/en/ophthalmological-dictionary/eyeball/)|
-|Globe rupture|descriptive|Full‑thickness injury of the eyewall (*cornea/sclera*) causing open‑globe trauma.[emedicine.medscape+1](https://emedicine.medscape.com/article/1923010-overview)|
-|Globe abnormalities|imaging term|Structural changes of the eyeball seen on CT/MR (size, shape, wall, contents).[pmc.ncbi.nlm.nih+1](https://pmc.ncbi.nlm.nih.gov/articles/PMC5007393/)|
+|[[Bulbus oculi]]|Latin “*bulb of the eye*”|Anatomical term equivalent to globe/eyeball.|
+|[[Eyeball]]|Common English term | The globe of the eye excluding appendages like eyelids and muscles.|
+|Ocular globe | ocular “*of the eye*” + [[globe]]|Eyeball, about 25 mm in diameter when emmetropic.|
+|Globe rupture | descriptive | Full‑thickness injury of the eyewall (*cornea/sclera*) causing open‑globe trauma. |
+|Globe abnormalities | imaging term | Structural changes of the eyeball seen on CT/MR (size, shape, wall, contents). |
 
 _____
 >[!info]+ ETYMOLOGY of [[globe]]
->#latin “[[globe]]” comes from Latin _[[globus]]_ meaning “*round mass, sphere, ball*,” describing its nearly spherical shape. The phrase “ocular [[globe]]” simply pairs “**ocular**” (Latin _ocularis_, “of the eye”) with “**globe**” to emphasize the spherical eye structure.[wiktionary+3](https://en.wiktionary.org/wiki/globus)
+>#latin “[[globe]]” comes from Latin _[[globus]]_ meaning “*round mass, sphere, ball*,” describing its nearly spherical shape. The phrase “ocular [[globe]]” simply pairs “**ocular**” (Latin _ocularis_, “of the eye”) with “**globe**” to emphasize the spherical eye structure.
 _____
->[!tip]+ DERIVATIONS of [[globe]]
+>[!tip]- DERIVATIONS of [[globe]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

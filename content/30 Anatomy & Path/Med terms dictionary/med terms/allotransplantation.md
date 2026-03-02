@@ -25,17 +25,17 @@ definition:
 >
 >|Term|Breakdown|Meaning|
 |---|---|---|
-|[[Allograft]]|[[allo‑]] “*other*” + **graft**|The actual organ/tissue transplanted between genetically different individuals of same species.[wikipedia+1](https://en.wikipedia.org/wiki/Allotransplantation)|
-|[[Allotransplant]]|[[allo‑]] + **transplant**|The graft or the act of transplanting between such individuals (verb or noun).[yourdictionary+1](https://www.yourdictionary.com/allotransplant)|
-|Autotransplantation]]|[[auto‑]] “**self**” + [[transplantation]]|Transplant from one site to another in the same individual (**autograft**).[wikipedia+1](https://en.wikipedia.org/wiki/Allotransplantation)|
-|[[Isograft]]/syngeneic transplant|[[iso‑]] “**equal**” + [[graft]]|Graft between genetically identical individuals (e.g., **identical twins**).[wikipedia+1](https://en.wikipedia.org/wiki/Allotransplantation)|
-|[[Xenotransplantation]]|[[xeno‑]] “**foreign**” + [[transplantation]]|Transplant of cells/tissues/organs between different species (e.g., **pig to human**).[wikipedia+1](https://en.wikipedia.org/wiki/Allotransplantation)|
-|[[Alloimmunity]] / [[allogeneic]]|[[allo‑]] + immunity / [[‑genic]]|Immune responses directed against antigens from a genetically different member of the same species, as in graft rejection.[nature+1](https://www.nature.com/subjects/allograft)|
+|[[Allograft]]|[[allo‑]] “*other*” + **graft**|The actual organ/tissue transplanted between genetically different individuals of same species.|
+|[[Allotransplant]]|[[allo‑]] + **transplant**|The graft or the act of transplanting between such individuals (verb or noun).|
+|Autotransplantation]]|[[auto‑]] “**self**” + [[transplantation]]|Transplant from one site to another in the same individual (**autograft**). |
+|[[Isograft]]/syngeneic transplant|[[iso‑]] “**equal**” + [[graft]]|Graft between genetically identical individuals (e.g., **identical twins**).[|
+|[[Xenotransplantation]]|[[xeno‑]] “**foreign**” + [[transplantation]]|Transplant of cells/tissues/organs between different species (e.g., **pig to human**).[|
+|[[Alloimmunity]] / [[allogeneic]]|[[allo‑]] + immunity / [[‑genic]]|Immune responses directed against antigens from a genetically different member of the same species, as in graft rejection.|
 _____
 >[!info]+ ETYMOLOGY of [[allotransplantation]]
->#greek “[[allotransplantation]]” is built from the combining form **[[allo‑]]** (Greek _allos_ meaning “other” or “different”) plus **transplantation** (“**transfer of tissue/organ to another site or person**”). The same _[[allo‑]]_ root appears in related terms like [[allograft]], [[allogeneic]], and [[alloimmune]], all referring to interactions between genetically different members of the same species.
+>#greek “[[allotransplantation]]” is built from the combining form **[[allo‑]]** (Greek _allos_ meaning “**other**” or “**different**”) plus **transplantation** (“**transfer of tissue/organ to another site or person**”). The same _[[allo‑]]_ root appears in related terms like [[allograft]], [[allogeneic]], and [[alloimmune]], all referring to interactions between genetically different members of the same species.
 _____
->[!tip]+ DERIVATIONS of [[allotransplantation]]
+>[!tip]- DERIVATIONS of [[allotransplantation]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

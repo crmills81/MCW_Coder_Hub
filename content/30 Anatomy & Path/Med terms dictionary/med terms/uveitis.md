@@ -29,7 +29,7 @@ _____
 >	•	[[-itis]]: Greek = “**inflammation**.”
 >	•	**Literal**: “*Grape inflammation*” (coined 19th century)
 _____
->[!tip]+ DERIVATIONS of [[uveitis]]
+>[!tip]- DERIVATIONS of [[uveitis]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

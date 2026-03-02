@@ -21,8 +21,8 @@ definition:
 _____
 >[!info]+ ETYMOLOGY of [[Optometry]]
 >#greek 
->- **[[Opto-]] (Combining Form):** Derived from the Ancient Greek _optos_, meaning "**seen**" or "**visible**". This root is related to _[[-opsis]]_ ("**view**" or "**sight**") and _ophthalmos_ ("**eye**"). It traces further back to the Proto-Indo-European root **okw-*, meaning "to see". 
->- **[[-metry]] (Suffix):** Derived from the Ancient Greek _metria_, meaning "**a measuring of**". This comes from _metron_ ("measure"), which stems from the PIE root **[[me-]]*, meaning "to measure".
+>- **[[Opto-]] (Combining Form):** Derived from the Ancient Greek _optos_, meaning "**seen**" or "**visible**". This root is related to _[[-opsis]]_ ("**view**" or "**sight**") and _ophthalmos_ ("**eye**"). It traces further back to the Proto-Indo-European root **okw-**, meaning "to see". 
+>- **[[-metry]] (Suffix):** Derived from the Ancient Greek _metria_, meaning "**a measuring of**". This comes from metron ("measure"), which stems from the PIE root **[[me-]]**, meaning "to measure".
 >
 _____
 >[!example]+ RELATED TERMS to [[Optometry]]
@@ -34,7 +34,7 @@ _____
 |     [[myopia]]      |  Nearsightedness  | [[op-]], [[myo-]], [[-pia]] | difficulty seeing far away |
 |   [[hyperopia]]    |    Farsightedness    | [[hyper-]], [[-ia]]  |  difficulty seeing up close  |
 _____
->[!tip]+ DERIVATIONS of [[Optometry]]
+>[!tip]- DERIVATIONS of [[Optometry]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

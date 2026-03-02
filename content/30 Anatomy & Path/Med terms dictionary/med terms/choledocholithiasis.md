@@ -22,7 +22,7 @@ ___
 >The medical term "**[[choledocholithiasis]]**" comes from #Greek roots and means **"condition of stones in the bile duct."** It combines "[[chol-]]" or "[[chole-]]" (**bile**), "[[-doch-]]" (**duct**), "[[-lith-]]" (**stone**), and the suffix "[[-iasis]]" (**condition**). While "[[choledoch-]]" literally means "**bile duct**," it's commonly understood to refer to the "**common bile duct.**"
 
 _____
->[!tip]+ DERIVATIONS of [[choledocholithiasis]]
+>[!tip]- DERIVATIONS of [[choledocholithiasis]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

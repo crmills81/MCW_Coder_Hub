@@ -32,7 +32,7 @@ _____
 >	•	[[-itis]]: Greek = “**inflammation**.”
 >	•	**Literal**: “Iris-circle inflammation” (*coined 19th century*).
 _____
->[!tip]+ DERIVATIONS of [[Iridocyclitis]]
+>[!tip]- DERIVATIONS of [[Iridocyclitis]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
@@ -75,7 +75,7 @@ _____
 - Posterior synechiae (iris-lens adhesions).  
 - [[Hypopyon]] (pus layer, severe).  
 
-**Types:** Acute ([[iritis]]), chronic (**JIA**), [[granulomatous]] (**TB**), non-granulomatous (HLA-B27).[4]
+**Types:** Acute ([[iritis]]), chronic (**JIA**), [[granulomatous]] (**TB**), non-granulomatous (HLA-B27).
 
 ## Related Terms
 
@@ -85,7 +85,7 @@ _____
 - **Synechiae:** Adhesions (posterior: pupil; anterior: iris angle).  
 - **SUN Criteria:** Standardization of Uveitis [[Nomenclature]] (cell/flare grading).  
 
-**Causes:** Idiopathic (50%), HLA-B27 (25%), JIA (children), infections, [[sarcoid]], IBD.[3][1]
+**Causes:** Idiopathic (50%), HLA-B27 (25%), JIA (children), infections, [[sarcoid]], IBD.
 
 ## Management and Complications
 
@@ -95,25 +95,14 @@ _____
 - **[[Periocular]]/systemic:** For non-responders.  
 - **Treat systemic:** Methotrexate (JIA), biologics (TNF-i).  
 
-**Complications:** [[Glaucoma]] (angle closure), [[cataract]], band [[keratopathy]], [[macular]] edema, vision loss.[3][4]
+**Complications:** [[Glaucoma]] (angle closure), [[cataract]], band [[keratopathy]], [[macular]] edema, vision loss.
 
 **Prognosis:** Excellent acute; chronic risks scarring (monitor **IOP, OCT**).[1]
 
 **One-Sentence Summary**  
-**[[Iridocyclitis]]** ([[H20.9]], Greek *[[iris-]] kuklos [[-itis]]*), anterior uveitis inflaming iris/[[ciliary body]], presents with pain/[[photophobia]]/AC cells (SUN graded), managed via steroids/cycloplegics; idiopathic or **HLA-B27/JIA**-associated with synechiae/glaucoma risks.[7][4][1][3]
+**[[Iridocyclitis]]** ([[H20.9]], Greek *[[iris-]] kuklos [[-itis]]*), anterior uveitis inflaming iris/[[ciliary body]], presents with pain/[[photophobia]]/AC cells (SUN graded), managed via steroids/cycloplegics; idiopathic or **HLA-B27/JIA**-associated with synechiae/glaucoma risks.
 
-Sources
-[1] Iridocyclitis: Causes, symptoms and treatments - All About Vision https://www.allaboutvision.com/conditions/infections-allergies/iridocyclitis/
-[2] Iridocyclitis: What Is It, Causes, Diagnosis, Treatment, and More https://www.osmosis.org/answers/iridocyclitis
-[3] Iridocyclitis: What It Is, Symptoms & Treatments - Cleveland Clinic https://my.clevelandclinic.org/health/diseases/iridocyclitis
-[4] Iridocyclitis: What is it? Causes and Treatment https://beacheye.com/blog/iridocyclitis-what-is-it-causes-and-treatment/
-[5] A to Z: Iridocyclitis - - Dayton Children's Hospital https://childrensdayton.org/kidshealth/az-iridocyclitis/
-[6] Iridocyclitis - Knowledge and References - Taylor & Francis https://taylorandfrancis.com/knowledge/Medicine_and_healthcare/Immunology/Iridocyclitis/
-[7] IRIDOCYCLITIS Definition & Meaning | Merriam-Webster Medical https://www.merriam-webster.com/medical/iridocyclitis
-[8] iridocyclitis | Taber's Medical Dictionary https://www.tabers.com/tabersonline/view/Tabers-Dictionary/764998/all/iridocyclitis?q=eye
-[9] Iridocyclitis - an overview | ScienceDirect Topics https://www.sciencedirect.com/topics/medicine-and-dentistry/iridocyclitis
-[10] Iridocyclitis | Profiles RNS - The University of Chicago https://profiles.uchicago.edu/profiles/profile/29559
-[11] Oncology ICD-10 Codes - Cancer Therapy Advisor https://www.cancertherapyadvisor.com/home/tools/oncology-icd10-codes/
+
 
 
 [[Med roots]]

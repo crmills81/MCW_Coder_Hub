@@ -22,10 +22,10 @@ definition:
 >[[pterygium]] is a fleshy, triangular or wedge‑shaped benign growth of the [[conjunctiva]] that extends onto the cornea, typically from the nasal side, linked to long‑term UV and environmental exposure. A **pterygium** is a **vascular, fibrous, wing‑shaped proliferation of bulbar conjunctiva that originates on the [[interpalpebral conjunctiva]] (most commonly nasally) and encroaches onto the corneal surface, sometimes progressing toward the visual axis.** It is considered a benign, non‑neoplastic lesion associated with **chronic ultraviolet (UV) light exposure, wind, dust, and dry environments, and may be asymptomatic or cause irritation, [[foreign‑body sensation]], redness, induced astigmatism, and vision impairment if it distorts or obscures the [[cornea**]].
 _____
 >[!info]+ ETYMOLOGY of [[pterygium]]
->#greek - From Greek **“pterygion”** (πτέρυγιον), diminutive of **“pteryx”** = _wing_.[theopticalco](https://theopticalco.com.au/blog/pterygium-causes-symptoms-and-treatment/)​ 
+>#greek - From Greek **“pterygion”** (πτέρυγιον), diminutive of **“pteryx”** = _wing_.
 >- The name reflects the characteristic **wing‑ or wedge‑shaped** extension of tissue onto the cornea. The word, “**pterygium**,” comes from the Greek words _pteryx_, meaning “**wing**,” and _pterygion_, meaning “**fin**.” Another name for pterygium is surfer’s eye. This is because surfers are often in the elements that cause pterygium — sun, wind, sand and salt.
 _____
->[!tip]+ DERIVATIONS of [[pterygium]]
+>[!tip]- DERIVATIONS of [[pterygium]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

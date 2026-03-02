@@ -14,7 +14,7 @@ _____
 >#latin; - **Root:** _Cribrum_ (meaning "a sieve") + _[[-form]]_ (meaning "shaped like").
 >- **History:** The term has been used since the 18th century to describe the unique, perforated structure of the ethmoid bone.
 _____
->[!tip]+ **DERIVATIONS** of [[cribriform]]
+>[!tip]- **DERIVATIONS** of [[cribriform]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

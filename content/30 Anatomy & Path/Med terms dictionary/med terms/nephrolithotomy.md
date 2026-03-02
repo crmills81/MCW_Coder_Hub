@@ -31,7 +31,7 @@ _____
 >	•	[[-tomy]]: Greek *tomḗ* (τομή) = “**incision, cutting**.”
 >	•	**Literal**: “**Kidney stone cutting/incision**” (*coined 19th century*).
 _____
->[!tip]+ DERIVATIONS of [[nephrolithotomy]]
+>[!tip]- DERIVATIONS of [[nephrolithotomy]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
@@ -71,38 +71,26 @@ _____
 ## Procedure Types
 
 - **Open Nephrolithotomy (50060):** Flank incision; rare (<1% cases).  
-- **Percutaneous Nephrolithotomy (PCNL, 50080/81):** Prone/supine; tract via 18G needle → Amplatz dilators → [[nephroscope]]; mini-PCNL (14-20 Fr tracts).[2][4]
+- **[[percutaneous]] Nephrolithotomy (PCNL, [[50800]]/81):** Prone/supine; tract via 18G needle → Amplatz dilators → [[nephroscope]]; mini-PCNL (14-20 Fr tracts).[2][4]
 - **Endourologic:** Flexible [[nephroscopy]] via tract.[4]
 
 **Indications:** Stones >2 cm, staghorn, **ESWL** failure, morbid obesity, abnormal anatomy.[2]
 
 ## Related Terms
 
-- **Nephrolithiasis:** Kidney stones (presence).  
-- **Pyelolithotomy:** Incision into renal pelvis (subset).  
+- **[[Nephrolithiasis]]:** Kidney stones (presence).  
+- **[[Pyelolithotomy]]:** Incision into renal pelvis (subset).  
 - **ESWL:** Extracorporeal shock wave [[lithotripsy]] (non-[[invasive]]).  
 - **[[ureteroscopy]] (URS):** Endoscopic for lower stones.  
-- **Staghorn Calculi:** Branching [[struvite]] stones (50081).  
+- **Staghorn Calculi:** Branching [[struvite]] stones ([[50081]]).  
 
 **Complications (5-30%):** Bleeding (transfusion 1-5%), infection/[[sepsis]] (3%), pleural injury ([[supracostal]]), colon perforation; Clavien III+ ~10%.[2]
 
-**Outcomes:** [[Stone]]-free rate 75-95% (complex cases lower); hospital stay 1-3 days.[4]
+**Outcomes:** [[Stone]]-free rate 75-95% (complex cases lower); hospital stay 1-3 days.
 
 **One-Sentence Summary**  
-**Nephrolithotomy** (Greek *nephro[[-litho-]][[-tomy]]* “**kidney-stone-cut**”), primarily PCNL (CPT 50080 simple ≤2 cm / 50081 complex >2 cm), surgically extracts large renal [[calculi]] (**N20.0**) via percutaneous flank tract with lithotripsy/stenting for staghorn/**ESWL** failures.[3][1][4][2]
+**Nephrolithotomy** (Greek *nephro[[-litho-]][[-tomy]]* “**kidney-stone-cut**”), primarily PCNL (CPT 50080 simple ≤2 cm / 50081 complex >2 cm), surgically extracts large renal [[calculi]] (**N20.0**) via percutaneous flank tract with lithotripsy/stenting for staghorn/**ESWL** failures.
 
-Sources
-[1] CPT Code 50060: What It Is, Modifiers, Reimbursement - MD Clarity https://www.mdclarity.com/cpt-code/50060
-[2] Clarifying coding for percutaneous nephrolithotomy ... https://www.urologytimes.com/view/clarifying-coding-for-percutaneous-nephrolithotomy-procedures
-[3] CPT Code 50081 - Description and Fee Schedule 2025 https://payerprice.com/rates/50081-CPT-fee-schedule
-[4] [PDF] Percutaneous Nephrostolithotomy (PCNL) - Boston Scientific https://www.bostonscientific.com/content/dam/bostonscientific/Reimbursement/Urology/2015/2015%20PCNL%20Reimbursement%20Guide.pdf
-[5] Clearing up confusion surrounding percutaneous ... https://www.urologytimes.com/view/clearing-up-confusion-surrounding-percutaneous-nephrolithotomy-coding
-[6] CPT® Code 50065 - Incision Procedures on the Kidney https://www.aapc.com/codes/cpt-codes/50065
-[7] Cardiac Catheterization Coding in ICD-10-PCS https://hiacode.com/blog/education/cardiac-catheterization-coding-in-icd-10-pcs
-[8] Oncology ICD-10 Codes - Cancer Therapy Advisor https://www.cancertherapyadvisor.com/home/tools/oncology-icd10-codes/
-[9] Percutaneous Procedure CPT Code Update - PMC - NIH https://pmc.ncbi.nlm.nih.gov/articles/PMC4859928/
-[10] How to code Percutaneous Nephrolithotomy | PCNL | PNL - YouTube https://www.youtube.com/watch?v=0ltBoLTIoUY
-[11] CPT® Code 50060 - Incision Procedures on the Kidney https://www.aapc.com/codes/cpt-codes/50060
 
 
 [[Med roots]]

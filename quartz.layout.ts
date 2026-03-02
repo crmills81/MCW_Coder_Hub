@@ -6,14 +6,16 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
-    links: {
-      "HappyCOVERGIRLCo": "https://happycovergirlcocovers.com",
-      "My Etsy Shop!": "https://happycovergirlco.etsy.com",
-      "My Bluesky": "https://bsky.app/profile/happycovergirlcocovers.com",
-      "My Pinterest": "https://www.pinterest.com/HappyCOVERGIRLCoArts/",
-    },
-  }),
+ footer: Component.Footer({
+  links: {
+    "HappyCOVERGIRLCo": "https://happycovergirlcocovers.com",
+    "My Etsy Shop!": "https://happycovergirlco.etsy.com",
+    "My Bluesky": "https://bsky.app/profile/happycovergirlcocovers.com",
+    "My Pinterest": "https://www.pinterest.com/HappyCOVERGIRLCoArts/",
+  },
+  description:
+    "This content is for general educational and reference purposes only and does not replace official coding resources. Users are responsible for verifying all codes and guidelines with current code books, encoder software, payer policies, and authoritative guidance before assigning or billing any codes."
+}),
 }
 
 // components for pages that display a single page (e.g. a single note)

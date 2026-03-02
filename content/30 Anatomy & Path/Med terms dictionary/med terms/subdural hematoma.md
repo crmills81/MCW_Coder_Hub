@@ -21,7 +21,7 @@ ___
 >[!info]+ Etymology of [[subdural hematoma]]
 >The term "[[subdural hematoma]]" combines "*subdural*" and "*hematoma*." **"Subdural" originated in 1870 from "sub-" and "dura (mater)"**, referring to its location beneath the dura mater. "[[Hematoma]]" came into use in 1826, combining the *Greek* "[[haimato-]]" (blood) and "[[30 Anatomy & Path/Med terms dictionary/Med roots/-oma]]" (morbid growth or tumor)
 _____
->[!tip]+ DERIVATIONS of [[subdural hematoma]]
+>[!tip]- DERIVATIONS of [[subdural hematoma]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

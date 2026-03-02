@@ -30,7 +30,7 @@ _____
 >- _[[-paresis]]_ (weakness, [[partial paralysis]]) - in **[[ophthalmoparesis]]**, a milder form of [[ophthalmoplegia]].
 
 _____
->[!tip]+ DERIVATIONS of [[ophthalmoplegia]]
+>[!tip]- DERIVATIONS of [[ophthalmoplegia]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

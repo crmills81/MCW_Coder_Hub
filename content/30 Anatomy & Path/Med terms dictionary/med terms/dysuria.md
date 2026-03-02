@@ -114,7 +114,7 @@ _____
 >|**[[Dysphagia]]**|_dys-_ + _[[phag/o-]]_ (swallow) + _-ia_|Difficulty swallowing​|
 
 _____
->[!tip]+ DERIVATIONS of [[dysuria]]
+>[!tip]- DERIVATIONS of [[dysuria]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name

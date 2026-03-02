@@ -1,11 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# give me short and long definitions, codes, etymology, related terms, and any other details you can give me about the medical keyword, paronychia create a markdown file.
-
-Based on the search results, here is a comprehensive markdown file about paronychia:
-
-***
-
 # PARONYCHIA - Medical Keyword Reference
 
 **Paronychia** is inflammation or infection of the skin around the fingernail or toenail, affecting one or more of the three nail folds (proximal and lateral).[^1][^2][^4]
@@ -152,7 +144,7 @@ Paronychia is a soft tissue infection affecting the proximal and lateral nail fo
 | Stage | Treatment |
 | :-- | :-- |
 | **Early (cellulitis only)** | Warm water soaks or Burow solution (aluminum acetate) 10-15 min 3-4x/day; topical antibiotics (mupirocin, bacitracin). |
-| **Abscess present** | **Incision and drainage (I\&D, CPT 10060):** Lift nail fold or remove portion of nail to drain pus; pack with gauze. |
+| **Abscess present** | **Incision and drainage (I &D, CPT 10060):** Lift nail fold or remove portion of nail to drain pus; pack with gauze. |
 | **Oral antibiotics** | Dicloxacillin, cephalexin, clindamycin (MRSA coverage), or amoxicillin-clavulanate (covers *S. aureus*, *Streptococcus*, anaerobes). |
 | **Severe/systemic** | IV antibiotics, hospitalization (diabetics, immunocompromised). |
 
@@ -169,7 +161,7 @@ Paronychia is a soft tissue infection affecting the proximal and lateral nail fo
 **Herpetic whitlow:**
 
 - **Conservative:** Self-limited; oral acyclovir/valacyclovir if severe or immunocompromised.
-- **Avoid I\&D:** Can worsen viral spread.
+- **Avoid I &D:** Can worsen viral spread.
 
 ***
 
@@ -206,7 +198,7 @@ Paronychia is a soft tissue infection affecting the proximal and lateral nail fo
 
 ## One-Sentence Summary
 
-**Paronychia** (L03.011/L03.012, Greek *para-onych-ia* "beside the nail"), acute bacterial (*S. aureus* purulent <6 weeks) or chronic irritant/fungal (*Candida* >6 weeks) nail fold inflammation from trauma/moisture, presents with painful erythematous swelling, treated via warm soaks/I\&D (10060) for acute cases or irritant avoidance/topical antifungals for chronic, with excellent acute prognosis but recurrent chronic course.[^1][^2][^8][^4]
+**Paronychia** (L03.011/L03.012, Greek *para-onych-ia* "beside the nail"), acute bacterial (*S. aureus* purulent <6 weeks) or chronic irritant/fungal (*Candida* >6 weeks) nail fold inflammation from trauma/moisture, presents with painful erythematous swelling, treated via warm soaks/I &D (10060) for acute cases or irritant avoidance/topical antifungals for chronic, with excellent acute prognosis but recurrent chronic course.[^1][^2][^8][^4]
 
 ***
 

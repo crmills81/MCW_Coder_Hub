@@ -20,7 +20,7 @@ ___
 >#greek From _[[cholangio-]]_ (Greek _kholḗ_ "bile" + _angeîon_ "**vessel**") + _[[-graphy]]_ (Greek _graphḗ_ "**writing/drawing**"). Means "**imaging of the bile ducts**."
 
 _____
->[!tip]+ DERIVATIONS of [[cholangiography]]
+>[!tip]- DERIVATIONS of [[cholangiography]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

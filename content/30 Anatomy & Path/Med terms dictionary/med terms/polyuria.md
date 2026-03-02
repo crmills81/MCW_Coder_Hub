@@ -24,7 +24,7 @@ _____
 >- [[-uria]]: from Greek _ouron_, meaning “[[urine]].”  
 >- Together, [[polyuria]] literally means “much urine” or “excessive urination by volume.”
 _____
->[!tip]+ DERIVATIONS of [[polyuria]]
+>[!tip]- DERIVATIONS of [[polyuria]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

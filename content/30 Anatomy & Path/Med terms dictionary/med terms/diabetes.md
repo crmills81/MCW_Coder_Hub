@@ -29,7 +29,7 @@ _____
 >[!info]+ ETYMOLOGY of [[diabetes]]
 >#greek The term "[[diabetes]]" derives from Greek _diabētēs_, meaning "**a siphon**" or "**to pass through**" (_[[30 Anatomy & Path/Med terms dictionary/Med roots/dia-]]_ "*through*" + _bainein_ "*to go*"), coined around 250 BCE by Apollonius of Memphis to describe **excessive urination**. "[[Mellitus]]," added by Thomas Willis in 1674, comes from #Latin for "**honey-sweet**," noting the **sweet urine due to glucose**.
 _____
->[!tip]+ DERIVATIONS of [[diabetes]]
+>[!tip]- DERIVATIONS of [[diabetes]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

@@ -25,7 +25,7 @@ _____
 >Cryptorchidism
 >Scrotum
 _____
->[!tip]+ DERIVATIONS of [[orchiectomy]]
+>[!tip]- DERIVATIONS of [[orchiectomy]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name

@@ -29,7 +29,6 @@ _____
 >#greek First attested in English in 1799. Greek φῶς, φωτ- (phōs, phōt-) — "**light**," from PIE root bʰā- ("**to shine, gleam**") Greek φόβος (*phóbos*) — "**fear, panic, flight**," from φέβομαι (*phébomai*, "**to flee in fear**"), from PIE root bʰegʷ- ("**to flee**") [[-ia]] — Greek abstract noun suffix indicating a state or condition. Literally translates to "**fear of light**," though as noted above, the clinical meaning is more accurately "*intolerance or painful sensitivity to light.*" **Components**: [[photo-]] (**light**) + [[-phobia]] (**fear/intolerance**) + [[-ia]] (**condition**)
 _____
 
-
 > [!question] COMMON CAUSES
 > **Photophobia** is a symptom of many conditions across multiple specialties: 
 > **Ophthalmologic**

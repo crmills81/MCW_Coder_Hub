@@ -31,7 +31,7 @@ _____
 >	•	[[-stomy]]: Greek *stóma* (στόμα) = “**mouth, opening.**”
 >	•	**Literal**: “**Kidney opening**” (coined mid‑20th century for percutaneous technique).
 _____
->[!tip]+ DERIVATIONS of [[nephrostomy]]
+>[!tip]- DERIVATIONS of [[nephrostomy]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
@@ -50,7 +50,7 @@ _____
 
 ## CPT Coding
 
-**Primary Codes:**[4][2][3][1]
+**Primary Codes:**
 | Code     | Description                                                                 |
 |----------|-----------------------------------------------------------------------------|
 | **[[50432]]** | Placement nephrostomy catheter percutaneous (incl. [[nephrostogram]], imaging). |

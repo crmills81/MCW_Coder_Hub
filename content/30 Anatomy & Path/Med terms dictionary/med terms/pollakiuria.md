@@ -23,7 +23,7 @@ _____
 >- [[-uria]]: Greek _ouron_ (οὖρον), “urine” (as in prior query).  
 >- Literally “*frequent urination*,” distinguishing it from volume-based terms like [[polyuria]].
 _____
->[!tip]+ DERIVATIONS of [[pollakiuria]]
+>[!tip]- DERIVATIONS of [[pollakiuria]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

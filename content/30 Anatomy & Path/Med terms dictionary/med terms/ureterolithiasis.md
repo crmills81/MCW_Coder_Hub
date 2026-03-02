@@ -42,7 +42,7 @@ _____
 >- **[[ureteroscopy]]**: Endoscopic removal of the stone (CPT **52352**/**52353**/**52356**).
 >- **Staghorn [[calculus]]**: A large, branched stone that fills the renal pelvis, distinct from a simple ureteral stone.
 _____
->[!tip]+ DERIVATIONS of [[ureterolithiasis]]
+>[!tip]- DERIVATIONS of [[ureterolithiasis]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

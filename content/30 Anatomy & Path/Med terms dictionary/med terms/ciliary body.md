@@ -325,3 +325,9 @@ The ciliary body consists of several specialized structures:
 *Reference: Cleveland Clinic, Kenhub, NCI, StatPearls, Wikipedia, All About Vision*  
 
 **Key Concept:** The ciliary body is a ring-shaped structure behind the iris with three critical functions: (1) producing aqueous humor to maintain eye pressure and nourish avascular structures, (2) controlling lens shape for accommodation/focusing, and (3) supporting the lens via zonular fibers. It's part of the uveal tract along with the iris and choroid, and is a target for glaucoma treatments that reduce aqueous production.
+
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]
