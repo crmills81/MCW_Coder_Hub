@@ -22,6 +22,7 @@ export default ((opts?: Options) => {
   <p class="footer-description">
     {opts.description}
   </p>
+  <br>
 )}
         <ul>
           {Object.entries(links).map(([text, link]) => (
