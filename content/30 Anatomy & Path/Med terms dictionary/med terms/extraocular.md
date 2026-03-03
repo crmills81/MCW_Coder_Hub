@@ -50,7 +50,7 @@ _____
 > - **Strabismus surgery**: Surgical tightening (**resection**) or loosening (**recession**) of extraocular muscles to correct misalignment.
 > - **[[Diplopia]]**: Double vision; a hallmark symptom of extraocular muscle dysfunction.
 > - **Congenital [[fibrosis]] of the extraocular muscles (CFEOM)**: Rare genetic disorder replacing EOM tissue with fibrous tissue.
-> - **[[Exophthalmos]] / [[Proptosis]]**: Forward protrusion of the eyeball, often from extraocular/[[orbital]] pathology.
+> - **[[Exophthalmos]] / [[proptosis]]**: Forward protrusion of the eyeball, often from extraocular/[[orbital]] pathology.
 > - **[[Nystagmus]]**: Involuntary, rhythmic eye movements involving abnormal extraocular muscle activity.
 _____
 >[!tip]- DERIVATIONS of [[extraocular]]

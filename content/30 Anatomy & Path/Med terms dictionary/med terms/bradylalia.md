@@ -44,7 +44,7 @@ ____
 >     
 > - **Neurological Exam:** Findings of bradykinesia (slow movement) in other muscle groups, masked facies (hypomimia), or a resting tremor.
 >     
-> - **Quantitative Measures:** Words per minute (WPM) significantly below the average range (typically 120–150 WPM for standard English).
+> - **Quantitative Measures:** Words per minute (WPM) significantly below the average range (typically 120-150 WPM for standard English).
 >     
 > 
 > ### Related Terms & Differentials

@@ -96,7 +96,7 @@ date_created: 2026-03-02
 > - **Documentation Requirements**: Laterality (right/left eye), specific location of cyst ([[bulbar]]/palpebral/fornix), size of cyst, reason for drainage
 > - **Coding Notes**: Do not report with more extensive [[conjunctiva|conjunctival]] procedures on same eye same session
 > - **Includes**: Local anesthesia, incision, drainage, simple wound care
-> - **Excludes**: [[chalazion]] drainage (use 67700-67710), complex conjunctival reconstruction
+> - **Excludes**: [[30 Anatomy & Path/Med terms dictionary/med terms/chalazion]] drainage (use 67700-67710), complex conjunctival reconstruction
 > 
 > #### **CPT [[68100]]** - Biopsy of Conjunctiva
 > - **wRVU**: 3.24
@@ -135,8 +135,6 @@ date_created: 2026-03-02
 > │ └── H13 Disorders of conjunctiva in diseases classified elsewhere
 > └── H59 Intraoperative and postprocedural complications and disorders of eye and adnexa
 > ```
-> 
-> 
 > 
 > 
 > ## MS-DRG Information
@@ -193,12 +191,12 @@ date_created: 2026-03-02
 > 
 > | Scenario | External Cause Code |
 > |----------|---------------------|
-> | Chemical exposure | X58 (Contact with corrosive substance) |
-> | Foreign body | W45.8 (Contact with sharp object) |
-> | Traumatic injury | S05.1- (Conjunctival laceration) |
-> | Sports injury | Y93.69 (Athletics NEC) |
-> | Work-related | Y99.0 (Work related condition) |
-> | Place of occurrence | Y92.- (See Place of Occurrence index) |
+> | **Chemical exposure** | X58 (Contact with corrosive substance) |
+> | **Foreign body** | W45.8 (Contact with sharp object) |
+> | **Traumatic injury** | S05.1- (Conjunctival laceration) |
+> | **Sports injury** | Y93.69 (Athletics NEC) |
+> | **Work-related** | Y99.0 (Work related condition) |
+> | **Place of occurrence** | Y92.- (See Place of Occurrence index) |
 > 
 > ---
 > 
@@ -219,11 +217,11 @@ date_created: 2026-03-02
 > 
 > | Reason | Prevention |
 > |--------|------------|
-> | Missing laterality | Ensure right/left/bilateral is documented |
-> | Unspecified when specific available | Code to highest specificity |
-> | Missing underlying condition | For H13- codes, code underlying disease first |
-> | Traumatic vs. non-traumatic confusion | Use S05.1- for traumatic, H11.3- for spontaneous |
-> | Duplicate coding | Don't code both conjunctivitis and blepharitis if blepharoconjunctivitis is documented |
+> | **Missing laterality** | Ensure right/left/bilateral is documented |
+> | **Unspecified when specific available** | Code to highest specificity |
+> | **Missing underlying condition** | For H13- codes, code underlying disease first |
+> | **Traumatic vs. non-traumatic confusion** | Use S05.1- for traumatic, H11.3- for spontaneous |
+> | **Duplicate coding** | Don't code both [[conjunctivitis]] and [[blepharitis]] if [[blepharoconjunctivitis]] is documented |
 > 
 > ---
 > 

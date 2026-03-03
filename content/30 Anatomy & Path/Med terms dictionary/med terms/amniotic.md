@@ -22,9 +22,9 @@ forms:
 _____
 >[!info]+ ETYMOLOGY of [[amniotic]]
 >#greek
->- **Root:** **[[amni/o-*]]* – Derived from the Ancient Greek _amnion_ (ἄμνιον). Historically, the term translated to "**little lamb**" or "**the bowl in which the blood of sacrificial victims was caught**," which early anatomists metaphorically applied to the fetal membrane sac.
+>- **Root:** **[[amni/o-*]]*  Derived from the Ancient Greek _amnion_ (ἄμνιον). Historically, the term translated to "**little lamb**" or "**the bowl in which the blood of sacrificial victims was caught**," which early anatomists metaphorically applied to the fetal membrane sac.
 >    
->- **Suffix:** **[[-tic]]** – Derived from the Latin _[[-ticus]]_ and Greek _[[-tikos]]_, meaning "**pertaining to**."
+>- **Suffix:** **[[-tic]]**  Derived from the Latin _[[-ticus]]_ and Greek _[[-tikos]]_, meaning "**pertaining to**."
 >    
 >- **Literal Meaning:** "Pertaining to the fetal membrane/sac."
 

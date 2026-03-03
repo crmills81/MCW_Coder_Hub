@@ -28,11 +28,11 @@ forms:
 ___
 >[!info]+ Etymology of [[anastomosis]]
 >#greek
->- **Prefix:** **[[ana-]]** – Derived from the Greek _ana_, meaning "**up**," "**back**," "**again**," or "**throughout**."
+>- **Prefix:** **[[ana-]]**  Derived from the Greek _ana_, meaning "**up**," "**back**," "**again**," or "**throughout**."
 >    
->- **Root:** **[[stom/a-]]** – Derived from the Greek _stoma_ (στόμα), meaning "**mouth**" or "**opening**."
+>- **Root:** **[[stom/a-]]**  Derived from the Greek _stoma_ (στόμα), meaning "**mouth**" or "**opening**."
 >    
->- **Suffix:** **[[-osis]]** – Derived from Greek _[[-osis]]_, denoting a "**condition**," "**process**," or "**action**."
+>- **Suffix:** **[[-osis]]**  Derived from Greek _[[-osis]]_, denoting a "**condition**," "**process**," or "**action**."
 >    
 >- **Literal Meaning:** "The condition/process of furnishing with a mouth again" or "creating a new opening/connection."
 >

@@ -24,7 +24,7 @@ definition:
   - eyelid
 ---
 >[!Note] DEFINITION of [[blepharitis]]
->**bleph·a·ri·tis /ˌblefəˈrīdəs/** - **[[blepharitis]]** is an **inflammation of the eyelids** in which they become red, irritated and itchy with dandruff-like scales that form on the eyelashes. It is a common eye disorder caused by either bacteria or a skin condition, such as dandruff of the scalp or rosacea. **Blepharitis** is a common, often chronic inflammatory process affecting the eyelids. It is clinically categorized into **[[anterior]]** (**affecting the base of the eyelashes**) and **[[posterior]]** (**associated with Meibomian gland dysfunction**). While rarely sight-threatening, it causes significant ocular discomfort and can lead to secondary changes like [[conjunctivitis]], hordeola ([[styes]]), or [[chalazia]]. The pathophysiology often involves bacterial colonization (**Staphylococcal**) or skin conditions such as [[seborrheic dermatitis]] and [[rosacea]].
+>**bleph·a·ri·tis /ˌblefəˈrīdəs/** - **[[blepharitis]]** is an **inflammation of the eyelids** in which they become red, irritated and itchy with dandruff-like scales that form on the eyelashes. It is a common eye disorder caused by either bacteria or a skin condition, such as dandruff of the scalp or rosacea. **Blepharitis** is a common, often chronic inflammatory process affecting the eyelids. It is clinically categorized into **[[anterior]]** (**affecting the base of the eyelashes**) and **[[posterior]]** (**associated with Meibomian gland dysfunction**). While rarely sight-threatening, it causes significant ocular discomfort and can lead to secondary changes like [[conjunctivitis]], hordeola ([[styes]]), or [[chalazion]]. The pathophysiology often involves bacterial colonization (**Staphylococcal**) or skin conditions such as [[seborrheic dermatitis]] and [[rosacea]].
 _____
 >[!info]+ ETYMOLOGY of [[blepharitis]]
 >mid 19th century: from #Greek _blepharon_ ‘**eyelid**’ + [-itis]
@@ -73,7 +73,7 @@ _____
 >     
 > - **[[Hordeolum]]:** An acute focal infection ([[stye]]) of an eyelid gland; while blepharitis is a generalized inflammation of the margin.
 >     
-> - **[[chalazion]]:** A non-infectious granuloma of a Meibomian gland; often a chronic sequela of posterior blepharitis.
+> - **[[30 Anatomy & Path/Med terms dictionary/med terms/chalazion]]:** A non-infectious granuloma of a Meibomian gland; often a chronic sequela of posterior blepharitis.
 >     
 > - **[[Blepharoconjunctivitis]]:** Inflammation involving both the eyelid margins and the bulbar or palpebral conjunctiva.
 >     

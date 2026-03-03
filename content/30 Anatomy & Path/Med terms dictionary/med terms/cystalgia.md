@@ -50,34 +50,34 @@ ____
 
 > [!example]+ **ICD-10-CM Code(s):**
 > 
-> - **R39.89 – Other GU Symptoms**: This code is used to report cystalgia or bladder pain when a more specific diagnosis has not yet been established.
+> - **[[R39.89]] - Other GU Symptoms**: This code is used to report [[cystalgia]] or bladder pain when a more specific diagnosis has not yet been established.
 >     
-> - **[[N30.10]] – Interstitial Cystitis (no hematuria)**: Used for chronic bladder pain syndrome (interstitial cystitis) without blood in the urine.
+> - **[[N30.10]] - Interstitial Cystitis (no [[hematuria]])**: Used for chronic bladder pain syndrome (interstitial cystitis) without blood in the urine.
 >     
-> - **N30.11 – Interstitial Cystitis (w/ hematuria)**: Used for chronic bladder pain syndrome where blood is present in the urine.
+> - **[[N30.11]] - Interstitial Cystitis (w/ hematuria)**: Used for chronic bladder pain syndrome where blood is present in the urine.
 >     
-> - **[[N30.20]] – Other Chronic Cystitis**: Reported for chronic bladder inflammation not specified as interstitial, which presents with persistent pain.
+> - **[[N30.20]] - Other Chronic Cystitis**: Reported for chronic bladder inflammation not specified as interstitial, which presents with persistent pain.
 >     
-> - **N32.89 – Other Bladder Disorders**: Frequently used for "Bladder Pain Syndrome" or cases of cystalgia not elsewhere classified.
+> - **[[N32.89]] - Other Bladder Disorders**: Frequently used for "**Bladder Pain Syndrome**" or cases of cystalgia not elsewhere classified.
 >     
-> - **R10.2 – Pelvic and Perineal Pain**: A broad symptom code for localized pain in the pelvic region, often used for initial encounters.
+> - **R10.2 - Pelvic and Perineal Pain**: A broad symptom code for localized pain in the pelvic region, often used for initial encounters.
 >     
 > 
 > ### **CPT/HCPCS Code(s):**
 > 
-> - **52000 – Cystourethroscopy, diagnostic**: A procedure where a scope is used to visually inspect the bladder and urethra to identify the cause of pain (e.g., stones, tumors, or inflammation).
+> - **52000 - Cystourethroscopy, diagnostic**: A procedure where a scope is used to visually inspect the bladder and urethra to identify the cause of pain (e.g., stones, tumors, or inflammation).
 >     
 >     - **WRVU**: 1.10
 >         
 >     - **Assistant Payable**: No
 >         
-> - **[[52260]] – Cystourethroscopy, with bladder distension (interstitial cystitis)**: A surgical treatment/diagnostic procedure involving the expansion of the bladder under general or spinal anesthesia, specifically for patients with chronic bladder pain.
+> - **[[52260]] - Cystourethroscopy, with bladder distension (interstitial cystitis)**: A surgical treatment/diagnostic procedure involving the expansion of the bladder under general or spinal anesthesia, specifically for patients with chronic bladder pain.
 >     
 >     - **WRVU**: 2.80
 >         
 >     - **Assistant Payable**: No
 >         
-> - **51700 – Bladder irrigation, simple, lavage and/or instillation**: Used for the delivery of therapeutic agents (like "bladder cocktails") directly into the bladder to relieve pain.
+> - **51700 - Bladder irrigation, simple, lavage and/or instillation**: Used for the delivery of therapeutic agents (like "bladder cocktails") directly into the bladder to relieve pain.
 >     
 >     - **WRVU**: 0.35
 >         

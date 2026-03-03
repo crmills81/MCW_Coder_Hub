@@ -85,7 +85,7 @@ _____
 > 
 > - [[Refractive]]/misaligned optics: [[astigmatism]], keratoconus, high uncorrected refractive error.
 > - Media opacity: cataract, capsular changes, dislocated lens.
-> - Corneal or eyelid problems: [[pterygium]], [[stye]]/[[chalazion]] pressing on the cornea, dry eye, keratoendothelliitis, corneal edema.
+> - Corneal or eyelid problems: [[pterygium]], [[stye]]/[[30 Anatomy & Path/Med terms dictionary/med terms/chalazion]] pressing on the cornea, dry eye, keratoendothelliitis, corneal edema.
 > 
 > ---
 > 

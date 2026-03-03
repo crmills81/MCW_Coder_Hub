@@ -81,7 +81,7 @@ _____
 > - _Anatomical Exclusions (Code to the specific organ instead):_
 >     - Cellulitis of anal and rectal region (K61.-).
 >     - Cellulitis of external genital organs ([[N48.2]] for male, [[N76.4]] for female).
->     - Cellulitis of eyelid (H00.0 - [[Hordeolum]] and [[chalazion]] / [[Preseptal cellulitis]]).
+>     - Cellulitis of eyelid (H00.0 - [[Hordeolum]] and [[30 Anatomy & Path/Med terms dictionary/med terms/chalazion]] / [[Preseptal cellulitis]]).
 >     - Cellulitis of mouth ([[K12.2]]).
 > 
 > **Excludes2 (Type 2 Excludes - Can be coded together if distinct):**

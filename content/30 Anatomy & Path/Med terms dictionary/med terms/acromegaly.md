@@ -31,44 +31,44 @@ ___
 
 ____
 > [!example]+ ICD-10-CM Code(s):
-> **Code – Short Title: Explanation**
+> **Code  Short Title: Explanation**
 > 
-> - **M24.551 / M24.552** – Contracture, right hip / Contracture, left hip: Used for an abduction contracture of the hip, where the joint is restricted and fixed in an abducted position.
+> - **M24.551 / M24.552**  Contracture, right hip / Contracture, left hip: Used for an abduction contracture of the hip, where the joint is restricted and fixed in an abducted position.
 >     
-> - **M24.511 / M24.512** – Contracture, right shoulder / Contracture, left shoulder: Used for an [[abduction]] contracture of the shoulder joint.
+> - **M24.511 / M24.512**  Contracture, right shoulder / Contracture, left shoulder: Used for an [[abduction]] contracture of the shoulder joint.
 >     
-> - **M24.50** – Contracture, unspecified joint: Used when an abduction contracture is documented but the specific joint is not identified.
+> - **M24.50**  Contracture, unspecified joint: Used when an abduction contracture is documented but the specific joint is not identified.
 >     
-> - [[**H49.21]] / [[H49.22]]** – Sixth [abducens] [[nerve palsy]], right eye / left eye: The abducens nerve controls the lateral rectus muscle, which abducts the eye. A palsy results in an inability to abduct the eye outward.
+> - [[**H49.21]] / [[H49.22]]**  Sixth [abducens] [[nerve palsy]], right eye / left eye: The abducens nerve controls the lateral rectus muscle, which abducts the eye. A palsy results in an inability to abduct the eye outward.
 >     
-> - **M62.40** – Contracture of muscle, unspecified site: Used if the abduction contracture is strictly muscular rather than involving the joint capsule itself.
+> - **M62.40**  Contracture of muscle, unspecified site: Used if the abduction contracture is strictly muscular rather than involving the joint capsule itself.
 >     
-> - **R26.2** – Difficulty walking, not elsewhere classified: Used as an ancillary code if there is documented functional gait impairment due to an abduction/adduction deformity of the lower extremities.
+> - **R26.2**  Difficulty walking, not elsewhere classified: Used as an ancillary code if there is documented functional gait impairment due to an abduction/adduction deformity of the lower extremities.
 >     
 > 
 > **CPT/HCPCS Code(s):**
 > 
-> **Code – Long Title: Explanation**
+> **Code  Long Title: Explanation**
 > 
-> - **28240** – Tenotomy, lengthening, or release, abductor hallucis muscle: Surgical release or lengthening of the abductor hallucis muscle in the foot, commonly performed to relieve foot pain or correct toe deformities.
+> - **28240**  Tenotomy, lengthening, or release, abductor hallucis muscle: Surgical release or lengthening of the abductor hallucis muscle in the foot, commonly performed to relieve foot pain or correct toe deformities.
 >     
 >     - **WRVU:** ~4.41
 >         
 >     - **Assistant Payable:** Yes
 >         
-> - **[[27256]]** – Treatment of spontaneous hip dislocation (developmental, including congenital or pathological), by abduction, splint or traction; without anesthesia, without manipulation: Non-surgical closed treatment of a hip dislocation utilizing an abduction splint or traction to realign the joint.
+> - **[[27256]]**  Treatment of spontaneous hip dislocation (developmental, including congenital or pathological), by abduction, splint or traction; without anesthesia, without manipulation: Non-surgical closed treatment of a hip dislocation utilizing an abduction splint or traction to realign the joint.
 >     
 >     - **WRVU:** 4.17
 >         
 >     - **Assistant Payable:** Yes
 >         
-> - **27257** – Treatment of spontaneous hip dislocation (developmental, including congenital or pathological), by abduction, splint or traction; with anesthesia, without manipulation: Similar to 27256, but performed under anesthesia.
+> - **27257**  Treatment of spontaneous hip dislocation (developmental, including congenital or pathological), by abduction, splint or traction; with anesthesia, without manipulation: Similar to 27256, but performed under anesthesia.
 >     
 >     - **WRVU:** 5.25
 >         
 >     - **Assistant Payable:** Yes
 >         
-> - **L1652** – Hip orthosis, bilateral thigh cuffs with adjustable abductor spreader bar, adult size, prefabricated, includes fitting and adjustment: HCPCS code for an adjustable hip abduction brace or orthosis.
+> - **L1652**  Hip orthosis, bilateral thigh cuffs with adjustable abductor spreader bar, adult size, prefabricated, includes fitting and adjustment: HCPCS code for an adjustable hip abduction brace or orthosis.
 >     
 >     - **WRVU:** N/A
 >         
