@@ -33,8 +33,8 @@ ____
 > [!tip]+ RELATED OPHTHALMOLIC TERMS
 > | Term | Meaning |
 > |---|---|
-> | **[[Scleritis]]** | Serious, painful inflammation of the sclera; often associated with systemic [[autoimmune]] disease (e.g., RA, [[granulomatosis]] with [[polyangiitis]])  |
-> | **[[Episcleritis]]** | Benign, self-limiting inflammation of the [[episclera]] (outer scleral layer); less painful than scleritis  |
+> | **[[scleritis]]** | Serious, painful inflammation of the sclera; often associated with systemic [[autoimmune]] disease (e.g., RA, [[granulomatosis]] with [[polyangiitis]])  |
+> | **[[episcleritis]]** | Benign, self-limiting inflammation of the [[episclera]] (outer scleral layer); less painful than scleritis  |
 > | **[[Scleral buckle]]** | Surgical band placed around the sclera to treat [[retinal detachment]]  |
 > | **[[Sclerocornea]]** | Rare congenital anomaly where cornea blends with sclera, causing opacity  |
 > | **Scleral lens** | Large-diameter contact lens vaulting over the cornea and resting on the sclera  |

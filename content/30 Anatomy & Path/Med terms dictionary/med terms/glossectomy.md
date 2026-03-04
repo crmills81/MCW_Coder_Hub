@@ -63,9 +63,9 @@ _____
 > 
 > ## Frequently associated procedures/structures
 > 
-> - [[Laryngectomy]] - often with total [[glossectomy]] to prevent aspiration.
+> - [[laryngectomy]] - often with total [[glossectomy]] to prevent aspiration.
 >     
-> - [[Tracheostomy]] - temporary airway management post-surgery.​
+> - [[tracheostomy]] - temporary airway management post-surgery.​
 >     
 > - Radial forearm free flap - common reconstruction donor site.
 >     

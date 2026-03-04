@@ -14,7 +14,7 @@ export const sharedPageComponents: SharedLayout = {
     "My Pinterest": "https://www.pinterest.com/HappyCOVERGIRLCoArts/",
   },
   description:
-    "This content is for general educational and reference purposes only and does not replace official coding resources. Users are responsible for verifying all codes and guidelines with current code books, encoder software, payer policies, and authoritative guidance before assigning or billing any codes."
+    "This content is for general educational and reference purposes only and does not replace official coding resources. Users are responsible for verifying all codes and guidelines with current code books, encoder software, payer policies, and authoritative guidance before assigning or billing any codes.<br/><br/>"
 }),
 }
 

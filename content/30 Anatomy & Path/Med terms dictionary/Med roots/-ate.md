@@ -66,7 +66,7 @@ _____
 > **Otolaryngological:**
 > 
 > - **[[Intubate]]**: [[Endotracheal intubation]] (**airway management**)
-> - **[[Tracheostomy]]** vs **Tracheotomize**: Related to [[tracheal]] procedures
+> - **[[tracheostomy]]** vs **Tracheotomize**: Related to [[tracheal]] procedures
 > - **[[Cauterize]]**: Nasal cauterization for [[epistaxis]]
 > - **Irrigate**: Sinus irrigation, ear irrigation
 > - **[[Perforate]]**: [[Tympanic membrane perforation]]

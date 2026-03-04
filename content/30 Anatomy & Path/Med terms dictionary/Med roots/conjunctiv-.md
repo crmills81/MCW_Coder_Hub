@@ -52,7 +52,7 @@ _____
 > |---|---|---|
 > |**[[blephar/o-]]**|Eyelid|[[Blepharitis]], [[blepharoplasty]] |
 > |**[[corne/o-]]**|Cornea|[[Keratoconjunctivitis]] (cornea + conjunctiva) |
-> |**[[scler/o-]]**|Sclera / hard|[[Episcleritis]], [[scleritis]] |
+> |**[[scler/o-]]**|Sclera / hard|[[episcleritis]], [[scleritis]] |
 > |**[[dacry/o-]], [[lacrim/o-]]**|Tears, tear duct|[[Dacryocystitis]], [[lacrimal]] sac |
 > |**[[ophthalm/o-]], [[ocul/o-]]**|Eye|[[Ophthalmology]], oculomotor |
 
