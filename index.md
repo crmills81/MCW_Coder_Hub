@@ -13,15 +13,16 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 >
 ## High‑Yield References
 
-- [[10 Guidelines/20 MDM Tables - Printable/MDM Tables]]
+- [[MDM Tables]]
 - [[60 CIC Stuff/PCS Root Operation Grid|PCS Root Operation Grid]]
-- [[10 Guidelines/00 E&M Resources/Facility E&M Quick Guide]]
+- [[Facility E&M Quick Guide]]
 - [[Status Indicators Quick Reference]]
-- [[10 Guidelines/UB‑04 Field Reference]]
+- [[UB‑04 Field Reference]]
 - [[30 Anatomy & Path/Med terms dictionary/med terms]]
 - [[30 Anatomy & Path/Med terms dictionary/Med roots]]
 - [[50 Medical Coding/CPT Codes]]
 - [[50 Medical Coding/ICD-10 Codes]]
+- 
 
 ## Coding Rules & Guides
 - [[Audit Checklists]]
@@ -33,7 +34,7 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 # 🧪 Practice & Scenarios
 >
 ## Coding Practice
-- [[Coding Scenarios]]
+- [[10 Coding Scenarios]]
 - [[Practice Case 1 - {{Urology}}]]
 - [[Practice Case 2 - {{Urology}}]]
 - [[Practice Cases 4-6 - {{Urology}}]]
@@ -41,7 +42,7 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 
 
 ## Audit Practice
-- [[Audit Notes]]
+- [[Handling Coding-Related Insurance Denials]]
 - [[CPT_99231_Template]]
 
 ---
@@ -52,10 +53,9 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 - [[CIC Study Plan]]
 - [[CIC Study Notes]]
 - [[CIC Quick Reference]]
-- [[60 CIC Stuff/PCS Root Operation Grid]]
+- [[Mastering Inpatient Coding for CIC]]
 
 ## High‑Yield Topics
-- OR vs Non‑OR procedures  
 - [[PCS Body Part Index]]  
 - [[Facility Billing Handbook]]
 - DRG shifts  
@@ -70,6 +70,4 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 
 <br>
 
-*<font color="#7f7f7f">"Always verify codes and guidelines with current code books, encoder tools, and payer policies before use."</font>*
-
-
+<font color="#7f7f7f"> 🆒Always verify codes and guidelines with current code books, encoder tools, and payer policies before use.🆒 </font>
