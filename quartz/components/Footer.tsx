@@ -23,6 +23,7 @@ export default ((opts?: Options) => {
     {opts.description}
   </p>
   <br>
+  <br>
 )}
         <ul>
           {Object.entries(links).map(([text, link]) => (
