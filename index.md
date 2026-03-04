@@ -70,6 +70,6 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 
 <br>
 
-*<font color="#7f7f7f">"This content is for general educational and reference purposes only and does not replace official coding resources. Users are responsible for verifying all codes and guidelines with current code books, encoder software, payer policies, and authoritative guidance before assigning or billing any codes."</font>*
+*<font color="#7f7f7f">"Always verify codes and guidelines with current code books, encoder tools, and payer policies before use."</font>*
 
 
