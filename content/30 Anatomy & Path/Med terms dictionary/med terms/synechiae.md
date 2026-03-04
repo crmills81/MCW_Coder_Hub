@@ -27,7 +27,7 @@ definition:
 _____
 >[!info]+ ETYMOLOGY of [[synechiae]]
 >#greek 
->The word derives from the Greek _synecheia_ (συνέχεια), from _[[syn-]]_ (σύν) meaning "**together**" or "**with**," and _echein_ (ἔχειν) meaning "**to hold**" or "**to have**." Combined, the literal meaning is "**a holding together**" — perfectly describing the pathological binding of normally separate structures. The term entered medical Latin and was adopted into English anatomical and pathological nomenclature in the 17th–18th centuries, initially applied almost exclusively to **ocular adhesions**.
+>The word derives from the Greek _synecheia_ (συνέχεια), from _[[syn-]]_ (σύν) meaning "**together**" or "**with**," and _echein_ (ἔχειν) meaning "**to hold**" or "**to have**." Combined, the literal meaning is "**a holding together**" — perfectly describing the pathological binding of normally separate structures. The term entered medical Latin and was adopted into English anatomical and pathological nomenclature in the 17th-18th centuries, initially applied almost exclusively to **ocular adhesions**.
 _____
 
 > [!example]+ **RELATED TERMS**

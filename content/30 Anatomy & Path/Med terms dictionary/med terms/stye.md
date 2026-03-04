@@ -59,12 +59,12 @@ _____
 > 
 > **CPT Codes** _CPT codes depend entirely on the treatment provided. There is no CPT code for the diagnosis alone._
 > 
-> - **No Procedure (Conservative Management):** If treated only with warm compresses or topical antibiotics prescribed in an office visit, use an **E/M Code** (e.g., **[[99202]]–[[99215]]** for Office/Outpatient visits) based on medical decision making or time.
-> - **Incision and Drainage (Simple):** **[[10040]]** – Acne surgery (includes marsupialization, opening or removal of multiple **comedones**, **cysts**, **pustules**). _Note: Some coders use this for simple stye expression, though it is technically for acne._
-> - **Incision and Drainage (Complex/Specific):** **[[10060]]** – Incision and drainage of abscess (e.g., [[carbuncle]], [[suppurative hidradenitis]], [[cutaneous]] or [[subcutaneous]] [[abscess]], [[cyst]], [[furuncle]], or [[paronychia]]); simple or single. **(Most commonly used for a single stye requiring I&D)**.
-> - **Incision and Drainage (Complicated):** **[[10061]]** – Incision and drainage of abscess; complicated or multiple.
-> - **Excision of Chalazion/Stye:** **[[17380]]** – Excision of chalazion; single. (Often used if the lesion is excised rather than just drained, or if it has become a chalazion).
-> - **Excision Multiple:** **[[17381]]** – Excision of [[chalazion]]; multiple, same eyelid.
+> - **No Procedure (Conservative Management):** If treated only with warm compresses or topical antibiotics prescribed in an office visit, use an **E/M Code** (e.g., **[[99202]]-[[99215]]** for Office/Outpatient visits) based on medical decision making or time.
+> - **Incision and Drainage (Simple):** **[[10040]]** - Acne surgery (includes marsupialization, opening or removal of multiple **comedones**, **cysts**, **pustules**). _Note: Some coders use this for simple stye expression, though it is technically for acne._
+> - **Incision and Drainage (Complex/Specific):** **[[10060]]** - Incision and drainage of abscess (e.g., [[carbuncle]], [[suppurative hidradenitis]], [[cutaneous]] or [[subcutaneous]] [[abscess]], [[cyst]], [[furuncle]], or [[paronychia]]); simple or single. **(Most commonly used for a single stye requiring I&D)**.
+> - **Incision and Drainage (Complicated):** **[[10061]]** - Incision and drainage of abscess; complicated or multiple.
+> - **Excision of Chalazion/Stye:** **[[17380]]** - Excision of chalazion; single. (Often used if the lesion is excised rather than just drained, or if it has become a chalazion).
+> - **Excision Multiple:** **[[17381]]** - Excision of [[chalazion]]; multiple, same eyelid.
 
 _____
 >[!tip]- DERIVATIONS of [[stye]]

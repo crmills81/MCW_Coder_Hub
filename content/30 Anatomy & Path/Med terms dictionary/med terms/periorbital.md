@@ -111,7 +111,7 @@ _____
 > 
 > For your coding brain, the classic “**periorbital**” diagnosis to remember is **periorbital cellulitis**:
 > 
-> - **[[L03.213]] – **Periorbital cellulitis** ([[cellulitis]] and acute [[lymphangitis]] of face, periorbital region).
+> - **[[L03.213]] - **Periorbital cellulitis** ([[cellulitis]] and acute [[lymphangitis]] of face, periorbital region).
 >     
 > - Defined clinically as infection/inflammation of eyelid and skin around the eye _anterior_ to the orbital septum; distinct from orbital [[cellulitis]], which is [[postseptal]] and more emergent.
 

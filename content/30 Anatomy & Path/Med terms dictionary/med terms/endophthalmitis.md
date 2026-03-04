@@ -106,7 +106,7 @@ _____
 > |**B73.01**|Onchocerciasis with endophthalmitis|
 > 
 > >[!note]  ⚠️ **Coding note:** 
-> >These ICD-10-CM codes range from 6–7 characters. The eye laterality codes (**ending in 1 = right, 2 = left, 3 = bilateral, 9 = unspecified**) represent the highest level of specificity available for this category — a 7th character is **not applicable** for the H44 category. Always code the causative organism additionally (**e.g., _B96.xx, B44.x_ for fungal**) when documented.
+> >These ICD-10-CM codes range from 6-7 characters. The eye laterality codes (**ending in 1 = right, 2 = left, 3 = bilateral, 9 = unspecified**) represent the highest level of specificity available for this category — a 7th character is **not applicable** for the H44 category. Always code the causative organism additionally (**e.g., _B96.xx, B44.x_ for fungal**) when documented.
 > 
 > ---
 > 
@@ -125,9 +125,9 @@ _____
 >
 > **Key Coding Notes**
 > 
-> - **Bleb-associated endophthalmitis** → Use **H59.4–** (postprocedural, not H44)
+> - **Bleb-associated endophthalmitis** → Use **H59.4-** (postprocedural, not H44)
 > - **Postoperative endophthalmitis** → May require an additional **T** code for the causative procedure complication
-> - **Infectious etiology** → Code the causative organism additionally (e.g., _B95–B97_ for bacterial/viral, or a specific organism code)
+> - **Infectious etiology** → Code the causative organism additionally (e.g., _B95-B97_ for bacterial/viral, or a specific organism code)
 > - **Laterality** is required — query the provider if documentation only states "eye" without specifying which
 > - Inpatient **MS-DRG** typically groups to **MDC 02** (Diseases & Disorders of the Eye)
 >

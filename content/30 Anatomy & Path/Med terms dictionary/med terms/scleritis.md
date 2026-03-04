@@ -120,9 +120,9 @@ _____
 > |**[[76510]]**|Ophthalmic ultrasound, B-scan _(critical for diagnosing posterior scleritis — the "T-sign")_|
 > |**[[68100]]**|Biopsy of [[conjunctiva]] _(occasionally used to r/o infectious or neoplastic etiology)_|
 > |**[[65125]]**|Modification of ocular implant _(rarely applicable, but used in surgical scleral repair cases)_|
-> |**[[99213]]–[[99215]]**|E&M office visit codes _(used when billing under medical, not ophthalmological, services)_|
+> |**[[99213]]-[[99215]]**|E&M office visit codes _(used when billing under medical, not ophthalmological, services)_|
 > 
-> > 💡 **Coder's Tip:** **[[B-scan]] ultrasonography ([[76510]])** is the gold standard for diagnosing **posterior scleritis** — the hallmark "T-sign" (**fluid in Tenon's space**) is pathognomonic. Make sure documentation supports medical necessity when coding this. Also note that **[[92132]]–[[92134]]** (**OCT series**) are laterality-specific and should reflect documentation of which eye(s) were imaged.
+> > 💡 **Coder's Tip:** **[[B-scan]] ultrasonography ([[76510]])** is the gold standard for diagnosing **posterior scleritis** — the hallmark "T-sign" (**fluid in Tenon's space**) is pathognomonic. Make sure documentation supports medical necessity when coding this. Also note that **[[92132]]-[[92134]]** (**OCT series**) are laterality-specific and should reflect documentation of which eye(s) were imaged.
 > 
 >_All ICD-10-CM codes verified as valid for HIPAA transactions._
 

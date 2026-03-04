@@ -59,7 +59,7 @@ _____
 > 
 > > **Coding Tips:**
 > > 
-> > - 67800–67808 are **unilateral codes** — use eyelid modifier ([[-E1]]–[[-E4]]) to specify the lid
+> > - 67800-67808 are **unilateral codes** — use eyelid modifier ([[-E1]]-[[-E4]]) to specify the lid
 > > - Bilateral single chalazia → **67800 with modifier -50**
 > > - One from upper lid + one from lower lid, same eye → **67801**
 > > - Different lids, different eyes → **67805**

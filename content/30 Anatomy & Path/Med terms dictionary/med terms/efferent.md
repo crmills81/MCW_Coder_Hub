@@ -35,7 +35,7 @@ _____
 
 > [!example]+ **Coding & Documentation Nuances**
 > 
-> - **CPT (Current Procedural Terminology):** The distinction between efferent (motor) and afferent (sensory) is critical in coding Nerve Conduction Studies (NCS). CPT codes **[[95907]]–[[95913]]** are selected based on the total number of distinct nerve studies performed. Coders must scrutinize the EMG/NCS report to count how many motor (efferent) vs. sensory (afferent) nerves were evaluated, as testing the motor and sensory functions of the _same_ anatomical nerve counts as two separate studies.
+> - **CPT (Current Procedural Terminology):** The distinction between efferent (motor) and afferent (sensory) is critical in coding Nerve Conduction Studies (NCS). CPT codes **[[95907]]-[[95913]]** are selected based on the total number of distinct nerve studies performed. Coders must scrutinize the EMG/NCS report to count how many motor (efferent) vs. sensory (afferent) nerves were evaluated, as testing the motor and sensory functions of the _same_ anatomical nerve counts as two separate studies.
 >     
 > - **ICD-10-CM:** "Efferent" is a directional descriptor rather than a diagnostic code. However, it drives specificity. For instance, if documentation notes an "efferent pupillary defect," it points towards different neurological pathways (and therefore different diagnostic codes) than an "afferent pupillary defect" (which typically maps to **H52.5-** for disorders of pupillary function or specific optic nerve disorders).
 >     

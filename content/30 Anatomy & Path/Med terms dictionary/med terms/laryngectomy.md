@@ -26,7 +26,7 @@ definition:
 _____
 >[!info]+ ETYMOLOGY of [[laryngectomy]]
 >#greek 
->- **Origin**: First recorded in 1885–90;
+>- **Origin**: First recorded in 1885-90;
 >- **Components**:
 >    - **[[laryng-]]**: from Greek _larynx_ (**windpipe, throat, larynx**)
 >    - **[[-ectomy]]**: from Greek _ek_ "**out**" + _tomia_ "**a cutting**" (from _temnein_ "**to cut**")

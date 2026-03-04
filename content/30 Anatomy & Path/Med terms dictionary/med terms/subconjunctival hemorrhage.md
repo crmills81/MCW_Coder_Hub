@@ -23,7 +23,7 @@ definition:
 ---
 
 >[!Note] DEFINITION of [[subconjunctival hemorrhage]]
->A **subconjunctival hemorrhage** occurs when **a small blood vessel ruptures beneath the conjunctiva — the thin, transparent membrane covering the sclera**. Because the [[conjunctiva]] cannot absorb blood quickly, it becomes trapped and visibly pools, creating a sharply demarcated red or reddish-brown discoloration on the surface of the eye. It is typically painless, does not affect vision, and usually resolves spontaneously within 1–3 weeks. It may occur spontaneously, after trauma, Valsalva maneuvers (**e.g., coughing, sneezing, straining**), or as a complication of ocular or systemic conditions.
+>A **subconjunctival hemorrhage** occurs when **a small blood vessel ruptures beneath the conjunctiva — the thin, transparent membrane covering the sclera**. Because the [[conjunctiva]] cannot absorb blood quickly, it becomes trapped and visibly pools, creating a sharply demarcated red or reddish-brown discoloration on the surface of the eye. It is typically painless, does not affect vision, and usually resolves spontaneously within 1-3 weeks. It may occur spontaneously, after trauma, Valsalva maneuvers (**e.g., coughing, sneezing, straining**), or as a complication of ocular or systemic conditions.
 _____
 >[!info]+ ETYMOLOGY of [[subconjunctival hemorrhage]]
 >#greek **Sub- Latin, Under, beneath [[conjunctiv-]]** Latin - conjunctivus; That which joins/connects (**the membrane that "joins" the eyelid to the [[globe]]) **[[-al]]** Latin suffixRelating to** [[hemo-]]** Greek  _haima_ Blood **[[-rrhage]] **Greek  _rhegnynai_ To burst forth
