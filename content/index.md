@@ -34,7 +34,7 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 # 🧪 Practice & Scenarios
 >
 ## Coding Practice
-- [[Coding Scenarios]]
+- [[10 Coding Scenarios]]
 - [[Practice Case 1 - {{Urology}}]]
 - [[Practice Case 2 - {{Urology}}]]
 - [[Practice Cases 4-6 - {{Urology}}]]
@@ -42,7 +42,7 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 
 
 ## Audit Practice
-- [[Audit Notes]]
+- [[Handling Coding-Related Insurance Denials]]
 - [[CPT_99231_Template]]
 
 ---
@@ -53,10 +53,9 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 - [[CIC Study Plan]]
 - [[CIC Study Notes]]
 - [[CIC Quick Reference]]
-- [[60 CIC Stuff/PCS Root Operation Grid]]
+- [[Mastering Inpatient Coding for CIC]]
 
 ## High‑Yield Topics
-- OR vs Non‑OR procedures  
 - [[PCS Body Part Index]]  
 - [[Facility Billing Handbook]]
 - DRG shifts  
@@ -71,6 +70,4 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 
 <br>
 
-*<font color="#7f7f7f">"This content is for general educational and reference purposes only and does not replace official coding resources. Users are responsible for verifying all codes and guidelines with current code books, encoder software, payer policies, and authoritative guidance before assigning or billing any codes."</font>*
-
-
+<font color="#7f7f7f"> 🆒 Always verify codes and guidelines with current code books, encoder tools, and payer policies before use. 🆒 </font>
