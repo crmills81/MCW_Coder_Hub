@@ -1,38 +1,39 @@
 ---
 tags:
   - medroot
-aliases:
-  - cord-
+  - medterm
+aliases: []
 roots:
-  - cor
+  - plexus
+  - plex-
+  - -xus
+  - -us
 forms:
   - combining
-  - prefix
-"alphabet:": C
+"alphabet:": P
 definition:
-  - heart
+  - plexus
 ---
->[!Note] DEFINITION of cor
->heart
+>[!Note] DEFINITION of plex_-
+>plexus
 _____
->[!info]+ ETYMOLOGY of cor
->#latin cor, cordis
+>[!info]+ ETYMOLOGY of plex_-
+>#latin plexus (braid)
 _____
->[!example]+ RELATED TERMS to cor
+>[!example]+ RELATED TERMS to plex_-
 >
->| [[cor]]    | heart | -   |
-| ---------- | ----- | --- |
-| [[cardi-]] | YES   | cardia    |
+>| [[plexus]] | plexus |  -  |
+|:----------:|:------:|:---:|
+|  [[ret-]]  |  YES   | retina, network    |
 _____
->[!tip]+ DERIVATIONS of cor
+>[!tip]+ DERIVATIONS of plex_-
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
 >SORT file.name ASC
 >```
-_____
+___
 >[!faq]- Query
->
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

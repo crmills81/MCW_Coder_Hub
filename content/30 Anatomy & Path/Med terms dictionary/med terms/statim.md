@@ -1,26 +1,29 @@
 ---
 tags:
   - medroot
-aliases: []
+  - medterm
+aliases:
+  - stat
 roots:
-  - paresis
+  - statim
 forms:
-  - combining
-"alphabet:": P
+  - compound suffix form
+"alphabet:": S
 definition:
-  - slackening of strength
-  - paralysis
+  - immediately
+  - at once
 ---
->[!Note] DEFINITION of paresis
->slackening of strength, paralysis
+>[!Note] DEFINITION of statim
+>immediately, at once
+>*ironically, has a homonym that literally means the opposite: [[-stat]] (greek for stop). Also, has a homonym, "stat" (from the latin "stare" meaning to stay)  *
 _____
->[!info]+ ETYMOLOGY of paresis
->#greek paresis
+>[!info]+ ETYMOLOGY of statim
+>#latin statim
 _____
->[!example]+ RELATED TERMS to paresis
+>[!example]+ RELATED TERMS to statim
 >
 _____
->[!tip]+ DERIVATIONS of paresis
+>[!tip]+ DERIVATIONS of statim
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

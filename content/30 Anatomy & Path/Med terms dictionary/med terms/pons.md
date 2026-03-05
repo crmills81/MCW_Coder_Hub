@@ -1,32 +1,35 @@
 ---
-tags: [" #medroot"]
-aliases: []
-roots: [flavus]
-forms: [combining]
-alphabet:: F
-definition: [golden-yellow]
+tags:
+  - medroot
+  - medterm
+aliases:
+  - pont-
+roots:
+  - pons
+  - pont-
+forms:
+  - combining
+"alphabet:": P
+definition:
+  - a part of the brainstem
 ---
->[!Note] DEFINITION of flavus
->golden-yellow
+>[!Note] DEFINITION of pons
+>pons
 _____
->[!info]+ ETYMOLOGY of flavus
->#latin flavus
+>[!info]+ ETYMOLOGY of pons
+>#latin pons, pontis (bridge)
 _____
->[!example]+ RELATED TERMS to flavus
+>[!example]+ RELATED TERMS to pons
 >
->| [[flavus]]  | golden-yellow |
-|:----------:|:-------------:|
-| [[aure-]] |      YES      |
 _____
->[!tip]+ DERIVATIONS of flavus
+>[!tip]+ DERIVATIONS of pons
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
 >SORT file.name ASC
 >```
-____
+___
 >[!faq]- Query
->
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

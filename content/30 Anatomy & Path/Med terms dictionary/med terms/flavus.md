@@ -1,32 +1,37 @@
 ---
 tags:
+  - medterm
   - medroot
 aliases: []
 roots:
-  - culex
+  - flavus
 forms:
   - combining
-"alphabet:": C
+"alphabet:": F
 definition:
-  - gnat
+  - golden-yellow
 ---
->[!Note] DEFINITION of culex
->gnat
+>[!Note] DEFINITION of flavus
+>golden-yellow
 _____
->[!info]+ ETYMOLOGY of culex
->#latin culex
+>[!info]+ ETYMOLOGY of flavus
+>#latin flavus
 _____
->[!example]+ RELATED TERMS to culex
+>[!example]+ RELATED TERMS to flavus
 >
+>| [[flavus]]  | golden-yellow |
+|:----------:|:-------------:|
+| [[aure-]] |      YES      |
 _____
->[!tip]+ DERIVATIONS of culex
+>[!tip]+ DERIVATIONS of flavus
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
 >SORT file.name ASC
 >```
-_____
->[!FAQ]- Query
+____
+>[!faq]- Query
+>
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

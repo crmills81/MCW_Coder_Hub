@@ -1,32 +1,38 @@
 ---
 tags:
   - medroot
-aliases: []
+  - medterm
+aliases:
+  - varic-
 roots:
-  - blatta
+  - varix
+  - varic-
 forms:
   - combining
-  - prefix
-"alphabet:": B
+"alphabet:": V
 definition:
-  - cockroach
+  - dilated and twisted vein
+  - varix
 ---
->[!Note] DEFINITION of blatta
->cockroach
+>[!Note] DEFINITION of varix
+>dilated and twisted vein, varix
 _____
->[!info]+ ETYMOLOGY of blatta
->#latin blatta
+>[!info]+ ETYMOLOGY of varix
+>#latin varix, varicis
 _____
->[!example]+ RELATED TERMS to blatta
+>[!example]+ RELATED TERMS to varix
 >
+>| [[varix]] | dilated and twisted vein | vari |
+|:---------:|:------------------------:|:----:|
+| [[cirs-]] |           YES            | YES     |
 _____
->[!tip]+ DERIVATIONS of blatta
+>[!tip]+ DERIVATIONS of varix
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
 >SORT file.name ASC
 >```
-_____
+___
 >[!faq]- Query
 >```dataview
 >TABLE definition AS Definition

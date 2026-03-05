@@ -18,7 +18,7 @@ definition:
   - thick-walled tube that transports urine from the kidney to the bladder
 ---
 >[!Note] DEFINITION of [[ureter]]
->[[Ureter-|ureter]]
+>[[ureter-|ureter]]
 >*see also: [[ur-]] (urinary tract)*; The [[ureter]] is a **retroperitoneal, fibromuscular tube, approximately 25-30 cm long in adults, that extends from the renal pelvis of the kidney to the urinary bladder**. It actively transports urine through peristaltic contractions of its smooth muscle layers. Anatomically, it is divided into abdominal and pelvic sections and has three physiological narrowing points ([[ureteropelvic junction]], [[iliac vessel crossing]], and [[ureterovesical junction]]) where [[calculus|calculi]] (stones) commonly become lodged.
 _____
 >[!info]+ ETYMOLOGY of [[ureter]]

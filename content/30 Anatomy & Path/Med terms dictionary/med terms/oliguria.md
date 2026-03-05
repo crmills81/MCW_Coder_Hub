@@ -269,7 +269,7 @@ last_updated: 2026-02-10
   - Skin turgor, mucous membranes (dehydration)
   - [[Jugular venous pressure]] (JVP) - volume status
   - [[Orthostatic hypotension]]
-- **[[Edema]]:** Peripheral, pulmonary, ascites
+- **[[edema]]:** Peripheral, pulmonary, ascites
 - **Bladder:** Palpable distended bladder (suggests obstruction)
 - **Cardiac:** Heart failure signs
 - **Abdominal:** Masses, tenderness

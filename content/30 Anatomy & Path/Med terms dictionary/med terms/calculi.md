@@ -20,7 +20,7 @@ definition:
   - Stone(s) within the urinary tract.
 ---
 >[!Note] DEFINITION of [[calculi]]
->[[Calculi]] are typically formed when mineral salts—such as *calcium, oxalate, or uric acid*—precipitate out of a body fluid **(like urine, bile, or saliva**) and crystallize into solid masses. These stones can vary in size from microscopic grains to several centimeters and often cause pain or infection when they block the natural flow of fluids through ducts or narrow passages.
+>[[calculi]] are typically formed when mineral salts—such as *calcium, oxalate, or uric acid*—precipitate out of a body fluid **(like urine, bile, or saliva**) and crystallize into solid masses. These stones can vary in size from microscopic grains to several centimeters and often cause pain or infection when they block the natural flow of fluids through ducts or narrow passages.
 _____
 >[!info]+ ETYMOLOGY of [[calculi]]
 >#latin The term comes from the Latin **[[calculus]]**, meaning “small [[calculus|stone]]” or “**pebble**”. It is a diminutive of **[[calx]]** (genitive _calcis_), meaning “**limestone**” or “**lime**,” which is also the root for the element **calcium** and the word **chalk**. In ancient times, Romans used small pebbles on counting boards to perform arithmetic, which is why the same word eventually gave rise to the mathematical field of _[[calculus]]_.[](https://www.reddit.com/r/etymology/comments/oxader/apparently_both_calculus_and_calcium_have_the/)

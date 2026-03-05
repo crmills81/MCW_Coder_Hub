@@ -1,10 +1,16 @@
 ---
-tags: [" #medroot"]
+tags:
+  - medroot
+  - medterm
 aliases: []
-roots: [felineus]
-forms: [combining]
-alphabet:: F
-definition: [of a cat, belonging to a cat]
+roots:
+  - felineus
+forms:
+  - combining
+"alphabet:": F
+definition:
+  - of a cat
+  - belonging to a cat
 ---
 >[!Note] DEFINITION of felineus
 >of or belonging to a cat
