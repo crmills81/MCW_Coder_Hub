@@ -5,6 +5,7 @@ tags:
   - ophthalmology
 aliases:
   - extrinsic eye muscles
+  - Extraocular
 roots:
   - extraocular
   - extra-

@@ -4,6 +4,7 @@ tags:
   - medroot
 aliases:
   - cellulitis
+  - Cellulitis
 roots:
   - Cellulitis
   - cel-

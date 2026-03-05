@@ -5,7 +5,9 @@ tags:
   - ophthalmology
   - specialty/ophthalmology
   - medical_coding
-aliases: -ptosis
+aliases:
+  - -ptosis
+  - Ptosis
 roots:
   - ptosis
   - -ptosis

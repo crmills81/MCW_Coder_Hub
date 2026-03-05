@@ -5,6 +5,7 @@ tags:
   - urology
   - specialty/urology
 aliases:
+  - Nephrolithotomy
 roots:
   - nephrolithotomy
   - nephr-

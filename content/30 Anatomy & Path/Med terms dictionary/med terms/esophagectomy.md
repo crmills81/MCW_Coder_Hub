@@ -56,9 +56,9 @@ _____
 > [!example]+ Related Terms
 > - **[[Esophagus]]** — the hollow muscular tube, ~25 cm long, connecting pharynx to stomach
 >     
-> - **[[Esophagoplasty]]** — plastic repair/reconstruction of the esophagus (CPT [[43300]])
+> - **[[esophagoplasty]]** — plastic repair/reconstruction of the esophagus (CPT [[43300]])
 >     
-> - **[[Esophagostomy]]** — surgical creation of an opening in the esophagus (CPT [[43351]])
+> - **[[esophagostomy]]** — surgical creation of an opening in the esophagus (CPT [[43351]])
 >     
 > - **[[Esophagoscopy]]** — visual examination of the esophagus (CPT [[43191]]-[[43229]])
 >     
