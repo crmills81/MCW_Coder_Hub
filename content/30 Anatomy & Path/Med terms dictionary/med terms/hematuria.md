@@ -4,7 +4,8 @@ tags:
   - medroot
   - specialty/urology
   - urology
-aliases: []
+aliases:
+  - Hematuria
 roots:
   - hemat-
   - ur-

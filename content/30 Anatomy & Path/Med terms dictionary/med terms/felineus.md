@@ -12,16 +12,16 @@ definition:
   - of a cat
   - belonging to a cat
 ---
->[!Note] DEFINITION of felineus
+>[!Note] DEFINITION of [[felineus]]
 >of or belonging to a cat
 _____
->[!info]+ ETYMOLOGY of felineus
+>[!info]+ ETYMOLOGY of [[felineus]]
 >#latin felineus
 _____
->[!example]+ RELATED TERMS to felineus
+>[!example]+ RELATED TERMS to [[felineus]]
 >
 _____
->[!tip]+ DERIVATIONS of felineus
+>[!tip]- DERIVATIONS of [[felineus]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

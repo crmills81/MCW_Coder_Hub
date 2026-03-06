@@ -3,7 +3,7 @@ tags:
   - medroot
   - medterm
 aliases:
-  - varic-
+  - Varix
 roots:
   - varix
   - varic-
@@ -14,19 +14,19 @@ definition:
   - dilated and twisted vein
   - varix
 ---
->[!Note] DEFINITION of varix
+>[!Note] DEFINITION of [[varix]]
 >dilated and twisted vein, varix
 _____
->[!info]+ ETYMOLOGY of varix
+>[!info]+ ETYMOLOGY of [[varix]]
 >#latin varix, varicis
 _____
->[!example]+ RELATED TERMS to varix
+>[!example]+ RELATED TERMS to [[varix]]
 >
 >| [[varix]] | dilated and twisted vein | vari |
 |:---------:|:------------------------:|:----:|
 | [[cirs-]] |           YES            | YES     |
 _____
->[!tip]+ DERIVATIONS of varix
+>[!tip]+ DERIVATIONS of [[varix]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -40,4 +40,8 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

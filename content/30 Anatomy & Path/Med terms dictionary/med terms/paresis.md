@@ -2,7 +2,7 @@
 tags:
   - medroot
   - medterm
-aliases: []
+aliases: [Paresis]
 roots:
   - paresis
 forms:
@@ -12,16 +12,16 @@ definition:
   - slackening of strength
   - paralysis
 ---
->[!Note] DEFINITION of paresis
+>[!Note] DEFINITION of [[paresis]]
 >slackening of strength, paralysis
 _____
->[!info]+ ETYMOLOGY of paresis
+>[!info]+ ETYMOLOGY of [[paresis]]
 >#greek paresis
 _____
->[!example]+ RELATED TERMS to paresis
+>[!example]+ RELATED TERMS to [[paresis]]
 >
 _____
->[!tip]+ DERIVATIONS of paresis
+>[!tip]- DERIVATIONS of [[paresis]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -35,4 +35,8 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

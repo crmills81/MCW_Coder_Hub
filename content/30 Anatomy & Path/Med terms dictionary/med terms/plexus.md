@@ -2,7 +2,7 @@
 tags:
   - medroot
   - medterm
-aliases: []
+aliases: [Plexus]
 roots:
   - plexus
   - plex-
@@ -14,19 +14,19 @@ forms:
 definition:
   - plexus
 ---
->[!Note] DEFINITION of plex_-
+>[!Note] DEFINITION of [[plexus]]
 >plexus
 _____
->[!info]+ ETYMOLOGY of plex_-
+>[!info]+ ETYMOLOGY of [[plexus]]
 >#latin plexus (braid)
 _____
->[!example]+ RELATED TERMS to plex_-
+>[!example]+ RELATED TERMS to [[plexus]]
 >
 >| [[plexus]] | plexus |  -  |
 |:----------:|:------:|:---:|
 |  [[ret-]]  |  YES   | retina, network    |
 _____
->[!tip]+ DERIVATIONS of plex_-
+>[!tip]- DERIVATIONS of [[plexus]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -40,4 +40,8 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

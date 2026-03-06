@@ -8,6 +8,7 @@ tags:
 aliases:
   - BPH
   - benign prostatic hyperplasia
+  - Benign prostatic hyperplasia
 roots:
   - pro-
   - -tic

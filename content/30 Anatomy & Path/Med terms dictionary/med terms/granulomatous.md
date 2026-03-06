@@ -6,6 +6,7 @@ aliases:
   - granulomatous inflammation
   - epithelioid cell granuloma
   - granulomatous disease
+  - Granulomatous
 roots:
   - granulomatous
   - gran-

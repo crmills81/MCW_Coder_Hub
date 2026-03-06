@@ -3,10 +3,14 @@ tags:
   - medterm
   - medroot
   - Respiratory
-aliases: []
+aliases:
+  - Hemothorax
 roots:
   - hem-
   - thorac-
+  - hemo-
+  - -thorax
+  - -rax
 forms:
   - combining
   - noun

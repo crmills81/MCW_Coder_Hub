@@ -1,7 +1,8 @@
 ---
 tags:
   - medroot
-aliases: []
+  - medterm
+aliases: [Koni]
 roots:
   - koni
 forms:
@@ -11,17 +12,17 @@ forms:
 definition:
   - dust
 ---
->[!Note] DEFINITION of koni
+>[!Note] DEFINITION of [[koni]]
 >dust
 >*see also: [[coni-]]*
 _____
->[!info]+ ETYMOLOGY of koni
+>[!info]+ ETYMOLOGY of [[koni]]
 >#greek konis
 _____
->[!example]+ RELATED TERMS to koni
+>[!example]+ RELATED TERMS to [[koni]]
 >
 _____
->[!tip]+ DERIVATIONS of koni
+>[!tip]- DERIVATIONS of [[koni]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -35,4 +36,8 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

@@ -5,6 +5,7 @@ tags:
   - ophthalmology
 aliases:
   - Anterior chamber angle evaluation
+  - Gonioscopy
 roots:
   - Gonioscopy
   - gon-

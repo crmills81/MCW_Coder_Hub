@@ -55,7 +55,7 @@ _____
 > 
 > **Related Codes:**
 > 
-> - **[[A46]]:** Erysipelas (Use this instead of L03.- if the clinical picture fits erysipelas specifically).
+> - **[[A46]]:** [[Erysipelas]] (Use this instead of L03.- if the clinical picture fits erysipelas specifically).
 > - **[[M72.6]]:** Necrotizing fasciitis.
 > 
 > ### CPT (Procedure Codes)

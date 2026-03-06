@@ -2,6 +2,7 @@
 tags:
 aliases:
   - edemat-
+  - Edema
 roots:
   - edema
   - edemat-
@@ -11,20 +12,20 @@ forms:
 definition:
   - swelling
 ---
->[!Note] DEFINITION of edema
+>[!Note] DEFINITION of [[edema]]
 >swelling (often due to fluid accumlation in tissue)
 >*see also: [[hydrops]], [[dropsy]]*
 _____
 >[!info]+ ETYMOLOGY of edema
 >#greek oidema, oidematos
 _____
->[!example]+ RELATED TERMS to edema
+>[!example]+ RELATED TERMS to [[edema]]
 >
 >| [[edema]] | swelling |   -   |   -    |
 |:---------:|:--------:|:-----:|:------:|
 | [[-cel-]] |   YES    | tumor | hernia |
 _____
->[!tip]+ DERIVATIONS of edema
+>[!tip]- DERIVATIONS of [[edema]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -39,4 +40,8 @@ ____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

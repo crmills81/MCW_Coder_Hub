@@ -22,7 +22,6 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 - [[30 Anatomy & Path/Med terms dictionary/Med roots]]
 - [[50 Medical Coding/CPT Codes]]
 - [[50 Medical Coding/ICD-10 Codes]]
-- 
 
 ## Coding Rules & Guides
 - [[Audit Checklists]]

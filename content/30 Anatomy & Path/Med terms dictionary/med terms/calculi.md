@@ -31,7 +31,7 @@ _____
 > - **Concretion**: A general term for any solid mass of mineral or organic material formed in the body.[](https://en.wikipedia.org/wiki/Calculus_ (medicine ))
 > - **Crystallization**: The chemical process by which a solid forms, where the atoms or molecules are highly organized into a structure known as a crystal.
 _____
->[!tip]+ DERIVATIONS of [[calculi]]
+>[!tip]- DERIVATIONS of [[calculi]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

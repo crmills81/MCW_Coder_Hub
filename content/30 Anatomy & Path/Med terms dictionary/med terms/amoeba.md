@@ -2,26 +2,25 @@
 tags:
   - medroot
   - medterm
-aliases: []
+aliases: [Amoeba]
 roots:
-  - anopheles
+  - amoeba
 forms:
   - combining
 "alphabet:": A
 definition:
-  - useless
-  - harmful
+  - amoeba
 ---
->[!Note] DEFINITION of [[anopheles]]
->useless, harmful
+>[!Note] DEFINITION of [[amoeba]]
+>amoeba
 _____
->[!info]+ ETYMOLOGY of [[anopheles]]
->#greek anopheles
+>[!info]+ ETYMOLOGY of [[amoeba]]
+>#greek amoibe (change)
 _____
->[!example]+ RELATED TERMS to [[anopheles]]
+>[!example]+ RELATED TERMS to [[amoeba]]
 >
 _____
->[!tip]- DERIVATIONS of [[anopheles]]
+>[!tip]- DERIVATIONS of [[amoeba]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

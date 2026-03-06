@@ -1,7 +1,8 @@
 ---
 tags:
   - medroot
-aliases: []
+  - medterm
+aliases: [Oophor]
 roots:
   - oophor
 forms:
@@ -10,19 +11,19 @@ forms:
 definition:
   - ovary
 ---
->[!Note] DEFINITION of oophor
+>[!Note] DEFINITION of [[oophor]]
 >ovary (egg-bearing)
 _____
->[!info]+ ETYMOLOGY of oophor
+>[!info]+ ETYMOLOGY of [[oophor]]
 >#greek oophoron
 _____
->[!example]+ RELATED TERMS to oophor
+>[!example]+ RELATED TERMS to [[oophor]]
 >
 >| [[oophor]] | ovary |
 |:----------:|:-----:|
 | [[ovari-]] |  YES  |
 _____
->[!tip]+ DERIVATIONS of oophor
+>[!tip]- DERIVATIONS of [[oophor]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -36,4 +37,8 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

@@ -1,5 +1,5 @@
 ---
-tags: [" #medterm "]
+tags: [medterm]
 aliases: []
 roots: [poli-, myel-, -itis]
 definition:: inflammation of the gray matter of the spinal cord
@@ -11,7 +11,7 @@ ___
 >The term "poliomyelitis" originates from Greek words: "polios" meaning **"gray," "myelos" meaning "marrow" (referring to the spinal cord), and the suffix "-itis" meaning "inflammation."** German physician Adolph Kussmaul coined the term around 1874, reflecting the inflammation of the spinal cord's gray matter that causes paralysis.
 
 _____
->[!tip]- DERIVATIONS of [[]]
+>[!tip]- DERIVATIONS of [[poliomyelitis]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

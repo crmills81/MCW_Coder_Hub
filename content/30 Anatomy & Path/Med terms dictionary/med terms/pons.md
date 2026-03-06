@@ -3,7 +3,8 @@ tags:
   - medroot
   - medterm
 aliases:
-  - pont-
+  - pont
+  - Pons
 roots:
   - pons
   - pont-
@@ -13,16 +14,16 @@ forms:
 definition:
   - a part of the brainstem
 ---
->[!Note] DEFINITION of pons
+>[!Note] DEFINITION of [[pons]]
 >pons
 _____
->[!info]+ ETYMOLOGY of pons
+>[!info]+ ETYMOLOGY of [[pons]]
 >#latin pons, pontis (bridge)
 _____
->[!example]+ RELATED TERMS to pons
+>[!example]+ RELATED TERMS to [[pons]]
 >
 _____
->[!tip]+ DERIVATIONS of pons
+>[!tip]- DERIVATIONS of [[pons]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -36,4 +37,8 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med roots]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]

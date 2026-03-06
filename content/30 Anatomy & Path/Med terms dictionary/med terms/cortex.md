@@ -1,27 +1,27 @@
 ---
 tags:
   - medroot
-  - medterm
-aliases: []
+aliases:
+  - cortic-
 roots:
-  - anopheles
+  - cortex
+  - cortic-
 forms:
   - combining
-"alphabet:": A
+"alphabet:": C
 definition:
-  - useless
-  - harmful
+  - outer layer
 ---
->[!Note] DEFINITION of [[anopheles]]
->useless, harmful
+>[!Note] DEFINITION of [[cortex]]
+>outer layer (of an organ)
 _____
->[!info]+ ETYMOLOGY of [[anopheles]]
->#greek anopheles
+>[!info]+ ETYMOLOGY of [[cortex]]
+>#latin cortex, corticis
 _____
->[!example]+ RELATED TERMS to [[anopheles]]
+>[!example]+ RELATED TERMS to [[cortex]]
 >
 _____
->[!tip]- DERIVATIONS of [[anopheles]]
+>[!tip]- DERIVATIONS of [[cortex]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
