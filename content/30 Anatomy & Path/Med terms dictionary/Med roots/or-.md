@@ -22,7 +22,7 @@ _____
 >|  [[or-]]  | mouth | opening |    -    |         -          |
 |:---------:|:-----:|:-------:|:-------:|:------------------:|
 | [[meat-]] |   -   |   YES   | passage |       meatus       |
-|  [[os]]   |  YES  |   YES   |    -    |         -          |
+|  [[-os]]   |  YES  |   YES   |    -    |         -          |
 | [[por-]]  |   -   |   YES   | passage | duct, pore, cavity |
 | [[stom-]] |  YES  |   YES   |    -    | -                   |
 _____

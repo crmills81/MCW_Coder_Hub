@@ -1,34 +1,32 @@
 ---
 tags:
   - medroot
-aliases:
-  - stomat-
+aliases: []
 roots:
-  - stom-
-  - stomat-
+  - -ose
 forms:
   - combining
-"alphabet:": S
+"alphabet:": O
 definition:
   - mouth
   - opening
 ---
->[!Note] DEFINITION of stom-
+>[!Note] DEFINITION of os
 >mouth, opening
 _____
->[!info]+ ETYMOLOGY of stom-
->#greek stoma, stomatos
+>[!info]+ ETYMOLOGY of os
+>#latin os, oris
 _____
->[!example]+ RELATED TERMS to stom-
+>[!example]+ RELATED TERMS to os
 >
->|  [[stom-]]  | mouth | opening |    -    |         -          |
+>|  [[-os]]  | mouth | opening |    -    |         -          |
 |:---------:|:-----:|:-------:|:-------:|:------------------:|
 | [[meat-]] |   -   |   YES   | passage |       meatus       |
 |  [[or-]]   |  YES  |   YES   |    -    |         -          |
 | [[por-]]  |   -   |   YES   | passage | duct, pore, cavity |
-| [[-os]] |  YES  |   YES   |    -    | -                   |
+| [[stom-]] |  YES  |   YES   |    -    | -                   |
 _____
->[!tip]+ DERIVATIONS of stom-
+>[!tip]+ DERIVATIONS of os
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

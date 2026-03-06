@@ -31,7 +31,7 @@ _____
 | [[syring-]] |    -    |    -    |  -   |  -   | cavity | fistula, syringe | oviduct, sweat glands |
 |  [[meat-]]  |   YES   |   YES   |  -   |  -   |   -    |      meatus      |           -           |
 |   [[or-]]   |    -    |   YES   |  -   |  -   |   -    |      mouth       |           -           |
-|   [[os]]    |    -    |   YES   |  -   |  -   |   -    |      mouth       | -                      |
+|   [[-os]]    |    -    |   YES   |  -   |  -   |   -    |      mouth       | -                      |
 _____
 >[!tip]+ DERIVATIONS of por-
 >```dataview

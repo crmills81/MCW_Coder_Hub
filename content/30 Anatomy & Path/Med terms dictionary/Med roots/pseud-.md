@@ -2,32 +2,25 @@
 tags:
   - medroot
 aliases:
-  - retin-
+  - pseudo-
 roots:
-  - ret-
-  - retin-
+  - pseud-
 forms:
   - combining
-"alphabet:": R
+"alphabet:": P
 definition:
-  - retina
-  - network
-  - plexus
+  - false
 ---
->[!Note] DEFINITION of ret-
->1. retina
->2. network, plexus
+>[!Note] DEFINITION of prseud-
+>false
 _____
->[!info]+ ETYMOLOGY of ret-
->#latin rete, retis (net)
+>[!info]+ ETYMOLOGY of prseud-
+>#greek pseudes
 _____
->[!example]+ RELATED TERMS to ret-
+>[!example]+ RELATED TERMS to prseud-
 >
->|  [[ret-]]  | retina | network | plexus |
-|:----------:|:------:|:-------:|:------:|
-| [[plexus]] |   -    |    -    | YES       |
 _____
->[!tip]+ DERIVATIONS of ret-
+>[!tip]+ DERIVATIONS of prseud-
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

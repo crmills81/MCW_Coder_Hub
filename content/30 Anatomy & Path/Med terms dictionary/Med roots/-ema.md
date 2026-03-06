@@ -40,7 +40,7 @@ _____
 >
 >**Terms Using [[-ema]]:**
 >
->1. **[[Edema]]** (oedema) - Swelling caused by excess fluid trapped in body tissues
+>1. **[[edema]]** (oedema) - Swelling caused by excess fluid trapped in body tissues
 >2. **[[Empyema]]** - Collection of pus in a body cavity, especially the pleural space
 >3. **Eczema** - Inflammatory skin condition causing itching and rashes
 >4. **Erythema** - Redness of the skin due to capillary dilation

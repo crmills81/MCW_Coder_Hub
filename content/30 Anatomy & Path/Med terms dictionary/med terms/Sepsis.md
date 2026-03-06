@@ -1,5 +1,11 @@
 ---
-tags: [sepsis, infectious-disease, critical-care, emergency-medicine, SIRS, septic-shock, organ-dysfunction, ICU]
+tags:
+  - infectious-disease
+  - critical-care
+  - emergency-medicine
+  - septic-shock
+  - ICU
+  - Sepsis
 system: Multi-system/Infectious Disease
 category: Medical Emergency
 severity: Life-threatening
@@ -84,8 +90,8 @@ last_updated: 2026-02-10
 
 **Common causative organisms:**
 - *Escherichia coli* (E. coli) - UTIs, abdominal infections
-- *Staphylococcus aureus* - skin, wounds, bloodstream
-- *Streptococcus pneumoniae* - pneumonia, meningitis
+- *[[Staphylococcus]] aureus* - skin, wounds, bloodstream
+- *Streptococcus pneumoniae* - [[pneumonia]], meningitis
 - *Klebsiella pneumoniae* - pneumonia, UTIs
 - *Pseudomonas aeruginosa* - hospital-acquired infections
 
