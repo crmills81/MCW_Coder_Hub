@@ -82,7 +82,7 @@ _____
 > 
 > - **Ischemia ≠ Infarction** — always distinguish. If the physician documents infarction, code it as such (e.g., renal infarction still falls under **N28.0**, but myocardial infarction uses the I21.x series).
 > - For **retinal ischemia** (H35.82), verify whether it's part of a larger vascular diagnosis (e.g., central retinal artery occlusion **H34.1x**) — you may need to code the underlying cause instead.
-> - **Cerebral ischemia (I67.82)** is used for _chronic_ cerebral ischemia; acute cerebrovascular ischemia without infarction may map to TIA (**G45.9**) or other I60–I67 codes.
+> - **Cerebral ischemia (I67.82)** is used for _chronic_ cerebral ischemia; acute cerebrovascular ischemia without infarction may map to TIA (**G45.9**) or other I60-I67 codes.
 > - **N28.0** covers both ischemia _and_ infarction of the kidney — no separate code exists for renal infarction alone.
 > - CPT codes for ischemia are procedure/intervention-based (e.g., revascularization, thrombectomy) and are selected based on the site and method of treatment rather than the ischemia diagnosis itself.
 

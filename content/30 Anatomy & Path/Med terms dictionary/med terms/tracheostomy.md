@@ -5,6 +5,7 @@ tags:
   - otolaryngology
   - ENT
 aliases:
+  - Tracheostomy
   - tracheotomy
   - trach
   - decannulation

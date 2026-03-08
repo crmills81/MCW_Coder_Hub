@@ -74,7 +74,7 @@ _____
 > 
 > - **Comprehensive Eye Exam (Includes Refraction determination):**
 >     - **[[92014]]**: Ophthalmological services: medical examination and evaluation, with initiation or continuation of diagnostic and treatment program; comprehensive, established patient, 1 or more visits. (Often includes refraction, but [[refraction]] is sometimes billed separately).
->     - **[[99202]]–[[99215]]**: Office or other outpatient visit (E/M codes) if the visit is primarily medical management rather than routine vision care.
+>     - **[[99202]]-[[99215]]**: Office or other outpatient visit (E/M codes) if the visit is primarily medical management rather than routine vision care.
 > - **Refraction (Determining the prescription):**
 >     - **92015**: Determination of refractive state. (Note: This is often considered a non-covered benefit by Medicare and many insurance plans, billed directly to the patient).
 > - **Contact Lens Fitting (Specifically for Astigmatism/Toric lenses):**

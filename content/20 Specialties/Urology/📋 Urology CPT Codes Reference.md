@@ -205,10 +205,10 @@ This reference index covers the major **CPT code families in Urology** — organ
 
 ## Bladder — Excision
 
-| CPT       | Description                                                                          | Notes                          |
-| --------- | ------------------------------------------------------------------------------------ | ------------------------------ |
+| CPT       | Description                                                                              | Notes                          |
+| --------- | ---------------------------------------------------------------------------------------- | ------------------------------ |
 | [[51500]] | **Excision of urachal cyst or sinus**                                                    | Urachal anomaly                |
-| [[51520]] | **Cystotomy, for simple excision of vesical neck**                                       | Bladder neck excision          |
+| ~~51520~~ | ~~**Cystotomy, for simple excision of vesical neck**~~                                       | ~~Bladder neck excision~~          |
 | [[51530]] | **Cystotomy for excision of bladder tumor**                                              | Open tumor excision            |
 | [[51550]] | **Cystectomy, partial, simple**                                                          | Partial bladder removal        |
 | [[51555]] | **Cystectomy, partial, complicated**                                                     | Complex/prior radiation        |
@@ -227,8 +227,8 @@ This reference index covers the major **CPT code families in Urology** — organ
 
 ## Bladder — Introduction (Endoscopy/Cystoscopy)
 
-| CPT       | Description                                                                              | Notes                                |
-| --------- | ---------------------------------------------------------------------------------------- | ------------------------------------ |
+| CPT       | Description                                                                                  | Notes                                |
+| --------- | -------------------------------------------------------------------------------------------- | ------------------------------------ |
 | [[51600]] | **Injection procedure for cystography or voiding urethrocystography**                        | Contrast study                       |
 | [[51605]] | **Injection procedure with insertion of chain for cystourethrography**                       | Bead chain study                     |
 | [[51610]] | **Injection procedure for retrograde urethrocystography**                                    | Retrograde study                     |

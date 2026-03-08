@@ -5,6 +5,7 @@ tags:
 aliases:
   - ostomy
   - surgical opening
+  - Stoma
 roots:
   - stoma
   - sto-
@@ -40,7 +41,7 @@ _____
 > | **[[Ostomy]]** | Surgical procedure creating a stoma; suffix "[[-stomy]]" means creating an opening   |
 > | **Colostomy** | Stoma created from the large bowel/colon   |
 > | **Ileostomy** | Stoma created from the small bowel/ileum   |
-> | **[[Urostomy]]** | Urinary stoma for urine diversion   |
+> | **[[urostomy]]** | Urinary stoma for urine diversion   |
 > | **[[Tracheostomy]]** | Stoma created in the trachea for breathing  |
 > | **Enterostomy** | Surgical opening into the intestine   |
 > | **[[-stomy]]** | Suffix meaning "creating an opening" (from Greek stoma)  |
@@ -93,7 +94,7 @@ _____
 > | **0D1Q0Z4** | Bypass Colon to Cutaneous, Open Approach |
 > | **0D1Q4Z4** | Bypass Colon to Cutaneous, Percutaneous Endoscopic Approach |
 > | **0D1R0Z4** | Bypass Ileum to Cutaneous, Open Approach |
-> | **0W1G0ZB** | Bypass Bladder to [[Cutaneous]], Open Approach ([[Urostomy]]) |
+> | **0W1G0ZB** | Bypass Bladder to [[Cutaneous]], Open Approach ([[urostomy]]) |
 > | **0W1G4ZB** | Bypass Bladder to Cutaneous, [[Percutaneous]] Endoscopic Approach |
 > | **0B110F4** | Bypass Trachea to Cutaneous, Open Approach ([[Tracheostomy]]) |
 > 

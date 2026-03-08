@@ -25,7 +25,7 @@ definition:
 >Types of Ostomies: 
 >  - **[[Colostomy]]**: Opening from the colon (**large intestine**); stool consistency varies by location (**ascending, transverse, descending, sigmoid**). 
 >  - **[[Ileostomy]]**: Opening from the [[ileum]] (**small intestine**); produces liquid to paste-like output. 
->  - **[[Urostomy]] (Ileal Conduit)**: Opening from the urinary tract; diverts urine when bladder is removed or non-functional. 
+>  - **[[urostomy]] (Ileal Conduit)**: Opening from the urinary tract; diverts urine when bladder is removed or non-functional. 
 >  - **Continent Ostomy**: Internal reservoir with valve mechanism allowing intermittent [[catheterization]] (**e.g., Kock pouch, Indiana pouch**). 
 >  - **Temporary vs. Permanent**: Temporary ostomies allow healing of distal bowel and may be reversed; permanent ostomies are lifelong. 
 >  - **Indications**: [[Colorectal]] cancer, inflammatory bowel disease (**Crohn's, ulcerative colitis**), [[diverticulitis]], bowel obstruction, trauma, congenital anomalies (**imperforate anus**), bladder cancer, [[neurogenic]] bladder. 
@@ -48,7 +48,7 @@ _____
 > 
 > *   **[[Colostomy]]:** Ostomy from the colon.
 > *   **[[Ileostomy]]:** Ostomy from the ileum (small intestine).
-> *   **[[Urostomy]]:** Ostomy for urinary diversion.
+> *   **[[urostomy]]:** Ostomy for urinary diversion.
 > *   **Jejunostomy:** Ostomy from the jejunum (feeding tube access).
 > *   **Gastrostomy:** Opening into the stomach (feeding tube).
 > *   **[[Tracheostomy]]:** Opening into the trachea (airway access).
@@ -256,9 +256,9 @@ _____
 > *   **[[51725]]**: Removal of ureteral stent
 > *   **[[51730]]**: Removal of urethral stent
 > *   **[[51735]]**: Removal of bladder stent
-> *   **[[51740]]**: Removal of [[nephrostomy]] tube
+> *   **[[51741]]**: Removal of [[nephrostomy]] tube
 > *   **[[51741]]**: Removal of [[nephroureteral]] stent
-> *   **[[51750]]**: Injection procedure for [[cystography]]
+> *   **[[51728]]**: Injection procedure for [[cystography]]
 > *   **[[51755]]**: Injection procedure for [[cystourethrography]]
 > *   **[[51760]]**: Injection procedure for [[urethrocystography]]
 > *   **[[51761]]**: Injection procedure for voiding cystourethrography

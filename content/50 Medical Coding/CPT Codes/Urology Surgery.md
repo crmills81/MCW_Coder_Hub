@@ -1,12 +1,10 @@
 ## 2026 Coding and Payment Guide - Stone Management Procedures
 
-The coding options listed within this guide are commonly used codes and are not intended to be an all-inclusive list. They are thought to be relevant to Stone Management procedures and are referenced throughout this document. We recommend consulting your relevant manuals for appropriate coding options. Payer policies will vary and should be verified prior to treatment for limitations on diagnosis, coding, or site of service requirements.
+The coding options listed within this guide are commonly used codes and are not intended to be an all-inclusive list. They are thought to be relevant to Stone Management procedures and are referenced throughout this document. **We recommend consulting your relevant manuals for appropriate coding options**. Payer policies will vary and should be verified prior to treatment for limitations on diagnosis, coding, or site of service requirements.
 
-All rates shown throughout this guide are 2026 Medicare unadjusted national averages; actual rates will vary geographically and/or by individual facility. “Allowed Amount” is the amount Medicare determines to be the maximum allowance for any Medicare covered procedure. Actual payment will vary based on the maximum allowance, less any applicable deductibles, co-insurance, etc.
+All rates shown throughout this guide are 2026 Medicare unadjusted national averages; actual rates will vary geographically and/or by individual facility. “**Allowed Amount**” is the amount Medicare determines to be the maximum allowance for any Medicare covered procedure. Actual payment will vary based on the maximum allowance, less any applicable deductibles, co-insurance, etc.
 
-To determine whether there are relevant C-codes for any Boston Scientific products, please visit our C-code finder at http://www.bostonscientific.com/en-US/reimbursement/ccode-finder.html. (See additional information on page 7).
-
-CPT® codes with their respective long descriptions will be found on page 7.
+To determine whether there are relevant C-codes for any Boston Scientific products, please visit our C-code finder at http://www.bostonscientific.com/en-US/reimbursement/ccode-finder.html. 
 
 ### Physician Payment - Medicare Unadjusted National Average
 
@@ -1288,8 +1286,8 @@ ICD-10 MS-DRG definitions from the CMS ICD-10-CM/PCS MS-DRG v42.0 Definitions Ma
 
 1. https://www.govinfo.gov/content/pkg/FR-2010-11-24/pdf/2010-27926.pdf Page 26 Accessed November 25, 2024.
 
-Uniform Billing Editor
-Numeric List of CPT/HCPCS Codes
+**Uniform Billing Editor**
+**Numeric List of CPT/HCPCS Codes**
 
 <table>
   <thead>
@@ -1312,15 +1310,14 @@ CPT © 2024 American Medical Association. All Rights Reserved.
 Copyright 2024, American Hospital Association ("AHA")
 VII-291
 
-2.
 
 † According to Medicare, devices do not need to remain in the body to be classified as “implants.” 3,4
 
-3. Preamble to the Inpatient Prospective Payment update regulation for FY 2009 (73 FR 48462).
+1. Preamble to the Inpatient Prospective Payment update regulation for FY 2009 (73 FR 48462).
 
-4. Revenue Code 278 - Definition in UB-04 manual, National Uniform Billing Committee Summary, August 2009, Page 5: (a) Implantables: That which is implanted, such as a piece of tissue, a tooth, a pellet of medicine, or a tube or needle containing a radioactive substance, a graft, or an insert. Also included are liquid and solid plastic materials used to augment tissues or to fill in areas traumatically or surgically removed. An object or material partially or totally inserted or grafted into the body for prosthetic, therapeutic, diagnostic purposes. Examples of Other Implants (not all-inclusive): Stents, artificial joints, shunts, grafts, pins, plates, screws, anchors, radioactive seeds. Please note: this coding information may include codes for procedures for which Boston Scientific currently offers no cleared or approved products. In those instances, such codes have been included solely in the interest of providing users with comprehensive coding information and are not intended to promote the use of any Boston Scientific products for which they are not cleared or approved. The Health Care Provider (HCP) is solely responsible for selecting the site of service and treatment modalities appropriate for the patient based on medically appropriate needs of that patient and the independent medical judgement of the HCP.
+2. Revenue Code 278 - Definition in UB-04 **manual**, National Uniform Billing Committee Summary, August 2009, Page 5: (a) Implantables: That which is implanted, such as a piece of tissue, a tooth, a pellet of medicine, or a tube or needle containing a radioactive substance, a graft, or an insert. Also included are liquid and solid plastic materials used to augment tissues or to fill in areas traumatically or surgically removed. An object or material partially or totally inserted or grafted into the body for prosthetic, therapeutic, diagnostic purposes. Examples of Other Implants (**not all-inclusive**): **Stents, artificial joints, shunts, grafts, pins, plates, screws, anchors, radioactive seeds**. Please note: this coding information may include codes for procedures for which Boston Scientific currently offers no cleared or approved products. In those instances, such codes have been included solely in the interest of providing users with comprehensive coding information and are not intended to promote the use of any Boston Scientific products for which they are not cleared or approved. The Health Care Provider (HCP) is solely responsible for selecting the site of service and treatment modalities appropriate for the patient based on medically appropriate needs of that patient and the independent medical judgement of the HCP.
 
-Health economic and reimbursement information provided by Boston Scientific Corporation is gathered from third-party sources and is subject to change without notice as a result of complex and frequently changing laws, regulations, rules, and policies. This information is presented for illustrative purposes only and does not constitute reimbursement or legal advice. Boston Scientific encourages providers to submit accurate and appropriate claims for services. It is always the provider’s responsibility to determine medical necessity, the proper site for delivery of any services, and to submit appropriate codes, charges, and modifiers for services rendered. It is also always the provider’s responsibility to understand and comply with Medicare national coverage determinations (NCD), Medicare local coverage determinations (LCD), and any other coverage requirements established by relevant payers which can be updated frequently. Boston Scientific recommends that you consult with your payers, reimbursement specialists, and/or legal counsel regarding coding, coverage, and reimbursement matters. Boston Scientific does not promote the use of its products outside their FDA-approved or FDA-cleared label. Information included herein is current as of November 2025 but is subject to change without notice. Rates for services are effective January 1, 2026.
+Health economic and reimbursement information provided by Boston Scientific Corporation is gathered from third-party sources and is subject to change without notice as a result of complex and frequently changing laws, regulations, rules, and policies. This information is presented for illustrative purposes only and does not constitute reimbursement or legal advice. Boston Scientific encourages providers to submit accurate and appropriate claims for services. It is always the provider’s responsibility to determine medical necessity, the proper site for delivery of any services, and to submit appropriate codes, charges, and modifiers for services rendered. It is also always the provider’s responsibility to understand and comply with Medicare national coverage determinations (**NCD**), Medicare local coverage determinations (**LCD**), and any other coverage requirements established by relevant payers which can be updated frequently. Boston Scientific recommends that you consult with your payers, reimbursement specialists, and/or legal counsel regarding coding, coverage, and reimbursement matters. Boston Scientific does not promote the use of its products outside their FDA-approved or FDA-cleared label. Information included herein is current as of November 2025 but is subject to change without notice. Rates for services are effective January 1, 2026.
 
 Payer policies will vary and should be verified prior to treatment for limitations on diagnosis, coding, or site of service requirements. The coding options listed within this guide are commonly used codes and are not intended to be an all-inclusive list. We recommend consulting your relevant manuals for appropriate coding options.
 

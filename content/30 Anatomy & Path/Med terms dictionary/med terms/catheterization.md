@@ -3,6 +3,7 @@ tags:
   - medterm
   - medroot
 aliases:
+  - Catheterization
 roots:
   - catheterization
 forms:

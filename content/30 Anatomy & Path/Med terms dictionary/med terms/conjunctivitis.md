@@ -134,8 +134,8 @@ _____
 > 
 > **Evaluation and Management (E/M)**
 > 
-> - **[[99202]]–[[99215]]**: Office or other outpatient visit (New or Established patient). Used for the diagnosis and prescription of drops.
-> - **[[92002]]–[[92014]]**: Ophthalmological services (Medical examination and evaluation). Used by eye specialists (OD/MD).
+> - **[[99202]]-[[99215]]**: Office or other outpatient visit (New or Established patient). Used for the diagnosis and prescription of drops.
+> - **[[92002]]-[[92014]]**: Ophthalmological services (Medical examination and evaluation). Used by eye specialists (OD/MD).
 >     - **92002**: New patient, intermediate.
 >     - **92004**: New patient, comprehensive.
 >     - **92012**: Established patient, intermediate.

@@ -31,7 +31,7 @@ definition:
 >
 _____
 >[!info]+ ETYMOLOGY of [[Barrett's esophagus]]
->#greek Named after **Norman Barrett** (1903–1979), an Australian-born British thoracic surgeon.
+>#greek Named after **Norman Barrett** (1903-1979), an Australian-born British thoracic surgeon.
 >
 >- In 1950, Barrett described the condition, originally believing it was a congenital shortening of the esophagus where the stomach had pulled up into the chest ("**short esophagus**").
 >- It was later clarified by other researchers (**notably Allison and Johnstone**) that the condition was actually an acquired metaplastic change due to reflux, but the eponym "Barrett's esophagus" remained.

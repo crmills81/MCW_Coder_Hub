@@ -1,12 +1,10 @@
-[[]]# 2026 Coding and Payment Guide - Prostate Health
+# 2026 Coding and Payment Guide - Prostate Health
 
 The coding options listed within this guide are commonly used codes and are not intended to be an all-inclusive list. They are thought to be relevant to Prostate Health procedures and are referenced throughout this document. We recommend consulting your relevant manuals for appropriate coding options. Payer policies will vary and should be verified prior to treatment for limitations on diagnosis, coding, or site of service requirements.
 
 All rates shown throughout this guide are 2026 Medicare unadjusted national averages; actual rates will vary geographically and/or by individual facility. “Allowed Amount” is the amount Medicare determines to be the maximum allowance for any Medicare covered procedure. Actual payment will vary based on the maximum allowance, less any applicable deductibles, co-insurance, etc.
 
-To determine whether there are relevant C-codes for any Boston Scientific products, please visit our C-code finder at http://www.bostonscientific.com/en-US/reimbursement/ccode-finder.html. (See additional information on page 2).
-
-CPT® codes with their respective long descriptions will be found on page 3.
+To determine whether there are relevant C-codes for any Boston Scientific products, please visit our C-code finder at http://www.bostonscientific.com/en-US/reimbursement/ccode-finder.html.
 
 ## Physician Payment - Medicare Unadjusted National Average
 

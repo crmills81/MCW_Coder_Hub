@@ -26,7 +26,7 @@ tags:
   - MDC03
 note_type: MOC
 specialty: Otolaryngology
-chapter_range: Surgery — Ear (69000–69979); Surgery — Nose (30000–30999); Surgery — Larynx/Trachea/Pharynx/Mouth (31000–31899, 42000–42999)
+chapter_range: Surgery — Ear (69000-69979); Surgery — Nose (30000-30999); Surgery — Larynx/Trachea/Pharynx/Mouth (31000-31899, 42000-42999)
 mdc: MDC 03 — Diseases and Disorders of the Ear, Nose, Mouth and Throat
 status: active
 date_created: 2026-02-23
@@ -213,7 +213,7 @@ This reference index covers the major **CPT code families in Otolaryngology (ENT
 | 30465 | Repair of nasal vestibular stenosis | 090 | Stenosis repair |
 
 >[!tip]
->⚠️ **Functional Rhinoplasty Note:** Cosmetic rhinoplasty (30400–30450) is generally not covered by Medicare or most commercial insurers unless performed for documented functional impairment. Always append documentation of functional deficit when billing rhinoplasty for obstruction.
+>⚠️ **Functional Rhinoplasty Note:** Cosmetic rhinoplasty (30400-30450) is generally not covered by Medicare or most commercial insurers unless performed for documented functional impairment. Always append documentation of functional deficit when billing rhinoplasty for obstruction.
 
 ---
 
@@ -290,7 +290,7 @@ FESS codes are **additive** — each anatomic sinus opened and treated is separa
 - Modifier **-50** when the same sinus procedure is performed bilaterally.
 - Modifier **-51** for the secondary lower-value procedure when multiple different FESS codes are reported.
 - 31231 (diagnostic endoscopy) is **NOT** separately billable when any surgical endoscopy code is used — bundled.
-- Balloon sinuplasty (31295–31298) and conventional FESS codes (31254–31288) may be reported together when both approaches are used in the same session for different sinuses.
+- Balloon sinuplasty (31295-31298) and conventional FESS codes (31254-31288) may be reported together when both approaches are used in the same session for different sinuses.
 
 ---
 
@@ -558,7 +558,7 @@ FESS codes are **additive** — each anatomic sinus opened and treated is separa
 |--------------|----------------|
 | 000 | Flexible laryngoscopy (31575), cerumen removal (69210), diagnostic endoscopy (31231), biopsy (30100) |
 | 010 | Tube insertion (69436), simple tympanoplasty (69610), turbinate reduction (30130/30140), epistaxis (30901/30905) |
-| 090 | Tonsillectomy (42820/42826), septoplasty (30520), FESS (31254–31298), laryngectomy (31360/31365), parotidectomy (42415), tympanoplasty (69631–69646) |
+| 090 | Tonsillectomy (42820/42826), septoplasty (30520), FESS (31254-31298), laryngectomy (31360/31365), parotidectomy (42415), tympanoplasty (69631-69646) |
 | XXX | Diagnostic procedures only; no global |
 
 ---
@@ -692,12 +692,12 @@ FESS codes are **additive** — each anatomic sinus opened and treated is separa
 - [[Procedure Status & Complexity Modifiers]]
 - [[📋 Urology CPT Codes Reference]]
 - [[H20 Iridocyclitis Family MOC]]
-- [[-25]] – Modifier 25
-- [[-50]] – Modifier 50, bilateral procedures
-- [[-51]] – Modifier 51, multiple procedures
-- [[-53]] – Modifier 53, discontinued procedure
-- [[-58]] – Modifier 58, staged procedure
-- [[-62]] – Modifier 62, co-surgeons
-- [[-78]] – Modifier 78, unplanned return to OR
-- [[-LT / -RT]] – Laterality modifiers
-- [[-22]] – Modifier 22, increased procedural services
+- [[-25]] - Modifier 25
+- [[-50]] - Modifier 50, bilateral procedures
+- [[-51]] - Modifier 51, multiple procedures
+- [[-53]] - Modifier 53, discontinued procedure
+- [[-58]] - Modifier 58, staged procedure
+- [[-62]] - Modifier 62, co-surgeons
+- [[-78]] - Modifier 78, unplanned return to OR
+- [[-LT / -RT]] - Laterality modifiers
+- [[-22]] - Modifier 22, increased procedural services

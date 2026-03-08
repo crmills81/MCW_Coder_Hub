@@ -50,7 +50,7 @@ CMS assigns one of the following global period indicators to every CPT surgical 
 
 | Indicator | Description                                                                                                      | Examples                                                                                                                                                                                                                           |
 | --------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **000**   | Endoscopic or minor procedure — no pre-op E/M included the day before; no post-op visits included                | Intravitreal injection ([[67028]]), cerumen removal ([[69210]]), punctal plug ([[68761]]), diagnostic laryngoscopy ([[31575]])                                                                                                     |
+| **000**   | Endoscopic or minor procedure — no pre-op E/M included the day before; no post-op visits included                | Intravitreal injection ([[67028]]), cerumen removal ([[69511]]), punctal plug ([[68761]]), diagnostic laryngoscopy ([[31575]])                                                                                                     |
 | **010**   | Minor procedure — includes 1 related E/M visit on day of procedure; all related post-op visits for 10 days after | YAG capsulotomy ([[66821]]), tympanostomy tubes ([[69436]]), chalazion ([[67800]]), [[epistaxis]] control ([[30901]]/[[30905]]), turbinate reduction ([[30130]])                                                                   |
 | **090**   | Major procedure — includes pre-op visit 1 day before; all related post-op visits for 90 days after               | Cataract ([[66984]]), nephrectomy ([[50220]]/[[50230]]/[[50546]]), tonsillectomy ([[42820]]/[[42826]]), septoplasty ([[30520]]), FESS ([[31254]]-[[31298]]), trabeculectomy ([[66170]]), PPV ([[67036]]), laryngectomy ([[31360]]) |
 | **MMM**   | Maternity — global period does not apply in standard way                                                         | OB procedures                                                                                                                                                                                                                      |
@@ -247,7 +247,7 @@ Always verify the current-year MPFS assistant indicator for each CPT code before
 | **Septoplasty ([[30520]])**              | **090** | -51 when turbinate reduction (30140) added same day          |
 | **FESS ([[31254]]/[[31255]]/[[31267]])** | **090** | -50 for bilateral; -51 for multiple sinus codes same session |
 | **Tympanostomy tubes ([[69436]])**       | **010** | -50 for bilateral; -78 for tube revision for complication    |
-| **Cerumen removal ([[69210]])**          | **000** | -25 when separate E/M; -50 for bilateral                     |
+| **Cerumen removal ([[69511]])**          | **000** | -25 when separate E/M; -50 for bilateral                     |
 | **Laryngectomy ([[31360]])**             | **090** | -78 for return to OR; [[-62]] for co-surgeon                 |
 
 **Urology**

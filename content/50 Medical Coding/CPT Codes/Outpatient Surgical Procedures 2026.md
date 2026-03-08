@@ -1,8 +1,7 @@
 
 # UnitedHealthcare® Commercial Policy Appendix: Applicable Code List
 
-# Outpatient Surgical Procedures - Site of Service:
-# CPT/HCPCS Codes
+# Outpatient Surgical Procedures - Site of Service: CPT/HCPCS Codes
 
 This list of codes applies to the Medical Policy titled
 **Outpatient Surgical Procedures - Site of Service**
@@ -12,20 +11,20 @@ Effective Date: January 1, 2026 [Procedures - Site of Service](Procedures - Site
 
 The following list(s) of procedure and/or diagnosis codes is provided for reference purposes only and may not be all inclusive. The listing of a code does not imply that the service described by the code is a covered or non-covered health service. Benefit coverage for health services is determined by the member specific benefit plan document and applicable laws that may require coverage for a specific service. The inclusion of a code does not imply any right to reimbursement or guarantee claim payment. Other Policies and Guidelines may apply.
 
-This list contains CPT/HCPCS codes for the following:
+**This list contains CPT/HCPCS codes for the following:**
 
-*   Auditory System
+*   **Auditory System**
 *   Cardiovascular System
 *   Digestive System
-*   Eye/Ocular Adnexa System
-*   Female Genital System
-*   Hemic and Lymphatic Systems
+*   **Eye/Ocular Adnexa System**
+*   **Female Genital System**
+*   **Hemic and Lymphatic Systems**
 *   Integumentary System
-*   Male Genital System
+*   **Male Genital System**
 *   Musculoskeletal System
 *   Nervous System
 *   Respiratory System
-*   Urinary System
+*   **Urinary System**
 
 ---
 

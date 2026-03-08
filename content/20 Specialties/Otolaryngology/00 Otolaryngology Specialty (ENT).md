@@ -10,7 +10,7 @@ created: 2026-01-21
 | :------------ | :--------- | :--------------------------------------------------- |
 | **[[31231]]** | **Diagnostic** | Nasal endoscopy, diagnostic, unilateral or bilateral |
 | **[[31575]]** | **Diagnostic** | Laryngoscopy, flexible; diagnostic                   |
-| **[[69210]]** | **Procedure**  | Removal impacted cerumen (Separate procedure)        |
+| **[[69511]]** | **Procedure**  | Removal impacted cerumen (Separate procedure)        |
 | **[[42820]]** | **Procedure**  | [[tonsillectomy]] and adenoidectomy; under age 12    |
 | **[[30520]]** | **Procedure**  | Septoplasty or submucous resection of nasal septum   |
 
