@@ -6,19 +6,19 @@
 - [[Medical Necessity in Rehab]]
 
 ## Code Sets
-- [[CPT 97000 Series; Physical Medicine]] (Physical Medicine)
-- [[E/M Coding for Physiatrists]]
+- [[CPT 97000 Series; Physical Medicine]]
+- [[E&M Coding for Physiatrists]]
 - [[ICD-10 for Musculoskeletal]]
 - [[ICD-10 for Neurological]]
 
 ## Modifiers & Rules
-- [[Therapy Modifiers]] (GP, GO, GN)
+- [[Therapy Modifiers]]
 - [[The 8 Minute Rule]]
 - [[NCCI Edits for Rehab]]
 - [[Modifier 25 vs 59]]
 
 ## Procedures
-- [[Injections & Blocks Blocks]]
+- [[Injections & Blocks]]
 - [[EMG and Nerve Conduction Studies]]
 - [[Spinal Procedures]]
 
@@ -26,14 +26,11 @@
 - [[Documentation Requirements for PM&R]]
 - [[Audit Triggers in PM&R]]
 - [[Telehealth in PM&R]]
+- [[CMS Medicare Guidelines]]
+- [[CPT Assistant References]]
 
-> [!danger] High Risk Areas in PM&R
-> 
-> 1. **Unbundling:** Billing 97140 (Manual) and 97110 (Exercise) for the same time period.
-> 2. **Upcoding E/M:** Level 5 visits for stable chronic pain patients without complex MDM.
-> 3. **Lack of Supervision:** Billing "Incident-To" without the physician physically present in the office suite (Medicare rule).
-> 4. **EMG Add-ons:** Billing NCS add-on codes without the primary code.
-
+## Resources
+- [[External Links]]
 
 ### 📋Critical Compliance
 
@@ -112,7 +109,6 @@ SORT file.mtime DESC
 >
 > If this works, your plugin is functioning correctly.
 
-Let me know if you need queries tailored to specific PM&R coding scenarios like injection tracking, EMG logs, or payer policy references!
 
 ## Resources
 - [[CMS Medicare Guidelines]]

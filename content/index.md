@@ -57,15 +57,15 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 ## High‑Yield Topics
 - [[PCS Body Part Index]]  
 - [[Facility Billing Handbook]]
-- DRG shifts  
-- Query compliance  
+- [[Spinal Procedures]]  
+- [[00 PM&R Coding MOC]] 
 
 ---
 
 # 🔗 Cross‑Links
 - [[CIC Study Notes]]
 - [[Audit Checklists]]
-- [[10 Coding Scenarios]]
+- [[CMS Medicare Guidelines]]
 
 <br>
 
