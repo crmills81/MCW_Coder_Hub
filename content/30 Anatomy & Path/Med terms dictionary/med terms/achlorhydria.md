@@ -3,16 +3,18 @@ tags:
   - medterm
   - medroot
   - digestive_system
-aliases: []
+aliases:
+  - hyperchlorhydria
+  - achylia
 roots:
   - a-
   - chlor-
   - hydr-
   - -ia
-"definition:": Absence of HCl in stomach
 forms:
   - adjective
 "alphabet:": A
+"definition:": Absence of HCl in stomach
 ---
 
 >[!note] Definition of [[achlorhydria]]

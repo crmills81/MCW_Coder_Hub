@@ -4,6 +4,8 @@ tags:
   - medroot
 aliases:
   - abduction
+  - abductive
+  - abducent
 roots:
   - ab-
   - duct-
@@ -13,13 +15,13 @@ forms:
 "definition:": To draw away from an axis or the median plane
 ---
 >[!note] Definition of [[abduct]]
->[[ab-]][[duct-]] - To draw away from an axis or the median plane (**To bring away**); In kinesiology and anatomy, to **abduct** is to move a body part, such as a limb, laterally away from the sagittal (**median**) plane of the body. For example, raising the arms horizontally to the sides is shoulder [[abduct|abduction]]. In the context of fingers or toes, abduction refers to spreading the digits away from the longitudinal axis of the hand or foot (**the middle finger or the second toe, respectively**). Clinically, assessing a patient's ability to abduct is fundamental in evaluating joint mobility, neuromuscular function, and structural integrity during orthopedic, neurological, and physical therapy examinations.
+>[[ab-]][[duct-]] - **To draw away from an axis or the median plane** (**To bring away**); In kinesiology and anatomy, to **abduct** is to move a body part, such as a limb, laterally away from the sagittal (**median**) plane of the body. For example, raising the arms horizontally to the sides is shoulder [[abduct|abduction]]. In the context of fingers or toes, abduction refers to spreading the digits away from the longitudinal axis of the hand or foot (**the middle finger or the second toe, respectively**). Clinically, assessing a patient's ability to abduct is fundamental in evaluating joint mobility, neuromuscular function, and structural integrity during orthopedic, neurological, and physical therapy examinations.
 
 ___
 >[!info]+ Etymology of [[abduct]]
->- **ab-**: From the Latin prefix _[[ab-]]_, meaning "**away from**."
+>- **[[ab-]]**: From the Latin prefix _[[ab-]]_, meaning "**away from**."
 >    
->- **duct**: From the Latin verb _ducere_, meaning "**to lead**," "**to draw**," or "to pull."
+>- **[[-duct]]**: From the Latin verb _ducere_, meaning "**to lead**," "**to draw**," or "to pull."
 >    
 >- **Literal Meaning**: To lead or draw away.
 >
