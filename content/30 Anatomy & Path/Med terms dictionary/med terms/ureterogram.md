@@ -39,18 +39,18 @@ _____
 > |---|---|
 > |**Retrograde ureterogram**|Most common type; contrast injected upward via ureteral catheter|
 > |**Antegrade ureterogram**|Contrast injected downward via nephrostomy/percutaneous access|
-> |**Retrograde pyeloureterogram**|Ureterogram combined with opacification of the renal pelvis|
-> |**IVP / IVU (Intravenous Pyelogram/Urogram)**|Broader study; ureter visualized via IV contrast excretion|
+> |**Retrograde pyeloureterogram**|[[Ureterogram]] combined with opacification of the renal pelvis|
+> |**IVP / IVU (Intravenous Pyelogram/[[Urogram]])**|Broader study; ureter visualized via IV contrast excretion|
 > |**CT Urogram (CTU)**|Modern cross-sectional equivalent; gold standard for urothelial evaluation|
-> |**Nephrostogram**|Contrast study via nephrostomy tube; may include the ureter|
-> |**Loopogram**|Contrast study of an ileal conduit; includes ureters in evaluation|
-> |**Ureteropyelogram**|Synonym for retrograde pyeloureterogram|
-> |**Fluoroscopy, ureter**|Procedural descriptor in ICD-10-PCS|
+> |**[[Nephrostogram]]**|Contrast study via nephrostomy tube; may include the ureter|
+> |**[[Loopogram]]**|Contrast study of an ileal conduit; includes ureters in evaluation|
+> |**Ureteropyelogram**|Synonym for retrograde [[pyeloureterogram]]|
+> |**[[Fluoroscopy]], ureter**|Procedural descriptor in ICD-10-PCS|
 _____
 
 
 > [!example]+ 🏥 ICD-10-PCS Codes/CPT Codes _(Inpatient)_
-> **Section B – Imaging | Body System T – Urinary System | Root Type 1 – Fluoroscopy**
+> **Section B - Imaging | Body System T - Urinary System | Root Type 1 - Fluoroscopy**
 > 
 > #### Ureter Only:
 > 

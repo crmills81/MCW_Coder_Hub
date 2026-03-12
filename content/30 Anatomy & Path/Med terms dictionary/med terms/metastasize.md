@@ -95,7 +95,7 @@ _____
 > 
 > **Secondary Malignancy of Unspecified Site**
 > 
-> - **[[C79.9]]**: Secondary malignant neoplasm of unspecified site
+> - **[[C67.9]]**: Secondary malignant neoplasm of unspecified site
 > 
 > **Primary Malignancy with Metastasis (Example Primary Codes)** _Note: Both primary AND secondary codes are typically required._
 > 

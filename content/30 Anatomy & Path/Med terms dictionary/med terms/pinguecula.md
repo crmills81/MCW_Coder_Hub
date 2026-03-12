@@ -39,10 +39,10 @@ _____
 > |**H11.152**|Pinguecula, left eye|✅ Yes |
 > |**H11.153**|Pinguecula, bilateral|✅ Yes |
 > |**H11.159**|Pinguecula, unspecified eye|✅ Yes |
-> |**H11.15**|Pinguecula (parent code)|❌ No – requires more specificity|
+> |**H11.15**|Pinguecula (parent code)|❌ No - requires more specificity|
 >
->**Category:** H11 – Other disorders of [[conjunctiva]]  
->**Chapter:** H00-H59 – Diseases of the eye and adnexa
+>**Category:** H11 - Other disorders of [[conjunctiva]]  
+>**Chapter:** H00-H59 - Diseases of the eye and adnexa
 >
 >✅ All four codes are valid for HIPAA transactions. These codes fall under category **H11.15** (**Diseases of conjunctiva**). Note: If [[pingueculitis]] (**inflamed pinguecula**) is the reason for the encounter, these same codes apply — there is no separate ICD-10-CM code for pingueculitis; laterality specificity should always be used when documented.
 _____
@@ -61,13 +61,13 @@ _____
 > 
 > ## **CLINICAL NOTES**
 > 
-> - **Benign condition** – non-cancerous
+> - **Benign condition** - non-cancerous
 >     
-> - **Common** – frequently seen in general population
+> - **Common** - frequently seen in general population
 >     
-> - **Appearance** – slightly elevated, elastic tissue deposit in the conjunctiva
+> - **Appearance** - slightly elevated, elastic tissue deposit in the conjunctiva
 >     
-> - **Does NOT cover the cornea** – distinguishes it from pterygium
+> - **Does NOT cover the cornea** - distinguishes it from pterygium
 >     
 > - **ICD-9 Historical Code:** 372.51
 

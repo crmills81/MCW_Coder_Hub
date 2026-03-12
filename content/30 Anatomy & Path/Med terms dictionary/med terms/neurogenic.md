@@ -125,9 +125,9 @@ _____
 > |---|---|
 > |**[[H02.411]]**|Mechanical [[ptosis]] of right eyelid|
 > |**[[H02.413]]**|Mechanical ptosis of bilateral eyelids|
-> |**[[H49.00]]–[[H49.03]]**|Third ([[oculomotor]]) nerve palsy _(neurogenic ptosis)_|
-> |**[[H57.01]]–[[H57.03]]**|Argyll Robertson pupil|
-> |**[[H16.231]]–[[H16.233]]**|Neurotrophic [[keratoconjunctivitis]] (neurogenic keratitis)|
+> |**[[H49.00]]-[[H49.03]]**|Third ([[oculomotor]]) nerve palsy _(neurogenic ptosis)_|
+> |**[[H57.01]]-[[H57.03]]**|Argyll Robertson pupil|
+> |**[[H16.231]]-[[H16.233]]**|Neurotrophic [[keratoconjunctivitis]] (neurogenic keratitis)|
 > 
 > #### 🔷 Neurogenic Tumors — ENT:
 > 
@@ -137,8 +137,8 @@ _____
 > |**[[D44.6]]**|Neoplasm of uncertain behavior, carotid body _(carotid paraganglioma)_|
 > |**[[D44.7]]**|Neoplasm of uncertain behavior, aortic body and other [[paraganglia]]|
 > |**[[C75.5]]**|Malignant neoplasm of aortic body and other paraganglia|
-> |**[[H93.11]]–[[H93.13]]**|[[Tinnitus]] _(neurogenic/sensorineural type, by laterality)_|
-> |**[[H83.01]]–[[H83.09]]**|[[Labyrinthitis]] _(neural component)_|
+> |**[[H93.11]]-[[H93.13]]**|[[Tinnitus]] _(neurogenic/sensorineural type, by laterality)_|
+> |**[[H83.01]]-[[H83.09]]**|[[Labyrinthitis]] _(neural component)_|
 > 
 > #### 🔷 Neurogenic Vocal Fold / Dysphagia — ENT:
 > 

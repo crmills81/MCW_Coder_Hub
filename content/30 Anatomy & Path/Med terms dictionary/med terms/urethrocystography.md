@@ -49,13 +49,13 @@ _____
 > - **Contrast character is critical**: Low osmolar contrast (character 1) is most commonly used in modern practice — but always verify the radiology/procedure note for the specific contrast agent used.
 > - **VCUG vs. RUG distinction**: Both are types of urethrocystography. In PCS, both map to fluoroscopy of bladder and urethra (BT1B) when the full combined study is performed. If only RUG is done without bladder filling, use the urethra-only codes (BT15x).
 > - **Post-prostatectomy anastomotic leak study**: Commonly seen in your urology cases — this is typically a cystogram or VCUG coded with BT1B or BT10 codes depending on whether the urethra was also imaged.
-> - **Pediatric VUR workup**: VCUG is the gold standard — same PCS codes apply regardless of age; the diagnosis codes for VUR ([[N13.70]]–[[N13.729]]) would be assigned separately.
+> - **Pediatric VUR workup**: VCUG is the gold standard — same PCS codes apply regardless of age; the diagnosis codes for VUR ([[N13.70]]-[[N13.729]]) would be assigned separately.
 _____
 
 
 > [!danger]+ 🏥 **ICD-10-PCS Codes _(Inpatient)_**
 > 
-> **Section B – Imaging | Body System T – Urinary System**
+> **Section B - Imaging | Body System T - Urinary System**
 > 
 > #### 🔬 Fluoroscopy — Bladder and Urethra Combined _(primary urethrocystography codes)_:
 > 

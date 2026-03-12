@@ -125,7 +125,7 @@ _____
 |**Laryngitis**|Voice rest, hydration, treat underlying cause (antivirals, antibiotics if bacterial).|
 |**GERD**|PPIs, H2 blockers, lifestyle modifications.|
 |**Spasmodic dysphonia**|Botulinum toxin injections q3-4 months ([[64617]] CPT).|
-|**Nodules/polyps**|Voice therapy; surgery if refractory ([[microlaryngoscopy]]).|
+|**Nodules/polyps**|Voice therapy; surgery if refractory ([[Microlaryngoscopy]]).|
 |**Vocal cord paralysis**|Voice therapy, medialization procedures, injection [[laryngoplasty]].|
 
 **Prognosis:** Excellent for acute laryngitis (2 weeks); chronic conditions require ongoing management; 70-80% improve with voice therapy for MTD​
