@@ -53,7 +53,7 @@ _____
 |-----------------------|-----------------------------------------------------|------------------------------|
 | **IVP/IVU**          | IV contrast → renal filtration/excretion (KUB timed series).[1][2] | **[[74400]]** (IVP), **[[74150]]** (CT [[urogram]] modern equiv). |
 | **Retrograde**       | Cystoscopic ureteral catheter injection (no renal function).[7][8] | **[[52351]]** (w/[[ureteroscopy]]), **[[52005]]** (diagnostic). |
-| **Antegrade**        | [[Percutaneous]] [[nephrostomy]] contrast injection.[5] | **[[50392]]** ([[nephrostogram]]), **[[50434]]** ([[fluoroscopy]]). |
+| **Antegrade**        | [[Percutaneous]] [[nephrostomy]] contrast injection.[5] |  **[[50434]]** ([[fluoroscopy]]). |
 
 **ICD-10-PCS:** **BT1D0ZZ** - Fluoroscopy urinary system.[9]
 

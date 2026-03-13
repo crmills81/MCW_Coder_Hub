@@ -567,7 +567,6 @@ last_updated: 2026-02-10
 - **[[90947]]** - Dialysis procedure other than hemodialysis requiring repeated evaluations
 
 **Procedures for Obstruction:**
-- **[[50392]]** - Nephrostomy tube placement
 - **[[52332]]** - Cystourethroscopy with insertion of ureteral stent
 - **[[52450]]** - Transurethral incision of prostate
 - **[[50080]]** - Percutaneous nephrostolithotomy or pyelostolithotomy
