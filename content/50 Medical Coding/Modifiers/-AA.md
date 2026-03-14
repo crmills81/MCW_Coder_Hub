@@ -2,6 +2,8 @@
 title: -AA
 aliases:
   - Modifier AA
+  - Modifier -AA
+  - AA
   - AA Modifier
   - Anesthesia Personally Performed
   - Physician Personally Performed Anesthesia

@@ -2,6 +2,8 @@
 title: "-QX"
 aliases:
   - Modifier QX
+  - QX
+  - Modifier -QX
   - QX Modifier
   - CRNA With Medical Direction
   - Qualified Nonphysician Anesthetist Medically Directed

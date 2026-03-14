@@ -2,6 +2,8 @@
 title: "-QK"
 aliases:
   - Modifier QK
+  - Modifier -QK
+  - QK
   - QK Modifier
   - Medical Direction 2-4 Concurrent Procedures
   - Anesthesiologist Medical Direction
@@ -32,11 +34,11 @@ mutually_exclusive_with:
 audit_risk: Moderate
 documentation_intensity: High — seven CMS conditions must be met and documented
 related_modifiers:
-  - "[[-AA]]"
-  - "[[-QX]]"
-  - "[[-QZ]]"
-  - "[[-QY]]"
-  - "[[-AD]]"
+  - -AA
+  - -QX
+  - -QZ
+  - -QY
+  - -AD
 date_created: 2026-02-23
 date_modified: 2026-02-23
 note_type: modifier-reference

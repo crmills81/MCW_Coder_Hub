@@ -15,6 +15,8 @@ aliases:
   - Modifier -AI
   - Modifier AI
   - AI
+  - modifier AI
+  - modifier -AI
 ---
 
 # Modifier -AI: Principal Physician of Record (Medicare)

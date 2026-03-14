@@ -14,6 +14,8 @@ aliases:
   - Modifier -GC
   - Modifier GC
   - GC
+  - modifier -GC
+  - modifier GC
 ---
 
 # Modifier -GC: Resident service under teaching physician direction

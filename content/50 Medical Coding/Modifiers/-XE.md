@@ -1,10 +1,4 @@
 ---
-description: "CPT Modifier XE - Separate Encounter"
-aliases:
-  - Modifier -XE
-  - Modifier XE
-  - XE Modifier
-  - Separate Encounter Modifier
 tags:
   - modifier
   - NCCI
@@ -13,13 +7,19 @@ tags:
   - modifier-59-subset
   - bundling
   - HCPCS
+description: CPT Modifier XE - Separate Encounter
+aliases:
+  - Modifier -XE
+  - Modifier XE
+  - XE Modifier
+  - Separate Encounter Modifier
 modifier_code: XE
 modifier_family: X{EPSU}
 modifier_type: HCPCS Level II
 full_name: Separate Encounter
-short_definition: "Service is distinct because it occurred during a separate encounter on the same date of service."
+short_definition: Service is distinct because it occurred during a separate encounter on the same date of service.
 reason_for_distinctness: Different encounter, same DOS
-replaces_modifier: "59 (when separate encounter is the specific reason)"
+replaces_modifier: 59 (when separate encounter is the specific reason)
 use_with_em: false
 audit_risk: Moderate
 cms_approved: true
@@ -53,10 +53,10 @@ The key distinction: both services happen on the **same day**, but they are sepa
 - The procedures are not overlapping and were not performed simultaneously.
 
 ## When NOT to Use
-- When procedures occurred during the **same encounter/session** — XE would be incorrect; consider XS, XP, or XU instead.
+- When procedures occurred during the **same encounter/session** — [[-XE]] would be incorrect; consider [[-XS]], [[-XP]], or [[-XU]] instead.
 - When the service is on a **different date of service** — no modifier is needed for distinctiveness across dates.
-- When a more specific X{EPSU} modifier (XP, XS, or XU) better describes the circumstances — always choose the most specific modifier.
-- Do **not** use XE and modifier 59 together on the same claim line.
+- When a more specific X{EPSU} modifier (-XP, -XS, or -XU) better describes the circumstances — always choose the most specific modifier.
+- Do **not** use -XE and modifier -59 together on the same claim line.
 - Do **not** append to E/M services.
 
 ## Documentation Requirements
@@ -66,9 +66,9 @@ The key distinction: both services happen on the **same day**, but they are sepa
 
 ## Key Facts
 - XE is a **HCPCS Level II** modifier (two alpha characters), not a CPT modifier.
-- Per CMS guidelines, XE bypasses NCCI edits in the same manner as modifier 59.
-- CMS prefers XE over modifier 59 whenever separate encounter is the specific reason for reporting the service separately.
-- Modifier 59 is now considered a modifier of **last resort** — use XE (or another X{EPSU}) whenever it accurately applies.
+- Per CMS guidelines, XE bypasses NCCI edits in the same manner as modifier -59.
+- CMS prefers XE over modifier [[-59]] whenever separate encounter is the specific reason for reporting the service separately.
+- Modifier 59 is now considered a modifier of **last resort** — use [[-XE]] (or another X{EPSU}) whenever it accurately applies.
 
 ## X{EPSU} Modifier Family — Quick Reference
 | Modifier | Full Name | Reason for Distinctness |

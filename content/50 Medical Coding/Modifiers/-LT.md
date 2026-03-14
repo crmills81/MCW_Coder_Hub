@@ -13,21 +13,23 @@ aliases:
   - Modifier -LT
   - Modifier LT
   - LT
+  - modifier -LT
+  - modifier LT
 ---
 
 # Modifier -LT: Left side (laterality modifier)
 
 ## Quick reference
 - **Definition:** HCPCS modifier **[[-LT]]**means **left side of the body** and is used to identify procedures/items performed/provided on the left side. 
-- **What it impacts:** -LT generally **does not change the allowed amount** by itself, but missing a required laterality modifier can trigger **denials or development**. 
+- **What it impacts:** **-LT** generally **does not change the allowed amount** by itself, but missing a required laterality modifier can trigger **denials or development**. 
 - **Paired modifier:** **[[-RT]]** identifies the right side and is used in the same way when laterality is required. 
 
 ---
 
 ## Most common uses
 - **Unilateral service on a paired organ/structure:** Append **-LT** when a service is performed only on the **left** member of a paired anatomy (e.g., left eye/left ear/left nasal structure when payer requires laterality). 
-- **Clarity + claim edits:** Use -LT to make the claim’s laterality explicit when the body has left/right parts and the service is performed on the left side. 
-- **Bilateral via two lines (payer-dependent):** Some payers require bilateral reporting as **two separate lines** (one with -LT and one with -RT), each with **1 unit**. 
+- **Clarity + claim edits:** Use **-LT** to make the claim’s laterality explicit when the body has left/right parts and the service is performed on the left side. 
+- **Bilateral via two lines (payer-dependent):** Some payers require bilateral reporting as **two separate lines** (one with **-LT** and one with **-RT**), each with **1 unit**. 
 
 ---
 
@@ -39,8 +41,8 @@ aliases:
 ---
 
 ## Documentation checklist
-- **State laterality in the note:** Document “left” (and the specific structure, e.g., left eye/left ear) in the assessment and procedure note so the -LT modifier is clearly supported. 
-- **Match claim to documentation:** If you append -LT, the note should not read “[[OU]]/bilateral/both” without clarifying what was actually done on the left side.
+- **State laterality in the note:** Document “left” (and the specific structure, e.g., left eye/left ear) in the assessment and procedure note so the **-LT** modifier is clearly supported. 
+- **Match claim to documentation:** If you append **-LT**, the note should not read “[[OU]]/bilateral/both” without clarifying what was actually done on the left side.
 - **Use correct bilateral approach:** If the record supports a true bilateral service, choose either **-50** (when appropriate) or **two-line RT/LT reporting** based on payer/MPFS rules—don’t mix approaches on the same line.
 
 ---
