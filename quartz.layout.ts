@@ -8,6 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
  footer: Component.Footer({
   links: {
+    "My MCW Inpatient Profee Assistant": "https://crmills81.github.io/crystals_coding_tools",
     "HappyCOVERGIRLCo": "https://happycovergirlcocovers.com",
     "My Etsy Shop!": "https://happycovergirlco.etsy.com",
     "My Bluesky": "https://bsky.app/profile/happycovergirlcocovers.com",
