@@ -7,7 +7,9 @@ tags:
   - Musculoskeletal
   - Trauma
   - ProfeeCoding
-short_descripton: " Closed Treatment of Nasal Fracture without Stabilization"
+  - otolaryngology
+  - specialty/otolaryngology
+"description:": " Closed Treatment of Nasal Fracture without Stabilization"
 aliases:
   - "21315"
   - Closed Nasal Fracture without Stabilization
