@@ -12,7 +12,7 @@ created: 2026-01-21
 | **[[31575]]** | **Diagnostic** | Laryngoscopy, flexible; diagnostic                   |
 | **[[69511]]** | **Procedure**  | Removal impacted cerumen (Separate procedure)        |
 | **[[42820]]** | **Procedure**  | [[tonsillectomy]] and adenoidectomy; under age 12    |
-| **[[30520]]** | **Procedure**  | Septoplasty or submucous resection of nasal septum   |
+| **[[50 Medical Coding/CPT Codes/30520]]** | **Procedure**  | Septoplasty or submucous resection of nasal septum   |
 
 
 ## Common ICD-10-CM Codes

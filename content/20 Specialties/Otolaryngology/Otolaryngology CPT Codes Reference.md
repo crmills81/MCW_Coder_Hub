@@ -670,7 +670,7 @@ FESS codes are **additive** — each anatomic sinus opened and treated is separa
 | --------- | -------------------------------------------------------- | ------------- |
 | 42820     | Tonsillectomy and adenoidectomy, under 12                | (create note) |
 | 42826     | Tonsillectomy, age 12 and over                           | (create note) |
-| [[30520]] | Septoplasty                                              | ✅             |
+| [[50 Medical Coding/CPT Codes/30520]] | Septoplasty                                              | ✅             |
 | 30140     | Submucous resection inferior turbinate                   | (create note) |
 | 31267     | FESS maxillary antrostomy with tissue removal            | (create note) |
 | 31255     | FESS total ethmoidectomy                                 | (create note) |
