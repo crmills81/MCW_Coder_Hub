@@ -52,7 +52,7 @@ updated: 2026-02-27
 | **Code** | 21315 |
 | **Code Type** | Surgical Procedure - Maxillofacial Surgery |
 | **Procedure Type** | LeFort I Osteotomy (maxillary surgery) |
-| **Global Period** | 090 days (major surgical procedure) |
+| **Global Period** | **<font color="#ff0000">090 days</font>** (major surgical procedure) |
 | **Work RVU (2025)** | 8.30 RVU |
 | **Practice Expense RVU (2025, Non-Facility)** | 4.78 RVU |
 | **Practice Expense RVU (2025, Facility)** | 3.25 RVU |
@@ -261,13 +261,13 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 
 **Modifier -24 Usage (Unrelated E/M During Global):**
 - **When:** Patient returns during 90-day post-op period for unrelated problem (e.g., hypertension check, other illness)
-- **Apply [[-24]] to:** The E/M code, not the 21315
-- **Example:** Patient 2 weeks post-LeFort I returns for unrelated sore throat → Bill 99213-24 for throat problem (separate from global package)
+- **Apply [[-24]] to:** The E/M code, not the **21315**
+- **Example:** Patient 2 weeks post-LeFort I returns for unrelated sore throat → Bill [[99213]]-24 for throat problem (separate from global package)
 
 **Modifier -59 Usage (Distinct Procedure Same Day):**
-- **When:** Additional unrelated procedure performed same day as 21315
+- **When:** Additional unrelated procedure performed same day as **21315**
 - **Apply -59 to:** The additional procedure code
-- **Example:** 21315 + mandibular osteotomy ([[21447]]) with -59 on 21447 (if distinctly separate procedures)
+- **Example:** **21315** + mandibular osteotomy ([[21447]]) with **-59** on **21447** (if distinctly separate procedures)
 
 ---
 
@@ -278,7 +278,7 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 **1. Global Period Management (Critical)**
 - 90-day global period is standard
 - All routine post-op care included in global fee
-- Unrelated services must use modifier -24 to be separately billed
+- Unrelated services must use modifier **-24** to be separately billed
 
 **2. Facility vs. Non-Facility Billing**
 - **Non-Facility (office-based OR):** Higher PE RVU (4.78), higher reimbursement (~$455)
@@ -286,19 +286,19 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 - Facility also bills separately for facility charges (hospital or ASC facility fee)
 
 **3. Bilateral Considerations**
-- LeFort I typically unilateral (standard code 21315)
-- If bilateral LeFort procedures performed, bill 21315 + 21315-50 or 21315[[-LT]] + 21315[[-RT]] (verify payer policy)
+- LeFort I typically unilateral (standard code **21315**)
+- If bilateral LeFort procedures performed, bill **21315** + **21315**[[-50]] or **21315**[[-LT]] + **21315**[[-RT]] (verify payer policy)
 - Most payers pay 150% for bilateral procedures (100% + 50% of second side)
 
 **4. Assistant at Surgery**
-- Can bill assistant surgeon (modifier -80 or -81 or -82, depending on provider type)
+- Can bill assistant surgeon (modifier [[-80]] or [[-81]] or [[-82]], depending on provider type)
 - Assistant typically paid 16-20% of primary surgeon fee
 - Verify Medicare rules for specific assistant modifiers in your region
 
 **5. Bone Graft Inclusion**
 - Bone graft material and placement included in 21315 code
-- **DO NOT bill separately** for graft material (CPT [[20930]]-[[20938]]) when using 21315
-- If graft harvested from separate site with significant additional work, some payers allow separate billing with -59 modifier (verify policy)
+- **DO NOT bill separately** for graft material (CPT [[20930]]-[[20938]]) when using **21315**
+- If graft harvested from separate site with significant additional work, some payers allow separate billing with [[-59]] modifier (verify policy)
 
 **6. Local Coverage Determinations (LCDs)**
 - Check your MAC jurisdiction for specific coverage requirements
@@ -356,8 +356,8 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 **Example:**
 - Patient has LeFort I on 1/15/2026 (90-day global ends 4/15/2026)
 - On 2/1/2026, patient returns for unrelated hypertension management
-- Coding: 99213-24 for hypertension (unrelated to LeFort I)
-- The 21315 global fee is NOT reduced; separate E/M payment applies
+- Coding: [[99213]][[-24]] for hypertension (unrelated to LeFort I)
+- The **21315** global fee is NOT reduced; separate E/M payment applies
 
 **Documentation requirement:** E/M note must clearly document unrelated problem
 
@@ -365,12 +365,12 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 
 ### Modifier -59 (Distinct Procedural Service)
 
-**Use when:** Performing distinct, unrelated procedure same day as 21315
+**Use when:** Performing distinct, unrelated procedure same day as **21315**
 
 **Example:**
 - Patient undergoing LeFort I + blepharoplasty (eyelid surgery) same day
 - These are distinct procedures
-- Coding: 21315 + blepharoplasty code (e.g., [[15820]]-59)
+- Coding: **21315** + [[blepharoplasty]] code (e.g., [[15820]]-59)
 - Both procedures billed, both paid (if criteria met)
 
 ---
@@ -380,9 +380,9 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 **Use when:** Bilateral LeFort procedures performed simultaneously
 
 **Billing:**
-- 21315-50 (bilateral modifier, fewer insurers accept)
-- OR 21315-LT + 21315-RT (side-specific modifiers, more common)
-- OR 21315 + 21315-50 (first code without modifier, second with -50)
+- **21315-50** (bilateral modifier, fewer insurers accept)
+- OR **21315-LT** + **21315-RT** (side-specific modifiers, more common)
+- OR **21315** + **21315-50** (first code without modifier, second with **-50**)
 
 **Payment:** Typically 150% of base code (100% + 50%)
 
@@ -642,7 +642,7 @@ Patient positioned supine, prepped and draped in routine sterile fashion. Genera
 - [ ] **Failed conservative treatment documented** - Orthodontics attempted for [X] months without adequate result
 - [ ] **Imaging present** - Cephalometric radiographs, panoramic films, CT scan if obtained
 - [ ] **Surgical technique clearly described** - Type of osteotomy (LeFort I), extent of cuts, mobilization confirmed
-- [ ] **Positioning documented** - Direction and amount of maxillary movement (mm forward/back/up/down)
+- [x] **Positioning documented** - Direction and amount of maxillary movement (mm forward/back/up/down)
 - [ ] **Fixation documented** - Type, location, bilaterally confirmed
 - [ ] **Bone graft documented (if used)** - Type, source, location, amount; do NOT bill separately for graft
 - [ ] **Intraoperative complications documented** - Or note "none"
@@ -650,8 +650,8 @@ Patient positioned supine, prepped and draped in routine sterile fashion. Genera
 - [ ] **Estimated blood loss documented** - Important for perioperative planning
 - [ ] **Post-operative plan documented** - Specific instructions, follow-up schedule
 - [ ] **Post-operative notes complete (within global period)** - Wound status, occlusion, complications, pain control
-- [ ] **No separate billing during global period** - Only 21315 billable for related care during 90 days (except unrelated with -24)
-- [ ] **Proper modifiers used** - -24 if unrelated E/M during global, -59 if distinct procedure same day, -50/-LT/-RT if bilateral
+- [ ] **No separate billing during global period** - Only [[21315]] billable for related care during 90 days (except unrelated with [[-24]])
+- [ ] **Proper modifiers used** - **-24** if unrelated E/M during global, -59 if distinct procedure same day, **-50/-LT/-RT** if bilateral
 - [ ] **Global period tracked** - Ensure office doesn't bill post-op visits as separate E/M during 90-day period
 
 ---
@@ -666,7 +666,7 @@ Patient positioned supine, prepped and draped in routine sterile fashion. Genera
 - ❌ Surgical technique vague or incomplete (which osteotomy cuts, extent of mobilization?)
 - ❌ Repositioning data missing (amount and direction of movement not documented)
 - ❌ Fixation details incomplete (type, location, bilaterally?)
-- ❌ Bone graft billed separately (20930-20938) when 21315 used (graft included in 21315)
+- ❌ Bone graft billed separately ([[20930]]-[[20938]]) when [[21315]] used (graft included in **21315**)
 - ❌ Post-operative visits billed as separate E/M during global period (should be included unless unrelated with -24 modifier)
 - ❌ Global period exceeded (surgery on X date, billing post-op visit on date outside 90-day window?)
 - ❌ Bilateral LeFort procedures billed without bilateral modifier or appropriate side-specific modifiers
