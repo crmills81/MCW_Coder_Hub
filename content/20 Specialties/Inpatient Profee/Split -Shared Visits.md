@@ -39,13 +39,13 @@ Split/Shared Visit Documentation:
 - **Billing provider**: Provider B
 
 > [!WARNING] Teaching Settings
-> Split/shared rules do NOT apply in teaching physician settings. Different rules apply.
+> **Split/shared rules do NOT apply in teaching physician settings. Different rules apply.**
 
 ## Not Allowed For
 
-- Critical care services ([[99291]]-[[99292]])
+- **Critical care services** ([[99291]]-[[99292]])
 - Consultation codes
-- Procedures (only E/M)
+- **Procedures (only E/M)**
 - Different specialties (generally)
 
 > [!TIP] Time Tracking

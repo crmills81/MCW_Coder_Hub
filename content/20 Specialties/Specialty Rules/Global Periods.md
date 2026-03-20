@@ -223,7 +223,7 @@
 | [[52648]] | Laser surgery of prostate    | **090** | A      |
 | [[53850]] | Prostatic microwave thermotx | **090** | A      |
 | 54161     | Circum 28 days or older      | **010** | A      |
-| [[55866]] | Laps surg prst8ect rpbic rad | **090** | A      |
+| [[50 Medical Coding/CPT Codes/55866]] | Laps surg prst8ect rpbic rad | **090** | A      |
 | 57240     | Anterior colporrhaphy        | **090** | A      |
 | [[57288]] | Repair bladder defect        | **090** | A      |
 | [[58571]] | Tlh w/t/o 250 g or less      | **090** | A      |
@@ -262,7 +262,7 @@
 | [[65855]] | Trabeculoplasty laser surg   | **010** | A      |
 | [[66170]] | Glaucoma surgery             | **090** | A      |
 | [[66179]] | Aqueous shunt eye w/o graft  | **090** | A      |
-| [[66180]] | Aqueous shunt eye w/graft    | **090** | A      |
+| [[50 Medical Coding/CPT Codes/66180]] | Aqueous shunt eye w/graft    | **090** | A      |
 | [[66711]] | Ecp ciliary body destruction | **090** | A      |
 | [[66761]] | Revision of iris             | **010** | A      |
 | [[66821]] | After cataract laser surgery | **090** | A      |

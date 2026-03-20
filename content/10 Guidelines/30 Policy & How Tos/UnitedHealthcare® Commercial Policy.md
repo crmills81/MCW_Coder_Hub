@@ -13,8 +13,9 @@ CPT Code
 Description 
 Auditory System 
 
-| 69100 | Biopsy external ear                                                                                                        |
+| Code  | Description                                                                                                                |
 | ----- | -------------------------------------------------------------------------------------------------------------------------- |
+| 69100 | Biopsy external ear                                                                                                        |
 | 69110 | Excision external ear; partial, simple repair                                                                              |
 | 69140 | Excision exostosis(es), external auditory canal                                                                            |
 | 69145 | Excision soft tissue lesion, external auditory canal                                                                       |
@@ -28,89 +29,69 @@ Auditory System
 | 69436 | Tympanostomy (requiring insertion of ventilating tube), general anesthesia                                                 |
 | 69440 | Middle ear exploration through postauricular or ear canal incision                                                         |
 | 69450 | Tympanolysis, transcanal                                                                                                   |
-|       |                                                                                                                            |
-
-  
-
+| 69505 | Mastoidectomy; modified radical                                                                                            |
+| 69550 | Excision aural glomus tumor; transcanal                                                                                    |
+| 69602 | Revision mastoidectomy; resulting in modified radical mastoidectomy                                                        |
+| 69610 | Tympanic membrane repair, with or without site preparation of perforation for closure, with or without patch               |
+| 69620 | Myringoplasty (surgery confined to drumhead and donor area)                                                                |
+ 
+ 
  
 
  
 
-69505 
-Mastoidectomy; modified radical 
-69550 
-Excision aural glomus tumor; transcanal 
-69602 
-Revision mastoidectomy; resulting in modified radical mastoidectomy 
-69610 
-Tympanic membrane repair, with or without site preparation of perforation for closure, with or without patch 
-69620 
-Myringoplasty (surgery confined to drumhead and donor area) 
  
 CPT Code 
 Description 
 Auditory System 
-69631 
-Tympanoplasty without mastoidectomy (including canalplasty, atticotomy and/or middle ear surgery), initial or revision; without ossicular chain reconstruction 
-69632 
-Tympanoplasty without mastoidectomy (including canalplasty, atticotomy and/or middle ear surgery), initial or revision; with ossicular chain reconstruction (e.g., postfenestration) 
-69633 
-Tympanoplasty without mastoidectomy (including canalplasty, atticotomy and/or middle ear surgery), initial or revision; with ossicular chain reconstruction and synthetic prosthesis (e.g., partial ossicular replacement prosthesis [PORP], total ossicular replacement prosthesis [TORP]) 
-69635 
-Tympanoplasty with antrotomy or mastoidotomy (including canalplasty, atticotomy, middle ear surgery, and/or tympanic membrane repair); without ossicular chain reconstruction 
-69636 
-Tympanoplasty with antrotomy or mastoidotomy (including canalplasty, atticotomy, middle ear surgery, and/or tympanic membrane repair); with ossicular chain reconstruction 
-69641 
-Tympanoplasty with mastoidectomy (including canalplasty, middle ear surgery, tympanic membrane repair); without ossicular chain reconstruction 
-69642 
-Tympanoplasty with mastoidectomy (including canalplasty, middle ear surgery, tympanic membrane repair); with ossicular chain reconstruction 
-69643 
-Tympanoplasty with mastoidectomy (including canalplasty, middle ear surgery, tympanic membrane repair); with intact or reconstructed wall, without ossicular chain reconstruction 
-69644 
-Tympanoplasty with mastoidectomy (including canalplasty, middle ear surgery, tympanic membrane repair); with intact or reconstructed canal wall, with ossicular chain reconstruction 
-69645 
-Tympanoplasty with mastoidectomy (including canalplasty, middle ear surgery, tympanic membrane repair); radical or complete, without ossicular chain reconstruction 
-69646 
-Tympanoplasty with mastoidectomy (including canalplasty, middle ear surgery, tympanic membrane repair); radical or complete, with ossicular chain reconstruction 
-69650 
-Stapes mobilization  
-69660 
-Stapedectomy or stapedotomy with reestablishment of ossicular continuity, with or without use of foreign material 
-69661 
-Stapedectomy or stapedotomy with reestablishment of ossicular continuity, with or without use of foreign material; with footplate drill out 
-69662 
-Revision of stapedectomy or stapedotomy 
-69801 
-Labyrinthotomy, with perfusion of vestibuloactive drug(s), transcanal 
-69805 
-Endolymphatic sac operation; without shunt 
-69806 
-Endolymphatic sac operation; with shunt 
-Cardiovascular System 
-33215 
-Repositioning of previously implanted transvenous pacemaker or implantable defibrillator (right atrial or right ventricular) electrode 
-33216 
-Insertion of a single transvenous electrode, permanent pacemaker or implantable defibrillator 
-33241 
-Removal of implantable defibrillator pulse generator only 
-36000 
-Introduction of needle or intracatheter, vein 
-36010 
-Introduction of catheter, superior or inferior vena cava 
-36012 
-Selective catheter placement, venous system; second order, or more selective, branch (e.g., left adrenal vein, petrosal sinus) 
-36215 
-Selective catheter placement, arterial system; each first order thoracic or brachiocephalic branch, within a vascular family 
-36246 
-Selective catheter placement, arterial system; initial second order abdominal, pelvic, or lower extremity artery branch, within a vascular family 
-36556 
-Insertion of non-tunneled centrally inserted central venous catheter; age 5 years or older 
-36569 
-Insertion of peripherally inserted central venous catheter (PICC), without subcutaneous port or pump, without imaging guidance; age 5 years or older 
+
+| Code  | Description                                                                                                                                                                          |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 69631 | Tympanoplasty without mastoidectomy (including canalplasty, atticotomy and/or middle ear surgery), initial or revision; without ossicular chain reconstruction                       |
+| 69632 | Tympanoplasty without mastoidectomy (including canalplasty, atticotomy and/or middle ear surgery), initial or revision; with ossicular chain reconstruction (e.g., postfenestration) |
+| 69633 | Tympanoplasty without mastoidectomy (including canalplasty, atticotomy and/or middle ear surgery), initial or revision; with ossicular chain reconstruction and synthetic prosthesis (e.g., partial ossicular replacement prosthesis [PORP], total ossicular replacement prosthesis [TORP])    |
+| 69635 | Tympanoplasty with antrotomy or mastoidotomy (including canalplasty, atticotomy, middle ear surgery, and/or tympanic membrane repair); without ossicular chain reconstruction                                                              |
+| 69636 |  Tympanoplasty with antrotomy or mastoidotomy (including canalplasty, atticotomy, middle ear surgery, and/or tympanic membrane repair); with ossicular chain reconstruction  |  
+| 69641  |  Tympanoplasty with mastoidectomy (including canalplasty, middle ear surgery, tympanic membrane repair); without ossicular chain reconstruction  |  
+| 69642  |  Tympanoplasty with mastoidectomy (including canalplasty, middle ear surgery, tympanic membrane repair); with ossicular chain reconstruction  |  
+| 69643  |  Tympanoplasty with mastoidectomy (including canalplasty, middle ear surgery, tympanic membrane repair); with intact or reconstructed wall, without ossicular chain reconstruction  |  
+| 69644  |  Tympanoplasty with mastoidectomy (including canalplasty, middle ear surgery, tympanic membrane repair); with intact or reconstructed canal wall, with ossicular chain reconstruction  |  
+| 69645  |  Tympanoplasty with mastoidectomy (including canalplasty, middle ear surgery, tympanic membrane repair); radical or complete, without ossicular chain reconstruction  |  
+| 69646  |  Tympanoplasty with mastoidectomy (including canalplasty, middle ear surgery, tympanic membrane repair); radical or complete, with ossicular chain reconstruction  |  
+| 69650  |  Stapes mobilization   |  
+| 69660  |  Stapedectomy or stapedotomy with reestablishment of ossicular continuity, with or without use of foreign material  |  
+| 69661  |  Stapedectomy or stapedotomy with reestablishment of ossicular continuity, with or without use of foreign material; with footplate drill out  |  
+| 69662  |  Revision of stapedectomy or stapedotomy  |  
+| 69801  |  Labyrinthotomy, with perfusion of vestibuloactive drug(s), transcanal  |  
+| 69805  |  Endolymphatic sac operation; without shunt  |  
+| 69806  |  Endolymphatic sac operation; with shunt  |  
+
  
-CPT Code 
-Description 
-Cardiovascular System 
+
+ 
+
+ 
+
+ 
+
+
+
+**Cardiovascular System** 
+
+| Code  | Description                                                                                                                                                                          |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|33215 |Repositioning of previously implanted transvenous pacemaker or implantable defibrillator (right atrial or right ventricular) electrode 
+|33216 | Insertion of a single transvenous electrode, permanent pacemaker or implantable defibrillator| 
+|33241 | Removal of implantable defibrillator pulse generator only |
+|36000 | Introduction of needle or intracatheter, vein |
+|36010 | Introduction of catheter, superior or inferior vena cava |
+|36012 |Selective catheter placement, venous system; second order, or more selective, branch (e.g., left adrenal vein, petrosal sinus)| 
+|36215 |Selective catheter placement, arterial system; each first order thoracic or brachiocephalic branch, within a vascular family |
+|36246 |Selective catheter placement, arterial system; initial second order abdominal, pelvic, or lower extremity artery branch, within a vascular family |
+|36556 |Insertion of non-tunneled centrally inserted central venous catheter; age 5 years or older 
+|36569 |Insertion of peripherally inserted central venous catheter (PICC), without subcutaneous port or pump, without imaging guidance; age 5 years or older |
+ 
+
 36571 
 Insertion of peripherally inserted central venous access device, with subcutaneous port; age 5 years or older 
 36581 

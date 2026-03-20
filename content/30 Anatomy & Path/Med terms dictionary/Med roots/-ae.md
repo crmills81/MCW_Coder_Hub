@@ -52,7 +52,7 @@ _____
 >     
 > - For you as an inpatient profee coder, treat **-ae** as a visual cue that the term is plural, which can help:
 >     
->     - Clarify documentation (e.g., “C5–C6 vertebrae” vs “C5 vertebra”).
+>     - Clarify documentation (e.g., “C5-C6 vertebrae” vs “C5 vertebra”).
 >         
 >     - Cross‑check with imaging and op notes when counting levels or structures for CPT selection.
 > 

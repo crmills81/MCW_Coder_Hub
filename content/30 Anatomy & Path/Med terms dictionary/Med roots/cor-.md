@@ -15,13 +15,13 @@ definition:
   - with/together
   - heart
 ---
->[!Note] DEFINITION of [[cor-]]
-> The prefix and root _**cor-**_ is one of the most anatomically productive and clinically diverse word elements in all of medicine, operating simultaneously from three distinct Latin origins. First, as the **assimilated form of _con-_** (_cum_ = **with, together**), it appears whenever the following letter is **r** — producing words like _correction_, _correlation_, and _corrosion_. Second, from the Latin noun _**cor, cordis**_ (**heart**), it gives us _cor pulmonale_ (**literally "pulmonary heart"**) and the combining form _[[cordi-]]_. Third — and most critically for [[ophthalmology]] — from _**cornu**_ (**horn**) comes _**cornea**_, literally the "**horny/transparent layer**," referring to the anterior transparent avascular coat of the eye; from the same root comes _cornu_ itself (**anatomical horn-shaped projections**), _corona_ (crown — giving _**coronal**_, _**coronary**_), and _corpus_ (body, with plural _corpora_). In ENT, _corda_ (cord) branches from this family giving us _vocal cord/cordal_ terminology. In urology, **corpus/corpora** (_corpora cavernosa_, _corpus spongiosum_) are foundational anatomical structures. The breadth of _[[cor-]]_ across your three specialties — cornea in ophthalmology, vocal cord/cordectomy in ENT, and corpus cavernosum in urology — makes it one of the most specialty-spanning prefixes in clinical medicine.
+>[!Note] DEFINITION of [[cor- 1]]
+> The prefix and root _**cor-**_ is one of the most anatomically productive and clinically diverse word elements in all of medicine, operating simultaneously from three distinct Latin origins. First, as the **assimilated form of _con-_** (_cum_ = **with, together**), it appears whenever the following letter is **r** — producing words like _correction_, _correlation_, and _corrosion_. Second, from the Latin noun _**cor, cordis**_ (**heart**), it gives us _cor pulmonale_ (**literally "pulmonary heart"**) and the combining form _[[cordi-]]_. Third — and most critically for [[ophthalmology]] — from _**cornu**_ (**horn**) comes _**cornea**_, literally the "**horny/transparent layer**," referring to the anterior transparent avascular coat of the eye; from the same root comes _cornu_ itself (**anatomical horn-shaped projections**), _corona_ (crown — giving _**coronal**_, _**coronary**_), and _corpus_ (body, with plural _corpora_). In ENT, _corda_ (cord) branches from this family giving us _vocal cord/cordal_ terminology. In urology, **corpus/corpora** (_corpora cavernosa_, _corpus spongiosum_) are foundational anatomical structures. The breadth of _[[cor- 1]]_ across your three specialties — cornea in ophthalmology, vocal cord/cordectomy in ENT, and corpus cavernosum in urology — makes it one of the most specialty-spanning prefixes in clinical medicine.
 _____
-> [!info]+ ETYMOLOGY of [[cor-]]
+> [!info]+ ETYMOLOGY of [[cor- 1]]
 > |  Component |  Origin |  Meaning |
 > |---|---|---|
-> |**[[cor-]]** (prefix)|Latin _[[con-]]_ (_cum_) assimilated before _r_|With, together|
+> |**[[cor- 1]]** (prefix)|Latin _[[con-]]_ (_cum_) assimilated before _r_|With, together|
 > |**cor, cordis**|Latin noun, 3rd declension|Heart|
 > |**cornu**|Latin noun|Horn, horn-shaped structure|
 > |**cornea**|Latin _cornea tunica_ = horny coat|Transparent anterior eye layer|
@@ -32,7 +32,7 @@ _____
 > |**Greek parallel**|_kardia_ (heart); _keras/[[kerato-]]_ (horn/cornea)|Direct Greek equivalents|
 >
 _____
-> [!success]+ RELATED TERMS to [[cor-]]
+> [!success]+ RELATED TERMS to [[cor- 1]]
 > 
 > ### 👁️ Ophthalmology — _cornea_ _(your specialty — highest density)_
 > 
@@ -199,11 +199,11 @@ _____
 > 
 > ---
 > 
-> > **Coder's Note:** _[[Cor-]]_ is the **dominant prefix in ophthalmology coding** via _cornea_ — the H16.x (**corneal ulcers**) and H18.x (other corneal disorders) families are among the most granular in ICD-10-CM, demanding precision on **laterality, ulcer type** (**central, ring, marginal, Mooren's, hypopyon**), and **etiology**. For **corneal transplant complications** (T86.84xx), always specify laterality AND complication type (**rejection vs. failure vs. infection vs. other**) — these are all distinct billable codes with different clinical implications. For **cortical cataracts**, the H25.01x vs. H26.01x distinction (**age-related vs. infantile/juvenile**) is important. In ENT, **vocal cord paralysis** laterality ([[J38.01]] unilateral vs. [[J38.02]] bilateral) affects both coding and clinical management decisions significantly. Finally, note that **cor pulmonale** ([[I27.81]]) is a common comorbidity in patients with chronic pulmonary disease and should be captured as an additional diagnosis when documented.
+> > **Coder's Note:** _[[cor- 1]]_ is the **dominant prefix in ophthalmology coding** via _cornea_ — the H16.x (**corneal ulcers**) and H18.x (other corneal disorders) families are among the most granular in ICD-10-CM, demanding precision on **laterality, ulcer type** (**central, ring, marginal, Mooren's, hypopyon**), and **etiology**. For **corneal transplant complications** (T86.84xx), always specify laterality AND complication type (**rejection vs. failure vs. infection vs. other**) — these are all distinct billable codes with different clinical implications. For **cortical cataracts**, the H25.01x vs. H26.01x distinction (**age-related vs. infantile/juvenile**) is important. In ENT, **vocal cord paralysis** laterality ([[J38.01]] unilateral vs. [[J38.02]] bilateral) affects both coding and clinical management decisions significantly. Finally, note that **cor pulmonale** ([[I27.81]]) is a common comorbidity in patients with chronic pulmonary disease and should be captured as an additional diagnosis when documented.
 >
 > 
 _____
->[!tip]- DERIVATIONS of [[cor-]]
+>[!tip]- DERIVATIONS of [[cor- 1]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name

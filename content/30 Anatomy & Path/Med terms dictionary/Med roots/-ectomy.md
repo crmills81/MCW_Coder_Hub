@@ -1,7 +1,9 @@
 ---
 tags:
   - medroot
-aliases: []
+  - surgery
+aliases:
+  - -ectomia
 roots:
   - -ectomy
 forms:

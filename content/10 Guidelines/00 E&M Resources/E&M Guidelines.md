@@ -26,7 +26,7 @@ creation_date: 2026-01-22
 * **[[99205]]:** High MDM (60-74 min).
 
 ### 2. Established Patients (2 out of 3 components NOT required anymore)
-* ~~**99211:** "Nurse Visit" (No MDM required).~~
+* **99211:** "Nurse Visit" (No MDM required).
 * **[[99212]]:** Straightforward MDM (10-19 min).
 * **[[99213]]:** Low MDM (20-29 min).
 * **[[99214]]:** Moderate MDM (30-39 min).

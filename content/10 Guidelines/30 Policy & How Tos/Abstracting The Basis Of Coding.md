@@ -1,8 +1,3 @@
-## Page 1
-
-
-
-# Abstracting The Basis Of Coding
 
 ## Table of Contents
 
@@ -248,10 +243,10 @@ In inpatient admissions any diagnosis documented at the time of discharge is qua
 
 If the documentation is not supporting the diagnoses, you may need to query the provider to clarify a diagnosis or to add supporting documentation through a provider added addendum to the record to support the diagnosis intended and codes chosen in case the provider is ever audited as diagnosis codes establish the medical necessity for services and reimbursement.
 
-Sources used to help compile this information: HCA, CMS, LWW
+*Sources used to help compile this information: HCA, CMS, LWW*
 
-Certification Coaching Organization LLC
-https://www.cco.us/
+*Certification Coaching Organization LLC*
+*https://www.cco.us/*
 
-CCO Proprietary Information
-Sharing is Permitted
+*CCO Proprietary Information*
+*Sharing is Permitted*

@@ -19,7 +19,7 @@ creation_date: 2026-01-22
 
 **1. Laparoscopic / Robotic (Most Common):**
 * **[[50543]] (Partial):** Removing just the tumor, saving the kidney. *High RVU.*
-* **[[50545]] (Radical):** Total removal (including adrenal).
+* **[[50 Medical Coding/CPT Codes/50545]] (Radical):** Total removal (including adrenal).
 * **[[50546]] (Simple):** Total removal (for benign disease, e.g., non-functioning kidney).
 * **[[50548]] (Nephroureterectomy):** Kidney + [[ureter-|ureter]] (usually for TCC/Urothelial cancer).
 

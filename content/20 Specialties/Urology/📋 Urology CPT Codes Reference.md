@@ -67,12 +67,12 @@ This reference index covers the major **CPT code families in Urology** — organ
 | ------------- | ------------------------------------------------------------------------------------------- | ------- | ---------- |
 | [[50220]]     | Nephrectomy, open, simple                                                                   | 090     | ~16.0      |
 | [[50225]]     | Nephrectomy, open, complicated (prior surgery)                                              | 090     | ~19.0      |
-| **[[50230]]** | **Radical nephrectomy, open, with regional lymphadenectomy and/or vena caval thrombectomy** | **090** | **~23.81** |
+| **[[50 Medical Coding/CPT Codes/50230]]** | **Radical nephrectomy, open, with regional lymphadenectomy and/or vena caval thrombectomy** | **090** | **~23.81** |
 | [[50234]]     | Radical nephrectomy with total ureterectomy, transperitoneal, with LND                      | 090     | ~24.0      |
 | [[50236]]     | Radical nephrectomy with total ureterectomy                                                 | 090     | ~22.0      |
 | [[50240]]     | Partial nephrectomy, open                                                                   | 090     | ~20.0      |
 | [[50543]]     | Laparoscopic partial nephrectomy                                                            | 090     | ~20.0      |
-| [[50545]]     | Laparoscopic radical nephrectomy                                                            | 090     | ~20.0      |
+| [[50 Medical Coding/CPT Codes/50545]]     | Laparoscopic radical nephrectomy                                                            | 090     | ~20.0      |
 | [[50546]]     | Laparoscopic radical nephrectomy with regional lymphadenectomy                              | 090     | ~22.0      |
 | [[50548]]     | Laparoscopic nephrectomy with total ureterectomy                                            | 090     | ~22.0      |
 
@@ -106,7 +106,7 @@ This reference index covers the major **CPT code families in Urology** — organ
 | [[50542]] | Laparoscopic ablation of renal mass lesion            |
 | [[50543]] | Laparoscopic partial nephrectomy                      |
 | [[50544]] | Laparoscopic pyeloplasty                              |
-| [[50545]] | Laparoscopic radical nephrectomy                      |
+| [[50 Medical Coding/CPT Codes/50545]] | Laparoscopic radical nephrectomy                      |
 | [[50546]] | Laparoscopic radical nephrectomy with lymphadenectomy |
 | [[50547]] | Laparoscopic donor nephrectomy, living donor          |
 | [[50548]] | Laparoscopic nephrectomy with total ureterectomy      |
@@ -124,9 +124,6 @@ This reference index covers the major **CPT code families in Urology** — organ
 | [[50386]] | **Removal of internalized ureteral stent via transurethral approach, without imaging** | Office-based                 |
 | [[50390]] | **Aspiration and/or injection of renal cyst or pelvis**                                | Percutaneous                 |
 | [[50391]] | **Instillation of therapeutic agent into renal pelvis**                                | Via nephrostomy tube         |
-| [[50392]] | **Introduction of intracatheter or catheter into renal pelvis**                        | Antegrade catheter placement |
-| [[50393]] | **Introduction of ureteral catheter/stent, antegrade**                                 | Via nephrostomy              |
-| [[50394]] | **Injection procedure for pyelography through nephrostomy**                            | Contrast study               |
 | [[50395]] | **Introduction of guide into renal pelvis for dilation**                               | Renal tract dilation         |
 | [[50396]] | **Manometric studies through nephrostomy**                                             | Pressure studies             |
 | [[50398]] | **Change of nephrostomy or pyelostomy tube**                                           | Tube exchange                |
@@ -333,13 +330,13 @@ This reference index covers the major **CPT code families in Urology** — organ
 | [[55815]] | **Prostatectomy, perineal radical with bilateral pelvic lymphadenectomy**                                          | Full radical perineal                       |
 | [[55821]] | **Prostatectomy, suprapubic, subtotal**                                                                            | Open suprapubic                             |
 | [[55831]] | **Prostatectomy, retropubic, subtotal**                                                                            | Open retropubic subtotal                    |
-| [[55840]] | **Prostatectomy, retropubic radical**                                                                              | Open radical retropubic prostatectomy (RRP) |
+| [[50 Medical Coding/CPT Codes/55840]] | **Prostatectomy, retropubic radical**                                                                              | Open radical retropubic prostatectomy (RRP) |
 | [[55842]] | **Prostatectomy, retropubic radical with limited pelvic lymphadenectomy**                                          | RRP + limited LND                           |
 | [[55845]] | **Prostatectomy, retropubic radical with bilateral pelvic lymphadenectomy**                                        | Full radical RRP                            |
 | [[55860]] | **Exposure of prostate, any approach, for insertion of radioactive substance**                                     | Brachytherapy exposure                      |
 | [[55862]] | **Same, with lymph node biopsy**                                                                                   | With node sampling                          |
 | [[55865]] | **Same, with bilateral pelvic lymphadenectomy**                                                                    | With LND                                    |
-| [[55866]] | **Laparoscopic or robotic-assisted laparoscopic prostatectomy, retropubic radical, with or without nerve sparing** | RARP/LRP — robotic prostatectomy            |
+| [[50 Medical Coding/CPT Codes/55866]] | **Laparoscopic or robotic-assisted laparoscopic prostatectomy, retropubic radical, with or without nerve sparing** | RARP/LRP — robotic prostatectomy            |
 
 ---
 
@@ -425,12 +422,12 @@ This reference index covers the major **CPT code families in Urology** — organ
 
 | CPT       | Procedure                                              | **Assistant Payable**   |
 | --------- | ------------------------------------------------------ | ------------------- |
-| [[50230]] | Open radical nephrectomy with LND/thrombectomy         | **Yes**                 |
+| [[50 Medical Coding/CPT Codes/50230]] | Open radical nephrectomy with LND/thrombectomy         | **Yes**                 |
 | [[50240]] | Partial nephrectomy, open                              | **Yes — complex cases** |
 | [[51575]] | Cystectomy with bilateral pelvic LND                   | **Yes**                 |
 | [[51595]] | Radical cystectomy with ureteroenteric diversion + LND | **Yes**                 |
 | [[55845]] | Radical prostatectomy retropubic with bilateral LND    | **Yes**                 |
-| [[55866]] | Robotic/laparoscopic radical prostatectomy             | **Yes**                 |
+| [[50 Medical Coding/CPT Codes/55866]] | Robotic/laparoscopic radical prostatectomy             | **Yes**                 |
 | [[50546]] | Laparoscopic radical nephrectomy with LND              | **Yes**                 |
 
 Always verify the specific CPT MPFS assistant-at-surgery indicator — status may change with annual MPFS updates.
@@ -441,12 +438,12 @@ Always verify the specific CPT MPFS assistant-at-surgery indicator — status ma
 
 | ICD-10-CM   | Description                                  | Common Procedure                           |
 | ----------- | -------------------------------------------- | ------------------------------------------ |
-| [[C64.1]]   | **Malignant neoplasm of right kidney**       | [[50230]], [[50546]], [[50240]]            |
+| [[C64.1]]   | **Malignant neoplasm of right kidney**       | [[50 Medical Coding/CPT Codes/50230]], [[50546]], [[50240]]            |
 | [[C64.2]]   | **Malignant neoplasm of left kidney**        | 50230, 50546, 50240                        |
 | [[C65.1]]   | **Malignant neoplasm of right renal pelvis** | [[50234]], [[50548]]                       |
 | [[C65.2]]   | **Malignant neoplasm of left renal pelvis**  | 50234, 50548                               |
 | C67.x       | **Malignant neoplasm of bladder**            | [[51570]]-[[51597]], [[52240]]             |
-| [[C61]]     | **Malignant neoplasm of prostate**           | [[55840]]-[[55866]]                        |
+| [[C61]]     | **Malignant neoplasm of prostate**           | [[50 Medical Coding/CPT Codes/55840]]-[[50 Medical Coding/CPT Codes/55866]]                        |
 | C62.x       | **Malignant neoplasm of testis**             | [[54530]]                                  |
 | [[N20.0]]   | **Calculus of kidney**                       | [[50080]], [[50081]], [[50590]]            |
 | [[N20.1]]   | **Calculus of ureter**                       | [[52352]], [[52353]], [[52356]]            |
@@ -487,7 +484,7 @@ Always verify the specific CPT MPFS assistant-at-surgery indicator — status ma
 
 ## Suggested Obsidian Linkouts
 
-- [[50230]] - Radical nephrectomy open with lymphadenectomy
+- [[50 Medical Coding/CPT Codes/50230]] - Radical nephrectomy open with lymphadenectomy
 - [[50 Medical Coding/Modifiers/Global Surgical Package MOC]]
 - [[Procedure Status & Complexity Modifiers]]
 - [[-22]] - Modifier 22

@@ -103,8 +103,8 @@ Nephrectomy CPT Family
 | Scope                                                               | Open      | Laparoscopic                            |
 | ------------------------------------------------------------------- | --------- | --------------------------------------- |
 | Entire kidney only (simple, no LND)                                 | [[50220]] | 50545                                   |
-| Entire kidney, prior surgery complicating                           | [[50225]] | Not separately described — use [[50545]][[-22]] |
-| Entire kidney with regional LND                                     | [[50230]] | [[50546]]                               |
+| Entire kidney, prior surgery complicating                           | [[50225]] | Not separately described — use [[50 Medical Coding/CPT Codes/50545]][[-22]] |
+| Entire kidney with regional LND                                     | [[50 Medical Coding/CPT Codes/50230]] | [[50546]]                               |
 | Entire kidney with LND and/or IVC thrombectomy                      | 50230     | 50230 (convert to open)                 |
 | Entire kidney with total ureterectomy + bladder cuff (one incision) | [[50234]]     | [[50548]]                                   |
 | Entire kidney with total ureterectomy (two incisions)               | [[50236]]     | 50548                                   |
@@ -311,7 +311,7 @@ Always code the specific renal malignancy and all documented comorbidities for c
 ## Suggested Obsidian Linkouts
 
 - [[50220]] - Open simple nephrectomy
-- [[50230]] - Open radical nephrectomy with LND and/or IVC thrombectomy
+- [[50 Medical Coding/CPT Codes/50230]] - Open radical nephrectomy with LND and/or IVC thrombectomy
 - [[50546]] - Laparoscopic radical nephrectomy with regional LND
 - [[📋 Urology CPT Codes Reference]]
 - [[50 Medical Coding/Modifiers/Global Surgical Package MOC]]

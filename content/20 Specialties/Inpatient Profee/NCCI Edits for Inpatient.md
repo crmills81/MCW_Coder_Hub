@@ -49,7 +49,7 @@ National Correct Coding Initiative edits prevent inappropriate code combinations
 | :--- | :--- |
 | **Initial + Subsequent same day** | No |
 | **Subsequent + Discharge same day** | No (bill discharge only) |
-| **E/M + Critical Care same day** | Yes ([[modifier 25]]) |
+| **E/M + Critical Care same day** | Yes ([[Modifier 25]]) |
 | **Two physicians same specialty** | No (combine time) |
 
 ## MUE Limits

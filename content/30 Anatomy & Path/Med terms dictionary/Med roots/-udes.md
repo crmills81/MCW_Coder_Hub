@@ -27,7 +27,7 @@ _____
 > 
 > |Term|Meaning|
 > |---|---|
-> |**Incus** → **Incudes**|The anvil; middle of the 3 middle ear ossicles (malleus–**incus**–stapes)|
+> |**Incus** → **Incudes**|The anvil; middle of the 3 middle ear ossicles (malleus-**incus**-stapes)|
 > |**Ossicular chain**|Malleus, incudes (incus), stapes — sound conduction apparatus|
 > |**Incudostapedial joint**|Articulation between the incus and stapes|
 > |**[[Incudomalleolar]] joint**|Articulation between incus and malleus|
