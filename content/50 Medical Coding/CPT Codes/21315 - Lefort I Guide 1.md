@@ -14,26 +14,25 @@ aliases:
   - "21315"
   - Closed Nasal Fracture without Stabilization
   - Nasal Fracture Closed No Stab
+status: Active ✅
 code_type: CPT
 code_number: "21315"
 category: Fracture and/or Dislocation Procedures on the Nose
 subsection: Musculoskeletal System Head
 specialty:
-  - Otolaryngology ENT
+  - Otolaryngology
   - Plastic Surgery
   - Emergency Medicine
   - Facial Plastic Surgery
 global_period: "090"
 bilateral: "0"
-assistant_payable: false
 assistant_modifier: ""
 multiple_procedure_reduction: "2"
 wRVU: 2.58
 conversion_factor_2025: 32.3465
 fracture_treatment_type: Closed
-stabilization: false
 created: 2026-02-27
-updated: 2026-02-27
+updated: 2026-03-21
 ---
 
 
