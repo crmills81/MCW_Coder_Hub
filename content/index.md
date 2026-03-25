@@ -1,15 +1,15 @@
 ---
 title: 🌟 Yay, MEDICAL CODING!!! 🌟
-description: Welcome to my work in progress! Lol
+last_updated: 2026-03-24
 ---
-# 💥 Coding Dashboard
+# 🏥⚕️ Coding Dashboard
 >
 ## 🎯 Purpose
-Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare with me if you're someone other than me visiting. I'll eventually get to fixing the broken links. Anyone who's a coder already knows this might take a long time lolol... 🤓
+Medical coding hub for [[Ophthalmology]], [[Urology]] & [[Otolaryngology]] for MCW. Bare with me if you're someone other than me visiting. I'll eventually get to fixing the broken links. Anyone who's a coder already knows this may take a long time lolol... 🤓👍
 
 ---
 
-# 📔 Medical Coding References
+# 🫀 Medical Coding References
 >
 ## High‑Yield References
 
@@ -27,10 +27,11 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 - [[Audit Checklists]]
 - [[Query Templates]]
 - [[Coding Rule Reference Index]]
+- [[MDM Chart]]
 
 ---
 
-# 🧪 Practice & Scenarios
+# ⚕️ Practice & Scenarios
 >
 ## Coding Practice
 - [[10 Coding Scenarios]]
@@ -42,6 +43,8 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 
 ## Audit Practice
 - [[Handling Coding-Related Insurance Denials]]
+- [[CPT_99214_Template]]
+- [[CPT_99254-Template]]
 - [[CPT_99231_Template]]
 
 ---
@@ -69,4 +72,4 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 
 <br>
 
-<font color="#7f7f7f"> 🆒 Always verify codes and guidelines with current code books, encoder tools, and payer policies before use. 🆒 </font>
+<font color="#7f7f7f"> 🆒 Some ICD-10 CM codes may be the root code without the "suffix" end characters. **Always** verify codes and guidelines with current code books, encoder tools, and payer policies before use. 🆒 </font>
