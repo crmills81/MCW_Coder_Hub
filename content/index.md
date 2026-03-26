@@ -2,7 +2,7 @@
 title: 🌟 Yay, MEDICAL CODING!!! 🌟
 last_updated: 2026-03-24
 ---
-# 🏥⚕️ Coding Dashboard
+# 🧬 Coding Dashboard
 >
 ## 🎯 Purpose
 Medical coding hub for [[Ophthalmology]], [[Urology]] & [[Otolaryngology]] for MCW. Bare with me if you're someone other than me visiting. I'll eventually get to fixing the broken links. Anyone who's a coder already knows this may take a long time lolol... 🤓👍
