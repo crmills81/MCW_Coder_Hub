@@ -85,7 +85,7 @@ Here are some of the most commonly used ophthalmic **surgery** CPT codes, with p
     
     - Meaning: Mechanical/chemical removal of [[corneal epithelium]] (e.g., for recurrent erosion). [[eohhs.ri](https://eohhs.ri.gov/providers-partners/provider-manuals-guidelines/medicaid-provider-manual/vision-services/surgical)]​
         
-    - Example: [[Debridement]] for [[recurrent corneal erosion]].
+    - Example: [[debridement]] for [[recurrent corneal erosion]].
         
 - **[[65430]] - Scraping of cornea for smear/culture**
     

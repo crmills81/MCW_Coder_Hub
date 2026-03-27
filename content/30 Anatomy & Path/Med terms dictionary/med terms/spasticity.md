@@ -2,8 +2,15 @@
 tags:
   - medterm
 aliases:
+  - rigidity
+  - spokiness
+  - hyperreflexia
+  - spasm
 roots:
   - spasticity
+  - spast-
+  - -ic
+  - -ity
 forms:
   - prefix
   - suffix
