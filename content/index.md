@@ -14,7 +14,6 @@ Medical coding hub for [[Ophthalmology]], [[Urology]] & [[Otolaryngology]] for M
 ## High‑Yield References
 
 - [[MDM Tables]]
-- [[60 CIC Stuff/PCS Root Operation Grid|PCS Root Operation Grid]]
 - [[Facility E&M Quick Guide]]
 - [[Status Indicators Quick Reference]]
 - [[UB‑04 Field Reference]]
@@ -24,8 +23,8 @@ Medical coding hub for [[Ophthalmology]], [[Urology]] & [[Otolaryngology]] for M
 - [[50 Medical Coding/ICD-10 Codes]]
 
 ## Coding Rules & Guides
-- [[Audit Checklists]]
-- [[Query Templates]]
+- [[[Inpatient E&M Codes]]]
+- [[Proper Use of Modifiers 59, XE, XP, XS & XU]]
 - [[Coding Rule Reference Index]]
 - [[MDM Chart]]
 
@@ -53,8 +52,8 @@ Medical coding hub for [[Ophthalmology]], [[Urology]] & [[Otolaryngology]] for M
 >
 ## CIC Study Tools
 - [[CIC Study Plan]]
-- [[CIC Study Notes]]
-- [[CIC Quick Reference]]
+- [[Root Operations]]
+- [[Comprehensive Study Guide and Briefing for the AAPC CIC Certification Exam]]
 - [[Mastering Inpatient Coding for CIC]]
 
 ## High‑Yield Topics
