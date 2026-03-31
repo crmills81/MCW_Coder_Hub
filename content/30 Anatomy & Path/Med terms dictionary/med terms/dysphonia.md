@@ -27,7 +27,7 @@ definition:
 >- **Hoarseness:** Synonym for dysphonia; rough vocal quality.​
 >- **[[Aphonia]]:** Complete voice loss (**more severe than dysphonia**).​
 >- **Laryngitis:** Laryngeal inflammation causing dysphonia.​
->- **[[Dysarthria]]:** Motor speech disorder (**articulation**) vs. vocal quality.
+>- **[[dysarthria]]:** Motor speech disorder (**articulation**) vs. vocal quality.
 >- **[[Vocal cord dysfunction ]](VCD):** Paradoxical vocal cord motion.​
 >- **[[Stroboscopy]]:** Gold standard for visualizing vocal cord vibration.
 >

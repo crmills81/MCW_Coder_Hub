@@ -81,7 +81,7 @@ ___
 
 ## Related Terms
 
-- **[[Dysarthria]]:** Motor speech (**slurring**) vs. [[linguistic aphasia]].  
+- **[[dysarthria]]:** Motor speech (**slurring**) vs. [[linguistic aphasia]].  
 - **Apraxia of speech:** Motor planning deficit (often w/Broca's).  
 - **[[Alexia]]:** Reading deficit; **[[agraphia]]:** writing.  
 - **[[Anomia]]:** Naming deficit (**all types**).  

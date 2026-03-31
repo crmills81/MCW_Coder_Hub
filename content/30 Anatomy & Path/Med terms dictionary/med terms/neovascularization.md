@@ -69,7 +69,7 @@ _____
 >    
 >- **Arteriovenous Malformation (AVM):** A congenital, abnormal tangle of connecting arteries and veins without an intervening capillary bed. Unlike **neovascularization**, this is an anatomical defect present from birth, not a new growth responding to [[ischemia]].
 >    
->- **[[Atherosclerosis]]:** The buildup of fats, cholesterol, and other substances in and on the artery walls. This process causes the ischemia (lack of oxygen) that ultimately _triggers_ **neovascularization** as the body attempts to bypass the blocked pathways.
+>- **[[atherosclerosis]]:** The buildup of fats, cholesterol, and other substances in and on the artery walls. This process causes the ischemia (lack of oxygen) that ultimately _triggers_ **neovascularization** as the body attempts to bypass the blocked pathways.
 >    
 >- **Exudate:** Fluid that leaks out of blood vessels into nearby tissues. In conditions like wet AMD, **neovascularization** directly causes the exudates due to the fragility and high permeability of the newly formed vessels.
 >

@@ -52,7 +52,7 @@ _____
 > | **[[Sclerosis]]** | General/Neuro/Cardio | Hardening or stiffening of tissue   |
 > | **[[Multiple sclerosis (MS)]]** | Neurology | Demyelinating disease causing sclerotic plaques  |
 > | **[[Scleroderma]]** | Rheumatology | Autoimmune hardening and thickening of skin  |
-> | **[[Atherosclerosis]]** | Cardiology | Hardening/plaquing of arterial walls   |
+> | **[[atherosclerosis]]** | Cardiology | Hardening/plaquing of arterial walls   |
 > | **[[Arteriosclerosis]]** | Cardiology | Generalized arterial wall hardening   |
 > | **[[Sclerotherapy]]** | Vascular/Dermatology | Injection treatment that hardens/closes varicose veins  |
 > | **[[Osteosclerosis]]** | Orthopedics | Abnormal hardening of bone   |

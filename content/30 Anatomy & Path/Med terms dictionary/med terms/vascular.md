@@ -1,7 +1,6 @@
 ---
 tags:
   - medterm
-  - medroot
 aliases:
   - vasculopathy
   - vasculatory
@@ -96,7 +95,7 @@ _____
 > 
 > |Code|Description|
 > |---|---|
-> |**[[I70.1]]**|[[Atherosclerosis]] of renal artery|
+> |**[[I70.1]]**|[[atherosclerosis]] of renal artery|
 > |**[[I15.0]]**|[[Renovascular]] hypertension|
 > |**[[N28.0]]**|[[Ischemia]] and [[infarction]] of kidney|
 > |**[[D09.19]]**|[[Carcinoma]] in situ of other urinary organs _(with vascular invasion — staging)_|

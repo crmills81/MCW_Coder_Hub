@@ -6,6 +6,7 @@ aliases:
   - spokiness
   - hyperreflexia
   - spasm
+  - spastic
 roots:
   - spasticity
   - spast-

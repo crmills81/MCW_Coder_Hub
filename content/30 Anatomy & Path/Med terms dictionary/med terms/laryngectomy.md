@@ -41,7 +41,7 @@ _____
 > | **Total Laryngectomy** | Complete removal of the larynx  |
 > | **Partial Laryngectomy** | Removal of part of the larynx   |
 > | **[[Hemilaryngectomy]]** | Removal of one half of the larynx   |
-> | **Radical Neck [[Dissection]]** | Removal of lymph nodes and surrounding tissue, often done with laryngectomy   |
+> | **Radical Neck [[dissection]]** | Removal of lymph nodes and surrounding tissue, often done with laryngectomy   |
 > | **[[Tracheostoma]]** | Permanent opening in the neck for breathing after laryngectomy   |
 > | **[[Laryngectomee]]** | A person who has had a laryngectomy  |
 > | **[[-ectomy]]** | Suffix meaning "surgical removal"   |

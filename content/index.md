@@ -23,7 +23,7 @@ Medical coding hub for [[Ophthalmology]], [[Urology]] & [[Otolaryngology]] for M
 - [[50 Medical Coding/ICD-10 Codes]]
 
 ## Coding Rules & Guides
-- [[[Inpatient E&M Codes]]]
+- [[Inpatient E&M Codes]]
 - [[Proper Use of Modifiers 59, XE, XP, XS & XU]]
 - [[Coding Rule Reference Index]]
 - [[MDM Chart]]

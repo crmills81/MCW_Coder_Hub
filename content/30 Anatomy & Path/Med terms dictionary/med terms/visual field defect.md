@@ -31,7 +31,7 @@ _____
 
 > [!attention]+ **Related Terms**
 > 
-> - **[[Hemianopia]]**: Loss of half the visual field ([[homonymous]]: same side both eyes; [[bitemporal]]: outer halves; [[binasal]]: inner halves).
+> - **[[hemianopia]]**: Loss of half the visual field ([[homonymous]]: same side both eyes; [[bitemporal]]: outer halves; [[binasal]]: inner halves).
 > - **[[Quadrantanopia]]**: Loss of one quadrant (superior/inferior homonymous).
 > - **[[Scotoma]]**: Isolated blind spot (central, paracentral, or peripheral).
 > - **Altitudinal defect**: Upper/lower half loss (e.g., from [[ischemic]] optic [[neuropathy]]).

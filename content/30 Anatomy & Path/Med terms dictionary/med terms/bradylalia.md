@@ -55,7 +55,7 @@ ____
 >     
 > - **[[Bradyphrenia]]:** Slowness of mental activity; while often appearing alongside bradylalia, it refers to the _thought process_ rather than the _speech output_.
 >     
-> - **[[Dysarthria]]:** A motor speech disorder where muscles used for speech are weak or difficult to control, which may result in slow speech but includes distorted sounds.
+> - **[[dysarthria]]:** A motor speech disorder where muscles used for speech are weak or difficult to control, which may result in slow speech but includes distorted sounds.
 >     
 > - **[[Aphasia]]:** A language disorder affecting production or comprehension (the "what" of speech), whereas bradylalia is the "speed" of speech.
 >     
