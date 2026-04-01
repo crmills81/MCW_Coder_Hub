@@ -1,8 +1,13 @@
 ---
 tags:
-  - medroot
   - medterm
-aliases: []
+  - ophthalmology
+aliases:
+  - Vitrectomy
+  - vitreous body
+  - uvulectomy
+  - retinectomy
+  - phacovitrectomy
 roots:
   - vi-
   - -ectomy
@@ -11,16 +16,17 @@ roots:
   - -tomy
 forms:
   - noun
+  - combining
 "alphabet:": V
 definition:
   - Removal of eye gel
 ---
 >[!Note] DEFINITION of [[vitrectomy]]
->Surgical removal of the [[vitreous]] humor (gel) from the eye, often to treat retinal detachments or bleeds. [[vitrectomy]] is an eye surgery that **removes the vitreous fluid from your eyeball** to treat problems with the retina and [[vitreous]], such as cloudy fluid, debris, retinal detachment, or [[macular]] holes. During the procedure, the vitreous is replaced with a clear fluid, gas bubble, saline solution, or silicone oil.
+>**Surgical removal** of the **[[vitreous]] humor** (**gel**) from the eye, often to treat retinal detachments or bleeds. **[[Vitrectomy]]** is an eye surgery that **removes the vitreous fluid from your eyeball** to treat problems with the retina and [[vitreous]], such as cloudy fluid, debris, **[[retinal detachment]]**, or [[macular]] holes. During the procedure, the **vitreous** is replaced with a clear **fluid, gas bubble, saline solution, or silicone oil**.
 _____
 >[!info]+ ETYMOLOGY of [[vitrectomy]]
->The word "[[vitrectomy]]" is formed in English by combining "[[vitreous]]" and the suffix "[[-ectomy]]." "[[Vitreous]]" is derived from the #latin word for "glass," while "[[-ectomy]]" comes from the Greek "ektomē," meaning **"act of cutting out" or surgical removal**. The term was first recorded between 1965 and 1970.
->The term "[[vitrectomy]]" combines "[[vitreous]]" and "[[-ectomy]]," first recorded in the 1960s.
+>(vɪˈtrɛktəmɪ) The word "**[[vitrectomy]]**" is formed in English by combining "**[[vitreous]]**" and the suffix "**[[-ectomy]]**." "**[[Vitreous]]**" is derived from the #latin word for "**glass**," while "**[[-ectomy]]**" comes from the Greek "**ektomē**," meaning **"act of cutting out" or surgical removal**. The term was first recorded between **1965** and **1970**.
+>The term "**[[vitrectomy]]**" combines "**[[vitreous]]**" and "**[[-ectomy]]**," first recorded in the **1960s**.
 _____
 >[!example]+ RELATED TERMS to [[vitrectomy]]
 >[[Intravitreal]]
