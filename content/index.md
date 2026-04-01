@@ -25,7 +25,7 @@ Medical coding hub for [[Ophthalmology]], [[Urology]] & [[Otolaryngology]] for M
 ## Coding Rules & Guides
 - [[Inpatient E&M Codes]]
 - [[Proper Use of Modifiers 59, XE, XP, XS & XU]]
-- [[Coding Rule Reference Index]]
+- [[Pharmacology, Principles, Administration, and Systemic Drug Actions]]
 - [[MDM Chart]]
 
 ---
@@ -48,7 +48,7 @@ Medical coding hub for [[Ophthalmology]], [[Urology]] & [[Otolaryngology]] for M
 
 ---
 
-# 🩺 CIC Exam Prep
+# 😬 CIC Exam Prep
 >
 ## CIC Study Tools
 - [[CIC Study Plan]]
