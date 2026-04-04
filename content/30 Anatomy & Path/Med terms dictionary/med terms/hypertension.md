@@ -21,7 +21,7 @@ definition:
   - Persistently elevated arterial blood pressure
 ---
 >[!Note] DEFINITION of [[hypertension]]
-> **Hypertension** is a **chronic cardiovascular condition in which the force exerted by circulating blood against the vessel walls remains consistently above normal thresholds**. It is classified as **primary (essential)** — accounting for roughly **90–95%** of all cases with no identifiable underlying cause — or **secondary**, where a distinct cause such as renal artery [[stenosis]], primary **aldosteronism**, or medication side effects can be identified. Often called the "**silent killer**," hypertension rarely causes symptoms until it has already damaged target organs including the **heart, kidneys, brain, and retina**. The term entered medical use in 1863–1896, and true clinical measurement became possible only after Scipione Riva-Rocci invented the cuff-based sphygmomanometer in 1896. The concept of _essential hypertension_ was formally coined by **Eberhard Frank** in 1911 to describe elevated BP with no identifiable etiology.
+> **Hypertension** is a **chronic cardiovascular condition in which the force exerted by circulating blood against the vessel walls remains consistently above normal thresholds**. It is classified as **primary (essential)** — accounting for roughly **90-95%** of all cases with no identifiable underlying cause — or **secondary**, where a distinct cause such as renal artery [[stenosis]], primary **aldosteronism**, or medication side effects can be identified. Often called the "**silent killer**," hypertension rarely causes symptoms until it has already damaged target organs including the **heart, kidneys, brain, and retina**. The term entered medical use in 1863-1896, and true clinical measurement became possible only after Scipione Riva-Rocci invented the cuff-based sphygmomanometer in 1896. The concept of _essential hypertension_ was formally coined by **Eberhard Frank** in 1911 to describe elevated BP with no identifiable etiology.
 _____
 >[!info]+ ETYMOLOGY of [[hypertension]]
 >#greek
@@ -67,16 +67,16 @@ _____
 > 
 > ## ICD-10-CM Codes
 > 
-> Hypertension codes fall under **Chapter 9: Diseases of the Circulatory System**, category range **I10–I1A**. Note the ICD-10-CM coding guideline: when a causal relationship between hypertension and heart disease **or** CKD is documented, use the combination codes from I11–I13 rather than coding them separately.aapc+1
+> Hypertension codes fall under **Chapter 9: Diseases of the Circulatory System**, category range **I10-I1A**. Note the ICD-10-CM coding guideline: when a causal relationship between hypertension and heart disease **or** CKD is documented, use the combination codes from I11-I13 rather than coding them separately.aapc+1
 > 
 > | ICD-10-CM Code | Description                                                   |
 > | -------------- | ------------------------------------------------------------- |
 > | **[[I10]]**    | Essential (primary) hypertension                              |
 > | **[[I11.0]]**  | Hypertensive heart disease **with** heart failure             |
 > | **[[I11.9]]**  | Hypertensive heart disease **without** heart failure          |
-> | **[[I12.9]]**  | Hypertensive chronic kidney disease, stage 1–4 or unspecified |
+> | **[[I12.9]]**  | Hypertensive chronic kidney disease, stage 1-4 or unspecified |
 > | **[[I12.10]]** | Hypertensive CKD with stage 5 CKD or ESRD, without HD         |
-> | **[[I13.0]]**  | Hypertensive heart & CKD **with** HF and stage 1–4 CKD        |
+> | **[[I13.0]]**  | Hypertensive heart & CKD **with** HF and stage 1-4 CKD        |
 > | **[[I13.2]]**  | Hypertensive heart & CKD **with** HF and stage 5 CKD/ESRD     |
 > | **[[I15.0]]**  | Renovascular hypertension                                     |
 > | **[[I15.1]]**  | HTN secondary to other renal disorders                        |
@@ -95,7 +95,7 @@ _____
 > 
 > | Code              | Description                                                                                                                                                                                                      |
 > | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | **[[99212]]–[[99215]]**   | E/M established patient visit for HTN management                                                                                                  |
+> | **[[99212]]-[[99215]]**   | E/M established patient visit for HTN management                                                                                                  |
 > | **[[99473]]**         | Self-measured BP using validated device; patient education/training                                                                                                                                              |
 > | **[[99474]]**         | Self-measured BP; 30-day data collection (min. 12 readings), report of averages, treatment plan                                                  |
 > | **[[93784]]**         | Ambulatory blood pressure monitoring (ABPM), 24-hour, with interpretation                                                                                                                                        |

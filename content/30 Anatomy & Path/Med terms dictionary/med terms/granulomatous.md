@@ -34,7 +34,7 @@ definition:
 >
 ><u>Common Granulomatous Diseases:</u> 
 >-**Infectious**: Tuberculosis, leprosy, [[histoplasmosis]], [[coccidioidomycosis]], syphilis. 
->-**Autoimmune/Inflammatory**: [[Sarcoidosis]], Crohn's disease, granulomatosis with polyangiitis (GPA). 
+>-**Autoimmune/Inflammatory**: [[sarcoidosis]], Crohn's disease, granulomatosis with polyangiitis (GPA). 
 >-**Occupational**: Berylliosis, silicosis, asbestosis. 
 >-**Drug-Induced**: Certain medications can trigger granulomatous reactions. 
 >-**Clinical Significance**: The presence of granulomatous inflammation helps narrow differential diagnoses but is not pathognomonic for any single disease. Further testing (**cultures, stains, serology, clinical correlation**) is required to determine the underlying etiology.
@@ -55,7 +55,7 @@ ______
 > - **Macrophage/Histiocyte:** The primary cell type forming granulomas.
 > - **Giant Cell:** Multinucleated cells formed by fusion of macrophages (Langhans, foreign body, Touton types).
 > - **Caseous Necrosis:** Cheese-like tissue death characteristic of tuberculous granulomas.
-> - **[[Sarcoidosis]]:** Systemic disease characterized by non-caseating granulomas.
+> - **[[sarcoidosis]]:** Systemic disease characterized by non-caseating granulomas.
 > - **Crohn's Disease:** Inflammatory bowel disease with granulomatous inflammation.
 > - **Granulomatosis with Polyangiitis (GPA):** Formerly Wegener's; [[vasculitis]] with granulomas.
 > - **Chronic Granulomatous Disease (CGD):** Genetic immunodeficiency where phagocytes cannot kill certain bacteria/fungi.

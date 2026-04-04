@@ -69,7 +69,7 @@ _____
 > 
 > ### Related Terms & Differentials
 > 
-> - **[[Blepharoptosis]]:** The drooping ([[prolapse]]) of the upper eyelid, usually due to nerve or muscle dysfunction; unlike blepharitis, it is not primarily inflammatory.
+> - **[[blepharoptosis]]:** The drooping ([[prolapse]]) of the upper eyelid, usually due to nerve or muscle dysfunction; unlike blepharitis, it is not primarily inflammatory.
 >     
 > - **[[Hordeolum]]:** An acute focal infection ([[stye]]) of an eyelid gland; while blepharitis is a generalized inflammation of the margin.
 >     

@@ -56,7 +56,7 @@ _____
 >
 > - **Anti-nuclear antibody (ANA)** — primary screening lab for SLE; positive in >95% of SLE patients
 > - **Anti-dsDNA antibody** — highly specific for SLE; correlates with disease activity and lupus nephritis
-> - **Anti-Smith (anti-Sm) antibody** — highly specific for SLE; present in ~25–30% of patients
+> - **Anti-Smith (anti-Sm) antibody** — highly specific for SLE; present in ~25-30% of patients
 > - **Complement C3/C4** — consumed during SLE flares; low levels indicate active disease
 > - **[[Lupus nephritis]]** — renal inflammation from immune complex deposition; most serious organ manifestation
 > - **Malar rash** — butterfly-shaped facial erythema across nose and cheeks; hallmark SLE presentation
@@ -108,7 +108,7 @@ _____
 >
 > |Code|Description|
 > |---|---|
-> |[[M32.0]]|Drug-induced SLE *(sequence the adverse effect code T36–T50 with 5th/6th character "5" for adverse effect first)*|
+> |[[M32.0]]|Drug-induced SLE *(sequence the adverse effect code T36-T50 with 5th/6th character "5" for adverse effect first)*|
 >
 > #### **Related / Associated Conditions**
 >
@@ -157,7 +157,7 @@ _____
 >
 > ---
 >
-> > ⚠️ **Coding Note:** **M32.9 should be your last resort** — if the documentation specifies organ involvement, you must drill down to the appropriate M32.1x subcategory. **M32.14 (lupus nephritis)** is frequently an MCC and should never be missed on an inpatient claim when documented — always cross-reference the nephrology or rheumatology consult notes. **M32.0 (drug-induced SLE)** requires an additional adverse effect code from T36–T50 with the appropriate 6th character "5" (adverse effect) — don't skip it or the claim will be incomplete. **L93.0 (discoid lupus)** is an Excludes1 from M32, meaning these two codes cannot be assigned together — if the patient has BOTH DLE and SLE, only M32 is coded (the SLE code already encompasses the systemic picture). For profee inpatient, the **ANA panel labs (86038, 86039, 86225, 86235)** are high-value line items frequently missed on rheumatology claims — verify they were ordered AND interpreted by the billing provider.
+> > ⚠️ **Coding Note:** **M32.9 should be your last resort** — if the documentation specifies organ involvement, you must drill down to the appropriate M32.1x subcategory. **M32.14 (lupus nephritis)** is frequently an MCC and should never be missed on an inpatient claim when documented — always cross-reference the nephrology or rheumatology consult notes. **M32.0 (drug-induced SLE)** requires an additional adverse effect code from T36-T50 with the appropriate 6th character "5" (adverse effect) — don't skip it or the claim will be incomplete. **L93.0 (discoid lupus)** is an Excludes1 from M32, meaning these two codes cannot be assigned together — if the patient has BOTH DLE and SLE, only M32 is coded (the SLE code already encompasses the systemic picture). For profee inpatient, the **ANA panel labs (86038, 86039, 86225, 86235)** are high-value line items frequently missed on rheumatology claims — verify they were ordered AND interpreted by the billing provider.
 >
 _____
 >[!tip]- DERIVATIONS of [[lupus]]

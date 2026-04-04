@@ -49,8 +49,8 @@ _____
 > - **Broken capillaries** *(lay term for facial telangiectasias)*
 > - **Vascular ectasia** *(broader term covering all vessel dilations)*
 > - **HHT** *(Hereditary Hemorrhagic Telangiectasia — the systemic genetic form)*
-> - **Osler–Weber–Rendu disease / syndrome** *(eponym for HHT)*
-> - **Rendu–Osler–Weber disease** *(alternate eponym order — all three physicians described the syndrome independently)*
+> - **Osler-Weber-Rendu disease / syndrome** *(eponym for HHT)*
+> - **Rendu-Osler-Weber disease** *(alternate eponym order — all three physicians described the syndrome independently)*
 > - **CREST syndrome telangiectasias** *(T in CREST = telangiectasia; part of limited cutaneous systemic sclerosis)*
 > - **Mat telangiectasias** *(flat, blotchy type seen in CREST/scleroderma)*
 > - **Venulectasia** *(dilation involving venules specifically — vessels appear blue rather than red)*
@@ -87,7 +87,7 @@ _____
 >
 > |Code|Description|
 > |---|---|
-> |[[I78.0]]|Hereditary hemorrhagic telangiectasia *(Rendu–Osler–Weber disease)* — **⚠️ Review for CC/MCC potential based on hemorrhagic manifestations**|
+> |[[I78.0]]|Hereditary hemorrhagic telangiectasia *(Rendu-Osler-Weber disease)* — **⚠️ Review for CC/MCC potential based on hemorrhagic manifestations**|
 > |[[I78.1]]|Nevus, non-neoplastic *(spider nevus / spider angioma — if not classified elsewhere)*|
 > |[[I78.8]]|Other diseases of capillaries|
 > |[[I78.9]]|Disease of capillaries, unspecified|
@@ -138,7 +138,7 @@ _____
 > |CPT Code|Description|
 > |---|---|
 > |**[[17106]]**|Destruction of cutaneous vascular proliferative lesions; less than 10 sq cm|
-> |**[[17107]]**|Destruction of cutaneous vascular proliferative lesions; 10–50 sq cm|
+> |**[[17107]]**|Destruction of cutaneous vascular proliferative lesions; 10-50 sq cm|
 > |**[[17108]]**|Destruction of cutaneous vascular proliferative lesions; over 50 sq cm|
 >
 > #### HHT Workup & Hemorrhage Management
@@ -161,7 +161,7 @@ _____
 >
 > ---
 >
-> > ⚠️ **Coding Note:** **36468** is the correct CPT for spider vein / telangiectasia sclerotherapy — **36470/36471 explicitly exclude telangiectasia** and apply to larger incompetent veins only; mixing these up is a frequent and auditable error on vascular claims. For **HHT (I78.0)**, always look for documented organ involvement (pulmonary AVM, cerebral AVM, hepatic AVM, GI hemorrhage) and code those manifestations additionally — HHT on its own is not an MCC, but the hemorrhagic and AVM complications absolutely can be. **Ataxia-telangiectasia (G11.3)** is a completely separate disease from HHT despite the shared term — the underlying mechanism (DNA repair defect vs. vascular dysplasia) and ICD-10 chapter are both different; never conflate the two. **GAVE (K31.811/K31.819)** is a form of gastric vascular ectasia — essentially telangiectasias of the gastric mucosa — and is commonly undercoded on GI bleeding admissions; always query the gastroenterologist if the endoscopy report describes "watermelon stomach" or "gastric antral vascular ectasia." For profee claims, laser destruction codes **17106–17108** are commonly used in dermatology for facial telangiectasias — confirm the sq cm treated is documented in the procedure note, as the code selection is size-dependent.
+> > ⚠️ **Coding Note:** **36468** is the correct CPT for spider vein / telangiectasia sclerotherapy — **36470/36471 explicitly exclude telangiectasia** and apply to larger incompetent veins only; mixing these up is a frequent and auditable error on vascular claims. For **HHT (I78.0)**, always look for documented organ involvement (pulmonary AVM, cerebral AVM, hepatic AVM, GI hemorrhage) and code those manifestations additionally — HHT on its own is not an MCC, but the hemorrhagic and AVM complications absolutely can be. **Ataxia-telangiectasia (G11.3)** is a completely separate disease from HHT despite the shared term — the underlying mechanism (DNA repair defect vs. vascular dysplasia) and ICD-10 chapter are both different; never conflate the two. **GAVE (K31.811/K31.819)** is a form of gastric vascular ectasia — essentially telangiectasias of the gastric mucosa — and is commonly undercoded on GI bleeding admissions; always query the gastroenterologist if the endoscopy report describes "watermelon stomach" or "gastric antral vascular ectasia." For profee claims, laser destruction codes **17106-17108** are commonly used in dermatology for facial telangiectasias — confirm the sq cm treated is documented in the procedure note, as the code selection is size-dependent.
 >
 _____
 >[!tip]- DERIVATIONS of [[telangiectasia]]

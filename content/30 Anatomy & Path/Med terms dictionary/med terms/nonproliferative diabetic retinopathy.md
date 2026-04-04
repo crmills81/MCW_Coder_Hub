@@ -197,7 +197,7 @@ _____
 > > - **[[E11.319]]** (unspecified retinopathy) should only be used when the provider has not documented the stage — it is not preferred and will not satisfy HCC capture requirements.
 > > - **NCCI bundles [[92134]] and [[92250]]** — do not report both on the same date without modifier [[59]] and a documented distinct medical necessity for each (e.g., OCT for DME and fundus photography for a separate choroidal finding).
 > > - **[[67028]]** (intravitreal injection) is bundled with many retinal laser procedures — confirm NCCI edits before billing together.
-> > - Long-term insulin use ([[Z79.4]]) and oral hypoglycemic use ([[Z79.84]]) should be coded **additionally** per ICD-10-CM instructional notes under the E10–E11 categories.
+> > - Long-term insulin use ([[Z79.4]]) and oral hypoglycemic use ([[Z79.84]]) should be coded **additionally** per ICD-10-CM instructional notes under the E10-E11 categories.
 > > - For **inpatient coding (ICD-10-PCS)**: the retinal procedure (intravitreal injection, laser) requires a PCS procedure code from the **Eye (0)** body system, root operation **Introduction** or **Destruction**.
 > > - Severity of NPDR directly affects **HCC mapping and RAF scores** in risk-adjustment models — accurate severity coding (mild/moderate/severe) is essential for value-based care programs.
 

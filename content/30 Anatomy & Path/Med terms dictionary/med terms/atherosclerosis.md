@@ -127,17 +127,17 @@ _____
 >
 >|Component|Origin|Meaning|
 >|---|---|---|
->|**athero-**|Greek _athḗrē_ (ἀθήρη)| Porridge or gruel (referring to the soft, pasty appearance of fatty plaques)|
->|**sclero-**|Greek _sklēros_ (σκληρός)|Hard|
->|**-osis**|Greek _[[-ōsis]]_|Condition, process, or disease state|
+>|**[[athero-]]**|Greek _athḗrē_ (ἀθήρη)| Porridge or gruel (referring to the soft, pasty appearance of fatty plaques)|
+>|**[[sclero-]]**|Greek _sklēros_ (σκληρός)|Hard|
+>|**[[-osis]]**|Greek _[[-ōsis]]_|Condition, process, or disease state|
 >
-> Literally: _"a hardening porridge condition"_ — describing the characteristic hardening of arteries with soft, gruel-like fatty deposits.
+> **Literally**: _"a hardening porridge condition"_ — describing the characteristic hardening of arteries with soft, gruel-like fatty deposits.
 >
 _____
 
 > [!success]+ 🔀 ALIASES / ALTERNATE TERMS
 > 
-> - **Arteriosclerosis** _(broader term; atherosclerosis is the most common type)_
+> - **[[Arteriosclerosis]]** _(broader term; atherosclerosis is the most common type)_
 > - **Hardening of the arteries** _(lay term)_
 > - **Coronary artery disease (CAD)** _(when affecting coronary arteries)_
 > - **Peripheral artery disease (PAD)** _(when affecting peripheral vessels)_
@@ -153,7 +153,7 @@ _____
 > - **Atheroma** — the fatty plaque itself
 > - **[[Arteriosclerosis]]** — general hardening/thickening of arterial walls (atherosclerosis is a subtype)
 > - **[[Stenosis]]** — narrowing of the vessel lumen caused by plaque
-> - **[[Thrombosis]]** — clot formation, often on a ruptured plaque
+> - **[[thrombosis]]** — clot formation, often on a ruptured plaque
 > - **[[embolism]]** — clot or debris breaking off and traveling distally
 > - **[[Ischemia]]** — reduced blood/oxygen supply due to narrowing
 > - **Calcified coronary lesion** — a specific complication tracked in ICD-10
@@ -169,7 +169,7 @@ _____
 > 
 > ### 🏥 ICD-10-CM CODES
 > 
-> > **Atherosclerosis** codes are primarily found in categories **I25** (**Chronic ischemic heart disease**) and **I70** (**Atherosclerosis**). This is a large family — below are the most clinically essential codes.
+> > **[[Atherosclerosis]]** codes are primarily found in categories **I25** (**Chronic ischemic heart disease**) and **I70** (**Atherosclerosis**). This is a large family — below are the most clinically essential codes.
 > 
 > #### **General / Unspecified**
 > 
@@ -255,7 +255,7 @@ _____
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** For inpatient coding, atherosclerosis of the coronary arteries should be coded with the highest level of specificity — always capture whether it involves native vessels vs. bypass grafts, the presence/type of angina, and complicating factors like lipid-rich plaque ([[I25.83]]) or calcified lesion ([[I25.84]]). The I70 category for peripheral atherosclerosis requires laterality, vessel type, and presence of ulceration/gangrene for full specificity.
+> > ⚠️ **Coding Note:** For inpatient coding, [[atherosclerosis]] of the coronary arteries should be coded with the highest level of specificity — always capture whether it involves native vessels vs. bypass grafts, the presence/type of angina, and complicating factors like lipid-rich plaque ([[I25.83]]) or calcified lesion ([[I25.84]]). The I70 category for peripheral atherosclerosis requires laterality, vessel type, and presence of ulceration/[[gangrene]] for full specificity.
 
 _____
 >[!tip]- DERIVATIONS of [[atherosclerosis]]

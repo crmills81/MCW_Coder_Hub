@@ -39,7 +39,7 @@ _____
 > [!attention]+ **RELATED TERMS**
 > 
 > - **[[Blepharoplasty]]:** The surgical procedure to remove excess skin, fat, and muscle from the eyelids; the primary treatment for symptomatic dermatochalasis.
-> - **[[Ptosis]] ([[Blepharoptosis]]):** True drooping of the upper eyelid margin due to levator muscle dysfunction. Often co-exists with dermatochalasis but requires a different surgical repair.
+> - **[[Ptosis]] ([[blepharoptosis]]):** True drooping of the upper eyelid margin due to levator muscle dysfunction. Often co-exists with dermatochalasis but requires a different surgical repair.
 > - **[[Steatoblepharon]]:** Herniation of orbital fat pads, often accompanying [[dermatochalasis]] (the "*bags*" under the eyes).
 > - **Brow Ptosis:** Drooping of the eyebrow, which can exacerbate the appearance of dermatochalasis.
 > - **Visual Field Test (Goldmann or Humphrey):** A diagnostic test required by most insurers to prove that the excess skin is obstructing vision (typically showing >12-30 degrees of superior field loss).

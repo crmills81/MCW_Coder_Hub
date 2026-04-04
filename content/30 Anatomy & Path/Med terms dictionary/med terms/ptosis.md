@@ -38,7 +38,7 @@ ICD-10 Code:
 >- **Explanation:** Used when the eyelid is **drooping** because of a physical weight, such as a large cyst or tumor, pushing the lid down. Requires a 6th digit for laterality: **[[H02.411]]** (**Right**), **[[H02.412]]** (**Left**), **[[H02.413]]** (**Bilateral**).
 >
 >#### Related terms
->- **[[Blepharoptosis]]:** another term for eyelid [[ptosis]] (“**droopy eyelid**”).
+>- **[[blepharoptosis]]:** another term for eyelid [[ptosis]] (“**droopy eyelid**”).
 >	- **[[-ptosis]] (suffix/ending):** used broadly for drooping/prolapse in terms like _[[nephroptosis]]_ (kidney drooping).​
 >	- **BPES:** [[blepharophimosis]], ptosis, epicanthus inversus syndrome (a named syndrome where [[ptosis]] is a key feature).
 _____

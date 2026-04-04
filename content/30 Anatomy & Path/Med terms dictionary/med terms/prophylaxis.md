@@ -31,7 +31,7 @@ _____
 >|**[[phylax-]]**|Greek _φύλαξ_ (phýlax)|"**Guard**," "**watcher**," "**protector**"|
 >|**[[-sis]]**|Greek _-σις_ (-sis)|Noun-forming suffix — "**act of**" or "**process of**"|
 >
-> First used in English in the **1570s** as ***prophylactic*** (adjective), from French ***prophylactique*** and Latinized Greek *prophylaktikos*, meaning **"precautionary."** The noun *prophylaxis* entered use by the **1640s** via New Latin. The root ***phylax*** (**guard**) also lives in **anaphylaxis** — literally "**against protection**" — an ironic overreaction of the very immune guard the word describes. The term entered formal medical vocabulary in **1835–1845** from New Latin.
+> First used in English in the **1570s** as ***prophylactic*** (adjective), from French ***prophylactique*** and Latinized Greek *prophylaktikos*, meaning **"precautionary."** The noun *prophylaxis* entered use by the **1640s** via New Latin. The root ***phylax*** (**guard**) also lives in **anaphylaxis** — literally "**against protection**" — an ironic overreaction of the very immune guard the word describes. The term entered formal medical vocabulary in **1835-1845** from New Latin.
 _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
@@ -115,7 +115,7 @@ _____
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** Z29 codes are appropriate when the **reason for the encounter is prophylactic** — do not assign them as secondary codes when the patient is actively being treated for a diagnosed condition. Z79 codes (long-term drug use) are additive diagnoses when the prophylactic medication is relevant to current care — especially [[Z79.01]] for [[anticoagulation]], which is a high-value additional code on inpatient profee claims. Always query the provider when documentation supports ongoing anticoagulant or antibiotic use but no Z79 is listed. CPT codes [[96365]]–[[96375]] cover **administration only** — the drug itself requires a separate HCPCS **J-code** billed in addition.
+> > ⚠️ **Coding Note:** Z29 codes are appropriate when the **reason for the encounter is prophylactic** — do not assign them as secondary codes when the patient is actively being treated for a diagnosed condition. Z79 codes (long-term drug use) are additive diagnoses when the prophylactic medication is relevant to current care — especially [[Z79.01]] for [[anticoagulation]], which is a high-value additional code on inpatient profee claims. Always query the provider when documentation supports ongoing anticoagulant or antibiotic use but no Z79 is listed. CPT codes [[96365]]-[[96375]] cover **administration only** — the drug itself requires a separate HCPCS **J-code** billed in addition.
 > 
 _____
 >[!tip]- DERIVATIONS of [[prophylaxis]]

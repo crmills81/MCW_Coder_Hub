@@ -69,7 +69,7 @@
 
 - **Neurological:** Stroke, Parkinson's disease, MS, [[muscular dystrophy]], brain injury, [[ALS]].
 - **Structural:** Zenker diverticulum, tumors, cleft palate, dental problems.
-- **Muscular:** [[Myasthenia gravis]], [[dermatomyositis]], scleroderma.
+- **Muscular:** [[myasthenia gravis]], [[dermatomyositis]], scleroderma.
 
 **Esophageal dysphagia causes:**[^1][^2][^5]
 

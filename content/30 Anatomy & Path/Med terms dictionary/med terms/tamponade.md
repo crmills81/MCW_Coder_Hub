@@ -84,7 +84,7 @@ _____
 > |[[67108]]|Repair of [[retinal detachment]] with [[vitrectomy]] (any method), including, when performed, air or gas [[tamponade]], focal endolaser, cryotherapy, drainage of subretinal fluid, scleral buckle, and/or lens removal.|
 > |[[67113]]|Repair of complex **retinal detachment** with **vitrectomy** and membrane peeling, including air, gas, or silicone oil tamponade, cryotherapy, endolaser, drainage of subretinal fluid, scleral buckle, and/or lens removal, when performed.|
 > 
-> Coding pearl (**retina focus**): Because [[intraocular]] [[tamponade]] is bundled into [[67108]], [[67113]], [[67042]], and [[67043]], you do not report a separate code for “**gas injection**” or “**silicone oil tamponade**” when those codes are used. A separate code is appropriate only when the op note supports a distinct fluid–gas exchange outside the global surgical package. <sup>7</sup><sup>10</sup>
+> Coding pearl (**retina focus**): Because [[intraocular]] [[tamponade]] is bundled into [[67108]], [[67113]], [[67042]], and [[67043]], you do not report a separate code for “**gas injection**” or “**silicone oil tamponade**” when those codes are used. A separate code is appropriate only when the op note supports a distinct fluid-gas exchange outside the global surgical package. <sup>7</sup><sup>10</sup>
 
 _____
 >[!tip]- DERIVATIONS of [[tamponade]]

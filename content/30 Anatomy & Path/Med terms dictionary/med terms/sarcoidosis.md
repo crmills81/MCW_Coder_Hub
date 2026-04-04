@@ -38,7 +38,7 @@ _____
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 >
 > - **Sarcoid** *(shortened clinical term; also used as adjective, e.g., "sarcoid granuloma")*
-> - **Besnier–Boeck–Schaumann disease** *(historical eponym honoring the three primary describers)*
+> - **Besnier-Boeck-Schaumann disease** *(historical eponym honoring the three primary describers)*
 > - **Boeck's sarcoid** *(older eponym from Norwegian dermatologist Caesar Boeck, 1899)*
 > - **Pulmonary sarcoidosis** *(when lung is the dominant or only documented site)*
 > - **Cardiac sarcoidosis** *(high-stakes subset involving myocardium/conduction system)*
@@ -53,22 +53,22 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 >
 > - **[[Granuloma]]** — the defining histopathologic lesion; compact cluster of activated [[macrophages]] and T-cells
-> - **Non-caseating granuloma** — the hallmark of sarcoidosis; lacks the central cheesy [[necrosis]] seen in TB
+> - **Non-caseating granuloma** — the hallmark of **sarcoidosis**; lacks the central cheesy [[necrosis]] seen in TB
 > - **Bilateral hilar lymphadenopathy (BHL)** — classic chest radiograph finding; "potato nodes" in the mediastinum
-> - **ACE (Angiotensin-Converting Enzyme)** — elevated in ~60% of sarcoidosis patients; serum marker for disease activity (not diagnostic)
+> - **ACE (Angiotensin-Converting Enzyme)** — elevated in ~60% of **sarcoidosis** patients; serum marker for disease activity (not diagnostic)
 > - **Serum calcium / hypercalcemia** — occurs due to granuloma-mediated excess 1,25-(OH)₂ vitamin D production
-> - **Kveim–Siltzbach test** — historical intradermal test for sarcoidosis; rarely used today
+> - **Kveim-Siltzbach test** — historical intradermal test for sarcoidosis; rarely used today
 > - **Löfgren syndrome** — acute, benign, self-resolving form; BHL + erythema nodosum + [[arthralgia]]
-> - **Lupus pernio** — indurated violaceous cutaneous sarcoid plaques on face; specific for chronic systemic sarcoidosis
-> - **Erythema nodosum** — tender red nodules on shins; non-specific skin reaction associated with acute sarcoidosis
-> - **[[Uveitis]]** — ocular sarcoidosis; anterior or posterior; can lead to blindness if untreated
-> - **Cardiac sarcoidosis** — granulomatous infiltration of myocardium; causes cardiomyopathy, heart block, VT/VF, sudden death
+> - **Lupus pernio** — indurated violaceous [[cutaneous]] sarcoid plaques on face; specific for chronic systemic **sarcoidosis**
+> - **Erythema nodosum** — tender red nodules on shins; non-specific skin reaction associated with acute **sarcoidosis**
+> - **[[Uveitis]]** — ocular **sarcoidosis**; anterior or posterior; can lead to blindness if untreated
+> - **Cardiac sarcoidosis** — **granulomatous** infiltration of myocardium; causes cardiomyopathy, heart block, VT/VF, sudden death
 > - **Neurosarcoidosis** — CNS granulomas; facial nerve palsy most common; can mimic MS, [[meningitis]], or neoplasm
-> - **Interstitial lung disease (ILD)** — broad category; sarcoidosis is a major ILD subtype
-> - **Pulmonary fibrosis** — end-stage pulmonary sarcoidosis sequela; irreversible
-> - **Corticosteroids (prednisone)** — first-line treatment for symptomatic or progressive sarcoidosis
-> - **Methotrexate / Azathioprine** — steroid-sparing agents for chronic sarcoidosis
-> - **Tuberculosis (TB)** — primary histopathologic differential; TB granulomas are caseating vs. non-caseating in sarcoidosis
+> - **Interstitial lung disease (ILD)** — broad category; **sarcoidosis** is a major ILD subtype
+> - **Pulmonary fibrosis** — end-stage pulmonary **sarcoidosis** sequela; irreversible
+> - **Corticosteroids (prednisone)** — first-line treatment for symptomatic or progressive **sarcoidosis**
+> - **Methotrexate / Azathioprine** — steroid-sparing agents for chronic **sarcoidosis**
+> - **Tuberculosis (TB)** — primary histopathologic differential; TB granulomas are caseating vs. non-caseating in **sarcoidosis**
 >
 _____
 

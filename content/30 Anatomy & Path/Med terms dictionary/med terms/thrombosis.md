@@ -134,7 +134,7 @@ _____
 > 
 > ##### **Key Coding Tips**
 > > 
-> > - Codes [[37211]]–[[37214]] do **NOT** include catheter placement, diagnostic angiography, or other interventions — report those separately when documented.
+> > - Codes [[37211]]-[[37214]] do **NOT** include catheter placement, diagnostic angiography, or other interventions — report those separately when documented.
 > > - **[[37187]]** includes intraprocedural thrombolytic infusions and fluoroscopic guidance; do **not** additionally report thrombolysis codes for injections given during mechanical thrombectomy.
 > > - If thrombolysis begins and ends on the same calendar day, report only the initial treatment day code ([[37211]] or [[37212]]).
 > > - For **intracranial** arterial thrombolysis, do **not** use [[37211]] — use [[61645]] instead.

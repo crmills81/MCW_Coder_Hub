@@ -70,7 +70,7 @@ ______
 > 
 > ## ICD-10-CM Codes
 > 
-> [[Retinopathy]] codes span **Chapter 7 (H00–H59, Diseases of the Eye and Adnexa)** and also appear as **combination codes within diabetes categories E10–E13**. <sup>6</sup> Per **ICD-10-CM guidelines**, [[diabetic retinopathy]] must **never** be coded with a standalone **H35** code alone — the appropriate **E10/E11** combination code captures both the diabetes and the **retinopathy** simultaneously and is required for specificity. <sup>7</sup>
+> [[retinopathy]] codes span **Chapter 7 (H00-H59, Diseases of the Eye and Adnexa)** and also appear as **combination codes within diabetes categories E10-E13**. <sup>6</sup> Per **ICD-10-CM guidelines**, [[diabetic retinopathy]] must **never** be coded with a standalone **H35** code alone — the appropriate **E10/E11** combination code captures both the diabetes and the **retinopathy** simultaneously and is required for specificity. <sup>7</sup>
 > 
 > ## Diabetic Retinopathy (Type 2 DM — E11 Series)
 > 

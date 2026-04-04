@@ -25,7 +25,7 @@ Medical coding hub for [[Ophthalmology]], [[Urology]] & [[Otolaryngology]] for M
 ## Coding Rules & Guides
 - [[Inpatient E&M Codes]]
 - [[Proper Use of Modifiers 59, XE, XP, XS & XU]]
-- [[Pharmacology, Principles, Administration, and Systemic Drug Actions]]
+- [[Phobias]]
 - [[MDM Chart]]
 
 ---

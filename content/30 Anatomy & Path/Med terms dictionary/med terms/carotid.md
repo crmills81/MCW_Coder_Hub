@@ -72,7 +72,7 @@ _____
 > |---|---|
 > |[[I65.21]]|Occlusion and stenosis of right carotid artery|
 > |[[I65.22]]|Occlusion and stenosis of left carotid artery|
-> |[[I65.23]]|Occlusion and stenosis of bilateral carotid arteries|
+> |[[50 Medical Coding/ICD-10 Codes/I65.23]]|Occlusion and stenosis of bilateral carotid arteries|
 > |[[I65.29]]|Occlusion and stenosis of unspecified carotid artery|
 > 
 > #### **Cerebral Infarction Due to Carotid Disease**

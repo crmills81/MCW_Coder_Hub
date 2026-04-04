@@ -225,7 +225,7 @@ last_updated: 2026-02-10
 - **[[Coma]]** (critical)
 
 **Cardiovascular symptoms:**
-- **[[Hypertension]]** - high blood pressure from fluid retention
+- **[[hypertension]]** - high blood pressure from fluid retention
 - **[[Hypotension]]** - low blood pressure (if sepsis, bleeding)
 - **[[Congestive heart failure]]**
 - **[[Arrhythmias]]** - from electrolyte imbalances
@@ -448,7 +448,7 @@ last_updated: 2026-02-10
 - **[[Hyperkalemia]]** - life-threatening arrhythmias
 - **[[Metabolic acidosis]]** - pH disturbances
 - **Volume overload** - pulmonary edema, heart failure
-- **[[Uremia]]** - buildup of waste products
+- **[[uremia]]** - buildup of waste products
 - **Electrolyte imbalances** - multiple
 - **Multi-organ dysfunction**
 - **Death** - if severe and untreated

@@ -41,7 +41,7 @@ _____
 > - [[Albinism]] (**lack of iris pigment**)
 > **Neurologic**
 > - [[Migraine]] (**most common neurologic caus**e)
-> - [[Meningitis]] / [[encephalitis]]
+> - [[meningitis]] / [[encephalitis]]
 > - **Traumatic brain injury (TBI/MTBI)**
 > - Subarachnoid [[hemorrhage]]
 > - Progressive [[supranuclear]] palsy
@@ -49,7 +49,7 @@ _____
 > - [[Sjögren syndrome]]
 > - Medications (tetracyclines, quinine, furosemide, others)
 > - [[Measles]] 
-> - [[Blepharospasm]]
+> - [[blepharospasm]]
 
 _____
 
@@ -60,7 +60,7 @@ _____
 > | **[[Osmophobia]]** | Hypersensitivity to smells; another [[migraine]]-associated sensory sensitivity [8] |
 > | **[[Heliophobia]]** | Specific aversion or fear of sunlight or sun exposure  |
 > | **[[Scotophobia]]** | Fear of darkness; opposite sensory aversion  |
-> | **[[Blepharospasm]]** | Involuntary eyelid closure, often photophobia-driven |
+> | **[[blepharospasm]]** | Involuntary eyelid closure, often photophobia-driven |
 > | **[[Miosis]]** | Pupil constriction reflex in response to light; impaired in some photophobic states [4] |
 > | **[[Hyperacusis]]** | Heightened sensitivity to sound; analogous condition to photophobia  |
 > | **Photophobic** | Adjectival form; "pertaining to or characterized by photophobia"  |

@@ -43,7 +43,7 @@ _____
 > - [[Vitritis]]
 > - [[Hypopyon]] (pus in anterior chamber — a hallmark sign)
 > - [[Vitreous abscess]]
-> - [[Chorioretinitis]]
+> - [[chorioretinitis]]
 > - _Staphylococcus epidermidis_ **endophthalmitis** (most common post-surgical organism)
 > - _Bacillus cereus_ [[endophthalmitis]] (post-traumatic)
 > - _Candida_ / _Aspergillus_ (endogenous fungal)

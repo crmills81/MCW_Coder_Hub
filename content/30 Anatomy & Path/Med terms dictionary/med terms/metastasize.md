@@ -50,7 +50,7 @@ _____
 > - **[[Oligometastasis]]:** Limited number of metastases (typically 1-5), potentially amenable to curative treatment.
 > - **Circulating Tumor Cells (CTCs):** Cancer cells detected in the bloodstream during metastatic process.
 > - **Sentinel Lymph Node:** The first lymph node to receive drainage from a tumor; biopsied to assess metastatic spread.
-> - **[[Cachexia]]:** Wasting syndrome often associated with advanced metastatic cancer.
+> - **[[cachexia]]:** Wasting syndrome often associated with advanced metastatic cancer.
 
 _____
 

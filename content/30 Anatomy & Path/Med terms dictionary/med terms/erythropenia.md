@@ -61,7 +61,7 @@ _____
 >     
 > - **[[Thrombocytopenia]]:** A deficiency in platelets ([[thrombocytes]]), leading to bleeding disorders and impaired coagulation.
 >     
-> - **[[Pancytopenia]]:** A severe hematological state characterized by a concurrent deficiency in all three major cellular components of the blood (erythropenia + [[leukopenia]] + thrombocytopenia).
+> - **[[pancytopenia]]:** A severe hematological state characterized by a concurrent deficiency in all three major cellular components of the blood (erythropenia + [[leukopenia]] + thrombocytopenia).
 
 _____
 >[!tip]- DERIVATIONS of [[erythropenia]]

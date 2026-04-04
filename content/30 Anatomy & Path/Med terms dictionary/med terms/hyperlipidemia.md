@@ -51,7 +51,7 @@ _____
 >     
 > - **Familial hypercholesterolemia (FH)** — genetic form caused by LDL receptor mutations
 >     
-> - **Fredrickson classification** — phenotypic typing system (Types I–V) used to categorize hyperlipoproteinemias
+> - **Fredrickson classification** — phenotypic typing system (Types I-V) used to categorize hyperlipoproteinemias
 >     
 
 _______
@@ -60,7 +60,7 @@ _______
 > [!example]+ #### CODING CORNER
 > ## ICD-10-CM Codes
 > 
-> All **hyperlipidemia** codes live in category **E78 – Disorders of lipoprotein metabolism and other lipidemias**. Note: E78 codes are complete as listed (**no 7th character required for metabolic disorder codes**).
+> All **hyperlipidemia** codes live in category **E78 - Disorders of lipoprotein metabolism and other lipidemias**. Note: E78 codes are complete as listed (**no 7th character required for metabolic disorder codes**).
 > 
 > |ICD-10-CM Code|Description|
 > |---|---|
@@ -89,7 +89,7 @@ _______
 > |**[[83718]]**|Lipoprotein, direct measurement; HDL cholesterol|
 > |**[[83721]]**|Lipoprotein, direct measurement; LDL cholesterol|
 > |**[[84478]]**|Triglycerides|
-> |**[[99213]]–[[99215]]**|E/M office visit for ongoing hyperlipidemia management (level depends on MDM)|
+> |**[[99213]]-[[99215]]**|E/M office visit for ongoing hyperlipidemia management (level depends on MDM)|
 > 
 > Treatment pharmacologic agents relevant to coding documentation include statins (**first-line for LDL reduction**), fibrates (triglyceride-focused), PCSK9 inhibitors (reserved for resistant/familial cases), and omega-3 supplements.
 

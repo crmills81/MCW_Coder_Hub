@@ -41,7 +41,7 @@ ____
 > | **Blue sclera** | Bluish tint from thinning (**seen in osteogenesis imperfecta, Marfan syndrome**)  |
 > | **Scleral [[melanocytosis]]** | Small gray-blue spots on sclera; benign pigmentation  |
 > | **[[Staphyloma]]** | Abnormal outward bulging of the uvea through a thinned, weakened sclera  |
-> | **[[Limbus]]** | Junction of sclera and cornea; important anatomical landmark  |
+> | **[[limbus]]** | Junction of sclera and cornea; important anatomical landmark  |
 _____
 
 > [!warning]+ *Sclero-* BEYOND THE EYE

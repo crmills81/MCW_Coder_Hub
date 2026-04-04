@@ -45,7 +45,7 @@ _____
 > - **[[Hypotrophy]]** _(decrease in volume of cells or tissues; partial atrophy)_
 > - **Muscle wasting** _(clinical synonym for muscular atrophy; coded under M62.5x)_
 > - **Sarcopenia** _(age- or immobility-related skeletal muscle loss; M62.84)_
-> - **[[Cachexia]]** _(systemic wasting syndrome, often malignancy- or chronic disease-related)_
+> - **[[cachexia]]** _(systemic wasting syndrome, often malignancy- or chronic disease-related)_
 > - **Denervation atrophy** _(muscle atrophy due to loss of nerve supply)_
 > - **Disuse atrophy** _(from immobilization, bed rest, casting)_
 > - **Cerebral atrophy / Cortical atrophy** _(brain volume reduction; seen in dementia, TBI)_
@@ -59,8 +59,8 @@ _____
 > 
 > - **[[Hypertrophy]]** — the opposite of atrophy; abnormal increase in organ/tissue size from cellular enlargement (not cell proliferation)
 > - **[[Dystrophy]]** — shares the *troph-* root; disordered or defective nourishment/development (e.g., muscular dystrophy)
-> - **[[Sarcopenia]]** — age-related skeletal muscle atrophy; distinct from pathological atrophy; coded as M62.84
-> - **[[Cachexia]]** — complex metabolic syndrome of wasting driven by systemic illness (malignancy, heart failure, CKD); often overlaps with atrophy
+> - **[[sarcopenia]]** — age-related skeletal muscle atrophy; distinct from pathological atrophy; coded as M62.84
+> - **[[cachexia]]** — complex metabolic syndrome of wasting driven by systemic illness (malignancy, heart failure, CKD); often overlaps with atrophy
 > - **[[Denervation]]** — loss of nerve supply to a muscle, causing neurogenic atrophy
 > - **[[Trophic]]** — adjective describing nerve or hormonal inputs that sustain tissue mass; "trophic support"
 > - **[[Apoptosis]]** — programmed cell death; the cellular mechanism underlying physiological and some pathological atrophy

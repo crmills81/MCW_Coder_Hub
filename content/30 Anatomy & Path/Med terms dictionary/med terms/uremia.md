@@ -55,12 +55,12 @@ _____
 > 
 > - **Azotemia** — retention of nitrogenous waste (elevated BUN, creatinine) ***without*** the full clinical uremic syndrome; [[R39.2]] for prerenal/postrenal; may precede **uremia**
 > - **Acute Kidney Injury (AKI)** — sudden loss of renal function; N17.x; can cause acute uremia requiring emergency dialysis
-> - **Chronic Kidney Disease (CKD)** — staged [[N18.1]]–[[N18.6]]; uremia typically manifests at CKD Stage 5 (N18.6 — GFR <15)
+> - **Chronic Kidney Disease (CKD)** — staged [[N18.1]]-[[N18.6]]; uremia typically manifests at CKD Stage 5 (N18.6 — GFR <15)
 > - **ESRD (End-Stage Renal Disease)** — [[N18.6]]; CKD Stage 5 requiring renal replacement therapy; the terminal CKD stage driving uremia
-> - **BUN (Blood Urea Nitrogen)** — primary lab marker of **uremia**; normal ~7–20 mg/dL; uremia typically symptomatic >80–100 mg/dL
+> - **BUN (Blood Urea Nitrogen)** — primary lab marker of **uremia**; normal ~7-20 mg/dL; uremia typically symptomatic >80-100 mg/dL
 > - **Creatinine / eGFR** — functional kidney markers; eGFR <15 mL/min/1.73m² = CKD Stage 5/ESRD
-> - **[[Hemodialysis]] (HD)** — primary renal replacement therapy for uremia; CPT [[90935]]/[[90937]] (acute); [[90960]]–[[90966]] (**ESRD monthly**)
-> - **Peritoneal dialysis (PD)** — alternative RRT; CPT [[90945]]/[[90947]]; [[90970]]–[[90978]] (ESRD monthly)
+> - **[[Hemodialysis]] (HD)** — primary renal replacement therapy for uremia; CPT [[90935]]/[[90937]] (acute); [[90960]]-[[90966]] (**ESRD monthly**)
+> - **Peritoneal dialysis (PD)** — alternative RRT; CPT [[90945]]/[[90947]]; [[90970]]-[[90978]] (ESRD monthly)
 > - **Uremic pericarditis** — pericardial inflammation from uremic toxin deposition; I32 coded as manifestation of N18.x/N19
 > - **Uremic encephalopathy** — metabolic encephalopathy from nitrogenous toxin accumulation; G93.41
 > - **Asterixis** — "flapping tremor" — the classic neurological sign of metabolic encephalopathy in uremia; [[R25.1]]
@@ -93,11 +93,11 @@ _____
 > |Code|Description|
 > |---|---|
 > |[[N18.1]]|CKD, Stage 1 _(kidney damage with normal or increased GFR ≥90)_|
-> |[[N18.2]]|CKD, Stage 2 (mild) _(GFR 60–89)_|
-> |[[N18.30]]|CKD, Stage 3 unspecified _(GFR 30–59)_|
-> |[[N18.31]]|CKD, Stage 3a _(GFR 45–59)_|
-> |[[N18.32]]|CKD, Stage 3b _(GFR 30–44)_|
-> |[[N18.4]]|CKD, Stage 4 (severe) _(GFR 15–29)_|
+> |[[N18.2]]|CKD, Stage 2 (mild) _(GFR 60-89)_|
+> |[[N18.30]]|CKD, Stage 3 unspecified _(GFR 30-59)_|
+> |[[N18.31]]|CKD, Stage 3a _(GFR 45-59)_|
+> |[[N18.32]]|CKD, Stage 3b _(GFR 30-44)_|
+> |[[N18.4]]|CKD, Stage 4 (severe) _(GFR 15-29)_|
 > |[[N18.5]]|CKD, Stage 5 _(GFR <15, not yet on dialysis — uremic symptoms common at this stage)_|
 > |[[N18.6]]|End-stage renal disease _(ESRD — CKD Stage 5 on renal replacement therapy; MCC)_|
 > |[[N18.9]]|CKD, unspecified _(includes: chronic uremia; diffuse sclerosing glomerulonephritis NOS)_|
@@ -106,7 +106,7 @@ _____
 > 
 > |Code|Description|
 > |---|---|
-> |[[R39.2]]|Extrarenal uremia _(prerenal/postrenal azotemia — elevated BUN from decreased perfusion or obstruction, NOT intrinsic kidney failure; Excludes1 from N17–N19)_|
+> |[[R39.2]]|Extrarenal uremia _(prerenal/postrenal azotemia — elevated BUN from decreased perfusion or obstruction, NOT intrinsic kidney failure; Excludes1 from N17-N19)_|
 > 
 > #### **Uremic Complications (Code as Additional Diagnoses)**
 > 
@@ -118,7 +118,7 @@ _____
 > |[[E87.2]]|Metabolic acidosis _(acidosis complicating uremia/renal failure)_|
 > |[[D63.1]]|Anemia in chronic kidney disease _(anemia of CKD — use with N18.x)_|
 > |[[L29.8]]|Other pruritus _(uremic pruritus — coded as symptom + N18.x)_|
-> |[[P96.0]]|Congenital renal failure _(uremia of newborn — Excludes1 from N17–N19 adult codes)_|
+> |[[P96.0]]|Congenital renal failure _(uremia of newborn — Excludes1 from N17-N19 adult codes)_|
 > 
 > ---
 > 
@@ -136,7 +136,7 @@ _____
 > |**[[90945]]**|Peritoneal dialysis, one evaluation|
 > |**[[90947]]**|Peritoneal dialysis, repeated evaluations|
 > |**[[90960]]**|ESRD-related services, monthly; 4 face-to-face physician visits per month — patient 20 years and older|
-> |**[[90961]]**|ESRD-related services, monthly; 2–3 face-to-face physician visits per month — patient 20 years and older|
+> |**[[90961]]**|ESRD-related services, monthly; 2-3 face-to-face physician visits per month — patient 20 years and older|
 > |**[[90962]]**|ESRD-related services, monthly; 1 face-to-face physician visit per month — patient 20 years and older|
 > |**[[50340]]**|Recipient nephrectomy _(preparatory for renal transplant — uremia as indication)_|
 > |**[[50360]]**|Renal allotransplantation, implantation of graft; without recipient nephrectomy|
@@ -144,7 +144,7 @@ _____
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** **N19 (Unspecified kidney failure / Uremia NOS)** should be the **code of last resort** — ICD-10-CM has robust Excludes1 notes directing coders to N17.x (**AKI**) or N18.x (**CKD**) when the acuity and chronicity are known. On inpatient profee, query the provider if documentation says "**uremia**," "**renal failure**," or "**kidney failure**" without specifying acute vs. chronic vs. acute-on-chronic — that distinction drives **DRG** and **MCC/CC** assignment significantly. **N18.6 (ESRD)** is an **MCC** and should be coded whenever the patient is on dialysis — even if admitted for another reason; Z99.2 (**[[dialysis]] statu**s) is separately codeable as a secondary. **R39.2 (prerenal uremia/[[azotemia]])** is an Excludes1 from N17–N19 — if the provider documents "**prerenal azotemia**" or "prerenal ARF that corrected with fluids," use R39.2, NOT N17.9, as true kidney failure was not present. For [[dialysis]] CPT coding, **90935/90937 are for acute dialysis** (AKI patients expected to recover); **90960–90966 are for ESRD monthly management** — these are mutually exclusive billing pathways based on whether **ESRD** is established. **D63.1 (anemia in CKD)** should always be evaluated alongside N18.x — [[anemia]] of **CKD** is a high-yield, frequently missed secondary code on nephrology and hospitalist inpatient claims.
+> > ⚠️ **Coding Note:** **N19 (Unspecified kidney failure / Uremia NOS)** should be the **code of last resort** — ICD-10-CM has robust Excludes1 notes directing coders to N17.x (**AKI**) or N18.x (**CKD**) when the acuity and chronicity are known. On inpatient profee, query the provider if documentation says "**uremia**," "**renal failure**," or "**kidney failure**" without specifying acute vs. chronic vs. acute-on-chronic — that distinction drives **DRG** and **MCC/CC** assignment significantly. **N18.6 (ESRD)** is an **MCC** and should be coded whenever the patient is on dialysis — even if admitted for another reason; Z99.2 (**[[dialysis]] statu**s) is separately codeable as a secondary. **R39.2 (prerenal uremia/[[azotemia]])** is an Excludes1 from N17-N19 — if the provider documents "**prerenal azotemia**" or "prerenal ARF that corrected with fluids," use R39.2, NOT N17.9, as true kidney failure was not present. For [[dialysis]] CPT coding, **90935/90937 are for acute dialysis** (AKI patients expected to recover); **90960-90966 are for ESRD monthly management** — these are mutually exclusive billing pathways based on whether **ESRD** is established. **D63.1 (anemia in CKD)** should always be evaluated alongside N18.x — [[anemia]] of **CKD** is a high-yield, frequently missed secondary code on nephrology and hospitalist inpatient claims.
 > 
 _____
 >[!tip]- DERIVATIONS of [[uremia]]

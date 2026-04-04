@@ -43,7 +43,7 @@ _____
 > - **[[Vasculitis]]**: Inflammation of blood vessels, which can be a feature of polychondritis.
 > - **[[scleritis]]**: Inflammation of the sclera (the white outer layer of the eyeball).
 > - **[[episcleritis]]**: Inflammation of the [[episclera]], a thin layer of tissue between the sclera and [[conjunctiva]].
-> - **[[Arthralgia]]**: Pain in a joint.
+> - **[[arthralgia]]**: Pain in a joint.
 _____
 
 > [!example]+ **CODING AND NUANCES**

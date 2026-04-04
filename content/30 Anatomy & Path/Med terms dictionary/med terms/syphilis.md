@@ -33,7 +33,7 @@ _____
 >|**[[-is]]**|Latin noun ending|Standard nominative singular noun suffix in Latin|
 >|**sive morbus Gallicus**|Latin: ***sive*** = "**or**"; ***morbus*** = "**disease**"; *Gallicus* = "of Gaul/France"|The full poem title translates as **"Syphilis, or the French Disease"** — reflecting the pan-European blame game of the early outbreak era|
 >
-> The word **syphilis** entered medical English in **1718** as Modern Latin, originally from the title of an epic Latin poem published in **1530** by the Veronese physician and poet **Girolamo Fracastoro** (c. 1476–1553). Fracastoro coined the name from his **protagonist** — a shepherd named *Syphilus* — believed to be derived from the figure *Sipylus* in Ovid's *Metamorphoses*. Fracastoro first applied the term as a generic disease name in his landmark **epidemiological** treatise *De Contagione et Contagiosis Morbis* in **1546**, making it one of only a handful of diseases named after a fictional literary character. Before Fracastoro's coinage, the disease was known across Europe variously as the "**French disease**" (*morbus Gallicus*), the "**Neapolitan disease**," the "**Italian disease**," and in Britain as the "**Great Pox**."
+> The word **syphilis** entered medical English in **1718** as Modern Latin, originally from the title of an epic Latin poem published in **1530** by the Veronese physician and poet **Girolamo Fracastoro** (c. 1476-1553). Fracastoro coined the name from his **protagonist** — a shepherd named *Syphilus* — believed to be derived from the figure *Sipylus* in Ovid's *Metamorphoses*. Fracastoro first applied the term as a generic disease name in his landmark **epidemiological** treatise *De Contagione et Contagiosis Morbis* in **1546**, making it one of only a handful of diseases named after a fictional literary character. Before Fracastoro's coinage, the disease was known across Europe variously as the "**French disease**" (*morbus Gallicus*), the "**Neapolitan disease**," the "**Italian disease**," and in Britain as the "**Great Pox**."
 _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
@@ -213,7 +213,7 @@ _____
 > |CPT Code|Description|
 > |---|---|
 > |**[[96372]]**|Therapeutic, prophylactic, or diagnostic injection; subcutaneous or intramuscular *(benzathine penicillin G IM — first-line treatment)*|
-> |**[[99211–99215]]**|Office/outpatient E&M *(follow-up visits for titer monitoring and treatment response)*|
+> |**[[99211-99215]]**|Office/outpatient E&M *(follow-up visits for titer monitoring and treatment response)*|
 >
 > #### HIV Co-infection Testing
 >

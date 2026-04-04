@@ -52,17 +52,17 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **Malnutrition** — nutritional deficiency that CAN be reversed by adequate intake; distinct from cachexia (cannot be fully reversed nutritionally); E40–E46
-> - **[[Sarcopenia]]** — age-related muscle loss WITHOUT inflammatory cytokine driver; [[sarcopenia]] M62.84; frequently overlaps with cachexia in elderly
+> - **Malnutrition** — nutritional deficiency that CAN be reversed by adequate intake; distinct from [[cachexia]] (cannot be fully reversed nutritionally); E40-E46
+> - **[[sarcopenia]]** — age-related muscle loss WITHOUT inflammatory cytokine driver; [[sarcopenia]] M62.84; frequently overlaps with [[cachexia]] in elderly
 > - **Emaciation** — extreme thinness from absence of fat and muscle; R63.4 (abnormal weight loss) or underlying cause; clinical descriptor more than diagnosis
-> - **Marasmus** — severe caloric malnutrition (non-inflammatory); E41; Excludes1 from R64
+> - **Marasmus** — severe caloric [[malnutrition]] (non-inflammatory); E41; Excludes1 from R64
 > - **[[Anorexia]]** — loss of appetite; R63.0; a cardinal symptom accompanying cachexia but NOT synonymous with it
 > - **Frailty / Senility** — functional deterioration overlap; R54; co-codeable with cachexia codes
 > - **TNF-α (Tumor Necrosis Factor-alpha)** — primary catabolic cytokine driving cachexia; historically called *cachectin* because of its role
 > - **[[Proteolysis]] / Ubiquitin-Proteasome System (UPS)** — the cellular mechanism by which cytokines drive muscle protein breakdown in cachexia
 > - **CRP (C-Reactive Protein)** — acute phase reactant elevated in cachectic states; useful to distinguish inflammatory from non-inflammatory wasting
-> - **Albumin / Prealbumin (Transthyretin)** — historically used as malnutrition markers; NOTE: per ASPEN/Academy 2012 consensus, low albumin/prealbumin reflects *inflammation*, NOT nutritional status — do NOT use to diagnose malnutrition or cachexia
-> - **Megestrol acetate / Corticosteroids / Mirtazapine** — palliative appetite stimulants used in cancer cachexia management
+> - **Albumin / Prealbumin (Transthyretin)** — historically used as malnutrition markers; NOTE: per ASPEN/Academy 2012 consensus, low albumin/prealbumin reflects *inflammation*, NOT nutritional status — do NOT use to diagnose malnutrition or [[cachexia]]
+> - **Megestrol acetate / Corticosteroids / Mirtazapine** — palliative appetite stimulants used in cancer [[cachexia]] management
 > - **Parenteral nutrition (TPN)** — may provide caloric support but does NOT reverse the underlying cytokine-driven catabolism of true cachexia
 > 
 _____

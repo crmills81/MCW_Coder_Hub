@@ -22,7 +22,7 @@ definition:
   - Pain in one or more joints, without intrinsic inflammatory disease of the joint itself
 ---
 >[!Note] DEFINITION of [[arthralgia]]
->**Arthralgia** is the medical term for **pain in a joint** — specifically, joint pain that is a **symptom** rather than a standalone inflammatory disease. Per the U.S. National Library of Medicine (MeSH), *arthralgia* should be applied when the condition is **non-inflammatory**, while **arthritis** is the appropriate term when **inflammation is present** (heat, swelling, erythema, synovitis). This is a clinically and coding-critical distinction: **arthralgia** is a **symptom code** (M25.5x), while arthritis carries its own distinct diagnostic codes (**e.g., M05–M06 for rheumatoid, M15–M19 for osteoarthritis**). Arthralgia may affect a **single joint** (monoarthralgia), **a few joints** (oligoarthralgia, typically 2–4), or **many joints** (polyarthralgia, 5+), and serves as a presenting symptom across a vast range of etiologies including **mechanical injury**, **infectious disease** (viral arthralgia in Lyme, chikungunya, parvovirus B19), **autoimmune conditions**, **crystal deposition** (gout, pseudogout), **medication side effects**, and **malignancy**. Because arthralgia is a symptom code, **ICD-10-CM Guideline** Section I.C instructs coders to use the definitive diagnosis code when established — M25.5x is reserved for encounters where no confirmed underlying cause has been identified.
+>**Arthralgia** is the medical term for **pain in a joint** — specifically, joint pain that is a **symptom** rather than a standalone inflammatory disease. Per the U.S. National Library of Medicine (MeSH), *arthralgia* should be applied when the condition is **non-inflammatory**, while **arthritis** is the appropriate term when **inflammation is present** (heat, swelling, erythema, synovitis). This is a clinically and coding-critical distinction: **arthralgia** is a **symptom code** (M25.5x), while arthritis carries its own distinct diagnostic codes (**e.g., M05-M06 for rheumatoid, M15-M19 for osteoarthritis**). Arthralgia may affect a **single joint** (monoarthralgia), **a few joints** (oligoarthralgia, typically 2-4), or **many joints** (polyarthralgia, 5+), and serves as a presenting symptom across a vast range of etiologies including **mechanical injury**, **infectious disease** (viral arthralgia in Lyme, chikungunya, parvovirus B19), **autoimmune conditions**, **crystal deposition** (gout, pseudogout), **medication side effects**, and **malignancy**. Because arthralgia is a symptom code, **ICD-10-CM Guideline** Section I.C instructs coders to use the definitive diagnosis code when established — M25.5x is reserved for encounters where no confirmed underlying cause has been identified.
 _____
 >[!info]+ ETYMOLOGY of [[arthralgia]]
 >#greek
@@ -41,7 +41,7 @@ _____
 > - **Pain in joint** _(ICD-10-CM tabular language for the M25.5x category)_
 > - **Arthralgic** _(adjective form — e.g., "arthralgic episode," "arthralgic patient")_
 > - **[[Monoarthralgia]]** _(pain in a single joint)_
-> - **[[Oligoarthralgia]]** _(pain in 2–4 joints; asymmetric pattern common in reactive arthritis)_
+> - **[[Oligoarthralgia]]** _(pain in 2-4 joints; asymmetric pattern common in reactive arthritis)_
 > - **Polyarthralgia** _(pain in 5 or more joints; pattern typical of viral arthralgia, RA early presentation, SLE)_
 > - **Migratory arthralgia** _(joint pain that moves from joint to joint — classic in acute rheumatic fever, Lyme disease)_
 > - **Reactive arthralgia** _(following infection — GI or genitourinary — without joint infection itself)_
@@ -52,17 +52,17 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Arthritis]]** — arthralgia + inflammation ([[synovitis]], joint swelling, warmth); coded separately (M05, M06, M15–M19, etc.)
+> - **[[Arthritis]]** — arthralgia + inflammation ([[synovitis]], joint swelling, warmth); coded separately (M05, M06, M15-M19, etc.)
 > - **[[Arthropathy]]** — broader term for any joint disease (*[[-pathy]]* = disease/disorder, vs. *-algia* = pain only)
 > - **[[Synovitis]]** — inflammation of the synovial membrane lining the joint; M65.x — often the source of arthralgic pain
-> - **[[Bursitis]]** — inflammation of the bursa adjacent to a joint; M70–M71 — frequently confused with joint pain
+> - **[[Bursitis]]** — inflammation of the bursa adjacent to a joint; M70-M71 — frequently confused with joint pain
 > - **[[Myalgia]]** — muscle pain; shares the *[[-algia]]* root; often co-presents with arthralgia in viral illness, fibromyalgia
 > - **[[Neuralgia]]** — nerve pain; *[[-algia]]* family; may radiate and mimic arthralgia (e.g., radiculopathy → shoulder "joint" pain)
 > - **[[Gout]] / [[Pseudogout]]** — crystal arthropathy; presents as acute [[monoarthralgia]]; M10.x / M11.x
-> - **[[Osteoarthritis]] (OA)** — degenerative joint disease; M15–M19; most common cause of chronic arthralgic complaints
+> - **[[Osteoarthritis]] (OA)** — degenerative joint disease; M15-M19; most common cause of chronic arthralgic complaints
 > - **Rheumatoid Arthritis (RA)** — autoimmune polyarthritis; M05.x (**seropositive**), M06.x (**seronegative**)
 > - **[[Fibromyalgia]]** — widespread musculoskeletal pain syndrome including arthralgic complaints; M79.3
-> - **[[Arthrocentesis]]** — diagnostic/therapeutic joint aspiration; primary procedure CPT for arthralgic workup ([[20600]]–[[20611]])
+> - **[[Arthrocentesis]]** — diagnostic/therapeutic joint aspiration; primary procedure CPT for arthralgic workup ([[20600]]-[[20611]])
 > - **ESR / CRP / ANA / RF / Anti-CCP** — lab workup differentiating inflammatory vs. non-inflammatory arthralgia
 > - **Lyme disease** — *Borrelia burgdorferi* infection; migratory polyarthralgia is a classic presentation; A69.20
 > 

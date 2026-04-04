@@ -50,7 +50,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 >
-> - **[[Chorioretinitis]]** — active inflammation of the choroid and retina; most common infectious form is toxoplasmic
+> - **[[chorioretinitis]]** — active inflammation of the choroid and retina; most common infectious form is toxoplasmic
 > - **Toxoplasmic chorioretinitis** — caused by *Toxoplasma gondii*; most common infectious posterior uveitis worldwide
 > - **CMV [[retinitis]]** — [[cytomegalovirus]] chorioretinitis; classically in HIV/AIDS patients
 > - **[[Choroiditis]]** — inflammation of the choroid only, without retinal involvement

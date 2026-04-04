@@ -19,13 +19,13 @@ Here are some of the most commonly used ophthalmic **surgery** CPT codes, with p
 
 ## 👁️[[Glaucoma]] surgery and laser
 
-- **[[66170]] - [[Trabeculectomy]], initial surgery**
+- **[[66170]] - [[trabeculectomy]], initial surgery**
     
     - Meaning: Creation of a new drainage [[fistula]] (filtering bleb) to lower [[intraocular pressure]]. [eyecarebillingconsultants+1](https://www.eyecarebillingconsultants.com/ophthalmology-coding/ophthalmology-cpt-codes-billing-guide/)
         
     - Example: [[Open‑angle glaucoma]] uncontrolled on maximum meds undergoing first [[trabeculectomy]] [[-os]].
         
-- **[[66172]] - [[Trabeculectomy]] with previous scarring**
+- **[[66172]] - [[trabeculectomy]] with previous scarring**
     
     - Meaning: Trabeculectomy in an eye with prior surgery or scarring, typically more complex. [[eyecarebillingconsultants](https://www.eyecarebillingconsultants.com/ophthalmology-coding/ophthalmology-cpt-codes-billing-guide/)]​
         

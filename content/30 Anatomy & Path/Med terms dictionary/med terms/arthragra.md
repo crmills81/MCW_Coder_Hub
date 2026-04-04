@@ -35,7 +35,7 @@ _____
 > |**Podagra**|Gout in the big toe|Most common manifestation; coded under **M10.0-**  |
 > |**Chiragra**|Gout in the hand|Historically specific; now coded as gout of hand/wrist   |
 > |**Gonagra**|Gout in the knee|Specifically denotes acute gouty arthritis of the knee joint.|
-> |**[[Arthralgia]]**|Joint pain|A general symptom code (**M25.5-**) for pain without inflammation  .|
+> |**[[arthralgia]]**|Joint pain|A general symptom code (**M25.5-**) for pain without inflammation  .|
 > |**[[Hyperuricemia]]**|High uric acid|The metabolic precursor to [[arthragra]] (**[[E79.0]]**) .|
 > 
 > - **Tophi**: Permanent deposits of urate crystals in tissues, common in chronic cases of ​
