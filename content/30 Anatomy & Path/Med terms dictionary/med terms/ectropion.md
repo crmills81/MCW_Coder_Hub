@@ -37,7 +37,7 @@ definition:
 >[!Note] DEFINITION of [[ectropion]]
 >**Ectropion** is **an outward turning or eversion of the eyelid margin — most commonly the lower eyelid — in which the lid sags away from the globe, exposing the inner palpebral conjunctiva to the environment.** This loss of apposition between the lid and globe leads to chronic ocular exposure, inadequate tear drainage, [[epiphora]], [[keratitis]], [[corneal ulceration]], and in severe cases, permanent vision loss. It is the direct anatomical opposite of [[entropion]] (**inward turning of the lid**). From a medical-coding perspective, **ectropion** documentation must clarify: Type (**involutional/senile, cicatricial, paralytic, spastic, mechanical, congenital**) Laterality (**right, left, bilateral**) Eyelid (**upper vs. lower**; lower is by far most common) Surgical method (**suture, [[thermocauterization]], tarsal wedge excision, extensive repair**)
 >
->These distinctions affect both **ICD-10-CM** code and CPT selection, including the required **eyelid modifier (E1–E4)**. Note that **cervical ectropion** is an entirely unrelated gynecological condition (**eversion of endocervical columnar epithelium onto the ectocervix**) — the two share only the name. The term derives from Greek roots meaning **"a turning outward."**
+>These distinctions affect both **ICD-10-CM** code and CPT selection, including the required **eyelid modifier (E1-E4)**. Note that **cervical ectropion** is an entirely unrelated gynecological condition (**eversion of endocervical columnar epithelium onto the ectocervix**) — the two share only the name. The term derives from Greek roots meaning **"a turning outward."**
 _____
 >[!info]+ ETYMOLOGY of [[ectropion]]
 >#greek #latin - The word is composed of Greek-derived roots via New Latin:
@@ -57,7 +57,7 @@ _____
 > [!example]+ ## **Related Terms**
 > |Term|Meaning|Coding Relevance|
 > |---|---|---|
-> |**[[entropion]]**|Inward turning of the eyelid margin | Opposite of **ectropion**; separate CPT range ([[67921]]–[[67924]]); ICD H02.0- series|
+> |**[[entropion]]**|Inward turning of the eyelid margin | Opposite of **ectropion**; separate CPT range ([[67921]]-[[67924]]); ICD H02.0- series|
 > |**[[lagophthalmos]]**|Inability to fully close the eyelid |Major complication of **ectropion** and paralytic ectropion; H02.2- series|
 > |**[[epiphora]]**|Excessive tearing due to impaired lacrimal drainage |Cardinal symptom of **ectropion**; H04.20- series; documents medical necessity|
 > |**[[exposure keratopathy]]**|Corneal damage from chronic exposure and dryness| Complication of untreated **ectropion**; H16.- series; code additionally|
@@ -157,13 +157,13 @@ _____
 >
 > - "Quickert sutures placed"
 >
-> - "Right/left upper/lower eyelid" (**determines eyelid modifier -E1–-E4**)
+> - "Right/left upper/lower eyelid" (**determines eyelid modifier -E1--E4**)
 >
 > These help determine **type**, **laterality**, **surgical method**, and the correct **CPT + eyelid modifier** combination.
 >
 > ## **Coder's Notes**
 >
-> - **Eyelid modifiers -E1–-E4 are REQUIRED** for all ectropion repair codes ([[67914]]–[[67917]]) — payers will deny or downcode without them
+> - **Eyelid modifiers -E1--E4 are REQUIRED** for all ectropion repair codes ([[67914]]-[[67917]]) — payers will deny or downcode without them
 >
 > - **-E1** = upper left eyelid | **-E2** = lower left eyelid | **-E3** = upper right eyelid | **-E4** = lower right eyelid
 >
@@ -171,7 +171,7 @@ _____
 >
 > - **[[67917]]** is the workhorse code for involutional **ectropion** — lateral tarsal strip and Kuhnt-Szymanowski both fall under "extensive" repair; always choose [[67917]] when the operative report describes horizontal tightening with retractor reinsertion
 >
-> - **Paralytic ectropion** ([[H02.151]]–[[H02.156]]): The underlying cause ([[G51.0]] Bell's palsy or other CN VII etiology) should be **sequenced first** as the primary diagnosis, with ectropion as a secondary/manifestation code
+> - **Paralytic ectropion** ([[H02.151]]-[[H02.156]]): The underlying cause ([[G51.0]] Bell's palsy or other CN VII etiology) should be **sequenced first** as the primary diagnosis, with ectropion as a secondary/manifestation code
 >
 > - **Congenital ectropion** is **Excludes1** from H02.1- — use [[Q10.1]] (congenital **ectropion**) instead; this is a hard exclusion
 >
@@ -179,7 +179,7 @@ _____
 >
 > - **Bilateral ectropion**: Some Medicare carriers require two lines billed with [[-E2]] and [[E5]] (or [[-E2]] + [[-E4]]) rather than a single line with modifier [[-50]] — verify individual payer policy
 >
-> - **[[Epiphora]]** ([[H04.201]]–[[H04.209]]) should be coded additionally when documented — it directly supports **medical necessity** for surgical repair and demonstrates functional impairment
+> - **[[Epiphora]]** ([[H04.201]]-[[H04.209]]) should be coded additionally when documented — it directly supports **medical necessity** for surgical repair and demonstrates functional impairment
 >
 > - **Corneal exposure** (H16.-) coded additionally when documented also strengthens medical necessity
 >
@@ -230,7 +230,7 @@ _____
 > | **[[15120]]** | Split-thickness autograft, face, scalp, eyelids *(if skin graft required for cicatricial ectropion)* |
 > | **[[15260]]** | Full-thickness graft, free; eyelids, nose, ears, lips *(if full-thickness graft required)* |
 >
-> ## **Required Eyelid Modifiers (E1–E4)**
+> ## **Required Eyelid Modifiers (E1-E4)**
 >
 > | Modifier | Eyelid |
 > |---|---|

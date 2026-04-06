@@ -33,7 +33,7 @@ _____
 >- **Grammatical function in Latin**: Diminutive noun suffix — preserves the gender and meaning of the original noun while implying smallness
 >- **Meaning evolution**:
 >    - **Classical Latin**: Pure diminutive — *articulus* ("little joint"), *musculus* ("little mouse" → muscle, due to shape)
->    - **Anatomical Latin (16th–18th c.)**: Applied systematically to name small anatomical structures — *ventriculus*, *ossiculum*, *folliculus*, *corpusculum*
+>    - **Anatomical Latin (16th-18th c.)**: Applied systematically to name small anatomical structures — *ventriculus*, *ossiculum*, *folliculus*, *corpusculum*
 >    - **English adoption**: **-cle/-icle** entered English via Old French and directly from New Latin anatomical nomenclature
 >- **Entry into English**: Via Old French *-cle* / *-icle* and directly from Latin anatomical terms
 >- **Variant forms in English**:

@@ -52,7 +52,7 @@ _____
 >- **[[ophthalm-]]** → Greek *ophthalmos*, meaning "**eye**"
 >- **[[lagophthalmos]]** literally means **"hare eye"** — an eye that, like the mythologized hare, appears perpetually open
 >
->Note: The historical term **"hare eye"** (*Hasenauge* in German ophthalmological literature) was used well into the 19th century as a synonym. The misconception about hares sleeping with open eyes was noted by Pliny the Elder (23–79 AD) in *Naturalis Historia*. Despite the zoological myth, the anatomical analogy proved clinically useful and the eponymous Greek term persisted into modern medicine.
+>Note: The historical term **"hare eye"** (*Hasenauge* in German ophthalmological literature) was used well into the 19th century as a synonym. The misconception about hares sleeping with open eyes was noted by Pliny the Elder (23-79 AD) in *Naturalis Historia*. Despite the zoological myth, the anatomical analogy proved clinically useful and the eponymous Greek term persisted into modern medicine.
 _____
 > [!example]+ ## **Related Terms**
 > |Term|Meaning|Coding Relevance|
@@ -60,12 +60,12 @@ _____
 > |**[[exposure keratopathy]]**|Corneal damage from chronic drying due to incomplete eyelid closure|H16.23- series; primary complication of lagophthalmos; code additionally; documents medical necessity for surgical treatment|
 > |**[[corneal ulcer]]**|Full-thickness corneal stromal defect; advanced complication of untreated lagophthalmos|H16.0- series; code additionally; changes management to urgent/surgical|
 > |**[[Bell's palsy]]**|CN VII palsy; most common cause of paralytic lagophthalmos|G51.0; sequence first as underlying cause; lagophthalmos sequences second as manifestation|
-> |**[[ectropion — paralytic]]**|Lower lid sagging from orbicularis weakness secondary to CN VII palsy|H02.15- series; frequently coexists with paralytic lagophthalmos; code separately|
+> |**ectropion — paralytic**|Lower lid sagging from orbicularis weakness secondary to CN VII palsy|H02.15- series; frequently coexists with paralytic lagophthalmos; code separately|
 > |**[[epiphora]]**|Overflow tearing; paradoxically common in lagophthalmos due to lacrimal pump failure|H04.2- series; code additionally when documented|
-> |**[[exophthalmos]]**|Globe proptosis pushing eyelids apart; mechanical cause of lagophthalmos|H05.2- or E05.00 (Graves'); identifies mechanical type of lagophthalmos|
-> |**[[blepharoplasty]]**|Eyelid surgery; over-resection of upper lid skin is a common iatrogenic cause of cicatricial lagophthalmos|CPT 15822–15823; document pre-existing lagophthalmos prior to revision surgery|
+> |**[[exophthalmos]]**|[[Globe]] [[proptosis]] pushing eyelids apart; mechanical cause of lagophthalmos|H05.2- or [[E05.00]] (**Graves**'); identifies mechanical type of lagophthalmos|
+> |**[[blepharoplasty]]**|Eyelid surgery; over-resection of upper lid skin is a common iatrogenic cause of cicatricial lagophthalmos|CPT [[15822]]-[[15823]]; document pre-existing lagophthalmos prior to revision surgery|
 > |**[[tarsorrhaphy]]**|Surgical fusion of upper and lower eyelid margins to reduce palpebral fissure|CPT [[67880]] / [[67882]]; primary surgical option for paralytic lagophthalmos|
-> |**[[gold weight implant]]**|Platinum or gold lid weight implanted in upper eyelid for passive closure using gravity|CPT [[67912]]; most common elective surgical correction for paralytic lagophthalmos|
+> |**gold weight implant**|Platinum or gold lid weight implanted in upper eyelid for passive closure using gravity|CPT [[67912]]; most common elective surgical correction for paralytic lagophthalmos|
 > |**[[ptosis]]**|Drooping upper eyelid; opposite of lagophthalmos in terms of lid position; caused by levator dysfunction|H02.4- series; may coexist in same patient post-CN VII palsy|
 
 _____
@@ -114,7 +114,7 @@ _____
 > ### Physiologic / Nocturnal Lagophthalmos
 > - **Nocturnal lagophthalmos**: Incomplete lid closure during sleep only; underdiagnosed; often idiopathic; patients wake with dry, gritty eyes
 >
-> - **ICU patients**: Sedation and neuromuscular blockade reduce orbicularis tone → lagophthalmos in 20–60% of critically ill patients
+> - **ICU patients**: Sedation and neuromuscular blockade reduce orbicularis tone → lagophthalmos in 20-60% of critically ill patients
 >
 > - **Post-anesthesia**: Transient lagophthalmos during emergence from general anesthesia
 >
@@ -180,7 +180,7 @@ _____
 >
 > ## **Coder's Notes**
 >
-> - **H02.2- has a unique alpha-character extension system**: Beyond the standard 1–6 digit codes for individual lids, ICD-10-CM added alpha extensions **A** (right eye, upper and lower lids), **B** (left eye, upper and lower lids), and **C** (bilateral, upper and lower lids) — use these when documentation states both upper and lower lids of one or both eyes are affected; do NOT use H02.20 (unspecified) when lid specificity is documented
+> - **H02.2- has a unique alpha-character extension system**: Beyond the standard 1-6 digit codes for individual lids, ICD-10-CM added alpha extensions **A** (right eye, upper and lower lids), **B** (left eye, upper and lower lids), and **C** (bilateral, upper and lower lids) — use these when documentation states both upper and lower lids of one or both eyes are affected; do NOT use H02.20 (unspecified) when lid specificity is documented
 >
 > - **Type subcategories matter**:
 >   - [[H02.20-]] = **Unspecified** (avoid when type is known)
@@ -192,9 +192,9 @@ _____
 >
 > - **[[67912]] gold weight implant**: This CPT code covers both **gold and platinum** eyelid weight implants; there is no separate CPT for platinum — both are billed under [[67912]]; the operative report should specify the material and weight (grams) for documentation completeness
 >
-> - **Congenital lagophthalmos Excludes1**: Congenital eyelid malformations ([[Q10.0]]–[[Q10.3]]) are hard Excludes1 from H02.- — do NOT code H02.2- for congenital presentations; use appropriate Q10.- code
+> - **Congenital lagophthalmos Excludes1**: Congenital eyelid malformations ([[Q10.0]]-[[Q10.3]]) are hard Excludes1 from H02.- — do NOT code H02.2- for congenital presentations; use appropriate Q10.- code
 >
-> - **Eyelid modifiers E1–E4 may be required** on CPT codes [[67880]], [[67882]], and [[67912]] by certain payers — verify payer-specific requirements:
+> - **Eyelid modifiers E1-E4 may be required** on CPT codes [[67880]], [[67882]], and [[67912]] by certain payers — verify payer-specific requirements:
 >   - [[E1]] = upper left | [[E2]] = lower left | [[E3]] = upper right | [[E4]] = lower right
 >
 > - **Gold weight implant + ectropion repair same session**: When [[67912]] (gold weight) and [[67917]] (ectropion repair) are performed together for paralytic lagophthalmos with paralytic ectropion — both CPT codes are billable on the same claim with modifier [[51]] on the secondary procedure; document each procedure separately in the operative note

@@ -36,7 +36,7 @@ definition:
 >[!Note] DEFINITION of [[epiphora]]
 >**Epiphora** is **an overflow of tears onto the face — beyond normal emotional crying — caused by either overproduction of tears (hyperlacrimation) or, more commonly, impaired drainage of tears through the nasolacrimal outflow system.** Under normal physiology, tears drain from the ocular surface through the upper and lower **puncta** → **canaliculi** → **lacrimal sac** → **nasolacrimal duct** → **inferior nasal meatus**. When any part of this pathway is obstructed, narrowed, or when the eyelid fails to maintain proper apposition to the globe (**disrupting the lacrimal pump**), tears overflow onto the cheek. From a medical-coding perspective, **epiphora** documentation must clarify: Etiology (**excess lacrimation vs. insufficient drainage**) Underlying cause (**lid malposition, punctal stenosis, nasolacrimal duct obstruction, reflex irritation**) Laterality (**right, left, bilateral**) Whether the condition is **congenital or acquired** (Excludes1 note for congenital on H04.2-) Treatment rendered (**probing, irrigation, dilation, DCR, stent placement**)
 >
->These distinctions affect both **ICD-10-CM** code specificity and CPT code selection. **Epiphora** has been described in Egyptian medical texts dating to **1500 BC** and was noted by Hippocrates (460–370 BC) — making it one of the oldest documented clinical signs in medicine. The term derives from ancient Greek *epiphora* meaning "**a bringing upon**" or "**an overflow.**"
+>These distinctions affect both **ICD-10-CM** code specificity and CPT code selection. **Epiphora** has been described in Egyptian medical texts dating to **1500 BC** and was noted by Hippocrates (460-370 BC) — making it one of the oldest documented clinical signs in medicine. The term derives from ancient Greek *epiphora* meaning "**a bringing upon**" or "**an overflow.**"
 _____
 >[!info]+ ETYMOLOGY of [[epiphora]]
 >#greek - The word derives from ancient Greek:
@@ -179,7 +179,7 @@ _____
 >
 > - **Laterality is required** for all H04.2- codes — 1 = right, 2 = left, 3 = bilateral, 9 = unspecified; always capture the side from the documentation
 >
-> - **Critical Excludes1**: Congenital malformations of lacrimal system ([[Q10.4]]–[[Q10.6]]) are Excludes1 from H04.-; for congenital NLDO, use **[[Q10.5]]** (congenital stenosis and stricture of lacrimal duct) — NOT H04.2-
+> - **Critical Excludes1**: Congenital malformations of lacrimal system ([[Q10.4]]-[[Q10.6]]) are Excludes1 from H04.-; for congenital NLDO, use **[[Q10.5]]** (congenital stenosis and stricture of lacrimal duct) — NOT H04.2-
 >
 > - **Epiphora is frequently a secondary/manifestation code**: When the underlying cause is documented ([[ectropion]], NLDO, [[dacryocystitis]], [[Bell's palsy]]), code the **primary cause first** and epiphora additionally — it supports medical necessity for both lid repair and lacrimal procedures
 >

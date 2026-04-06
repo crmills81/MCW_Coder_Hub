@@ -68,7 +68,7 @@ _____
 > |Term|Meaning|Coding Relevance|
 > |---|---|---|
 > |**[[lymphadenitis]]**|Inflammation of lymph nodes (**infectious or reactive**)|I88.- series; distinct from R59.-; used when inflammatory etiology is documented|
-> |**[[lymphadenectomy]]**|Surgical removal of lymph nodes|CPT [[38500]]–[[38780]] series; performed when **lymphadenopathy** warrants excision for staging or treatment|
+> |**[[lymphadenectomy]]**|Surgical removal of lymph nodes|CPT [[38500]]-[[38780]] series; performed when **lymphadenopathy** warrants excision for staging or treatment|
 > |**[[lymphoma]]**|Primary malignancy of lymphoid tissue|C81-C86 series; replaces R59.- once confirmed; requires pathology|
 > |**[[lymphangitis]]**|Inflammation of lymphatic vessels (not nodes)|I89.1; distinct from **lymphadenopathy**; presents as red streaks|
 > |**[[lymphedema]]**|Chronic swelling from lymphatic obstruction|I89.0 or I97.2; may develop after lymph node biopsy or excision|
@@ -146,7 +146,7 @@ _____
 >
 > - **PET scan** — malignancy staging and response assessment
 >
-> - **Lymph node biopsy / excision** ([[38500]]–[[38530]]) — definitive diagnosis
+> - **Lymph node biopsy / excision** ([[38500]]-[[38530]]) — definitive diagnosis
 
 _____
 
@@ -190,7 +190,7 @@ _____
 >
 > - **[[88307]]** (**pathology — tissue, Level V**) is the most common pathology code billed with lymph node excision; when lymphoma workup protocol is invoked, document "[[lymphoma]] protocol" or "lymphoma workup" to support [[88307]] even if lymphoma is not confirmed
 >
-> - **Bundling**: Lymph node biopsy codes (**38500 series**) are **bundled into** lymphadenectomy codes ([[38700]]–[[38780]]) — do not bill both on the same day for the same nodes
+> - **Bundling**: Lymph node biopsy codes (**38500 series**) are **bundled into** lymphadenectomy codes ([[38700]]-[[38780]]) — do not bill both on the same day for the same nodes
 >
 > - **Mediastinal adenopathy workup** may involve bronchoscopy with EBUS ([[31253]]) or mediastinoscopy ([[39400]]) for tissue sampling — add these CPT codes when performed
 >

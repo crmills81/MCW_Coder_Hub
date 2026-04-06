@@ -52,21 +52,21 @@ _____
 > [!example]+ ## **Related Terms**
 > |Term|Meaning|Coding Relevance|
 > |---|---|---|
-> |**[[entropion]]**|Inward inversion of the entire eyelid margin|Distinguished from epiblepharon — in entropion the lid margin itself inverts; different CPT (67921–67924) and ICD H02.0-|
+> |**[[entropion]]**|Inward inversion of the entire eyelid margin|Distinguished from epiblepharon — in entropion the lid margin itself inverts; different CPT (67921-67924) and ICD H02.0-|
 > |**[[trichiasis]]**|Misdirected eyelashes without lid inversion or skin fold|May coexist with or result from epiblepharon; H02.05X series; code additionally when present|
 > |**[[blepharitis]]**|Inflammation of the eyelid margins|Common secondary finding from chronic lash contact; code additionally (H01.0-)|
 > |**[[corneal abrasion]]**|Scratch to corneal epithelium from lash contact|Common complication; code additionally (S05.0-); supports medical necessity for surgery|
 > |**[[corneal ulcer]]**|Full-thickness epithelial defect from chronic lash trauma|Serious complication of untreated epiblepharon; code additionally (H16.0-)|
 > |**[[symblepharon]]**|Adhesion of eyelid conjunctiva to globe|Different congenital eyelid anomaly; Q10.3 or H02.59 series depending on etiology|
 > |**[[ectropion]]**|Outward turning of the eyelid|Opposite of entropion; not related to epiblepharon; ICD H02.1- series|
-> |**[[ptosis]]**|Drooping of the upper eyelid|Distinct condition; may coexist; different CPT (67901–67908)|
-> |**[[epiblepharon repair]]**|Surgical excision of excess skin and orbicularis muscle fold|Coded under eyelid repair CPT range with E1–E4 modifiers|
+> |**[[ptosis]]**|Drooping of the upper eyelid|Distinct condition; may coexist; different CPT ([[67901]]-[[67908]])|
+> |**[[epiblepharon repair]]**|Surgical excision of excess skin and orbicularis muscle fold|Coded under eyelid repair CPT range with E1-E4 modifiers|
 
 _____
 
 > [!success]+ ## **Common Medical Terms Using the Root**
 >
-> - **Blepharitis** - Inflammation of the eyelid (*[[blephar-]]* + *[[-itis]]* = inflammation)
+> - **[[Blepharitis]]** - Inflammation of the eyelid (*[[blephar-]]* + *[[-itis]]* = inflammation)
 >
 > - **[[blepharoplasty]]** - Surgical repair/reconstruction of the eyelid (*blephar-* + *[[-plasty]]* = molding/forming)
 >
@@ -113,7 +113,7 @@ _____
 >
 > - **Lubricating drops/ointment** to protect corneal surface while awaiting resolution
 >
-> - **Surgical intervention** indicated when: corneal staining is present, symptoms are significant, or the condition fails to resolve by age 4–6
+> - **Surgical intervention** indicated when: corneal staining is present, symptoms are significant, or the condition fails to resolve by age 4-6
 >
 > ## Surgical Repair
 >
@@ -147,7 +147,7 @@ _____
 >
 > - "Bilateral lower lid procedure" (**flags need for bilateral modifier**)
 >
-> - "Right/left upper/lower eyelid" (**determines E1–E4 modifier selection**)
+> - "Right/left upper/lower eyelid" (**determines E1-E4 modifier selection**)
 >
 > - "Congenital eyelid anomaly" (**confirms Q10.3 — do NOT use H02.0-**)
 >
@@ -163,7 +163,7 @@ _____
 >
 > - **CPT code selection** follows the same eyelid repair range as entropion: the skin-muscle [[excision]] procedure most closely maps to **[[67923]]** (**excision tarsal wedge**) or **[[67924]]** (**extensive repair**) depending on complexity and payer — verify with operative report specificity
 >
-> - **-E1–-E4 eyelid modifiers are REQUIRED** — do **NOT** use [[-LT]]/[[-RT]] for eyelid repair codes
+> - **-E1--E4 eyelid modifiers are REQUIRED** — do **NOT** use [[-LT]]/[[-RT]] for eyelid repair codes
 >
 > - **-E1** = upper left | **-E2** = lower left | **-E3** = upper right | **-E4** = lower right
 >
@@ -173,7 +173,7 @@ _____
 >
 > - **Medical necessity documentation** must demonstrate functional impairment (corneal contact, staining, symptoms) — insurers will deny cosmetic-appearing oculoplastic procedures without it
 >
-> - **Acquired epiblepharon** from thyroid eye disease is coded differently — use appropriate thyroid ophthalmopathy code (**[[E05.00]]**–**[[E05.91]]** with **H06.3-**) alongside any eyelid repair code
+> - **Acquired epiblepharon** from thyroid eye disease is coded differently — use appropriate thyroid ophthalmopathy code (**[[E05.00]]**-**[[E05.91]]** with **H06.3-**) alongside any eyelid repair code
 >
 > ## **ICD-10-CM Diagnosis Codes**
 >
@@ -198,7 +198,7 @@ _____
 > | **[[67924]]** | Repair of entropion; **extensive** (e.g., skin-muscle excision with retractor reattachment and crease formation) — used when repair is complex |
 > | **[[67921]]** | Repair of entropion; **suture** — temporary/minor epiblepharon correction with everting sutures |
 >
-> ## **Required Eyelid Modifiers (E1–E4)**
+> ## **Required Eyelid Modifiers (E1-E4)**
 >
 > | Modifier | Eyelid |
 > |---|---|

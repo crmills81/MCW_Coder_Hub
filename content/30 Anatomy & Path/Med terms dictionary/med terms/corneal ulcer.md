@@ -58,13 +58,13 @@ _____
 > [!example]+ ## **Related Terms**
 > |Term|Meaning|Coding Relevance|
 > |---|---|---|
-> |**[[corneal abrasion]]**|Scratch confined to epithelium only; does not penetrate Bowman membrane|S05.0- series; distinct from corneal ulcer; no stromal involvement; heals in 24–72 hours|
+> |**[[corneal abrasion]]**|Scratch confined to epithelium only; does not penetrate Bowman membrane|S05.0- series; distinct from corneal ulcer; no stromal involvement; heals in 24-72 hours|
 > |**[[keratitis]]**|Inflammation of the cornea without necessarily an open ulcer|H16.1- series; may precede or coexist with ulcer; document clearly which is present|
 > |**[[hypopyon]]**|Pus (white cells) layered in the anterior chamber; sign of severe infection|H16.03- series; signals aggressive infection or perforation risk; code type-specifically|
 > |**[[endophthalmitis]]**|Infection of the intraocular cavity; catastrophic complication|H44.0- series; code additionally when present; changes management entirely|
 > |**[[iritis]]**|Inflammation of the iris; common reactive complication|H20.0- series; code additionally when documented|
 > |**[[descemetocele]]**|Herniation of Descemet membrane through a deep ulcer; pre-perforation|H18.7- series; surgical emergency; supports keratoplasty medical necessity|
-> |**Mooren's ulcer**|Idiopathic peripheral ulcerative keratitis; autoimmune etiology|H16.051–H16.059; distinct from infectious ulcer; may require systemic immunosuppression|
+> |**Mooren's ulcer**|Idiopathic peripheral ulcerative keratitis; autoimmune etiology|H16.051-H16.059; distinct from infectious ulcer; may require systemic immunosuppression|
 > |**neurotrophic keratitis**|Corneal ulceration from loss of corneal sensation (CN V)|H16.23- series; associated with [[Bell's palsy]], diabetes, herpetic disease|
 > |**[[exposure keratopathy]]**|Corneal ulceration from chronic drying due to incomplete lid closure|H16.23- or H16.0- depending on severity; associated with [[lagophthalmos]] and [[Bell's palsy]]|
 > |**[[corneal scar]]**|Residual opacity after corneal ulcer healing|H17.- series; may require keratoplasty; code as sequela|
@@ -160,21 +160,21 @@ _____
 >
 > - "Fluorescein staining — positive ulcer base"
 >
-> - "Hypopyon present" (→ [[H16.031]]–[[H16.039]])
+> - "Hypopyon present" (→ [[H16.031]]-[[H16.039]])
 >
 > - "Corneal scraping sent for culture"
 >
 > - "Dendritic ulcer" / "HSV keratitis" (→ [[B00.52]])
 >
-> - "Mycotic / fungal keratitis" (→ [[H16.061]]–[[H16.069]])
+> - "Mycotic / fungal keratitis" (→ [[H16.061]]-[[H16.069]])
 >
 > - "Acanthamoeba" (→ [[B60.13]])
 >
-> - "Mooren's ulcer" (→ [[H16.051]]–[[H16.059]])
+> - "Mooren's ulcer" (→ [[H16.051]]-[[H16.059]])
 >
 > - "Descemetocele" / "pre-perforation" (→ surgical emergency; supports keratoplasty)
 >
-> - "Corneal perforation" (→ [[H16.071]]–[[H16.079]])
+> - "Corneal perforation" (→ [[H16.071]]-[[H16.079]])
 >
 > - "Penetrating keratoplasty performed" (→ CPT [[65730]] / [[65755]])
 >

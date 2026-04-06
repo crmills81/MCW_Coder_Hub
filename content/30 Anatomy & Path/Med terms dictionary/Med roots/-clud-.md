@@ -34,7 +34,7 @@ _____
 >- **Grammatical function in Latin**: Verb root combined with directional prefixes to create new verbs expressing *how* something is shut
 >- **Meaning evolution**:
 >    - **Classical Latin**: *claudere* = to close a door, gate, or passage; *occludere* = to shut against/block; *includere* = to shut in; *excludere* = to shut out
->    - **Medical Latin (17th–19th c.)**: Extended to describe vascular, dental, and anatomical blockages and closures
+>    - **Medical Latin (17th-19th c.)**: Extended to describe vascular, dental, and anatomical blockages and closures
 >    - **Modern medical usage**: Standardized across cardiology, dentistry, ophthalmology, and vascular medicine
 >- **Entry into English**: Via Old French *[[-clure]] / [[-clusion]]* and directly from Latin past participle stems
 >- **Key prefix combinations with -clud-**:

@@ -33,7 +33,7 @@ _____
 >    - **Hellenistic/medical Greek**: Shifted to describe the **pathological state or process** (what is being healed)
 >    - **Latin medical adoption**: Formalized as **[[-iasis]]** in New Latin for naming chronic conditions and infestations
 >    - **Modern English**: Standardized in clinical terminology for **parasitic, fungal, lithiasis (stone-forming), and other chronic conditions**
->- **Entry into English**: Via New Latin medical vocabulary, widely adopted in the **18th–19th centuries** as taxonomy of infectious and parasitic diseases expanded
+>- **Entry into English**: Via New Latin medical vocabulary, widely adopted in the **18th-19th centuries** as taxonomy of infectious and parasitic diseases expanded
 >- **Variant form**: **[[-asis]]** appears in older or simplified compound forms (e.g., [[psoriasis]], [[mydriasis]]); **-iasis** is the productive modern form (e.g., [[cholelithiasis]], [[ureterolithiasis]])
 >- **Related suffixes**: [[-osis]] (condition/process, often degenerative), [[-ia]] (disease/abnormal state), [[-ism]] (condition/state)
 

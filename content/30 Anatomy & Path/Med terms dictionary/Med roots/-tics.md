@@ -38,6 +38,6 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-^a13a25
+
 
 [[Med roots dictionary]]

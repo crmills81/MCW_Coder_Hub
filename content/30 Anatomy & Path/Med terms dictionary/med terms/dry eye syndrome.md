@@ -53,22 +53,22 @@ definition:
 > | Term | Relationship |
 > |---|---|
 > |**Dry eye disease (DED)**|Current preferred research/clinical term (TFOS DEWS II 2017); same ICD-10 codes as DES|
-> |**Keratoconjunctivitis sicca (KCS)**|Latin clinical term; more severe spectrum involving corneal changes; coded **[[H16.221]]**–**[[H16.229]]** when not Sjögren's related|
+> |**Keratoconjunctivitis sicca (KCS)**|Latin clinical term; more severe spectrum involving corneal changes; coded **[[H16.221]]**-**[[H16.229]]** when not Sjögren's related|
 > |**Tear film insufficiency**|ICD-10-CM "includes" note under H04.12x — if provider documents this term, use H04.12x family|
-> |**Aqueous tear deficiency (ADDE)**|Subtype: insufficient lacrimal gland production; coded **[[H04.121]]**–**[[H04.129]]**|
+> |**Aqueous tear deficiency (ADDE)**|Subtype: insufficient lacrimal gland production; coded **[[H04.121]]**-**[[H04.129]]**|
 > |**Evaporative dry eye (EDE)**|Subtype: meibomian gland dysfunction; most common DES type; same H04.12x codes unless corneal involvement present|
 > |**Meibomian gland dysfunction (MGD)**|Primary cause of evaporative DES; no separate ICD-10 code — coded under H04.12x or H16.22x depending on severity|
 > |**Sjögren's syndrome KCS**|Autoimmune; coded **[[M35.01]]** — do NOT use H04.12x or H16.22x when Sjögren's is the documented etiology; M35.01 includes the keratoconjunctivitis|
 > |**Sicca syndrome**|Older term for Sjögren's-related dry eye/dry mouth complex; coded **[[M35.01]]** when Sjögren's documented|
-> |**Filamentary keratitis**|Complication of severe DES; mucous filaments adherent to corneal surface; coded **[[H16.121]]**–**[[H16.129]]**|
-> |**Neurotrophic keratitis**|Corneal desensitization from severe DES or prior herpetic disease; coded **[[H16.231]]**–**[[H16.239]]**; may require amniotic membrane treatment|
+> |**Filamentary keratitis**|Complication of severe DES; mucous filaments adherent to corneal surface; coded **[[H16.121]]**-**[[H16.129]]**|
+> |**Neurotrophic keratitis**|Corneal desensitization from severe DES or prior herpetic disease; coded **[[H16.231]]**-**[[H16.239]]**; may require amniotic membrane treatment|
 
 ---
 
 > [!danger]+ ### 🔗 RELATED TERMS
 >
 > - **Tear film** — three-layer structure (outer lipid/meibomian layer, middle aqueous/lacrimal layer, inner mucin/goblet cell layer); disruption of any layer causes DES; the lipid layer is assessed by TBUT (tear break-up time)
-> - **Meibomian glands** — modified sebaceous glands in the tarsal plates of upper and lower lids (~25–30 per lid); secrete lipid layer of tear film; their dysfunction (MGD) is the leading cause of evaporative DES; assessed by lid margin examination, meibography
+> - **Meibomian glands** — modified sebaceous glands in the tarsal plates of upper and lower lids (~25-30 per lid); secrete lipid layer of tear film; their dysfunction (MGD) is the leading cause of evaporative DES; assessed by lid margin examination, meibography
 > - **Lacrimal gland** — produces the aqueous tear layer; failure = aqueous deficient DES; most severe in Sjögren's syndrome; assessed by Schirmer's test
 > - **Goblet cells** — mucin-secreting cells of the conjunctival epithelium; produce the mucin layer that anchors the tear film to the ocular surface; reduced in vitamin A deficiency and cicatricial conjunctival diseases
 > - **Sjögren's syndrome** — [[autoimmune]] exocrinopathy destroying lacrimal and salivary glands; most severe ADDE etiology; coded **[[M35.01]]** (primary) — excludes H04.12x and H16.22x by their own Excludes1 note
@@ -77,11 +77,11 @@ definition:
 > - **Intense pulsed light (IPL)** — light-based treatment targeting abnormal telangiectasias of the lid margin, reducing meibomian gland inflammation; no dedicated CPT — reported as **[[17999]]** (unlisted) or **0563T** with payer verification
 > - **Cyclosporine ophthalmic (Restasis/Cequa)** — prescription anti-inflammatory eye drop; first-line Rx therapy for moderate DES; reduces T-cell mediated lacrimal inflammation; not separately CPT-billable — managed via E/M
 > - **Lifitegrast (Xiidra)** — LFA-1 antagonist Rx eye drop; second major Rx dry eye therapy; same billing approach as cyclosporine
-> - **Amniotic membrane (Prokera/BioTissue)** — self-retaining biologic ocular surface device; used for DEWS Stage 3–4; CPT **[[65778]]** (without sutures); requires documented failure of ≥4 weeks conservative therapy per LCD
+> - **Amniotic membrane (Prokera/BioTissue)** — self-retaining biologic ocular surface device; used for DEWS Stage 3-4; CPT **[[65778]]** (without sutures); requires documented failure of ≥4 weeks conservative therapy per LCD
 > - **Schirmer's test** — diagnostic strip test measuring aqueous tear production; no separate CPT — included in comprehensive eye exam (**[[92004]]**/**[[92014]]**) documentation
 > - **TBUT (Tear Break-Up Time)** — fluorescein staining measurement of tear film stability; short TBUT = evaporative dry eye; no separate CPT — included in exam E/M
 > - **Corneal staining** — fluorescein or rose bengal/lissamine green staining to assess epithelial damage from DES; graded with Oxford or CCLRU scales; supports medical necessity documentation; included in comprehensive exam
-> - **[[Blepharitis]]** — eyelid margin inflammation; strongly associated with and perpetuates MGD-driven DES; coded by type — anterior (**[[H01.001]]**–**[[H01.009]]**) or posterior (seborrheic/meibomian); code both when concurrent with DES
+> - **[[Blepharitis]]** — eyelid margin inflammation; strongly associated with and perpetuates MGD-driven DES; coded by type — anterior (**[[H01.001]]**-**[[H01.009]]**) or posterior (seborrheic/meibomian); code both when concurrent with DES
 
 ---
 
@@ -135,7 +135,7 @@ definition:
 >
 > ## 🔧 CPT Codes — Dry Eye Evaluation & Treatment
 >
-> > **⚠️ Schirmer's test, TBUT, and corneal staining are NOT separately billable CPT services — they are included in the comprehensive eye exam (92004/92014) or E/M visit and cannot be billed as standalone codes. CPT 0207T (LipiFlow/TearCare thermal pulsation) is a Category III code — Medicare does NOT reimburse; most commercial payers also do not cover; verify payer-by-payer before billing. CPT 65778 (amniotic membrane) requires documented Stage 3–4 severity and failure of ≥4 weeks conservative therapy per Medicare LCD.**
+> > **⚠️ Schirmer's test, TBUT, and corneal staining are NOT separately billable CPT services — they are included in the comprehensive eye exam (92004/92014) or E/M visit and cannot be billed as standalone codes. CPT 0207T (LipiFlow/TearCare thermal pulsation) is a Category III code — Medicare does NOT reimburse; most commercial payers also do not cover; verify payer-by-payer before billing. CPT 65778 (amniotic membrane) requires documented Stage 3-4 severity and failure of ≥4 weeks conservative therapy per Medicare LCD.**
 >
 > ### Eye Examination E/M — Foundation of DES Management
 >
@@ -152,7 +152,7 @@ definition:
 >
 > | CPT Code | Description |
 > |---|---|
-> |**[[68761]]**|Closure of lacrimal punctum; by plug, each *(punctal plug insertion — billed **per punctum**; commonly 2–4 plugs per session; modifiers -E1 through -E4 required for each punctum treated)*|
+> |**[[68761]]**|Closure of lacrimal punctum; by plug, each *(punctal plug insertion — billed **per punctum**; commonly 2-4 plugs per session; modifiers -E1 through -E4 required for each punctum treated)*|
 > |**[[68801]]**|Dilation of lacrimal punctum, with or without irrigation *(preparatory dilation before plug placement — check NCCI; may bundle with 68761 same punctum same day)*|
 >
 > ### Meibomian Gland Treatments
@@ -167,7 +167,7 @@ definition:
 >
 > | CPT Code | Description |
 > |---|---|
-> |**[[65778]]**|Placement of amniotic membrane on ocular surface; without sutures *(self-retaining device [Prokera] — DEWS Stage 3–4 severe dry eye; 10-day global period; requires documented conservative therapy failure)*|
+> |**[[65778]]**|Placement of amniotic membrane on ocular surface; without sutures *(self-retaining device [Prokera] — DEWS Stage 3-4 severe dry eye; 10-day global period; requires documented conservative therapy failure)*|
 > |**[[65779]]**|Placement of amniotic membrane on ocular surface; with sutures *(sutured amniotic membrane application — more complex; 10-day global)*|
 > |**[[92285]]**|External ocular photography with interpretation and report; for documentation of medical progress *(anterior segment photography documenting corneal staining severity — supports medical necessity for advanced DES treatments)*|
 >

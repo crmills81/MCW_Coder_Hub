@@ -36,12 +36,12 @@ definition:
 >[!Note] DEFINITION of [[Bell's palsy]]
 >**Bell's palsy** is **an acute, idiopathic, unilateral paralysis or paresis of the facial nerve (cranial nerve VII) resulting in sudden, usually temporary weakness or complete paralysis of all the muscles of facial expression on the affected side.** It is the most common cause of acute facial nerve palsy, accounting for approximately **51% of all CN VII palsy cases**. It is a **diagnosis of exclusion** — other identifiable causes of facial palsy (Lyme disease, Ramsay Hunt syndrome, tumor, stroke, trauma) must first be ruled out. The nerve becomes inflamed and swollen — most likely triggered by reactivation of herpes simplex virus (HSV-1) — within the tight bony facial canal, causing ischemia and demyelination. From a medical-coding perspective, Bell's palsy documentation must clarify: Laterality (though [[G51.0]] does not require a laterality code — it is a **single billable code** for the condition) Concurrent ocular complications ([[lagophthalmos]], [[paralytic ectropion]], [[exposure keratopathy]]) Complicating conditions ([[synkinesis]], [[crocodile tear syndrome]]) Diagnostic studies performed (**EMG, ENoG, imaging**) Treatment rendered (**corticosteroids, antivirals, eye protection, PT/OT**)
 >
->These distinctions affect additional diagnosis code assignment, CPT selection, and medical necessity documentation. The condition is named after **Sir Charles Bell** (1774–1842), a Scottish surgeon and anatomist who first described the anatomy of the facial nerve and its associated palsy in 1821. The word *palsy* derives from Old French *paralisie*, itself from Latin/Greek *paralysis* (a loosening, disabling).
+>These distinctions affect additional diagnosis code assignment, CPT selection, and medical necessity documentation. The condition is named after **Sir Charles Bell** (1774-1842), a Scottish surgeon and anatomist who first described the anatomy of the facial nerve and its associated palsy in 1821. The word *palsy* derives from Old French *paralisie*, itself from Latin/Greek *paralysis* (a loosening, disabling).
 _____
 >[!info]+ ETYMOLOGY of [[Bell's palsy]]
 >#eponym #oldfrench #latin #greek - The term is an eponym combined with a Middle English/Old French root:
 >
->**Bell's**: Named after **Sir Charles Bell** (1774–1842), Scottish surgeon and anatomist who described the condition and the facial nerve anatomy; the facial nerve is sometimes called the "nerve of Bell" in his honor
+>**Bell's**: Named after **Sir Charles Bell** (1774-1842), Scottish surgeon and anatomist who described the condition and the facial nerve anatomy; the facial nerve is sometimes called the "nerve of Bell" in his honor
 >
 >[[palsy]]: From Old French *paralisie* → Medieval Latin *paralisis* → Greek *paralysis* (παράλυσις), meaning "**a loosening**" or "**a disabling**," derived from *paralyein* ("**to disable on one side**"), combining *para-* ("**beside, alongside**") + *lyein* ("**to loosen**")
 >
@@ -56,14 +56,14 @@ _____
 > |---|---|---|
 > |**[[Ramsay Hunt syndrome]]**|VZV (varicella-zoster) reactivation at geniculate ganglion with CN VII palsy + vesicles|[[B02.21]]; Distinguished from Bell's palsy by presence of ear vesicles and pain; do NOT use G51.0|
 > |**[[lagophthalmos]]**|Inability to fully close the eyelid|[[H02.20-]] series; major ocular complication of Bell's palsy; code additionally|
-> |**[[paralytic ectropion]]**|Outward sagging of lower lid due to orbicularis weakness|[[H02.151]]–[[H02.156]]; sequence G51.0 first; ectropion is the manifestation|
+> |**[[paralytic ectropion]]**|Outward sagging of lower lid due to orbicularis weakness|[[H02.151]]-[[H02.156]]; sequence G51.0 first; ectropion is the manifestation|
 > |**[[exposure keratopathy]]**|Corneal damage from incomplete eyelid closure and dryness|[[H16.-]] series; code additionally when documented|
 > |**[[synkinesis]]**|Involuntary co-contraction of facial muscles during recovery; aberrant nerve regeneration|[[G51.8]]; common late complication; may require botulinum toxin injection|
 > |**[[crocodile tear syndrome]]**|Gustatolacrimal reflex; tearing while eating due to aberrant regeneration|[[G51.8]]; also called Bogorad's syndrome|
 > |**[[hemifacial spasm]]**|Involuntary unilateral facial muscle contractions|[[G51.3]]; distinct from Bell's palsy; may result from aberrant recovery|
 > |**[[Melkersson's syndrome]]**|Recurrent facial palsy with facial edema and scrotal tongue|[[G51.2]]; rare; recurrent Bell's-like episodes; distinct code|
 > |**[[facial nerve]]**|Cranial nerve VII; controls facial expression, taste (anterior 2/3 tongue), lacrimation, salivation|Anatomical structure affected; relevant for operative reports involving decompression|
-> |**[[House-Brackmann scale]]**|Grading system (I–VI) for facial nerve function|Documentation tool; Grade I = normal; Grade VI = complete paralysis; used for medical necessity of interventions|
+> |**[[House-Brackmann scale]]**|Grading system (I-VI) for facial nerve function|Documentation tool; Grade I = normal; Grade VI = complete paralysis; used for medical necessity of interventions|
 
 _____
 
@@ -92,7 +92,7 @@ _____
 >
 > - **Risk factors**: Diabetes mellitus, pregnancy (especially third trimester), upper respiratory infection, immunosuppression
 >
-> - **Demographics**: Affects all ages; peak incidence 15–45 years; equal sex distribution; slight increase in pregnancy
+> - **Demographics**: Affects all ages; peak incidence 15-45 years; equal sex distribution; slight increase in pregnancy
 >
 > ## Signs & Symptoms
 >
@@ -150,7 +150,7 @@ _____
 >
 > - "Eye unable to close — [[lagophthalmos]]" (**→ add H02.20- series**)
 >
-> - "Lower lid sagging" (**→ add [[H02.151]]–[[H02.156]] paralytic ectropion**)
+> - "Lower lid sagging" (**→ add [[H02.151]]-[[H02.156]] paralytic ectropion**)
 >
 > - "Artificial tears and eye patch prescribed" (**documents ocular protection**)
 >
@@ -170,7 +170,7 @@ _____
 >
 > - **Bell's palsy is a diagnosis of exclusion** — the clinical documentation must support that other causes were ruled out; if Lyme disease is confirmed, use [[A69.22]] not **G51.0**; if herpes zoster, use [[B02.21]] (Ramsay Hunt) not **G51.0**
 >
-> - **Ocular complications MUST be coded additionally** — [[lagophthalmos]] (H02.20-) and [[paralytic ectropion]] ([[H02.151]]–[[H02.156]]) are separate billable diagnoses that support medical necessity for eye care and oculoplastic referrals; do not leave these off the claim
+> - **Ocular complications MUST be coded additionally** — [[lagophthalmos]] (H02.20-) and [[paralytic ectropion]] ([[H02.151]]-[[H02.156]]) are separate billable diagnoses that support medical necessity for eye care and oculoplastic referrals; do not leave these off the claim
 >
 > - **Sequencing for oculoplastic procedures**: When ectropion repair is performed secondary to Bell's palsy, **[[G51.0]] sequences first** as the underlying cause; paralytic ectropion ([[H02.152]] or [[H02.155]]) codes second as the manifestation
 >

@@ -34,7 +34,7 @@ definition:
 >[!Note] DEFINITION of [[entropion]]
 >**Entropion** is **an inward turning or inversion of the eyelid margin — most commonly the lower eyelid — causing the eyelashes and lid skin to rub directly against the corneal and conjunctival surfaces of the eye.** This constant friction produces corneal irritation, [[trichiasis]], scarring, and in severe or untreated cases, corneal ulceration and vision loss. From a medical-coding perspective, entropion documentation must clarify: Type (**involutional/senile, cicatricial, spastic, mechanical, congenital**) Laterality (**right, left, bilateral**) Eyelid (**upper vs. lower**) Surgical method (**suture, thermocauterization, tarsal wedge excision, extensive repair**)
 >
->These distinctions directly affect both the ICD-10-CM code and CPT code — including which **eyelid modifier** (E1–E4) applies. Entropion is the direct opposite of [[ectropion]] (outward turning of the eyelid). The term derives from New Latin, built on Greek roots meaning "**a turning inward.**"
+>These distinctions directly affect both the ICD-10-CM code and CPT code — including which **eyelid modifier** (E1-E4) applies. Entropion is the direct opposite of [[ectropion]] (outward turning of the eyelid). The term derives from New Latin, built on Greek roots meaning "**a turning inward.**"
 _____
 >[!info]+ ETYMOLOGY of [[entropion]]
 >#greek #newlatin - The word is composed of Greek-derived roots via New Latin:
@@ -54,14 +54,14 @@ _____
 > [!example]+ ## **Related Terms**
 > |Term|Meaning|Coding Relevance|
 > |---|---|---|
-> |**[[ectropion]]**|Outward turning of the eyelid|Opposite of entropion; separate CPT range (67914–67917); different ICD H02.1-|
+> |**[[ectropion]]**|Outward turning of the eyelid|Opposite of entropion; separate CPT range (67914-67917); different ICD H02.1-|
 > |**[[trichiasis]]**|Misdirected eyelashes rubbing cornea without lid inversion|Can coexist with entropion; H02.05X series; may be coded additionally|
 > |**[[blepharospasm]]**|Involuntary forced eyelid closure|May contribute to spastic entropion; not coded separately unless primary diagnosis|
 > |**[[lagophthalmos]]**|Inability to fully close the eyelid|May be a surgical complication of entropion repair|
 > |**[[corneal ulcer]]**|Full-thickness epithelial corneal defect|Complication of untreated entropion; code additionally (H16.0-)|
 > |**[[trachoma]]**|Chlamydial eye infection causing scarring|Leading infectious cause of cicatricial entropion worldwide; A71.- codes|
 > |**[[epiblepharon]]**|Extra skin fold turning lashes inward without true lid inversion|Congenital; often confused with entropion; excluded from H02.0-; code Q10.3|
-> |**[[ptosis]]**|Drooping eyelid|Distinct condition; different CPT (67901–67904); may coexist with entropion|
+> |**[[ptosis]]**|Drooping eyelid|Distinct condition; different CPT (67901-67904); may coexist with entropion|
 > |**[[chalazion]]**|Lipogranuloma of eyelid|Can cause mechanical entropion; coded separately (H00.1-)|
 
 _____
@@ -143,25 +143,25 @@ _____
 >
 > - "Tarsal wedge excised"
 >
-> - "Right/left upper/lower lid" (determines eyelid modifier E1–E4)
+> - "Right/left upper/lower lid" (determines eyelid modifier E1-E4)
 >
 > These help determine **type**, **laterality**, **eyelid position**, **surgical method**, and the correct **CPT code + eyelid modifier** combination.
 >
 > ## **Coder's Notes**
 >
-> - **Eyelid modifiers E1–E4 are REQUIRED** for entropion repair codes — payers will reject without them
+> - **Eyelid modifiers E1-E4 are REQUIRED** for entropion repair codes — payers will reject without them
 >
 > - **E1** = upper left eyelid | **E2** = lower left eyelid | **E3** = upper right eyelid | **E4** = lower right eyelid
 >
-> - Entropion repair codes ([[67921]]–[[67924]]) are **not** eyelid-specific in their CPT descriptor — the E modifier is what specifies which lid was repaired
+> - Entropion repair codes ([[67921]]-[[67924]]) are **not** eyelid-specific in their CPT descriptor — the E modifier is what specifies which lid was repaired
 >
-> - **Do NOT use [[LT]]/[[RT]] modifiers** for entropion repair codes — use **E1–E4** instead; [[LT]]/[[RT]] are for blepharoplasty codes
+> - **Do NOT use [[LT]]/[[RT]] modifiers** for entropion repair codes — use **E1-E4** instead; [[LT]]/[[RT]] are for blepharoplasty codes
 >
 > - **Bilateral entropion**: Some Medicare carriers require the code billed **twice** with appropriate E modifiers rather than a single line with modifier [[50]]; verify payer policy
 >
 > - **Congenital entropion** is **excluded** from H02.0- codes (Excludes1 note); use [[Q10.2]] instead — this is a hard Excludes1, not a sequencing issue
 >
-> - **[[trichiasis]] without entropion** is a distinct code set ([[H02.05X1]]–[[H02.05X9]]); do not assume they are the same condition
+> - **[[trichiasis]] without entropion** is a distinct code set ([[H02.05X1]]-[[H02.05X9]]); do not assume they are the same condition
 >
 > - When entropion and **corneal abrasion or ulcer** result from the same eyelid malposition, code both — they are not bundled
 >
@@ -203,7 +203,7 @@ _____
 > | **[[67923]]** | Repair of entropion; **excision tarsal wedge** |
 > | **[[67924]]** | Repair of entropion; **extensive** (e.g., Kuhnt-Szymanowski, tarsal strip, or retractor reinsertion) |
 >
-> ## **Required Eyelid Modifiers (E1–E4)**
+> ## **Required Eyelid Modifiers (E1-E4)**
 >
 > | Modifier | Eyelid |
 > |---|---|

@@ -31,7 +31,7 @@ _____
 >- **Grammatical function in Latin**: Combined with a preceding noun stem to form compound agent nouns and action nouns
 >- **Meaning evolution**:
 >    - **Classical Latin**: Used in legal and military contexts — *homicīda* (killer of a man), *parricīda* (killer of a parent/relative)
->    - **Scientific Latin (17th–19th c.)**: Extended broadly to chemistry and microbiology for agents that destroy microorganisms — *germicīda*, *bactericīda*
+>    - **Scientific Latin (17th-19th c.)**: Extended broadly to chemistry and microbiology for agents that destroy microorganisms — *germicīda*, *bactericīda*
 >    - **Modern medical usage**: Standardized in pharmacology, infection control, and toxicology for both **agents** (-cide) and **properties** (-cidal)
 >- **Entry into English**: Directly from Latin and via Old French *[[-cide]]*, entering English from the 14th century onward
 >- **Related roots**: Shares Latin root *caedere* with **[[-cis-]]** (cut) and **[[-sect-]]** (cut apart); distinct from Greek **-ktonia** (killing) used in *euthanasia*
@@ -71,7 +71,7 @@ _____
 >- For **[[-cidal]] drug therapies**, verify HCPCS/NDC codes for antimicrobials administered during inpatient stay
 >- Modifier **[[59]]**: May apply when a separate wound care/[[debridement]] encounter involves **-cidal** agent application distinct from another service
 >- Always distinguish **bactericidal** vs **bacteriostatic** in antimicrobial stewardship documentation — affects CC/MCC capture under ICD-10-PCS
->- **[[Homicide]]** and **[[assault]]** sequelae are coded with **external cause codes (X92–Y09 range)** — required for trauma inpatient stays
+>- **[[Homicide]]** and **[[assault]]** sequelae are coded with **external cause codes (X92-Y09 range)** — required for trauma inpatient stays
 _____
 >[!faq]+ ICD-10 & CPT Quick Reference
 >

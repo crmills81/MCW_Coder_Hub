@@ -63,13 +63,13 @@ _____
 > |---|---|---|
 > |**cervicitis**|Inflammation of the cervix|N72; Excludes1 from [[N86]] — cannot code both together; if cervicitis is present with ectropion, use N72 only|
 > |**squamocolumnar junction (SCJ)**|Anatomical transition zone where squamous meets columnar epithelium|The location of ectropion; displacement of SCJ outward defines the condition|
-> |**transformation zone**|Area of metaplastic tissue between old and new SCJ|The site of most cervical dysplasia and cancer; examined during colposcopy|
-> |**cervical dysplasia**|Precancerous changes in cervical epithelium (CIN 1–3)|N87.0–N87.9; distinguished from ectropion by cytology/histology; must rule out when treating ectropion|
-> |**cervical intraepithelial neoplasia (CIN)**|Histologic classification of cervical dysplasia|R/O during colposcopy; determines treatment pathway|
+> |**transformation zone**|Area of metaplastic tissue between old and new SCJ |The site of most cervical dysplasia and cancer; examined during colposcopy|
+> |**cervical dysplasia**|Precancerous changes in cervical epithelium (CIN 1-3)|N87.0-N87.9; distinguished from ectropion by cytology/histology; must rule out when treating ectropion|
+> |**cervical intraepithelial neoplasia (CIN)**|Histologic classification of cervical dysplasia |R/O during colposcopy; determines treatment pathway|
 > |**ectropion — eyelid**|Outward turning of the eyelid margin| H02.1- series; completely unrelated to cervical ectropion despite identical name|
-> |**nabothian cyst**|Mucus-filled cyst on ectocervix from blocked endocervical glands|Common associated finding; N88.8; may coexist with ectropion|
-> |**leukorrhea**|Excessive vaginal/cervical discharge|Common symptom of cervical ectropion; N89.8 or physiologic|
-> |**contact bleeding**|Postcoital or post-Pap bleeding from fragile columnar tissue|Key presenting complaint; supports medical necessity for treatment|
+> |**nabothian cyst**|Mucus-filled cyst on ectocervix from blocked endocervical glands |Common associated finding; N88.8; may coexist with ectropion|
+> |**leukorrhea**|Excessive vaginal/cervical discharge |Common symptom of cervical ectropion; N89.8 or physiologic|
+> |**contact bleeding**|Postcoital or post-Pap bleeding from fragile columnar tissue |Key presenting complaint; supports medical necessity for treatment|
 
 _____
 

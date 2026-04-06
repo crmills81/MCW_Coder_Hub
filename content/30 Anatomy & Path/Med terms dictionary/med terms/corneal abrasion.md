@@ -30,7 +30,7 @@ definition:
 >[!Note] DEFINITION of [[corneal abrasion]]
 >A **corneal abrasion** is **a scratch, scrape, or disruption of the epithelial layer of the cornea — the clear, dome-shaped front surface of the eye.** It does not penetrate the Bowman membrane (the layer beneath the epithelium). From a medical-coding perspective, documentation must clarify: Laterality (**right, left, bilateral**) Encounter type (**initial vs. subsequent vs. sequela**) Etiology (**foreign body, contact lens, trauma, fingernail, spontaneous**) Presence or absence of **foreign body** Concurrent injuries ([[conjunctival laceration]], [[iritis]], [[corneal ulcer]])
 >
->These distinctions directly affect ICD-10-CM code selection. **Corneal abrasion** is one of the most common ocular injuries seen in emergency departments and primary care settings. The corneal epithelium regenerates rapidly; most uncomplicated abrasions heal within **24–72 hours**. The term derives from Latin *cornea* (**horny, transparent**) and Latin *abrasio* (**a scraping**).
+>These distinctions directly affect ICD-10-CM code selection. **Corneal abrasion** is one of the most common ocular injuries seen in emergency departments and primary care settings. The corneal epithelium regenerates rapidly; most uncomplicated abrasions heal within **24-72 hours**. The term derives from Latin *cornea* (**horny, transparent**) and Latin *abrasio* (**a scraping**).
 _____
 >[!info]+ ETYMOLOGY of [[corneal abrasion]]
 >#latin - The term is composed of two Latin-derived roots:
