@@ -75,7 +75,7 @@ The prefix **anti-** indicates opposition, prevention, or action against somethi
 - **[[Antiviral]]** - against viruses  
 
 ## Documentation Clues
-- “[[Prophylaxis]]”
+- “[[prophylaxis]]”
 - “Preventive therapy”
 - “Anti‑inflammatory treatment”
 

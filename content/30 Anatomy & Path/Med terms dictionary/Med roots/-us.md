@@ -25,7 +25,7 @@ _____
 |:--------:|:---------:|:----------:|:-------------:|:----:|
 | [[-tic]] |     -     | YES, agent | pertaining to | drug |
 _____
->[!tip]+ DERIVATIONS of [[-us]]
+>[!tip]- DERIVATIONS of [[-us]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

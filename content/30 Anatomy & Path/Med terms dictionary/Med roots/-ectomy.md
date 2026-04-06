@@ -15,7 +15,7 @@ definition:
   - removal of all or part of an organ
 ---
 >[!Note] DEFINITION of [[-ectomy]]
-forms nouns: >[[ecto-|ect-]][[tom-]][[-y]] - surgical excision, removal of an organ (**condition of cutting out**); [[-ectomy]] denotes the surgical removal or resection of all or part of an anatomical structure, organ, or pathological growth, typically via incision and excision, leaving a wound that is closed or reconstructed. Common in general, orthopedic, and oncologic [[surgery]] (**e.g., appendectomy, hysterectomy**), it implies complete or partial extirpation rather than repair ([[-plasty]]) or incision ([[-tomy]]); modern usage includes minimally invasive and robotic techniques, with precise documentation critical for coding (**e.g., CPT 40000-series**).
+>forms nouns: >[[ecto-|ect-]][[tom-]][[-y]] - surgical excision, removal of an organ (**condition of cutting out**); [[-ectomy]] denotes the surgical removal or resection of all or part of an anatomical structure, organ, or pathological growth, typically via incision and excision, leaving a wound that is closed or reconstructed. Common in general, orthopedic, and oncologic [[surgery]] (**e.g., appendectomy, hysterectomy**), it implies complete or partial extirpation rather than repair ([[-plasty]]) or incision ([[-tomy]]); modern usage includes minimally invasive and robotic techniques, with precise documentation critical for coding (**e.g., CPT 40000-series**).
 _____
 >[!info]+ ETYMOLOGY of [[-ectomy]]
 >From #greek ἐκτομή (ektomḗ), meaning "*a cutting out*."

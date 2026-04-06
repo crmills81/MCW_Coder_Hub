@@ -72,7 +72,7 @@ _____
 > - **[[Perforate]]**: [[Tympanic membrane perforation]]
 >
 _____
->[!tip]- DERIVATIONS of -ate
+>[!tip]- DERIVATIONS of [[-ate]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

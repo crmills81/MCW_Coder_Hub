@@ -47,7 +47,7 @@ _____
 >**<u>Ophthalmological relevance:</u>**
 >
 >- **[[Angiectasis]]**: Dilation of blood vessels (**relevant in retinal conditions**)
->- **[[Telangiectasia]]**: Dilation of small blood vessels near the skin/mucosal surface
+>- **[[telangiectasia]]**: Dilation of small blood vessels near the skin/mucosal surface
 >
 >**<u>Otolaryngological relevance:</u>**
 >
@@ -70,7 +70,7 @@ _____
 >- **[[Atresia]]**: Absence or abnormal closure of a body opening
 >
 _____
->[!tip]+ DERIVATIONS of [[-ectasis]]
+>[!tip]- DERIVATIONS of [[-ectasis]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name

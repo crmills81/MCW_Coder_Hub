@@ -33,7 +33,7 @@ _____
 | [[Anuria]] | Absent or negligible urine production |     [[-uria]]    |   -   |
 | [[hematuria]]      |  blood in urine  |   [[-uria]]      |   -  |
 _____
->[!tip]+ DERIVATIONS of [[-uria]]
+>[!tip]- DERIVATIONS of [[-uria]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

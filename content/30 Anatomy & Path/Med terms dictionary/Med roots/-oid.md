@@ -92,7 +92,7 @@ _____
 > |Term|Root|Meaning|
 > |---|---|---|
 > |**[[Rheumatoid]]**|Greek _rheuma_ ("**flow, flux**")|Resembling rheumatic disease ​|
-> |**[[Sarcoidosis]]**|Greek _sarx_ ("**flesh**")|Flesh-like granuloma disease ​|
+> |**[[sarcoidosis]]**|Greek _sarx_ ("**flesh**")|Flesh-like granuloma disease ​|
 > |**[[Typhoid]]**|Greek _typhos_ ("**stupor**")|Typhus-like fever illness ​|
 > |**[[Mongoloid]]**|(**older/deprecated**)|Now considered offensive; historically misused diagnostic term|
 > 

@@ -75,7 +75,7 @@ _____
 
 ## Related Terms
 
-- **[[Nephrotomy]]:** Incision into kidney parenchyma ([[50040]] open).  
+- **[[nephrotomy]]:** Incision into kidney parenchyma ([[50040]] open).  
 - **[[Nephroureteral Catheter]]:** Nephrostomy + ureteral stent extension ([[50433]]).  
 - **PCNL:** Uses nephrostomy tract for stones ([[50080]]/81).  
 - **[[Suprapubic Catheter]]:** Bladder analog ([[51100]] CPT).  
