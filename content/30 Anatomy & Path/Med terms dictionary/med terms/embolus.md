@@ -59,7 +59,7 @@ _____
 > | **Septic embolus**   | Infected vegetation ([[endocarditis]])         | [[abscess]]es, mycotic aneurysm.[1] |
 > | **Cholesterol embolus** | Atheroma plaque ([[catheterization]])       | Blue toe syndrome, renal failure.[1] |
 > | **[[Amniotic]]**         | Fetal debris ([[placental abruption]])         | **DIC**, maternal collapse.[9] |
-> | **Tumor embolus**    | Malignant cells                            | [[Metastasis]].[1] |
+> | **Tumor embolus**    | Malignant cells                            | [[metastasis]].[1] |
 > 
 > ## Coding Context
 > 

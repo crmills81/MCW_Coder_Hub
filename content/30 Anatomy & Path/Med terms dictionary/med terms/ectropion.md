@@ -57,16 +57,16 @@ _____
 > [!example]+ ## **Related Terms**
 > |Term|Meaning|Coding Relevance|
 > |---|---|---|
-> |**[[entropion]]**|Inward turning of the eyelid margin|Opposite of **ectropion**; separate CPT range ([[67921]]–[[67924]]); ICD H02.0- series|
-> |**[[lagophthalmos]]**|Inability to fully close the eyelid|Major complication of **ectropion** and paralytic ectropion; H02.2- series|
-> |**[[epiphora]]**|Excessive tearing due to impaired lacrimal drainage|Cardinal symptom of **ectropion**; H04.20- series; documents medical necessity|
-> |**[[exposure keratopathy]]**|Corneal damage from chronic exposure and dryness|Complication of untreated **ectropion**; H16.- series; code additionally|
-> |**[[corneal ulcer]]**|Full-thickness [[epithelial]] corneal defect|Severe complication; H16.0- series; code additionally|
+> |**[[entropion]]**|Inward turning of the eyelid margin | Opposite of **ectropion**; separate CPT range ([[67921]]–[[67924]]); ICD H02.0- series|
+> |**[[lagophthalmos]]**|Inability to fully close the eyelid |Major complication of **ectropion** and paralytic ectropion; H02.2- series|
+> |**[[epiphora]]**|Excessive tearing due to impaired lacrimal drainage |Cardinal symptom of **ectropion**; H04.20- series; documents medical necessity|
+> |**[[exposure keratopathy]]**|Corneal damage from chronic exposure and dryness| Complication of untreated **ectropion**; H16.- series; code additionally|
+> |**[[corneal ulcer]]**|Full-thickness [[epithelial]] corneal defect| Severe complication; H16.0- series; code additionally|
 > |**[[Bell's palsy]]**|Facial nerve (CN VII) palsy causing paralytic **ectropion**|Underlying etiology for paralytic ectropion; [[G51.0]] code; sequence as primary cause|
-> |**[[cicatrix]]**|Scar tissue causing mechanical lid retraction|Etiology of cicatricial **ectropion**; [[L90.5]] (**scar**) coded as underlying cause|
-> |**[[ectablement]]** / **lid laxity**|Horizontal laxity of canthal tendons and lid retractors|Documented finding supporting surgical necessity for involutional **ectropion**|
-> |**[[epiblepharon]]**|Congenital skin fold overriding lid margin; turns lashes inward|Distinct from **ectropion**; [[Q10.3]] code; lashes go inward not outward|
-> |**[[cervical ectropion]]**|Eversion of endocervical epithelium onto ectocervix|Completely unrelated to eyelid **ectropion**; [[N86]] code; different specialty entirely|
+> |**[[cicatrix]]**|Scar tissue causing mechanical lid retraction| Etiology of cicatricial **ectropion**; [[L90.5]] (**scar**) coded as underlying cause|
+> |**ectablement** / **lid laxity**|Horizontal laxity of canthal tendons and lid retractors |Documented finding supporting surgical necessity for involutional **ectropion**|
+> |**[[epiblepharon]]**|Congenital skin fold overriding lid margin; turns lashes inward |Distinct from **ectropion**; [[Q10.3]] code; lashes go inward not outward|
+> |**[[cervical ectropion]]**|Eversion of endocervical epithelium onto ectocervix | Completely unrelated to eyelid **ectropion**; [[N86]] code; different specialty entirely|
 
 _____
 

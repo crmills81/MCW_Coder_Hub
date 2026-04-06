@@ -161,7 +161,7 @@ _____
 >
 > - **Congenital entropion** is **excluded** from H02.0- codes (Excludes1 note); use [[Q10.2]] instead — this is a hard Excludes1, not a sequencing issue
 >
-> - **[[Trichiasis]] without entropion** is a distinct code set ([[H02.05X1]]–[[H02.05X9]]); do not assume they are the same condition
+> - **[[trichiasis]] without entropion** is a distinct code set ([[H02.05X1]]–[[H02.05X9]]); do not assume they are the same condition
 >
 > - When entropion and **corneal abrasion or ulcer** result from the same eyelid malposition, code both — they are not bundled
 >

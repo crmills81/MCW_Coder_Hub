@@ -82,7 +82,7 @@ _____
 > |**[[Sclerosis]]**|Hardening/induration of tissue|
 > |**Diagnosis**|Process of determining a disease|
 > |**Prognosis**|Forecasting the disease course|
-> |**[[Metastasis]]**|Spread of disease to distant sites|
+> |**[[metastasis]]**|Spread of disease to distant sites|
 > |**[[Dialysis]]**|Process of separating/filtering _(renal replacement)_|
 > 
 _____
@@ -154,7 +154,7 @@ _____
 > |**[[52341]]**|Cystourethroscopy with treatment of ureteral stricture|
 > |**[[54161]]**|Circumcision, surgical excision _(for phimosis, age >28 days)_|
 > |**[[54200]]**|Injection procedure, Peyronie's disease|
-> |**[[67027]]**|Implantation of intravitreal drug delivery system _(siderosis/chalcosis management)_|
+> |**[[50 Medical Coding/CPT Codes/67027]]**|Implantation of intravitreal drug delivery system _(siderosis/chalcosis management)_|
 > |**[[67120]]**|Removal of implanted material, posterior segment _(foreign body → siderosis)_|
 > |**[[67530]]**|Vitreous aspiration/injection _(ocular disease processes)_|
 > |**[[31237]]**|Nasal/sinus endoscopy with biopsy _(sinusitis workup)_|

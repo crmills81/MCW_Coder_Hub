@@ -4,7 +4,9 @@ tags:
   - medroot
   - otolaryngology
   - ENT
-aliases: []
+aliases:
+  - Auricle
+  - little ear
 roots:
   - aur-
   - -cle

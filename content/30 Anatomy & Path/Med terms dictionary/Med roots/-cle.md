@@ -69,7 +69,7 @@ _____
 >
 >**ENT / Audiology:**
 >
->- **[[Ossicle]]**: Middle ear ossicles (**malleus, incus, stapes**) — ossiculoplasty CPT codes are site-specific; verify which ossicle is involved in op note
+>- **[[ossicle]]**: Middle ear ossicles (**malleus, incus, stapes**) — ossiculoplasty CPT codes are site-specific; verify which ossicle is involved in op note
 >- **[[Auricle]]**: External ear repair/reconstruction coded separately from middle/inner ear
 >
 >**Dermatology / Infectious Disease:**

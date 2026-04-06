@@ -80,7 +80,7 @@ _____
 >
 > - **[[Lymphadenopathy]]** - Disease, swelling, or abnormality of lymph nodes (*[[lymphaden-]]* + *[[-opathy]]* = **disease**)
 >
-> - **[[Lymphadenitis]]** - Inflammation of lymph nodes (*[[lymphaden-]]* + *[[-itis]]* = **inflammation**)
+> - **[[lymphadenitis]]** - Inflammation of lymph nodes (*[[lymphaden-]]* + *[[-itis]]* = **inflammation**)
 >
 > - **Lymphangitis** - Inflammation of lymphatic vessels (*[[lymph-]]* + *[[angi-]]* = **vessel** + *[[-itis]]*)
 >
@@ -135,7 +135,7 @@ _____
 >
 > ## Common Complications
 >
-> - **[[Lymphedema]]**: Most significant long-term complication; lifelong management required; ICD-10 [[I89.0]] or [[I97.2]]
+> - **[[lymphedema]]**: Most significant long-term complication; lifelong management required; ICD-10 [[I89.0]] or [[I97.2]]
 >
 > - **[[Lymphocele]]**: Fluid collection requiring drainage
 >

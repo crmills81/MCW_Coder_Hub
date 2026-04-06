@@ -74,7 +74,7 @@ _____
 >
 > - **[[blepharoptosis|Blepharoptosis]]** - Drooping of the eyelid (*[[blephar-]]* + *[[-ptosis]]* = falling)
 >
-> - **[[Symblepharon]]** - Adhesion of eyelid to globe (*[[sym-]]* = together + *-blepharon*)
+> - **[[symblepharon]]** - Adhesion of eyelid to globe (*[[sym-]]* = together + *-blepharon*)
 >
 > - **[[Ablepharon]]** - Congenital absence of eyelids (*[[a-]]* = without + *blepharon*)
 >

@@ -46,7 +46,7 @@ _____
 >4. **Erythema** - Redness of the skin due to capillary dilation
 >5. **Emphysema** - Lung condition involving damaged air sacs (**alveoli**)
 >6. **[[Hematoma]]** - Collection of blood outside blood vessels
->7. **[[Lymphedema]]** - Swelling due to lymphatic fluid accumulation
+>7. **[[lymphedema]]** - Swelling due to lymphatic fluid accumulation
 >8. **[[Myxedema]]** - Severe [[hypothyroidism]] with skin and tissue swelling
 >9. **[[Papilledema]]** - Optic disc swelling (**relevant to your ophthalmology specialty**)
 >10. **Pyoderma** - Bacterial skin infection producing pus

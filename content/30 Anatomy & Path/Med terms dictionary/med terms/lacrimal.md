@@ -41,7 +41,7 @@ _____
 > - **[[Dacryostenosis]]**: Narrowing of the lacrimal (**tear**) duct. 
 > - **[[Dacryocystorhinostomy]] (DCR)**: Surgical procedure creating a new tear drainage path into the nasal cavity. 
 > - **[[Epiphora]]**: Excessive tearing/overflow due to blocked drainage. 
-> - **[[Nasolacrimal]] duct**: Final drainage channel from lacrimal sac to nasal cavity. 
+> - **[[nasolacrimal]] duct**: Final drainage channel from lacrimal sac to nasal cavity. 
 > - Lachrymose: Non-medical adjective meaning "*tearful*" or "*given to weeping*," from the same root.
 
 _____
