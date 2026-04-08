@@ -62,7 +62,7 @@ Used for targeted muscle relaxation. Code selection is driven by the body area a
   * [[64644]]: Chemodenervation of one extremity; 5 or more muscle(s)
   * +[[64645]]: Each additional extremity, 5 or more muscle(s) *(Add-on code)*
 * **Trunk & Neck:**
-  * [[64646]]: [[Chemodenervation]] of trunk muscle(s); 1-5 muscle(s)
+  * [[64646]]: [[chemodenervation]] of trunk muscle(s); 1-5 muscle(s)
   * [[64647]]: Chemodenervation of trunk muscle(s); 6 or more muscle(s)
   * [[64616]]: Chemodenervation of neck muscle(s) (excluding larynx)
 * **Needle Guidance (Crucial to capture if documented):**
