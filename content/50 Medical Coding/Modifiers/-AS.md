@@ -19,14 +19,12 @@ descriptor: Physician assistant, nurse practitioner, or clinical nurse specialis
 category: Payment Modifiers
 global_period: Follows Primary Procedure
 wRVU: N/A (Adjusts Primary Procedure)
-peRVU: N/A
-mpRVU: N/A
-total_RVU: N/A
 assistant_surgeon_payable: Yes (Specific to NPPs)
 ncci_modifier_indicator: N/A (Applied to Primary Code)
 separate_procedure: false
 ms_drg_primary: Follows Primary Procedure
 last_updated: 2026-03-14
+status: Active ✅
 ---
 
 # ⚕️ Modifier AS Physician Assistant, Nurse Practitioner, or Clinical Nurse Specialist Assistant at Surgery

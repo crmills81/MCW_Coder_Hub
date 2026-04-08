@@ -1,6 +1,5 @@
 ---
 tags:
-  - " #medroot"
   - medroot
 aliases:
   - galact-

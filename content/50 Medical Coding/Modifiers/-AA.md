@@ -1,4 +1,11 @@
 ---
+tags:
+  - modifier
+  - anesthesia
+  - HCPCS
+  - anesthesiologist
+  - personally-performed
+  - anesthesia-payment-modifier
 title: -AA
 aliases:
   - Modifier AA
@@ -7,13 +14,6 @@ aliases:
   - AA Modifier
   - Anesthesia Personally Performed
   - Physician Personally Performed Anesthesia
-tags:
-  - modifier
-  - anesthesia
-  - HCPCS
-  - anesthesiologist
-  - personally-performed
-  - anesthesia-payment-modifier
 modifier_code: AA
 modifier_type: HCPCS Level II
 full_name: Anesthesia Services Personally Performed by Anesthesiologist
@@ -38,11 +38,11 @@ related_modifiers:
 date_created: 2026-02-23
 date_modified: 2026-02-23
 note_type: modifier-reference
-status: active
+status: Active ✅
 source: CMS Medicare Claims Processing Manual / ASA / Novitas / Palmetto GBA
 ---
 
-# ⚕️Modifier -AA: Anesthesia Services Personally Performed by Anesthesiologist
+# ⚕️ Modifier -AA: Anesthesia Services Personally Performed by Anesthesiologist
 
 ## Short Definition
 The **anesthesia** service was personally and fully performed by the **anesthesiologist** throughout the entire procedure — from **pre-anesthesia evaluation** through emergence and **post-anesthesia** care.
