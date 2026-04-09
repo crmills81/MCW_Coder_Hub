@@ -102,7 +102,7 @@ _____
 > |[[G81.91]]|Hemiplegia, unspecified affecting right dominant side|
 > |[[G81.92]]|Hemiplegia, unspecified affecting left dominant side|
 > |[[G81.93]]|Hemiplegia, unspecified affecting right nondominant side|
-> |[[G81.94]]|Hemiplegia, unspecified affecting left nondominant side|
+> |[[G81.94 1]]|Hemiplegia, unspecified affecting left nondominant side|
 > 
 > #### **Hemiplegia/Hemiparesis as Sequela of Cerebrovascular Disease (Category I69)**
 > 

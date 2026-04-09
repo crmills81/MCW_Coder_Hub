@@ -62,7 +62,7 @@ _____
 > - **Dry eye syndrome** _(H04.12x)_ — frequently co-presents with BEB; photophobia and ocular dryness often **precede** the development of **blepharospasm** by months to years
 > - **[[Photophobia]]** — light sensitivity; a common sensory prodrome and co-symptom of BEB, documented to support medical necessity
 > - **Botulinum toxin** — the primary therapeutic agent for **blepharospasm**; onabotulinumtoxinA (Botox), abobotulinumtoxinA (Dysport), incobotulinumtoxinA (Xeomin), rimabotulinumtoxinB (Myobloc)
-> - **[[Chemodenervation]]** — the procedure category; CPT **64612** — chemical destruction of nerve-muscle function by botulinum toxin injection into the orbicularis oculi
+> - **[[chemodenervation]]** — the procedure category; CPT **64612** — chemical destruction of nerve-muscle function by botulinum toxin injection into the orbicularis oculi
 > - **[[Spastic entropion]]** _(H02.04x)_ — inward rolling of the eyelid due to orbicularis spasm; may be directly caused by or co-occur with **blepharospasm**; sites and laterality required
 > - **[[Cervical dystonia]]** _(G24.3)_ — [[spasmodic torticollis]]; a related focal dystonia of the neck musculature; sometimes co-treated in the same encounter as ** blepharospasm**
 > 
@@ -83,7 +83,7 @@ _____
 > 
 > |Code|Description|
 > |---|---|
-> |[[G24.01]]|Drug-induced ** blepharospasm** — **use when blepharospasm is caused by a medication (neuroleptics, dopaminergic agents); Excludes1 from G24.5 — these codes may NEVER be reported together**|
+> |[[G24.01]]|Drug-induced ** [[blepharospasm]]** — **use when blepharospasm is caused by a medication (neuroleptics, dopaminergic agents); Excludes1 from [[G24.5]] — these codes may NEVER be reported together**|
 > 
 > #### **Related Dystonia / Neurological Codes**
 > 
@@ -92,7 +92,7 @@ _____
 > |[[G24.4]]|Idiopathic orofacial dystonia _(Meige syndrome — BEB extended to lower face, tongue, and jaw)_|
 > |[[G24.3]]|Spasmodic torticollis _(cervical dystonia; may co-occur with BEB; same botulinum toxin treatment pathway)_|
 > |[[G24.1]]|Genetic torsion dystonia _(generalized; ** blepharospasm** may be a feature in systemic dystonic syndromes)_|
-> |[[G51.3]]|Clonic hemifacial spasm _(unilateral CN VII compression; differentiated from bilateral dystonic blepharospasm; same CPT 64612)_|
+> |G51.3|Clonic hemifacial spasm _(unilateral CN VII compression; differentiated from bilateral dystonic blepharospasm; same CPT [[64612]])_|
 > 
 > #### **Associated Eyelid / Ocular Surface Codes (Secondary Diagnoses)**
 > 

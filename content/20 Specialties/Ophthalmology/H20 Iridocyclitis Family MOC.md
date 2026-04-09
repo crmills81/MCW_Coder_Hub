@@ -165,7 +165,7 @@ The following systemic and infectious conditions **replace** H20.0x-H20.9 when t
 | Syphilis (acute)         | [[A51.43]]              |
 | Late syphilis            | [[A52.71]]              |
 | Late congenital syphilis | [[A50.39]]              |
-| [[Sarcoidosis]]          | [[D86.83]]              |
+| [[sarcoidosis]]          | [[D86.83]]              |
 | Tuberculosis             | [[A18.54]]              |
 | Toxoplasmosis            | [[B58.09]]              |
 | Diabetes mellitus        | E08-E13 with .39 suffix |

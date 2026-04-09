@@ -116,7 +116,7 @@ definition:
 > | ICD-10-CM Code | Description |
 > |---|---|
 > |**[[N17.9]]**|Acute kidney injury (AKI), unspecified *(obstructive uropathy or infection may precipitate AKI; code when documented — significant CC/MCC impact)*|
-> |**[[N18.3]]**|Chronic kidney disease (CKD), stage 3 *(underlying CKD increases complexity; code when documented alongside acute renal indication)*|
+> |**N18.3-**|Chronic kidney disease (CKD), stage 3 *(underlying CKD increases complexity; code when documented alongside acute renal indication)*|
 > |**[[A41.9]]**|Sepsis, unspecified organism *(if systemic sepsis from pyonephrosis/perirenal abscess meets criteria — sequence per sepsis guidelines)*|
 > |**[[R31.0]]**|Gross hematuria *(secondary code only when gross blood in urine documented and clinically linked to renal stone by provider)*|
 >

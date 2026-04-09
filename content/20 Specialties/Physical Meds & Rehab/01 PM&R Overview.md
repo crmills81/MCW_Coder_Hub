@@ -24,9 +24,9 @@ PM&R physicians (Physiatrists) focus on enhancing and restoring functional abili
 
 **Here are the core requirements:**
 
-- **Discipline Modifiers:** Outpatient PM&R services are not payable unless billed with **-GN** (Speech-Language Pathology), **-GO** (Occupational Therapy), or **-GP** (Physical Therapy) to identify the specific plan of care under which the service was delivered.
+- **Discipline Modifiers:** Outpatient PM&R services are not payable unless billed with **-GN** (Speech-Language Pathology), **-GO** (Occupational Therapy), or **[[-GP]]** (Physical Therapy) to identify the specific plan of care under which the service was delivered.
 - **Assistant Modifiers:** You must append the **-CO** modifier for services furnished by an Occupational Therapy Assistant, or the **-CQ** modifier for a Physical Therapist Assistant.
-- **Medical Necessity Thresholds:** The **-KX** modifier is required to indicate that services are medically necessary once a patient's care exceeds standard frequency or coverage thresholds.
+- **Medical Necessity Thresholds:** The **[[-KX]]** modifier is required to indicate that services are medically necessary once a patient's care exceeds standard frequency or coverage thresholds.
 - **Inpatient Facility Coding (ICD-10-PCS):** In the hospital setting, rehabilitation procedures are classified in **Section F** (Physical Rehabilitation and Diagnostic Audiology), which categorizes interventions into specific root types like Motor Treatment, Speech Treatment, and Activities of Daily Living (ADL) Treatment.
 
 

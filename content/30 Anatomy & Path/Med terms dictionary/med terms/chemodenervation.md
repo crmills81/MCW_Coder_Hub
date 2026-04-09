@@ -37,7 +37,6 @@ forms:
 alphabet: C
 definition:
   - Reversible blockade of neuronal signaling at the neuromuscular junction achieved by intramuscular or glandular injection of botulinum neurotoxin (BoNT)
-  - Results in temporary chemical paralysis or reduced activity of targeted muscle(s) or glandular tissue by inhibiting presynaptic release of acetylcholine
 ---
 
 >[!Note] DEFINITION of [[chemodenervation]]

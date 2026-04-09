@@ -1,5 +1,3 @@
-# Medical Necessity in Rehab
-
 **Tags:** #compliance #medical-necessity #medicare
 
 ## Definition
@@ -16,7 +14,7 @@ For a service to be considered medically necessary, it must:
 
 ## Functional Improvement Standard
 > [!WARNING] Maintenance vs. Skilled Care
-> Medicare does NOT pay for maintenance therapy alone. There must be expectation of functional improvement OR skilled services needed to establish/maintain a maintenance program.
+> Medicare does **NOT** pay for maintenance therapy alone. There must be expectation of functional improvement OR skilled services needed to establish/maintain a maintenance program.
 
 ## Documentation Elements
 | Element | Requirement |

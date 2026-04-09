@@ -55,12 +55,12 @@ _____
 > |Term|Meaning|Coding Relevance|
 > |---|---|---|
 > |**[[Ramsay Hunt syndrome]]**|VZV (varicella-zoster) reactivation at geniculate ganglion with CN VII palsy + vesicles|[[B02.21]]; Distinguished from Bell's palsy by presence of ear vesicles and pain; do NOT use G51.0|
-> |**[[lagophthalmos]]**|Inability to fully close the eyelid|[[H02.20-]] series; major ocular complication of Bell's palsy; code additionally|
+> |**[[lagophthalmos]]**|Inability to fully close the eyelid|H02.20- series; major ocular complication of Bell's palsy; code additionally|
 > |**[[paralytic ectropion]]**|Outward sagging of lower lid due to orbicularis weakness|[[H02.151]]-[[H02.156]]; sequence G51.0 first; ectropion is the manifestation|
-> |**[[exposure keratopathy]]**|Corneal damage from incomplete eyelid closure and dryness|[[H16.-]] series; code additionally when documented|
+> |**[[exposure keratopathy]]**|Corneal damage from incomplete eyelid closure and dryness|H16.- series; code additionally when documented|
 > |**[[synkinesis]]**|Involuntary co-contraction of facial muscles during recovery; aberrant nerve regeneration|[[G51.8]]; common late complication; may require botulinum toxin injection|
 > |**[[crocodile tear syndrome]]**|Gustatolacrimal reflex; tearing while eating due to aberrant regeneration|[[G51.8]]; also called Bogorad's syndrome|
-> |**[[hemifacial spasm]]**|Involuntary unilateral facial muscle contractions|[[G51.3]]; distinct from Bell's palsy; may result from aberrant recovery|
+> |**[[hemifacial spasm]]**|Involuntary unilateral facial muscle contractions| G51.3; distinct from Bell's palsy; may result from aberrant recovery|
 > |**[[Melkersson's syndrome]]**|Recurrent facial palsy with facial edema and scrotal tongue|[[G51.2]]; rare; recurrent Bell's-like episodes; distinct code|
 > |**[[facial nerve]]**|Cranial nerve VII; controls facial expression, taste (anterior 2/3 tongue), lacrimation, salivation|Anatomical structure affected; relevant for operative reports involving decompression|
 > |**[[House-Brackmann scale]]**|Grading system (I-VI) for facial nerve function|Documentation tool; Grade I = normal; Grade VI = complete paralysis; used for medical necessity of interventions|
@@ -71,11 +71,11 @@ _____
 >
 > - **Facial palsy** - Synonymous clinical term; covers all causes of CN VII weakness (Bell's, Ramsay Hunt, Lyme, tumor)
 >
-> - **Hemiplegia** - Paralysis of one half of the body (*hemi-* = half + *-plegia* = paralysis); shares palsy/paralysis concept
+> - **Hemiplegia** - Paralysis of one half of the body (*[[hemi-]]* = half + *[[-plegia]]* = paralysis); shares palsy/paralysis concept
 >
-> - **Diplegia** - Bilateral paralysis (*di-* = two + *-plegia*)
+> - **Diplegia** - Bilateral paralysis (*[[di-]]* = two + *[[-plegia]]*)
 >
-> - **Paraplegia** - Paralysis of lower limbs (*para-* = beside + *-plegia*)
+> - **Paraplegia** - Paralysis of lower limbs (*[[para-]]* = beside + *-plegia*)
 >
 > - **Palsy** - General medical term for paralysis or uncontrolled movement; used in cerebral palsy, shaking palsy (Parkinson's), etc.
 >
@@ -202,7 +202,7 @@ _____
 > | **[[H16.101]]** | Unspecified superficial keratitis, right eye *(exposure keratopathy; code additionally)* |
 > | **[[H16.102]]** | Unspecified superficial keratitis, left eye |
 > | **[[G51.2]]** | Melkersson's syndrome *(recurrent facial palsy variant; distinct from Bell's)* |
-> | **[[G51.3]]** | Clonic hemifacial spasm *(late complication or separate diagnosis)* |
+> | **G51.3** | Clonic hemifacial spasm *(late complication or separate diagnosis)* |
 > | **[[G51.8]]** | Other disorders of facial nerve — **synkinesis, crocodile tear syndrome** *(late Bell's palsy complications)* |
 > | **[[B02.21]]** | Postherpetic geniculate ganglionitis / Ramsay Hunt syndrome *(differential; rule out before coding G51.0)* |
 > | **[[A69.22]]** | Lyme disease with other neurological disorders *(facial palsy from Lyme; rule out before coding G51.0)* |

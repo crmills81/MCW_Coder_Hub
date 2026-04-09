@@ -2,7 +2,7 @@
 # The Facility Billing Handbook: A New Learner’s Guide to Surgical Billing
 
 ---
-
+%%remember to test this tomorrow%%
 ## 1. Welcome to the World of Medical Billing
 
 Medical billing is the financial engine of healthcare. Every surgery, every supply, every minute of OR time must be translated into standardized codes so facilities can be reimbursed accurately. Without billing, even the most advanced surgical center would collapse under the weight of unpaid services.

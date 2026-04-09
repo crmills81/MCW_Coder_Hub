@@ -477,7 +477,7 @@ last_updated: 2026-02-10
 **Chronic Kidney Disease (CKD):**
 - **[[N18.1]]** - Chronic kidney disease, stage 1
 - **[[N18.2]]** - Chronic kidney disease, stage 2 (mild)
-- **[[N18.3]]** - Chronic kidney disease, stage 3 (moderate)
+- **N18.3-** - Chronic kidney disease, stage 3 (moderate)
 - **[[N18.4]]** - Chronic kidney disease, stage 4 (severe)
 - **[[N18.5]]** - Chronic kidney disease, stage 5 (ESRD)
 - **[[N18.6]]** - End stage renal disease (on dialysis)

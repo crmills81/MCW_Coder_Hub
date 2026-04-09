@@ -105,7 +105,7 @@ definition:
 > |**[[Z85.528]]**|Personal history of malignant neoplasm of other urinary organs *(post-RNU surveillance visits — replaces C65/C66 once no evidence of disease; signals prior UTUC history)*|
 > |**[[Z80.51]]**|Family history of malignant neoplasm of kidney *(relevant for Lynch syndrome workup context)*|
 > |**[[N17.9]]**|Acute kidney injury, unspecified *(obstructive uropathy from ureteral UTUC causing AKI — code when documented; significant CC/MCC impact on inpatient DRG)*|
-> |**[[N18.3]]**|Chronic kidney disease, stage 3 *(pre-existing CKD with solitary kidney or bilateral disease — affects surgical planning and coding complexity)*|
+> |**N18.3-**|Chronic kidney disease, stage 3 *(pre-existing CKD with solitary kidney or bilateral disease — affects surgical planning and coding complexity)*|
 >
 > ---
 >

@@ -1,13 +1,13 @@
 ---
-title: Amputation Care & Prosthetics Coding Guidelines
-date: 2026-03-26
-category: PM&R
 tags:
   - ICD-10
   - physical-medicine
   - amputation
   - prosthetics
   - pain-management
+title: Amputation Care & Prosthetics Coding Guidelines
+date: 2026-03-26
+category: PM&R
 aliases:
   - Phantom Limb Pain
   - Stump Care
