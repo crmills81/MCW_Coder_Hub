@@ -5,6 +5,14 @@ tags:
   - urology
   - specialty/urology
 aliases:
+  - bladder inflammation
+  - Interstitial cystitis
+  - bacterial cystitis
+  - Cystitis
+  - nephritis
+  - acute cystitis
+  - pyelocystitis
+  - cystoureteropyelonephritis
 roots:
   - cysti-
   - -itis
@@ -14,11 +22,11 @@ forms:
   - suffix
   - combining
 alphabet: C
-definition:
-  - inflammation of the bladder lining
 ICD-10 Code: N30.00
+definition: inflammation of the bladder lining
 ---
 >[!Note] DEFINITION of **[[cystitis]]**
+>**Cystitis** is the medical term for **inflammation of the bladder**, most commonly caused by a bacterial infection. While it is a type of **urinary tract infection (UTI)**, inflammation can also occur due to non-infectious causes like certain **medications**, **radiation therapy**, or **irritation from hygiene products**. [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/cystitis/symptoms-causes/syc-20371306 "Source")
 >**Acute bacterial [[cystitis]]** causes **[[dysuria]], urgency, frequency, and sometimes [[hematuria]]**; it resolves with antibiotics but recurs in many cases, while interstitial cystitis (IC/BPS) is chronic with pelvic pain and no infection. Risk factors include **female anatomy, sexual activity, catheters, and menopause; complications like [[pyelonephritis]]** can arise if untreated.
 >
 >#### Diagnosis Code(s):
@@ -32,7 +40,7 @@ ICD-10 Code: N30.00
 >- **Explanation:** Used for patients experiencing bladder inflammation as a side effect of radiation therapy (common in prostate or cervical cancer treatment).
 _____
 >[!info]+ ETYMOLOGY of **[[cystitis]]**
->#greek From Greek _kystis_ (κύστις, "bladder") + _[[-itis]]_ ("**inflammation**"), first used in 1774. Interstitial **[[cystitis]]** traces to 1808 descriptions by Philip Syng Physick of bladder inflammation without stones.
+>#greek From Greek _kystis_ (κύστις, "**bladder**") + _[[-itis]]_ ("**inflammation**"), first used in 1774. **Interstitial** **[[cystitis]]** traces to 1808 descriptions by Philip Syng Physick of bladder inflammation without stones.
 _____
 >[!tip]- DERIVATIONS of **[[cystitis]]**
 >```dataview
