@@ -50,7 +50,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents({ 
   collapseByDefault: true, // This keeps it open
-  maxDepth: 5               // Adjust this to show deeper sub-headers (H2, H3, etc.)
+  maxDepth: 3               // Adjust this to show deeper sub-headers (H2, H3, etc.)
 })),
     Component.RecentNotes({ limit: 10 }),
 ],
