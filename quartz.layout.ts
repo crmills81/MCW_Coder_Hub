@@ -53,7 +53,6 @@ export const defaultContentPageLayout: PageLayout = {
   maxDepth: 5               // Adjust this to show deeper sub-headers (H2, H3, etc.)
 }),
     Component.RecentNotes({ limit: 3 }),
-  ],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
