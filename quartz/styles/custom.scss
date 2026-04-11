@@ -1,3 +1,33 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* custom.scss */
+
+.recent-notes {
+  max-height: 400px;      /* Adjust this height to your preference */
+  overflow-y: auto;       /* Enables vertical scrolling */
+  padding-right: 0.5rem;  /* Prevents text from hitting the scrollbar */
+  margin-top: 1rem;
+
+  /* Custom Scrollbar Styling (Optional) */
+  &::-webkit-scrollbar {
+    width: 4px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: var(--lightgray);
+    border-radius: 10px;
+  }
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+}
+
+/* Optional: Make the heading "Recent Notes" stick to the top while scrolling */
+.recent-notes > h3 {
+  position: sticky;
+  top: 0;
+  background-color: var(--light); /* Matches your background */
+  z-index: 1;
+  margin-top: 0;
+  padding-bottom: 0.5rem;
+}
