@@ -43,7 +43,7 @@ _____
 > 
 > - **GERD (Gastroesophageal Reflux Disease):** The primary causative factor; chronic acid reflux leads to the tissue changes.
 > - **[[Metaplasia]]:** The reversible replacement of one adult cell type by another adult cell type (squamous to columnar).
-> - **[[Dysplasia]]:** Abnormal cell growth within the Barrett's tissue; a precancerous stage categorized as Low-Grade Dysplasia (LGD) or High-Grade Dysplasia (HGD).
+> - **[[dysplasia]]:** Abnormal cell growth within the Barrett's tissue; a precancerous stage categorized as Low-Grade Dysplasia (LGD) or High-Grade Dysplasia (HGD).
 > - **[[Adenocarcinoma]]:** The type of cancer that arises from **Barrett's esophagus**.
 > - **[[Squamous Cell Carcinoma]]:** A different type of esophageal cancer (usually linked to smoking/alcohol) that arises from the normal squamous lining, _not_ Barrett's.
 > - **Radiofrequency Ablation (RFA):** A common endoscopic treatment used to destroy Barrett's tissue (e.g., HALO system).
@@ -55,7 +55,7 @@ _____
 > **ICD-10-CM Codes** 
 > _Note: Specificity regarding the presence of dysplasia is critical for coding Barrett's Esophagus._
 > 
-> **Without [[Dysplasia]]**
+> **Without [[dysplasia]]**
 > 
 > - **K22.70-**: Barrett's esophagus without dysplasia
 > 

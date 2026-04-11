@@ -21,8 +21,7 @@ forms:
   - noun
   - verb
 alphabet: C
-definition:
-  - Permanent or fixed shortening of a muscle, tendon, joint capsule, or skin that limits range of motion
+definition: Permanent or fixed shortening of a muscle, tendon, joint capsule, or skin that limits range of motion
 ---
 >[!Note] DEFINITION of [[contracture]]
 >A **contracture** is a **permanent or semi-permanent shortening and hardening of muscle, tendon, joint capsule, fascia, or skin** that results in **fixed deformity and restricted range of motion (ROM)** at one or more joints. Unlike a transient muscle spasm or cramp, a contracture represents **structural change** in the affected tissues — often involving **fibrosis, collagen deposition, and loss of tissue extensibility** — that cannot be overcome by voluntary effort. Contractures are classified by the tissue of origin: **myogenic** (muscle fiber shortening — e.g., Volkmann ischemic contracture, burn-related), **arthrogenic** (joint capsule and ligament — e.g., adhesive capsulitis), **dermatogenic** (scar tissue pulling across a joint — e.g., post-burn), and **fibromatotic** (fascial — e.g., Dupuytren contracture of the palmar fascia). Common causes include **prolonged immobilization, spasticity from upper motor neuron lesions, burns, surgical scarring, and inflammatory arthritis**. Contractures are a major complication of **stroke, spinal cord injury, cerebral palsy, and prolonged ICU stays**, and contribute significantly to disability and nursing care burden. In the inpatient setting, contracture is a **CC** (**Complication/Comorbidity**) under **MS-DRG** grouping, making accurate documentation and code capture clinically and financially significant.
@@ -230,7 +229,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains(this.definition, word))) > 0 AND file.name != this.file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots]]

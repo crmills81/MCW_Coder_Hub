@@ -98,7 +98,7 @@ _____
 > |**[[I70.1]]**|[[atherosclerosis]] of renal artery|
 > |**[[I15.0]]**|[[Renovascular]] hypertension|
 > |**[[N28.0]]**|[[Ischemia]] and [[infarction]] of kidney|
-> |**[[D09.19]]**|[[Carcinoma]] in situ of other urinary organs _(with vascular invasion — staging)_|
+> |**[[D09.19]]**|[[carcinoma]] in situ of other urinary organs _(with vascular invasion — staging)_|
 > 
 > #### 🔷 **Ophthalmology — Vascular:**
 > 

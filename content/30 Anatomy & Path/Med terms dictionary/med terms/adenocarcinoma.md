@@ -1,7 +1,6 @@
 ---
 tags:
   - medterm
-  - medroot
 aliases:
   - glandular cancer
 roots:
@@ -39,6 +38,7 @@ _____
 > - **Grading:** Based on gland formation, nuclear atypia, mitotic rate (e.g., Gleason for prostate adenocarcinoma).  
 > 
 > **Common sites and subtypes:**
+> 
 > | Site                  | Subtypes/Notes                                      |  
 > |-----------------------|-----------------------------------------------------|  
 > | **Lung**             | [[Bronchioloalveolar]] (lepidic), mucinous, solid, papillary (8140/3). |  
@@ -75,7 +75,7 @@ _____
 > **<u>Related Terms</u>**
 > 
 > **Benign counterpart:**  
-> - **[[Adenoma]]** (adenomatous polyp): Benign glandular tumor (/0 in ICD‑O); precursor to adenocarcinoma in colon, stomach.[2]
+> - **[[adenoma]]** (adenomatous polyp): Benign glandular tumor (/0 in ICD‑O); precursor to adenocarcinoma in colon, stomach.[2]
 > 
 > **Other glandular malignancies:**  
 > - **[[Cystadenocarcinoma]]:** Cystic [[glandular cancer]].  
@@ -83,7 +83,7 @@ _____
 > - **Tubular adenocarcinoma:** Predominantly tubular glands.  
 > 
 > **Precursors:**  
-> - **[[Dysplasia]] / [[adenoma]] / [[metaplasia]]** (e.g., [[Barrett’s esophagus]] → esophageal adenocarcinoma).  
+> - **[[dysplasia]] / [[adenoma]] / [[metaplasia]]** (e.g., [[Barrett’s esophagus]] → esophageal adenocarcinoma).  
 > 
 > **Molecular markers:**  
 > - **KRAS**, **EGFR**, **BRAF** mutations (lung, colorectal); **HER2** amplification (breast, gastric); MSI‑high (colorectal Lynch syndrome).[2]
@@ -107,7 +107,7 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
+>WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != this.file.name
 >SORT file.name ASC
 >```
 _____
@@ -115,7 +115,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots]]

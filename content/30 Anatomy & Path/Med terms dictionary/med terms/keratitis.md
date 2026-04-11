@@ -36,7 +36,7 @@ _____
 > 
 > **All codes below require a final digit specifying laterality: 1 = right eye, 2 = left eye, 3 = bilateral, 9 = unspecified eye**.
 > 
-> **Corneal Ulcer (H16.0x)** [[H16.001]]-[[H16.009]] — Unspecified corneal ulcer [[H16.011]]-[[H16.019]] — Central corneal ulcer [[H16.021]]-[[H16.029]] — Ring corneal ulcer [[H16.031]]-[[H16.039]] — Corneal ulcer with hypopyon [[H16.041]]-[[H16.049]] — Marginal corneal ulcer [[H16.051]]-[[H16.059]] — Mooren's corneal ulcer [[H16.061]]-[[H16.069]] — Mycotic (fungal) corneal ulcer [[H16.071]]-[[H16.079]] — Perforated corneal ulcer
+> **Corneal Ulcer (H16.0x)** [[H16.001]]-[[H16.009]] — Unspecified corneal ulcer [[H16.011]]-[[H16.013]] — Central corneal ulcer [[H16.021]]-[[H16.029]] — Ring corneal ulcer [[H16.031]]-[[H16.039]] — Corneal ulcer with hypopyon [[H16.041]]-[[H16.049]] — Marginal corneal ulcer [[H16.051]]-[[H16.059]] — Mooren's corneal ulcer [[H16.061]]-[[H16.069]] — Mycotic (fungal) corneal ulcer [[H16.071]]-[[H16.079]] — Perforated corneal ulcer
 > 
 > **Superficial Keratitis Without Conjunctivitis (H16.1x)** [[H16.101]]-[[H16.109]] — Unspecified superficial keratitis [[H16.111]]-[[H16.119]] — [[Macular]] keratitis [[H16.121]]-[[H16.129]] — Filamentary keratitis [[H16.131]]-[[H16.139]] — [[Photokeratitis]] (UV/arc eye/snow blindness) [[H16.141]]-[[H16.149]] — Punctate keratitis (SPK)
 > 

@@ -130,7 +130,7 @@ _____
 > |[[G31.01]]|Pick's disease _(frontotemporal lobar degeneration with atrophy)_|
 > |[[G31.09]]|Other frontotemporal neurocognitive disorder|
 > |[[G31.83]]|Mild cognitive impairment, so stated|
-> |[[G35]]|Multiple sclerosis _(associated with cerebral/spinal atrophy)_|
+> |G35.-|Multiple sclerosis _(associated with cerebral/spinal atrophy)_|
 > 
 > #### **Skin Atrophy**
 > 

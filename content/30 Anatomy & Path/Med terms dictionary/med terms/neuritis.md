@@ -54,7 +54,7 @@ _____
 > - **[[Vestibular Neuritis]]:** Inflammation of the vestibular nerve (causes vertigo).
 > - **[[Brachial Neuritis]]:** Inflammation of nerves in the brachial plexus (shoulder/arm).
 > - **[[Diabetic Neuropathy]]:** Nerve damage from diabetes (often has inflammatory component).
-> - **[[Demyelination]]:** Loss of the myelin sheath surrounding nerves; often occurs in [[inflammatory neuritis]].
+> - **[[demyelination]]:** Loss of the myelin sheath surrounding nerves; often occurs in [[inflammatory neuritis]].
 _____
 
 > [!bug]+ **ICD-10-CM Codes**

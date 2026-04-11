@@ -29,9 +29,9 @@ definition:
 _____
 >[!info]+ ETYMOLOGY of [[benign prostatic hyperplasia (BPH)]]
 >#latin The term is derived from three distinct linguistic roots that describe its nature and location:
->- **[[Benign]]**: From the Latin _benignus_, meaning "**kind**" or "**favorable**," used in medicine to indicate a condition that is not malignant or cancerous.[](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/benign-prostatic-hyperplasia)​
+>- **[[benign]]**: From the Latin _benignus_, meaning "**kind**" or "**favorable**," used in medicine to indicate a condition that is not malignant or cancerous.[](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/benign-prostatic-hyperplasia)​
 >- **[[Prostatic]]**: Derived from the Greek _prostatēs_, meaning "**one who stands before**" (**referring to the gland's position in front of the bladder**), combined with the suffix _[[-ic]]_ meaning "relating to".[](https://en.wikipedia.org/wiki/Benign_prostatic_hyperplasia)​
->- **[[Hyperplasia]]**: Formed from the #Greek _[[hyper-]]_ ("*over*" or "*excessive*") and _[[-plasis]]_ ("*formation*" or "*molding*"), referring specifically to an increase in the number of cells. [[gene-]]::genə-, also [[gen-]] Proto-Indo-European root meaning "give birth, beget," with derivatives referring to procreation and familial and tribal groups.
+>- **[[hyperplasia]]**: Formed from the #Greek _[[hyper-]]_ ("*over*" or "*excessive*") and _[[-plasis]]_ ("*formation*" or "*molding*"), referring specifically to an increase in the number of cells. [[gene-]]::genə-, also [[gen-]] Proto-Indo-European root meaning "give birth, beget," with derivatives referring to procreation and familial and tribal groups.
 _____
 
 > [!example]+ **Related Terms and Coding**
@@ -44,7 +44,7 @@ _____
 > |**[[N40.1]]**|[[benign prostatic hyperplasia (BPH)]] with lower urinary tract symptoms  |
 > |**LUTS**|Lower Urinary Tract Symptoms, the clinical manifestation of BPH  |
 > |**DHT**| Dihydrotestosterone, the primary androgen responsible for prostate growth  |
-> |**TURP**|[[Transurethral]] [[Resection]] of the Prostate, a common surgical treatment for BPH  |
+> |**TURP**|[[Transurethral]] [[resection]] of the Prostate, a common surgical treatment for BPH  |
 > |**PSA**| Prostate-Specific Antigen, a blood test used to screen for prostate issues |
 > 
 > - **[[hypertrophy]]**: Often used interchangeably with [[hyperplasia]], but technically refers to an increase in cell size rather than cell number.

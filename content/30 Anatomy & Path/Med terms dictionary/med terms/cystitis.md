@@ -44,9 +44,10 @@ _____
 _____
 >[!faq]- Query functionality
 >```dataview
->TABLE definition AS Definition
->FROM #medroot  
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+ >TABLE definition AS Definition
+>FROM #medterm 
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 ![[Pasted image 20260208232625.png]]

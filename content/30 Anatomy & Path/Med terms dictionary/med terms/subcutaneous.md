@@ -96,7 +96,7 @@ _The depth of the procedure is critical here. Documentation must explicitly stat
 - Inflammation of adipose tissue ([[Panniculitis]]) - **[[M79.3]]**. This is considered a Connective Tissue disorder (**Chapter 13**) rather than a simple skin infection (**Chapter 12**), as it involves systemic inflammation of the fat cells themselves.
 
 **Excludes2 (Can be coded together):**
-- [[Lipoma]] (Benign tumor of fat tissue) - **D17.x**. This can be coded alongside skin issues if they are distinct conditions (e.g., a patient with a [[lipoma]] _and_ a separate patch of dermatitis).
+- [[lipoma]] (Benign tumor of fat tissue) - **D17.x**. This can be coded alongside skin issues if they are distinct conditions (e.g., a patient with a [[lipoma]] _and_ a separate patch of dermatitis).
 
 ## 6. Reimbursement & Administrative Data
 

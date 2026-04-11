@@ -59,7 +59,7 @@ _____
 > **Patency and Integrity**: Documentation of a "leak test" (e.g., injecting air or methylene blue dye) or checking for a palpable pulse/doppler signal in vascular anastomoses to confirm the connection is patent (flowing properly) and secure.
 > 
 > **<u>Related Terms & Differentials</u>**
-> Resection: The surgical removal of all of a body part. **Differential**: [[Resection]] is the removal; anastomosis is the subsequent reconnection. In coding, the resection is the primary coded event.
+> Resection: The surgical removal of all of a body part. **Differential**: [[resection]] is the removal; anastomosis is the subsequent reconnection. In coding, the resection is the primary coded event.
 > 
 > **Bypass**: Rerouting the flow of bodily fluids. Differential: Bypass is the objective (the Root Operation), while an anastomosis is the surgical technique used to achieve that bypass.
 > 
@@ -83,7 +83,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots]]

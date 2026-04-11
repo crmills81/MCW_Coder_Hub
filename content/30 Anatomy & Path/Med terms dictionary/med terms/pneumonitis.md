@@ -8,13 +8,11 @@ aliases:
   - chemical pneumonitis
   - aspiration pneumonitis
   - hypersensitivity pneumonitis
-  - HP
   - extrinsic allergic alveolitis
   - radiation pneumonitis
   - drug-induced pneumonitis
   - interstitial pneumonitis
   - acute interstitial pneumonitis
-  - AIP
 roots:
   - pneumon-
   - pneumo-

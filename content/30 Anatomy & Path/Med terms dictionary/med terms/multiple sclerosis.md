@@ -108,7 +108,7 @@ _____
 > |Code|Description|
 > |---|---|
 > |[[G35.B0]]|Primary progressive multiple sclerosis, unspecified activity *(use only if activity status not documented)*|
-> |[[G35.B1]]|Active primary progressive multiple sclerosis *(with evidence of inflammatory disease activity — new/enlarging MRI lesions or clinical worsening)* — **⚠️ HCC**|
+> |[[50 Medical Coding/ICD-10 Codes/G35.B1]]|Active primary progressive multiple sclerosis *(with evidence of inflammatory disease activity — new/enlarging MRI lesions or clinical worsening)* — **⚠️ HCC**|
 > |[[G35.B2]]|Non-active primary progressive multiple sclerosis *(without inflammatory disease activity — stable on imaging)* — **⚠️ HCC**|
 >
 > ##### Secondary Progressive MS — Category G35.C

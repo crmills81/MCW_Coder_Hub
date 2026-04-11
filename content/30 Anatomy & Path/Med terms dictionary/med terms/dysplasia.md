@@ -24,8 +24,8 @@ _____
 >
 >|Component|Origin|Meaning|
 >|---|---|---|
->|**dys-**|Greek _dys-_ (δυσ-)|"**Bad**", "**difficult**", or "**abnormal**"|
->|**-plasia**|Greek _-plasia_ (-πλασία), from _plassein_| "**Formation**", "**growth**", or "**molding**"|
+>|**[[dys-]]**|Greek _dys-_ (δυσ-)|"**Bad**", "**difficult**", or "**abnormal**"|
+>|**[[-plasia]]**|Greek _-plasia_ (-πλασία), from _plassein_| "**Formation**", "**growth**", or "**molding**"|
 >
 > The roots combine to literally mean "**abnormal formation**" or "**bad growth.**" It was introduced into medical terminology in the late 19th/early 20th century to describe irregular cellular/tissue changes.
 _____
@@ -43,12 +43,12 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Neoplasia]]** — new, uncontrolled growth of cells (can be benign or malignant); dysplasia often precedes this.
-> - **[[Hyperplasia]]** — an increase in the *number* of normal cells in a tissue or organ.
+> - **[[Neoplasia]]** — new, uncontrolled growth of cells (can be benign or malignant); **dysplasia** often precedes this.
+> - **[[hyperplasia]]** — an increase in the *number* of normal cells in a tissue or organ.
 > - **Metaplasia** — the reversible replacement of one mature cell type by another mature cell type.
-> - **Carcinoma in situ (CIS)** — severe dysplasia where abnormal cells involve the full thickness of the epithelium but haven't broken through the basement membrane.
+> - **Carcinoma in situ (CIS)** — severe **dysplasia** where abnormal cells involve the full thickness of the epithelium but haven't broken through the basement membrane.
 > - **Colposcopy** — a procedure closely examining the cervix, vagina, and vulva for signs of dysplasia.
-> - **[[Osteotomy]]** — a surgical cutting of a bone, often performed to correct macroscopic skeletal dysplasias (like hip dysplasia).
+> - **[[Osteotomy]]** — a surgical cutting of a bone, often performed to correct macroscopic skeletal dysplasias (**like hip dysplasia**).
 > 
 _____
 

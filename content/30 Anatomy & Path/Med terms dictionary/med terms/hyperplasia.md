@@ -45,7 +45,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
 > - **[[Hypertrophy]]** — an increase in the *size* of individual cells, rather than the number of cells (**e.g., muscle hypertrophy**).
-> - **[[Dysplasia]]** — abnormal development or alteration in the shape, size, and organization of cells; often a **precancerous state**.
+> - **[[dysplasia]]** — abnormal development or alteration in the shape, size, and organization of cells; often a **precancerous state**.
 > - **Neoplasia** — uncontrolled, autonomous new cellular growth (**tumors**), which can be benign or malignant.
 > - **Metaplasia** — the reversible transformation of one differentiated mature cell type into another.
 > - **Hypoplasia** — underdevelopment or incomplete tissue formation (the antonym of hyperplasia).

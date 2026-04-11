@@ -45,7 +45,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Neoplasm]] / [[Carcinoma]]** — an abnormal, often malignant growth of tissue targeted by **chemotherapy**.
+> - **[[neoplasm]] / [[carcinoma]]** — an abnormal, often malignant growth of tissue targeted by **chemotherapy**.
 > - **Adjuvant therapy** — **chemotherapy** given *after* primary treatment (like surgery) to lower the risk of recurrence.
 > - **Neoadjuvant therapy** — **chemotherapy** given *before* primary treatment to shrink a tumor.
 > - **Immunotherapy** — biological treatments that stimulate the patient's immune system to attack cancer cells (**distinct from cytotoxic chemotherapy**).

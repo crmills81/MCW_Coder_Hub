@@ -50,22 +50,22 @@ _____
 
 _____
 
-> [!danger]+ ### 🔗 RELATED TERMS
+> [!danger]+ #### 🔗 RELATED TERMS
 >
 > - **[[Hematemesis]]** — vomiting of blood; GI origin; key clinical distinction from hemoptysis (alkaline vs. acidic, bright red vs. coffee-ground)
-> - **[[Bronchiectasis]]** — dilated, chronically infected airways; one of the most common causes of recurrent hemoptysis
-> - **[[Bronchoscopy]]** — primary diagnostic and therapeutic intervention for active hemoptysis; used to localize bleeding source
-> - **[[Aspergilloma]]** — fungal ball (Aspergillus) in a pre-existing cavity; classic cause of massive hemoptysis via erosion of bronchial arteries
-> - **Bronchial artery embolization (BAE)** — interventional radiology procedure; first-line treatment for massive hemoptysis not controlled bronchoscopically
-> - **[[Tuberculosis]]** — historically the most common cause of massive hemoptysis worldwide; must be excluded
+> - **[[Bronchiectasis]]** — dilated, chronically infected airways; one of the most common causes of recurrent **hemoptysis**
+> - **[[Bronchoscopy]]** — primary diagnostic and therapeutic intervention for active **hemoptysis**; used to localize bleeding source
+> - **[[Aspergilloma]]** — fungal ball (**Aspergillus**) in a pre-existing cavity; classic cause of massive **hemoptysis** via erosion of bronchial arteries
+> - **Bronchial artery embolization (BAE)** — interventional radiology procedure; first-line treatment for massive **hemoptysis** not controlled bronchoscopically
+> - **[[Tuberculosis]]** — historically the most common cause of massive [[hemoptysis]] worldwide; must be excluded
 > - **[[Pulmonary embolism]]** — causes hemoptysis via pulmonary infarction (Hamman-Rich area); coded separately
-> - **Granulomatosis with polyangiitis (GPA)** — formerly Wegener's; systemic vasculitis causing pulmonary and renal hemorrhage
-> - **Goodpasture syndrome** — anti-GBM antibody disease; diffuse alveolar hemorrhage + glomerulonephritis
-> - **Microscopic polyangiitis** — ANCA-associated vasculitis; DAH pattern
-> - **[[Anticoagulation]]** — iatrogenic cause; hemoptysis in anticoagulated patients requires urgent workup
-> - **Lung abscess** — necrotizing infection; can erode into blood vessels causing hemoptysis
-> - **[[Bronchitis]]** — most common cause of mild hemoptysis in outpatient settings
-> - **[[Sputum]]** — the expectorated material; hemoptysis is distinguished by blood content
+> - **Granulomatosis with polyangiitis (GPA)** — formerly Wegener's; systemic [[vasculitis]] causing pulmonary and renal hemorrhage
+> - **Goodpasture syndrome** — anti-GBM antibody disease; diffuse alveolar hemorrhage + [[glomerulonephritis]]
+> - **Microscopic polyangiitis** — ANCA-associated [[vasculitis]]; DAH pattern
+> - **[[Anticoagulation]]** — iatrogenic cause; [[hemoptysis]] in anticoagulated patients requires urgent workup
+> - **Lung abscess** — necrotizing infection; can erode into blood vessels causing **hemoptysis**
+> - **[[Bronchitis]]** — most common cause of mild **hemoptysis** in outpatient settings
+> - **[[Sputum]]** — the expectorated material; **hemoptysis** is distinguished by blood content
 > - **[[Epistaxis]]** — nasal bleeding; must be distinguished from pseudohemoptysis
 
 _____
@@ -193,7 +193,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains(this.definition, word))) > 0 AND file.name != this.file.name
+>WHERE file.name != this.file.name
+>AND any(contains(definition, split(this.definition, " ")))
 >```
 
 [[Med roots]]

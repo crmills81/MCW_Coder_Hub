@@ -220,7 +220,7 @@ last_updated: 2026-02-10
 **Neurologic symptoms:**
 - **Confusion, disorientation**
 - **Drowsiness, [[somnolence]]**
-- **[[Hyperreflexia]]** - overactive reflexes
+- **[[hyperreflexia]]** - overactive reflexes
 - **[[Seizures]]** (severe)
 - **[[Coma]]** (critical)
 

@@ -16,7 +16,7 @@ forms:
 "definition:": abnormal smallness of the extremities
 ---
 >[!note]+ Definition of [[acromicria]]
->[[acr-]]o-[[micr-]][[-ia]] - abnormal smallness of the extremities (**condition of small extremities**); **Acromicria** (also spelled *acromikria*) is a morphological and pathophysiological condition marked by the abnormal smallness and underdevelopment of the body's extremities, most notably the hands and feet, but occasionally involving the **ears, nose, and jaws**. It is the clinical opposite of [[acromegaly]]. **Acromicria** is rarely an isolated diagnosis; it is typically a phenotypic manifestation of a broader systemic, genetic, or endocrinological disorder. Most commonly, it is observed in pediatric patients with congenital syndromes such as **Prader-Willi syndrome, Down syndrome**, or in cases of severe growth hormone deficiency ([[hypopituitarism]]) leading to pituitary dwarfism.
+>**[[acr-]]o-[[micr-]][[-ia]]** - abnormal smallness of the extremities (**condition of small extremities**); **Acromicria** (also spelled *acromikria*) is a morphological and pathophysiological condition marked by the abnormal smallness and underdevelopment of the body's extremities, most notably the hands and feet, but occasionally involving the **ears, nose, and jaws**. It is the clinical opposite of [[acromegaly]]. **Acromicria** is rarely an isolated diagnosis; it is typically a phenotypic manifestation of a broader systemic, genetic, or endocrinological disorder. Most commonly, it is observed in pediatric patients with congenital syndromes such as **Prader-Willi syndrome, Down syndrome**, or in cases of severe growth hormone deficiency ([[hypopituitarism]]) leading to pituitary dwarfism.
 ___
 >[!info]+ Etymology of [[acromicria]]
 >- **[[acr/o-]]**: From Greek _akron_ or _akros_, meaning "**extremity**," "**highest point**," or "**tip**."
@@ -37,7 +37,7 @@ ____
 >     
 >     - There is no single, specific ICD-10-CM code for "acromicria" alone, as it is considered a clinical sign rather than a definitive disease process.
 >         
->     - A coder must look for the **underlying etiology** or syndrome. For example, if the acromicria is attributed to Prader-Willi syndrome, code **Q87.11 (Prader-Willi syndrome)** is assigned.
+>     - A coder must look for the **underlying etiology** or syndrome. For example, if the acromicria is attributed to Prader-Willi syndrome, code **[[Q87.11]] (Prader-Willi syndrome)** is assigned.
 >         
 >     - If it is a result of growth hormone deficiency, code **E23.0 (Hypopituitarism)** is utilized.
 >         
@@ -84,7 +84,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 

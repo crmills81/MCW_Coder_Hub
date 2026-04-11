@@ -65,7 +65,7 @@ _____
 > - **Microvilli/brush border:** Intestines/kidney (**absorption**).  
 > 
 > **Pathology:**  
-> - **[[Dysplasia]]/[[metaplasia]]:** Precancerous changes (e.g., [[Barrett's esophagus]]).  
+> - **[[dysplasia]]/[[metaplasia]]:** Precancerous changes (e.g., [[Barrett's esophagus]]).  
 > - **Carcinomas:** 90% cancers from epithelium ([[adenocarcinoma]] glandular; [[squamous cell carcinoma]]).[1]
 > - **Epithelialization:** Wound healing via [[keratinocyte]] migration.
 > 

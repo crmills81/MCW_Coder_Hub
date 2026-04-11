@@ -6,6 +6,7 @@ aliases:
   - abduction
   - abductive
   - abducent
+  - abductor
 roots:
   - ab-
   - duct-
@@ -38,7 +39,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE file.name != this.file.name
+>AND any(contains(definition, split(this.definition, " ")))
 >```
 _____
 

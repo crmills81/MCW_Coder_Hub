@@ -41,11 +41,11 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Benign]]** — non-cancerous, localized, and not prone to metastasis.
+> - **[[benign]]** — non-cancerous, localized, and not prone to metastasis.
 > - **[[Metastasis]]** — the spread of malignant cells from a primary site to a secondary site.
-> - **[[Carcinoma]]** — a malignant tumor arising from [[epithelial]] tissue (e.g., lung, breast, colon).
-> - **[[Sarcoma]]** — a malignant tumor arising from mesenchymal/connective tissue (e.g., bone, muscle).
-> - **[[Neoplasm]]** — an abnormal mass of tissue resulting from excessive cell division (can be benign or malignant).
+> - **[[carcinoma]]** — a malignant tumor arising from [[epithelial]] tissue (e.g., lung, breast, colon).
+> - **[[sarcoma]]** — a malignant tumor arising from mesenchymal/connective tissue (e.g., bone, muscle).
+> - **[[neoplasm]]** — an abnormal mass of tissue resulting from excessive cell division (can be benign or malignant).
 > - **Oncology** — the medical specialty dedicated to the study, diagnosis, and treatment of malignancies.
 > - **Malignant hyperthermia** — a severe, potentially fatal reaction to certain anesthetic drugs (not a cancer).
 > - **Neuroleptic malignant syndrome** — a life-threatening neurological emergency associated with antipsychotic medication use.

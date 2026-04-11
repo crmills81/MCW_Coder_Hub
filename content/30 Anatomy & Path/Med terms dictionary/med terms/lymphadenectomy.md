@@ -84,7 +84,7 @@ _____
 >
 > - **Lymphangitis** - Inflammation of lymphatic vessels (*[[lymph-]]* + *[[angi-]]* = **vessel** + *[[-itis]]*)
 >
-> - **[[Adenoma]]** - Benign glandular tumor (*[[aden-]]* + *[[-oma]]* = **tumor**)
+> - **[[adenoma]]** - Benign glandular tumor (*[[aden-]]* + *[[-oma]]* = **tumor**)
 >
 > - **[[Adenocarcinoma]]** - Malignant tumor of glandular origin (*[[adeno-]]* + *carcinoma*)
 >
