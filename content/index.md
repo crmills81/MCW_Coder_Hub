@@ -1,11 +1,13 @@
 ---
 title: 🌟 Yay, MEDICAL CODING!!! 🌟
-last_updated: 2026-03-24
+last_updated: 2026-04-12
 ---
-# 🧬 Coding Dashboard
+
+# 🧬 Medical Coding Dashboard
 >
 ## 🎯 Purpose
 Medical coding hub for **Ophthalmology**, **Urology**, **Physical Medicine & Rehabilation** and **Otolaryngology** for my employer. Bare with me if you're someone other than me visiting. This is a constantly growing environment so fixing the broken links will happen slowly but will eventually happen. Anyone who's also a coder already knows this might take a long time lolol... 🤓👍🏽
+
 ---
 
 # 🫀 Medical Coding References
