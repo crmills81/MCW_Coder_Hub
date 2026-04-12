@@ -13,7 +13,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: 'google', tagId: '<G-ERKZQHRW7W>',
+      provider: 'google', 
+      tagId: 'G-ERKZQHRW7W', // Removed the < > brackets
     },
     locale: "en-US",
     baseUrl: "crmills81.github.io/MCW_Coder_Hub",
@@ -23,6 +24,8 @@ const config: QuartzConfig = {
       ".obsidian",
       "content/30 Anatomy & Path/Med terms dictionary/Med roots",
     ],
+  }, // Added missing closing brace
+// ... rest of your config
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
