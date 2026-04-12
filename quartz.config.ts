@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: 'google', 
-      tagId: 'G-ERKZQHRW7W', // Removed the < > brackets
+      tagId: 'G-ERKZQHRW7W',
     },
     locale: "en-US",
     baseUrl: "crmills81.github.io/MCW_Coder_Hub",
@@ -24,8 +24,6 @@ const config: QuartzConfig = {
       ".obsidian",
       "content/30 Anatomy & Path/Med terms dictionary/Med roots",
     ],
-  }, // Added missing closing brace
-// ... rest of your config
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -61,8 +59,6 @@ const config: QuartzConfig = {
       },
     },
   },
-],
-  },
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
@@ -81,6 +77,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
+      Plugin.Latex({ renderEngine: "katex" }),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
@@ -95,6 +92,7 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
+      Plugin.Favicon(),
       Plugin.NotFoundPage(),
     ],
   },
