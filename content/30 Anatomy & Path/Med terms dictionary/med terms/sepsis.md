@@ -6,6 +6,7 @@ tags:
   - septic-shock
   - ICU
   - Sepsis
+  - medterm
 system: Multi-system/Infectious Disease
 category: Medical Emergency
 severity: Life-threatening
@@ -295,7 +296,7 @@ last_updated: 2026-02-10
 
 - **[[Septic shock]]** - profound hypotension, high mortality
 - **[[Acute Respiratory Distress Syndrome (ARDS)]]** - lung failure
-- **[[Acute kidney injury]] (AKI)** - renal failure
+- **[[acute kidney injury]] (AKI)** - renal failure
 - **Liver dysfunction**
 - **[[Disseminated Intravascular Coagulation (DIC)]]** - abnormal clotting
 - **[[Multi-organ dysfunction syndrome (MODS]])**
@@ -506,21 +507,6 @@ If sepsis documented:
 ✅ **Update codes:** If organism identified later, update from [[A41.9]] to specific code
 
 ✅ **HCC impact:** Sepsis codes (A40.x, A41.x) and [[R65.21]] have significant HCC/risk adjustment weight
-
----
-
-## Related Obsidian Notes
-
-- [[SIRS (Systemic Inflammatory Response Syndrome)]]
-- [[Septic Shock]]
-- [[Bacteremia vs Sepsis]]
-- [[Cytokine Storm]]
-- [[Multi-Organ Dysfunction Syndrome (MODS)]]
-- [[Acute Respiratory Distress Syndrome (ARDS)]]
-- [[Disseminated Intravascular Coagulation (DIC)]]
-- [[Metabolic Encephalopathy]] (Septic encephalopathy)
-- [[Blood Cultures - Interpretation]]
-- [[Surviving Sepsis Campaign Guidelines]]
 
 ---
 

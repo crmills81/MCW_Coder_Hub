@@ -65,8 +65,8 @@ _____
 > - **[[Compartment syndrome]]** — acute cause of Volkmann contracture if untreated
 > - **[[Immobilization]]** — prolonged bed rest or casting; most common cause of inpatient contracture development
 > - **Burn injury** — dermatogenic contracture from scar tissue bridging across joints
-> - **[[Cerebral palsy]]** — spastic/myogenic contracture in developing musculoskeletal system
-> - **[[Stroke]]** —[[ ]]hemiplegia with UMN [[spasticity]] → flexion contractures of upper limb, equinus at ankle
+> - **[[cerebral palsy]]** — spastic/myogenic contracture in developing musculoskeletal system
+> - **[[stroke]]** —[[ ]]hemiplegia with UMN [[spasticity]] → flexion contractures of upper limb, equinus at ankle
 > - **Spinal cord injury (SCI)** — below-level [[spasticity]] and immobility → hip, knee, ankle contractures
 > - **Hypertrophic scar** — **[[L91.0]]**; scar tissue that may cause dermatogenic contracture
 > - **[[Fascia]]** — primary tissue in fibromatotic contractures (Dupuytren)
@@ -176,7 +176,7 @@ _____
 > | **[[97530]]** | Therapeutic activities, direct patient contact _(functional activity retraining)_ |
 > | **[[97012]]** | Application of mechanical traction |
 > | **[[97750]]** | Physical performance test or measurement, with written report _(ROM assessment)_ |
-> | **[[64644]]** | [[Chemodenervation]] of one extremity; 1–4 muscle(s) _(botulinum toxin for spastic contracture)_ |
+> | **[[64644]]** | [[Chemodenervation]] of one extremity; 1-4 muscle(s) _(botulinum toxin for spastic contracture)_ |
 > | **[[64645]]** | Chemodenervation of one extremity; 5 or more muscles |
 > | **[[64646]]** | Chemodenervation of trunk muscle(s) |
 >

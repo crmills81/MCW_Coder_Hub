@@ -40,7 +40,7 @@ _____
 > - **Saddle Nose Deformity**: A collapse of the nasal bridge, often a complication of nasal chondritis.
 > - **Cauliflower Ear**: A deformity of the ear caused by trauma or inflammation leading to cartilage [[necrosis]] and fibrosis.
 > - **Autoimmune Disease**: A condition in which the body's immune system attacks its own tissues.
-> - **[[Vasculitis]]**: Inflammation of blood vessels, which can be a feature of polychondritis.
+> - **[[vasculitis]]**: Inflammation of blood vessels, which can be a feature of polychondritis.
 > - **[[scleritis]]**: Inflammation of the sclera (the white outer layer of the eyeball).
 > - **[[episcleritis]]**: Inflammation of the [[episclera]], a thin layer of tissue between the sclera and [[conjunctiva]].
 > - **[[arthralgia]]**: Pain in a joint.

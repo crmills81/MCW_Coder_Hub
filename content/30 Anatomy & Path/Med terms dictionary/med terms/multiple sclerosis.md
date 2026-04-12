@@ -26,8 +26,7 @@ forms:
   - noun
   - adjective (multiple sclerotic)
 alphabet: M
-definition:
-  - A chronic, progressive autoimmune demyelinating disease of the central nervous system in which the immune system attacks and destroys the myelin sheath surrounding nerve fibers, producing plaques of sclerotic scar tissue that disrupt neural signal transmission across the brain and spinal cord
+definition: A chronic, progressive autoimmune demyelinating disease of the central nervous system in which the immune system attacks and destroys the myelin sheath surrounding nerve fibers, producing plaques of sclerotic scar tissue that disrupt neural signal transmission across the brain and spinal cord
 ---
 >[!Note] DEFINITION of [[multiple sclerosis]]
 >**Multiple sclerosis (MS)** is a **chronic, immune-mediated demyelinating disease of the central nervous system (CNS)** in which autoreactive T-lymphocytes and B-cells breach the blood-brain barrier and attack the **myelin sheath** — the lipid-rich insulating layer encasing nerve axons — triggering focal inflammatory lesions called **plaques** that progress to **gliotic scars (sclerosis)** throughout the brain, spinal cord, and optic nerves. Destruction of myelin and eventual **axonal loss** disrupts the speed and fidelity of electrical impulse conduction along affected neural pathways, producing the hallmark clinical syndrome: **relapsing or progressive neurological dysfunction** that can affect motor function, sensation, vision, cognition, bladder control, and coordination. The disease course is classified into four primary phenotypes — **relapsing-remitting (RRMS)**, **primary progressive (PPMS)**, **secondary progressive (SPMS)**, and **clinically isolated syndrome (CIS)** — each with distinct biology, prognosis, and therapeutic approach. MS is the **most common nontraumatic disabling neurological disease in young adults**, disproportionately affecting women and those of Northern European descent, with onset typically between ages 20-40. As an inpatient profee coder, MS is a **high-impact diagnosis** across neurology, medicine, and rehabilitation admissions — and FY2026 brought one of the biggest MS coding overhauls in a decade: **G35 is now a parent code and is no longer billable**. You must drill down to [[G35.A]], [[G35.B0]]-[[G35.B2]], [[G35.C0]]-[[G35.C2]], or [[G35.D]] based on documented disease course AND activity status. Every MS admission should trigger a documentation query if the neurologist hasn't specified subtype and current activity — the difference between active and non-active disease can drive HCC risk adjustment and DRG weight in meaningful ways.
@@ -100,57 +99,57 @@ _____
 >
 > |Code|Description|
 > |---|---|
-> |[[G35.A]]|Relapsing-remitting multiple sclerosis *(RRMS — most common form; ~85% of new diagnoses; discrete relapses with recovery periods)* — **⚠️ HCC**|
+> |**[[G35.A]]**|Relapsing-remitting multiple sclerosis *(RRMS — most common form; ~85% of new diagnoses; discrete relapses with recovery periods)* — **⚠️ HCC**|
 >
 > ##### Primary Progressive MS — Category G35.B
 > *(Steady neurological decline from symptom onset; no early relapses; document activity status based on MRI and clinical findings)*
 >
 > |Code|Description|
 > |---|---|
-> |[[G35.B0]]|Primary progressive multiple sclerosis, unspecified activity *(use only if activity status not documented)*|
-> |[[50 Medical Coding/ICD-10 Codes/G35.B1]]|Active primary progressive multiple sclerosis *(with evidence of inflammatory disease activity — new/enlarging MRI lesions or clinical worsening)* — **⚠️ HCC**|
-> |[[G35.B2]]|Non-active primary progressive multiple sclerosis *(without inflammatory disease activity — stable on imaging)* — **⚠️ HCC**|
+> |**[[G35.B0]]**|Primary progressive multiple sclerosis, unspecified activity *(use only if activity status not documented)*|
+> |**[[G35.B1]]**|Active primary progressive multiple sclerosis *(with evidence of inflammatory disease activity — new/enlarging MRI lesions or clinical worsening)* — **⚠️ HCC**|
+> |**[[G35.B2]]**|Non-active primary progressive multiple sclerosis *(without inflammatory disease activity — stable on imaging)* — **⚠️ HCC**|
 >
 > ##### Secondary Progressive MS — Category G35.C
 > *(Transition from RRMS to progressive course; may or may not have ongoing relapses; document activity status)*
 >
 > |Code|Description|
 > |---|---|
-> |[[G35.C0]]|Secondary progressive [[multiple sclerosis]], unspecified activity *(use only if activity status not documented)*|
-> |[[G35.C1]]|Active secondary progressive multiple sclerosis *(with ongoing relapses or new MRI lesions despite progressive course)* — **⚠️ HCC**|
-> |[[G35.C2]]|Non-active secondary progressive multiple sclerosis *(progressive without current inflammatory activity)* — **⚠️ HCC**|
+> |**[[G35.C0]]**|Secondary progressive [[multiple sclerosis]], unspecified activity *(use only if activity status not documented)*|
+> |**[[G35.C1]]**|Active secondary progressive multiple sclerosis *(with ongoing relapses or new MRI lesions despite progressive course)* — **⚠️ HCC**|
+> |**[[G35.C2]]**|Non-active secondary progressive multiple sclerosis *(progressive without current inflammatory activity)* — **⚠️ HCC**|
 >
 > ##### Unspecified MS
 >
 > |Code|Description|
 > |---|---|
-> |[[G35.D]]|Multiple sclerosis, unspecified *(includes: disseminated MS, generalized MS, MS NOS — use as last resort only)* — **⚠️ HCC**|
+> |**[[G35.D]]**|Multiple sclerosis, unspecified *(includes: disseminated MS, generalized MS, MS NOS — use as last resort only)* — **⚠️ HCC**|
 >
 > #### **Clinically Isolated Syndrome & Demyelinating Disease**
 >
 > |Code|Description|
 > |---|---|
-> |[[G37.9]]|Demyelinating disease of central nervous system, unspecified *(now used for Clinically Isolated Syndrome / CIS in FY2026)*|
-> |[[G36.0]]|Neuromyelitis optica (NMO / Devic disease) *(Excludes1 from G35 — distinct entity, not MS)*|
-> |[[G36.1]]|Acute and subacute hemorrhagic leukoencephalitis (Hurst disease)|
-> |[[G36.8]]|Other specified acute disseminated demyelination|
+> |**[[G37.9]]**|Demyelinating disease of central nervous system, unspecified *(now used for Clinically Isolated Syndrome / CIS in FY2026)*|
+> |**[[G36.0]]**|Neuromyelitis optica (NMO / Devic disease) *(Excludes1 from G35 — distinct entity, not MS)*|
+> |**[[G36.1]]**|Acute and subacute hemorrhagic leukoencephalitis (Hurst disease)|
+> |**[[G36.8]]**|Other specified acute disseminated demyelination|
 >
 > #### **Common MS Manifestations & Associated Codes**
 > *(Code additionally when documented as separate manifestations)*
 >
 > |Code|Description|
 > |---|---|
-> |[[H46.11]]|Retrobulbar neuritis, right eye *(optic neuritis — common MS manifestation)*|
-> |[[H46.12]]|Retrobulbar neuritis, left eye|
-> |[[H46.8]]|Other optic neuritis|
-> |[[G35.A]]|*(see above — optic neuritis may be the presenting CIS that evolves to RRMS)*|
-> |[[R20.2]]|Paraesthesia of skin *(numbness/tingling — MS sensory symptom)*|
-> |[[G81.10]]|Spastic hemiplegia affecting unspecified side *(MS motor complication)*|
-> |[[G82.20]]|Paraplegia, unspecified *(severe MS spinal cord involvement)*|
-> |[[N31.9]]|Neuromuscular dysfunction of bladder, unspecified *(neurogenic bladder — common MS complication)*|
-> |[[G35.A]]|*(document MS as cause when coding neurogenic bladder, spasticity, or cognitive dysfunction in MS patients)*|
-> |[[R41.3]]|Other amnesia / cognitive impairment *(MS-related cognitive dysfunction)*|
-> |[[G89.29]]|Other chronic pain *(MS-related neuropathic pain when not further specified)*|
+> |**[[H46.11]]**|Retrobulbar [[neuritis]], right eye *(optic neuritis — common MS manifestation)*|
+> |**[[H46.12]]**|Retrobulbar neuritis, left eye|
+> |**[[H46.8]]**|Other [[optic neuritis]]|
+> |**[[G35.A]]** | *(see above — optic neuritis may be the presenting CIS that evolves to RRMS)*|
+> |**[[R20.2]]**| [[Paraesthesia]] of skin *(numbness/tingling — MS sensory symptom)*|
+> |**[[G81.10]]**| [[spastic hemiplegia]] affecting unspecified side *(MS motor complication)*|
+> |**[[G82.20]]**| [[paraplegia]], unspecified *(severe MS spinal cord involvement)*|
+> |**[[N31.9]]**|[[Neuromuscular dysfunction]] of bladder, unspecified *(neurogenic bladder — common MS complication)*|
+> |**[[G35.A]]**|*(document MS as cause when coding neurogenic bladder, spasticity, or cognitive dysfunction in MS patients)*|
+> |**[[R41.3]]**|Other amnesia / cognitive impairment *(MS-related cognitive dysfunction)*|
+> |**[[G89.29]]**|Other chronic pain *(MS-related neuropathic pain when not further specified)*|
 >
 > ---
 >
@@ -232,7 +231,7 @@ _____
 >
 > ---
 >
-> > ⚠️ **Coding Note:** **G35 is no longer a valid billable code as of October 1, 2025** — it is now a parent header only. Every MS claim must use [[G35.A]], [[G35.B0]]-[[G35.B2]], [[G35.C0]]-[[G35.C2]], or [[G35.D]]. If the neurologist's documentation simply states "multiple sclerosis" without subtype and activity status, that's a query opportunity before billing — subtype and activity documentation directly impacts HCC risk adjustment scores (**CMS-HCC V28 category 198**) and supports medical necessity for high-cost DMTs. **Never use [[G35.D]] (unspecified)** if the chart contains any documentation of disease course — push for specificity every time. **[[G37.9]]** is now the designated code for **Clinically Isolated Syndrome (CIS)** — the first demyelinating event that doesn't yet meet McDonald criteria for MS — don't assign a G35.x code until MS is formally diagnosed. When coding **ocrelizumab (Ocrevus)** infusions, **[[96365]] + [[96366]]** for the additional hours are both separately billable and frequently missed on profee claims — ocrelizumab infusions routinely run 3+ hours. **[[0866T]]** (quantitative MRI brain analysis/iCobrain MS) is an add-on code to the primary MRI that is increasingly used for MS monitoring — it must be billed as an add-on and cannot stand alone. For inpatient profee, always check whether the admission was triggered by an **acute relapse** (IV steroids driving the admission) vs. an **elective DMT infusion** — the principal diagnosis selection differs significantly and impacts DRG assignment.
+> > ⚠️ **Coding Note:** **G35 is no longer a valid billable code as of October 1, 2025** — it is now a parent header only. Every MS claim must use **[[G35.A]], [[G35.B0]]-[[G35.B2]], [[G35.C0]]-[[G35.C2]], or [[G35.D]]**. If the neurologist's documentation simply states "**multiple sclerosis**" without subtype and activity status, that's a query opportunity before billing — subtype and activity documentation directly impacts HCC risk adjustment scores (**CMS-HCC V28 category 198**) and supports medical necessity for high-cost DMTs. **Never use [[G35.D]] (unspecified)** if the chart contains any documentation of disease course — push for specificity every time. **[[G37.9]]** is now the designated code for **Clinically Isolated Syndrome (CIS)** — the first demyelinating event that doesn't yet meet McDonald criteria for MS — don't assign a G35.x code until MS is formally diagnosed. When coding **ocrelizumab (Ocrevus)** infusions, **[[96365]] + [[96366]]** for the additional hours are both separately billable and frequently missed on profee claims — ocrelizumab infusions routinely run 3+ hours. **[[0866T]]** (**quantitative MRI brain analysis/iCobrain MS**) is an add-on code to the primary MRI that is increasingly used for MS monitoring — it must be billed as an add-on and cannot stand alone. For inpatient profee, always check whether the admission was triggered by an **acute relapse** (**IV steroids driving the admission**) vs. an **elective DMT infusion** — the principal diagnosis selection differs significantly and impacts DRG assignment.
 >
 _____
 >[!tip]- DERIVATIONS of [[multiple sclerosis]]
@@ -246,8 +245,9 @@ _____
 >[!faq]- Query functionality
 >```dataview
 >TABLE definition AS Definition
->FROM #medterm
->WHERE length(filter(definition, (word) => econtains([[multiple sclerosis]].definition, word))) > 0 AND file.name != [[multiple sclerosis]].file.name
+>FROM #medterm 
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots]]

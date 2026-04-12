@@ -59,7 +59,7 @@ _____
 > |Code|Description|
 > |---|---|
 > |**[[50 Medical Coding/ICD-10 Codes/R49.0]]**|Dysphonia (unspecified hoarseness).|
-> |**[[R49.1]]**|[[Aphonia]] (complete voice loss).|
+> |**[[R49.1]]**|[[aphonia]] (complete voice loss).|
 > |**[[J38.3]]**|Vocal cord paralysis.|
 > |**[[J04.0]]**|Acute laryngitis.|
 > |**[[G24.4]]**|[[Idiopathic orofacial dystonia]] (spasmodic dysphonia).|

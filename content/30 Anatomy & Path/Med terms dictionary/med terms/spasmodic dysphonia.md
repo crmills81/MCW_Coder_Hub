@@ -28,7 +28,7 @@ definition:
   - A focal neurological dystonia of the intrinsic laryngeal muscles causing involuntary spasms of the vocal cords during phonation, producing a strained-strangled, breathy, or broken voice quality
 ---
 >[!Note] DEFINITION of [[spasmodic dysphonia]]
->**Spasmodic dysphonia (SD)**, now more precisely termed **laryngeal dystonia**, is a **task-specific focal neurological disorder** in which **involuntary, sustained spasms of the intrinsic muscles of the larynx** occur selectively during **phonation (voice production)**, causing abnormal, effortful, or interrupted voice quality. Unlike structural vocal cord disorders (e.g., [[polyps]], [[paralysis]]), **spasmodic dysphonia** is fundamentally a **neurological movement disorder** — a form of **focal dystonia** originating from dysfunction in the **[[basal ganglia]]** and its connections, producing abnormal motor neuron signaling to the laryngeal musculature during speech. The condition is classified into three primary types based on which muscle group is affected: **Adductor spasmodic dysphonia (ADSD)** — by far the most common (**~87% of cases**) — involves [[spasms]] of the vocal cord-closing muscles (**thyroarytenoid, lateral cricoarytenoid, interarytenoid**), producing a **strained, strangled, or choked voice quality** with involuntary voice breaks during vowel sounds. **Abductor spasmodic dysphonia (ABSD)** involves spasms of the vocal cord-opening muscles (**posterior cricoarytenoid**), producing a **breathy, whispery, or aspirate voice** with prolonged voiceless segments. **Mixed spasmodic dysphonia** involves elements of both. Critically, all three types are **task-specific to speech** — symptoms are typically absent or markedly reduced during whispering, singing, laughing, crying, or yawning, which are key clinical differentiators used during laryngoscopic examination to confirm the diagnosis. The condition predominantly affects **women aged 40–60**, is generally **lifelong with no cure**, but responds well to **periodic botulinum toxin chemodenervation** of the affected laryngeal muscles, which remains the **gold-standard treatment**. In ICD-10-CM, [[spasmodic dysphonia]] is coded as **[[R49.0]]** (Dysphonia), as there is no dedicated spasmodic-[[dysphonia]]-specific code, though when documented explicitly as **laryngeal dystonia**, the code **[[G24.8]]** (Other [[dystonia]]) may be supported.
+>**Spasmodic dysphonia (SD)**, now more precisely termed **laryngeal dystonia**, is a **task-specific focal neurological disorder** in which **involuntary, sustained spasms of the intrinsic muscles of the larynx** occur selectively during **phonation (voice production)**, causing abnormal, effortful, or interrupted voice quality. Unlike structural vocal cord disorders (**e.g., [[polyps]], [[paralysis]]**), **spasmodic dysphonia** is fundamentally a **neurological movement disorder** — a form of **focal dystonia** originating from dysfunction in the **[[basal ganglia]]** and its connections, producing abnormal motor neuron signaling to the laryngeal musculature during speech. The condition is classified into three primary types based on which muscle group is affected: **Adductor spasmodic dysphonia (ADSD)** — by far the most common (**~87% of cases**) — involves [[spasms]] of the vocal cord-closing muscles (**thyroarytenoid, lateral cricoarytenoid, interarytenoid**), producing a **strained, strangled, or choked voice quality** with involuntary voice breaks during vowel sounds. **Abductor spasmodic dysphonia (ABSD)** involves spasms of the vocal cord-opening muscles (**posterior cricoarytenoid**), producing a **breathy, whispery, or aspirate voice** with prolonged voiceless segments. **Mixed spasmodic dysphonia** involves elements of both. Critically, all three types are **task-specific to speech** — symptoms are typically absent or markedly reduced during whispering, singing, laughing, crying, or yawning, which are key clinical differentiators used during laryngoscopic examination to confirm the diagnosis. The condition predominantly affects **women aged 40-60**, is generally **lifelong with no cure**, but responds well to **periodic botulinum toxin chemodenervation** of the affected laryngeal muscles, which remains the **gold-standard treatment**. In ICD-10-CM, [[spasmodic dysphonia]] is coded as **[[R49.0]]** (**Dysphonia**), as there is no dedicated spasmodic-[[dysphonia]]-specific code, though when documented explicitly as **laryngeal dystonia**, the code **[[G24.8]]** (**Other [[dystonia]]**) may be supported.
 _____
 >[!info]+ ETYMOLOGY of [[spasmodic dysphonia]]
 >#greek #latin
@@ -36,11 +36,11 @@ _____
 >|Component|Origin|Meaning|
 >|---|---|---|
 >|**[[spasmo-]]** / **[[spas-]]**|Greek _σπασμός_ (_spasmós_), from _σπάω_ (_spáō_), "to pull, tear, wrench"|"**Spasm, convulsion, involuntary contraction**" — denoting the sudden, involuntary muscle pulling characteristic of the disorder; also underlying [[spasm]], **spastic**|
->|**-odic**|Greek _-ōdēs_, via Latin _-odicus_|Adjectival suffix — "**having the quality or nature of**"; transforms the noun _spasm_ into the adjective _spasmodic_ ("of the nature of a spasm")|
+>|**[[-odic]]**|Greek _-ōdēs_, via Latin _-odicus_|Adjectival suffix — "**having the quality or nature of**"; transforms the noun _spasm_ into the adjective _spasmodic_ ("of the nature of a spasm")|
 >|**[[dys-]]**|Ancient Greek _δυσ-_ (_dys-_)|"**Bad, difficult, abnormal, disordered**" — the most productive negative prefix in medical Greek; appears in [[dysphagia]], [[dysarthria]], [[dyspnea]], [[dyskinesia]]|
 >|**[[-phonia]]** / **[[phon-]]**|Ancient Greek _φωνή_ (_phōnē_)|"**Sound, voice**" — from PIE root _\*bʰeh₂-_ meaning "**to speak**"; also underlying [[phonation]], [[aphonia]], [[microphone]], [[symphony]]|
 >
-> **Literally**: _"difficult or abnormal spasm-like voice"_ — compound of Greek _spasmōdēs_ ("**convulsive**") + _dysphōniā_ ("roughness or difficulty of sound/voice"). The term **dysphonia** entered New Latin and English in the **1700–10** period, from Greek _dysphōniā_, meaning "roughness of sound" (dys- + phōnē). **Spasmodic dysphonia** as a clinical entity was first formally described by **Traube in 1871**, who called it _spastische Dysphonie_ (**spastic dysphonia**). The term **laryngeal dystonia** has been preferred since the 1980s–1990s as the neurological mechanism became better understood, but **spasmodic dysphonia** remains the dominant clinical and coding term in current US practice. The suffix _-phonia_ is also seen in **aphonia** (complete loss of voice), **dysphonia** (impaired voice), **euphonia** (pleasant voice), and **hypophonia** (reduced vocal volume as in Parkinson disease).
+> **Literally**: _"difficult or abnormal spasm-like voice"_ — compound of Greek _spasmōdēs_ ("**convulsive**") + _dysphōniā_ ("**roughness or difficulty of sound/voice**"). The term **dysphonia** entered New Latin and English in the **1700-10** period, from Greek _dysphōniā_, meaning "roughness of sound" (dys- + phōnē). **Spasmodic dysphonia** as a clinical entity was first formally described by **Traube in 1871**, who called it _spastische Dysphonie_ (**spastic dysphonia**). The term **laryngeal dystonia** has been preferred since the 1980s-1990s as the neurological mechanism became better understood, but **spasmodic dysphonia** remains the dominant clinical and coding term in current US practice. The suffix _-phonia_ is also seen in **[[aphonia]]** (complete loss of voice), **dysphonia** (impaired voice), **[[euphonia]]** (pleasant voice), and **[[hypophonia]]** (reduced vocal volume as in Parkinson disease).
 _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
@@ -68,7 +68,7 @@ _____
 > - **[[Botulinum toxin (Botox)]]** — gold-standard treatment; injected into the [[thyroarytenoid]] (ADSD) or posterior [[cricoarytenoid]] (ABSD) muscles via percutaneous EMG-guided or laryngoscopic approach
 > - **[[Chemodenervation]]** — the pharmacological mechanism of Botox treatment; temporary muscle-weakening via acetylcholine blockade at the neuromuscular junction
 > - **[[Dysphonia]]** — the umbrella symptom and ICD-10-CM code for spasmodic dysphonia; **[[R49.0]]**; also coded for all other forms of impaired voice
-> - **[[Aphonia]]** — complete loss of voice; coded **[[R49.1]]**; the extreme end of the SD severity spectrum
+> - **[[aphonia]]** — complete loss of voice; coded **[[R49.1]]**; the extreme end of the SD severity spectrum
 > - **[[vocal cord paralysis]]** — **[[J38.01]]** / **[[J38.02]]**; structurally distinct from SD but often confused clinically; key differential: VCP is flaccid/fixed; SD cords are mobile with spasms
 > - **Muscle tension dysphonia (MTD)** — functional hypertonicity without neurological origin; must be ruled out before SD diagnosis; also coded **[[R49.0]]**
 > - **[[Laryngoscopy]] / [[Videostroboscopy]]** — essential diagnostic tool; reveals task-specific vocal cord spasms during phonation but not during whispering, coughing, or laughing
@@ -78,7 +78,7 @@ _____
 > - **Essential tremor of voice** — rhythmic voice oscillation distinct from SD; can coexist; classified under **[[G25.0]]**
 > - **Voice therapy** — adjunct treatment; less effective as monotherapy for SD than for MTD; CPT **[[92507]]**; used to maximize Botox outcomes
 > - **[[Phonosurgery]]** — surgical options for SD refractory to Botox; selective laryngeal adductor denervation-reinnervation (SLAD-R); not widely adopted
-> - **[[Recurrent laryngeal nerve (RLN)]]** — the peripheral nerve targeted by **chemodenervation**; motor supply to thyroarytenoid and posterior cricoarytenoid muscles
+> - **Recurrent laryngeal nerve (RLN)** — the peripheral nerve targeted by **[[chemodenervation]]**; motor supply to thyroarytenoid and posterior cricoarytenoid muscles
 
 _____
 
@@ -197,7 +197,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains(this.definition, word))) > 0 AND file.name != this.file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots]]

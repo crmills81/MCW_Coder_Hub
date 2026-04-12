@@ -48,7 +48,7 @@ _____
 > |---|---|
 > | **Segmental resection / Segmentectomy** | Removal of an anatomically discrete segment (e.g., lung segment, hepatic segment) |
 > | **En bloc resection** | Removal of a tumor along with surrounding tissue in one continuous piece; used in oncologic surgery |
-> | **Wedge resection** | Removal of a wedge-shaped portion of tissue (lung, liver); CPT [[32505]]–[[32507]] |
+> | **Wedge resection** | Removal of a wedge-shaped portion of tissue (lung, liver); CPT [[32505]]-[[32507]] |
 > | **Sleeve resection** | Cylindrical removal of a bronchus or tracheal segment with anastomosis |
 > | **Partial resection** | Removal of only part of a body part — maps to ICD-10-PCS root operation **Excision**, not Resection |
 > | **Total resection** | Complete removal of the entire organ or body part — maps to ICD-10-PCS root operation **Resection** |

@@ -22,7 +22,7 @@ definition:
   - Coughing up of blood or blood-tinged sputum originating from the lower respiratory tract
 ---
 >[!Note] DEFINITION of [[hemoptysis]]
->**Hemoptysis** is the **expectoration (coughing up) of blood or blood-streaked sputum originating from the lower respiratory tract** — specifically from the **bronchi, bronchioles, or lung parenchyma**. It is clinically distinguished from **[[hematemesis]]** (vomiting of blood from the GI tract) and **[[pseudohemoptysis]]** (blood originating from the nasopharynx or oropharynx that is expectorated but not truly coughed up from the lungs). **Hemoptysis** ranges in severity from **blood-streaked sputum** (most common, often benign) to **massive hemoptysis**, classically defined as **≥200–600 mL of blood in 24 hours** or any volume sufficient to cause **airway obstruction or hemodynamic compromise** — a life-threatening emergency. The **vast majority of bleeding** (approximately 90%) originates from the **bronchial circulation** (systemic arterial pressure) rather than the pulmonary circulation, which explains the potential for rapid exsanguination. Major etiologic categories include **infectious** ([[bronchitis]], [[bronchiectasis]], **tuberculosis**, lung abscess, [[aspergilloma]]), **neoplastic** (primary or metastatic lung malignancy), **cardiovascular** (pulmonary embolism, mitral [[stenosis]]), **autoimmune/vasculitic** ([[granulomatosis]] with [[polyangiitis]], Goodpasture syndrome, microscopic polyangiitis), and **iatrogenic** (post-[[bronchoscopy]], [[anticoagulation]]). In the inpatient and OTL/pulmonology setting, hemoptysis is a **CC** under MS-DRG grouping when coded as [[R04.2]], making documentation specificity important for accurate DRG capture.
+>**Hemoptysis** is the **expectoration (coughing up) of blood or blood-streaked sputum originating from the lower respiratory tract** — specifically from the **bronchi, bronchioles, or lung parenchyma**. It is clinically distinguished from **[[hematemesis]]** (vomiting of blood from the GI tract) and **[[pseudohemoptysis]]** (blood originating from the nasopharynx or oropharynx that is expectorated but not truly coughed up from the lungs). **Hemoptysis** ranges in severity from **blood-streaked sputum** (most common, often benign) to **massive hemoptysis**, classically defined as **≥200-600 mL of blood in 24 hours** or any volume sufficient to cause **airway obstruction or hemodynamic compromise** — a life-threatening emergency. The **vast majority of bleeding** (approximately 90%) originates from the **bronchial circulation** (systemic arterial pressure) rather than the pulmonary circulation, which explains the potential for rapid exsanguination. Major etiologic categories include **infectious** ([[bronchitis]], [[bronchiectasis]], **tuberculosis**, lung abscess, [[aspergilloma]]), **neoplastic** (primary or metastatic lung malignancy), **cardiovascular** (pulmonary embolism, mitral [[stenosis]]), **autoimmune/vasculitic** ([[granulomatosis]] with [[polyangiitis]], Goodpasture syndrome, microscopic polyangiitis), and **iatrogenic** (post-[[bronchoscopy]], [[anticoagulation]]). In the inpatient and OTL/pulmonology setting, hemoptysis is a **CC** under MS-DRG grouping when coded as [[R04.2]], making documentation specificity important for accurate DRG capture.
 _____
 >[!info]+ ETYMOLOGY of [[hemoptysis]]
 >#greek
@@ -40,7 +40,7 @@ _____
 > | Term | Context |
 > |---|---|
 > | **Blood-tinged sputum** | Mild hemoptysis; streaking without frank blood |
-> | **Massive hemoptysis** | ≥200–600 mL/24 hr or airway-threatening — life-threatening emergency |
+> | **Massive hemoptysis** | ≥200-600 mL/24 hr or airway-threatening — life-threatening emergency |
 > | **Submassive hemoptysis** | Clinically significant but below massive threshold |
 > | **Hemoptoe** | Archaic synonym (Greek/Latin medical texts) |
 > | **Pulmonary hemorrhage** | Broader term; includes intra-alveolar bleeding not always expectorated |
@@ -118,7 +118,7 @@ _____
 >
 > | Code | Description |
 > |---|---|
-> | **[[M31.30]]** | [[Granulomatosis]] with polyangiitis (Wegener's) without renal involvement |
+> | **[[M31.30]]** | [[granulomatosis]] with polyangiitis (Wegener's) without renal involvement |
 > | **[[M31.31]]** | Granulomatosis with polyangiitis (Wegener's) with renal involvement |
 > | **[[M31.7]]** | Microscopic polyangiitis _(ANCA-associated; DAH pattern)_ |
 > | **[[M31.0]]** | Hypersensitivity angiitis _(Goodpasture syndrome maps here when anti-GBM disease is the documented etiology)_ |

@@ -53,7 +53,7 @@ _____
 >
 > - **[[Dysphagia]]** — difficulty or impaired swallowing transport; distinct from but frequently co-occurring with odynophagia; coded R13.1x
 > - **[[Aphagia]]** — complete inability to swallow; [[R13.0]]; extreme end of swallowing dysfunction
-> - **[[Esophagitis]]** — mucosal inflammation of the esophagus; the most common structural cause of odynophagia
+> - **[[esophagitis]]** — mucosal inflammation of the esophagus; the most common structural cause of odynophagia
 > - **[[Candidal esophagitis]]** — [[B37.81]]; most common infectious cause; occurs in immunocompromised, diabetic, and steroid-inhaler patients
 > - **[[Eosinophilic esophagitis (EoE)]]** — [[K20.0]]; immune-mediated chronic esophagitis; odynophagia + dysphagia + food impaction
 > - **[[GERD (Gastroesophageal reflux disease)]]** — [[K21.00]] / [[K21.9]]; acid reflux causing esophageal mucosal injury and pain with swallowing

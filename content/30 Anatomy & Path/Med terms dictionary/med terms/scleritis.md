@@ -41,7 +41,7 @@ _____
 > - **[[Keratoscleritis]]** — Scleritis with concomitant [[corneal]] involvement **(peripheral ulcerative keratitis, PUK**)
 > - **[[Sclerocornea]]** — Congenital opacification of the cornea, distinct from scleritis
 > - **Scleral thinning / [[ectasia]]** — Sequela of necrotizing scleritis
-> - **[[Granulomatosis]] with [[polyangiitis]] (GPA)** — One of the most common systemic associations
+> - **[[granulomatosis]] with [[polyangiitis]] (GPA)** — One of the most common systemic associations
 > - **Rheumatoid arthritis (RA)** — Most common systemic disease linked to scleritis overall
 > - **Tenon's capsule** — Fibrous envelope surrounding the globe, often involved in posterior scleritis
 > - **Phenylephrine blanching test** — Negative in scleritis (**vessels don't blanch**); positive in [[episcleritis]]

@@ -93,7 +93,7 @@ last_updated: 2026-02-10
 
 **Glomerular diseases:**
 - [[Glomerulonephritis]]
-- [[Vasculitis]] (e.g., ANCA-associated)
+- [[vasculitis]] (e.g., ANCA-associated)
 - [[Lupus nephritis]]
 - Goodpasture syndrome
 
@@ -107,7 +107,7 @@ last_updated: 2026-02-10
 - Chronic interstitial nephritis
 
 **Other kidney diseases:**
-- [[Acute kidney injury]] ([[AKI]])
+- [[acute kidney injury]] ([[AKI]])
 - [[Chronic kidney disease]] ([[CKD]]) - advanced stages
 - [[Polycystic kidney disease]]
 
@@ -642,7 +642,7 @@ last_updated: 2026-02-10
 - [[Acute Tubular Necrosis (ATN)]]
 - [[benign prostatic hyperplasia (BPH)]]
 - [[Fractional Excretion of Sodium (FENa)]]
-- [[Dialysis]]
+- [[dialysis]]
 - [[Post-Obstructive Diuresis]]
 
 ---

@@ -64,8 +64,8 @@ _____
 > - **Detrusor sphincter dyssynergia (DSD)** — simultaneous detrusor contraction + sphincter contraction; common with **hyperreflexia**
 > - **[[Spinal cord injury (SCI)]]** — most common cause of both autonomic and detrusor **hyperreflexia**
 > - **Multiple sclerosis (MS)** — demyelinating cause of UMN **hyperreflexia** and bladder **hyperreflexia**
-> - **[[Stroke]] / [[Cerebral infarction]]** — UMN lesion causing contralateral **hyperreflexia**
-> - **[[Cerebral palsy]]** — developmental UMN cause of spastic **hyperreflexia**
+> - **[[stroke]] / [[Cerebral infarction]]** — UMN lesion causing contralateral **hyperreflexia**
+> - **[[cerebral palsy]]** — developmental UMN cause of spastic **hyperreflexia**
 > - **ALS (Amyotrophic Lateral Sclerosis)** — mixed UMN/LMN disease; **hyperreflexia** prominent in early UMN phase
 > - **[[Urodynamics]]** — diagnostic testing modality for detrusor **hyperreflexia**/NDO
 
@@ -96,7 +96,7 @@ _____
 > | **[[N31.0]]** | Uninhibited **neuropathic bladder**, not elsewhere classified _(suprasacral lesion — the ICD-10-CM equivalent of detrusor **hyperreflexia**/NDO)_ |
 > | **[[N31.1]]** | Reflex **neuropathic bladder**, not elsewhere classified _(complete suprasacral **SCI** with no voluntary control)_ |
 > | **[[N31.2]]** | Flaccid **neuropathic bladder**, not elsewhere classified _(infrasacral/LMN lesion — hyporeflexic bladder; contrast with N31.0/N31.1)_ |
-> | **[[N31.8]]** | Other **neuromuscular dysfunction of bladder** _(use when NDO doesn't fit N31.0–N31.2 exactly; e.g., mixed pattern)_ |
+> | **[[N31.8]]** | Other **neuromuscular dysfunction of bladder** _(use when NDO doesn't fit N31.0-N31.2 exactly; e.g., mixed pattern)_ |
 > | **[[N31.9]]** | **Neuromuscular dysfunction of bladder**, unspecified |
 > | **[[N32.81]]** | Overactive bladder _(non-neurogenic OAB; distinct from neurogenic detrusor overactivity — do not conflate)_ |
 >

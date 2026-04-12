@@ -33,7 +33,7 @@ _____
 >|**[[laryng-]]** / **[[laryngo-]]**|Greek _λάρυγξ_ (lárynx), genitive _láryngos_|"**Larynx**," "**upper windpipe**," "**throat**" — the voice-producing structure|
 >|**[[-itis]]**|Greek _-ῖτις_ (-îtis)|"**Inflammation of**" — the standard medical suffix for inflammatory conditions|
 >
-> **Literally**: _"inflammation of the larynx"_ — a transparent and precise anatomical descriptor. The Greek _lárynx_ originally referred broadly to the upper throat and was adopted directly into Latin medical terminology. The noun-forming suffix _-itis_ entered medicine through Greek and became the universal marker for inflammatory disease in the 18th–19th century. The combining form **[[laryngo-]]** appears across the laryngeal family: **[[laryngoscopy]]**, **[[laryngectomy]]**, **[[laryngotracheitis]]**, **[[laryngomalacia]]**, and **[[laryngoplasty]]**.
+> **Literally**: _"inflammation of the larynx"_ — a transparent and precise anatomical descriptor. The Greek _lárynx_ originally referred broadly to the upper throat and was adopted directly into Latin medical terminology. The noun-forming suffix _-itis_ entered medicine through Greek and became the universal marker for inflammatory disease in the 18th-19th century. The combining form **[[laryngo-]]** appears across the laryngeal family: **[[laryngoscopy]]**, **[[laryngectomy]]**, **[[laryngotracheitis]]**, **[[laryngomalacia]]**, and **[[laryngoplasty]]**.
 _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
@@ -55,7 +55,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 >
 > - **[[Dysphonia]]** — impaired or altered voice quality; the primary symptom of laryngitis; coded separately as [[R49.0]] when it stands alone
-> - **[[Aphonia]]** — complete loss of voice; [[R49.1]]; extreme end of vocal cord inflammation
+> - **[[aphonia]]** — complete loss of voice; [[R49.1]]; extreme end of vocal cord inflammation
 > - **[[Epiglottitis]]** — acute inflammation of the epiglottis; potentially life-threatening airway emergency; distinct from laryngitis
 > - **[[Croup]]** — acute obstructive laryngitis in children; parainfluenza-driven subglottic edema; [[J05.0]]
 > - **[[Tracheitis]]** — inflammation of the trachea; frequently co-occurs with laryngitis as laryngotracheitis
