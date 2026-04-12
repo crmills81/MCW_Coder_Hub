@@ -13,7 +13,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: 'google', tagId: '<G-ERKZQHRW7W>',
+      provider: 'google', 
+      tagId: 'G-ERKZQHRW7W',
     },
     locale: "en-US",
     baseUrl: "crmills81.github.io/MCW_Coder_Hub",
@@ -93,8 +94,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-     // Plugin.CustomOgImages(),
     ],
   },
 }
