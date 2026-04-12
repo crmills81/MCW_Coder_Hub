@@ -15,7 +15,7 @@ export const sharedPageComponents: SharedLayout = {
       "My Pinterest": "https://www.pinterest.com/HappyCOVERGIRLCoArts/",
     },
     description:
-      "Some ICD-10-CM codes may be root codes without all 7 characters, where applicable. With that said, this content is for general educational and reference purposes only and does not replace official coding resources. Users are responsible for verifying all codes and guidelines with current code books, encoder software, payer policies, and authoritative guidance before assigning or billing any codes.<br>",
+      "Some ICD-10-CM codes may be root codes without all 7 characters, where applicable. With that said, this content is for general educational and reference purposes only and does not replace official coding resources. Users are responsible for verifying all codes and guidelines with current code books, encoder software, payer policies, and authoritative guidance before assigning or billing any codes.",
   }),
 }
 
