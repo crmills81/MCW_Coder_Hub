@@ -61,9 +61,11 @@ const config: QuartzConfig = {
       },
     },
   },
-plugins: {
+],
+  },
+  plugins: {
     transformers: [
-      Plugin.FrontMatter(), // Removed the "]" from here
+      Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),
@@ -79,7 +81,7 @@ plugins: {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-    ], // <--- This bracket now correctly closes the entire list
+    ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
