@@ -5,7 +5,7 @@ description: Welcome to my work in progress! Lol
 # 💥 Coding Dashboard
 >
 ## 🎯 Purpose
-Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare with me if you're someone other than me visiting. I'll eventually get to fixing the broken links. Anyone who's a coder already knows this might take a long time lolol... 🤓
+Medical coding hub for **Ophthalmology**, **Urology**, **PMR** & **Otolaryngology** for my employer. Bare with me if you're someone other than me visiting. This is a constantly growing environment so fixing the broken links will happen slowly but will eventually happen. Anyone who's also a coder already knows this might take a long time lolol... 🤓
 
 ---
 
@@ -69,4 +69,4 @@ Medical coding hub for Ophthalmology, Urology & Otolaryngology for MCW. Bare wit
 
 <br>
 
-<font color="#7f7f7f"> 🆒 Always verify codes and guidelines with current code books, encoder tools, and payer policies before use. 🆒 </font>
+<font color="#7f7f7f"> 🆒 **Always** verify codes and guidelines with current code books, encoder tools, and payer policies with use use. 🆒 </font>
