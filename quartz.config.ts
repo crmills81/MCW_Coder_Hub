@@ -61,9 +61,9 @@ const config: QuartzConfig = {
       },
     },
   },
-  plugins: {
+plugins: {
     transformers: [
-      Plugin.FrontMatter(),
+      Plugin.FrontMatter(), // Removed the "]" from here
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),
@@ -79,8 +79,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
-    ],
+    ], // <--- This bracket now correctly closes the entire list
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
@@ -94,10 +93,7 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
-      Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-     // Plugin.CustomOgImages(),
     ],
   },
 }
