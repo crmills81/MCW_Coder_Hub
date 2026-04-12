@@ -13,7 +13,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
         {/* LOGO INSERTED HERE */}
         <img 
           src={`https://crmills81.github.io/MCW_Coder_Hub/static/logo.png`} 
-          style="width: 80px; height: auto; display: block; margin-bottom: 0.5rem; border-radius: 8px;" 
+          style="width: 120px; height: auto; display: block; margin-bottom: 0.5rem; border-radius: 8px;" 
           alt="Logo"
         />
         {title}
