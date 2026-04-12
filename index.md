@@ -5,7 +5,7 @@ description: Welcome to my work in progress! Lol
 # 💥 Coding Dashboard
 >
 ## 🎯 Purpose
-Medical coding hub for **Ophthalmology**, **Urology**, **PMR** & **Otolaryngology** for my employer. Bare with me if you're someone other than me visiting. This is a constantly growing environment so fixing the broken links will happen slowly but will eventually happen. Anyone who's also a coder already knows this might take a long time lolol... 🤓
+Medical coding hub for **Ophthalmology**, **Urology**, **PMR** & **Otolaryngology** for my employer. Bare with me if you're someone other than me visiting. This is a constantly growing environment so fixing the broken links will happen slowly but will eventually happen. Anyone who's also a coder already knows this might take a long time lolol... 🤓👍🏽
 
 ---
 
