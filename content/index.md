@@ -5,13 +5,12 @@ last_updated: 2026-03-24
 # 🧬 Coding Dashboard
 >
 ## 🎯 Purpose
-Medical coding hub for [[Ophthalmology]], [[Urology]] & [[Otolaryngology]] for MCW. Bare with me if you're someone other than me visiting. I'll eventually get to fixing the broken links. Anyone who's a coder already knows this may take a long time lolol... 🤓👍
-
+Medical coding hub for **Ophthalmology**, **Urology**, **Physical Medicine & Rehabilation** and **Otolaryngology** for my employer. Bare with me if you're someone other than me visiting. This is a constantly growing environment so fixing the broken links will happen slowly but will eventually happen. Anyone who's also a coder already knows this might take a long time lolol... 🤓👍🏽
 ---
 
 # 🫀 Medical Coding References
 >
-## High‑Yield References
+### High‑Yield References
 
 - [[MDM Tables]]
 - [[Facility E&M Quick Guide]]
@@ -22,7 +21,7 @@ Medical coding hub for [[Ophthalmology]], [[Urology]] & [[Otolaryngology]] for M
 - [[50 Medical Coding/CPT Codes]]
 - [[50 Medical Coding/ICD-10 Codes]]
 
-## Coding Rules & Guides
+### Coding Rules & Guides
 - [[Inpatient E&M Codes]]
 - [[Proper Use of Modifiers 59, XE, XP, XS & XU]]
 - [[Phobias]]
@@ -32,7 +31,7 @@ Medical coding hub for [[Ophthalmology]], [[Urology]] & [[Otolaryngology]] for M
 
 # ⚕️ Practice & Scenarios
 >
-## Coding Practice
+### Coding Practice
 - [[10 Coding Scenarios]]
 - [[Practice Case 1 - {{Urology}}]]
 - [[Practice Case 2 - {{Urology}}]]
@@ -40,7 +39,7 @@ Medical coding hub for [[Ophthalmology]], [[Urology]] & [[Otolaryngology]] for M
 - [[Facility E&M Quick Guide]]
 
 
-## Audit Practice
+### Audit Practice
 - [[Handling Coding-Related Insurance Denials]]
 - [[CPT_99214_Template]]
 - [[CPT_99254-Template]]
@@ -50,13 +49,13 @@ Medical coding hub for [[Ophthalmology]], [[Urology]] & [[Otolaryngology]] for M
 
 # 😬 CIC Exam Prep
 >
-## CIC Study Tools
+### CIC Study Tools
 - [[CIC Study Plan]]
 - [[Root Operations]]
 - [[Comprehensive Study Guide and Briefing for the AAPC CIC Certification Exam]]
 - [[Mastering Inpatient Coding for CIC]]
 
-## High‑Yield Topics
+### High‑Yield Topics
 - [[PCS Body Part Index]]  
 - [[Facility Billing Handbook]]
 - [[Spinal Procedures]]  
@@ -64,7 +63,7 @@ Medical coding hub for [[Ophthalmology]], [[Urology]] & [[Otolaryngology]] for M
 
 ---
 
-# 🔗 Cross‑Links
+## 🔗 Cross‑Links
 - [[CIC Study Notes]]
 - [[Audit Checklists]]
 - [[CMS Medicare Guidelines]]
