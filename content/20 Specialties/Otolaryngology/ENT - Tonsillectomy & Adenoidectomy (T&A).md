@@ -3,6 +3,7 @@ tags:
   - medical_coding/guideline
   - specialty/ent
   - context/mcw_profee
+  - otolaryngology
 creation_date: 2026-01-22
 ---
 

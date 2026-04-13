@@ -1,4 +1,4 @@
-**Tags:** #coding/pos #reimbursement #medicare
+**Tags:** #coding/pos #reimbursement #medicare #pmr
 
 ## Overview
 Place of Service (POS) codes indicate where the service was rendered. This significantly impacts reimbursement rates for PM&R services.

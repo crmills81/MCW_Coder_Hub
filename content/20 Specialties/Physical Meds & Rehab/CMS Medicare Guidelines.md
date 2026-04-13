@@ -1,6 +1,6 @@
 # CMS Medicare Guidelines for PM&R
 
-**Tags:** #compliance #medicare #cms #policy
+**Tags:** #compliance #medicare #cms #policy #pmr #ophthalmology #otolayrngology #urology 
 
 ## Key Medicare Resources
 
@@ -64,16 +64,16 @@
 - Can request medical records up to 3 years back
 
 ## Appeals Process
-1. Redetermination (120 days)
-2. Reconsideration (180 days)
-3. ALJ Hearing (60 days)
-4. Medicare Appeals Council (60 days)
-5. Federal Court (60 days)
+1. Redetermination (**120** days)
+2. Reconsideration (**180** days)
+3. ALJ Hearing (**60** days)
+4. Medicare Appeals Council (**60** days)
+5. Federal Court (**60** days)
 
 
 > [!TIP] Stay Updated
 > Medicare policies change frequently. Subscribe to your MAC's email updates and check CMS.gov quarterly.
 
-[[PM&R Coding MOC]]
+[[00 PM&R Coding MOC]]
 [[Medical Necessity in Rehab]]
 [[Therapy Modifiers]]

@@ -5,6 +5,7 @@ tags:
   - amputation
   - prosthetics
   - pain-management
+  - pmr
 title: Amputation Care & Prosthetics Coding Guidelines
 date: 2026-03-26
 category: PM&R

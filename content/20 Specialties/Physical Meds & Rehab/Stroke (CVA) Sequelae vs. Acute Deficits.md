@@ -4,6 +4,7 @@ date: 2026-03-26
 category: Neurology
 tags:
   - ICD-10
+  - pmr
   - neurology
   - stroke
   - sequelae
@@ -18,13 +19,13 @@ aliases:
 ## 1. The Golden Rule: Timing is Everything
 The fundamental difference between acute stroke coding and sequelae coding comes down to the patient's current phase of care. 
 
-* **Acute Phase (I63.- Cerebral Infarction):** The patient is actively having the stroke or is still in the hospital receiving initial acute treatment. Deficits (like [[aphasia]] or [[hemiplegia]]) are coded using Chapter 18 symptom codes (e.g., [[R47.01]] for aphasia) or standard Chapter 6 paralytic codes (e.g., G81.9-).
-* **Sequelae Phase (I69.- Sequelae of Cerebrovascular Disease):** The acute phase is over, the patient has been discharged from the initial acute setting, and they are now dealing with the "late effects." You can use I69.- codes at any point after the acute phase, whether it's one month or ten years later.
+* **Acute Phase (I63.- Cerebral Infarction):** The patient is actively having the stroke or is still in the hospital receiving initial acute treatment. Deficits (like [[aphasia]] or [[hemiplegia]]) are coded using Chapter 18 symptom codes (e.g., [[R47.01]] for aphasia) or standard Chapter 6 paralytic codes (**e.g., G81.9-**).
+* **Sequelae Phase (I69.- Sequelae of Cerebrovascular Disease):** The acute phase is over, the patient has been discharged from the initial acute setting, and they are now dealing with the "**late effects.**" You can use I69.- codes at any point after the acute phase, whether it's one month or ten years later.
 
 > **Crucial Rule:** Never code an acute stroke (I63.-) and a sequelae of a stroke (I69.-) together for the *same* event. You only code them together if the patient is suffering a brand new acute stroke while simultaneously having residual deficits from a *previous, historical* stroke.
 
 ## 2. Default Dominance Rules (The Exam Favorite)
-When coding [[hemiplegia]] or [[hemiparesis]], you need the affected side and whether it is the patient's dominant or non-dominant side. If the provider documents the side (Left/Right) but forgets to document dominance, ICD-10-CM provides strict default rules:
+When coding [[hemiplegia]] or [[hemiparesis]], you need the affected side and whether it is the patient's dominant or non-dominant side. If the provider documents the side (Left/Right) but forgets to document dominance, **ICD-10-CM** provides strict default rules:
 
 * **Ambidextrous:** Default to **Dominant**
 * **Left side affected:** Default to **Non-Dominant**
@@ -48,10 +49,10 @@ Difficulty swallowing. This condition has a specific sequencing rule.
 ### Hemiplegia and Hemiparesis
 Paralysis or weakness on one side of the body.
 * **Code Range:** I69.35- 
-* **Coding Tip:** Requires a 6th character to identify the side and dominance (e.g., [[I69.351]] for right dominant side).
+* **Coding Tip:** Requires a 6th character to identify the side and dominance (**e.g., [[I69.351]] for right dominant side**).
 
 ### Hemiplegia 6th Character Quick Reference (I69.35-)
-When coding I69.35- ([[Hemiplegia]] and [[hemiparesis]] following cerebral infarction), the 6th character identifies the specific side and dominance. 
+When coding I69.35- (**[[hemiplegia]] and [[hemiparesis]] following cerebral infarction**), the 6th character identifies the specific side and dominance. 
 
 | 6th Character | Affected Side | Dominance | Full Code |
 | :--- | :--- | :--- | :--- |
@@ -61,7 +62,7 @@ When coding I69.35- ([[Hemiplegia]] and [[hemiparesis]] following cerebral infar
 | **4** | Left | Non-dominant | [[I69.354]] |
 | **9** | Unspecified | Unspecified | [[I69.359]] |
 
-> **Coder's Reminder:** If the documentation says "**right hemiplegia**" but doesn't mention if the patient is right-handed or left-handed, apply the default rule (Right = Dominant) and use **[[I69.351]]**.
+> **Coder's Reminder:** If the documentation says "**right hemiplegia**" but doesn't mention if the patient is right-handed or left-handed, apply the default rule (**Right = Dominant**) and use **[[I69.351]]**.
 
 ## 4. Inpatient vs. Profee Considerations
 * **Facility Impact:** Acute strokes (I63.-) are high-weighted Medical Decision Making/DRG drivers. Sequelae codes (I69.-) are generally considered CCs (Complications and Comorbidities) if they require active management, nursing care, or physical therapy during the admission.

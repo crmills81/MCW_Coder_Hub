@@ -1,5 +1,5 @@
-**Tags:** #coding/em #office-visit
-
+**Tags:** #coding/em #office-visit #pmr
+ 
 ## Guidelines
 Follows standard **2021/2023 E/M Changes** (**CPT [[99202]]-[[99215]]**).
 

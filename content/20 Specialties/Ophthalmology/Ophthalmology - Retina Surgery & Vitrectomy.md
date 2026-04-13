@@ -1,21 +1,21 @@
 
-# [[Retina Surgery & Vitrectomy]]
+#Retina #ophthalmology
 
 ### **Complex vs. Simple Repair**
 
 - **[[67113]] (Complex Repair):** Requires specific pathology. Documentation must explicitly state one of the following to justify "complex":
     - [[Proliferative vitreoretinopathy]] (PVR) grade C-1 or greater.
     - Diabetic traction [[retinal detachment]].
-    - [[Retinopathy]] of prematurity.
+    - [[retinopathy]] of prematurity.
     - Giant retinal tear (>90 degrees).
-- **Mandatory Elements for 67113:** Must perform **Vitrectomy AND Membrane Peeling**. If peeling is not done, you cannot use 67113.
+- **Mandatory Elements for 67113:** Must perform **Vitrectomy AND Membrane Peeling**. If peeling is not done, you cannot use [[67113]].
 
 ### **Bundling Alerts (NCCI)**
 
 - **Lensectomy ([[66850]]) with Vitrectomy ([[67036]]):** Generally **bundled**.
-    - _Rule:_ You cannot bill 66850 separately unless the lens is removed and an IOL is **NOT** inserted (left [[aphakic]]).
+    - _Rule:_ You cannot bill **66850** separately unless the lens is removed and an IOL is **NOT** inserted (left [[aphakic]]).
     - _Exception:_ If the code descriptor includes "removal of lens" (e.g., [[67113]]), you never bill [[lensectomy]] separately.
-- **Air/Gas/Oil:** Tamponade is included in the main [[vitrectomy]] codes ([[67042]], [[67108]], [[67113]]) and is not separately billable.
+- **Air/Gas/Oil:** [[Tamponade]] is included in the main [[vitrectomy]] codes ([[67042]], [[67108]], [[67113]]) and is not separately billable.
 
 ### **New Technology (2025)**
 
@@ -81,7 +81,7 @@ Retina patients often require repeat surgeries. Choosing between **[[58]]** and 
 
 ### **ICD-10 Specificity Checklist**
 
-- [ ] **[[Diabetic Retinopathy]]:** Must specify if **with Traction Detachment** (e.g., E11.353 _not involving macula_ vs. E11.352 _involving macula_).
+- [ ] **[[diabetic retinopathy]]:** Must specify if **with Traction Detachment** (e.g., E11.353 _not involving macula_ vs. E11.352 _involving macula_).
 - [ ] **Vitreous Hemorrhage:** H43.1- (Specify Right, Left, Bilateral).
 - [ ] **PVR:** If billing 67113 for PVR, ensure a code from **H33.4-** (Traction detachment) or **H59.81-** (Chorioretinal scars/PVR after surgery) is linked.
 

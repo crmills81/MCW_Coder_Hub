@@ -1,4 +1,4 @@
-**Tags:** #coding/cpt #therapy #timed-codes
+**Tags:** #coding/cpt #therapy #timed-codes #pmr
 
 ## Overview
 These codes represent therapeutic procedures. They are divided into **Timed** and **Untimed** codes.

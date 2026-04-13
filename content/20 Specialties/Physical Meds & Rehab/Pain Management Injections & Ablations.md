@@ -1,7 +1,8 @@
 ---
 tags:
   - CPT
-  - ICD-10
+  - ICD-10-CM
+  - pmr
   - pain-management
   - spine
   - injections

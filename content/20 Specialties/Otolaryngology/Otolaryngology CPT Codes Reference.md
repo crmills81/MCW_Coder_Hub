@@ -1,14 +1,6 @@
 ---
-title: Otolaryngology CPT Codes Reference
-aliases:
-  - ENT CPT Reference
-  - Otolaryngology CPT MOC
-  - ENT Surgery CPT Index
-  - Otolaryngology Procedure Codes
-  - ENT CPT Codes
 tags:
   - CPT
-  - MOC
   - otolaryngology
   - ENT
   - surgery
@@ -23,7 +15,13 @@ tags:
   - tonsil
   - septum
   - endoscopy
-  - MDC03
+title: Otolaryngology CPT Codes Reference
+aliases:
+  - ENT CPT Reference
+  - Otolaryngology CPT MOC
+  - ENT Surgery CPT Index
+  - Otolaryngology Procedure Codes
+  - ENT CPT Codes
 note_type: MOC
 specialty: Otolaryngology
 chapter_range: Surgery — Ear (69000-69979); Surgery — Nose (30000-30999); Surgery — Larynx/Trachea/Pharynx/Mouth (31000-31899, 42000-42999)
@@ -42,22 +40,24 @@ related_notes:
 
 ## What This MOC Covers
 
-This reference index covers the major **CPT code families in Otolaryngology (ENT)** — organized by anatomic region and procedure type. Use this note to navigate to individual procedure notes, identify correct code selection within a family, understand bundling rules, and locate modifier and global period guidance. Codes span the Ear, Nose, Throat, Larynx, Trachea, Salivary Glands, and Head/Neck Surgery sections of CPT.
+This reference index covers the major **CPT code families in Otolaryngology (ENT)** — organized by anatomic region and procedure type. Use this note to navigate to individual procedure notes, identify correct code selection within a family, understand bundling rules, and locate modifier and global period guidance. Codes span the **Ear, Nose, Throat, Larynx, Trachea, Salivary Glands, and Head/Neck Surgery** sections of CPT.
 
 ---
 
 ## 💰 Anatomic Navigation Index
 
-- [[#Ear — External Ear]]
-- [[#Ear — Middle Ear]]
-- [[#Ear — Inner Ear]]
-- [[#Ear — Temporal Bone and Mastoid]]
-- [[#Nose — Incision, Drainage, Biopsy]]
-- [[#Nose — Excision and Repair]]
+
+- [[#👂🏾 Ear — External Ear]]
+- [[#👂🏾 Ear — Middle Ear]]
+- [[#👂🏾 Ear — Inner Ear]]
+- [[#👂🏾 Ear — Temporal Bone and Mastoid]]
+- [[#👃🏾Nose — Incision, Drainage, Biopsy]]
+- [[#👃Nose — Excision and Repair]]
 - [[#Nose — Septum]]
 - [[#Nose — Turbinates]]
 - [[#Nose — Epistaxis Control]]
 - [[#Nose — Nasal Endoscopy (FESS)]]
+- [[#FESS Building-Block Coding Model]]
 - [[#Larynx and Trachea]]
 - [[#Pharynx and Adenoids]]
 - [[#Tonsils]]
@@ -66,8 +66,7 @@ This reference index covers the major **CPT code families in Otolaryngology (ENT
 - [[#Head and Neck — Excision and Neck Dissection]]
 - [[#MS-DRG Reference]]
 - [[#Global Period Quick Reference]]
-- [[#Modifier Quick Reference]]
-- [[#Common ICD-10-CM Diagnoses]]
+- [[#Modifier Quick Reference — ENT]]
 
 ---
 
@@ -75,25 +74,25 @@ This reference index covers the major **CPT code families in Otolaryngology (ENT
 
 | CPT | Description | Global | Notes |
 |-----|-------------|--------|-------|
-| 69000 | Drainage of external ear, abscess or hematoma; simple | 010 | Incision and drainage, external auditory canal |
-| 69005 | Drainage of external ear, abscess or hematoma; complicated | 010 | Deep or complex EAC abscess |
-| 69020 | Drainage of external auditory canal, abscess | 010 | Canal abscess |
-| 69090 | Ear piercing | 000 | Minor procedure |
-| 69100 | Biopsy of external ear | 000 | Skin or cartilage biopsy |
-| 69105 | Biopsy of external auditory canal | 000 | EAC lesion biopsy |
-| 69110 | Excision of external ear, partial, simple repair | 090 | Partial auriculectomy |
-| 69120 | Excision of external ear, complete amputation | 090 | Total auriculectomy |
-| 69140 | Excision, exostosis of external auditory canal | 090 | Surfer's ear |
-| 69145 | Excision, soft tissue lesion, external auditory canal | 090 | EAC soft tissue |
-| 69150 | Radical excision, external auditory canal lesion, without neck dissection | 090 | Malignant EAC lesion |
-| 69155 | Radical excision of external auditory canal lesion, with neck dissection | 090 | With LND |
-| 69200 | Removal of foreign body, external auditory canal; without general anesthesia | 000 | FB removal, office |
-| 69205 | Removal of foreign body, external auditory canal; with general anesthesia | 000 | FB removal, OR |
-| 69209 | Removal of impacted cerumen, irrigation or instrumentation; unilateral | 000 | Lavage/irrigation only |
-| **69210** | **Removal of impacted cerumen requiring instrumentation; unilateral** | **000** | **Curette/suction; bilateral = -50** |
-| 69220 | Debridement, mastoidectomy cavity; simple | 010 | Mastoid bowl cleaning |
-| 69222 | Debridement, mastoidectomy cavity; complex | 010 | Extensive debridement |
-| 69300 | Otoplasty | 090 | Cosmetic/reconstructive ear pinning |
+| [[69000]] | Drainage of external ear, abscess or hematoma; simple | 010 | Incision and drainage, external auditory canal |
+| [[69005]] | Drainage of external ear, abscess or hematoma; complicated | 010 | Deep or complex EAC abscess |
+| [[69020]] | Drainage of external auditory canal, abscess | 010 | Canal abscess |
+| [[69090]] | Ear piercing | 000 | Minor procedure |
+| [[69100]] | Biopsy of external ear | 000 | Skin or cartilage biopsy |
+| [[69105]] | Biopsy of external auditory canal | 000 | EAC lesion biopsy |
+| [[69110]] | Excision of external ear, partial, simple repair | 090 | Partial auriculectomy |
+| [[69120]] | Excision of external ear, complete amputation | 090 | Total auriculectomy |
+| [[69140]] | Excision, exostosis of external auditory canal | 090 | Surfer's ear |
+| [[69145]] | Excision, soft tissue lesion, external auditory canal | 090 | EAC soft tissue |
+| [[69150]] | Radical excision, external auditory canal lesion, without neck dissection | 090 | Malignant EAC lesion |
+| [[69155]] | Radical excision of external auditory canal lesion, with neck dissection | 090 | With LND |
+| [[69200]] | Removal of foreign body, external auditory canal; without general anesthesia | 000 | FB removal, office |
+| [[69205]] | Removal of foreign body, external auditory canal; with general anesthesia | 000 | FB removal, OR |
+| [[69209]] | Removal of impacted cerumen, irrigation or instrumentation; unilateral | 000 | Lavage/irrigation only |
+| **[[69210]]** | **Removal of impacted cerumen requiring instrumentation; unilateral** | **000** | **Curette/suction; bilateral = -50** |
+| [[69220]] | Debridement, mastoidectomy cavity; simple | 010 | Mastoid bowl cleaning |
+| [[69222]] | Debridement, mastoidectomy cavity; complex | 010 | Extensive debridement |
+| [[69300]] | Otoplasty | 090 | Cosmetic/reconstructive ear pinning |
 
 ---
 
@@ -103,12 +102,12 @@ This reference index covers the major **CPT code families in Otolaryngology (ENT
 
 | CPT | Description | Global | Notes |
 |-----|-------------|--------|-------|
-| 69420 | Myringotomy including aspiration and/or Eustachian tube inflation | 010 | No tube inserted |
-| 69421 | Myringotomy including aspiration, with general anesthesia | 010 | Aspiration under GA, no tube |
-| 69433 | Tympanostomy, local or topical anesthesia | 010 | Tube insertion, local anesthesia — office |
-| **69436** | **Tympanostomy, general anesthesia** | **010** | **Tube insertion under GA; bilateral = -50** |
-| 69440 | Middle ear exploration through postauricular or ear canal incision | 090 | Exploration |
-| 69450 | Tympanolysis, transcanal | 090 | Lysis of tympanic membrane adhesions |
+| [[69420]] | Myringotomy including aspiration and/or Eustachian tube inflation | 010 | No tube inserted |
+| [[69421]] | Myringotomy including aspiration, with general anesthesia | 010 | Aspiration under GA, no tube |
+| [[69433]] | Tympanostomy, local or topical anesthesia | 010 | Tube insertion, local anesthesia — office |
+| **[[69436]]** | **Tympanostomy, general anesthesia** | **010** | **Tube insertion under GA; bilateral = -50** |
+| [[69440]] | Middle ear exploration through postauricular or ear canal incision | 090 | Exploration |
+| [[69450]] | Tympanolysis, transcanal | 090 | Lysis of tympanic membrane adhesions |
 
 **Tympanoplasty**
 

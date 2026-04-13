@@ -3,7 +3,8 @@ title: Spinal Cord Injuries (SCI) Coding Guidelines
 date: 2026-03-26
 category: PM&R
 tags:
-  - ICD-10
+  - ICD-10-CM
+  - pmr
   - neurology
   - spinal-cord-injury
   - neurogenic-bladder

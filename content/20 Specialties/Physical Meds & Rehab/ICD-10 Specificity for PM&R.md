@@ -1,9 +1,9 @@
-**Tags:** #coding/icd10 #diagnosis #documentation
+**Tags:** #coding/icd10 #diagnosis #documentation #pmr
 
 ## Musculoskeletal (Chapter 13)
 - **Laterality:** Must specify Left, Right, or Bilateral.
 - **Episode of Care:** Initial (A), Subsequent (D), Sequela (S).
-- **Specificity:** "Low back pain" ([[M54.50]]) vs "Lumbar radiculopathy" ([[M54.16]]).
+- **Specificity:** "Low back pain" (**[[M54.50]]**) vs "Lumbar radiculopathy" (**[[M54.16]]**).
 
 ## Neurological (Chapter 6)
 - **Stroke:** Requires combination codes for side and dominance (e.g., [[I69.351]]).

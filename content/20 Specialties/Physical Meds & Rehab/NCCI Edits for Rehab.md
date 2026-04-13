@@ -1,4 +1,4 @@
-**Tags:** #coding/ncci #compliance #edits
+**Tags:** #coding/ncci #compliance #edits #pmr
 
 ## Definition
 National Correct Coding Initiative (NCCI) edits prevent payment for inappropriate code combinations.

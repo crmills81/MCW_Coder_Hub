@@ -150,7 +150,7 @@ When **hypopyon is present**, it represents the most severe level of the inflamm
 
 - Use **H20.05x** (hypopyon) as the **primary** iridocyclitis code.
 - Add the appropriate **H20.01x-H20.04x** as a secondary code for context when clinically relevant.
-- When hypopyon **resolves**, transition back to the appropriate H20.01x-H20.04x code at subsequent visits — do not continue coding H20.05x after the hypopyon has cleared.
+- When [[hypopyon]] **resolves**, transition back to the appropriate H20.01x-H20.04x code at subsequent visits — do not continue coding H20.05x after the hypopyon has cleared.
 
 ---
 
@@ -160,15 +160,15 @@ The following systemic and infectious conditions **replace** H20.0x-H20.9 when t
 
 | Condition                | Replace H20.0x With     |
 | ------------------------ | ----------------------- |
-| Herpes simplex uveitis   | [[B00.51]]              |
+| Herpes simplex [[uveitis]]   | [[B00.51]]              |
 | Herpes zoster uveitis    | [[B02.32]]              |
-| Syphilis (acute)         | [[A51.43]]              |
+| [[Syphilis]] (acute)         | [[A51.43]]              |
 | Late syphilis            | [[A52.71]]              |
 | Late congenital syphilis | [[A50.39]]              |
 | [[sarcoidosis]]          | [[D86.83]]              |
-| Tuberculosis             | [[A18.54]]              |
-| Toxoplasmosis            | [[B58.09]]              |
-| Diabetes mellitus        | E08-E13 with .39 suffix |
+| [[Tuberculosis]]             | [[A18.54]]              |
+| [[Toxoplasmosis]]            | [[B58.09]]              |
+| [[Diabetes]] mellitus        | E08-E13 with .39 suffix |
 | Gonococcal               | [[A54.32]]              |
 | Diphtheria               | [[A36.89]]              |
 
@@ -180,13 +180,13 @@ When the iridocyclitis is associated with a systemic condition that does NOT hav
 
 | Systemic Condition     | Code Also |
 | ---------------------- | --------- |
-| Ankylosing spondylitis | M45.-     |
+| Ankylosing [[spondylitis]] | M45.-     |
 | Psoriatic arthritis    | L40.5x    |
 | Reactive arthritis     | M02.-     |
 | IBD (Crohn/UC)         | K50-K51.- |
 | Behcet disease         | M35.2     |
 | JIA                    | M08.-     |
-| Multiple sclerosis     | [[G35]]   |
+| [[Multiple sclerosis]]     | G35.-   |
 | Lyme disease           | A69.2x    |
 
 ---
@@ -196,16 +196,16 @@ When the iridocyclitis is associated with a systemic condition that does NOT hav
 These conditions are Excludes1 at the H20 category level. **Do not code H20.x alongside these** when they are the documented etiology — use the disease-specific code instead:
 
 - [[Iridocyclitis]] in [[diabetes]] mellitus → E08-E13 with .39 suffix
-- Iridocyclitis in diphtheria → A36.89
-- Iridocyclitis in gonococcal infection → A54.32
-- Iridocyclitis in herpes simplex → B00.51
-- Iridocyclitis in herpes zoster → B02.32
-- Iridocyclitis in late congenital syphilis → A50.39
-- Iridocyclitis in late syphilis → A52.71
-- Iridocyclitis in [[sarcoidosis]] → D86.83
-- Iridocyclitis in syphilis → A51.43
-- Iridocyclitis in toxoplasmosis → B58.09
-- Iridocyclitis in tuberculosis → A18.54
+- Iridocyclitis in diphtheria → [[A36.89]]
+- Iridocyclitis in gonococcal infection → [[A54.32]]
+- Iridocyclitis in herpes simplex → [[B00.51]]
+- Iridocyclitis in herpes zoster → [[B02.32]]
+- Iridocyclitis in late congenital [[syphilis]] → [[A50.39]]
+- Iridocyclitis in late syphilis → [[A52.71]]
+- Iridocyclitis in [[sarcoidosis]] → [[D86.83]]
+- Iridocyclitis in syphilis → [[A51.43]]
+- Iridocyclitis in [[toxoplasmosis]] → [[B58.09]]
+- Iridocyclitis in [[tuberculosis]] → [[A18.54]]
 
 ---
 
@@ -215,12 +215,12 @@ This is one of the highest-stakes coding distinctions in the H20 family:
 
 | Scenario                                                                 | Correct Code                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------ |
-| [[Hypopyon]] from severe iridocyclitis (non-infectious or non-Excludes1) | H20.05x                                                |
+| [[Hypopyon]] from severe iridocyclitis (**non-infectious or non-Excludes1**) | H20.05x                                                |
 | Hypopyon from bacterial [[endophthalmitis]]                              | [[H44.001]]-[[H44.003]] ([[purulent endophthalmitis]]) |
 | Hypopyon from [[panophthalmitis]]                                        | [[H44.011]]-[[H44.013]]                                |
 | Ambiguous documentation                                                  | Clarify with provider before coding                    |
 
-**Clinical tip:** Endophthalmitis hypopyon is typically more severe, associated with severe vitritis and posterior involvement, often post-surgical or post-injection. Iridocyclitis hypopyon is typically anterior chamber confined. Documentation should reflect the clinical distinction.
+**Clinical tip:** [[Endophthalmitis]] hypopyon is typically more severe, associated with severe vitritis and posterior involvement, often post-surgical or post-injection. Iridocyclitis hypopyon is typically anterior chamber confined. Documentation should reflect the clinical distinction.
 
 ---
 
@@ -232,7 +232,7 @@ This is one of the highest-stakes coding distinctions in the H20 family:
 | H20.02x Recurrent acute iridocyclitis | Documented recurrent episodes with 3+ month disease-free intervals off treatment |
 | H20.1x Chronic iridocyclitis | Persistent inflammation 3+ months OR relapse within 3 months of stopping treatment |
 
-**Coding note:** JIA-associated uveitis is commonly **chronic** and often **asymptomatic** — the clinician's documentation of chronicity should drive code selection toward H20.1x in established JIA uveitis patients.
+**Coding note:** JIA-associated [[uveitis]] is commonly **chronic** and often **asymptomatic** — the clinician's documentation of chronicity should drive code selection toward H20.1x in established JIA uveitis patients.
 
 ---
 

@@ -1,6 +1,6 @@
 #### (Chapter 13)
 
-**Tags:** #coding/icd10 #musculoskeletal #diagnosis
+**Tags:** #coding/icd10 #musculoskeletal #diagnosis #pmr
 
 ## Code Range
 **M00-M99:** Diseases of the musculoskeletal system and connective tissue
@@ -55,5 +55,5 @@
 > [!TIP] Injury vs. Chronic
 > Use injury codes (**S-codes**) for acute trauma. Use M-codes for chronic/overuse conditions.
 
-[[PM&R Coding MOC]]
+[[00 PM&R Coding MOC]]
 [[ICD-10 for Neurological]]

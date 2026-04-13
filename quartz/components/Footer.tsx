@@ -16,7 +16,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://www.happycovergirlcocovers.com">Crystal Mills{version}</a> © {2026}
+          <a href="https://www.happycovergirlcocovers.com">Crystal Mills</a> © {2026}
         </p>
 {opts?.description && (
   <p class="footer-description">

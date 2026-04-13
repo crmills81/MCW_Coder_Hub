@@ -1,6 +1,6 @@
 #### (Chapter 6)
 
-**Tags:** #coding/icd10 #neurological #diagnosis
+**Tags:** #coding/icd10 #neurological #diagnosis #pmr
 
 ## Code Range
 **G00-G99:** Diseases of the nervous system

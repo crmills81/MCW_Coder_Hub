@@ -1,17 +1,17 @@
-**Tags:** #compliance #audit #risk
+**Tags:** #compliance #audit #risk #pmr
 
 ## High Risk Indicators
-1.  **High Unit Counts:** Consistently billing max units (e.g., 8 units of 97110 daily).
+1.  **High Unit Counts:** Consistently billing max units (**e.g., 8 units of [[97110]] daily**).
 2.  **Lack of Progress:** Notes show no improvement over 30+ days.
 3.  **Cloned Documentation:** Identical notes for different patients or dates.
 4.  **Weekend Services:** Billing therapy on weekends without justification.
-5.  **Modifier Overuse:** Using Modifier 59 on >10% of claims.
+5.  **Modifier Overuse:** Using Modifier [[-59]] on >10% of claims.
 
 ## Documentation Red Flags
 - Missing signature/date.
-- Therapy notes written by MD instead of Therapist (for therapy codes).
-- Plan of Care not signed within required timeframe (30 days).
-- Vague goals ("Patient will improve strength").
+- Therapy notes written by MD instead of Therapist (**for therapy codes**).
+- Plan of Care not signed within required timeframe (**30 days**).
+- Vague goals ("**Patient will improve strength**").
 
 ## Defense Strategy
 - Ensure **Functional Goals** are measurable.
@@ -22,4 +22,4 @@
 > Perform a quarterly self-audit on 5 random charts per provider. Check for signature, time logs, and goal progression.
 
 [[00 PM&R Coding MOC]]
-[[Documentation Requirements]]
+[[Documentation Requirements for PM&R]]

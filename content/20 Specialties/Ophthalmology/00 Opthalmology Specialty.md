@@ -22,7 +22,7 @@ created: 2026-01-21
 
 ## Common ICD-10-CM Codes
 * **[[H25.13]]** - Age-related nuclear [[cataract]], bilateral
-* **[[H35.31]]** - Nonexudative age-related macular degeneration (**Dry AMD**)
+* **[[H35.3191]]** - Nonexudative age-related macular degeneration (**Dry AMD**)
 * **[[H40.1134]]** - Primary open-angle [[glaucoma]], bilateral, indeterminate stage
 * **[[H52.13]]** - Myopia, bilateral
 
@@ -49,7 +49,7 @@ created: 2026-01-21
 ### **Complex vs. Simple Repair**
 
 - **[[67113]] (Complex Repair):** Requires specific pathology. Documentation must explicitly state one of the following to justify "complex":
-    - [[Proliferative vitreoretinopathy (PVR)]] grade C-1 or greater.
+    - Proliferative vitreoretinopathy (PVR) grade C-1 or greater.
     - Diabetic traction retinal detachment.
     - Retinopathy of prematurity.
     - Giant retinal tear (>90 degrees).
@@ -58,7 +58,7 @@ created: 2026-01-21
 ### **Bundling Alerts (NCCI)**
 
 - **Lensectomy ([[66850]]) with Vitrectomy ([[67036]]):** Generally **bundled**.
-    - _Rule:_ You cannot bill [[66850]] separately unless the lens is removed and an IOL is **NOT** inserted (left [[aphakic]]).
+    - _Rule:_ You cannot bill [[66850]] separately unless the lens is removed and an IOL is **NOT** inserted (left aphakic).
     - _Exception:_ If the code descriptor includes "**removal of lens**" (e.g., [[67113]]), you never bill [[lensectomy]] separately.
 - **Air/Gas/Oil:** Tamponade is included in the main [[vitrectomy]] codes ([[67042]], [[67108]], [[67113]]) and is not separately billable.
 

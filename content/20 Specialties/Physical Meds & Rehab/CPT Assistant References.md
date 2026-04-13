@@ -1,6 +1,4 @@
-# CPT Assistant References for PM&R
-
-**Tags:** #coding/cpt #resources #ama
+**Tags:** #coding/cpt #resources #ama #pmr
 
 ## Overview
 CPT Assistant is the AMA's official publication providing guidance on CPT code usage. These references are authoritative for coding decisions.

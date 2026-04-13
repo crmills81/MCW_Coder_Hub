@@ -3,6 +3,7 @@ tags:
   - medical_coding/guideline
   - specialty/ophthalmology
   - context/mcw_profee
+  - ophthalmology
 creation_date: 2026-01-17
 ---
 

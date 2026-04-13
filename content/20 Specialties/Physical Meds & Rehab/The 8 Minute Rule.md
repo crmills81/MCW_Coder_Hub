@@ -1,4 +1,4 @@
-**Tags:** #coding/rules #medicare #therapy
+**Tags:** #coding/rules #medicare #therapy #pmr
 
 ## Definition
 A rule used by Medicare (**and many payers**) to determine how many billable units of a **timed** CPT code can be billed based on the total minutes of service provided.

@@ -1,13 +1,4 @@
 ---
-title: Uveitis and Iridocyclitis - Clinical Overview
-aliases:
-  - Uveitis Overview
-  - Iridocyclitis Overview
-  - Anterior Uveitis
-  - Posterior Uveitis
-  - Panuveitis
-  - Intermediate Uveitis
-  - Functional Neurological Disorder Eye
 tags:
   - clinical-overview
   - ophthalmology
@@ -18,6 +9,15 @@ tags:
   - ocular-inflammation
   - ICD-10-CM
   - eye-disease
+title: Uveitis and Iridocyclitis - Clinical Overview
+aliases:
+  - Uveitis Overview
+  - Iridocyclitis Overview
+  - Anterior Uveitis
+  - Posterior Uveitis
+  - Panuveitis
+  - Intermediate Uveitis
+  - Functional Neurological Disorder Eye
 note_type: clinical-overview
 anatomic_classifications:
   - Anterior uveitis (iritis, iridocyclitis)
@@ -26,9 +26,9 @@ anatomic_classifications:
   - Panuveitis
 most_common_type: Anterior uveitis (41-60% of all uveitis cases)
 laterality_pattern: anterior- Usually unilateral, intermediate- Usually bilateral, posterior- Usually bilateral, panuveitis- Usually bilateral
-status: active
+status: Active ✅
 date_created: 2026-02-23
-date_modified: 2026-02-23
+date_modified: 2026-04-12
 related_icd10:
   - H20.051 - Hypopyon, right eye
   - H20.011 - Primary iridocyclitis, right eye
@@ -48,18 +48,18 @@ source: StatPearls / EyeWiki / EyeGuru / Ophthalmology Management / Mayo Clinic 
 
 ## What Is Uveitis?
 
-Uveitis is **inflammation of the uvea** — the pigmented, vascular middle layer of the eye — encompassing the iris, [[ciliary body]], and choroid. Depending on which anatomic segment is predominantly involved, it is classified as anterior, intermediate, posterior, or panuveitis. Symptoms can range from mild discomfort and photophobia to complete vision loss if untreated. It is one of the most common causes of preventable blindness in working-age adults worldwide.
+[[Uveitis]] is **inflammation of the uvea** — the pigmented, vascular middle layer of the eye — encompassing the iris, [[ciliary body]], and choroid. Depending on which anatomic segment is predominantly involved, it is classified as anterior, intermediate, posterior, or [[panuveitis]]. Symptoms can range from mild discomfort and [[photophobia]] to complete vision loss if untreated. It is one of the most common causes of preventable blindness in working-age adults worldwide.
 
 ---
 
 ## Anatomic Classification
 
-| Type | Location | Structures Involved | Typical Laterality |
-|------|----------|--------------------|--------------------|
-| Anterior uveitis | Anterior segment | Iris (iritis), iris + ciliary body (iridocyclitis), ciliary body only (anterior cyclitis) | Usually unilateral |
-| Intermediate uveitis | Vitreous / pars plana | Vitreous cavity, pars plana of ciliary body | Usually bilateral |
-| Posterior uveitis | Posterior segment | Retina (retinitis), choroid (choroiditis), retina + choroid (chorioretinitis) | Usually bilateral |
-| Panuveitis | All segments | Iris, ciliary body, choroid, retina simultaneously | Usually bilateral |
+| Type                     | Location              | Structures Involved                                                                       | Typical Laterality |
+| ------------------------ | --------------------- | ----------------------------------------------------------------------------------------- | ------------------ |
+| **Anterior uveitis**     | Anterior segment      | Iris (iritis), iris + ciliary body (iridocyclitis), ciliary body only (anterior cyclitis) | Usually unilateral |
+| **Intermediate uveitis** | Vitreous / pars plana | Vitreous cavity, pars plana of ciliary body                                               | Usually bilateral  |
+| **Posterior uveitis**    | Posterior segment     | Retina (retinitis), choroid (choroiditis), retina + choroid (chorioretinitis)             | Usually bilateral  |
+| **Panuveitis**           | All segments          | Iris, ciliary body, choroid, retina simultaneously                                        | Usually bilateral  |
 
 **Prevalence by type:**
 - Anterior uveitis: 41-60% of all uveitis.
@@ -75,14 +75,14 @@ Uveitis is **inflammation of the uvea** — the pigmented, vascular middle layer
 
 Most common form of uveitis. Presents acutely in many cases with:
 
-- **Symptoms:** Unilateral red eye, acute ocular pain, photophobia, blurred vision, tearing.
+- **Symptoms:** Unilateral red eye, acute ocular pain, [[photophobia]], blurred vision, tearing.
 - **Signs:**
   - Circumlimbal (ciliary) injection.
   - Anterior chamber cells and flare (graded 0-4+).
   - Keratic precipitates (KPs) on corneal endothelium.
   - Posterior synechiae (adhesions between iris and anterior lens capsule).
   - Hypopyon (layered WBCs in inferior anterior chamber — indicates severe inflammation).
-  - IOP may be elevated (steroid-induced or trabecular inflammation) or low (ciliary body shutdown).
+  - IOP may be elevated (steroid-induced or trabecular inflammation) or low ([[ciliary body]] shutdown).
 - **Associated ICD-10-CM codes:** [[H20.011]]-[[H20.013]] (primary iridocyclitis), [[H20.051]]-[[H20.053]] (hypopyon), H20.021-[[H20.023]] (recurrent acute iridocyclitis).
 
 ### Intermediate Uveitis (Pars Planitis)
@@ -107,11 +107,11 @@ Most common form of uveitis. Presents acutely in many cases with:
 
 ## Onset and Course Classification
 
-| Classification | Definition |
-|---------------|-----------|
-| Acute | Sudden onset, limited duration (less than 3 months) |
-| Recurrent | Repeated episodes with disease-free intervals of 3+ months without treatment |
-| Chronic | Persistent inflammation lasting 3+ months, or relapse within 3 months of stopping treatment |
+| Classification | Definition                                                                                  |
+| -------------- | ------------------------------------------------------------------------------------------- |
+| Acute          | Sudden onset, limited duration (less than 3 months)                                         |
+| **Recurrent**      | Repeated episodes with disease-free intervals of 3+ months without treatment                |
+| **Chronic**        | Persistent inflammation lasting 3+ months, or relapse within 3 months of stopping treatment |
 
 ---
 
@@ -120,28 +120,28 @@ Most common form of uveitis. Presents acutely in many cases with:
 ### Non-Infectious (Most Common Overall)
 
 - **HLA-B27-associated:**
-  - Ankylosing spondylitis (most common HLA-B27-associated condition).
-  - Reactive arthritis (Reiter syndrome).
+  - [[Ankylosing spondylitis]] (most common HLA-B27-associated condition).
+  - Reactive [[arthritis]] (Reiter syndrome).
   - Psoriatic arthritis.
-  - IBD-associated uveitis (Crohn disease, ulcerative colitis).
+  - IBD-associated [[uveitis]] (Crohn disease, ulcerative colitis).
 - **Behcet disease** — classic cause of recurrent, hypopyon-forming bilateral uveitis.
-- **Sarcoidosis** — can cause anterior, posterior, or panuveitis; granulomatous KPs.
+- **[[Sarcoidosis]]** — can cause anterior, posterior, or [[panuveitis]]; [[granulomatous]] KPs.
 - **Juvenile idiopathic arthritis (JIA)** — risk of chronic anterior uveitis, especially oligoarticular type.
 - **Vogt-Koyanagi-Harada (VKH)** — bilateral granulomatous panuveitis with systemic features.
-- **Multiple sclerosis** — intermediate uveitis association.
-- **Drug-induced uveitis** — rifabutin, cidofovir, bisphosphonates, checkpoint inhibitors.
+- **[[Multiple sclerosis]]** — intermediate uveitis association.
+- **Drug-induced [[uveitis]]** — rifabutin, cidofovir, bisphosphonates, checkpoint inhibitors.
 
 ### Infectious
 
-| Organism                   | Uveitis Type     | Key Features                                     |
-| -------------------------- | ---------------- | ------------------------------------------------ |
-| Toxoplasma gondii          | **Posterior**        | Focal chorioretinitis, "headlight in fog" lesion |
-| Herpes simplex virus       | **Anterior**         | Sectoral iris atrophy, keratouveitis             |
-| Herpes zoster virus        | **Anterior**         | Dermatome distribution rash + iridocyclitis      |
-| CMV                        | **Posterior**        | Retinitis in immunocompromised (HIV)             |
-| Syphilis (Treponema)       | **Any segment**      | Great mimicker; test all unexplained uveitis     |
-| Mycobacterium tuberculosis | **Posterior/pan**    | Granulomatous; endemic regions                   |
-| Borrelia (Lyme)            | **Intermediate/ant** | Bilateral, endemic region history                |
+| Organism                       | Uveitis Type         | Key Features                                     |
+| ------------------------------ | -------------------- | ------------------------------------------------ |
+| Toxoplasma gondii              | **Posterior**        | Focal chorioretinitis, "headlight in fog" lesion |
+| Herpes simplex virus           | **Anterior**         | Sectoral iris atrophy, keratouveitis             |
+| Herpes zoster virus            | **Anterior**         | Dermatome distribution rash + iridocyclitis      |
+| CMV                            | **Posterior**        | Retinitis in immunocompromised (HIV)             |
+| [[Syphilis]] (Treponema)       | **Any segment**      | Great mimicker; test all unexplained uveitis     |
+| Mycobacterium [[tuberculosis]] | **Posterior/pan**    | Granulomatous; endemic regions                   |
+| Borrelia (Lyme)                | **Intermediate/ant** | Bilateral, endemic region history                |
 
 ---
 
@@ -161,7 +161,7 @@ Most common form of uveitis. Presents acutely in many cases with:
 - ACE level, serum lysozyme (sarcoidosis).
 - Lyme serology (endemic region, bilateral intermediate uveitis).
 - ANA, RF (JIA in children).
-- CBC, metabolic panel, UA (baseline before immunosuppression).
+- CBC, metabolic panel, UA (baseline before [[immunosuppression]]).
 
 **Ocular imaging:**
 - Fundus photography ([[92250]]).
@@ -244,10 +244,3 @@ Most common form of uveitis. Presents acutely in many cases with:
 
 ---
 
-## Suggested Obsidian Linkouts
-
-- [[H20.051]] — Hypopyon, right eye (detailed coding note)
-- [[20 Specialties/Ophthalmology/Ophthalmology CPT Codes Reference]]
-- [[50 Medical Coding/Modifiers/Global Surgical Package MOC]]
-- [[-22]] (modifier for complex uveitis surgical cases)
-- [[Anesthesia Payment Modifiers MOC]] (for OR-level ocular procedures)

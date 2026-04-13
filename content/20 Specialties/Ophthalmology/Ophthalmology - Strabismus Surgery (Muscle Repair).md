@@ -3,6 +3,7 @@ tags:
   - medical_coding/guideline
   - specialty/ophthalmology
   - context/mcw_profee
+  - ophthalmology
 creation_date: 2026-01-22
 ---
 
@@ -17,63 +18,63 @@ creation_date: 2026-01-22
 
 ## 💰 CPT Selection Logic
 *(Base Codes - Horizontal)*
-* **67311:** One horizontal muscle.
-* **67312:** Two horizontal muscles (same eye).
+* **[[67311]]:** One horizontal muscle.
+* **[[67312]]:** Two horizontal muscles (same eye).
 
 *(Base Codes - Vertical/Oblique)*
-* **67314:** One vertical muscle (excluding superior oblique).
-* **67316:** Two or more vertical muscles (same eye).
-* **67318:** Superior Oblique muscle surgery.
+* **[[67314]]:** One vertical muscle (excluding superior oblique).
+* **[[67316]]:** Two or more vertical muscles (same eye).
+* **[[67318]]:** Superior Oblique muscle surgery.
 
 ### ⚠️ The "Add-On" Gold Mine
 *Never miss these +Codes (List them separately!):*
-- [ ] **+67332 (Scarring/Re-do):** Use if the patient has had *prior* strabismus surgery on this eye.
-- [ ] **+67331 (Posterior Fixation):** The "Faden" procedure (suturing muscle far back).
-- [ ] **+67334 (Posterior adjustable sutures):** If they leave sutures long to adjust later.
-- [ ] **+67335 (Superior Oblique Expander):** Specific to SO surgery.
+- [ ] **+[[67332]] (Scarring/Re-do):** Use if the patient has had *prior* strabismus surgery on this eye.
+- [ ] **+[[67331]] (Posterior Fixation):** The "Faden" procedure (suturing muscle far back).
+- [ ] **+[[67334]] (Posterior adjustable sutures):** If they leave sutures long to adjust later.
+- [ ] **+[[67335]] (Superior Oblique Expander):** Specific to SO surgery.
 
 ### ⚠️ Modifier Watch
-- [ ] **-50 (Bilateral):** **YES.** If operating on muscles in *both* eyes (e.g., Medial Rectus Recession OU), bill the code with -50.
-- [ ] **-51:** Use if doing Horizontal (67311) AND Vertical (67314) on the same eye.
+- [ ] **[[-50]] (Bilateral):** **YES.** If operating on muscles in *both* eyes (**e.g., Medial Rectus Recession OU**), bill the code with -50.
+- [ ] **[[-51]]:** Use if doing Horizontal ([[67311]]) AND Vertical ([[67314]]) on the same eye.
 
 ---
 
 ## 🚨 Documentation Alerts (Query Triggers)
 1.  **"Previous Surgery":** Check the history! If they had eye muscle surgery 20 years ago, you **must** bill the **+67332** add-on. It adds significant RVUs for the difficulty of scar tissue.
-2.  **Number of Muscles:** Explicitly check: "Medial Rectus AND Lateral Rectus recessed?" -> That's **67312**, not 67311 x2.
+2.  **Number of Muscles:** Explicitly check: "Medial Rectus AND Lateral Rectus recessed?" -> That's **67312**, not **67311** x2.
 
 ---
 
 ## From NotebookLM:
 
 
-# [[Strabismus Surgery Coding]]
+# Strabismus Surgery Coding
 
 ### **Common CPT Codes & Logic**
 
-- **Strabismus Surgery Codes (e.g., 67318)**: These codes are typically organized by the **number** and **type** of muscles (vertical vs. horizontal) operated on.
-- **Add-on Codes (Z Codes)**: Strabismus surgery often utilizes add-on codes for complexity (e.g., reoperation, scarring, adjustable sutures).
-    - _Note:_ Add-on codes (ZZZ global period) do not carry their own postoperative days; they follow the global period of the primary procedure.
-- **Chemodenervation (67345)**: Injection of toxin (e.g., Botox) for strabismus.
+- **[[Strabismus]] Surgery Codes (e.g., [[67318]])**: These codes are typically organized by the **number** and **type** of muscles (**vertical vs. horizontal**) operated on.
+- **Add-on Codes (Z Codes)**: [[Strabismus]] surgery often utilizes add-on codes for complexity (e.g., reoperation, scarring, adjustable sutures).
+    - _Note:_ Add-on codes (**ZZZ** global period) do not carry their own postoperative days; they follow the global period of the primary procedure.
+- **Chemodenervation ([[67345]])**: Injection of toxin (e.g., Botox) for strabismus.
 
 ### **Global Period Rules**
 
-- **Period:** **90 Days** (Major Surgery).
-    - _Source:_ CPT 67318 (Repair strabismus superior oblique) is explicitly listed with a 090-day global period.
+- **Period:** **<font color="#ff0000">90 Days</font>** (Major Surgery).
+    - _Source:_ CPT **67318** (Repair [[strabismus]] superior oblique) is explicitly listed with a 090-day global period.
 - **Included Services (Bundled):**
-    - **Exam Under Anesthesia (92018/92019):** Generally **bundled** into the surgical code. Only billable separately if the exam is the _primary_ service (e.g., surgery cancelled) or required for a distinct diagnostic reason (e.g., severe trauma) with Modifier 59/XU.
-    - **Injections (68200):** Subconjunctival injections (e.g., steroids/anesthetics) are included in the procedure and not separately reportable.
-    - **Surgical Incisions:** Repair of the conjunctiva/Tenon's capsule is integral; do not bill wound repair codes (12001-13153) separately.
+    - **Exam Under Anesthesia (92018/92019):** Generally **bundled** into the surgical code. Only billable separately if the exam is the _primary_ service (**e.g., surgery cancelle**d) or required for a distinct diagnostic reason (e.g., severe trauma) with Modifier [[-59]]/[[-XU]].
+    - **Injections ([[68200]]):** Subconjunctival injections (e.g., steroids/anesthetics) are included in the procedure and not separately reportable.
+    - **Surgical Incisions:** Repair of the [[conjunctiva]]/Tenon's capsule is integral; do not bill wound repair codes ([[12001]]-[[13153]]) separately.
 
 ### **Essential Modifiers**
 
-- **-50 (Bilateral):**
+- **[[-50]] (Bilateral):**
     - Strabismus codes are generally unilateral. If operating on **both eyes** (e.g., bilateral medial rectus recession), report the code with **Modifier 50** and **1 unit** of service.
     - _Check Payer:_ Some payers require two lines (RT/LT); Medicare generally requires one line with -50.
-- **-RT / -LT:** Mandatory if the procedure is performed on only one eye.
-- **-59 / X{EPSU} (Distinct Service):**
+- **[[-RT]] / [[-LT]]:** Mandatory if the procedure is performed on only one eye.
+- **[[-59]] / X{EPSU} (Distinct Service):**
     - Use if performing a distinct procedure on a **separate structure** (e.g., operating on a different muscle not included in the primary code definition).
-- **-78 (Unplanned Return to OR):**
+- **[[-78 ]](Unplanned Return to OR):**
     - Used for complications requiring a return to the operating room (e.g., slipped muscle, infection).
     - _Note:_ Routine post-op adjustments performed in the office are **included** in the global package and are **not** billable.
 
@@ -81,16 +82,16 @@ creation_date: 2026-01-22
 
 You must specify **laterality** and **type** of deviation to support medical necessity.
 
-- **Esotropia (Turning inward):**
+- **[[esotropia]] (Turning inward):**
     - **H50.0-**: Esotropia (Concomitant).
     - **H50.31-**: Intermittent monocular esotropia.
-- **Exotropia (Turning outward):**
+- **[[exotropia]] (Turning outward):**
     - **H50.1-**: Exotropia.
     - **H50.33-**: Intermittent monocular exotropia.
 - **Vertical/Mechanical:**
     - **H50.2-**: Vertical strabismus (Hypertropia).
     - **H50.6-**: Mechanical strabismus (e.g., Brown's sheath **H50.61**, Muscle entrapment **H50.62-H50.68**).
-- **Amblyopia:**
+- **[[amblyopia]]:**
     - **H53.03-**: Strabismic amblyopia (must link if surgery is to correct this).
 
 ### **Documentation Checklist**

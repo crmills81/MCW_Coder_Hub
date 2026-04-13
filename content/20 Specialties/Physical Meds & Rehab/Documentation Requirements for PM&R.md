@@ -1,4 +1,4 @@
-**Tags:** #compliance #documentation #audit
+**Tags:** #compliance #documentation #audit #pmr
 
 ## The "Gold Standard" Note
 1. **Subjective:** Patient's report of function/pain (VAS scale).

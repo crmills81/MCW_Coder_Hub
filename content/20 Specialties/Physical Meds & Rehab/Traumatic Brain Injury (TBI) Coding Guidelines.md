@@ -5,6 +5,7 @@ tags:
   - TBI
   - concussion
   - sequelae
+  - pmr
 title: Traumatic Brain Injury (TBI) Coding Guidelines
 date: 2026-03-26
 category: PM&R
@@ -63,25 +64,25 @@ Patients recovering from a TBI often undergo extensive neuropsychological and th
 
 ### Neuropsychological & Cognitive Testing
 These codes are used when a physician or qualified healthcare professional (QHP) performs in-depth testing of cognitive function (memory, executive function, attention).
-* **96116**: Neurobehavioral status exam (clinical assessment of thinking, reasoning, and judgment), by physician or QHP; first hour.
-* **+96121**: Each additional hour *(Add-on code)*.
-* **96132**: Neuropsychological testing evaluation services by physician or QHP (includes integration of patient data, interpretation of standardized test results, and clinical decision making); first hour.
-* **+96133**: Each additional hour *(Add-on code)*.
+* **[[96116]]**: Neurobehavioral status exam (clinical assessment of thinking, reasoning, and judgment), by physician or QHP; first hour.
+* **+[[96121]]**: Each additional hour *(Add-on code)*.
+* **[[96132]]**: Neuropsychological testing evaluation services by physician or QHP (includes integration of patient data, interpretation of standardized test results, and clinical decision making); first hour.
+* **+[[96133]]**: Each additional hour *(Add-on code)*.
 
 ### Cognitive Rehabilitation Therapy
 Used for active interventions aimed at improving cognitive function (often performed by speech-language pathologists or occupational therapists).
-* **97129**: Therapeutic interventions that focus on cognitive function (e.g., attention, memory, reasoning, executive function, problem solving, and/or pragmatic functioning) and compensatory strategies to manage the performance of an activity, direct patient contact; initial 15 minutes.
-* **+97130**: Each additional 15 minutes *(Add-on code)*.
+* **[[97129]]**: Therapeutic interventions that focus on cognitive function (e.g., attention, memory, reasoning, executive function, problem solving, and/or pragmatic functioning) and compensatory strategies to manage the performance of an activity, direct patient contact; initial 15 minutes.
+* **+[[97130]]**: Each additional 15 minutes *(Add-on code)*.
 
 ### Multidisciplinary Evaluations
 TBI patients almost always need full physical and functional workups. Code selection for PT and OT depends on the complexity of the clinical decision making.
 * **Physical Therapy (PT) Evaluations:**
-  * **97161**: PT evaluation, low complexity.
-  * **97162**: PT evaluation, moderate complexity.
-  * **97163**: PT evaluation, high complexity.
+  * **[[97161]]**: PT evaluation, low complexity.
+  * **[[97162]]**: PT evaluation, moderate complexity.
+  * **[[97163]]**: PT evaluation, high complexity.
 * **Occupational Therapy (OT) Evaluations:**
-  * **97165**: OT evaluation, low complexity.
-  * **97166**: OT evaluation, moderate complexity.
-  * **97167**: OT evaluation, high complexity.
+  * **[[97165]]**: OT evaluation, low complexity.
+  * **[[97166]]**: OT evaluation, moderate complexity.
+  * **[[97167]]**: OT evaluation, high complexity.
 * **Speech-Language Pathology (SLP):**
   * **92523**: Evaluation of speech sound production; with evaluation of language comprehension and expression.

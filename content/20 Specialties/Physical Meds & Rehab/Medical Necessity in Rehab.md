@@ -1,4 +1,4 @@
-**Tags:** #compliance #medical-necessity #medicare
+**Tags:** #compliance #medical-necessity #medicare #pmr
 
 ## Definition
 Medical necessity is the cornerstone of all PM&R billing. Services must be **reasonable and necessary** for the diagnosis and treatment of the patient's condition.
@@ -33,11 +33,12 @@ For a service to be considered medically necessary, it must:
 - Same treatment plan for months without modification
 
 ## Supporting Medical Necessity
-Subjective: Patient reports difficulty climbing stairs (2 flights) Objective: LE strength 4/5, requires handrail for stairs Assessment: Functional limitation - stair negotiation Plan: Therapeutic exercise to improve LE strength for ADL function
+**Subjective**: Patient reports difficulty climbing stairs (2 flights) Objective: LE strength 4/5, requires handrail for stairs 
+**Assessment**: Functional limitation - stair negotiation Plan: Therapeutic exercise to improve LE strength for ADL function
 
 > [!TIP] Functional Reporting
-> For outpatient therapy, Medicare requires G-codes and severity modifiers to track functional limitations at reporting intervals (every 10 visits).
+> For outpatient therapy, **Medicare** requires G-codes and severity modifiers to track functional limitations at reporting intervals (**every 10 visits**).
 
-[[PM&R Coding MOC]]
-[[Documentation Requirements]]
+[[00 PM&R Coding MOC]]
+[[Documentation Requirements for PM&R]]
 [[CMS Medicare Guidelines]]

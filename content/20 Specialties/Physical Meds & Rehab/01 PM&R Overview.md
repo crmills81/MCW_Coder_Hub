@@ -1,6 +1,6 @@
 # Physical Medicine & Rehabilitation (PM&R) Coding
 
-**Tags:** #coding/specialty #physiatry #rehab
+**Tags:** #coding/specialty #physiatry #rehab #pmr
 
 ## Definition
 PM&R physicians (Physiatrists) focus on enhancing and restoring functional ability and quality of life to those with physical impairments or disabilities.

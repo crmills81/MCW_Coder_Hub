@@ -22,13 +22,13 @@ date_created: 2026-03-10
 
 ## The Three Anatomical Zones
 
-The larynx is divided into three zones, and zone specificity is required for neoplasm coding under category C32. A lesion that does not clearly fall within a single zone defaults to C32.8 (overlapping) or C32.9 (unspecified) — resist the urge to assign a specific zone code without clear documentation.
+The larynx is divided into three zones, and zone specificity is required for [[neoplasm]] coding under category [[C32. A]] lesion that does not clearly fall within a single zone defaults to [[C32.8]] (**overlapping**) or [[C32.9]] (**unspecified**) — resist the urge to assign a specific zone code without clear documentation.
 
-**Supraglottis (C32.1)** extends from the tip of the epiglottis down to (but not including) the true vocal cords. Its subsites are the epiglottis (both the suprahyoid and infrahyoid portions), the aryepiglottic folds (laryngeal surface), the arytenoid cartilages, and the false vocal cords (ventricular bands). The supraglottis has rich lymphatic drainage, which is why supraglottic carcinomas often present with nodal disease.
+**[[Supraglottis]] (C32.1)** extends from the tip of the epiglottis down to (**but not including**) the true vocal cords. Its subsites are the epiglottis (**both the suprahyoid and infrahyoid portions**), the aryepiglottic folds (**laryngeal surface**), the arytenoid cartilages, and the false vocal cords (**ventricular bands**). The [[supraglottis]] has rich lymphatic drainage, which is why supraglottic carcinomas often present with nodal disease.
 
-**Glottis (C32.0)** includes the true vocal cords, the anterior commissure, and the posterior commissure. It has poor lymphatic drainage — a clinically important fact because glottic carcinomas tend to stay localized longer, improving prognosis. For coding, "glottic" and "vocal cord" are generally synonymous unless the provider specifies a subglottic or supraglottic extension.
+**[[Glottis]] (C32.0)** includes the true vocal cords, the anterior commissure, and the posterior commissure. It has poor lymphatic drainage — a clinically important fact because glottic [[carcinomas]] tend to stay localized longer, improving prognosis. For coding, "**glottic**" and "**vocal cor**d" are generally synonymous unless the provider specifies a subglottic or supraglottic extension.
 
-**Subglottis (C32.2)** begins approximately 5 mm below the free margin of the true vocal cords and extends to the inferior border of the cricoid cartilage. Subglottic primaries are the least common of the three and carry a poorer prognosis due to delayed presentation.
+**[[Subglottis]] (C32.2)** begins approximately 5 mm below the free margin of the true vocal cords and extends to the inferior border of the cricoid cartilage. Subglottic primaries are the least common of the three and carry a poorer prognosis due to delayed presentation.
 
 ---
 
@@ -45,11 +45,11 @@ For **neoplasms**, the C32 category is entirely site-specific:
 |[[C32.8]]|Overlapping lesion | Spans two or more contiguous subsites|
 |[[C32.9]]|Larynx, unspecified | Use only when documentation is truly inadequate|
 
-D02.0 covers **carcinoma in situ** of the larynx (including the epiglottis suprahyoid portion). D14.1 covers **benign neoplasms** of the larynx.
+**D02.0** covers **carcinoma in situ** of the larynx (including the [[epiglottis]] suprahyoid portion). **D14.**1 covers **benign neoplasms** of the larynx.
 
 For **non-neoplastic conditions**, category J38 is the workhorse:
 
-J38.0 covers vocal cord and laryngeal paralysis, with important specificity: J38.01 (unilateral) vs. J38.02 (bilateral). If the record simply says "vocal cord paralysis" without laterality, query before defaulting to J38.00. J38.1 is polyps, J38.2 is nodules, J38.3 covers a broad group including leukoplakia, granuloma, and cellulitis of the vocal cords. J38.4 is laryngeal edema, J38.5 is laryngeal spasm (including laryngismus stridulus), and J38.6 is stenosis.
+J38.0- covers vocal cord and laryngeal paralysis, with important specificity: J38.01 (**unilateral**) vs. [[J38.02]] (**bilateral**). If the record simply says "**[[vocal cord paralysis]]**" without laterality, query before defaulting to [[J38.00]]. [[J38.1]] is polyps, [[J38.2]] is nodules, [[J38.3]] covers a broad group including [[leukoplakia]], granuloma, and [[cellulitis]] of the vocal cords. [[J38.4]] is laryngeal edema, [[J38.5]] is laryngeal [[spasm]] (**including laryngismus stridulus**), and [[J38.6]] is [[stenosis]].
 
 ---
 
@@ -67,43 +67,41 @@ This is the most common laryngeal PCS coding trap. The body systems split as fol
 
 - Body part R = Epiglottis
 
-A biopsy of a vocal cord (0BBK8ZX) and a biopsy of the epiglottis (0BCR8ZX) land in completely different body system tables. If you see a direct laryngoscopy with biopsy of an epiglottic lesion, the root table is 0C, not 0B. Always check the operative report for exactly where the biopsy was taken.
+A biopsy of a vocal cord (**0BBK8ZX**) and a biopsy of the epiglottis (**0BCR8ZX**) land in completely different body system tables. If you see a direct [[laryngoscopy]] with biopsy of an epiglottic lesion, the root table is 0C, not 0B. Always check the operative report for exactly where the biopsy was taken.
 
 ---
 
 ## Common Laryngeal Procedure Coding Notes
 
-**Diagnostic laryngoscopy** — Inspection (J) of the Larynx, approach 8 (Via Natural or Artificial Opening Endoscopic): 0BJJ8ZZ. A flexible fiberoptic laryngoscopy in the office would use the same root operation but confirm approach documentation.
+**Diagnostic laryngoscopy** — Inspection (J) of the Larynx, approach 8 (Via Natural or Artificial Opening Endoscopic): **0BJJ8ZZ**. A flexible fiberoptic laryngoscopy in the office would use the same root operation but confirm approach documentation.
 
-**Microlaryngoscopy with excision** (vocal cord polyp, nodule, cyst, papilloma) — Excision (B), Body part K or L, approach 8. Add the qualifier X for diagnostic (biopsy). A bilateral procedure on both cords = two separate codes.
+**Microlaryngoscopy with excision** (**vocal cord polyp, nodule, cyst, papilloma**) — Excision (B), Body part K or L, approach 8. Add the qualifier X for diagnostic (biopsy). A bilateral procedure on both cords = two separate codes.
 
-**Total laryngectomy** — Resection (T) of Larynx (J), approach 0 (Open): 0BTJ0ZZ.
+**Total laryngectomy** — Resection (T) of Larynx (J), approach 0 (Open): **0BTJ0ZZ**.
 
-**Partial laryngectomy** — Excision (B) of Larynx (J), approach 0 (Open): 0BBJ0ZZ.
+**Partial laryngectomy** — Excision (B) of Larynx (J), approach 0 (Open): **0BBJ0ZZ**.
 
 **Vocal cord injection** (for augmentation with collagen, fat, or similar material) — Supplement (U), body part K or L, approach 8.
 
-**Botulinum toxin injection into the larynx** (for spasmodic dysphonia) — this codes to the Administration section (3E0), not Medical and Surgical. The substance character is Toxin (C) and the site is the Muscle body system.
+**[[Botulinum toxin]] injection into the larynx** (for [[spasmodic dysphonia]]) — this codes to the Administration section (3E0), not Medical and Surgical. The substance character is Toxin (C) and the site is the Muscle body system.
 
-**Laryngeal dilation** (for stenosis) — Dilation (7) of Larynx (J), with approach and device characters depending on whether a stent is left in place.
+**Laryngeal dilation** (for [[stenosis]]) — Dilation (7) of Larynx (J), with approach and device characters depending on whether a stent is left in place.
 
 ---
 
 ## Coding Pearls for Your Vault
 
-**Epiglottis laterality doesn't exist** — the epiglottis is a single midline structure, so there is no right/left distinction for PCS body part R. Vocal cords, however, require right (K) vs. left (L) specificity, and bilateral procedures need two codes.
+**Epiglottis laterality doesn't exist** — the [[epiglottis]] is a single midline structure, so there is no right/left distinction for PCS body part R. Vocal cords, however, require right (K) vs. left (L) specificity, and bilateral procedures need two codes.
 
-**"Suprahyoid" vs. "infrahyoid" epiglottis** — both portions code to C32.1 for malignant neoplasms. The distinction matters clinically (suprahyoid is above the hyoid bone and has different lymphatic patterns) but does not create a separate code.
+**"Suprahyoid" vs. "infrahyoid" epiglottis** — both portions code to [[C32.1]] for malignant neoplasms. The distinction matters clinically (**suprahyoid is above the hyoid bone and has different lymphatic patterns**) but does not create a separate code.
 
-**Laryngeal cartilage fracture** — codes to S12.8- (fracture of other specified cervical vertebrae)? No — actually to S19.8- or the specific injury codes for the neck structures. Query your encoder for the most current valid code since this is an uncommon fracture with coding nuances.
+**Laryngeal cartilage fracture** — codes to S12.8- (**fracture of other specified cervical vertebrae**)? No — actually to S19.8- or the specific injury codes for the neck structures. Query your encoder for the most current valid code since this is an uncommon fracture with coding nuances.
 
-**Voice changes (dysphonia) as a symptom** — R49.0 (Dysphonia) is appropriate when it's the presenting symptom without a confirmed underlying cause. Once a cause is coded (e.g., J38.0 for paralysis), the symptom code is generally omitted per ICD-10-CM guideline I.C.18.
+**Voice changes ([[dysphonia]]) as a symptom** — [[R49.0]] (**Dysphonia**) is appropriate when it's the presenting symptom without a confirmed underlying cause. Once a cause is coded (e.g., J38.0 for paralysis), the symptom code is generally omitted per ICD-10-CM guideline I.C.18.
 
-**Radiation laryngitis** — if a patient has laryngitis documented as a consequence of radiation therapy, assign the appropriate J38 code plus an adverse effect code from the T-code table (T66-T78 range) with sequencing per the adverse effect guideline.
+**Radiation [[laryngitis]]** — if a patient has laryngitis documented as a consequence of radiation therapy, assign the appropriate J38 code plus an adverse effect code from the T-code table (**T66-T78 range**) with sequencing per the adverse effect guideline.
 
 ---
-
-This should give you a solid foundation to build out individual Obsidian notes per zone, per procedure type, or per ICD chapter — link liberally between the epiglottis note and both C32.1 and the 0C body system, since that cross-reference saves the most coding errors in practice.
 
 The **larynx** is a complex musculocartilaginous structure located in the anterior midline of the neck at the level of cervical vertebrae **C3-C6** in adults. It serves three primary biological functions:
 
@@ -111,7 +109,7 @@ The **larynx** is a complex musculocartilaginous structure located in the anteri
 2. **Phonation** — produces voice through controlled vibration of the true vocal cords
 3. **Respiration** — maintains a patent airway and regulates airflow during breathing and Valsalva maneuvers
 
-From a coding and surgical standpoint, precise knowledge of laryngeal anatomy is essential because **ICD-10-CM, ICD-10-PCS, and CPT codes are highly site-specific** within the larynx. A malignancy of the glottis (C32.0) is coded and staged entirely differently from a supraglottic malignancy (C32.1), and surgical approach, reconstruction, and DRG assignment all follow accordingly.
+From a coding and surgical standpoint, precise knowledge of laryngeal anatomy is essential because **ICD-10-CM, ICD-10-PCS, and CPT codes are highly site-specific** within the larynx. A malignancy of the glottis ([[C32.0]]) is coded and staged entirely differently from a supraglottic malignancy ([[C32.1]]), and surgical approach, reconstruction, and DRG assignment all follow accordingly.
 
 ---
 
@@ -125,7 +123,7 @@ The larynx is bounded:
 - **Posteriorly** — by the hypopharynx and esophageal inlet
 - **Laterally** — by the piriform sinuses (bilateral recesses of the hypopharynx)
 
-The **laryngeal inlet (aditus laryngis)** faces posterosuperiorly and is bounded by the epiglottis anteriorly, aryepiglottic folds laterally, and the interarytenoid space posteriorly.
+The **laryngeal inlet (aditus laryngis)** faces posterosuperiorly and is bounded by the [[epiglottis]] anteriorly, aryepiglottic folds laterally, and the interarytenoid space posteriorly.
 
 ---
 
@@ -137,34 +135,34 @@ The larynx is divided into **three major anatomical and oncologic subsites**. Th
 
 ### 1. Supraglottis
 
-The supraglottis encompasses all laryngeal structures **above the level of the true vocal cords**, specifically above the lateral margin of the laryngeal ventricle.
+The [[supraglottis]] encompasses all laryngeal structures **above the level of the true vocal cords**, specifically above the lateral margin of the laryngeal ventricle.
 
 **Structures included:**
-- Epiglottis (both lingual/anterior surface and laryngeal/posterior surface)
+- [[Epiglottis]] (both lingual/anterior surface and laryngeal/posterior surface)
 - Aryepiglottic folds
 - Arytenoids (the cartilaginous prominences posteriorly)
 - False vocal cords (ventricular folds / vestibular folds)
 - Laryngeal ventricles (the space between the false and true vocal cords — also called the sinus of Morgagni)
 
 **Clinical significance:**
-- Supraglottic cancers often present **late** because the supraglottis is a relatively silent area — patients may not develop hoarseness (a hallmark of glottic disease) until there is inferior extension to the true cords
-- Rich lymphatic drainage bilaterally → supraglottic cancers have a **high rate of cervical lymph node metastasis** (up to 50% at presentation)
-- Supraglottic laryngectomy (horizontal partial laryngectomy) removes structures above the true cords while preserving voice
-- **Supraglottitis** (formerly "epiglottitis") is a potentially life-threatening infection of these structures
+- **Supraglottic cancers** often present **late** because the [[supraglottis]] is a relatively silent area — patients may not develop hoarseness (**a hallmark of glottic disease**) until there is inferior extension to the true cords
+- Rich lymphatic drainage bilaterally → supraglottic cancers have a **high rate of cervical lymph node [[metastasis]]** (**up to 50% at presentation**)
+- Supraglottic [[laryngectomy]] (**horizontal partial [[laryngectomy]]**) removes structures above the true cords while preserving voice
+- **Supraglottitis** (formerly "[[epiglottitis]]") is a potentially life-threatening infection of these structures
 
 **ICD-10-CM Coding:**
-- C32.1 — Malignant neoplasm of supraglottis
-- J04.30 / J04.31 — Supraglottitis without/with obstruction
-- J38.4 — Edema of larynx (can affect supraglottis)
+- [[C32.1]] — Malignant [[neoplasm]] of supraglottis
+- [[J04.30]] / [[J04.31]] — [[Supraglottitis]] without/with obstruction
+- [[J38.4]] — [[Edema]] of larynx (can affect [[supraglottis]])
 
 ---
 
 ### 2. Glottis
 
-The glottis is the central functional unit of the larynx, defined as the **true vocal cords and the area immediately adjacent**, including the anterior and posterior commissures. It spans approximately **1 cm inferiorly** below the free edge of the true vocal cord (per AJCC definition).
+The [[glottis]] is the central functional unit of the larynx, defined as the **true vocal cords and the area immediately adjacent**, including the anterior and posterior commissures. It spans approximately **1 cm inferiorly** below the free edge of the true vocal cord (**per AJCC definition**).
 
 **Structures included:**
-- True vocal cords (vocal folds) — right and left
+- True vocal cords (**vocal folds**) — right and left
 - Anterior commissure — the point where both vocal cords meet anteriorly at the thyroid cartilage
 - Posterior commissure — the interarytenoid space between the two vocal cord bodies posteriorly
 
@@ -184,9 +182,9 @@ The true vocal cord is a layered structure critical to voice production. From su
 
 **Clinical significance:**
 - Glottic cancers present **early** due to [[dysphonia]] — even a small lesion disrupts the mucosal wave and causes hoarseness
-- Sparse lymphatic supply at the [[glottis]] → **low rate of nodal metastasis** at presentation (unlike [[supraglottis]])
+- Sparse lymphatic supply at the [[glottis]] → **low rate of nodal metastasis** at presentation (**unlike [[supraglottis]]**)
 - Excellent prognosis for early-stage (T1, T2) glottic cancers treated with radiation or laser cordectomy
-- Vocal cord paralysis ([[J38.01]]/[[J38.02]]) most commonly reflects glottic-level dysfunction but the etiology is often at the level of the recurrent laryngeal nerve
+- Vocal cord paralysis (**[[J38.01]]/[[J38.02]]**) most commonly reflects glottic-level dysfunction but the etiology is often at the level of the recurrent laryngeal nerve
 
 **ICD-10-CM Coding:**
 - [[C32.0]] — Malignant neoplasm of glottis
@@ -200,7 +198,7 @@ The true vocal cord is a layered structure critical to voice production. From su
 
 ### 3. Subglottis
 
-The subglottis extends from the **inferior margin of the glottis** (approximately 1 cm below the free edge of the true vocal cord) to the **inferior border of the cricoid cartilage**, where it transitions into the trachea.
+The [[subglottis]] extends from the **inferior margin of the glottis** (approximately 1 cm below the free edge of the true vocal cord) to the **inferior border of the cricoid cartilage**, where it transitions into the trachea.
 
 **Structures included:**
 - [[Subglottic]] mucosa and [[submucosa]]
@@ -473,19 +471,19 @@ Relevant to coding newborn laryngoscopy (CPT 31520 vs. 31525) and pediatric airw
 
 | Pathology                              | Primary Subsite                    | ICD-10-CM                   | CPT Procedure                                                          |
 | -------------------------------------- | ---------------------------------- | --------------------------- | ---------------------------------------------------------------------- |
-| **Vocal cord polyp**                   | Glottis                            | **J38.1**                   | **[[31540]] or [[31541]]**                                             |
-| **Vocal cord nodules**                 | Glottis                            | **J38.2**                   | **[[31512]] or [[31545]]**                                             |
-| **Reinke's edema / polypoid corditis** | Glottis (Reinke's space)           | **J38.3**                   | **31545 / [[31546]]**                                                  |
-| **Leukoplakia / dysplasia**            | Glottis                            | **J38.3**                   | **[[31535]] + pathology**                                              |
-| **Glottic carcinoma**                  | Glottis                            | **C32.0**                   | **31541 or total laryngectomy**                                        |
-| **Supraglottic carcinoma**             | Supraglottis                       | **C32.1**                   | **31540 or supraglottic laryngectomy**                                 |
+| **Vocal cord polyp**                   | Glottis                            | **[[J38.1]]**                   | **[[31540]] or [[31541]]**                                             |
+| **Vocal cord nodules**                 | Glottis                            | **[[J38.2]]**                   | **[[31512]] or [[31545]]**                                             |
+| **Reinke's edema / polypoid corditis** | Glottis (Reinke's space)           | **[[J38.3]]**                   | **31545 / [[31546]]**                                                  |
+| **Leukoplakia / dysplasia**            | Glottis                            | **[[J38.3]]**                   | **[[31535]] + pathology**                                              |
+| **Glottic carcinoma**                  | Glottis                            | **[[C32.0]]**                   | **31541 or total laryngectomy**                                        |
+| **Supraglottic carcinoma**             | Supraglottis                       | **[[C32.1]]**                   | **31540 or supraglottic laryngectomy**                                 |
 | **Subglottic stenosis**                | Subglottis                         | **[[J38.6]]**               | **[[31528]] / [[31529]] / open reconstruction**                        |
 | **Laryngeal papillomatosis (RRP)**     | Multi-subsite                      | **[[D14.1]]**               | **[[31572]] (laser) or 31540**                                         |
-| **Vocal cord paralysis**               | Glottis / RLN                      | **J38.01 / [[J38.02**]]     | **[[31570]] / [[31571]] (injection); [[31560]] ([[arytenoidectomy]])** |
+| **Vocal cord paralysis**               | Glottis / RLN                      | **[[J38.01]] / [[J38.02]]** | **[[31570]] / [[31571]] (injection); [[31560]] ([[arytenoidectomy]])** |
 | **Subglottic hemangioma (pediatric)**  | Subglottis                         | **[[D18.09]]**              | **31572 (laser)**                                                      |
 | **Contact granuloma**                  | Posterior glottis / interarytenoid | **[[J38.7]]**               | **31540 or medical management**                                        |
 | **Laryngocele**                        | Ventricle / supraglottis           | **J38.7**                   | **31540 or external excision**                                         |
-| **Epiglottitis / supraglottitis**      | Supraglottis                       | **[[J04.30]] / [[J04.31]]** | **31525 (evaluation); airway intervention if needed**                  |
+| **[[Epiglottitis]] / [[supraglottitis]]**      | Supraglottis                       | **[[J04.30]] / [[J04.31]]** | **31525 (evaluation); airway intervention if needed**                  |
 
 ---
 
