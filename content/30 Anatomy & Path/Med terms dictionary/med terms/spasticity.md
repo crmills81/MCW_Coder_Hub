@@ -1,8 +1,11 @@
 ---
 tags:
   - medterm
+  - pmr
+  - nervous_system
 aliases:
   - rigidity
+  - Spasticity
   - spokiness
   - hyperreflexia
   - spasm
@@ -17,8 +20,7 @@ forms:
   - suffix
   - noun
 alphabet: S
-definition:
-  - symptom of Upper Motor Neuron syndrome
+definition: symptom of Upper Motor Neuron syndrome
 ---
 >[!Note] DEFINITION of [[spasticity]]
 >**Spasticity** is a **clinical symptom of Upper Motor Neuron (UMN) syndrome**. Physiologically, it occurs when there is a disruption in the descending **inhibitory pathways** of the central nervous system (**brain or spinal cord**). This loss of inhibition leads to **hyperexcitability** of the stretch reflex arc within the muscles. A hallmark characteristic of spasticity is that it is **velocity-dependent**; the faster a muscle is passively stretched by an examiner, the greater the resistance encountered. Over time, **untreated spasticity** can lead to painful **muscle spasms**, severe limitations in **range of motion (ROM)**, and permanent anatomical **contractures**. It is commonly seen in patients with **cerebral palsy**, **multiple sclerosis**, **traumatic brain injury, spinal cord injury**, and **stroke**.
@@ -89,7 +91,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots]]

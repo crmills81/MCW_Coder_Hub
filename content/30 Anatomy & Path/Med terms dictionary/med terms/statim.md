@@ -4,18 +4,19 @@ tags:
   - medterm
 aliases:
   - stat
+  - Statim
 roots:
   - statim
+  - stat-
+  - -im-
 forms:
   - compound suffix form
 "alphabet:": S
-definition:
-  - immediately
-  - at once
+definition: immediately,at once
 ---
 >[!Note] DEFINITION of statim
 >immediately, at once
->*ironically, has a homonym that literally means the opposite: [[-stat]] (greek for stop). Also, has a homonym, "stat" (from the latin "stare" meaning to stay)  *
+>ironically, has a homonym that literally means the opposite: [[-stat]] (greek for stop). Also, has a homonym, "stat" (from the latin "stare" meaning to stay) 
 _____
 >[!info]+ ETYMOLOGY of statim
 >#latin statim
@@ -33,8 +34,9 @@ ___
 >[!faq]- Query
 >```dataview
 >TABLE definition AS Definition
->FROM #medroot
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>FROM #medterm 
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots dictionary]]

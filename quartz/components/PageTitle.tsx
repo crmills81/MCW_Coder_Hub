@@ -14,7 +14,7 @@ return (
         <img 
           src={`${baseDir}/static/logo.png`} 
           style={{ 
-            width: "90px", 
+            width: "120px", 
             height: "auto", 
             display: "block", 
             marginLeft: "auto", 

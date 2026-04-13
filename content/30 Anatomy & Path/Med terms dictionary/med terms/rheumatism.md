@@ -1,24 +1,26 @@
 ---
 tags:
   - medterm
-aliases: []
+  - pmr
+aliases:
+  - Rheumatism
 roots:
   - rheumat-
   - -ism
-"definition:": chronic pain affecting joints and connective tissue
-"alphabet:": R
+alphabet: R
 forms:
   - combining
   - noun
+definition: chronic pain affecting joints and connective tissue
 ---
->[!note]+ Definition of rheumatism
+>[!note]+ Definition of [[rheumatism]]
 >[[rhe-|rheumat-]][[-ism]] - chronic pain affecting joints and connective tissue
 ___
->[!info]+ Etymology of rheumatism
+>[!info]+ Etymology of [[rheumatism]]
 >originally thought to be caused by a flowing of the humors in the body
 
 _____
->[!tip]- DERIVATIONS of [[]]
+>[!tip]- DERIVATIONS of [[rheumatism]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
@@ -30,7 +32,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 

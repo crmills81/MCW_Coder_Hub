@@ -13,8 +13,7 @@ forms:
   - noun
   - suffix
 alphabet: S
-definition:
-  - A malignant tumor arising from connective or mesenchymal tissue, such as bone, cartilage, fat, muscle, or blood vessels.
+definition: A malignant tumor arising from connective or mesenchymal tissue, such as bone, cartilage, fat, muscle, or blood vessels.
 ---
 >[!Note] DEFINITION of [[sarcoma]]
 >The term **sarcoma** refers to a broad group of malignant **neoplasms** (**cancers**) that originate in the **mesenchymal** or connective tissues of the body. Unlike **carcinomas**, which develop in [[epithelial]] linings (**like skin or internal organs**), **sarcomas** arise in the structural tissues: **bones**, **cartilage**, **muscles**, **tendons**, **fat**, **blood vessels**, and **nerves**. They are typically highly aggressive and often **metastasize** through the bloodstream (**hematogenous spread**) rather than the lymphatic system. **Sarcomas** are generally divided into two main categories: **soft tissue sarcomas** (e.g., [[liposarcoma]], [[leiomyosarcoma]]) and **primary bone sarcomas** (e.g., [[osteosarcoma]], Ewing [[sarcoma]]).
@@ -118,7 +117,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots]]

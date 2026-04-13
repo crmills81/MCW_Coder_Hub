@@ -16,8 +16,7 @@ forms:
   - prefix
   - suffix
 alphabet: P
-definition:
-  - drooping of the upper eyelid over the eye
+definition: drooping of the upper eyelid over the eye
 ICD-10 Code:
   - H02.401
   - H02.402
@@ -58,7 +57,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots]]

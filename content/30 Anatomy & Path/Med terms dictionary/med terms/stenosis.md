@@ -5,6 +5,7 @@ tags:
 aliases:
   - stricture
   - coarctation
+  - Stenosis
 roots:
   - -stenosis
   - -osis
@@ -53,7 +54,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots]]

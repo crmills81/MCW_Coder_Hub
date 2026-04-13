@@ -3,6 +3,7 @@ tags:
   - medterm
   - medroot
 aliases:
+  - Sclera
 roots:
   - sclera-
   - sclero-
@@ -15,11 +16,7 @@ forms:
   - combining
   - noun
 alphabet: S
-definition:
-  - the tough
-  - opaque
-  - fibrous white outer coat of the eyeball
-  - covering the posterior five-sixths of the globe and giving the eye its characteristic "white" appearance.
+definition: the tough, opaque, fibrous white outer coat of the eyeball, covering the posterior five-sixths of the globe and giving the eye its characteristic "white" appearance.
 ---
 >[!Note] DEFINITION of [[sclera]]
 >The **sclera** is composed primarily of dense, irregularly arranged collagen bundles and elastic fibers, giving it both mechanical toughness and slight flexibility. **It forms the posterior five-sixths of the fibrous outer coat of the eye, with the cornea making up the remaining anterior sixth** — the two being continuous at the [[limbus]]. The sclera serves multiple critical functions: it maintains the globe's shape against internal (**intraocular pressure**) and external forces, provides attachment points for the seven [[extraocular]] muscles, and protects delicate internal structures (**retina, [[choroid]], [[vitreous]]**). It is pierced at numerous points by nerves and blood vessels, most notably at the posterior scleral foramen where the [[optic nerve]] exits and at the **lamina cribrosa**, its sieve-like perforated zone. The sclera derives **embryologically** from neural crest cells. In healthy adults it appears bright white; in children it is thinner and can appear faintly blue (**underlying uveal pigment shows throug**h), while in elderly patients fatty deposits can yellow it. 
@@ -70,7 +67,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots]]

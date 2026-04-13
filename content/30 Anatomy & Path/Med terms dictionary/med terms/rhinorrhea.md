@@ -4,6 +4,7 @@ tags:
   - medroot
 aliases:
   - Postnasal drip
+  - Rhinorrhea
 roots:
   - -rrhea
   - rhino-
@@ -12,8 +13,7 @@ forms:
   - prefix
   - suffix
 alphabet: R
-definition:
-  - a thin clear nasal discharge; commonly known as a runny nose
+definition: a thin clear nasal discharge; commonly known as a runny nose
 ---
 >[!Note] DEFINITION of [[rhinorrhea]]
 >**Rhinorrhea** is the **free discharge of thin nasal mucus through the nostrils**. It is a common symptom associated with various conditions including allergic [[rhinitis]], viral upper respiratory infections, [[sinusitis]], and [[cerebrospinal fluid leaks]]. The discharge can be **clear, watery, or mucoid depending on the underlying cause**. When the discharge is cerebrospinal fluid rather than mucus, it may indicate a serious condition such as a skull base fracture or spontaneous CSF leak.
@@ -64,7 +64,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots]]

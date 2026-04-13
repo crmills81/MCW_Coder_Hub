@@ -27,8 +27,7 @@ forms:
   - adjective
   - adverb
 alphabet: R
-definition:
-  - Endoscopic visualization and surgical access to the retroperitoneal space 
+definition: Endoscopic visualization and surgical access to the retroperitoneal space
 ---
 > [!note]+ DEFINITION of [[retroperitoneoscopy]]
 > 
@@ -235,8 +234,9 @@ definition:
 >[!faq]- Query functionality
 >```dataview
 >TABLE definition AS Definition
->FROM #medterm
->WHERE length(filter(definition, (word) => econtains(this.definition, word))) > 0 AND file.name != this.file.name
+>FROM #medterm 
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots]]

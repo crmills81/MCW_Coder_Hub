@@ -17,8 +17,7 @@ forms:
   - noun
   - adjective (sarcoid)
 alphabet: S
-definition:
-  - A chronic multisystem granulomatous inflammatory disease of unknown etiology characterized by non-caseating granulomas in affected organs, most commonly the lungs and lymph nodes
+definition: A chronic multisystem granulomatous inflammatory disease of unknown etiology characterized by non-caseating granulomas in affected organs, most commonly the lungs and lymph nodes
 ---
 >[!Note] DEFINITION of [[sarcoidosis]]
 >**Sarcoidosis** is a chronic, multisystem **inflammatory disease of unknown etiology** characterized by the formation of **non-caseating (non-necrotizing) granulomas** — compact collections of activated [[macrophages]], epithelioid cells, and CD4+ T-lymphocytes — in virtually any organ of the body. The lungs and intrathoracic lymph nodes are involved in over **90% of cases**, making [[sarcoidosis]] one of the most important differential diagnoses in **interstitial lung disease**. Other commonly affected organs include the skin, eyes, liver, spleen, heart, and brain. The etiology remains unclear, but current evidence supports a **dysregulated immune response** in genetically susceptible individuals triggered by an unidentified environmental antigen — possibly bacterial, viral, or particulate. The defining histopathologic feature is the **non-caseating granuloma**, which distinguishes sarcoidosis from tuberculosis (**which produces caseating granulomas**). Giant cells (**Langhans type**), **Schaumann bodies** (calcium-protein inclusions), and **asteroid bodies** may all be seen on biopsy. Clinically, **sarcoidosis** follows an unpredictable course — many patients experience spontaneous remission, while others develop chronic progressive disease leading to organ fibrosis. As an inpatient profee coder, sarcoidosis appears most often on pulmonary, cardiology, and neurology admissions; cardiac sarcoidosis ([[D86.85]]) in particular is an **MCC** in many DRGs and is frequently under-documented — always query the provider when [[cardiomyopathy]] or [[arrhythmia]] is present alongside a sarcoidosis diagnosis.
@@ -180,8 +179,9 @@ _____
 >[!faq]- Query functionality
 >```dataview
 >TABLE definition AS Definition
->FROM #medterm
->WHERE length(filter(definition, (word) => econtains([[sarcoidosis]].definition, word))) > 0 AND file.name != [[sarcoidosis]].file.name
+>FROM #medterm 
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots]]

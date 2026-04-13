@@ -6,6 +6,7 @@ tags:
   - specialty/urology
 aliases:
   - pyelogram
+  - Pyelography
 roots:
   - pyelography
   - py-
@@ -40,9 +41,10 @@ _____
 _____
 >[!faq]- Query functionality
 >```dataview
->TABLE definition AS Definition
+ >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 ---

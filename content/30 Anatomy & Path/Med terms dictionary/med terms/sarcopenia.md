@@ -4,11 +4,11 @@ tags:
   - pmr
 aliases:
   - muscle wasting
-  - sarcopenia
   - muscle poverty
   - Age-related muscle loss
   - sarcopenic
   - dynapenia
+  - Sarcopenia
 roots:
   - sarc-
   - sarco-
@@ -20,8 +20,7 @@ forms:
   - prefix
   - suffix
 alphabet: S
-definition:
-  - Progressive, age-related degenerative loss of skeletal muscle mass, strength, and physical function
+definition: Progressive, age-related degenerative loss of skeletal muscle mass, strength, and physical function
 ---
 >[!Note] DEFINITION of [[sarcopenia]]
 >**Sarcopenia** is the **progressive, age-associated loss of skeletal muscle mass, strength, and physical performance** — defined as a disease since its **ICD-10-CM code M62.84 was established in October 2016**, formally recognizing it as a distinctly reportable clinical condition rather than a vague symptom of aging. The term was coined by nutritional scientist **Irwin Rosenberg in 1988-1989**, who wrote that *"**there may be no single feature of age-related decline that could more dramatically affect ambulation, mobility, calorie intake, and overall nutrient intake and status, independence, breathing, etc.**"* **Sarcopenia** begins subtly around age **40** with a decline of approximately **1-2% of muscle mass per year**, accelerating markedly after age **70**. Clinically it is diagnosed using a combination of three pillars: **muscle strength** (grip dynamometry — men <30 kg, women <20 kg), **muscle mass** (DXA lean body mass — men <8.50 kg/m², women <5.75 kg/m²), and **physical performance** (gait speed <1.0 m/s or Short Physical Performance Battery [SPPB] score <7). Sarcopenia is a major driver of **frailty, falls, fractures, prolonged hospitalization, and all-cause mortality** in elderly patients and is frequently an underqueried, undercoded condition on inpatient claims. It is distinct from **[[cachexia]]** (cytokine-driven muscle catabolism in systemic illness) and **[[atrophy]]** (M62.5x — site-specific disuse or denervation), though the conditions frequently co-exist.
@@ -133,7 +132,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots]]
