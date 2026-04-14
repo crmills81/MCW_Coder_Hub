@@ -66,7 +66,7 @@ definition:
 > - **[[Lymphangitis]]** — inflammation of lymphatic vessels; frequently complicates lymphedema due to impaired immune defense; coded **[[I89.1]]**; sequence by clinical scenario
 > - **[[Cellulitis]]** — bacterial skin/soft tissue infection; the most common acute complication of **lymphedema**; code by site (L03 family); lymphedema is coded additionally
 > - **[[Erysipelas]]** — superficial form of [[cellulitis]] (dermis/upper [[subcutaneous]]); recurrent **erysipelas** is a hallmark complication of **lymphedema**; coded **[[A46]]**
-> - **[[Fibrosis]]** — hallmark of Stage II-III **lymphedema**; protein-rich fluid triggers fibroblast activation and connective tissue deposition; drives the non-pitting quality
+> - **[[fibrosis]]** — hallmark of Stage II-III **lymphedema**; protein-rich fluid triggers fibroblast activation and connective tissue deposition; drives the non-pitting quality
 > - **Complete decongestive therapy (CDT)** — gold-standard lymphedema treatment; two-phase: Phase 1 intensive (manual lymphatic drainage + compression bandaging + skin care + exercise) and Phase 2 maintenance (compression garments + self-care); CPT **[[97140]]** (MLD) + **[[29581]]**/**[[29584]]** (compression application)
 > - **Manual lymphatic drainage (MLD)** — specialized massage technique to stimulate lymphatic flow; coded CPT **[[97140]]** per 15-minute unit; must be performed by certified lymphedema therapist (CLT)
 > - **Bioimpedance spectroscopy (BIS)** — emerging objective diagnostic tool to detect subclinical lymphedema (Stage 0); CPT **[[93702]]**; increasingly used for post-mastectomy surveillance

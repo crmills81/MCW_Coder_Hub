@@ -58,7 +58,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 >
 > - **[[Spasticity]]** — velocity-dependent UMN [[hypertonia]]; the primary neurological driver of spastic contracture post-stroke/**SCI**
-> - **[[Fibrosis]]** — pathological collagen deposition; the histological mechanism of all contracture types
+> - **[[fibrosis]]** — pathological collagen deposition; the histological mechanism of all contracture types
 > - **Adhesive capsulitis** — arthrogenic shoulder **contracture**; progressive joint capsule thickening
 > - **Dupuytren disease** — progressive palmar fascial [[fibromatosis]] causing finger flexion contracture; M72.0
 > - **Volkmann contracture** — ischemic myogenic contracture of the forearm from untreated compartment syndrome

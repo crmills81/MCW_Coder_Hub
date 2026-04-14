@@ -98,14 +98,14 @@ _____
 > - **Simple Cellulitis (L03.x):** Generally does **NOT** map to an HCC. It is considered an acute, short-term condition that resolves with antibiotics.
 >     
 > - **Complications & Severity:**
->     - **[[sepsis]] ([[A41.9]]):** If the cellulitis progresses to Sepsis, it maps to **HCC 2** ([[Septicemia]], Sepsis, and [[Systemic Inflammatory Response Syndrome]]/[[Shock]]), which carries a high risk adjustment weight.
+>     - **[[sepsis]] ([[A41.9]]):** If the cellulitis progresses to Sepsis, it maps to **HCC 2** ([[Septicemia]], Sepsis, and [[Systemic Inflammatory Response Syndrome]]/[[shock]]), which carries a high risk adjustment weight.
 >     - **Necrotizing Fasciitis ([[M72.6]]):** Maps to **HCC 48** (Inflammatory Bone Disease, [[Osteomyelitis]], and [[Arthropathy]]).
 >     - **[[Diabetic Ulcer]]:** If cellulitis is associated with a diabetic [[ulcer]], code the ulcer (e.g., [[E11.621]]) which maps to **HCC 161/162** (Chronic Skin Ulcers).
 > 
 > ### Assistant Surgeon Pay
 > 
 > - **Medical Management:** **No.** E/M codes (992xx) are professional service codes and do not allow for assistant surgeon billing.
-> - **[[Debridement]] ([[11000]]):** **No.** (Status indicator '0' - Assistant not permitted).
+> - **[[debridement]] ([[11000]]):** **No.** (Status indicator '0' - Assistant not permitted).
 > - **Surgical Intervention:**
 >     - If cellulitis requires surgical drainage (**e.g., extensive I&D**) or fasciotomy for compartment syndrome, standard surgical rules apply. Simple I&D ([[10060]]) **never** allows an assistant; deep I&D (10061) **rarely** allows one without significant documentation of complexity (e.g., morbid obesity, patient positioning issues).
 > 
