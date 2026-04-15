@@ -33,7 +33,7 @@
 ### Office Setting Only
 | Requirement | Detail |
 | :--- | :--- |
-| **Setting** | Office only (POS 11) |
+| **Setting** | Office only (**POS 11**) |
 | **Supervision** | Direct supervision (physician in office suite) |
 | **Plan of Care** | Established by physician |
 | **Follow-up** | Physician must see patient periodically |

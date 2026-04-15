@@ -1,5 +1,5 @@
 The content of this interactive dictionary is taken from Dunmore and Fleischer's *MEDICAL TERMINOLOGY Exercises in Etymology Edition III^[Walker-Esbaugh, Cheryl, Laine H. McCarthy, Rhonda A. Sparks, and Charles William Dunmore. _Dunmore and Fleischer’s Medical Terminology: Exercises in Etymology_. Ed. 3. Philadelphia, PA: F. A. Davis Co, 2004.]* (The book actually explains how to interpret and use this info.)
-This interactive dictionary is made using the free program, [Obsidian.MD](https://obsidian.md/)^[https://obsidian.md/]
+This interactive dictionary is made using the free program, 
 
 ### About:
 1. The **main use** of this database is to help break down medical terms that you might come across while taking notes for med school.
@@ -8,14 +8,14 @@ This interactive dictionary is made using the free program, [Obsidian.MD](https:
 	- You can hover over the wikilink while holding either "ctrl" or "cmd" to view the definition of each individual root. It's all automated!
 2. If you go into the global graph view, or if you activate the local graph view, you can see all of the relationships between each root. Global gives a birds-eye view. Local graph view will allow you to more directly see the most pertinent relationships. 
 	- You can activate global graph view by clicking on the "open graph view" icon on the left sidebar.
-		- This helpful search operator string will only show the medical roots. Enter this into the filter searchbar in the graph view: `#medroot -file:"Root_med template" -file:"exampleroottemplate" -file: "Appendix A Prefixes" -file:"READ THIS FIRST (Med terms dictionary)" -file:"Appendix B Combining Forms" -file:"Appendix C Combining Forms"`
+		- This helpful search operator string will only show the medical roots. Enter this into the filter search bar in the graph view: `#medroot -file:"Root_med template" -file:"exampleroottemplate" -file: "Appendix A Prefixes" -file:"READ THIS FIRST (Med terms dictionary)" -file:"Appendix B Combining Forms" -file:"Appendix C Combining Forms"`
 		- You can also add: `-file:"Med Roots Dictionary"` to the previous filter
 	- You can activate local graph view by clicking on the triple dot on the relevant page panel, then selecting "local graph". It's fun following the connections and seeing where they'll lead.
 		- This is even cooler, because you can choose parameters that allow you to see direct siblings and cousins of that word. To do this, open up the filters tab in the local graph and type in: ```-#exclude``` (this excludes the central node), and then you can adjust the depth (this is "how related" they are). I like to also ensure "Incoming links", "Outgoing links", and "Neighbor links" are enabled in order to get the most holistic overview. Alternatively, you can type in: `-file: Med roots dictionary`
 3. Some cool extra features included in each root's page:
 	1. You can see all the medical terms that are derived from each root by looking in the derivations section.
 		1. In order to take advantage of this extra feature (this isn't necessary but it's fun), you need to add metadata so that the database query detects it.
-		2. There are two ways of adding the needed metadata ([tutorial](https://www.youtube.com/watch?v=rAoFGGMG-0g)).
+		2. There are two ways of adding the needed metadata.
 			1. The first is what I use: it's YAML frontline metadata. At the very top of the page, you surround the labeled metadata with **three dashes**. The label you absolutely need to use is: ```roots: [root1, root2, root3]``` but you can also include the definition by adding ```definition: [definition]```. It's case-sensitive I believe. The frontmatter *must* be at the top (i.e. *front*) of he page.
 			2. The second option is to use inline metadata. Instead of having the metadata at the top of the page surrounded by triple dashes, you simply type the variable name followed by two colons, a space, and your value. It's a little clunkier because you can't use multiple values enclosed in square brackets (this is called an array). The workaround is to have multiple inputs:
 				1. `roots:: root1`
@@ -35,7 +35,7 @@ This interactive dictionary is made using the free program, [Obsidian.MD](https:
 Required plugins: Dataview
 Optional plugins: Advanced Tables, Templates, Templater, Various Complements
 - To implement these plugins, go to Settings > Options > Community Plugins. Turn off Restricted Mode, search the plugin name, download, then activate the plugin. For the Templates plugin, there's no need to download anything; you just need to activate the Core Plugin.
-- If you're curious about learning more about Dataview, here is the [documentation](https://blacksmithgu.github.io/obsidian-dataview/data-queries/)^[https://blacksmithgu.github.io/obsidian-dataview/data-queries/]
+- If you're curious about learning more about Dataview, here is the 
 Other plugins I used: Minimal theme, Hover Editor, Sliding Panes
 
 ### Possible (improbable) future plans:

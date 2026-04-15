@@ -20,11 +20,10 @@ forms:
   - verb
   - adjective
 alphabet: A
-definition:
-  - The partial or complete wasting away or reduction in size of a body part, organ, tissue, or cell
+definition: The partial or complete wasting away or reduction in size of a body part, organ, tissue, or cell
 ---
 >[!Note] DEFINITION of [[atrophy]]
->**Atrophy** is the **partial or complete wasting away** of a cell, tissue, organ, or body part — defined specifically as a **reduction in size of a structure that has already reached its normal mature growth**. This distinguishes it from **[[hypoplasia]]** (failure to reach normal size) and **[[aplasia]]** (failure to develop at all). Atrophy results from an imbalance between protein synthesis and degradation at the cellular level and may be **physiological** (e.g., thymus regression after puberty, uterine involution post-partum) or **pathological** (e.g., disuse atrophy from immobilization, denervation atrophy from nerve injury, ischemic atrophy from poor circulation, or endocrine atrophy from hormone withdrawal). The clinically relevant forms include **muscle atrophy** (most commonly coded as M62.5x), **cerebral/cortical atrophy**, **optic atrophy**, **spinal muscular atrophy (SMA)**, and **skin atrophy**. Atrophy differs critically from **[[necrosis]]** (cell death) and **dystrophy** (disordered development/nutrition): atrophied cells are still alive, just reduced in mass and function.
+>**Atrophy** is the **partial or complete wasting away** of a cell, tissue, organ, or body part — defined specifically as a **reduction in size of a structure that has already reached its normal mature growth**. This distinguishes it from **[[hypoplasia]]** (failure to reach normal size) and **[[aplasia]]** (**failure to develop at all**). Atrophy results from an imbalance between protein synthesis and degradation at the cellular level and may be **physiological** (**e.g., thymus regression after puberty, uterine involution post-partum**) or **pathological** (e.g., disuse atrophy from immobilization, denervation atrophy from nerve injury, ischemic **atrophy** from poor circulation, or endocrine **atrophy** from hormone withdrawal). The clinically relevant forms include **muscle atrophy** (most commonly coded as M62.5x), **cerebral/cortical atrophy**, **optic atrophy**, **spinal muscular atrophy (SMA)**, and **skin atrophy**. Atrophy differs critically from **[[necrosis]]** (**cell deat**h) and **dystrophy** (disordered development/nutrition): atrophied cells are still alive, just reduced in mass and function.
 _____
 >[!info]+ ETYMOLOGY of [[atrophy]]
 >#greek
@@ -35,7 +34,7 @@ _____
 >|**[[troph-]]**|Greek _τροφή_ (trophḗ), from _τρέφω_ (tréphō)|"**Nourishment**," "**food**," "**that which causes growth**"|
 >|**[[-y]]**|Greek _-ία_ (-ia)|Noun-forming suffix — "**state or condition of**"|
 >
-> The word entered English in the **1610s** as *atrophy* (**noun**), borrowed from French *atrophie*, from Late Latin ***atrophia***, from Greek ***atrophia*** — literally **"a wasting away from lack of nourishment."** The adjective *atrophied* appears even earlier, by the **1590s**. The root *trephein* ("to fatten, to nourish") connects atrophy to the entire **[[-trophy]]** family: ***hypertrophy*** (over-nourishment → over-growth), ***dystrophy*** (disordered nourishment), and *trophic* (pertaining to nutritional support of a tissue or organ — as in "trophic nerve input"). The **alpha privative** *a-* is one of the most productive prefixes in medical terminology, appearing in ***[[aphasia]]***, ***[[anemia]]***, ***[[apnea]]***, ***asepsis***, and dozens more.
+> The word entered English in the **1610s** as *atrophy* (**noun**), borrowed from French *atrophie*, from Late Latin ***atrophia***, from Greek ***atrophia*** — literally **"a wasting away from lack of nourishment."** The adjective *atrophied* appears even earlier, by the **1590s**. The root *trephein* ("**to fatten, to nourish**") connects atrophy to the entire **[[-trophy]]** family: ***hypertrophy*** (**over-nourishment → over-growth**), ***dystrophy*** (**disordered nourishment**), and *trophic* (pertaining to nutritional support of a tissue or organ — as in "trophic nerve input"). The **alpha privative** *[[a-]]* is one of the most productive prefixes in medical terminology, appearing in ***[[aphasia]]***, ***[[anemia]]***, ***[[apnea]]***, ***asepsis***, and dozens more.
 _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
@@ -44,7 +43,7 @@ _____
 > - **Wasting / Wasting syndrome** _(lay and clinical term, especially in cachexia)_
 > - **[[Hypotrophy]]** _(decrease in volume of cells or tissues; partial atrophy)_
 > - **Muscle wasting** _(clinical synonym for muscular atrophy; coded under M62.5x)_
-> - **Sarcopenia** _(age- or immobility-related skeletal muscle loss; M62.84)_
+> - **[[sarcopenia|Sarcopenia]]** _(age- or immobility-related skeletal muscle loss; M62.84)_
 > - **[[cachexia]]** _(systemic wasting syndrome, often malignancy- or chronic disease-related)_
 > - **Denervation atrophy** _(muscle atrophy due to loss of nerve supply)_
 > - **Disuse atrophy** _(from immobilization, bed rest, casting)_
@@ -57,19 +56,19 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Hypertrophy]]** — the opposite of atrophy; abnormal increase in organ/tissue size from cellular enlargement (not cell proliferation)
-> - **[[Dystrophy]]** — shares the *troph-* root; disordered or defective nourishment/development (e.g., muscular dystrophy)
+> - **[[Hypertrophy]]** — the opposite of **atrophy**; abnormal increase in organ/tissue size from cellular enlargement (**not cell proliferation**)
+> - **[[Dystrophy]]** — shares the *[[troph-]]* root; disordered or defective nourishment/development (**e.g., muscular dystrophy**)
 > - **[[sarcopenia]]** — age-related skeletal muscle atrophy; distinct from pathological atrophy; coded as M62.84
-> - **[[cachexia]]** — complex metabolic syndrome of wasting driven by systemic illness (malignancy, heart failure, CKD); often overlaps with atrophy
-> - **[[Denervation]]** — loss of nerve supply to a muscle, causing neurogenic atrophy
+> - **[[cachexia]]** — complex metabolic syndrome of wasting driven by systemic illness (**malignancy, heart failure, CKD**); often overlaps with atrophy
+> - **[[Denervation]]** — loss of nerve supply to a muscle, causing neurogenic **atrophy**
 > - **[[Trophic]]** — adjective describing nerve or hormonal inputs that sustain tissue mass; "trophic support"
-> - **[[Apoptosis]]** — programmed cell death; the cellular mechanism underlying physiological and some pathological atrophy
-> - **Spinal Muscular Atrophy (SMA)** — genetic motor neuron disease causing progressive muscle atrophy (G12.0, G12.1, G12.2x)
+> - **[[Apoptosis]]** — programmed cell death; the cellular mechanism underlying physiological and some pathological **atrophy**
+> - **Spinal Muscular Atrophy (SMA)** — genetic motor neuron disease causing progressive muscle atrophy (**G12.0, G12.1, G12.2x**)
 > - **Optic atrophy** — degeneration of optic nerve axons, causing visual field loss; H47.2x
 > - **Cortical atrophy / Cerebral atrophy** — reduction in brain volume, hallmark of [[neurodegenerative]] diseases
 > - **Atrophic gastritis** — thinning of gastric mucosa; associated with H. pylori, B12 deficiency, pernicious anemia
 > - **Atrophic vaginitis / GSM (Genitourinary Syndrome of Menopause)** — estrogen-deficiency atrophy of urogenital tissues
-> - **EMG (Electromyography)** — primary diagnostic tool for evaluating denervation and muscle atrophy
+> - **EMG (Electromyography)** — primary diagnostic tool for evaluating denervation and muscle **atrophy**
 > 
 _____
 

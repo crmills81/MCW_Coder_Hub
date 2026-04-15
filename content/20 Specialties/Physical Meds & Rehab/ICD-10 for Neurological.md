@@ -33,7 +33,7 @@
 ### Movement Disorders
 | Code | Description |
 | :--- | :--- |
-| **[[G20]]** | Parkinson's disease |
+| **G20.-** | Parkinson's disease |
 | **[[G24.9]]** | Dystonia, unspecified |
 | **[[G25.0]]** | Essential tremor |
 

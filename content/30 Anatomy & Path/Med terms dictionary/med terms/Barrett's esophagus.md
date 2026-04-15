@@ -72,7 +72,7 @@ _____
 > 
 > **Associated Code for GERD (if concurrent)**
 > 
-> - **[[K21.0]]**: Gastro-esophageal reflux disease with esophagitis
+> - **[[K21.00]]**: Gastro-esophageal reflux disease with esophagitis
 > - **[[K21.9]]**: Gastro-esophageal reflux disease without esophagitis
 > 
 > **CPT Codes** _CPT codes depend on the procedure performed (diagnostic vs. therapeutic)._

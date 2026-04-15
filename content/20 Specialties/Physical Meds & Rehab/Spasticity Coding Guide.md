@@ -17,7 +17,7 @@ aliases:
 
 ## 1. The Default Code: R25.2 (Cramp and spasm)
 If the documentation states "**spasticity**" with no underlying cause, syndrome, or specific limb involvement, the Alphabetic Index directs here.
-* **Index Path:** Spastic, spasticity -> see also Spasm -> [[R25.2 1]]
+* **Index Path:** Spastic, spasticity -> see also Spasm -> [[R25.2]]
 * **Type 1 Excludes:** M62.- (Other disorders of muscle)
 
 ## 2. Stiff-Man Syndrome: G25.82
@@ -112,7 +112,7 @@ This code was added to the ICD-10-CM set specifically to capture spasticity as a
  * Use when: The patient has velocity-dependent hypertonia, but the provider hasn't documented it as part of a stroke (I69.-), MS (G35.-), or CP (G80.-).
  * Excludes 1: * Cerebral palsy (G80.-)
    * Multiple sclerosis (G35.-)
- * Coding Tip: While the index for "**Spasticity**" has traditionally pointed to [[R25.2 1]], [[G25.82]] is significantly more specific for the neurological condition of **spasticity**.
+ * Coding Tip: While the index for "**Spasticity**" has traditionally pointed to [[R25.2]], [[G25.82]] is significantly more specific for the neurological condition of **spasticity**.
 
 1. **Codes for Specific Patterns**
 If the **spasticity** is localized to a specific "**pattern**" of [[paralysis]] (even if not fully paralyzed), Chapter 6 codes are often more appropriate:
@@ -124,7 +124,7 @@ If the **spasticity** is localized to a specific "**pattern**" of [[paralysis]] 
 | Spastic Quadriplegia | G82.5- | Used for spasticity affecting all four limbs (non-congenital). |
 
 3. **Avoiding the "Symptom" Trap**
-You may see [[R25.2 1]] (Cramp and spasm) or [[M62.838]] (Other muscle spasm) in the index, but for a professional coder, these are usually sub-optimal:
+You may see [[R25.2]] (Cramp and spasm) or [[M62.838]] (Other muscle spasm) in the index, but for a professional coder, these are usually sub-optimal:
  * **R25**.2 (**Cramp and spasm**): This is a Chapter 18 "Symptom" code. It’s generally used for general muscle cramps or when the clinical documentation is very thin.
  * **M62.838** (**Other muscle spasm**): This is a Chapter 13 "**Musculoskeletal**" code. It is best reserved for spasms related to local issues like back strain or "**charley horses**," rather than the **upper motor neuron (UMN)** involvement seen in true spasticity.
 
@@ -139,7 +139,7 @@ The mention of [[ileus]] is a significant clinical clue. In many neurological ca
 
 1. The Spasticity Code: **G25.82**
 As long as the spasticity is documented as a neurological finding and not just a minor "muscle cramp," [[G25.82]] (**Spasticity**) remains the most accurate choice.
- * Why not [[R25.2 1]]? **R25.2** (Cramp and spasm) is a symptom code. **G25.82** is a more specific "Movement Disorder" code that better reflects the complexity of neurological spasticity.
+ * Why not [[R25.2]]? **R25.2** (Cramp and spasm) is a symptom code. **G25.82** is a more specific "Movement Disorder" code that better reflects the complexity of neurological spasticity.
  * Check for **Myelopathy**: If the record mentions "[[myelopathy]]" or "spinal cord compression," you would likely move to a G95.- code, which often includes [[spasticity]] as an inherent component.
 1. The [[Ileus]] Code: [[K56.0]] vs. [[K56.7]]
 

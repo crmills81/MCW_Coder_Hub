@@ -13,7 +13,7 @@ These are the two most common modifiers used in PM&R to bypass bundling edits. M
 - **Definition:** Distinct Procedural Service.
 - **Usage:** Attached to a **Procedure Code** (e.g., [[97140]], [[20552]]).
 - **Scenario:** Two procedures performed that are usually bundled, but done on different sites or separate sessions.
-- **Example:** Manual therapy (97140) on the knee AND manual therapy (97140) on the shoulder (different anatomical sites).
+- **Example:** Manual therapy (**97140**) on the knee AND manual therapy (**97140**) on the shoulder (different anatomical sites).
 
 ## Comparison Table
 | Feature | Modifier 25 | Modifier 59 |
@@ -23,7 +23,7 @@ These are the two most common modifiers used in PM&R to bypass bundling edits. M
 | **Documentation** | Note must support separate decision making | Note must support distinct site/session |
 
 > [!TIP] Medicare Preference
-> Medicare prefers **X-Modifiers** (-XE, -XS, -XP, -XU) over -59 for greater specificity. Use **-XS** for separate anatomical sites.
+> **Medicare** prefers **X-Modifiers** ([[-XE]], [[-XS]], [[-XP]], [[-XU]]) over [[-59]] for greater specificity. Use **-XS** for separate anatomical sites.
 
 [[00 PM&R Coding MOC]]
 [[NCCI Edits for Rehab]]

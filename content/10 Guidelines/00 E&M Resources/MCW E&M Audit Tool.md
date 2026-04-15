@@ -6,6 +6,7 @@
 **Patient Name/MRN:**  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ **DOS:**  _ _ _ _ _ _ _ _ _ _ _ _ _ _  
 **Provider:**  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ **Auditor:**  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
 **Payer:**  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ (Medicare/Commercial rules may vary for Prolonged Services)  
+
 ---
 
 **SECTION 1: ENCOUNTER TYPE & CODE SET**
