@@ -61,8 +61,8 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 >
-> - **[[Myelopathy]]** — dysfunction of the spinal cord from direct compression by spondylotic changes; a critical modifier of spondylosis ICD-10 code selection (M47.1x)
-> - **[[Radiculopathy]]** — nerve root dysfunction from foraminal narrowing or disc-osteophyte complex; drives M47.2x code selection
+> - **[[myelopathy]]** — dysfunction of the spinal cord from direct compression by spondylotic changes; a critical modifier of spondylosis ICD-10 code selection (M47.1x)
+> - **[[radiculopathy]]** — nerve root dysfunction from foraminal narrowing or disc-osteophyte complex; drives M47.2x code selection
 > - **[[Osteophyte]]** — bone spur; the primary structural product of spondylotic degeneration along vertebral endplates
 > - **Intervertebral disc degeneration** — disc height loss and annular tears; accompanies and accelerates spondylosis
 > - **[[Spinal stenosis]]** — narrowing of the spinal canal secondary to spondylotic changes; coded M48.0x (distinct from M47)

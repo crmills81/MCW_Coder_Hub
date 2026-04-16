@@ -15,11 +15,10 @@ forms:
   - suffix
   - adjective
 alphabet: H
-definition:
-  - complete loss of voluntary motor function on one side of the body
+definition: complete loss of voluntary motor function on one side of the body
 ---
 >[!Note] DEFINITION of [[hemiplegia]]
->**Hemiplegia** is **the complete and total loss of voluntary movement on one side of the body, representing the most severe end of the unilateral motor deficit spectrum**. It results from an interruption of the corticospinal (**pyramidal**) tract at any point from the motor cortex through the **internal capsule, brainstem, or spinal cord**, with weakness occurring contralateral to the lesion above the decussation of the medullary pyramids. In the acute phase, **hemiplegia** typically presents as **flaccid** (**hypotonia, [[areflexia]], loss of all movement**) due to spinal shock. Over days to weeks, it evolves into **spastic hemiplegia** (**hypertonia, hyperreflexia, clasp-knife rigidity, Babinski sign, clonus**) as upper motor neuron release phenomena emerge. It differs from **hemiparesis** only in degree — **hemiplegia** = zero voluntary movement; **hemiparesis** = some voluntary movement preserved. [[Stroke]] is the most common cause, but [[hemiplegia]] also results from traumatic **brain injury, brain tumors, cerebral palsy** (**a leading cause in children**), **demyelinating disease**, and CNS infections. In ICD-10-CM, **hemiplegia** and [[hemiparesis]] are deliberately classified together under the same codes (**G81.xx, I69.x5x**), recognizing the clinical continuum between them.
+>**Hemiplegia** is **the complete and total loss of voluntary movement on one side of the body, representing the most severe end of the unilateral motor deficit spectrum**. It results from an interruption of the corticospinal (**pyramidal**) tract at any point from the motor cortex through the **internal capsule, brainstem, or spinal cord**, with weakness occurring contralateral to the lesion above the decussation of the medullary pyramids. In the acute phase, **hemiplegia** typically presents as **flaccid** (**hypotonia, [[areflexia]], loss of all movement**) due to spinal shock. Over days to weeks, it evolves into **spastic hemiplegia** (**hypertonia, hyperreflexia, clasp-knife rigidity, Babinski sign, clonus**) as upper motor neuron release phenomena emerge. It differs from **hemiparesis** only in degree — **hemiplegia** = zero voluntary movement; **hemiparesis** = some voluntary movement preserved. [[stroke]] is the most common cause, but [[hemiplegia]] also results from traumatic **brain injury, brain tumors, cerebral palsy** (**a leading cause in children**), **demyelinating disease**, and CNS infections. In ICD-10-CM, **hemiplegia** and [[hemiparesis]] are deliberately classified together under the same codes (**G81.xx, I69.x5x**), recognizing the clinical continuum between them.
 >
 _____
 >[!info]+ ETYMOLOGY of [[hemiplegia]]
@@ -27,24 +26,24 @@ _____
 >
 >|Component|Origin|Meaning|
 >|---|---|---|
->|**hemi-**|Greek _hēmi-_ (ἡμι-)|Half|
->|**-plegia**|Greek _plēgē_ (πληγή), from _plēssein_|A blow, stroke, or strike; complete paralysis|
+>|**[[hemi-]]**|Greek _hēmi-_ (ἡμι-)|Half|
+>|**[[-plegia]]**|Greek _plēgē_ (πληγή), from _plēssein_|A blow, stroke, or strike; complete paralysis|
 >
-> **Literally**: _"a striking of half [the body]"_ — evoking the sudden, blow-like onset of complete one-sided [[paralysis]], as in stroke. The Greek _plēgē_ is also the root of the word "apoplexy," the historical term for stroke.
+> **Literally**: _"a striking of half [the body]"_ — evoking the sudden, blow-like onset of complete one-sided [[paralysis]], as in [[stroke]]. The Greek _plēgē_ is also the root of the word "**apoplexy**," the historical term for stroke.
 >
-> **Key distinction from hemiparesis:** _-plegia_ (**complete paralysis**) vs. _-paresis_ (**partial weakness**). The same _[[-plegia]]_ root appears in [[paraplegia]], [[quadriplegia]], diplegia, and [[monoplegia]].
+> **Key distinction from hemiparesis:** _-plegia_ (**complete paralysis**) vs. _[[-paresis]]_ (**partial weakness**). The same _[[-plegia]]_ root appears in [[paraplegia]], [[quadriplegia]], [[diplegia]], and [[monoplegia]].
 > 
 _____
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 > 
-> - **Hemiparalysis** — older synonym; rarely used in modern clinical documentation
+> - **[[Hemiparalysis]]** — older synonym; rarely used in modern clinical documentation
 > - **Flaccid hemiplegia** — acute phase; LMN-pattern ([[hypotonia]], [[areflexia]]); spinal shock state
 > - **Spastic hemiplegia** — chronic/recovery phase; UMN-pattern ([[hypertonia]], [[hyperreflexia]], Babinski)
-> - **Cerebral hemiplegia** — emphasizing brain origin (vs. spinal)
-> - **Infantile hemiplegia** — hemiplegia from perinatal brain injury; a subtype of cerebral palsy
+> - **Cerebral hemiplegia** — emphasizing brain origin (**vs. spinal**)
+> - **Infantile hemiplegia** — [[hemiplegia]] from perinatal brain injury; a subtype of [[cerebral palsy]]
 > - **Alternate hemiplegia (crossed hemiplegia)** — ipsilateral cranial nerve palsy + contralateral body weakness; classic brainstem lesion pattern
-> - **Alternating hemiplegia of childhood (AHC)** — rare genetic disorder (**ATP1A3 mutation**) causing recurrent episodic hemiplegia
-> - **Post-ictal hemiplegia (Todd's paralysis)** — transient complete weakness after focal seizure; may mimic stroke
+> - **Alternating hemiplegia of childhood (AHC)** — rare genetic disorder (**ATP1A3 mutation**) causing recurrent episodic [[hemiplegia]]
+> - **Post-ictal hemiplegia (Todd's paralysis)** — transient complete weakness after focal seizure; may mimic [[stroke]]
 > - **Hemiplegic migraine** — rare migraine variant with transient hemiplegia as aura
 > - **Brachiofacial hemiplegia** — arm and face predominantly affected; cortical/MCA distribution
 > - **Crural hemiplegia** — leg predominantly affected; ACA distribution
@@ -53,25 +52,25 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **Hemiparesis** — the partial/incomplete version; same ICD-10 code family
-> - **Monoplegia** — complete paralysis of one limb (ICD-10: G83.0x-G83.2x)
-> - **Paraplegia** — bilateral lower limb paralysis (ICD-10: G82.2x)
-> - **Quadriplegia / Tetraplegia** — all four limbs (ICD-10: G82.5x)
-> - **Diplegia** — bilateral symmetric involvement, typically cerebral palsy
+> - **[[Hemiparesis]]** — the partial/incomplete version; same ICD-10 code family
+> - **[[Monoplegia]]** — complete paralysis of one limb (**ICD-10: G83.0x-G83.2x**)
+> - **[[Paraplegia]]** — bilateral lower limb paralysis (**ICD-10: G82.2x**)
+> - **[[Quadriplegia]] / [[Tetraplegia]]** — all four limbs (**ICD-10: G82.5x**)
+> - **[[Diplegia]]** — bilateral symmetric involvement, typically **[[cerebral palsy]]**
 > - **Corticospinal tract** — the motor pathway; interruption = hemiplegia
-> - **Internal capsule** — dense white matter tract; small lesion here causes complete hemiplegia
+> - **Internal capsule** — dense white matter tract; small lesion here causes complete [[hemiplegia]]
 > - **Decussation of the pyramids** — where motor fibers cross; determines contralateral pattern
-> - **Upper motor neuron (UMN)** — spasticity, hyperreflexia, Babinski, clonus
-> - **Lower motor neuron (LMN)** — flaccidity, atrophy, fasciculations, areflexia
-> - **Cerebral palsy (CP)** — leading cause of hemiplegia in children
-> - **Locked-in syndrome** — bilateral corticospinal tract lesion (pons); complete paralysis except eye movements; distinct from hemiplegia
-> - **Glasgow Coma Scale (GCS)** — motor response component assesses hemiplegia severity acutely
+> - **Upper motor neuron (UMN)** — [[spasticity]], [[hyperreflexia]], Babinski, clonus
+> - **Lower motor neuron (LMN)** — flaccidity, [[atrophy]], [[fasciculations]], [[areflexia]]
+> - **[[Cerebral palsy]] (CP)** — leading cause of [[hemiplegia]] in children
+> - **Locked-in syndrome** — bilateral corticospinal tract lesion (**pons**); complete [[paralysis]] except eye movements; distinct from [[hemiplegia]]
+> - **Glasgow Coma Scale (GCS)** — motor response component assesses [[hemiplegia]] severity acutely
 > - **NIHSS (NIH Stroke Scale)** — motor arm/leg items quantify hemiplegic severity
-> - **Brunnstrom stages** — motor recovery stages post-stroke hemiplegia (I-VI)
+> - **Brunnstrom stages** — motor recovery stages post-[[stroke]] [[hemiplegia]] (I-VI)
 > - **Fugl-Meyer Assessment** — quantitative motor recovery scale
-> - **Constraint-induced movement therapy (CIMT)** — intensive upper extremity rehabilitation
-> - **Ankle-foot orthosis (AFO)** — common assistive device for hemiplegic gait (foot drop)
-> - **Spasticity** — major complication of chronic hemiplegia; treated with baclofen, botulinum toxin
+> - **Constraint-induced movement therapy (CIMT)** — intensive upper extremity [[rehabilitation]]
+> - **Ankle-foot orthosis (AFO)** — common assistive device for hemiplegic gait (**[[foot drop]]**)
+> - **[[Spasticity]]** — major complication of chronic [[hemiplegia]]; treated with baclofen, botulinum toxin
 
 _____
 
@@ -79,7 +78,7 @@ _____
 > <br>
 > ### 🏥 ICD-10-CM CODES
 > 
-> > **Critical Note:** ICD-10-CM category **G81** is titled _"Hemiplegia and hemiparesis"_ — both conditions share every code in this category. The documentation of hemiplegia vs. hemiparesis does **not** change the code; both map to the same codes. The 4th character specifies **type** (flaccid, spastic, unspecified) and the 5th character specifies **side and dominance**.
+> > **Critical Note:** **ICD-10-CM category** **G81** is titled _"Hemiplegia and hemiparesis"_ — both conditions share every code in this category. The documentation of [[hemiplegia]] vs. [[hemiparesis]] does **not** change the code; both map to the same codes. The 4th character specifies **type** (**flaccid, spastic, unspecified**) and the 5th character specifies **side and dominance**.
 > 
 > #### **Hemiplegia/Hemiparesis — Non-Cerebrovascular (Category G81)**
 > 
@@ -249,7 +248,7 @@ _____
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** The single most important distinction for inpatient coders: **G81.xx is used when hemiplegia is NOT a sequela of cerebrovascular disease** (**e.g., cerebral palsy, TBI, tumor, MS, Todd's paralysis**). When it IS a documented sequela of stroke or intracranial hemorrhage, use the **I69.X5X** codes exclusively — do not code both G81 and I69.x5x for the same condition. The **I69.X5X** codes are **CC** (**Complication/Comorbidity**) under MS-DRG and significantly impact DRG weight. The **flaccid vs. spastic** distinction in G81 matters for specificity — flaccid (G81.0x) reflects the acute/LMN phase while spastic (G81.1x) reflects the chronic/UMN recovery phase; query the physician when this is not specified. As always, document and code **laterality** and **dominance** to the highest specificity possible — unspecified codes (**ending in 0 or 9**) should be used only as a last resort.
+> > ⚠️ **Coding Note:** The single most important distinction for inpatient coders: **G81.xx is used when hemiplegia is NOT a sequela of cerebrovascular disease** (**e.g., cerebral palsy, TBI, tumor, MS, Todd's paralysis**). When it IS a documented sequela of **stroke** or intracranial hemorrhage, use the **I69.X5X** codes exclusively — do **not** code both G81 and I69.x5x for the same condition. The **I69.X5X** codes are **CC** (**Complication/Comorbidity**) under MS-DRG and significantly impact DRG weight. The **flaccid vs. spastic** distinction in G81 matters for specificity — flaccid (**G81.0x**) reflects the acute/LMN phase while spastic (**G81.1x**) reflects the chronic/UMN recovery phase; query the physician when this is not specified. As always, document and code **laterality** and **dominance** to the highest specificity possible — unspecified codes (**ending in 0 or 9**) should be used only as a last resort.
 
 _____
 >[!tip]- DERIVATIONS of [[hemiplegia]]

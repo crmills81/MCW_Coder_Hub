@@ -167,8 +167,7 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE file.name != this.file.name
->AND any(contains(this.definition, definition))
+>WHERE length(filter(definition, (word) => econtains([[TERM]].definition, word))) > 0 AND file.name != [[TERM]].file.name
 >```
 
 [[Med roots]]

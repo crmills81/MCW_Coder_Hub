@@ -29,7 +29,7 @@ This interactive dictionary is made using the free program,
 	- One issue is it uses aliases when a root word has multiple forms, which means if you use the traditional alphabetical search provided by the Dataview appendices rather than the searchbar, you may not find it.
 	- Another issue in the same vein is that you can't predict which form will be listed in the alphabetical reference. There were limitations in how aliases work.
 	- As long as you use the in-line links (enclose your word of interest in double square brackets: ```[[word_of_interest]]```) you will be able to locate that word, given it has been put into the dictionary. If it has not been put in the dictionary, you will need to add it to the dictionary. See section 5 for more info on adding words to the dictionary.
-5. In order to add more terms and maintain all the functionality in this database, you will need to ensure that the metadata includes the tag: `#medroot`. See section 3.1.2 for info on adding metadata. I also recommend using the core plugin: [Templates](https://help.obsidian.md/Plugins/Templates)^[https://help.obsidian.md/Plugins/Templates]. I will include the template in this folder: [[Root template]]
+5. In order to add more terms and maintain all the functionality in this database, you will need to ensure that the metadata includes the tag: `#medroot`. See section 3.1.2 for info on adding metadata. I also recommend using the core plugin: [Templates](https://help.obsidian.md/Plugins/Templates)^[https://help.obsidian.md/Plugins/Templates]. I will include the template in this folder: [[Root Template]]
 
 ### More information:
 Required plugins: Dataview

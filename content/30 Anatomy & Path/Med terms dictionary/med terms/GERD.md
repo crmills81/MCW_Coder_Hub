@@ -4,6 +4,7 @@ tags:
   - gastroenterology
   - internal-medicine
   - general-surgery
+  - Gastroesophageal-reflux-disease
 aliases:
   - Gastroesophageal reflux disease
   - gerd

@@ -18,8 +18,7 @@ roots:
 forms:
   - noun
 alphabet: H
-definition:
-  - Coughing up of blood or blood-tinged sputum originating from the lower respiratory tract
+definition: Coughing up of blood or blood-tinged sputum originating from the lower respiratory tract
 ---
 >[!Note] DEFINITION of [[hemoptysis]]
 >**Hemoptysis** is the **expectoration (coughing up) of blood or blood-streaked sputum originating from the lower respiratory tract** — specifically from the **bronchi, bronchioles, or lung parenchyma**. It is clinically distinguished from **[[hematemesis]]** (vomiting of blood from the GI tract) and **[[pseudohemoptysis]]** (blood originating from the nasopharynx or oropharynx that is expectorated but not truly coughed up from the lungs). **Hemoptysis** ranges in severity from **blood-streaked sputum** (most common, often benign) to **massive hemoptysis**, classically defined as **≥200-600 mL of blood in 24 hours** or any volume sufficient to cause **airway obstruction or hemodynamic compromise** — a life-threatening emergency. The **vast majority of bleeding** (approximately 90%) originates from the **bronchial circulation** (systemic arterial pressure) rather than the pulmonary circulation, which explains the potential for rapid exsanguination. Major etiologic categories include **infectious** ([[bronchitis]], [[bronchiectasis]], **tuberculosis**, lung abscess, [[aspergilloma]]), **neoplastic** (primary or metastatic lung malignancy), **cardiovascular** (pulmonary embolism, mitral [[stenosis]]), **autoimmune/vasculitic** ([[granulomatosis]] with [[polyangiitis]], Goodpasture syndrome, microscopic polyangiitis), and **iatrogenic** (post-[[bronchoscopy]], [[anticoagulation]]). In the inpatient and OTL/pulmonology setting, hemoptysis is a **CC** under MS-DRG grouping when coded as [[R04.2]], making documentation specificity important for accurate DRG capture.
@@ -52,7 +51,7 @@ _____
 
 > [!danger]+ #### 🔗 RELATED TERMS
 >
-> - **[[Hematemesis]]** — vomiting of blood; GI origin; key clinical distinction from hemoptysis (alkaline vs. acidic, bright red vs. coffee-ground)
+> - **[[hematemesis]]** — vomiting of blood; GI origin; key clinical distinction from hemoptysis (alkaline vs. acidic, bright red vs. coffee-ground)
 > - **[[Bronchiectasis]]** — dilated, chronically infected airways; one of the most common causes of recurrent **hemoptysis**
 > - **[[Bronchoscopy]]** — primary diagnostic and therapeutic intervention for active **hemoptysis**; used to localize bleeding source
 > - **[[Aspergilloma]]** — fungal ball (**Aspergillus**) in a pre-existing cavity; classic cause of massive **hemoptysis** via erosion of bronchial arteries

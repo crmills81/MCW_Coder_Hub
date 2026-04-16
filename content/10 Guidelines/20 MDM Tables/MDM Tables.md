@@ -5,6 +5,8 @@ A quick‑reference guide for Medical Decision Making (MDM) levels, including Pr
 
 ---
 
+![[Pasted image 20260415150716.png]]
+
 # 1️⃣ Number & Complexity of Problems Addressed
 
 | Level | Problem Types | Examples |

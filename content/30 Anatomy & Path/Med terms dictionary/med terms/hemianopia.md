@@ -17,8 +17,7 @@ forms:
   - suffix
   - noun
 alphabet: H
-definition:
-  - Blindness or loss of vision in half of the visual field in one or both eyes
+definition: Blindness or loss of vision in half of the visual field in one or both eyes
 ---
 >[!Note] DEFINITION of [[hemianopia]]
 >**Hemianopia** (also spelled hemianopsia) is a visual field defect in which vision is absent or significantly impaired in one half of the visual field. It arises from damage anywhere along the visual pathway — from the optic chiasm posteriorly through the **optic tracts, lateral geniculate nucleus, optic radiations, and visual cortex** (**occipital lobe**). The pattern of field loss depends on the lesion location and is a critical localizing sign in neurology and ophthalmology. The most clinically significant distinction is between homonymous hemianopia **(same-side field loss in both eyes, indicating a post-chiasmal retrochiasmatic lesion — most often [[stroke]]**) and bitemporal hemianopia (**outer field loss in both eyes, the hallmark of a chiasmal lesion such as a pituitary tumor**). **Hemianopia** is a common and often permanent sequela of stroke, particularly involving the **posterior cerebral artery (PCA)** and the occipital lobe. It significantly impacts activities of daily living including reading, driving, and navigation.
