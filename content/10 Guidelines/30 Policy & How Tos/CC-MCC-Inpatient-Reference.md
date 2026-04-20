@@ -157,7 +157,7 @@ Selected HAC categories relevant to inpatient profee specialties:
 | Malnutrition, moderate | [[E44.0]] | Lower tier than E43 but still a CC |
 | CKD Stage 3 | [[N18.3]] | Stage 4 = CC; Stage 5 = CC; ESRD = MCC |
 | Obstructive sleep apnea | [[G47.33]] | Frequently documented, often missed as CC |
-| Hypertensive CKD, Stage 1–4 | [[I12.9]] | Combination code — captures both hypertension and CKD |
+| Hypertensive CKD, Stage 1-4 | [[I12.9]] | Combination code — captures both hypertension and CKD |
 | Hematuria | [[R31.9]] | Relevant in urology; specificity matters |
 | Pressure ulcer, Stage 2 | [[L89.X12]] | Stage 3+ = MCC |
 | Depression, unspecified | [[F32.A]] | Common PMR comorbidity |
@@ -181,13 +181,13 @@ Selected HAC categories relevant to inpatient profee specialties:
 
 | Condition | Codes | Why It Matters |
 |---|---|---|
-| Severe TBI | [[S06.2X1A]]–[[S06.899S]] | Consciousness duration and LOC specificity required for MCC |
+| Severe TBI | [[S06.2X1A]]-[[S06.899S]] | Consciousness duration and LOC specificity required for MCC |
 | Acute ischemic stroke | I63.x | Specify vessel and laterality |
 | Sepsis (post-surgical) |A41.x + source code | Common complication in immobilized, post-op PMR patients |
 | Respiratory failure | J96.0x | Dysphagia/aspiration risk in neuro patients |
 | Aspiration pneumonia | [[J69.0]] | **MCC** — extremely common in neuro/dysphagia patients |
 | Severe malnutrition | [[E43]] | Query when albumin <2.1, significant weight loss documented |
-| Pressure ulcer, stage 3–4 | L89.X3, L89.X4 | POA critical — if acquired post-admit, HAC status applies |
+| Pressure ulcer, stage 3-4 | L89.X3, L89.X4 | POA critical — if acquired post-admit, HAC status applies |
 | DVT | [[I82.4X1]] | Post-immobilization complication |
 | PE | [[I26.09]], [[I26.99]] | High-acuity complication |
 
@@ -195,7 +195,7 @@ Selected HAC categories relevant to inpatient profee specialties:
 
 | Condition | Codes | Notes |
 |---|---|---|
-| Dysphagia | [[R13.10]]–[[R13.19]] | Specify oropharyngeal ([[R13.11]]) vs esophageal ([[R13.13]]); common in stroke, TBI |
+| Dysphagia | [[R13.10]]-[[R13.19]] | Specify oropharyngeal ([[R13.11]]) vs esophageal ([[R13.13]]); common in stroke, TBI |
 | Urinary retention | [[R33.9]] | Neurogenic bladder patients; see also [[N31.9]] |
 | Neurogenic bladder | [[N31.9]] | Specify subtype if documented |
 | Pressure ulcer, stage 2 | L89.X12 | POA essential |
@@ -204,7 +204,7 @@ Selected HAC categories relevant to inpatient profee specialties:
 | Deconditioning / functional debility | [[Z74.09]] | Not a CC itself, but supports medical necessity documentation |
 | Moderate malnutrition | [[E44.0]] | Step below severe; still CC |
 | Hypertensive heart disease | I11.x | Common comorbidity |
-| CKD (any stage) | [[N18.1]]–[[N18.6]] | Stage specificity affects CC vs MCC |
+| CKD (any stage) | [[N18.1]]-[[N18.6]] | Stage specificity affects CC vs MCC |
 | Anemia, unspecified | [[D64.9]] | Common PMR CC |
 
 > [!tip] PMR Query Targets
@@ -238,7 +238,7 @@ Selected HAC categories relevant to inpatient profee specialties:
 | UTI, unspecified | [[N39.0]] | Also CAUTI risk; **specify organism if documented** |
 | Urinary retention | [[R33.9]] | Distinguish acute ([[R33.9]]) vs chronic ([[R33.8]]) |
 | Hematuria | [[R31.0]] (gross) / [[R31.1]] (microscopic) / [[R31.9]] | Gross hematuria may be PDx or CC depending on encounter |
-| CKD, Stage 3 | [[N18.30]]–[[N18.32]] | Substage specificity added in recent updates |
+| CKD, Stage 3 | [[N18.30]]-[[N18.32]] | Substage specificity added in recent updates |
 | CKD, Stage 4 | [[N18.4]] | CC |
 | CKD, Stage 5 | [[N18.5]] | CC (ESRD = MCC) |
 | Hypertensive CKD | [[I12.9]], [[I12.10]], [[I12.11]] | Combination code; captures both conditions |
@@ -287,7 +287,7 @@ Selected HAC categories relevant to inpatient profee specialties:
 | Wound dehiscence (post-surgical) | [[T81.31XA]], [[T81.32XA]] | Post-op complication; POA = N |
 | Dehydration | [[E86.0]] | Common post-op ENT |
 | Anemia | [[D64.9]], [[D62]] | Post-surgical acute blood loss anemia ([[D62]] = CC) |
-| Tracheostomy complication | [[J95.00]]–[[J95.09]] | Obstruction, hemorrhage, mechanical |
+| Tracheostomy complication | [[J95.00]]-[[J95.09]] | Obstruction, hemorrhage, mechanical |
 | Laryngeal stenosis | [[J38.6]] | Post-surgical or post-intubation |
 
 > [!tip] ENT Query Targets
@@ -308,11 +308,11 @@ Selected HAC categories relevant to inpatient profee specialties:
 
 | Condition | Code | Status | Notes |
 |---|---|---|---|
-| Endophthalmitis, panophthalmitis | [[H44.001]]–[[H44.009]] | May be MCC | Serious infection; bilateral or uncontrolled = significant resource use |
-| Orbital cellulitis | [[H05.011]]–[[H05.019]] | CC | Frequently secondary to sinus disease |
-| Acute angle-closure glaucoma | [[H40.211]]–[[H40.219]] | CC | Requires IOP documentation; may be bilateral |
-| Vitreous hemorrhage | [[H43.10]]–[[H43.13]] | CC | Context-dependent |
-| Retinal detachment, total | [[H33.051]]–[[H33.059]] | CC | |
+| Endophthalmitis, panophthalmitis | [[H44.001]]-[[H44.009]] | May be MCC | Serious infection; bilateral or uncontrolled = significant resource use |
+| Orbital cellulitis | [[H05.011]]-[[H05.019]] | CC | Frequently secondary to sinus disease |
+| Acute angle-closure glaucoma | [[H40.211]]-[[H40.219]] | CC | Requires IOP documentation; may be bilateral |
+| Vitreous hemorrhage | [[H43.10]]-[[H43.13]] | CC | Context-dependent |
+| Retinal detachment, total | [[H33.051]]-[[H33.059]] | CC | |
 | Blindness, both eyes | [[H54.0x]] | CC | Functional status implication |
 
 > [!note] Important Ophthalmology CC/MCC Reality
@@ -322,12 +322,12 @@ Selected HAC categories relevant to inpatient profee specialties:
 
 | Condition | Code | Status | Notes |
 |---|---|---|---|
-| Diabetes w/ ophthalmic complications | [[E11.311]]–[[E11.359]] | CC varies | Combination codes; proliferative DR w/ macular edema = higher specificity |
+| Diabetes w/ ophthalmic complications | [[E11.311]]-[[E11.359]] | CC varies | Combination codes; proliferative DR w/ macular edema = higher specificity |
 | Severe sepsis | [[R65.20]] + A41.x | MCC | Endophthalmitis with systemic spread |
 | Acute kidney injury | [[N17.9]] | MCC | Post-IV contrast administration; post-surgical |
-| Hypertensive retinopathy | [[H35.031]]–[[H35.039]] | CC context | Captured within hypertension + retinopathy combination |
+| Hypertensive retinopathy | [[H35.031]]-[[H35.039]] | CC context | Captured within hypertension + retinopathy combination |
 | Hypertensive urgency/emergency | [[I16.0]], [[I16.1]] | CC/MCC | Acute ocular hypertensive crisis |
-| Autoimmune uveitis (systemic) | [[H30.101]]–[[H30.109]] | CC context | Underlying systemic disease (sarcoid, HLA-B27) may carry CC |
+| Autoimmune uveitis (systemic) | [[H30.101]]-[[H30.109]] | CC context | Underlying systemic disease (sarcoid, HLA-B27) may carry CC |
 
 > [!tip] Ophthalmology Query Targets
 > - **Diabetic retinopathy specificity** — proliferative vs nonproliferative, with/without macular edema; more specific combination codes improve DRG and HCC capture
@@ -346,7 +346,7 @@ Selected HAC categories relevant to inpatient profee specialties:
 
 | Clinical Finding | Potential CC/MCC | Query Direction |
 |---|---|---|
-| Elevated creatinine (1.5–2.0+), oliguria | AKI [[N17.9]] (MCC) | "The creatinine trended from X to Y. Does this represent acute kidney injury?" |
+| Elevated creatinine (1.5-2.0+), oliguria | AKI [[N17.9]] (MCC) | "The creatinine trended from X to Y. Does this represent acute kidney injury?" |
 | Albumin <2.1, weight loss >10%, poor PO intake | Severe malnutrition [[E43]] (MCC) | "The dietitian documented [finding]. Is malnutrition present, and if so, what is the severity?" |
 | Fever, elevated WBC, tachycardia + source | Sepsis A41.x (MCC) | "The patient has suspected infection with [SIRS criteria]. Does this meet criteria for sepsis?" |
 | Low O2 sat, supplemental O2 required | Respiratory failure J96.0x (MCC) | "What is your clinical assessment of the patient's respiratory status?" |

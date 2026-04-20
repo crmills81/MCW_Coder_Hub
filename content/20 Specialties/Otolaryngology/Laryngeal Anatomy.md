@@ -89,7 +89,7 @@ A biopsy of a vocal cord (**0BBK8ZX**) and a biopsy of the epiglottis (**0BCR8ZX
 
 ---
 
-## Coding Pearls for Your Vault
+## Coding Pearls
 
 **Epiglottis laterality doesn't exist** — the [[epiglottis]] is a single midline structure, so there is no right/left distinction for PCS body part R. Vocal cords, however, require right (K) vs. left (L) specificity, and bilateral procedures need two codes.
 
@@ -341,12 +341,12 @@ Mirrors arterial supply — superior laryngeal veins drain to the internal jugul
 
 | Subsite          | Lymphatic Drainage                                                                                            | Clinical Implication                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| **Supraglottis** | Bilateral to levels II, III (upper and mid jugular chain) via the preepiglottic space and thyrohyoid membrane | High nodal metastasis rate; bilateral neck dissection often required    |
-| **Glottis**      | Sparse intrinsic lymphatics; minimal drainage to levels II-IV                                                 | Low N0→N+ conversion rate for early glottic cancer                      |
-| **Subglottis**   | To levels III, IV, VI (paratracheal/pretracheal nodes)                                                        | Subglottic tumors can spread to the central compartment and mediastinum |
+| **[[Supraglottis]]** | Bilateral to levels II, III (upper and mid jugular chain) via the [[preepiglottic]] space and thyrohyoid membrane | High nodal metastasis rate; bilateral neck dissection often required    |
+| **[[Glottis]]**      | Sparse intrinsic lymphatics; minimal drainage to levels II-IV                                                 | Low N0→N+ conversion rate for early glottic cancer                      |
+| **[[Subglottis]]**   | To levels III, IV, VI (paratracheal/pretracheal nodes)                                                        | Subglottic tumors can spread to the central compartment and mediastinum |
 
 >[!tip]  **Coding relevance:** 
->Neck dissection codes (CPT [[38700]]-[[38724]]) and their pairing with [[laryngectomy]] codes are driven by extent of [[lymphadenectomy]], which is in turn driven by subsite and nodal metastasis patterns.
+>Neck [[dissection]] codes (CPT [[38700]]-[[38724]]) and their pairing with [[laryngectomy]] codes are driven by extent of [[lymphadenectomy]], which is in turn driven by subsite and nodal [[metastasis]] patterns.
 
 ---
 
@@ -396,7 +396,7 @@ During direct or flexible laryngoscopy, the following landmarks should be system
 | **True vocal cords** | Glottic level | Lesion, leukoplakia, erythema, mobility, mucosal wave |
 | **Anterior commissure** | Anterior junction of both true cords | Lesion, webbing |
 | **Posterior commissure / interarytenoid area** | Between arytenoids | Granuloma, pachydermia (contact mucositis from GERD), lesion |
-| **Subglottis** | Below the vocal cords | Stenosis, lesion, tracheal rings visible |
+| **[[Subglottis]]** | Below the vocal cords | Stenosis, lesion, tracheal rings visible |
 
 ---
 
@@ -487,6 +487,8 @@ Relevant to coding newborn laryngoscopy (CPT 31520 vs. 31525) and pediatric airw
 
 ---
 
+![[Pasted image 20260310134301.jpg]]
+
 ## Related Concepts & Cross-References
 
 - [[31525]] — Direct Laryngoscopy, Diagnostic
@@ -499,9 +501,4 @@ Relevant to coding newborn laryngoscopy (CPT 31520 vs. 31525) and pediatric airw
 - [[J38.1]] — Polyp of Vocal Cord
 - [[J38.01]] — Unilateral Vocal Cord Paralysis
 - [[J38.6]] — Stenosis of Larynx
-- [[Microlaryngoscopy]] — Operative Laryngoscopy Overview
-- [[Recurrent Laryngeal Nerve Injury]] — RLN Palsy Coding & Etiologies
-- [[Head and Neck TNM Staging]] — AJCC 8th Edition Reference
-- [[ICD-10-PCS Larynx Procedures]] — Inpatient Procedure Coding
 
-![[Pasted image 20260310134301.jpg]]

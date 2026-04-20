@@ -9,6 +9,8 @@
 
 ---
 
+![[Pasted image 20260415114245.png]]
+
 ## 📋 Core CC/MCC Principles (All Specialties)
 
 ### Documentation Standards
@@ -279,6 +281,12 @@ E11.319 Type 2 diabetes mellitus with unspecified diabetic retinopathy
 > 4. Sequence diagnoses per UHDDS and MS-DRG logic
 > 
 > When documentation is complete and specific, CC/MCC assignment follows naturally—and reimbursement reflects the true complexity of care [[6]].
+> 
+> **A single specific diagnosis code is categorized by Medicare as either a CC, an MCC, or neither—it cannot be both.**
+>
+>However, a patient can certainly have _multiple_ different secondary conditions on their claim where some are CCs and others are MCCs. When this happens, the MS-DRG grouping system will use the highest severity condition present (**the MCC**) to determine the final hospital payment tier.
+
+
 
 ---
 *Last updated: $(date)*  

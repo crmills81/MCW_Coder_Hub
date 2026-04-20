@@ -158,18 +158,18 @@ Non-Operating Room (Non-OR) Procedures:
 ```
 
 ### MCE (Medicare Code Editor) Edits Applied Pre-Grouper
-1. **Diagnosis/Procedure Age/Sex Edits** – Reject biologically implausible codes
-2. **POA Logic Edits** – Flag HACs (Hospital-Acquired Conditions) for payment adjustment
-3. **Unacceptable Principal Diagnosis Edits** – Prevent symptom codes as principal dx
-4. **Procedure/Diagnosis Inconsistency Edits** – Flag clinical mismatches
-5. **Multiple Birth/Newborn Edits** – Special logic for obstetric/neonatal claims
+1. **Diagnosis/Procedure Age/Sex Edits** - Reject biologically implausible codes
+2. **POA Logic Edits** - Flag HACs (Hospital-Acquired Conditions) for payment adjustment
+3. **Unacceptable Principal Diagnosis Edits** - Prevent symptom codes as principal dx
+4. **Procedure/Diagnosis Inconsistency Edits** - Flag clinical mismatches
+5. **Multiple Birth/Newborn Edits** - Special logic for obstetric/neonatal claims
 
 > [!WARNING] MCE Edits Are Mandatory
 > Claims failing MCE edits are rejected pre-payment. Always run claims through MCE logic before submission.
 
 ---
 
-## 🔄 FY 2025 Notable DRG Changes [[1]][[9]]
+## 🔄 FY 2025 Notable DRG Changes 
 
 ### New DRGs Created
 | DRG | Title | MDC | Clinical Rationale |

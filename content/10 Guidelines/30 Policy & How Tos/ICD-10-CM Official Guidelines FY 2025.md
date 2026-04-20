@@ -73,16 +73,16 @@ Appendix I: Present on Admission (POA) Reporting Guidelines
 - Assign incomplete codes (missing required characters)
 ```
 
-### 2. Excludes Notes: Critical Distinction [[12]]
+### 2. Excludes Notes: Critical Distinction 
 | Type | Meaning | Can Codes Be Used Together? |
 |------|---------|----------------------------|
-| **Excludes1** | "NOT CODED HERE!" – Mutually exclusive conditions | ❌ No (unless unrelated per provider documentation) |
-| **Excludes2** | "Not included here" – Condition is separate but may coexist | ✅ Yes, if both documented |
+| **Excludes1** | "NOT CODED HERE!" - Mutually exclusive conditions | ❌ No (unless unrelated per provider documentation) |
+| **Excludes2** | "Not included here" - Condition is separate but may coexist | ✅ Yes, if both documented |
 
 > [!EXAMPLE] Excludes1 Application  
-> F45.8 (Other somatoform disorders) Excludes1: G47.63 (Sleep related teeth grinding)  
+> [[F45.8]] (Other somatoform disorders) Excludes1: [[G47.63]] (Sleep related teeth grinding)  
 > → Do NOT report both for teeth grinding alone.  
-> → MAY report both if patient has psychogenic dysmenorrhea (F45.8) AND sleep bruxism (G47.63) as unrelated conditions.
+> → MAY report both if patient has psychogenic dysmenorrhea ([[F45.8]]) AND sleep bruxism ([[G47.63]]) as unrelated conditions.
 
 ### 3. "With" / "In" Presumption Rule
 ```markdown
