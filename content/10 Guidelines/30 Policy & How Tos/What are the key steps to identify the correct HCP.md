@@ -1,44 +1,42 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # What are the key steps to identify the correct HCPCS Level II code for a claim
 
 Here are the key steps to identify the correct HCPCS Level II code for a claim:
 
-## 1. **Identify the Item or Service Provided**
+## 1. Identify the Item or Service Provided
 
 - Review the clinical documentation to determine what product, supply, equipment, or non-physician service was given to the patient that is not described by a CPT® (Level I) code[^1][^2].
 
 
-## 2. **Consult the HCPCS Level II Index**
+## 2. Consult the HCPCS Level II Index
 
 - Use the HCPCS Level II code book or an electronic coding tool.
 - Look up the main term or a relevant keyword in the index (e.g., “wheelchair,” “injection,” “bandage”)[^1][^2].
 
 
-## 3. **Select the Most Appropriate Code**
+## 3. Select the Most Appropriate Code
 
 - From the index, find the suggested code(s) and check the full code description in the main section of the code book.
 - Verify that the code accurately matches the item or service provided (consider details like size, type, or administration method)[^2].
 
 
-## 4. **Check Payer and Coverage Requirements**
+## 4. Check Payer and Coverage Requirements
 
 - Confirm that the code is accepted by the patient’s insurer, as not all payers accept every HCPCS Level II code.
 - If both a CPT® and a HCPCS Level II code exist for a service, check which one the payer requires (Medicare often prefers Level II for certain services)[^2].
 
 
-## 5. **Determine If Modifiers Are Needed**
+## 5. Determine If Modifiers Are Needed
 
 - Assess whether a HCPCS Level II modifier is required to provide more detail (e.g., “NU” for new equipment, “RR” for rental, “LT” for left side)[^2].
 - Modifiers can affect reimbursement and claim processing.
 
 
-## 6. **Link to the Appropriate Diagnosis Code**
+## 6. Link to the Appropriate Diagnosis Code
 
 - Pair the HCPCS Level II code with the relevant ICD-10-CM diagnosis code to demonstrate medical necessity for the item or service[^1][^2].
 
 
-## 7. **Double-Check for Accuracy**
+## 7. Double-Check for Accuracy
 
 - Ensure the code and any modifiers precisely reflect what was provided and meet payer-specific requirements.
 - Review the claim for completeness before submission[^1][^2].

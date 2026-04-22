@@ -1,8 +1,8 @@
-Can you even bill without the [[teaching physician]] being in the room with the resident?
+#### Can you even bill without the [[teaching physician]] being in the room with the resident?
 
 Yes, there are two main instances where you can bill Medicare for services performed by a resident without the teaching physician being physically present in the exam room:
 
-### 1. The Primary Care Exception
+###### 1. The Primary Care Exception
 
 In specific primary care centers, residents can furnish lower-to-mid-level **Evaluation and Management (E/M)** services without the teaching physician's physical presence during the exam.
 
@@ -10,7 +10,7 @@ In specific primary care centers, residents can furnish lower-to-mid-level **Eva
 - **Modifier:** You must append **[[Modifier -GE]]** (Service performed by a resident without the presence of a teaching physician under the primary care exception) to the claim.
 - **Limitation:** This applies only to specific codes (typically lower-level office visits) and specific residency programs.
 
-### 2. Moonlighting
+###### 2. Moonlighting
 
 If the resident is fully licensed and working under a separate contract that is **outside the scope** of their approved Graduate Medical Education (GME) program, they are treated as an independent physician.
 
@@ -19,14 +19,14 @@ If the resident is fully licensed and working under a separate contract that is 
 
 Here is a breakdown of the key rules and responsibilities for **Teaching Physicians (TP)** when billing Medicare for services involving residents, fellows, or students.
 
-### **The Core Requirement: Physical Presence**
+###### **The Core Requirement: Physical Presence**
 
 To bill for a service performed by a resident, the Teaching Physician generally must be **physically present** during the "key or critical portions" of the service.
 
 - **Documentation:** The TP cannot simply countersign a resident’s note. The record must document the TP's physical presence and active participation in the management of the patient.
 - **"Review and Verify":** The TP is allowed to review and verify the resident's note (history, exam, decision making) rather than re-documenting it, provided they add their own attestation of presence and agreement with the plan.
 
-### **Service-Specific Rules**
+###### **Service-Specific Rules**
 
 **1. Evaluation & Management (E/M) Visits**
 
@@ -47,7 +47,7 @@ To bill for a service performed by a resident, the Teaching Physician generally 
 - Students may document the history, exam, and [[MDM Tables]] in the chart.
 - **However**, the TP must **verify** the documentation and **personally perform (or re-perform)** the physical exam and medical decision-making activities. The TP cannot just rely on the student's exam findings.
 
-### **Important Modifiers**
+###### **Important Modifiers**
 
 - **-GC:** This service has been performed in part by a resident under the direction of a teaching physician. (Standard use).
 - **-GE:** This service has been performed by a resident without the presence of a teaching physician under the **Primary Care Exception** (limited to specific primary care centers and lower-level codes).
@@ -56,14 +56,14 @@ To bill for a service performed by a resident, the Teaching Physician generally 
 
 - **Virtual Presence:** Policies allowing teaching physicians to supervise residents virtually (audio/video) due to the PHE are generally set to expire. For CY 2026, CMS has proposed reinstating the requirement for **in-person** presence for teaching physicians in all teaching settings, with limited exceptions for rural areas.
 
-### **The Core Requirement: Physical Presence**
+###### **The Core Requirement: Physical Presence**
 
 To bill for a service performed by a resident, the Teaching Physician generally must be **physically present** during the "key or critical portions" of the service.
 
 - **Documentation:** The TP cannot simply countersign a resident’s note. The record must document the TP's physical presence and active participation in the management of the patient.
 - **"Review and Verify":** The TP is allowed to review and verify the resident's note (history, exam, decision making) rather than re-documenting it, provided they add their own attestation of presence and agreement with the plan.
 
-### **Service-Specific Rules**
+###### **Service-Specific Rules**
 
 **1. Evaluation & Management (E/M) Visits**
 
@@ -84,12 +84,12 @@ To bill for a service performed by a resident, the Teaching Physician generally 
 - Students may document the history, exam, and MDM in the chart.
 - **However**, the TP must **verify** the documentation and **personally perform (or re-perform)** the physical exam and medical decision-making activities. The TP cannot just rely on the student's exam findings.
 
-### **Important Modifiers**
+###### **Important Modifiers**
 
 - **-GC:** This service has been performed in part by a resident under the direction of a teaching physician. (Standard use).
 - **-GE:** This service has been performed by a resident without the presence of a teaching physician under the **Primary Care Exception** (limited to specific primary care centers and lower-level codes).
 
-### **When to Use Modifier GC**
+###### **When to Use Modifier GC**
 
 You must append this modifier to the procedure or E/M code in the following scenarios:
 
@@ -97,22 +97,22 @@ You must append this modifier to the procedure or E/M code in the following scen
 - **Procedures:** The teaching physician was physically present for the **key or critical portions** of the procedure and was immediately available for the remainder.
 - **E/M Visits:** The teaching physician performed the service _in part_ with the resident and utilized the resident's documentation to support the claim.
 
-### **When NOT to Use Modifier GC**
+###### **When NOT to Use Modifier GC**
 
 - **No Documentation:** If the resident participated but did _not_ document the service, or if you did not use their notes to generate the bill.
 - **Solo Performance:** If the teaching physician performed the entire service personally without resident involvement.
 - **Primary Care Exception:** If the service meets the specific "Primary Care Exception" rules (where the teaching physician isn't required to be present), use **[[Modifier GE]]** instead.
 
-### **Billing & Claims Tips**
+###### **Billing & Claims Tips**
 
 - **Payment Impact:** Modifier GC is **informational only**. It does not affect the reimbursement amount, but omitting it when a resident is involved is a compliance risk.
 - **Placement:** Always list GC **after** payment modifiers (like -25, -57, or -RT/LT).
 
-### **Recent & Future Updates (2025/2026)**
+###### **Recent & Future Updates (2025/2026)**
 
 - **Virtual Presence:** Policies allowing teaching physicians to supervise residents virtually (audio/video) due to the PHE are generally set to expire. For CY 2026, CMS has proposed reinstating the requirement for **in-person** presence for teaching physicians in all teaching settings, with limited exceptions for rural areas.
 
-## **For Evaluation & Management (E/M) with a Resident**
+### **For Evaluation & Management (E/M) with a Resident**
 
 The most compliant attestations explicitly state that the TP saw the patient and performed the critical components of the visit.
 
@@ -132,5 +132,4 @@ If a medical student documented the note, the TP must verify the history and **r
 - **Minor (<5 mins):** "I was present for the entire procedure."
 - **Major (>5 mins):** "I was present for the key and critical portions of the procedure [specify portions] and was immediately available for the duration of the procedure."
 
-Would you like to review the **GC modifier** requirements next to ensure these claims are flagged correctly in your billing system?
 

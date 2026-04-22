@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # What are the key differences between HCPCS Level I and II codes I should know
 
 HCPCS coding is divided into two distinct levels with critical differences in structure, purpose, and maintenance. Here's a concise breakdown of the key distinctions:

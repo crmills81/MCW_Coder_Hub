@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # Why are HCPCS Level II codes essential for billing supplies not in CPT®
 
 HCPCS Level II codes are essential for billing supplies and services not covered by CPT® because they provide a standardized, universally recognized system to identify non-physician items and ensure accurate reimbursement. Here's why they are indispensable:
