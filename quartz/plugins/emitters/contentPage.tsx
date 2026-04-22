@@ -1,11 +1,13 @@
 import path from "path"
 import { QuartzEmitterPlugin } from "../types"
+import { visit } from "unist-util-visit"
+import { Root } from "hast"
 import { QuartzComponentProps } from "../../components/types"
 import HeaderConstructor from "../../components/Header"
 import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
-import { pathToRoot } from "../../util/path"
+import { pathToRoot, resolveRelative } from "../../util/path"
 import { defaultContentPageLayout, sharedPageComponents } from "../../../quartz.layout"
 import { Content } from "../../components"
 import { styleText } from "util"
@@ -83,6 +85,27 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
           containsIndex = true
         }
 
+        // ==========================================================
+        // Convert dead links from <a> to <span>
+        // ==========================================================
+        const allSlugs = allFiles.map((f) => (f.slug ? resolveRelative(slug, f.slug) : ""))
+
+        visit(tree as Root, "element", (node) => {
+          if (node.tagName === "a" && node.properties && typeof node.properties.href === "string") {
+            const href = node.properties.href
+            const destUri = href.split("#")[0] 
+            const classes = (node.properties.className ?? []) as string[]
+
+            if (classes.includes("internal") && destUri !== "" && !allSlugs.includes(destUri)) {
+              node.tagName = "span" 
+              classes.push("dead-link") 
+              node.properties.className = classes
+              delete node.properties.href 
+            }
+          }
+        })
+        // ==========================================================
+
         // only process home page, non-tag pages, and non-index pages
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
         yield processContent(ctx, tree, file.data, allFiles, opts, resources)
@@ -112,8 +135,29 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
       for (const [tree, file] of content) {
         const slug = file.data.slug!
         if (!changedSlugs.has(slug)) continue
-        if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
 
+        // ==========================================================
+        // Convert dead links from <a> to <span> (for live reloading)
+        // ==========================================================
+        const allSlugs = allFiles.map((f) => (f.slug ? resolveRelative(slug, f.slug) : ""))
+
+        visit(tree as Root, "element", (node) => {
+          if (node.tagName === "a" && node.properties && typeof node.properties.href === "string") {
+            const href = node.properties.href
+            const destUri = href.split("#")[0] 
+            const classes = (node.properties.className ?? []) as string[]
+
+            if (classes.includes("internal") && destUri !== "" && !allSlugs.includes(destUri)) {
+              node.tagName = "span" 
+              classes.push("dead-link") 
+              node.properties.className = classes
+              delete node.properties.href 
+            }
+          }
+        })
+        // ==========================================================
+
+        if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
         yield processContent(ctx, tree, file.data, allFiles, opts, resources)
       }
     },
