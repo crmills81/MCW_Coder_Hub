@@ -13,10 +13,10 @@ aliases:
   - Myelitis
   - myelitis
 roots:
-  - - trans-
-  - - myel-
-  - - myelo-
-  - - -itis
+  - trans-
+  - myel-
+  - myelo-
+  - -itis
 forms:
   - noun
   - adjective

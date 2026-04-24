@@ -3,15 +3,16 @@ tags:
   - medterm
   - medroot
   - ENT
+  - otolaryngology
 aliases:
   - Supraglottis
   - Supraglottic
   - supraglottic
   - Supraglottic larynx
   - supraglottic larynx
-roots: -
-- supra-,
-- glott-,
+roots: 
+- supra-
+- glott-
 - -is
 forms:
   - noun
@@ -160,7 +161,7 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm
->WHERE length(filter(roots, (word) => econtains([[Supraglottis]].roots, word))) > 0 AND file.name != [[Supraglottis]].file.name
+>WHERE length(filter(roots, (word) => econtains([[supraglottis]].roots, word))) > 0 AND file.name != [[supraglottis]].file.name
 >SORT file.name ASC
 >```
 
@@ -170,7 +171,7 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm
->WHERE length(filter(definition, (word) => econtains([[Supraglottis]].definition, word))) > 0 AND file.name != [[Supraglottis]].file.name
+>WHERE length(filter(definition, (word) => econtains([[supraglottis]].definition, word))) > 0 AND file.name != [[supraglottis]].file.name
 >```
 
 [[Med roots]]
