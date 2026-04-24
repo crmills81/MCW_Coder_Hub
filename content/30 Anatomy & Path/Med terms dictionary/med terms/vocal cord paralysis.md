@@ -184,7 +184,7 @@ _____
 >
 > | CPT Code | Description |
 > |---|---|
-> | **[[31591]]** | [[Laryngoplasty]], medialization, unilateral _(Type I thyroplasty / medialization thyroplasty; primary surgery for unilateral VCP)_ |
+> | **[[31591]]** | [[laryngoplasty]], medialization, unilateral _(Type I thyroplasty / medialization thyroplasty; primary surgery for unilateral VCP)_ |
 > | **[[31592]]** | Cricotracheal resection _(for subglottic stenosis that may co-occur with VCP post-intubation)_ |
 >
 > #### **Tracheotomy / Airway Management (Bilateral VCP)**

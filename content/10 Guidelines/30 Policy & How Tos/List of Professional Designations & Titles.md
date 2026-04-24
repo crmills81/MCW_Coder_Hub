@@ -1,7 +1,4 @@
-[![Taber's Medical Dictionary](https://www.tabers.com/tabersonline/cati/i108/539.png?v=126)
-Taber's Medical Dictionary](https://www.tabers.com/tabersonline/index/Tabers-Dictionary/Entries/*)
-
-[](https://www.tabers.com/tabersonline/pview/Tabers-Dictionary/763336/all/Professional%20Designations%20and%20Titles%20in%20the%20Health%20Sciences "Print PDF")
+(https://www.tabers.com/tabersonline/pview/Tabers-Dictionary/763336/all/Professional%20Designations%20and%20Titles%20in%20the%20Health%20Sciences "Print PDF")
 
 ## Professional Designations and Titles in the Health Sciences
 

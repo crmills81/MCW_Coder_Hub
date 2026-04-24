@@ -50,7 +50,7 @@ _____
 >
 > - **[[Hemiplegia]]** — unilateral paralysis affecting an entire side of the body (arm and leg together).
 > - **[[paraplegia]]** — **[[G82.20]]**; paralysis of both lower extremities (the lower half of the body).
-> - **[[Quadriplegia]] / [[Tetraplegia]]** — **[[G82.50]]**; paralysis of all four limbs.
+> - **[[quadriplegia]] / [[tetraplegia]]** — **[[G82.50]]**; paralysis of all four limbs.
 > - **[[radiculopathy]]** — **[[M54.10]]**; compression or inflammation of a spinal nerve root that can cause profound weakness mimicking **monoplegia** in the innervated limb.
 > - **[[Mononeuropathy]]** — Damage to a single peripheral nerve (**e.g., severe radial nerve palsy**) causing focal paralysis.
 

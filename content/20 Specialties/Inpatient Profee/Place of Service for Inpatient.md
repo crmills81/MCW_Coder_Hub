@@ -3,22 +3,22 @@
 **Tags:** #coding/pos #inpatient #medicare
 
 ## ⚕️Overview
-Place of Service (POS) codes indicate where the professional service was rendered.
+**Place of Service (POS)** codes indicate where the professional service was rendered.
 
 ## ❤️‍🩹 Inpatient POS Codes
 
 | Code | Setting | Description |
 | :--- | :--- | :--- |
-| **[[-21]]** | Inpatient Hospital | Patient admitted to hospital |
-| **[[-22]]** | Outpatient Hospital | Hospital clinic/ED |
-| **[[-23]]** | Emergency Room | Hospital ER |
-| **[[-24]]** | ASC | Ambulatory Surgical Center |
-| **[[-31]]** | SNF Part A | Skilled Nursing (inpatient) |
-| **[[-32]]** | SNF Part B | Skilled Nursing (outpatient) |
-| **[[-41]]** | Ambulance | Ground or air |
-| **[[-42]]** | Independent Lab | Laboratory services |
-| **[[-51]]** | Psych Hospital | Inpatient psychiatric |
-| **[[-61]]** | IRF | Inpatient Rehabilitation Facility |
+| **21** | Inpatient Hospital | Patient admitted to hospital |
+| **22** | Outpatient Hospital | Hospital clinic/ED |
+| **23** | Emergency Room | Hospital ER |
+| **24** | ASC | Ambulatory Surgical Center |
+| **31** | SNF Part A | Skilled Nursing (inpatient) |
+| **32** | SNF Part B | Skilled Nursing (outpatient) |
+| **41** | Ambulance | Ground or air |
+| **42** | Independent Lab | Laboratory services |
+| **51** | Psych Hospital | Inpatient psychiatric |
+| **61** | IRF | Inpatient Rehabilitation Facility |
 
 ## 😷Impact on Reimbursement
 - **POS 21:** Standard inpatient rates

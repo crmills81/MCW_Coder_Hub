@@ -74,7 +74,7 @@ _____
 > - **McDonald criteria** — 2018 diagnostic framework; requires DIS + DIT via clinical findings, MRI, and/or CSF oligoclonal bands
 > - **Oligoclonal bands (OCB)** — IgG bands found on CSF electrophoresis; present in ~85-90% of MS patients; supports diagnosis
 > - **[[Optic neuritis]]** — inflammation of the optic nerve; common MS presentation and CIS manifestation; coded [[H46.11]]/[[H46.12]]
-> - **[[Transverse myelitis]]** — inflammatory spinal cord lesion; common MS relapse presentation; may be coded separately
+> - **[[transverse myelitis]]** — inflammatory spinal cord lesion; common MS relapse presentation; may be coded separately
 > - **JC virus / PML** (Progressive Multifocal Leukoencephalopathy) — life-threatening brain infection caused by JC virus; risk associated with natalizumab therapy
 > - **Disease-modifying therapy (DMT)** — class of agents that reduce relapse rate and slow disability progression in MS (interferons, glatiramer, natalizumab, ocrelizumab, siponimod, etc.)
 > - **Ocrelizumab (Ocrevus)** — first FDA-approved treatment for PPMS; anti-CD20 B-cell depleting agent; given via IV infusion every 6 months

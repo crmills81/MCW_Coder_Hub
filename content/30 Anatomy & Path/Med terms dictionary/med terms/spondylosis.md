@@ -71,7 +71,7 @@ _____
 > - **[[Cervical myelopathy]]** — most clinically serious complication of cervical spondylosis; causes progressive upper motor neuron signs
 > - **[[Ankylosing spondylitis]]** — **M45.x**; inflammatory [[spondyloarthropathy]]; distinct from degenerative spondylosis — do not confuse
 > - **[[Spondylolisthesis]]** — forward vertebral slippage; may coexist with spondylosis but coded separately (M43.1x)
-> - **[[Osteoarthritis]]** — the underlying pathological mechanism of spondylosis; systemic degenerative joint disease
+> - **[[osteoarthritis]]** — the underlying pathological mechanism of spondylosis; systemic degenerative joint disease
 > - **Foraminal stenosis** — neural foramen narrowing by osteophytes; the structural cause of spondylotic radiculopathy
 > - **Physical therapy** — primary non-surgical treatment modality for spondylosis symptom management
 > - **Epidural steroid injection (ESI)** — interventional pain management for spondylosis with radiculopathy; CPT [[62321]]-[[62323]]

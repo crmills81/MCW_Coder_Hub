@@ -73,7 +73,7 @@ _____
 > - **[[Plaque]]** — focal area of demyelination and gliosis in the CNS; the histopathologic and MRI unit of MS and related demyelinating diseases
 > - **[[Node of Ranvier]]** — gaps in the myelin sheath where ion exchange occurs during signal propagation; demyelination disrupts this mechanism
 > - **[[Optic neuritis]]** — inflammation and demyelination of the optic nerve; hallmark presentation of MS, NMO, and MOGAD; coded [[H46.11]]/[[H46.12]]
-> - **[[Transverse myelitis]]** — acute demyelinating inflammation of the spinal cord; cord lesion producing weakness, sensory loss, and bladder dysfunction; coded [[G37.3]]
+> - **[[transverse myelitis]]** — acute demyelinating inflammation of the spinal cord; cord lesion producing weakness, sensory loss, and bladder dysfunction; coded [[G37.3]]
 > - **[[ADEM]]** (Acute Disseminated Encephalomyelitis) — monophasic inflammatory demyelination typically post-viral or post-vaccination; coded [[G36.9]] or [[G36.8]]
 > - **[[NMO / Devic disease]]** — anti-AQP4 antibody-mediated demyelination; distinct from MS; coded [[G36.0]]
 > - **[[MOGAD]]** — anti-MOG antibody disease; cortical demyelination with ADEM, optic neuritis, or myelitis phenotype; FY2026 new code [[G37.81]]

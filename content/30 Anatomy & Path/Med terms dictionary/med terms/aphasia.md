@@ -55,7 +55,7 @@ _____
 > |-----------|--------------------------------------------------|
 > | **[[R47.01]]** | Aphasia (unspecified).                          |
 > | **[[I69.320]]** | Aphasia post [[cerebral infarction]] ([[stroke]]).[10] |
-> | **[[G11.4]]** | **PPA** ([[frontotemporal dementia]] variant).          |
+> | **[[50 Medical Coding/ICD-10 Codes/G11.4]]** | **PPA** ([[frontotemporal dementia]] variant).          |
 
 
 > [!caution]+ ## Causes and Risk Factors

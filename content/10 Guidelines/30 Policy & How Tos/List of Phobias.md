@@ -1,4 +1,4 @@
-[![Taber's Medical Dictionary](https://www.tabers.com/tabersonline/cati/i108/539.png?v=126)
+
 Taber's Medical Dictionary](https://www.tabers.com/tabersonline/index/Tabers-Dictionary/Entries/*)
 
 [](https://www.tabers.com/tabersonline/pview/Tabers-Dictionary/766866/all/Phobias "Print PDF")

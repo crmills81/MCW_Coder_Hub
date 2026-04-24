@@ -45,7 +45,7 @@ _____
 > | **[[astasia-abasia]]** | The clinical pairing of standing failure and walking failure; the most common presentation in literature |
 > | **Blocq's disease/syndrome** | The historical eponymous term for functional **astasia-abasia**; rarely used in modern clinical practice |
 > | **Functional gait failure** | Modern neurological phrasing that emphasizes the non-structural, psychogenic nature of the presentation |
-> | **Stasibasiphobia** | A specific [[Phobias]] or extreme morbid fear of standing or walking; can clinically mimic [[abasia]] |
+> | **Stasibasiphobia** | A specific [[List of Phobias]] or extreme morbid fear of standing or walking; can clinically mimic [[abasia]] |
 
 _____
 

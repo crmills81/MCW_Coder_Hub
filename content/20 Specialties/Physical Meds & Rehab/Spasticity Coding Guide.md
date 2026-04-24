@@ -40,7 +40,7 @@ Spasticity is the most common presentation of CP.
 * **Spastic Quadriplegic CP ([[G80.0]])**
 * **Spastic Diplegic CP ([[G80.1]])**
 * **Spastic Hemiplegic CP ([[G80.2]])**
-* **Type 1 Excludes:** Hereditary spastic paraplegia ([[G11.4]]) cannot be coded with G80.-.
+* **Type 1 Excludes:** Hereditary spastic paraplegia ([[50 Medical Coding/ICD-10 Codes/G11.4]]) cannot be coded with G80.-.
 
 ## 4. Inpatient vs. Profee Considerations
 When navigating the inpatient facility side compared to professional fee coding, the sequencing and weight of spasticity codes shift:
@@ -120,7 +120,7 @@ If the **spasticity** is localized to a specific "**pattern**" of [[paralysis]] 
 | Pattern | ICD-10 Code | Notes |
 |---|---|---|
 | Spastic Hemiplegia | G81.1- | Requires a 5th/6th character for side (right/left) and dominance. |
-| Spastic Paraplegia | G82.2- | Often used for spinal cord injury or hereditary spastic paraplegia ([[G11.4]]). |
+| Spastic Paraplegia | G82.2- | Often used for spinal cord injury or hereditary spastic paraplegia ([[50 Medical Coding/ICD-10 Codes/G11.4]]). |
 | Spastic Quadriplegia | G82.5- | Used for spasticity affecting all four limbs (non-congenital). |
 
 3. **Avoiding the "Symptom" Trap**
@@ -151,7 +151,7 @@ The "best" code for ileus depends on how the provider describes it:
 
 Since these two conditions are often linked, you may want to do a "Ctrl+F" or a deep dive in the record for the following terms. If found, they might provide a more "complete" diagnostic picture:
  * **Spinal Cord Injury (SCI)** or Lesion: Patients with chronic spinal issues often have both spasticity and "Neurogenic Bowel" (which can manifest as [[ileus]]).
- * Hereditary Spastic Paraplegia ([[G11.4]]): A rarer condition that causes progressive limb stiffness.
+ * Hereditary Spastic Paraplegia ([[50 Medical Coding/ICD-10 Codes/G11.4]]): A rarer condition that causes progressive limb stiffness.
  * Autonomic Dysreflexia ([[G90.4]]): If the ileus is part of a larger autonomic storm.
  * 
 Coding Summary Table

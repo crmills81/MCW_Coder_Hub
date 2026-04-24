@@ -28,11 +28,11 @@ It produces a total score ranging from 3 (**deep coma or death**) to 15 (**fully
 
 The **GCS** is the sum of **three** subscores:
 
-- Eye Opening (**E**): 1–4  
-- Verbal Response (**V**): 1–5  
-- Motor Response (**M**): 1–6  
+- Eye Opening (**E**): 1-4  
+- Verbal Response (**V**): 1-5  
+- Motor Response (**M**): 1-6  
 
-**Total GCS = E + V + M (range 3–15)**.
+**Total GCS = E + V + M (range 3-15)**.
 
 ### Eye Opening (E)
 
@@ -61,7 +61,7 @@ The **GCS** is the sum of **three** subscores:
 
 Key points:  
 - **Oriented** typically means correctly answering at least person and place, often also time/situation.  
-- If a patient has an *artificial barrier* (**intubated, [[tracheostomy]] with no speech, severe [[aphasia]]**), you often see documentation like “V1t” or “V1 (**intubated**)” – clinically relevant, but those letters are an annotation, not part of the score itself.
+- If a patient has an *artificial barrier* (**intubated, [[tracheostomy]] with no speech, severe [[aphasia]]**), you often see documentation like “V1t” or “V1 (**intubated**)” - clinically relevant, but those letters are an annotation, not part of the score itself.
 
 ---
 
@@ -118,8 +118,8 @@ Key points:
 
 These ranges are commonly used in trauma and neurosurgical literature:
 
-- **Mild**: GCS 13–15  
-- **Moderate**: GCS 9–12  
+- **Mild**: GCS 13-15  
+- **Moderate**: GCS 9-12  
 - **Severe**: GCS ≤ 8  
 
 **Clinical implications:**  

@@ -52,7 +52,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 >
 > - **[[Spastic hemiplegia]]** — **[[G81.10]]** (Unspecified) or **[[G80.2]]** (in CP); unilateral spastic paralysis. When congenital, it is the hemiplegic variant of [[cerebral palsy]].
-> - **[[Quadriplegia]]** — **[[G82.50]]**; paralysis of all four limbs. When caused by a perinatal brain injury, it is coded as spastic quadriplegic CP.
+> - **[[quadriplegia]]** — **[[G82.50]]**; paralysis of all four limbs. When caused by a perinatal brain injury, it is coded as spastic quadriplegic CP.
 > - **Hypoxic-ischemic encephalopathy (HIE)** — **[[P91.60]]**; the severe perinatal brain injury (often from lack of oxygen at birth) that is a leading cause of cerebral palsy.
 > - **[[Spasticity]]** — **[[R25.2]]**; a velocity-dependent increase in muscle tone; the hallmark physical finding in 80% of CP patients. Do not code separately if the spastic CP diagnosis is established.
 > - **[[Dyskinetic]] / [[Athetosis]]** — Involuntary, slow, writhing movements indicating [[basal ganglia]] involvement, distinguishing [[dyskinetic]] CP from the spastic variants.

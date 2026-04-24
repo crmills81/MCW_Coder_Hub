@@ -93,7 +93,7 @@ HCPCS Level II Modifiers
 ## 🚫 Includes / Excludes & NCCI Guidance
 
 ### ✅ Includes
-- All PT evaluation codes ([[97161]]–[[97164]]) <sup>3</sup>
+- All PT evaluation codes ([[97161]]-[[97164]]) <sup>3</sup>
 - All PT procedure codes (timed and untimed) performed under a PT plan of care <sup>3</sup>
 - Group PT therapy ([[97150]]) <sup>3</sup>
 - Aquatic therapy ([[97113]]) performed under a PT plan of care
@@ -143,8 +143,8 @@ Modifier [[-GP]] is used exclusively on **outpatient professional (Part B)** cla
 | **[[M17.12]]** | **Primary osteoarthritis, left knee** | ❌ Not HCC |
 | **[[S72.001A]]** | **Fracture of unspecified part of neck of right femur, initial encounter** | ❌ Not HCC |
 | **[[G81.91]]** | **Hemiplegia, unspecified, affecting right dominant side** | ✅ HCC (Neurological) |
-| **[[G35]]** | **Multiple sclerosis** | ✅ HCC (Neurological) |
-| **[[G20]]** | **Parkinson's disease** | ✅ HCC (Neurological) |
+| **G35.-** | **Multiple sclerosis** | ✅ HCC (Neurological) |
+| **G20.-** | **Parkinson's disease** | ✅ HCC (Neurological) |
 | **[[I69.351]]** | **Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side** | ✅ HCC (Stroke/Neuro) |
 | **[[Z96.641]]** | **Presence of right artificial hip joint (post-THA PT)** | ❌ Not HCC |
 | **[[Z96.651]]** | **Presence of right artificial knee joint (post-TKA PT)** | ❌ Not HCC |
@@ -198,11 +198,11 @@ Modifier [[-GP]] is used exclusively on **outpatient professional (Part B)** cla
 > **Rationale**: Each discipline uses their correct modifier. [[-GP]] is NOT placed on OT codes. ✅ Correct <sup>6</sup>.
 
 ### ✅ Example 3: Therapy Threshold Exceeded — KX Required
-> **Scenario**: Medicare patient with Parkinson's ([[G20]]) has accumulated $2,330 in PT/SLP services for the year. PT continues skilled balance and gait training.
+> **Scenario**: Medicare patient with Parkinson's (G20.-) has accumulated $2,330 in PT/SLP services for the year. PT continues skilled balance and gait training.
 > **Report**:
 > - [[97116]]-[[-GP]]-[[-KX]] (Gait Training — threshold exceeded)
 > - [[97112]]-[[-GP]]-[[-KX]] (Neuromuscular Re-education)
-> - Diagnosis: [[G20]], [[R26.89]]
+> - Diagnosis: G20.-, [[R26.89]]
 > **Rationale**: [[-KX]] appended alongside [[-GP]] to attest that skilled PT remains medically necessary above the threshold. ✅ Required <sup>8</sup>.
 
 ### ❌ Example 4: Missing GP on Eval Code
@@ -247,7 +247,7 @@ To support modifier [[-GP]] and ensure clean claims with audit readiness, docume
 
 | Pitfall | Consequence | Prevention |
 |---------|-------------|------------|
-| Omitting [[-GP]] from eval codes | Denial of evaluation line | Apply [[-GP]] to ALL PT codes including [[97161]]–[[97164]] <sup>3</sup> |
+| Omitting [[-GP]] from eval codes | Denial of evaluation line | Apply [[-GP]] to ALL PT codes including [[97161]]-[[97164]] <sup>3</sup> |
 | Using [[-GP]] on OT or SLP service lines | Overpayment, audit risk | Confirm discipline and apply [[-GO]] or [[-GN]] for non-PT services <sup>6</sup> |
 | Failing to add [[-KX]] when threshold exceeded | Claim denial | Monitor cumulative PT/SLP costs; add [[-KX]] when $2,330 is reached <sup>8</sup> |
 | Not appending [[-CQ]] when PTA delivers service | Overpayment at full rate | Track PTA vs PT service delivery; reduce to 85% with [[-CQ]] <sup>4</sup> |

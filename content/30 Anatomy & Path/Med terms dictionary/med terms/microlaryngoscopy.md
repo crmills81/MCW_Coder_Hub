@@ -36,7 +36,7 @@ _____
 > - **Suspension Laryngoscopy** — the setup technique used during microlaryngoscopy
 > - **[[Phonosurgery]]** — surgery to improve or restore voice
 > - **[[Panendoscopy]]** — combined scope exam of larynx, esophagus, and bronchi
-> - **[[Laryngoplasty]]** — reconstructive laryngeal surgery
+> - **[[laryngoplasty]]** — reconstructive laryngeal surgery
 > - **Vocal Cord Stripping** — older technique; removal of vocal cord epithelium
 > - **Cold Steel Excision** — instrument-based (**non-laser**) lesion removal
 > - **KTP / CO₂ Laser Laryngoscopy** — laser energy used instead of/alongside cold instruments

@@ -57,7 +57,7 @@ _____
 > - **Cachexia** — systemic wasting driven by inflammatory cytokines (TNF-α, IL-1, IL-6) in malignancy, heart failure, CKD, HIV; coded R64; sarcopenia and [[cachexia]] frequently overlap
 > - **Frailty / Senility (R54)** — multidimensional geriatric syndrome of which **sarcopenia** is a key physical component; coded [[R54]] or Z87.39x in some payer contexts
 > - **Dynapenia** — isolated loss of muscle *strength* without commensurate loss of muscle mass; not separately ICD-10 coded; may map to M62.84 or M62.5x clinically
-> - **[[Osteoporosis]]** — bone density loss that frequently co-occurs with **sarcopenia** (*osteosarcopenia* when combined); M80-M81
+> - **[[osteoporosis]]** — bone density loss that frequently co-occurs with **sarcopenia** (*osteosarcopenia* when combined); M80-M81
 > - **Malnutrition** — a major cause of secondary **sarcopenia**; E40-E46; often simultaneously codeable with M62.84
 > - **Falls** — the most dangerous direct clinical consequence of **sarcopenia**; [[W19.XXXA]] (initial), **W19.XXXD** (subsequent)
 > - **Grip strength testing** — primary clinical screening tool for **sarcopenia** (**handheld dynamometry**); documented result drives M62.84 coding

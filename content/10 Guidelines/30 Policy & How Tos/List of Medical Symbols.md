@@ -1,7 +1,7 @@
-[![Taber's Medical Dictionary](https://www.tabers.com/tabersonline/cati/i108/539.png?v=126)
+
 Taber's Medical Dictionary](https://www.tabers.com/tabersonline/index/Tabers-Dictionary/Entries/*)
 
-[](https://www.tabers.com/tabersonline/pview/Tabers-Dictionary/750461/all/Symbols "Print PDF")
+
 
 
 ## GENERAL SYMBOLS
@@ -69,9 +69,3 @@ Taber's Medical Dictionary](https://www.tabers.com/tabersonline/index/Tabers-Dic
 **↑** Increase  
 **↓** Decrease  
 
-## SPECIAL SYMBOLS USED IN TABER'S
-
-**![Descriptive text is not available for this image](https://www.tabers.com/tabersonline/repview?type=539-126&name=CAUicon)**
-
- Caution/Safety note  
-Provided on Taber's_Plus_

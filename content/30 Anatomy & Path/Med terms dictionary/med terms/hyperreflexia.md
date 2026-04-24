@@ -105,7 +105,7 @@ _____
 > | Code | Description |
 > |---|---|
 > | **[[G90.4]]** | Autonomic dysreflexia _(**SCI-associated; code with triggering stimulus**)_ |
-> | **[[G11.4]]** | Hereditary [[spastic paraplegia]] _(UMN hyperreflexia)_ |
+> | **[[50 Medical Coding/ICD-10 Codes/G11.4]]** | Hereditary [[spastic paraplegia]] _(UMN hyperreflexia)_ |
 > | **[[G04.1]]** | Tropical spastic paraplegia _(UMN hyperreflexia)_ |
 > | **[[K59.2]]** | Neurogenic bowel, not elsewhere classified_(frequently coded with [[G90.4]] as the triggering condition)_ |
 >

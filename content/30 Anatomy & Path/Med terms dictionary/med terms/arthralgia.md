@@ -59,7 +59,7 @@ _____
 > - **[[Myalgia]]** — muscle pain; shares the *[[-algia]]* root; often co-presents with arthralgia in viral illness, fibromyalgia
 > - **[[Neuralgia]]** — nerve pain; *[[-algia]]* family; may radiate and mimic arthralgia (e.g., radiculopathy → shoulder "joint" pain)
 > - **[[Gout]] / [[Pseudogout]]** — crystal arthropathy; presents as acute [[monoarthralgia]]; M10.x / M11.x
-> - **[[Osteoarthritis]] (OA)** — degenerative joint disease; M15-M19; most common cause of chronic arthralgic complaints
+> - **[[osteoarthritis]] (OA)** — degenerative joint disease; M15-M19; most common cause of chronic arthralgic complaints
 > - **Rheumatoid Arthritis (RA)** — autoimmune polyarthritis; M05.x (**seropositive**), M06.x (**seronegative**)
 > - **[[Fibromyalgia]]** — widespread musculoskeletal pain syndrome including arthralgic complaints; M79.3
 > - **[[Arthrocentesis]]** — diagnostic/therapeutic joint aspiration; primary procedure CPT for arthralgic workup ([[20600]]-[[20611]])

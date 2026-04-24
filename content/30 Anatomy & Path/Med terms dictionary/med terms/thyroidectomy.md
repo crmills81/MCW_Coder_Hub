@@ -49,7 +49,7 @@ _____
 > - **Total Thyroidectomy** _(complete removal of the entire thyroid gland including both lobes and isthmus; most common operation for thyroid malignancy and multinodular goiter; coded [[60240]] or [[60252]]/[[60254]] when cancer with neck dissection is involved)_
 > - **[[Hemithyroidectomy]]** _(synonym for total thyroid lobectomy — removal of one entire lobe plus the isthmus; used for unilateral benign disease or indeterminate nodules; coded [[60220]])_
 > - **Thyroid Lobectomy** _(clinical synonym for hemithyroidectomy; often used interchangeably in operative reports — total unilateral lobectomy [[60220]] vs. partial lobectomy [[60210]])_
-> - **Subtotal Thyroidectomy** _(removal of the majority of both lobes leaving 4–5 g of residual tissue; historically used for Graves' disease; now largely replaced by total thyroidectomy; coded [[60240]] when performed as primary procedure)_
+> - **Subtotal Thyroidectomy** _(removal of the majority of both lobes leaving 4-5 g of residual tissue; historically used for Graves' disease; now largely replaced by total thyroidectomy; coded [[60240]] when performed as primary procedure)_
 > - **Near-Total Thyroidectomy** _(both lobes removed except a small remnant near RLN entry and superior parathyroid; functionally equivalent to total thyroidectomy; coded [[60240]])_
 > - **Completion Thyroidectomy** _(removal of all remaining thyroid tissue after a prior partial or lobectomy procedure; distinct code — [[60260]] — regardless of how much tissue remains; common when final pathology reveals malignancy after initial lobectomy)_
 > - **Substernal Thyroidectomy** _(performed when thyroid tissue extends into the mediastinum; may require sternal split or transthoracic approach — coded [[60270]] sternal split/transthoracic or [[60271]] cervical approach when substernal extension is present)_
@@ -64,16 +64,16 @@ _____
 > - **[[Parathyroidectomy]]** — removal of one or more parathyroid glands, which are at high risk of inadvertent removal during **thyroidectomy**; if accidentally removed and reimplanted, add [[60521]] or [[60522]] for parathyroid **autotransplantation**; loss of all parathyroid tissue causes permanent [[hypoparathyroidism]] (**[[E20.0]]**)
 > - **Thyroid Lobectomy** — lesser, organ-preserving variant of thyroidectomy; total unilateral lobectomy (**[[60220]]**) preserves the contralateral lobe and avoids lifelong hormone replacement in many patients; preferred for low-risk papillary microcarcinoma ≤1 cm
 > - **[[Thyroiditis]]** — inflammatory condition of the thyroid; [[autoimmune]] form (**[[E06.3]] Hashimoto's**) is the leading cause of hypothyroidism and a common comorbidity documented in **thyroidectomy** patients; subacute ([[E06.1]]) may mimic malignancy on workup
-> - **[[Thyrotoxicosis]] / [[Hyperthyroidism]]** — excess thyroid hormone state; a primary surgical indication for **thyroidectomy** in Graves' disease (**[[E05.00]]–[[E05.01]]**) and toxic multinodular [[goiter]] (**[[E05.20]]–[[E05.21]]**); requires preoperative medical stabilization to prevent thyroid storm
+> - **[[Thyrotoxicosis]] / [[Hyperthyroidism]]** — excess thyroid hormone state; a primary surgical indication for **thyroidectomy** in Graves' disease (**[[E05.00]]-[[E05.01]]**) and toxic multinodular [[goiter]] (**[[E05.20]]-[[E05.21]]**); requires preoperative medical stabilization to prevent thyroid storm
 > - **[[Goiter]]** — enlargement of the thyroid gland, either diffuse (**[[E04.0]]**) or multinodular (**[[E04.2]]**); symptomatic goiter with [[dysphagia]], [[dyspnea]], or tracheal compression is a common benign surgical indication
-> - **Thyroid Nodule** — discrete lesion within the thyroid; indeterminate or suspicious cytology on FNA (**Bethesda category III–V**) drives surgical decision-making; coded [[E04.1]] nontoxic single nodule
+> - **Thyroid Nodule** — discrete lesion within the thyroid; indeterminate or suspicious cytology on FNA (**Bethesda category III-V**) drives surgical decision-making; coded [[E04.1]] nontoxic single nodule
 > - **[[Thyroid Carcinoma]]** — primary malignant indication for **thyroidectomy**; papillary (**[[C73]]**) is most common; follicular, medullary, and anaplastic variants all coded to [[C73]] in ICD-10-CM with additional histology detail captured via pathology documentation
 > - **Recurrent Laryngeal Nerve Injury** — most feared intraoperative complication; unilateral injury causes [[hoarseness/dysphonia]] (**[[J38.01]]**); bilateral injury may cause airway obstruction requiring emergent [[tracheostomy]]; neuromonitoring (IONM) is standard of care
-> - **[[Hypoparathyroidism]]** — loss of parathyroid function due to inadvertent removal or devascularization during [[thyroidectomy]]; transient in up to 30% of cases; permanent in 1–2%; coded [[E89.2]] postprocedural [[hypoparathyroidism]]
+> - **[[Hypoparathyroidism]]** — loss of parathyroid function due to inadvertent removal or devascularization during [[thyroidectomy]]; transient in up to 30% of cases; permanent in 1-2%; coded [[E89.2]] postprocedural [[hypoparathyroidism]]
 > - **[[Hypocalcemia]]** — metabolic consequence of [[hypoparathyroidism]] post-**thyroidectomy**; presents as perioral numbness, [[paresthesias]], Chvostek's sign, Trousseau's sign, tetany; coded [[E83.51]] [[hypocalcemia]]
 > - **Thyroid Storm** — life-threatening **hypermetabolic crisis** triggered perioperatively in inadequately prepared [[hyperthyroid]] patients; rare but critical complication; coded [[E05.41]] **thyrotoxic crisis** with [[thyrotoxicosis]] from other cause or applicable E05.x1 code with fifth digit "1"
 > - **Fine Needle Aspiration Biopsy (FNA/FNAB)** — primary preoperative diagnostic tool for thyroid nodules; determines surgical candidacy via Bethesda classification; **CPT [[10005]], [[10006]], [[10007]], [[10008]]** (**US-guided**), or [[10021]] (**without imaging guidance**)
-> - **Lymph Node Dissection** — neck dissection performed concurrently for malignancy; central compartment (**Level VI**) or lateral (**Levels II–V**); integral to [[60252]] (**limited**) and [[60254]] (**radical**)
+> - **Lymph Node Dissection** — neck dissection performed concurrently for malignancy; central compartment (**Level VI**) or lateral (**Levels II-V**); integral to [[60252]] (**limited**) and [[60254]] (**radical**)
 
 _____
 
@@ -126,7 +126,7 @@ _____
 > 
 > |Code|Description|
 > |---|---|
-> |**[[E89.0]]**|Postprocedural hypothyroidism (expected outcome of total thyroidectomy — always code this for inpatient admissions post–total **thyroidectomy)|**
+> |**[[E89.0]]**|Postprocedural hypothyroidism (expected outcome of total thyroidectomy — always code this for inpatient admissions post-total **thyroidectomy)|**
 > |**[[E89.2]]**|Postprocedural hypoparathyroidism (inadvertent parathyroid removal or devascularization)|
 > |**[[E83.51]]**|Hypocalcemia (metabolic sequela of **hypoparathyroidism**; assign as additional code)|
 > |**[[J38.01]]**|Paralysis of vocal cords and larynx, unilateral (RLN injury — unilateral)|

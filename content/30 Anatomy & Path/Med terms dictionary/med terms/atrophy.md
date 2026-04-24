@@ -62,7 +62,7 @@ _____
 > - **[[cachexia]]** — complex metabolic syndrome of wasting driven by systemic illness (**malignancy, heart failure, CKD**); often overlaps with atrophy
 > - **[[Denervation]]** — loss of nerve supply to a muscle, causing neurogenic **atrophy**
 > - **[[Trophic]]** — adjective describing nerve or hormonal inputs that sustain tissue mass; "trophic support"
-> - **[[Apoptosis]]** — programmed cell death; the cellular mechanism underlying physiological and some pathological **atrophy**
+> - **[[apoptosis]]** — programmed cell death; the cellular mechanism underlying physiological and some pathological **atrophy**
 > - **Spinal Muscular Atrophy (SMA)** — genetic motor neuron disease causing progressive muscle atrophy (**G12.0, G12.1, G12.2x**)
 > - **Optic atrophy** — degeneration of optic nerve axons, causing visual field loss; H47.2x
 > - **Cortical atrophy / Cerebral atrophy** — reduction in brain volume, hallmark of [[neurodegenerative]] diseases

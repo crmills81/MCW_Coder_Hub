@@ -52,10 +52,10 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 >
 > - **[[Flaccid hemiplegia]]** — **[[G81.00]]**; unilateral paralysis characterized by hypotonia (**floppy muscles**) and absent reflexes; typically occurs in the acute "spinal shock" phase immediately following a [[stroke]] before spasticity sets in.
-> - **[[Paraplegia]]** — **[[G82.20]]**; paralysis of both lower extremities (the lower half of the body).
-> - **[[Quadriplegia]] / [[Tetraplegia]]** — **[[G82.50]]**; paralysis of all four limbs.
+> - **[[paraplegia]]** — **[[G82.20]]**; paralysis of both lower extremities (the lower half of the body).
+> - **[[quadriplegia]] / [[tetraplegia]]** — **[[G82.50]]**; paralysis of all four limbs.
 > - **[[Multiple sclerosis]]** — **[[G35.A]]** (etc.); a demyelinating disease that can cause upper motor neuron lesions resulting in spastic hemiplegia as a motor complication.
-> - **[[cerebral Palsy]]** — **[[G80.9]]**; a group of permanent movement disorders appearing in early childhood; spastic hemiplegic CP is coded specifically to **[[G80.2]]**.
+> - **[[cerebral palsy]]** — **[[G80.9]]**; a group of permanent movement disorders appearing in early childhood; spastic hemiplegic CP is coded specifically to **[[G80.2]]**.
 > - **[[Spasticity]]** — **[[R25.2]]**; the isolated symptom of muscle stiffness; do not code separately if spastic hemiplegia is explicitly diagnosed.
 > - **[[Botulinum toxin]]** — A primary pharmacological treatment injected directly into spastic muscles to provide temporary focal relief.
 

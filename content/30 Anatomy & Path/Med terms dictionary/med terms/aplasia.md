@@ -52,7 +52,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Hypoplasia]]** — partial under-development; *hypo-* (under) + *-plasia*; less severe than aplasia on the developmental failure spectrum
+> - **[[hypoplasia]]** — partial under-development; *hypo-* (under) + *-plasia*; less severe than aplasia on the developmental failure spectrum
 > - **[[dysplasia]]** — disordered development; *dys-* (bad/abnormal) + *-plasia*; cells form but are structurally abnormal
 > - **[[hyperplasia]]** — over-formation; *hyper-* (excess) + *-plasia*; too many cells produced
 > - **Neoplasia** — new/abnormal formation; *neo-* (new) + *[[-plasia]]*; uncontrolled cell growth → tumor

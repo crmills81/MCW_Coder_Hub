@@ -1,10 +1,11 @@
-## Page 1
-
 # Medicare Claims Processing Manual
 ## Chapter 26 - Completing and Processing Form CMS-1500 Data Set
 
+#### Page 1
+
 ### Table of Contents
 (Rev. 12779; Issued: 08-09-24)
+See actual manual
 
 ### Transmittals for Chapter 26
 
@@ -29,7 +30,7 @@ Exhibit 1 - Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhib
 ---
 
 
-## Page 2
+#### Page 2
 
 # 10 - Health Insurance Claim Form CMS-1500
 (Rev. 3083, Issued: 10-02-14, Effective: CMS-1500: 01-06-14, ICD-10 - Upon Implementation of ICD-10, Implementation: CMS-1500: 01-06-14, ICD-10 - Upon Implementation of ICD-10)
@@ -55,7 +56,7 @@ Medicare A/B MACS (B), DME MACS, physicians, and suppliers are responsible for p
 ---
 
 
-## Page 3
+#### Page 3
 
 type (i.e., single sheet, snap-out, continuous feed, etc.) of the CMS-1500 claim form for processing. To purchase forms from the U.S. Government Printing Office, call (202) 512-1800.
 
@@ -103,7 +104,7 @@ Providers and suppliers have the option of entering either a 6 or 8-digit date i
 ---
 
 
-## Page 4
+#### Page 4
 
 <table>
   <thead>
@@ -147,7 +148,7 @@ The term Medicare beneficiary identifier (Mbi) is a general term describing a be
 ---
 
 
-## Page 5
+#### Page 5
 
 Item 7 - Enter the insured's address and telephone number. When the address is the same as the patient's, enter the word SAME. Complete this item only when items 4, 6, and 11 are completed.
 
@@ -168,7 +169,7 @@ Do not list other supplemental coverage in item 9 and its subdivisions at the ti
 ---
 
 
-## Page 6
+#### Page 6
 
 **Item 9a** - Enter the policy and/or group number of the Medigap insured preceded by MEDIGAP, MG, or MGAP.
 
@@ -201,7 +202,7 @@ If there is no insurance primary to Medicare, enter the word "NONE" and proceed 
 ---
 
 
-## Page 7
+#### Page 7
 
 If the insured reports a terminating event with regard to insurance which had been primary to Medicare (e.g., insured retired), enter the word "NONE" and proceed to item 11b.
 
@@ -231,7 +232,7 @@ If a lab has collected previously and retained Medicare Secondary Payer (MSP) in
 ---
 
 
-## Page 8
+#### Page 8
 
 Form version 02/12: provide this information to the right of the vertical dotted line.
 
@@ -254,7 +255,7 @@ The presence of or lack of a signature or "signature on file" in this field will
 ---
 
 
-## Page 9
+#### Page 9
 
 In addition, the signature in this item authorizes payment of mandated Medigap benefits to the participating physician or supplier if required Medigap information is included in item 9 and its subdivisions. The patient or his/her authorized representative signs this item or the signature must be on file as a separate Medigap authorization. The Medigap assignment on file in the participating provider of service/supplier's office must be insurer specific. It may state that the authorization applies to all occasions of service until it is revoked.
 
@@ -295,7 +296,7 @@ Additional instructions for form version 02/12: Enter one of the following quali
 ---
 
 
-## Page 10
+#### Page 10
 
 <table>
   <thead>
@@ -335,7 +336,7 @@ The term "physician" when used within the meaning of §1861(r) of the Act and us
 ---
 
 
-## Page 11
+#### Page 11
 
 Policy Manual, chapter 15 for non-physician practitioner rules. Examples of services that might be ordered include diagnostic laboratory tests, clinical laboratory tests, pharmaceutical services, durable medical equipment, and services incident to that physician's or non-physician practitioner's service.
 
@@ -358,7 +359,7 @@ The ordering/referring requirement became effective January 1, 1992, and is requ
 ---
 
 
-## Page 12
+#### Page 12
 
 nonphysician practitioner of the therapy plan of care be entered as the referring physician in Items 17 and 17b.
 
@@ -387,7 +388,7 @@ When billing for unlisted laboratory tests using a NOC code, this field **MUST**
 ---
 
 
-## Page 13
+#### Page 13
 
 Protecting Access to Medicare Act of 2014 (PAMA) requires reporting entities to report private payor payment rates for laboratory tests and the corresponding volumes of tests. In compliance with PAMA, CMS must collect private payor data on unique tests currently being paid as a NOC code, Not Otherwise Specified (NOS) code, or unlisted service or procedure code.
 
@@ -414,7 +415,7 @@ Enter the NPI of the physician who is performing the technical or professional c
 ---
 
 
-## Page 14
+#### Page 14
 
 NOTE: Effective May 23, 2008, all provider identifiers submitted on the CMS-1500 claim form MUST be in the form of an NPI.
 
@@ -439,7 +440,7 @@ For form version 02/12, it may be appropriate to report either ICD-9-CM or ICD-1
 ---
 
 
-## Page 15
+#### Page 15
 
 <table>
   <thead>
@@ -486,7 +487,7 @@ For ambulance claims, enter the ZIP code of the loaded ambulance trip’s point-
 ---
 
 
-## Page 16
+#### Page 16
 
 top portion in each of the six service lines is shaded and is the location for reporting supplemental information. It is not intended to allow the billing of 12 service lines.
 
@@ -511,7 +512,7 @@ Return as unprocessable if an "unlisted procedure code" or a NOC code is indicat
 ---
 
 
-## Page 17
+#### Page 17
 
 per line item. When multiple services are performed, enter the primary reference number/letter for each service.
 
@@ -542,7 +543,7 @@ Beginning with dates of service on and after January 1, 2011, for ambulance mile
 ---
 
 
-## Page 18
+#### Page 18
 
 **Item 24J** - Enter the rendering provider's NPI number in the lower unshaded portion. In the case of a service provided incident to the service of a physician or non-physician practitioner, when the person who ordered the service is not supervising, enter the NPI of the supervisor in the lower unshaded portion.
 
@@ -568,7 +569,7 @@ The following providers of service/suppliers and claims can only be paid on an a
 ---
 
 
-## Page 19
+#### Page 19
 
 * Ambulance services;
 * Drugs and biologicals; and
@@ -593,7 +594,7 @@ Providers of service (namely physicians) shall identify the supplier's name, add
 ---
 
 
-## Page 20
+#### Page 20
 
 For foreign claims, only the enrollee can file for Part B benefits rendered outside of the United States. These claims will not include a valid ZIP code. When a claim is received for these services on a beneficiary submitted Form CMS-1490S, before the claim is entered in the system, it should be determined if it is a foreign claim. If it is a foreign claim, follow instructions in chapter 1 for disposition of the claim. The A/B MAC (B) processing the foreign claim will have to make necessary accommodations to verify that the claim is not returned as unprocessable due to the lack of a ZIP code.
 
@@ -623,7 +624,7 @@ Effective for claims submitted with a receipt date on and after October 1, 2015,
 ---
 
 
-## Page 21
+#### Page 21
 
 *   The Health Insurance Portability and Accountability Act of 1996 (HIPAA) became effective October 16, 2003, for all covered entities. Medicare is a covered entity under HIPAA.
 *   The final rule, “Health Insurance Reform: Standards for Electronic Transactions,” published in the Federal Register, August 17, 2000, adopts the standards to be used under HIPAA and names the implementation guides to be used for these standards. The ASC X12N 837 professional is the standard to be used for transmitting health care claims electronically, and its implementation guide requires the use of POS codes from the National POS code set, currently maintained by CMS.
@@ -633,7 +634,7 @@ Effective for claims submitted with a receipt date on and after October 1, 2015,
 ---
 
 
-## Page 22
+#### Page 22
 
 January 1, 2003, codes 03 School, 04 Homeless Shelter, and 20 Urgent Care became part of the National POS code set and were to be crosswalked to 11 Office, this mandate to crosswalk has since been lifted, as indicated above).
 
@@ -667,7 +668,7 @@ The code set is annotated with the effective dates for this and all other codes 
 ---
 
 
-## Page 23
+#### Page 23
 
 <table>
   <thead>
@@ -703,7 +704,7 @@ The code set is annotated with the effective dates for this and all other codes 
 ---
 
 
-## Page 24
+#### Page 24
 
 <table>
   <thead>
@@ -739,7 +740,7 @@ The code set is annotated with the effective dates for this and all other codes 
 ---
 
 
-## Page 25
+#### Page 25
 
 <table>
   <thead>
@@ -779,7 +780,7 @@ The code set is annotated with the effective dates for this and all other codes 
 ---
 
 
-## Page 26
+#### Page 26
 
 <table>
   <thead>
@@ -819,7 +820,7 @@ The code set is annotated with the effective dates for this and all other codes 
 ---
 
 
-## Page 27
+#### Page 27
 
 <table>
   <thead>
@@ -863,7 +864,7 @@ The code set is annotated with the effective dates for this and all other codes 
 ---
 
 
-## Page 28
+#### Page 28
 
 <table>
   <thead>
@@ -915,7 +916,7 @@ The code set is annotated with the effective dates for this and all other codes 
 ---
 
 
-## Page 29
+#### Page 29
 
 <table>
   <thead>
@@ -951,7 +952,7 @@ The code set is annotated with the effective dates for this and all other codes 
 ---
 
 
-## Page 30
+#### Page 30
 
 <table>
   <thead>
@@ -995,7 +996,7 @@ The code set is annotated with the effective dates for this and all other codes 
 ---
 
 
-## Page 31
+#### Page 31
 
 <table>
   <thead>
@@ -1049,7 +1050,7 @@ Beginning in CY 2024, practitioners may receive either the facility or the non-f
 ---
 
 
-## Page 32
+#### Page 32
 
 in CY 2024 are POS 02 and POS 10. As appropriate, POS 02 or POS 10 may be used and must be paired with the appropriate telehealth modifier (modifier 93 for audio-only and modifier 95 for audio/video). The payment rate for POS 02 is the facility payment rate (F); the payment rate for POS 10 is the non-facility rate (NF). Use of audio-only (93) or audio-video (95) does not change rate of payment, only the POS code determines the non-facility or facility payment rate.
 
@@ -1068,7 +1069,7 @@ When services are furnished in a mobile unit, they are often provided to serve a
 ---
 
 
-## Page 33
+#### Page 33
 
 entity which could be described by an existing POS code, the providers are to use the Mobile Unit POS code 15. Apply the nonfacility rate to payments for services designated as being furnished in POS code 15; apply the appropriate facility or nonfacility rate for the POS code designated when a code other than the mobile unit code is indicated.
 
@@ -1090,7 +1091,7 @@ When a physician/practitioner furnishes services to a registered inpatient, paym
 ---
 
 
-## Page 34
+#### Page 34
 
 physician/practitioner is aware of the exact setting the beneficiary is a registered inpatient, the appropriate inpatient POS code may be reported consistent with the code list annotated in this section (instead of POS 21). For example, a physician/practitioner may use POS 31, for a patient in a SNF receiving inpatient skilled nursing care, POS 51, for a patient registered in a Psychiatric Inpatient Facility, and POS 61 for patients registered in a Comprehensive Inpatient Rehabilitation Facility.
 
@@ -1103,7 +1104,7 @@ The place of service (POS) code for “Outpatient Hospital” has been expanded.
 ---
 
 
-## Page 35
+#### Page 35
 
 C.F.R.
 413.65. Physicians shall use POS code 11 (office) when services are performed in a separately maintained physician office space in the hospital or on the hospital campus and that physician office space is not considered a provider-based department of the hospital. Use of POS code 11(office) in the hospital outpatient department or on hospital campus is subject to the physician self-referral provisions set forth in 42 C.F.R 411.353 through 411.357.
@@ -1128,7 +1129,7 @@ For services provided to a hospice beneficiary in an outpatient setting, such as
 ---
 
 
-## Page 36
+#### Page 36
 
 (POS 22)), the patient’s physician or nonphysician practitioner or hospice independent attending physician or nurse practitioner, shall assign the POS code that represents that setting, as appropriate.
 
@@ -1150,7 +1151,7 @@ For purposes of payment under the Medicare Physician Fee Schedule (MPFS), the PO
 ---
 
 
-## Page 37
+#### Page 37
 
 POS code 21, for inpatient hospital, is correct. In this example, the POS code reflects a different setting than the address and ZIP code of the practice location (the physician's office).
 
@@ -1167,7 +1168,7 @@ If questioning whether the visit had been made, ascertain whether the physician'
 ---
 
 
-## Page 38
+#### Page 38
 
 If a claim lacks a valid place of service (POS) code in item 24b, or contains an invalid POS in item 24b, return the claim as unprocessable to the provider or supplier, using Group Code CO, Claim Adjustment Remark Code (CARC) 16, and Remittance Advice Remark Code (RARC) M77. Effective for claims received on or after April 1, 2004, only one POS may be submitted on the Form CMS-1500 for services paid under the MPFS and anesthesia services. If the place of service is missing and the MAC cannot infer the place of service from the procedure code billed (e.g., a procedure code for which the definition is not site specific or which can be performed in more than one setting), then return services as unprocessable.
 
@@ -1186,7 +1187,7 @@ The only exceptions to this annual update are:
 ---
 
 
-## Page 39
+#### Page 39
 
 Medicare Claims Processing Manual, Chapter 12, "Physician/Nonphysician Practitioner," for instructions on when assistant-at-surgery is allowable.)
 
@@ -1242,7 +1243,7 @@ The place of service or diagnosis may be considered when determining the appropr
 ---
 
 
-## Page 40
+#### Page 40
 
 <table>
   <thead>
@@ -1373,7 +1374,7 @@ A. A physician specialty association will submit a specialty code request to the
 ---
 
 
-## Page 41
+#### Page 41
 
 Medicare contractors shall not add any specialty codes to the list. They must send all requests for expansion of the specialty code list to the Director, Division of Practitioner Services, at the address above.
 
@@ -1426,7 +1427,7 @@ Physicians are allowed to choose a primary and a secondary specialty code. If th
 ---
 
 
-## Page 42
+#### Page 42
 
 <table>
   <thead>
@@ -1622,7 +1623,7 @@ Physicians are allowed to choose a primary and a secondary specialty code. If th
 ---
 
 
-## Page 43
+#### Page 43
 
 <table>
   <thead>
@@ -1790,7 +1791,7 @@ The following list of 2-digit codes and narrative describe the kind of medicine 
 ---
 
 
-## Page 44
+#### Page 44
 
 <table>
   <thead>
@@ -1954,7 +1955,7 @@ The following list of 2-digit codes and narrative describe the kind of medicine 
 ---
 
 
-## Page 45
+#### Page 45
 
 <table>
   <thead>
@@ -2069,7 +2070,7 @@ The purpose of the MTUS Count Field on the line item is to document additional i
 ---
 
 
-## Page 46
+#### Page 46
 
 The purpose of the MTUS Indicator Field is to indicate what the value entered into the MTUS Count Field means. There are 6 indicator values, as follows:
 
@@ -2153,7 +2154,7 @@ Mileage Reporting: A total of 10 miles (1 trip) was reported for HCPCS code A042
 ---
 
 
-## Page 47
+#### Page 47
 
 <table>
   <thead>
@@ -2272,7 +2273,7 @@ NOTE: Neither number of cans nor the number of calories should be reported in th
 ---
 
 
-## Page 48
+#### Page 48
 
 case, 100 calories equals 1 unit/service. Thus, 24 cans * 300 calories / 100 calories equals 72 units/services.
 
@@ -2369,7 +2370,7 @@ Medicare will conduct a dual-use period (January 1, 2019 through March 31, 2019)
 ---
 
 
-## Page 49
+#### Page 49
 
 This form is used only by beneficiaries (or their representatives) who complete and file their own claims. It contains the patient's comparable items of data that are on the Form CMS-1500. When the Form CMS-1490S is used, an itemized bill must be submitted with the claim. Some enrollees may want to keep the original itemized physician and supplier bills for income tax or complementary insurance purposes. Photocopies of itemized bills are acceptable for Medicare deductible and payment purposes if there is no evidence of alteration. Social Security offices use the Form CMS-1490S when assisting beneficiaries in filing Part B Medicare claims.
 
@@ -2391,7 +2392,7 @@ The contractor continues to stock Form CMS-1490S and, upon request, furnish bene
 ---
 
 
-## Page 50
+#### Page 50
 
 # 30 - Printing Standards and Print File Specifications Form CMS-1500
 (Rev. 899, Issued: 03-31-06; Effective: 10-01-06; Implementation: 10-02-06)
@@ -2425,7 +2426,7 @@ The X offset refers to the horizontal distance from the left edge of the paper t
 ---
 
 
-## Page 51
+#### Page 51
 
 **Askewity** - The askewity of the printed image must be no greater than 0.15mm in 100mm.
 
@@ -2466,7 +2467,7 @@ Part 2 - Any color that will not interfere with scanning of Part 1 sheet.
 ---
 
 
-## Page 52
+#### Page 52
 
 Part 1 - (OCR-Red Ink) must be in Flint J-6983 Red OCR “dropout” ink or an exact match.
 
@@ -2509,7 +2510,7 @@ Part 1 -Face and back, head to head.
 ---
 
 
-## Page 53
+#### Page 53
 
 Part 2 -Face and back, head to head.
 
@@ -2556,7 +2557,7 @@ Symbol - The identifiable 1500 in a rectangle located in the upper left front of
 ---
 
 
-## Page 54
+#### Page 54
 
 readability of multiple plies. Color of any titles if applicable: Are to be in the same ink as the form, Flint J6983 OCR Red “dropout” ink.
 
@@ -2571,7 +2572,7 @@ No modification is to be made to the Form CMS-1500 (08-05) without prior approva
 ---
 
 
-## Page 55
+#### Page 55
 
 Exhibit 1
 (Rev. 1970, 05-21-10)
@@ -2807,7 +2808,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 56
+#### Page 56
 
 <table>
   <thead>
@@ -3037,7 +3038,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 57
+#### Page 57
 
 <table>
   <thead>
@@ -3235,7 +3236,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 58
+#### Page 58
 
 <table>
   <thead>
@@ -3417,7 +3418,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 59
+#### Page 59
 
 <table>
   <thead>
@@ -3640,7 +3641,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 60
+#### Page 60
 
 <table>
   <thead>
@@ -3863,7 +3864,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 61
+#### Page 61
 
 <table>
   <thead>
@@ -4084,7 +4085,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 62
+#### Page 62
 
 <table>
   <thead>
@@ -4307,7 +4308,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 63
+#### Page 63
 
 <table>
   <thead>
@@ -4538,7 +4539,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 64
+#### Page 64
 
 <table>
   <thead>
@@ -4759,7 +4760,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 65
+#### Page 65
 
 <table>
   <thead>
@@ -4860,7 +4861,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 66
+#### Page 66
 
 # Transmittals Issued for this Chapter
 
@@ -4965,7 +4966,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 67
+#### Page 67
 
 <table>
   <thead>
@@ -5061,7 +5062,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 68
+#### Page 68
 
 <table>
   <thead>
@@ -5150,7 +5151,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 69
+#### Page 69
 
 <table>
   <thead>
@@ -5253,7 +5254,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 70
+#### Page 70
 
 <table>
   <thead>
@@ -5349,7 +5350,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 71
+#### Page 71
 
 <table>
   <thead>
@@ -5438,7 +5439,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 72
+#### Page 72
 
 <table>
   <thead>
@@ -5520,7 +5521,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 73
+#### Page 73
 
 <table>
   <thead>
@@ -5616,7 +5617,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 74
+#### Page 74
 
 <table>
   <thead>
@@ -5719,7 +5720,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 75
+#### Page 75
 
 <table>
   <thead>
@@ -5801,7 +5802,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 76
+#### Page 76
 
 <table>
   <thead>
@@ -5897,7 +5898,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 77
+#### Page 77
 
 <table>
   <thead>
@@ -6021,7 +6022,7 @@ Form CMS-1500 (08/05) User Print File Specifications (Formerly Exhibit 2)
 ---
 
 
-## Page 78
+#### Page 78
 
 <table>
   <thead>

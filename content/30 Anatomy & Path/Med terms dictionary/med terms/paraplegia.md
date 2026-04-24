@@ -5,6 +5,7 @@ tags:
   - physical-therapy
   - rehabilitation
   - orthopedics
+  - pmr
 aliases:
   - Paraplegia
   - paraparesis
@@ -48,11 +49,11 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 >
-> - **[[Quadriplegia]] / [[Tetraplegia]]** — **[[G82.50]]**; paralysis of all four limbs and torso resulting from a cervical spinal cord injury (C1-C8).
+> - **[[quadriplegia]] / [[tetraplegia]]** — **[[G82.50]]**; paralysis of all four limbs and torso resulting from a cervical spinal cord injury (C1-C8).
 > - **[[Hemiplegia]]** — **[[G81.90]]**; unilateral paralysis affecting an entire side of the body (one arm and one leg), classically from a brain lesion (**stroke**).
 > - **[[Monoplegia]]** — paralysis of a single limb.
 > - **Neurogenic bladder** — **[[N31.9]]**; dysfunction of the urinary bladder due to disease of the central or peripheral nervous system; a near-universal complication of paraplegia.
-> - **[[Transverse myelitis]]** — **[[G37.3]]**; an acute inflammatory demyelinating disorder of the spinal cord that is a frequent non-traumatic cause of rapid-onset paraplegia.
+> - **[[transverse myelitis]]** — **[[G37.3]]**; an acute inflammatory demyelinating disorder of the spinal cord that is a frequent non-traumatic cause of rapid-onset paraplegia.
 > - **Cauda equina syndrome** — **[[G83.4]]**; compression of the lumbar/sacral nerve roots below the conus medullaris, causing flaccid paraparesis, saddle anesthesia, and acute bowel/bladder incontinence; a surgical emergency.
 
 _____

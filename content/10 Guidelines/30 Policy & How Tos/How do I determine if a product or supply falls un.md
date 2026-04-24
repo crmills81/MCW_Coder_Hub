@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
 # How do I determine if a product or supply falls under HCPCS Level II categories
 
 To determine if a product or supply falls under HCPCS Level II categories, follow these key steps:

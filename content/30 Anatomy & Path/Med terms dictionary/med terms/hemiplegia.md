@@ -55,8 +55,8 @@ _____
 > - **[[Hemiparesis]]** — the partial/incomplete version; same ICD-10 code family
 > - **[[Monoplegia]]** — complete paralysis of one limb (**ICD-10: G83.0x-G83.2x**)
 > - **[[Paraplegia]]** — bilateral lower limb paralysis (**ICD-10: G82.2x**)
-> - **[[Quadriplegia]] / [[Tetraplegia]]** — all four limbs (**ICD-10: G82.5x**)
-> - **[[Diplegia]]** — bilateral symmetric involvement, typically **[[cerebral palsy]]**
+> - **[[quadriplegia]] / [[tetraplegia]]** — all four limbs (**ICD-10: G82.5x**)
+> - **[[diplegia]]** — bilateral symmetric involvement, typically **[[cerebral palsy]]**
 > - **Corticospinal tract** — the motor pathway; interruption = hemiplegia
 > - **Internal capsule** — dense white matter tract; small lesion here causes complete [[hemiplegia]]
 > - **Decussation of the pyramids** — where motor fibers cross; determines contralateral pattern

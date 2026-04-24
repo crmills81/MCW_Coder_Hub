@@ -129,10 +129,10 @@ Documentation that supports **Treat** for a paralyzed patient:
 | **[[G81.90]]** | Hemiplegia, unspecified, affecting unspecified side | **HCC 104**   |
 | **[[G82.20]]** | Paraplegia, unspecified                             | **HCC 103**   |
 | **[[G82.50]]** | Quadriplegia, unspecified                           | **HCC 103**   |
-| **[[G82.51]]** | Quadriplegia, C1–C4 complete                        | **HCC 103**   |
-| **[[G82.52]]** | Quadriplegia, C1–C4 incomplete                      | **HCC 103**   |
-| **[[G82.53]]** | Quadriplegia, C5–C7 complete                        | **HCC 103**   |
-| **[[G82.54]]** | Quadriplegia, C5–C7 incomplete                      | **HCC 103**   |
+| **[[G82.51]]** | Quadriplegia, C1-C4 complete                        | **HCC 103**   |
+| **[[G82.52]]** | Quadriplegia, C1-C4 incomplete                      | **HCC 103**   |
+| **[[G82.53]]** | Quadriplegia, C5-C7 complete                        | **HCC 103**   |
+| **[[G82.54]]** | Quadriplegia, C5-C7 incomplete                      | **HCC 103**   |
 | **[[G83.0]]**  | Diplegia of upper limbs                             | **HCC 104**   |
 | **[[G83.10]]** | Monoplegia of lower limb, unspecified               | **HCC 104**   |
 | **[[G83.4]]**  | Cauda equina syndrome                               | **HCC 104**   |
@@ -155,7 +155,7 @@ Documentation that supports **Treat** for a paralyzed patient:
   - CC/MCC status (**e.g., [[G82.50]] Paraplegia = MCC**)
 
 > [!success] MCC Alert — Paraplegia & Quadriplegia
-> **G82.20 (Paraplegia) and G82.50–G82.54 (Quadriplegia)** are classified as **MCCs** in the MS-DRG system. Capturing these when clinically documented and **MEAT**-supported can significantly impact the DRG assignment and reimbursement.
+> **G82.20 (Paraplegia) and G82.50-G82.54 (Quadriplegia)** are classified as **MCCs** in the MS-DRG system. Capturing these when clinically documented and **MEAT**-supported can significantly impact the DRG assignment and reimbursement.
 
 ---
 
@@ -211,7 +211,7 @@ Use a **compliant, non-leading** query when documentation shows:
 | ----------------------------------------------- | ----------------------------------------------------------------------------- |
 | **"Hx of stroke with residual weakness"**       | Clarify if **hemiplegia** is current/active; specify laterality               |
 | **"Paralyzed" with no code-level specificity**  | Clarify type (**flaccid vs. spastic**), etiology, completeness                |
-| **"SCI" without current functional status**     | Clarify complete vs. incomplete; level (**C1–C4 vs. C5–C7**)                  |
+| **"SCI" without current functional status**     | Clarify complete vs. incomplete; level (**C1-C4 vs. C5-C7**)                  |
 | **Nursing documents turning/repositioning q2h** | Query physician: Is **paralysis** an active condition managed this encounter? |
 | **DVT prophylaxis ordered, PT involved**        | Confirm **paralysis** is a current, active diagnosis impacting care           |
 | **Neurogenic bladder documented by nursing**    | Confirm if physician will attest neurogenic **bladder** as active diagnosis   |
@@ -229,7 +229,7 @@ Use a **compliant, non-leading** query when documentation shows:
 | **Hemiplegia**            | **G81.x**         | Specify: flaccid vs. spastic; dominant vs. non-dominant vs. unspecified side |
 | **Paraplegia**            | **G82.2x**        | Bilateral lower limb paralysis                                               |
 | **Quadriplegia**          | **G82.5x**        | All 4 limbs; specify level and completeness                                  |
-| **Monoplegia**            | **G83.1x–G83.3x** | Single limb; specify upper vs. lower, laterality                             |
+| **Monoplegia**            | **G83.1x-G83.3x** | Single limb; specify upper vs. lower, laterality                             |
 | **Cauda equina syndrome** | **[[G83.4]]**     | May present with bladder/bowel dysfunction — relevant for Urology            |
 | **Locked-in syndrome**    | **[[G83.5]]**     | Quadriplegia + inability to speak/move; relevant for OTO trach patients      |
 
