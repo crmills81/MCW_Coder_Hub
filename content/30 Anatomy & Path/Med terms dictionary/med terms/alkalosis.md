@@ -145,6 +145,97 @@ _____
 > ---
 >
 > ⚠️ **Coding Note:** The single most important compliance fact in **alkalosis** coding is that **E87.3 has NO subcategories** — unlike **[[acidosis]]** which was expanded in FY2023, **alkalosis** remains a single undivided billable code. Attempting to report E87.30 (**metabolic**), E87.31 (**respiratory**), or any other sub-digit simply does not exist in ICD-10-CM and will result in an unrecognized code rejection. The second most critical rule is the **O21.1 Excludes1 boundary** — alkalosis in the context of **hyperemesis gravidarum** in a pregnant patient codes exclusively to **[[O21.1]]**; appending E87.3 alongside O21.1 is a direct Excludes1 violation. For **chloride-resistant metabolic alkalosis**, always query the physician for documentation of the underlying mineralocorticoid driver (**primary or secondary [[hyperaldosteronism]], Bartter syndrome, Cushing's**) — those diagnoses dramatically affect risk adjustment, DRG assignment, and medical necessity for workup procedures. When billing serial ABGs for alkalosis monitoring in the ICU, modifier **[[-91]]** is mandatory for every repeat same-day draw — billing multiple units of **[[82803]]** without -91 will be denied as duplicate claims. For **BMP vs. individual component billing**: if **[[80048]]** is billed, do **NOT** additionally bill **[[82374]]**, **[[82435]]**, **[[84295]]**, or **[[84132]]** for the same blood draw — those components are bundled into the panel and separate billing constitutes unbundling.
+_____
+
+> [!cite]+ ## A Word from MedlinePlus
+> **Alkalosis** is a condition in which the body fluids have excess base (alkali). This is the opposite of excess acid ([acidosis](https://medlineplus.gov/ency/article/001181.htm)).
+> 
+> ## Causes
+> 
+> The kidneys and lungs maintain the proper balance (proper pH level) of chemicals called acids and bases in the body. Decreased carbon dioxide (an acid) level or increased bicarbonate (a base) level makes the body too alkaline, a condition called alkalosis. There are different types of alkalosis. These are described below.
+> 
+> [Respiratory alkalosis](https://medlineplus.gov/ency/article/000111.htm) means too much carbon dioxide is breathed causing a low carbon dioxide level in the blood. This can be due to:
+> 
+> - Fever
+> - Being at a high altitude
+> - Hyperventilation
+> - Lack of oxygen
+> - Liver disease
+> - Lung disease, which causes you to breathe faster ([hyperventilate](https://medlineplus.gov/ency/article/003071.htm))
+> - [Aspirin poisoning](https://medlineplus.gov/ency/article/002542.htm)
+> 
+> Metabolic alkalosis means there is too much bicarbonate in the blood. It can occur due to certain kidney diseases. Two forms of metabolic alkalosis are:
+> 
+> - Hypochloremic alkalosis -- It is caused by an extreme lack or loss of chloride, such as from prolonged vomiting.
+> - Hypokalemic alkalosis -- It may also be caused by the kidneys' response to an extreme lack or loss of potassium. This can occur from taking certain water pills (diuretics).
+> 
+> Compensated alkalosis occurs when the body returns the acid-base balance and blood pH to near normal in cases of alkalosis, but bicarbonate and carbon dioxide levels remain abnormal.
+> 
+> ## Exams and Tests
+> 
+> Your health care provider will perform a physical exam and ask about your symptoms.
+> 
+> Lab tests that may be ordered include:
+> 
+> - [Arterial or venous blood gas analysis](https://medlineplus.gov/ency/article/003855.htm).
+> - [Basic metabolic panel](https://medlineplus.gov/ency/article/003462.htm) (group of blood tests that measure sodium and potassium levels, kidney function, and other chemicals and functions) to show whether the type of alkalosis is metabolic or respiratory.
+> 
+> Other blood tests may be needed to determine the cause of the alkalosis.
+> 
+> Other tests may be needed to determine the cause of the alkalosis. These may include:
+> 
+> - [Chest x-ray](https://medlineplus.gov/ency/article/003804.htm)
+> - [Urinalysis](https://medlineplus.gov/ency/article/003579.htm)
+> - [Urine pH](https://medlineplus.gov/ency/article/003583.htm)
+> 
+> ## Treatment
+> 
+> To treat alkalosis, your provider needs to first find the underlying cause.
+> 
+> For alkalosis caused by hyperventilation, breathing into a paper bag allows you to keep more carbon dioxide in your body, which improves the alkalosis. If your oxygen level is low, you may receive oxygen.
+> 
+> Medicines may be needed to correct chemical loss (such as chloride and potassium). Your provider will monitor your [vital signs](https://medlineplus.gov/ency/article/002341.htm) (temperature, pulse, rate of breathing, and blood pressure).
+> 
+> ## Outlook (Prognosis)
+> 
+> Most cases of alkalosis respond well to treatment.
+> 
+> ## When to Contact a Medical Professional
+> 
+> Contact your provider if you become confused, unable to concentrate, or unable to "catch your breath."
+> 
+> Go to the emergency room or call 911 or the local emergency number if there is:
+> 
+> - Loss of consciousness
+> - Rapidly worsening symptoms of alkalosis
+> - [Seizures](https://medlineplus.gov/ency/article/003200.htm)
+> - Severe breathing difficulties
+> 
+> ## Prevention
+> 
+> Prevention depends on the cause of the alkalosis. People with healthy kidneys and lungs do not usually have serious alkalosis.
+> 
+> ## Alternative Names
+> 
+> Metabolic alkalosis; Respiratory alkalosis
+> 
+> ## Images
+> 
+> - ![Kidneys](https://medlineplus.gov/ency/images/ency/tnails/8819t.jpg "Kidneys") [Kidneys](https://medlineplus.gov/ency/imagepages/8819.htm)
+> 
+> #### References
+> 
+> Kliegman RM, St. Geme JW, Blum NJ, et al. Electrolyte and acid-base disorders. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds. *Nelson Textbook of Pediatrics*. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 73.
+> 
+> Oh MS, Briefel G, Pincus MR. Evaluation of renal function, water, electrolytes, and acid-base balance. In: McPherson RA, Pincus MR, eds. *Henry's Clinical Diagnosis and Management by Laboratory Methods*. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 15.
+> 
+> Sanghavi S, Albert TJ, Swenson ER. Acid-base balance. In: Broaddus VC, Ernst JD, King TE, et al, eds. *Murray and Nadel's Textbook of Respiratory Medicine*. 7th ed. Philadelphia, PA: Elsevier; 2022:chap 12.
+> 
+> Seifter JL. Acid-base disorders. In: Goldman L, Cooney KA, eds. *Goldman-Cecil Medicine*. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 104.
+> 
+> #### Review Date 11/6/2025
+> 
+> Updated by: Jacob Berman, MD, MPH, Associate Professor of Medicine, Division of General Internal Medicine, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
 
 _____
 >[!tip]- DERIVATIONS of [[alkalosis]]

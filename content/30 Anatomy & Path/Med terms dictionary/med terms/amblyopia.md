@@ -60,7 +60,7 @@ _____
 
 _____
 
-> [!example]+ #### CODING CORNER
+> [!missing]+ #### CODING CORNER
 >
 > <br>
 >
@@ -133,6 +133,96 @@ _____
 > ---
 >
 > ⚠️ **Coding Note:** The most common compliance pitfall in **amblyopia** coding is submitting **H53.00x** (unspecified) when the medical record clearly documents the type (**strabismic, refractive, deprivation**). Specificity is required for MEAT compliance and to avoid downcoding or payer denials. When a patient has **both strabismus and amblyopia**, both conditions must be coded — [[amblyopia]] does **not** include the [[strabismus]], per ICD-10-CM instructional notes. For **deprivation amblyopia**, also code the underlying cause (**e.g., [[Q12.0]] for congenital [[cataract]]**). Regarding **92065 vs. 92066**: the distinction turns on *who performs* the session — physician-performed vs. supervised ancillary — and payers differ significantly on coverage, so always verify **LCD/NCD** coverage policies by MAC before billing orthoptic codes. Some payers consider [[92065]]/[[92066]] investigational for anything beyond **strabismus** or convergence insufficiency, requiring prior auth or medical necessity documentation citing the specific **amblyopia** subtype.
+_____
+
+> [!cite]+ ## A Word from MedlinePlus
+> **Amblyopia** is the loss of the ability to see clearly through one eye. It is also called "lazy eye." It is the most common cause of vision problems in children.
+> 
+> ## Causes
+> 
+> **[[Amblyopia]]** occurs when the nerve pathway from one eye to the brain does not develop during childhood. This problem develops because the abnormal eye sends the wrong image to the brain. This is the case in [[strabismus]](https://medlineplus.gov/ency/article/001004.htm) (**crossed eyes**). In other eye problems, a blurred image is sent to the brain. This confuses the brain, and the brain may learn to ignore the image from the weaker eye.
+> 
+> **Strabismus** is the most common cause of **amblyopia**. Having a family member with **strabismus**, increases your chance of having **strabismus**.
+> 
+> The term "**lazy eye**" refers to **amblyopia**, which often occurs along with **strabismus**. However, **amblyopia** can occur due to something other than **strabismus**. Also, people can have **strabismus** without **amblyopia**.
+> 
+> **Other causes include:**
+> 
+> - Childhood [cataracts](https://medlineplus.gov/ency/article/001001.htm)
+> - [Farsightedness](https://medlineplus.gov/ency/article/001020.htm), [nearsightedness](https://medlineplus.gov/ency/article/001023.htm), or [[astigmatism]](https://medlineplus.gov/ency/article/001015.htm), especially if it is greater in one eye
+> 
+> In **[[strabismus]]**, the only problem with the eye itself is that it is pointed in the wrong direction. If poor vision is caused by a problem with the eyeball, such as cataracts, amblyopia will still need to be treated, even if the **[[cataracts]]** are removed. **Amblyopia** may not develop if both eyes have equally poor vision.
+> 
+> ## Symptoms
+> 
+> **Symptoms of the condition include:**
+> 
+> - Eyes that turn in or out
+> - Eyes that do not appear to work together
+> - Inability to judge depth correctly
+> - Poor vision in one eye
+> 
+> ## Exams and Tests
+> 
+> In most cases, **[[amblyopia]]** can be detected with a complete eye exam. Special tests are not often needed.
+> 
+> ## Treatment
+> 
+> The first step will be to correct any eye condition that is causing poor vision in the amblyopic eye (**such as cataracts**).
+> 
+> Children with a refractive error (**nearsightedness, farsightedness, or astigmatism**) will need glasses.
+> 
+> Next, a patch is placed on the normal eye. This forces the brain to recognize the image from the eye with **amblyopia**. Sometimes, drops are used to blur the vision of the normal eye instead of putting a patch on it.
+> 
+> Newer treatment techniques use digital computer technology, to show a slightly different image to each eye. Over time, the vision between the eyes becomes equalized.
+> 
+> Children whose vision will not fully recover, and those with only one good eye due to any disorder should wear glasses. These glasses should be shatter- and scratch-resistant.
+> 
+> ## Outlook (Prognosis)
+> 
+> Children who get treated before age 5 almost always recover vision that is close to normal. However, they may continue to have problems with depth perception.
+> 
+> Permanent vision problems may result if treatment is delayed. Children treated after age 10 can expect vision to recover only partially.
+> 
+> ## Possible Complications
+> 
+> **Complications may include:**
+> 
+> - Eye muscle problems that may require several surgeries
+> - Permanent vision loss in the affected eye
+> 
+> ## When to Contact a Medical Professional
+> 
+> Contact your health care provider or eye doctor if you suspect a vision problem in a young child.
+> 
+> ## Prevention
+> 
+> Identifying and treating the problem early prevents children from having permanent visual loss. All children should have a complete eye exam at least once between ages 3 and 5.
+> 
+> Special methods are used to measure vision in a child who is too young to speak. Most eye care professionals can perform these techniques.
+> 
+> ## Alternative Names
+> 
+> Lazy eye; Vision loss - **amblyopia**
+> 
+> ## Images
+> 
+> - ![Visual acuity test](https://medlineplus.gov/ency/images/ency/tnails/1124t.jpg "Visual acuity test") [Visual acuity test](https://medlineplus.gov/ency/imagepages/1124.htm)
+> - ![Walleyes](https://medlineplus.gov/ency/images/ency/tnails/1125t.jpg "Walleyes") [Exotropia](https://medlineplus.gov/ency/imagepages/1125.htm)
+> 
+> #### References
+> 
+> Bircg EE, Duffy KR. Amblyopia. In: Yanoff M, Duker JS, eds. *Ophthalmology*. 6th ed. Philadelphia, PA: Elsevier; 2023:chap 11.11.
+> 
+> Olitsky SE, Marsh JD. Disorders of vision. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds. *Nelson Textbook of Pediatrics*. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 661.
+> 
+> Repka MX. Amblyopia: the basics, the questions, and the practical management. In: Lyons CJ, Lambert SR eds. *Taylor and Hoyt's Pediatric Ophthalmology and Strabismus*. 6th ed. Philadelphia, PA: Elsevier; 2023:chap 74.
+> 
+> Xiao S, Angjeli E, Wu HC, et al. Randomized controlled trial of a dichoptic digital therapeutic for amblyopia. *Ophthalmology*. 2022;129(1):77-85. PMID: 34534556 [pubmed.ncbi.nlm.nih.gov/34534556/](https://pubmed.ncbi.nlm.nih.gov/34534556/).
+> 
+> #### Review Date 7/9/2024
+> 
+> Updated by: Audrey Tai, DO, MS, Athena Eye Care, Mission Viejo, CA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
 
 _____
 >[!tip]- DERIVATIONS of [[amblyopia]]

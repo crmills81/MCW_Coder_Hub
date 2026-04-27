@@ -82,7 +82,7 @@ _____
 
 _____
 
-> [!example]+ #### CODING CORNER
+> [!caution]+ #### CODING CORNER
 > <br>
 >
 > ### 🏥 ICD-10-CM CODES
@@ -224,6 +224,114 @@ _____
 
 _____
 
+
+<br>
+
+
+> [!cite] ## A Word From MedlinePlus:
+> **Acute arterial occlusion of the kidney** is a sudden, severe blockage of the artery that supplies blood to the kidney.
+> 
+> ## Causes
+> 
+> The kidneys need a good blood supply. The main artery to the kidney is called the renal artery. Reduced blood flow through the [renal](https://medlineplus.gov/ency/article/002289.htm) artery can hurt kidney function. A complete blockage of blood flow to the kidney can often result in permanent kidney failure.
+> 
+> Acute arterial occlusion of the renal artery can occur after injury or trauma to the abdomen, side, or back. Blood clots that travel through the bloodstream ([emboli](https://medlineplus.gov/ency/article/001124.htm)) can lodge in the renal artery. Pieces of plaque from the walls of the arteries can come loose (on their own or during a medical procedure that affects an artery). This debris can block the main kidney artery or one of the smaller vessels.
+> 
+> The risk of renal artery blockages increases in people who have certain heart disorders, which make them likely to form blood clots. These include [mitral stenosis](https://medlineplus.gov/ency/article/000175.htm) and [atrial fibrillation](https://medlineplus.gov/ency/article/000184.htm).
+> 
+> A narrowing of the renal artery is called [renal artery stenosis](https://medlineplus.gov/ency/article/000204.htm). This condition increases the risk of a sudden blockage.
+> 
+> ## Symptoms
+> 
+> You may not have symptoms when one kidney does not function because the second kidney can filter the blood. However, high blood pressure (hypertension) may come on suddenly and be difficult to control.
+> 
+> If your other kidney is not working fully, blockage of the renal artery may cause symptoms of [acute kidney failure](https://medlineplus.gov/ency/article/000501.htm). Other symptoms of acute arterial occlusion of the renal artery include:
+> 
+> - Abdominal pain
+> - Abrupt decrease in urine output
+> - Back pain
+> - [Blood in the urine](https://medlineplus.gov/ency/article/003138.htm)
+> - [Flank pain](https://medlineplus.gov/ency/article/003113.htm) or pain in the side
+> - Symptoms of high blood pressure such as headache, change in vision, and swelling
+> 
+> Note: There may be no pain. Pain, if it is present, most often develops suddenly.
+> 
+> ## Exams and Tests
+> 
+> The health care provider will not be able to identify the problem with just an exam unless you have developed kidney failure.
+> 
+> Tests you may need include:
+> 
+> - [Duplex Doppler ultrasound](https://medlineplus.gov/ency/article/003433.htm) exam of the renal arteries to test blood flow
+> - [MRI](https://medlineplus.gov/ency/article/003335.htm) of the kidney arteries, which can show a lack of blood flow to the affected kidney
+> - [Renal arteriography](https://medlineplus.gov/ency/article/003781.htm) shows the exact location of the blockage
+> - [Ultrasound](https://medlineplus.gov/ency/article/003336.htm) of the kidney to check kidney size
+> 
+> ## Treatment
+> 
+> Some people do not need treatment. Blood clots may get better on their own over time.
+> 
+> You may have treatment to open the artery if the blockage is discovered quickly or it is affecting your only working kidney. Treatment to open the artery may include:
+> 
+> - Clot-dissolving medicines (thrombolytics)
+> - Medicines that prevent the blood from clotting (anticoagulants), such as warfarin
+> - Surgical repair of the renal artery
+> - Insertion of a tube (catheter) into the renal artery to open the blockage
+> 
+> You may need temporary [dialysis](https://medlineplus.gov/ency/article/007434.htm) to treat acute kidney failure. Medicines to lower cholesterol may be needed if the blockage is due to clots from plaque buildup in the arteries.
+> 
+> ## Outlook (Prognosis)
+> 
+> Damage caused by arterial occlusion may go away. However, in most cases, it is permanent.
+> 
+> If only one kidney is affected, the healthy kidney may take over filtering the blood and producing urine. If you have only one working kidney, arterial occlusion leads to acute kidney failure. This can develop into [chronic kidney disease or failure](https://medlineplus.gov/ency/article/000471.htm).
+> 
+> ## Possible Complications
+> 
+> Complications may include:
+> 
+> - Acute kidney failure
+> - Chronic kidney disease
+> - [High blood pressure](https://medlineplus.gov/ency/patientinstructions/000101.htm)
+> - [Malignant hypertension](https://medlineplus.gov/ency/article/000491.htm)
+> 
+> ## When to Contact a Medical Professional
+> 
+> Contact your provider if:
+> 
+> - You stop producing urine
+> - You feel sudden, severe pain in the back, flank, or abdomen
+> 
+> Get emergency medical help right away if you have symptoms of arterial occlusion and have only one working kidney.
+> 
+> ## Prevention
+> 
+> In many cases, the disorder is not preventable. The most important way to reduce your risk is to stop smoking.
+> 
+> People at risk for developing blood clots may need to take anti-clotting medicines. Taking steps to control diseases related to atherosclerosis (hardening of the arteries) may reduce your risk.
+> 
+> ## Alternative Names
+> 
+> Acute renal arterial thrombosis; Renal artery embolism; Acute renal artery occlusion; Embolism - renal artery
+> 
+> ## Images
+> 
+> - ![Kidney anatomy](https://medlineplus.gov/ency/images/ency/tnails/1101t.jpg "Kidney anatomy") [Kidney anatomy](https://medlineplus.gov/ency/imagepages/1101.htm)
+> - ![Kidney - blood and urine flow](https://medlineplus.gov/ency/images/ency/tnails/1704t.jpg "Kidney - blood and urine flow") [Kidney - blood and urine flow](https://medlineplus.gov/ency/imagepages/1704.htm)
+> - ![Kidney blood supply](https://medlineplus.gov/ency/images/ency/tnails/8817t.jpg "Kidney blood supply") [Kidney blood supply](https://medlineplus.gov/ency/imagepages/8817.htm)
+> 
+> ##### References
+> 
+> Coffman TM, Smith SR. Vascular disorders of the kidney. In: Goldman L, Cooney KA, eds. *Goldman-Cecil Medicine*. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 110.
+> 
+> Greco BA, Papamarkakis KE. Renovascular hypertension, atherosclerotic renal vascular disease, and thromboembolic kidney disease. In: Johnson RJ, Floege J, Tonelli M, eds. *Comprehensive Clinical Nephrology*. 7th ed. Philadelphia, PA: Elsevier; 2024:chap 43.
+> 
+> Judd E, Sanders PW, Agarwal A. Diagnosis and clinical evaluation of acute kidney injury. In: Johnson RJ, Floege J, Tonelli M, eds. *Comprehensive Clinical Nephrology*. 7th ed. Philadelphia, PA: Elsevier; 2024:chap 72.
+> 
+> Myers DJ, Myers SI. Systemic complications: renal. In: Sidawy AN, Perler BA, eds. *Rutherford's Vascular Surgery and Endovascular Therapy*. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 46.
+> 
+
+
 >[!tip]- DERIVATIONS of [[occlusion]]
 >```dataview
 >TABLE definition AS Definition
@@ -240,6 +348,8 @@ _____
 >FROM #medterm 
 >WHERE length(filter(definition, (word) => econtains([[occlusion]].definition, word))) > 0 AND file.name != [[occlusion]].file.name
 >```
+
+
 
 [[Med roots]]
 [[Appendix A Prefixes]]
