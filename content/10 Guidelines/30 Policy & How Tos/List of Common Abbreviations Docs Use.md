@@ -138,3 +138,16 @@
 | **UTI**      | Urinary tract infection                                       | Infection of the bladder and kidneys                                                                            |
 | **XRT**      | Radiotherapy                                                  | Therapy that uses radiation, usually for cancer                                                                 |
 | **WBC**      | White blood cell                                              | A type of blood cell                                                                                            |
+
+<u>To be added to the table above:</u>
+RLE - Right Lower Extremity
+LLE - Left Lower Extremity
+BKA - Below the knee (amputation)
+AKA - Above the knee (amputation)
+FSO - Femoral shortening osteotomy
+ORIF - Open reduction & internal fixation
+CRPP - Closed reduction percutaneous pinning
+A&O - Awake and alert
+WNL - Within normal limits
+NKA - No known allergies
+NKDA - No known drug allergies
