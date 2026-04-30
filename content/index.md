@@ -26,7 +26,7 @@ My Medical coding hub is for the specialties that I code for my employer. These 
 ### Coding Rules & Guides
 - [[Inpatient E&M Codes]]
 - [[Proper Use of Modifiers 59, XE, XP, XS & XU]]
-- [[Phobias]]
+- [[List of Phobias]]
 - [[MDM Chart]]
 
 ---
