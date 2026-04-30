@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Crystal's MCW Coder Hub",
+    pageTitle: "Crystal's Coder Hub",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -29,8 +29,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Google Sans",
-        body: "Google Sans",
+        header: "Playwrite Norge",
+        body: "Inter",
         code: "Google Sans Code",
       },
       colors: {
@@ -40,8 +40,8 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#000000",
           dark: "#4b2175",
-          secondary: "#2f1647",
-          tertiary: "#850599",
+          secondary: "#860c82",
+          tertiary: "#D129CB",
           highlight: "rgba(250, 175, 250, 0.44)",
           textHighlight: "#f7c8df",
         },
