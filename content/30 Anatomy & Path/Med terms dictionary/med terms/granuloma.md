@@ -69,8 +69,8 @@ _____
 >
 > - **[[Abscess]]** — the acute suppurative counterpart to **granuloma**; contains purulent exudate dominated by neutrophils and represents acute rather than chronic macrophage-mediated inflammation
 > - **[[Granulomatosis]]** — shares the *[[granulo-]]* root; a systemic condition marked by widespread **granuloma** formation (e.g., **granulomatosis** with **polyangiitis**, formerly Wegener's; eosinophilic **[[granulomatosis]]** with **polyangiitis**, formerly Churg-Strauss)
-> - **[[Sarcoidosis]]** — the prototypical systemic non-caseating **granulomatous** disease of unknown etiology; the non-caseating **granuloma** is the defining histologic feature; ICD-10-CM **[[D86.0]]–[[D86.9]]**
-> - **Tuberculosis** — the classic cause of *caseating* **granulomas**; mycobacterial infection drives Langhans giant cell formation with central caseous **[[necrosis]]**; associated codes A15–A19
+> - **[[Sarcoidosis]]** — the prototypical systemic non-caseating **granulomatous** disease of unknown etiology; the non-caseating **granuloma** is the defining histologic feature; ICD-10-CM **[[D86.0]]-[[D86.9]]**
+> - **Tuberculosis** — the classic cause of *caseating* **granulomas**; mycobacterial infection drives Langhans giant cell formation with central caseous **[[necrosis]]**; associated codes A15-A19
 > - **Macrophage** — the primary cellular component of a granuloma; activated macrophages differentiate into epithelioid cells and fuse to form multinucleated giant cells
 > - **Epithelioid cell** — an activated macrophage that morphologically resembles an **[[epithelial]]** cell; the hallmark cell type identified on **granuloma** histology
 > - **Giant cell** — multinucleated cell formed by macrophage fusion; *Langhans type* (**nuclei arranged at periphery**) = infectious etiology; *foreign body type* (**nuclei randomly arranged**) = non-infectious etiology
@@ -140,19 +140,19 @@ _____
 > |**[[10120]]**|Incision and removal of foreign body, subcutaneous tissues; simple — primary code for suture granuloma or foreign body granuloma removal (pairs with [[L92.3]])|
 > |**[[10121]]**|Incision and removal of foreign body, subcutaneous tissues; complicated|
 > |**[[11300]]**|Shaving of epidermal or dermal lesion, single lesion, trunk, arms, or legs; lesion diameter 0.5 cm or less|
-> |**[[11301]]**|Shaving of epidermal or dermal lesion, single lesion, trunk, arms, or legs; lesion diameter 0.6–1.0 cm|
-> |**[[11302]]**|Shaving of epidermal or dermal lesion, single lesion, trunk, arms, or legs; lesion diameter 1.1–2.0 cm|
+> |**[[11301]]**|Shaving of epidermal or dermal lesion, single lesion, trunk, arms, or legs; lesion diameter 0.6-1.0 cm|
+> |**[[11302]]**|Shaving of epidermal or dermal lesion, single lesion, trunk, arms, or legs; lesion diameter 1.1-2.0 cm|
 > |**[[11303]]**|Shaving of epidermal or dermal lesion, single lesion, trunk, arms, or legs; lesion diameter over 2.0 cm|
 > |**[[11400]]**|Excision, benign lesion including margins, trunk, arms, or legs; excised diameter 0.5 cm or less|
-> |**[[11401]]**|Excision, benign lesion, trunk, arms, or legs; excised diameter 0.6–1.0 cm|
-> |**[[11402]]**|Excision, benign lesion, trunk, arms, or legs; excised diameter 1.1–2.0 cm|
+> |**[[11401]]**|Excision, benign lesion, trunk, arms, or legs; excised diameter 0.6-1.0 cm|
+> |**[[11402]]**|Excision, benign lesion, trunk, arms, or legs; excised diameter 1.1-2.0 cm|
 > |**[[11420]]**|Excision, benign lesion including margins, scalp, neck, hands, feet, genitalia; excised diameter 0.5 cm or less|
-> |**[[11421]]**|Excision, benign lesion, scalp, neck, hands, feet, genitalia; excised diameter 0.6–1.0 cm|
-> |**[[11422]]**|Excision, benign lesion, scalp, neck, hands, feet, genitalia; excised diameter 1.1–2.0 cm|
+> |**[[11421]]**|Excision, benign lesion, scalp, neck, hands, feet, genitalia; excised diameter 0.6-1.0 cm|
+> |**[[11422]]**|Excision, benign lesion, scalp, neck, hands, feet, genitalia; excised diameter 1.1-2.0 cm|
 >
 > ---
 >
-> > ⚠️ **Coding Note:** The parent code L92 is **never billable** — always drill down to the specific subcategory (**e.g., [[L92.3]] for foreign body/suture granuloma, [[L92.0]] for granuloma annulare**); defaulting to L92.9 is appropriate only when the documentation genuinely does not support a more specific type. For pyogenic **granuloma**, site drives code selection: **[[L98.0]]** is for **[[cutaneous]]** sites only — pyogenic **granuloma** of the **gingiva** goes to **[[K06.8]]**, oral mucosa to **[[K13.4]]**, and periapical **granuloma** to **[[K04.5]]** — these are among the most commonly miscoded **granuloma** encounters in outpatient profee. On inpatient profee claims, documentation phrases such as "**chronic inflammatory mass**," "**granulomatous tissue on path**," "**foreign body reaction**," or "**suture granuloma**" in operative or pathology reports should trigger a provider query to confirm the most specific diagnosis. For **CPT** code selection on excised granulomas, code is determined by **excised diameter (lesion + required margins)** and **anatomic location** — not the diagnosis alone — and shaving codes (**[[11300]]**–**[[11303]]** trunk/arms/legs; **[[11305]]**–**[[11308]]** scalp/neck/hands/feet/genitalia) apply only when no full-thickness excision is performed. For **sarcoidosis**-related **granulomata**, code the specific organ system involved (**e.g., [[D86.0]] for pulmonary [[sarcoidosis]]**) rather than defaulting to the unspecified code **[[D86.9]]** when the documentation clearly identifies the site.
+> > ⚠️ **Coding Note:** The parent code L92 is **never billable** — always drill down to the specific subcategory (**e.g., [[L92.3]] for foreign body/suture granuloma, [[L92.0]] for granuloma annulare**); defaulting to L92.9 is appropriate only when the documentation genuinely does not support a more specific type. For pyogenic **granuloma**, site drives code selection: **[[L98.0]]** is for **[[cutaneous]]** sites only — pyogenic **granuloma** of the **gingiva** goes to **[[K06.8]]**, oral mucosa to **[[K13.4]]**, and periapical **granuloma** to **[[K04.5]]** — these are among the most commonly miscoded **granuloma** encounters in outpatient profee. On inpatient profee claims, documentation phrases such as "**chronic inflammatory mass**," "**granulomatous tissue on path**," "**foreign body reaction**," or "**suture granuloma**" in operative or pathology reports should trigger a provider query to confirm the most specific diagnosis. For **CPT** code selection on excised granulomas, code is determined by **excised diameter (lesion + required margins)** and **anatomic location** — not the diagnosis alone — and shaving codes (**[[11300]]**-**[[11303]]** trunk/arms/legs; **[[11305]]**-**[[11308]]** scalp/neck/hands/feet/genitalia) apply only when no full-thickness excision is performed. For **sarcoidosis**-related **granulomata**, code the specific organ system involved (**e.g., [[D86.0]] for pulmonary [[sarcoidosis]]**) rather than defaulting to the unspecified code **[[D86.9]]** when the documentation clearly identifies the site.
 
 _____
 

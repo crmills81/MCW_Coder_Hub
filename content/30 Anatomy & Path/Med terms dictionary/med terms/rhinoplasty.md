@@ -1,8 +1,8 @@
 ---
 tags:
-  - medroot
   - otolayrngology
   - ENT
+  - medterm
 aliases:
   - Rhinoplasty
 "roots:":

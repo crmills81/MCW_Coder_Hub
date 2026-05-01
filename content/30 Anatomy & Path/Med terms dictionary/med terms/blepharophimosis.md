@@ -1,9 +1,11 @@
 ---
 tags:
   - medterm
-  - medroot
+  - ophthalmology
+  - blepharoplasty
 aliases:
   - blepharophimosis syndrome
+  - Blepharophimosis
   - BPES
   - narrow palpebral fissure syndrome
 roots:
@@ -18,8 +20,7 @@ forms:
   - prefix
   - suffix
 alphabet: B
-definition:
-  -
+definition: the shortening of the horizontal length of the eyelid aperture
 ---
 >[!Note] DEFINITION of [[blepharophimosis]]
 >**Blepharophimosis** is a clinical sign defined by the shortening of the horizontal length of the eyelid aperture. It can occur as an isolated anomaly or, more commonly, as part of a specific syndrome known as **Blepharophimosis-Ptosis-Epicanthus Inversus Syndrome (BPES)**. 

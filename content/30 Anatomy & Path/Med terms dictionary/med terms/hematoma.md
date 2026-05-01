@@ -33,9 +33,9 @@ definition: A localized collection of blood that has escaped from ruptured blood
 ---
 
 >[!Note] DEFINITION of [[hematoma]]
->**Hematoma** is **a localized, enclosed collection of blood** — **initially fluid but progressively coagulating into a clotted mass** — that forms when blood escapes damaged or ruptured blood vessels and becomes trapped within a tissue plane, organ, or body cavity. It is physiologically distinct from **[[hemorrhage]]**, which refers to the *active bleeding event* itself; a **[[hematoma]]** is the *static pooled result* of that event once the blood has left the **[[vascular]]** space and can no longer freely drain. The underlying mechanism involves disruption of vessel wall integrity (**via trauma, surgical incision, anticoagulation, or coagulopathy**), followed by extravasation of blood into the surrounding extravascular space, triggering a localized inflammatory cascade as the body attempts to resorb or encapsulate the collection — explaining the characteristic color shift from red-purple to green to yellow as **hemoglobin** metabolizes through **oxyhemoglobin**, biliverdin, and bilirubin. **Hematomas** are broadly classified by etiology — **traumatic** (**most common; coded in the S00–S99 injury range with laterality and encounter suffixes**) versus **nontraumatic** (coded under the circulatory or **musculoskeletal** chapters, e.g., **[[M79.81]]**, I62.0x, I61.x) — and by anatomic location, which dictates clinical severity: a small [[subcutaneous]] **hematoma** is largely benign and self-resolving, whereas an **epidural** or **subdural** **hematoma** can cause life-threatening **[[herniation]]** within minutes. 
+>**Hematoma** is **a localized, enclosed collection of blood** — **initially fluid but progressively coagulating into a clotted mass** — that forms when blood escapes damaged or ruptured blood vessels and becomes trapped within a tissue plane, organ, or body cavity. It is physiologically distinct from **[[hemorrhage]]**, which refers to the *active bleeding event* itself; a **[[hematoma]]** is the *static pooled result* of that event once the blood has left the **[[vascular]]** space and can no longer freely drain. The underlying mechanism involves disruption of vessel wall integrity (**via trauma, surgical incision, anticoagulation, or coagulopathy**), followed by extravasation of blood into the surrounding extravascular space, triggering a localized inflammatory cascade as the body attempts to resorb or encapsulate the collection — explaining the characteristic color shift from red-purple to green to yellow as **hemoglobin** metabolizes through **oxyhemoglobin**, biliverdin, and bilirubin. **Hematomas** are broadly classified by etiology — **traumatic** (**most common; coded in the S00-S99 injury range with laterality and encounter suffixes**) versus **nontraumatic** (coded under the circulatory or **musculoskeletal** chapters, e.g., **[[M79.81]]**, I62.0x, I61.x) — and by anatomic location, which dictates clinical severity: a small [[subcutaneous]] **hematoma** is largely benign and self-resolving, whereas an **epidural** or **subdural** **hematoma** can cause life-threatening **[[herniation]]** within minutes. 
 >
->The key clinically relevant subtypes for inpatient coding are: *nontraumatic hematoma of soft tissue* (**[[M79.81]]**), *nontraumatic subdural hemorrhage* (**[[I62.00]]–[[I62.03]]**), *nontraumatic intracerebral hemorrhage* (I61.x), *traumatic subdural hemorrhage* (S06.5X-), and *traumatic epidural hemorrhage* (S06.4X-). **Hematoma** is commonly confused with **seroma** — the key difference is that a **seroma** contains serous fluid (**lymph/plasma**), not blood; both are coded under **[[M79.81]] ("nontraumatic seroma of muscle and soft tissue" is an included term in that code)** but are clinically managed differently.
+>The key clinically relevant subtypes for inpatient coding are: *nontraumatic hematoma of soft tissue* (**[[M79.81]]**), *nontraumatic subdural hemorrhage* (**[[I62.00]]-[[I62.03]]**), *nontraumatic intracerebral hemorrhage* (I61.x), *traumatic subdural hemorrhage* (S06.5X-), and *traumatic epidural hemorrhage* (S06.4X-). **Hematoma** is commonly confused with **seroma** — the key difference is that a **seroma** contains serous fluid (**lymph/plasma**), not blood; both are coded under **[[M79.81]] ("nontraumatic seroma of muscle and soft tissue" is an included term in that code)** but are clinically managed differently.
 
 _____
 
@@ -70,7 +70,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 >
-> - **[[hemorrhage]]** — the *active bleeding event* from a ruptured vessel; **hematoma** is the *static pooled collection* that results; hemorrhage codes vary widely by site **(I60–I62 nontraumatic intracranial; S-codes traumatic**); these are NOT synonymous — do not use interchangeably in coding
+> - **[[hemorrhage]]** — the *active bleeding event* from a ruptured vessel; **hematoma** is the *static pooled collection* that results; hemorrhage codes vary widely by site **(I60-I62 nontraumatic intracranial; S-codes traumatic**); these are NOT synonymous — do not use interchangeably in coding
 > - **[[Seroma]]** — a collection of serous fluid (plasma/lymph, not blood) in a tissue space; clinically similar to **hematoma** in appearance but distinctly non-**hematogenous**; included under **[[M79.81]]** per ICD-10-CM descriptor
 > - **[[Ecchymosis]]** — a flat, superficial [[subcutaneous]] **hematoma** >10 mm; commonly called a "**bruise**"; coded S00.0x- (**traumatic**) or as a sign/symptom under **[[R23.3]]** when spontaneous
 > - **[[Contusion]]** — a traumatic injury to soft tissue without skin laceration, often with underlying **hematoma** formation; coded under S-codes by body site; *not* **synonymous** with **hematoma**, though the terms are used interchangeably in clinical documentation
@@ -96,7 +96,7 @@ _____
 > |---|---|
 > |**[[M79.81]]**|Nontraumatic hematoma of soft tissue (includes nontraumatic hematoma of muscle; nontraumatic seroma of muscle and soft tissue) ✅ **Primary nontraumatic soft tissue code**|
 >
-> #### Nontraumatic Intracranial Hemorrhage/Hematoma | I60–I62
+> #### Nontraumatic Intracranial Hemorrhage/Hematoma | I60-I62
 >
 > |Code|Description|
 > |---|---|
@@ -122,11 +122,11 @@ _____
 > |---|---|
 > |**S06.4X**-|Epidural hemorrhage — parent; NOT billable|
 > |**[[S06.4X0A]]**|Epidural hemorrhage without loss of consciousness, initial encounter|
-> |**[[S06.4X1A]]**|Epidural hemorrhage with LOC 0–30 min, initial encounter|
+> |**[[S06.4X1A]]**|Epidural hemorrhage with LOC 0-30 min, initial encounter|
 > |**[[S06.4X9A]]**|Epidural hemorrhage with LOC of unspecified duration, initial encounter|
 > |**S06.5X**-|Traumatic subdural hemorrhage — parent; NOT billable|
 > |**[[S06.5X0A]]**|Traumatic subdural hemorrhage without loss of consciousness, initial encounter|
-> |**[[S06.5X1A]]**|Traumatic subdural hemorrhage with LOC 0–30 min, initial encounter|
+> |**[[S06.5X1A]]**|Traumatic subdural hemorrhage with LOC 0-30 min, initial encounter|
 > |**[[S06.5X9A]]**|Traumatic subdural hemorrhage with LOC of unspecified duration, initial encounter|
 > |**[[S06.5X0D]]**|Traumatic subdural hemorrhage without LOC, subsequent encounter|
 > |**[[S06.5X0S]]**|Traumatic subdural hemorrhage without LOC, sequela|

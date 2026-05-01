@@ -80,7 +80,7 @@ _____
 - **PCNL:** Uses nephrostomy tract for stones ([[50080]]/81).  
 - **[[Suprapubic Catheter]]:** Bladder analog ([[51100]] CPT).  
 
-**Complications:** [[Hemorrhage]] (1-3%), infection (4%), dislodgement (10-20%), [[pneumothorax]] ([[supracostal]]).[3]
+**Complications:** [[hemorrhage]] (1-3%), infection (4%), dislodgement (10-20%), [[pneumothorax]] ([[supracostal]]).[3]
 
 **Maintenance:** Flush daily, exchange q1-3mo, monitor output/color.[6]
 

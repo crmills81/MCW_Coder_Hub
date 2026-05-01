@@ -54,8 +54,8 @@ _____
 > - **Infection of bone NOS** _(clinical synonym per ICD-10-CM; mapped to **[[M86.9]]** when type and site unspecified)_
 > - **Periostitis without osteomyelitis** _(included under **[[M86.9]]** per ICD-10-CM descriptor — superficial periosteal infection without marrow involvement; code same as unspecified OM when not further specified)_
 > - **Acute hematogenous osteomyelitis** _(blood-borne spread to bone; most common in pediatric long bones and adult vertebrae; coded M86.0x with site specificity)_
-> - **Subacute osteomyelitis** _(indolent onset, 1–3 months duration; often presents as Brodie abscess on imaging; coded M86.2x)_
-> - **Chronic osteomyelitis** _(persistent infection >3 months with sequestrum/involucrum formation and/or draining sinus; coded M86.3x–M86.6x depending on subtype)_
+> - **Subacute osteomyelitis** _(indolent onset, 1-3 months duration; often presents as Brodie abscess on imaging; coded M86.2x)_
+> - **Chronic osteomyelitis** _(persistent infection >3 months with sequestrum/involucrum formation and/or draining sinus; coded M86.3x-M86.6x depending on subtype)_
 > - **Vertebral osteomyelitis** _(spinal form — also called spondylodiscitis when disc involved; coded M46.2x — NOT M86; Excludes2 note applies)_
 > - **Diabetic foot osteomyelitis** _(contiguous spread form in diabetic foot ulcer; requires additional E11.xxx diabetes code; see coding note below)_
 > - **Chronic osteomyelitis with draining sinus** _(clinical subtype with communicating sinus tracts to skin surface; coded M86.4x — directly linked to actinomycetoma as a complication)_
@@ -69,7 +69,7 @@ _____
 > - **[[Involucrum]]** — reactive sheath of new periosteal bone that forms around the sequestrum in chronic **osteomyelitis**; represents the body's attempt to wall off dead bone
 > - **Brodie abscess** — a localized, walled-off subacute bone **[[abscess]]** form of **osteomyelitis** (usually *S. aureus*); presents as a lucent lesion with sclerotic margins on imaging; coded M86.2x
 > - **Septic arthritis** — infection *within the joint space* (**not the bone itself**); coded M00.xx; can coexist with **osteomyelitis** when adjacent joint is seeded; code both when documented
-> - **[[Bacteremia]]** — presence of bacteria in the bloodstream; the source event for hematogenous **[[osteomyelitis]]**; code the causative organism using B95.x–B97.x as an additional code per M86 instruction
+> - **[[Bacteremia]]** — presence of bacteria in the bloodstream; the source event for hematogenous **[[osteomyelitis]]**; code the causative organism using B95.x-B97.x as an additional code per M86 instruction
 > - **[[MRSA]]** — *Methicillin-resistant Staphylococcus aureus*; the most clinically significant causative organism for **hematogenous** **osteomyelitis** in hospitalized patients; coded additionally as **[[B95.62]]** when documented
 > - **[[Spondylodiscitis]]** — vertebral **osteomyelitis** with intervertebral disc involvement; coded M46.2x — Excludes2 under M86 means it *can* be coded together with M86 when both are present but refers to a different anatomic locus
 > - **Osseous defect** — major bone loss resulting from chronic **osteomyelitis** or surgical **[[debridement]]**; must be coded additionally with M89.7x per M86 "**use additional code**" instruction
@@ -83,7 +83,7 @@ _____
 >
 > ### 🏥 ICD-10-CM CODES
 >
-> #### Acute Osteomyelitis | M86.0x–M86.1x (Site + Laterality Required)
+> #### Acute Osteomyelitis | M86.0x-M86.1x (Site + Laterality Required)
 >
 > |Code|Description|
 > |---|---|
@@ -115,7 +115,7 @@ _____
 > |**[[M86.28]]**|Subacute osteomyelitis, other site|
 > |**[[M86.29]]**|Subacute osteomyelitis, multiple sites|
 >
-> #### Chronic Osteomyelitis | M86.3x–M86.6x (Most Common in Inpatient)
+> #### Chronic Osteomyelitis | M86.3x-M86.6x (Most Common in Inpatient)
 >
 > |Code|Description|
 > |---|---|
@@ -188,7 +188,7 @@ _____
 >
 > ---
 >
-> > ⚠️ **Coding Note:** The M86 family requires **site specificity AND laterality** for virtually all subcategories — **[[M86.9]]** (**unspecified**) should only be used when the physician truly has not documented the site or type after a query has been attempted. The most critical undercoding alert in inpatient profee coding: **chronic osteomyelitis is frequently buried under "wound infection," "infected bone," or "diabetic foot ulcer"** — if the attending documents **"sequestrum," "involucrum," "draining sinus from bone," "bone biopsy positive for bacteria," or "chronic bone infection"**, those are your documentation triggers to query for type and site specificity (M86.4x–M86.6x). A second major alert: **vertebral osteomyelitis codes to M46.2x, NOT M86** — this is one of the most common miscoding errors and will trigger an MCC/CC assignment difference on your DRG; query for vertebral level when the spine is involved. When **osteomyelitis** is due to MRSA, you **must** add **[[B95.62]]** per the "**use additional code**" instruction or the MRSA specificity is lost — and in inpatient profee, that bacteriology specificity supports medical necessity for IV antibiotic duration. For diabetic patients with foot **osteomyelitis**, sequence the diabetes code (**e.g., [[E11.621]] for type 2 diabetes with foot ulcer**) *first* if it is driving the admission, then M86.xx as an additional diagnosis per combination coding guidelines.
+> > ⚠️ **Coding Note:** The M86 family requires **site specificity AND laterality** for virtually all subcategories — **[[M86.9]]** (**unspecified**) should only be used when the physician truly has not documented the site or type after a query has been attempted. The most critical undercoding alert in inpatient profee coding: **chronic osteomyelitis is frequently buried under "wound infection," "infected bone," or "diabetic foot ulcer"** — if the attending documents **"sequestrum," "involucrum," "draining sinus from bone," "bone biopsy positive for bacteria," or "chronic bone infection"**, those are your documentation triggers to query for type and site specificity (M86.4x-M86.6x). A second major alert: **vertebral osteomyelitis codes to M46.2x, NOT M86** — this is one of the most common miscoding errors and will trigger an MCC/CC assignment difference on your DRG; query for vertebral level when the spine is involved. When **osteomyelitis** is due to MRSA, you **must** add **[[B95.62]]** per the "**use additional code**" instruction or the MRSA specificity is lost — and in inpatient profee, that bacteriology specificity supports medical necessity for IV antibiotic duration. For diabetic patients with foot **osteomyelitis**, sequence the diabetes code (**e.g., [[E11.621]] for type 2 diabetes with foot ulcer**) *first* if it is driving the admission, then M86.xx as an additional diagnosis per combination coding guidelines.
 
 _____
 

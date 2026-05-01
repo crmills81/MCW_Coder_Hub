@@ -4,7 +4,8 @@ tags:
   - greek
   - medterm
   - specialty/ent
-aliases: []
+aliases:
+  - Septoplasty
 roots:
   - sept-
   - plast-

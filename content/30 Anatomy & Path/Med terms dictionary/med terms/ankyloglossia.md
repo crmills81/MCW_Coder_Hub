@@ -16,12 +16,10 @@ forms:
   - suffix
   - noun
 alphabet: A
-definition:
-  - tongue-tie
-  - a restrictive lingual frenulum
+definition: tongue-tie, a restrictive lingual frenulum
 ---
 >[!Note] DEFINITION of [[ankyloglossia]]
->[[Ankyloglossia]] is a **developmental condition present at birth in which the lingual frenulum**—the membrane connecting the underside of the tongue to the floor of the mouth—is unusually short, tight, or thick. This tethering can vary from a thin mucous membrane band to a total fusion of the tongue to the mouth floor, often resulting in a heart-shaped appearance when the patient attempts to protrude the tongue. Clinical complications include breastfeeding difficulties in infants (*e.g., poor latch or maternal nipple pain*) and potential speech impediments or mechanical issues like difficulty licking the lips in older children.
+>[[Ankyloglossia]] is a **developmental condition present at birth in which the lingual frenulum**—the **membrane connecting the underside of the tongue to the floor of the mouth**—is unusually **short, tight, or thick**. This tethering can vary from a thin mucous membrane band to a **total fusion of the tongue to the mouth floor**, often resulting in a heart-shaped appearance when the patient attempts to protrude the tongue. Clinical complications include breastfeeding difficulties in infants (*e.g., poor latch or maternal nipple pain*) and potential speech impediments or mechanical issues like difficulty licking the lips in older children.
 _____
 >[!info]+ ETYMOLOGY of [[ankyloglossia]]
 >#greek The term is derived from two Ancient Greek roots that describe the physical "tethering" of the organ:
@@ -60,7 +58,7 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE length(filter(definition, (word) => econtains([[ankyloglossia]].definition, word))) > 0 AND file.name != [[ankyloglossia]].file.name
 >```
 ____
 

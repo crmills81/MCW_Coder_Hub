@@ -14,8 +14,7 @@ forms:
   - combining
   - adjective
 alphabet: S
-definition:
-  - layer directly beneath the skin
+definition: layer directly beneath the skin
 ---
 >[!Note] DEFINITION of [[subcutaneous]]
 >The [[subcutaneous]] layer (also known as the hypodermis, subcutis, or superficial [[fascia]]) is the deepest and thickest layer of the integumentary system, located immediately below the [[dermis]] and above the deep [[fascia]] and muscle. Unlike the dermis, which is dense and structured, the subcutaneous layer consists primarily of loose areolar connective tissue and lobules of adipose tissue (**fat**). It serves multiple critical physiological roles: **it acts as a thermal insulator for the body, a mechanical shock absorber protecting underlying organs and bones from trauma, and a metabolic storage depot for energy in the form of [[triglycerides]]**. In medical contexts, it frequently describes a specific route of administration for injections (*"Sub-Q" or "SQ"*), where medication is deposited into this fatty layer for slow, sustained absorption. 

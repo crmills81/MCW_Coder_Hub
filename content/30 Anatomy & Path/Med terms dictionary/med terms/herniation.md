@@ -71,7 +71,7 @@ _____
 > - **Strangulated hernia** _(abdominal hernia in which the blood supply to the herniated contents is cut off → ischemia → gangrene; a surgical emergency; coded with the "with gangrene" fifth-digit variant at each site — e.g., **[[K40.40]]**)_
 > - **Brain herniation / Cerebral herniation** _(displacement of brain tissue across dural boundaries due to elevated ICP; subtypes include uncal herniation, central/transtentorial herniation, subfalcine herniation, tonsillar herniation into foramen magnum; all coded **[[G93.5]]**)_
 > - **Uncal herniation** _(most common and clinically recognizable subtype of brain herniation; medial temporal lobe/uncus displaced through the tentorial notch compressing cranial nerve III → fixed dilated pupil + contralateral hemiparesis; coded **[[G93.5]]**)_
-> - **Tonsillar herniation** _(cerebellar tonsils displaced downward through the foramen magnum — the Chiari malformation configuration; coded **[[G93.5]]** when acute/acquired; congenital Chiari type coded **[[Q07.00]]–[[Q07.02]]**)_
+> - **Tonsillar herniation** _(cerebellar tonsils displaced downward through the foramen magnum — the Chiari malformation configuration; coded **[[G93.5]]** when acute/acquired; congenital Chiari type coded **[[Q07.00]]-[[Q07.02]]**)_
 
 _____
 
@@ -83,7 +83,7 @@ _____
 > - **[[Radiculopathy]]** — nerve root compression or irritation — the most common neurological consequence of disc **herniation**; produces dermatomal pain, paresthesia, and weakness in the extremity supplied by the affected root; coded M50.1x (**cervical**) or M51.1x (**lumbar/thoracic**)
 > - **[[Myelopathy]]** — spinal cord compression — a more severe consequence of central disc **herniation**, producing bilateral **weakness**, gait disturbance, and **bowel/bladder dysfunction**; coded M50.0x (**cervical**) or M51.0x (**lumbar**); spinal cord symptoms drive a higher level of surgical urgency
 > - **Cauda equina syndrome** — emergency compression of the cauda equina nerve roots by a massive central lumbar disc **herniation**; presents with bilateral leg **weakness**, saddle anesthesia, and **bowel/bladder dysfunction**; coded **[[G83.4]]**; a direct surgical emergency that overrides conservative management
-> - **[[Sciatica]]** — lumbar radicular pain radiating down the posterior leg in the **L4–S1** distribution; the most common clinical presentation of lumbar disc **herniation**; coded M54.4x by laterality when documented as **sciatica** NOS — but when disc **herniation** is confirmed as the cause, **M51.16/M51.17** with **radiculopathy** is preferred per **ICD-10-CM** Excludes1 instruction
+> - **[[Sciatica]]** — lumbar radicular pain radiating down the posterior leg in the **L4-S1** distribution; the most common clinical presentation of lumbar disc **herniation**; coded M54.4x by laterality when documented as **sciatica** NOS — but when disc **herniation** is confirmed as the cause, **M51.16/M51.17** with **radiculopathy** is preferred per **ICD-10-CM** Excludes1 instruction
 > - **Degenerative disc disease (DDD)** — chronic progressive degeneration of the intervertebral disc that predisposes to **herniation**; coded M50.3x (**cervical**) or M51.3x (**thoracolumbar/lumbar**); distinguish from acute herniation because treatment pathways and coding differ
 > - **Herniorrhaphy** — surgical repair of a hernia by suture closure of the fascial defect; shares the *[[herni-]]* root; the foundational procedure for abdominal wall **herniation** prior to the era of mesh repair
 > - **[[Hernioplasty]]** — surgical repair of a hernia augmented with mesh prosthesis; now the dominant technique for inguinal and incisional hernia repair; improved recurrence rates compared to **herniorrhaphy** alone
@@ -104,9 +104,9 @@ _____
 > |M50|Cervical intervertebral disc disorders — **parent/header code, NOT billable**|
 > |M50.0|Cervical disc disorder with myelopathy — **subcategory, NOT billable** (requires 6th character for level)|
 > |**[[M50.00]]**|Cervical disc disorder with myelopathy, unspecified cervical region|
-> |**[[M50.01]]**|Cervical disc disorder with myelopathy, high cervical region (C2–3, C3–4)|
-> |**[[M50.02]]**|Cervical disc disorder with myelopathy, mid-cervical region, unspecified level (C4–5, C5–6, C6–7)|
-> |**[[M50.03]]**|Cervical disc disorder with myelopathy, cervicothoracic region (C7–T1)|
+> |**[[M50.01]]**|Cervical disc disorder with myelopathy, high cervical region (C2-3, C3-4)|
+> |**[[M50.02]]**|Cervical disc disorder with myelopathy, mid-cervical region, unspecified level (C4-5, C5-6, C6-7)|
+> |**[[M50.03]]**|Cervical disc disorder with myelopathy, cervicothoracic region (C7-T1)|
 > |M50.1|Cervical disc disorder with radiculopathy — **subcategory, NOT billable** (requires 6th character)|
 > |**[[M50.10]]**|Cervical disc disorder with radiculopathy, unspecified cervical region|
 > |**[[M50.11]]**|Cervical disc disorder with radiculopathy, high cervical region|
@@ -128,7 +128,7 @@ _____
 > |**[[M51.14]]**|Intervertebral disc disorders with radiculopathy, thoracic region|
 > |**[[M51.15]]**|Intervertebral disc disorders with radiculopathy, thoracolumbar region|
 > |**[[M51.16]]**|Intervertebral disc disorders with radiculopathy, lumbar region (most commonly coded lumbar disc herniation with nerve root compression)|
-> |**[[M51.17]]**|Intervertebral disc disorders with radiculopathy, lumbosacral region (L5–S1 disc herniation)|
+> |**[[M51.17]]**|Intervertebral disc disorders with radiculopathy, lumbosacral region (L5-S1 disc herniation)|
 > |**[[M51.26]]**|Other intervertebral disc displacement (herniation), lumbar region — disc herniation without myelopathy or radiculopathy|
 > |**[[M51.27]]**|Other intervertebral disc displacement (herniation), lumbosacral region|
 >
@@ -212,7 +212,7 @@ _____
 >
 > ---
 >
-> > ⚠️ **Coding Note:** On inpatient profee, disc herniation coding lives or dies on **two axes: region AND neurological consequence** — an MRI report saying "**disc herniation at L4–5 with nerve root compression**" should drive you to **[[M51.16]]** (**radiculopathy, lumbar**) rather than **[[M51.26]]** (**disc displacement without neurological symptoms**), and the provider's clinical documentation must support whichever code you select; query when the op note describes nerve root decompression but the assessment only says "**lumbar disc herniation**" without specifying **[[radiculopathy]]**. The single most commonly miscoded scenario on disc **herniation** profee claims is **M54.4x (sciatica) vs. [[M51.16]] (disc disorder with radiculopathy)** — per **ICD-10-CM** Excludes1 instructions under **M51.1**, lumbar **[[radiculitis]]** NOS and **sciatica** NOS are mutually exclusive with **M51.16/M51.17**; when a confirmed disc **herniation** is the documented cause of the radicular symptoms, **[[M51.16]]** / **[[M51.17]]** is always correct and M54.4x is excluded — this distinction matters significantly for DRG weight and medical necessity on inpatient claims. For abdominal hernia coding, **obstruction/gangrene status + laterality + recurrence** are your three mandatory axes for every inguinal hernia code — "inguinal hernia" alone is never enough; if the operative report or attending note does not specify laterality and reducibility status, that is an immediate query trigger. For ventral/incisional hernia **CPT code** selection (**[[49591]]–[[49618]] range**), **defect size in centimeters** is the primary driver and must appear in the operative note — if it is not documented, the claim will likely default to the lowest-weighted code or be denied; add modifier **[[-22]]** only when the complexity is substantially greater than typical and the operative note supports it with narrative detail.
+> > ⚠️ **Coding Note:** On inpatient profee, disc herniation coding lives or dies on **two axes: region AND neurological consequence** — an MRI report saying "**disc herniation at L4-5 with nerve root compression**" should drive you to **[[M51.16]]** (**radiculopathy, lumbar**) rather than **[[M51.26]]** (**disc displacement without neurological symptoms**), and the provider's clinical documentation must support whichever code you select; query when the op note describes nerve root decompression but the assessment only says "**lumbar disc herniation**" without specifying **[[radiculopathy]]**. The single most commonly miscoded scenario on disc **herniation** profee claims is **M54.4x (sciatica) vs. [[M51.16]] (disc disorder with radiculopathy)** — per **ICD-10-CM** Excludes1 instructions under **M51.1**, lumbar **[[radiculitis]]** NOS and **sciatica** NOS are mutually exclusive with **M51.16/M51.17**; when a confirmed disc **herniation** is the documented cause of the radicular symptoms, **[[M51.16]]** / **[[M51.17]]** is always correct and M54.4x is excluded — this distinction matters significantly for DRG weight and medical necessity on inpatient claims. For abdominal hernia coding, **obstruction/gangrene status + laterality + recurrence** are your three mandatory axes for every inguinal hernia code — "inguinal hernia" alone is never enough; if the operative report or attending note does not specify laterality and reducibility status, that is an immediate query trigger. For ventral/incisional hernia **CPT code** selection (**[[49591]]-[[49618]] range**), **defect size in centimeters** is the primary driver and must appear in the operative note — if it is not documented, the claim will likely default to the lowest-weighted code or be denied; add modifier **[[-22]]** only when the complexity is substantially greater than typical and the operative note supports it with narrative detail.
 
 _____
 
