@@ -18,10 +18,10 @@ My Medical coding hub is for the specialties that I code for my employer. These 
 - [[Facility E&M Quick Guide]]
 - [[Status Indicators Quick Reference]]
 - [[UB‑04 Field Reference]]
-- [[30 Anatomy & Path/Med terms dictionary/med terms]]
-- [[30 Anatomy & Path/Med terms dictionary/Med roots]]
-- [[50 Medical Coding/CPT Codes]]
-- [[50 Medical Coding/ICD-10 Codes]]
+- [[Medicare Claims Processing Manual]]
+- [[Complications and Comorbidities]]
+- [[Anatomy and Physiology in Medical Coding]]
+- [[List of Medical Terminology Modifiers & Medical Decision Making Levels]]
 
 ### Coding Rules & Guides
 - [[Inpatient E&M Codes]]
@@ -34,11 +34,11 @@ My Medical coding hub is for the specialties that I code for my employer. These 
 # ⚕️ Practice & Scenarios
 >
 ### Coding Practice
-- [[10 Coding Scenarios]]
+- [[Otolaryngology Practice Coding Scenarios]]
 - [[Practice Case 1 - {{Urology}}]]
 - [[Practice Case 2 - {{Urology}}]]
 - [[Practice Cases 4-6 - {{Urology}}]]
-- [[Facility E&M Quick Guide]]
+- [[CPT 99255 Template]]
 
 
 ### Audit Practice
@@ -59,7 +59,7 @@ My Medical coding hub is for the specialties that I code for my employer. These 
 
 ### High‑Yield Topics
 - [[PCS Body Part Index]]  
-- [[Facility Billing Handbook]]
+- [[Normal Reference Laboratory Values _ Taber's Medical Dictionary.pdf]]
 - [[Spinal Procedures]]  
 - [[00 PM&R Coding MOC]] 
 
