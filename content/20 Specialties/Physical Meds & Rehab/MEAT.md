@@ -116,7 +116,7 @@ Documentation that supports **Treat** for a paralyzed patient:
 - Physical therapy, occupational therapy, or speech therapy orders
 - Pressure-redistributing mattress or specialty bed orders
 - Bracing, splinting, or positioning orders
-- Referrals to rehab medicine, neurology, or [[urology]] during the stay
+- Referrals to rehab medicine, neurology, or [[Urology]] during the stay
 
 ---
 

@@ -9,7 +9,7 @@ tags:
   - profee
   - LAKA
   - BAKA
-title: Amputee Care – PMR Inpatient Coding Reference
+title: Amputee Care - PMR Inpatient Coding Reference
 specialty: Physical Medicine and Rehabilitation
 topic: Amputation and Residual Limb Management
 created: 2026-04-29
@@ -25,11 +25,11 @@ gmlos_drg946: 7.4
 gmlos_drg559: 4.9
 gmlos_drg560: 3.6
 gmlos_drg561: 2.3
-coder_note: Inpatient profee reference – MCW Inpatient Abstraction Team
+coder_note: Inpatient profee reference - MCW Inpatient Abstraction Team
 hcc_note: Z89 status codes are non-HCC; underlying etiology codes carry HCC weight
 ---
 
-# Amputee Care – PMR Inpatient Coding Reference
+# Amputee Care - PMR Inpatient Coding Reference
 
 ---
 
@@ -41,7 +41,7 @@ hcc_note: Z89 status codes are non-HCC; underlying etiology codes carry HCC weig
 
 Understanding these phases helps you recognize what services are being documented and what codes are appropriate for each encounter.
 
-**Phase 1 – Pre-Prosthetic / Acute Post-Op**
+**Phase 1 - Pre-Prosthetic / Acute Post-Op**
 The residual limb (also called the *stump* in older documentation; modern terminology prefers *residual limb*) is healing. The PMR team focuses on:
 - Wound care and stump shaping (**compression wrapping, shrinker socks**)
 - Edema management
@@ -49,13 +49,13 @@ The residual limb (also called the *stump* in older documentation; modern termin
 - Contracture prevention (**e.g., keeping the hip extended after above-knee amputation**)
 - Pain management including phantom limb pain
 
-**Phase 2 – Prosthetic Fitting**
-Once the residual limb volume has stabilized (**usually 6–8 weeks post-op**), the patient is fit for a prosthesis by a prosthetist. The PMR physician prescribes the prosthesis.
+**Phase 2 - Prosthetic Fitting**
+Once the residual limb volume has stabilized (**usually 6-8 weeks post-op**), the patient is fit for a prosthesis by a prosthetist. The PMR physician prescribes the prosthesis.
 
-**Phase 3 – Prosthetic Training**
+**Phase 3 - Prosthetic Training**
 The patient learns to don/doff the **prosthesis**, perform weight-bearing, and progress to ambulation or upper extremity function. This is often when inpatient rehab admission occurs.
 
-**Phase 4 – Community Reintegration**
+**Phase 4 - Community Reintegration**
 Outpatient therapy, advanced gait training, return to **work/ADLs**.
 
 > [!tip]
@@ -63,9 +63,9 @@ Outpatient therapy, advanced gait training, return to **work/ADLs**.
 
 ---
 
-## 🔑 Principal Diagnosis Selection – Inpatient PMR Amputee
+## 🔑 Principal Diagnosis Selection - Inpatient PMR Amputee
 
-### Z47.81 – Encounter for Orthopedic Aftercare Following Surgical Amputation
+### Z47.81 - Encounter for Orthopedic Aftercare Following Surgical Amputation
 
 > **This is your go-to principal diagnosis for a patient admitted to inpatient PMR following amputation surgery.**
 
@@ -87,7 +87,7 @@ Outpatient therapy, advanced gait training, return to **work/ADLs**.
 
 ---
 
-### Z89 – Acquired Absence of Limb
+### Z89 - Acquired Absence of Limb
 
 > **The Z89 category captures the patient's amputation status.** These are NOT used as the principal diagnosis during a rehab admission — they are *additional diagnoses* that tell the payer exactly which limb was amputated and at what level. **Laterality and level matter enormously — always code to the highest specificity available in the documentation.**
 
@@ -172,14 +172,14 @@ Outpatient therapy, advanced gait training, return to **work/ADLs**.
 
 #### Lower Extremity Absence
 
-##### Toe(s) – Great Toe
+##### Toe(s) - Great Toe
 | Code        | Description                               | Billable |
 | ----------- | ----------------------------------------- | -------- |
 | **[[Z89.411]]** | Acquired absence of right great toe       | ✅        |
 | **[[Z89.412]]** | Acquired absence of left great toe        | ✅        |
 | **[[Z89.419]]** | Acquired absence of unspecified great toe | ✅        |
 
-##### Toe(s) – Other Than Great Toe
+##### Toe(s) - Other Than Great Toe
 | Code        | Description                                  | Billable |
 | ----------- | -------------------------------------------- | -------- |
 | **[[Z89.421]]** | Acquired absence of other right toe(s)       | ✅        |
@@ -199,7 +199,7 @@ Outpatient therapy, advanced gait training, return to **work/ADLs**.
 > [!NOTE]
  > **Level clarification:** Syme's amputation (**ankle disarticulation with heel pad preservation**), Chopart (**midfoot**), Lisfranc (**tarsometatarsal**), and transmetatarsal amputations all fall under Z89.43x. The documentation will often specify the procedure name — you just need the anatomical result.
 
-##### Ankle Joint – Following Prosthesis Explantation
+##### Ankle Joint - Following Prosthesis Explantation
 | Code            | Description                                                                                  | Billable |
 | --------------- | -------------------------------------------------------------------------------------------- | -------- |
 | **[[Z89.441]]** | Acquired absence of right ankle joint following explantation of ankle joint prosthesis       | ✅        |
@@ -260,7 +260,7 @@ Outpatient therapy, advanced gait training, return to **work/ADLs**.
 
 ---
 
-### T87 – Complications Peculiar to Amputation Stumps
+### T87 - Complications Peculiar to Amputation Stumps
 
 > **When a patient is admitted specifically because of a complication of their residual limb** — wound infection, necrosis, dehiscence, neuroma, or phantom pain — the T87 code becomes relevant and may serve as principal diagnosis or a significant secondary diagnosis. These codes capture the problem *with* the residual limb, not the **amputation** status itself. Always pair with the applicable Z89.xxx code to show what limb is affected.
 
@@ -317,7 +317,7 @@ Dehiscence = the surgical wound has separated/opened. This is distinct from infe
 
 ---
 
-### G54 – Phantom Limb Syndrome
+### G54 - Phantom Limb Syndrome
 
 > **Phantom limb sensation** is extremely common post-amputation — the brain still perceives signals from the missing limb. **Phantom limb *pain*** is the pathological, often debilitating version where the patient experiences burning, shooting, or cramping pain in the absent limb. This is managed by the PMR physician and must be documented explicitly to code.
 
@@ -333,7 +333,7 @@ Dehiscence = the surgical wound has separated/opened. This is distinct from infe
 
 ---
 
-### Z47.81 – Aftercare Following Surgical Amputation (Revisited)
+### Z47.81 - Aftercare Following Surgical Amputation (Revisited)
 
 | Code | Description | Billable |
 |------|-------------|----------|
@@ -345,7 +345,7 @@ Dehiscence = the surgical wound has separated/opened. This is distinct from infe
 
 ---
 
-### Common Underlying Etiologies (Additional Diagnoses) – HCC-Relevant
+### Common Underlying Etiologies (Additional Diagnoses) - HCC-Relevant
 
 > Always capture the underlying condition that caused the amputation. These conditions *do* carry HCC weight and are critical for accurate risk adjustment and medical necessity documentation.
 
@@ -369,7 +369,7 @@ Dehiscence = the surgical wound has separated/opened. This is distinct from infe
 
 ---
 
-## 🩺 CPT Codes – PMR Physician Professional Fee Billing
+## 🩺 CPT Codes - PMR Physician Professional Fee Billing
 
 > **In inpatient PMR**, the physician bills E/M codes for daily visits. Therapy services (**PT, OT, SLP**) are typically billed by the therapists under their own NPIs. The PMR physician may also bill for prosthetic evaluation/training and wound assessment procedures if personally performed.
 
@@ -444,7 +444,7 @@ Dehiscence = the surgical wound has separated/opened. This is distinct from infe
 
 ---
 
-## 🏷️ Modifiers – Amputee PMR Coding
+## 🏷️ Modifiers - Amputee PMR Coding
 
 | Modifier | Name | When to Use in PMR Amputee |
 |----------|------|---------------------------|
@@ -460,7 +460,7 @@ Dehiscence = the surgical wound has separated/opened. This is distinct from infe
 | **[[-50]]** | Bilateral procedure | When the same procedure is performed bilaterally in the same operative session (e.g., bilateral residual limb wound care). |
 
 > [!NOTE]
-> **Modifier AI in depth:** Medicare eliminated consultation codes in 2010. The PMR physician who *admits and manages* the patient in inpatient rehab uses the initial hospital care codes (**[[99221]]**–**[[99223]]**) with modifier **AI**. A specialist called in to *consult* during the PMR admission uses the same E/M range **without** modifier AI. The AI modifier signals that this physician is the primary responsible provider.
+> **Modifier AI in depth:** Medicare eliminated consultation codes in 2010. The PMR physician who *admits and manages* the patient in inpatient rehab uses the initial hospital care codes (**[[99221]]**-**[[99223]]**) with modifier **AI**. A specialist called in to *consult* during the PMR admission uses the same E/M range **without** modifier AI. The AI modifier signals that this physician is the primary responsible provider.
 
 ---
 
@@ -494,7 +494,7 @@ Dehiscence = the surgical wound has separated/opened. This is distinct from infe
 
 ---
 
-## 🧠 HCC Mapping – Amputee-Related Diagnoses (CMS-HCC v28)
+## 🧠 HCC Mapping - Amputee-Related Diagnoses (CMS-HCC v28)
 
 | Code        | Condition                                        | HCC Category | Clinical Importance                             |
 | ----------- | ------------------------------------------------ | ------------ | ----------------------------------------------- |
@@ -513,12 +513,12 @@ Dehiscence = the surgical wound has separated/opened. This is distinct from infe
 
 ---
 
-## 🔩 ICD-10-PCS Reference – Inpatient Rehabilitation Procedures
+## 🔩 ICD-10-PCS Reference - Inpatient Rehabilitation Procedures
 
 > In the inpatient setting, the facility codes **ICD-10-PCS** for procedures. For PMR amputee rehab, Section **F** (**Physical Rehabilitation and Diagnostic Audiology**) is the primary section. These PCS codes represent the *therapeutic services* the patient receives during the admission, not the surgical amputation (**which was done on a prior admission**).
 
-**Section F – Physical Rehabilitation and Diagnostic Audiology**
-**Root Operation 07 – Treatment**
+**Section F - Physical Rehabilitation and Diagnostic Audiology**
+**Root Operation 07 - Treatment**
 
 > The 7 characters of a PCS rehab code are: **Section** | **Section Qualifier** | **Root Type** | **Body System & Region** | **Type Qualifier** | **Equipment** | **Qualifier**
 
@@ -676,7 +676,7 @@ A 62-year-old male underwent right hip disarticulation for soft tissue sarcoma o
 
 ---
 
-## ⚠️ Common Coding Pitfalls – PMR Amputee
+## ⚠️ Common Coding Pitfalls - PMR Amputee
 
 1. **Failing to capture laterality** — **[[Z89.519]]** (**unspecified**) is almost never appropriate when the chart clearly documents right or left. Always code to the highest specificity.
 
@@ -714,7 +714,7 @@ A 62-year-old male underwent right hip disarticulation for soft tissue sarcoma o
 - Diabetes Mellitus Coding Reference
 - Peripheral Vascular Disease Coding Reference
 - Wound Care and Debridement CPT Reference
-- Modifier Reference – Inpatient Profee
+- Modifier Reference - Inpatient Profee
 
 ---
 

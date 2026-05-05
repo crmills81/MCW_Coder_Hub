@@ -24,9 +24,9 @@ date_created: 2026-03-10
 
 The larynx is divided into three zones, and zone specificity is required for [[neoplasm]] coding under category [[C32. A]] lesion that does not clearly fall within a single zone defaults to [[C32.8]] (**overlapping**) or [[C32.9]] (**unspecified**) — resist the urge to assign a specific zone code without clear documentation.
 
-**[[Supraglottis]] (C32.1)** extends from the tip of the epiglottis down to (**but not including**) the true vocal cords. Its subsites are the epiglottis (**both the suprahyoid and infrahyoid portions**), the aryepiglottic folds (**laryngeal surface**), the arytenoid cartilages, and the false vocal cords (**ventricular bands**). The [[supraglottis]] has rich lymphatic drainage, which is why supraglottic carcinomas often present with nodal disease.
+**[[supraglottis]] (C32.1)** extends from the tip of the epiglottis down to (**but not including**) the true vocal cords. Its subsites are the epiglottis (**both the suprahyoid and infrahyoid portions**), the aryepiglottic folds (**laryngeal surface**), the arytenoid cartilages, and the false vocal cords (**ventricular bands**). The [[supraglottis]] has rich lymphatic drainage, which is why supraglottic carcinomas often present with nodal disease.
 
-**[[Glottis]] (C32.0)** includes the true vocal cords, the anterior commissure, and the posterior commissure. It has poor lymphatic drainage — a clinically important fact because glottic [[carcinomas]] tend to stay localized longer, improving prognosis. For coding, "**glottic**" and "**vocal cor**d" are generally synonymous unless the provider specifies a subglottic or supraglottic extension.
+**[[glottis]] (C32.0)** includes the true vocal cords, the anterior commissure, and the posterior commissure. It has poor lymphatic drainage — a clinically important fact because glottic [[carcinomas]] tend to stay localized longer, improving prognosis. For coding, "**glottic**" and "**vocal cor**d" are generally synonymous unless the provider specifies a subglottic or supraglottic extension.
 
 **[[Subglottis]] (C32.2)** begins approximately 5 mm below the free margin of the true vocal cords and extends to the inferior border of the cricoid cartilage. Subglottic primaries are the least common of the three and carry a poorer prognosis due to delayed presentation.
 
@@ -341,8 +341,8 @@ Mirrors arterial supply — superior laryngeal veins drain to the internal jugul
 
 | Subsite          | Lymphatic Drainage                                                                                            | Clinical Implication                                                    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| **[[Supraglottis]]** | Bilateral to levels II, III (upper and mid jugular chain) via the [[preepiglottic]] space and thyrohyoid membrane | High nodal metastasis rate; bilateral neck dissection often required    |
-| **[[Glottis]]**      | Sparse intrinsic lymphatics; minimal drainage to levels II-IV                                                 | Low N0→N+ conversion rate for early glottic cancer                      |
+| **[[supraglottis]]** | Bilateral to levels II, III (upper and mid jugular chain) via the [[preepiglottic]] space and thyrohyoid membrane | High nodal metastasis rate; bilateral neck dissection often required    |
+| **[[glottis]]**      | Sparse intrinsic lymphatics; minimal drainage to levels II-IV                                                 | Low N0→N+ conversion rate for early glottic cancer                      |
 | **[[Subglottis]]**   | To levels III, IV, VI (paratracheal/pretracheal nodes)                                                        | Subglottic tumors can spread to the central compartment and mediastinum |
 
 >[!tip]  **Coding relevance:** 

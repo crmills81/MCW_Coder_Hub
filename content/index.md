@@ -3,10 +3,10 @@ title: 🌟 Yay, MEDICAL CODING!!! 🌟
 last_updated: 2026-04-12
 ---
 
-# 🧬 Medical Coding Dashboard
+# 💉 Medical Coding Dashboard
 >
 ## 🎯 Purpose
-My Medical coding hub is for the specialties that I code for my employer. These specialties are **[[Ophthalmology]]**, **Urology**, **Physical Medicine & Rehabilitation** and **[[Otolaryngology]]**. Bare with me if you're someone other than me, the creator, visiting. This is a constantly growing environment so fixing the broken links will happen slowly but will eventually happen. Anyone who's also a coder already knows this might take a long time lolol... 🤓👍🏽
+My medical coding hub is for the specialties that I code for my employer. These specialties are **[[Ophthalmology]]**, **[[Urology]]**, **[[Physical Medicine & Rehabilitation]],** and **[[Otolaryngology]]**. Bare with me if you're someone other than me, the creator, visiting. This is a constantly growing environment so fixing the broken links will happen slowly but will eventually happen. Anyone who's also a coder already knows this might take a long time lolol... 🤓👍🏽
 
 ---
 
@@ -31,7 +31,7 @@ My Medical coding hub is for the specialties that I code for my employer. These 
 
 ---
 
-# ⚕️ Practice & Scenarios
+# 🩹 Practice & Scenarios
 >
 ### Coding Practice
 - [[Otolaryngology Practice Coding Scenarios]]
@@ -49,19 +49,19 @@ My Medical coding hub is for the specialties that I code for my employer. These 
 
 ---
 
-# 😬 CIC Exam Prep
+# 🧬 CIC Exam Prep
 >
 ### CIC Study Tools
 - [[CIC Study Plan]]
-- [[Root Operations]]
 - [[Comprehensive Study Guide and Briefing for the AAPC CIC Certification Exam]]
+- [[Root Operations]]
 - [[Mastering Inpatient Coding for CIC]]
 
 ### High‑Yield Topics
 - [[PCS Body Part Index]]  
-- [[Normal Reference Laboratory Values _ Taber's Medical Dictionary.pdf]]
+- [[Normal Reference Laboratory Values]]
 - [[Spinal Procedures]]  
-- [[00 PM&R Coding MOC]] 
+- [[MEAT]] 
 
 ---
 
@@ -72,4 +72,4 @@ My Medical coding hub is for the specialties that I code for my employer. These 
 
 <br>
 
-<font color="#7f7f7f"> 🆒 Some ICD-10 CM codes may be the root code without the "**suffix**" end characters. **ALWAYS** verify codes and guidelines with current code books, encoder tools, and payer policies before use. 🆒 </font>
+🚑 <font color="#7f7f7f">  Some ICD-10 CM codes may be the root code without the "**suffix**" end characters. **ALWAYS** verify codes and guidelines with current code books, encoder tools, and payer policies before use.  </font> 🏥

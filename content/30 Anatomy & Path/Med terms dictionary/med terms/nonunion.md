@@ -148,9 +148,9 @@ _____
 >
 > | HCPCS Code | Description |
 > |---|---|
-> | **[[E0747]]** | Osteogenesis stimulator; electrical, noninvasive, other than spinal applications _(DME code for the external electrical bone stimulator device; report in addition to **[[20974]]** when billing the device supply separately)_ |
-> | **[[E0748]]** | Osteogenesis stimulator; electrical, noninvasive, spinal applications _(For spinal pseudarthrosis/failed fusion context — use with **[[M96.0]]** as the supporting diagnosis)_ |
-> | **[[E0749]]** | Osteogenesis stimulator; electrical, surgically implanted _(DME code for implanted stimulator device; report with **[[20975]]** for the surgical placement procedure)_ |
+> | **E0747** | Osteogenesis stimulator; electrical, noninvasive, other than spinal applications _(DME code for the external electrical bone stimulator device; report in addition to **[[20974]]** when billing the device supply separately)_ |
+> | **E0748** | Osteogenesis stimulator; electrical, noninvasive, spinal applications _(For spinal pseudarthrosis/failed fusion context — use with **[[M96.0]]** as the supporting diagnosis)_ |
+> | **E0749** | Osteogenesis stimulator; electrical, surgically implanted _(DME code for implanted stimulator device; report with **[[20975]]** for the surgical placement procedure)_ |
 >
 > #### **Modifiers Commonly Used**
 >
@@ -160,7 +160,7 @@ _____
 > | **[[-79]]** | Unrelated procedure or service by the same physician during the postoperative period — Append when treating nonunion at a **separate, unrelated fracture site** during another fracture's global period |
 > | **[[-22]]** | Increased procedural services — Append to the primary nonunion repair code when the procedure is substantially more complex than typical (e.g., extensive adhesion lysis, scarring from prior hardware, vascularized graft required); must be supported by a detailed operative note with specific documentation of the increased complexity |
 > | **[[-51]]** | Multiple procedures — Append to secondary procedures when multiple anatomical nonunion sites are repaired at the same operative session (e.g., radius AND ulna each coded individually at the same encounter) |
-> | **[[-RT / -LT]]** | Right side / Left side — Append laterality modifiers to all nonunion repair codes when applicable for right vs. left extremity identification |
+> | **[[-RT]] / [[-LT]]** | Right side / Left side — Append laterality modifiers to all nonunion repair codes when applicable for right vs. left extremity identification |
 >
 > ---
 >

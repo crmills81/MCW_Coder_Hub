@@ -99,7 +99,7 @@ _____
 > >Werner Forssmann (1929) self‑inserted first cardiac cath, proving safety.
 > 
 > **One‑Sentence Summary**  
-> **Catheter** (Greek *kathetēr* “let down”), a versatile thin tube (e.g., Foley urinary A4351-3 HCPCS, cardiac via 9345x CPT), enables drainage/infusion/access across [[urology]] (5170x CPT), cardiology, and beyond, with infection risks mitigated by aseptic protocols.
+> **Catheter** (Greek *kathetēr* “let down”), a versatile thin tube (e.g., Foley urinary A4351-3 HCPCS, cardiac via 9345x CPT), enables drainage/infusion/access across [[Urology]] (5170x CPT), cardiology, and beyond, with infection risks mitigated by aseptic protocols.
 ____
 >[!tip]- DERIVATIONS of [[catheter]]
 >```dataview

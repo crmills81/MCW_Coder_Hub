@@ -1,11 +1,4 @@
 ---
-title: Otolaryngology Practice Coding Scenarios
-aliases:
-  - ENT Coding Scenarios
-  - Otolaryngology Case Studies
-  - ENT Coding Practice
-  - ENT CPT ICD-10 Scenarios
-  - Otolaryngology Coding Exercises
 tags:
   - CPT
   - ICD-10-CM
@@ -21,6 +14,13 @@ tags:
   - tonsil
   - septum
   - endoscopy
+title: Otolaryngology Practice Coding Scenarios
+aliases:
+  - ENT Coding Scenarios
+  - Otolaryngology Case Studies
+  - ENT Coding Practice
+  - ENT CPT ICD-10 Scenarios
+  - Otolaryngology Coding Exercises
 note_type: coding-scenarios
 specialty: Otolaryngology
 status: active
