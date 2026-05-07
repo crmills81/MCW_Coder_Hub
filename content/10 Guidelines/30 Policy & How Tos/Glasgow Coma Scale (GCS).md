@@ -154,7 +154,7 @@ While **GCS itself is not a CPT service**, it has important downstream impact on
 
 
 
-[[Traumatic Brain Injury (TBI)]]
+[[TBI vs Non-Traumatic Injury (NTBI)]]
 
 
 

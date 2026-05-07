@@ -272,9 +272,6 @@ IRF-PAI Strategy:
 ## 🔗 Related Vault Notes
 - [[CMS MS-DRG Definitions Manual v42.0]]
 - [[ICD-10-CM Official Guidelines FY 2025]]
-- [[PMR Inpatient Coding Cheat Sheet]]
-- [[Clinical Validation Query Templates for Rehab]]
-- [[IRF 60% Rule Compliance Checklist]]
 
 ---
 

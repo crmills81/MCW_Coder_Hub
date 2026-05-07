@@ -49,7 +49,7 @@ _____
 > - **Urological / Urologic** _(adjective form — appears clinically as "urological consultation," "urologic oncology," "urologic surgery")_
 > - **GU Surgery / GU Medicine** _(common clinical shorthand; "GU" = genitourinary — used on consult orders, operative schedules, and coding documentation)_
 > - **Genitourinary Surgery** _(formal synonym for the surgical subspecialty component; coded separately depending on procedure performed)_
-> - **Endourology** _(subspecialty of urology focused on minimally invasive, intraluminal procedures — e.g., ureteroscopy, PCNL, cystoscopy; codes fall within the 50000–53999 CPT range)_
+> - **Endourology** _(subspecialty of urology focused on minimally invasive, intraluminal procedures — e.g., ureteroscopy, PCNL, cystoscopy; codes fall within the 50000-53999 CPT range)_
 > - **Urologic Oncology** _(subspecialty focused on malignancies of the bladder [[C67.9]], kidney [[C64.9]], prostate [[C61]], and testes [[C62.90]]; drives many inpatient surgical admissions)_
 > - **[[Neurourology]]** _(subspecialty addressing bladder and voiding dysfunction secondary to neurological conditions — e.g., neurogenic bladder [[N31.9]], spinal cord injury, MS)_
 > - **Pediatric Urology** _(management of congenital and acquired urologic conditions in children — e.g., hypospadias [[Q54.9]], vesicoureteral reflux [[N13.70]])_
@@ -62,15 +62,15 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
 > - **[[nephrology]]** — the *internal medicine* (**non-surgical**) specialty managing kidney disease; nephrology manages **CKD**, **AKI**, and **[[dialysis]]**, while urology manages structural/surgical renal conditions — the two are often confused but carry entirely separate provider types and CPT code sets
-> - **[[Urogynecology]]** — a dual-trained subspecialty (**OB/GYN + Urology**) focused on female pelvic floor disorders; shares coding overlap with urology in the N39.x and CPT 57xxx–58xxx range
+> - **[[Urogynecology]]** — a dual-trained subspecialty (**OB/GYN + Urology**) focused on female pelvic floor disorders; shares coding overlap with urology in the N39.x and CPT 57xxx-58xxx range
 > - **[[urinary tract infection (UTI)]]** — one of the most frequently coded urologic diagnoses; simple UTI coded as **[[N39.0]]**, but complicated UTI may require additional specificity codes
 > - **[[Nephrolithiasis]]** — kidney stone disease; one of the highest-volume urologic presentations; coded **[[N20.0]] (kidney), [[N20.1]] (ureter), [[N20.2]] (kidney with ureter**)
 > - **[[Benign prostatic hyperplasia]] (BPH)** — extremely common urologic condition coded **[[N40.0]] (without LUTS) or [[N40.1]] (with LUTS)**; one of the top inpatient urology admissions in male patients
 > - **[[Hematuria]]** — blood in urine; a cardinal urologic symptom; coded **[[R31.0]]** (**gross**), **[[R31.1]] (benign essential microscopic), [[R31.21]] (asymptomatic microscopic)**; always requires workup to rule out malignancy
 > - **[[Hydronephrosis]]** — dilation of the renal collecting system from obstruction; coded under N13.x range; distinguishing obstructive vs. nonobstructive is critical for correct code assignment
-> - **[[Cystoscopy]]** — primary endoscopic diagnostic procedure of the urology specialty; CPT codes **[[52000]]–[[52356]]** depending on complexity and intervention performed
+> - **[[Cystoscopy]]** — primary endoscopic diagnostic procedure of the urology specialty; CPT codes **[[52000]]-[[52356]]** depending on complexity and intervention performed
 > - **Prostate-Specific Antigen (PSA)** — serum biomarker used for prostate cancer screening and monitoring; lab code **[[86316]] or [[84153]]**
-> - **[[Urodynamics]]** — diagnostic testing of bladder and urethral function; CPT codes **[[51725]]–[[51797]]** depending on components performed; essential in neurourology and female urology workup
+> - **[[Urodynamics]]** — diagnostic testing of bladder and urethral function; CPT codes **[[51725]]-[[51797]]** depending on components performed; essential in neurourology and female urology workup
 > - **[[Lithotripsy]]** — **[[stone]]** destruction procedure, cornerstone of urologic stone management; ESWL coded **[[50590]]**; intracorporeal laser [[lithotripsy]] coded within **[[ureteroscopy]]** bundles
 
 _____
@@ -116,7 +116,7 @@ _____
 > |**[[N40.2]]**|Nodular prostate without lower urinary tract symptoms|
 > |**[[N40.3]]**|Nodular prostate with lower urinary tract symptoms|
 > 
-> #### Bladder Conditions (N30.x–N32.x)
+> #### Bladder Conditions (N30.x-N32.x)
 > 
 > |Code|Description|
 > |---|---|
@@ -154,7 +154,7 @@ _____
 > |**[[R31.29]]**|Other microscopic hematuria|
 > |**[[R31.9]]**|Hematuria, unspecified|
 > 
-> #### Male Reproductive — Erectile & Testicular (N40.x–N53.x)
+> #### Male Reproductive — Erectile & Testicular (N40.x-N53.x)
 > 
 > |Code|Description|
 > |---|---|
@@ -168,7 +168,7 @@ _____
 > |**[[N52.9]]**|Male erectile dysfunction, unspecified|
 > |**[[N53.12]]**|Painful ejaculation|
 > 
-> #### Urologic Malignancies (C60.x–C68.x)
+> #### Urologic Malignancies (C60.x-C68.x)
 > 
 > |Code|Description|
 > |---|---|

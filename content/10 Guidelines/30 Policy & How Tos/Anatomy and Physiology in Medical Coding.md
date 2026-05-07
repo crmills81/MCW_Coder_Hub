@@ -108,32 +108,32 @@ Certain conditions have both an underlying etiology and multiple body system man
 
 |**ICD-10-CM Chapter Range**|**Associated Body System or Disease Category**|
 |---|---|
-|**A00–B99 (Chapter 1)**|Certain Infectious and Parasitic Diseases|
-|**C00–D49 (Chapter 2)**|Neoplasms|
-|**D50–D89 (Chapter 3)**|Diseases of the Blood and Blood-Forming Organs, and Certain Disorders of the Immune Mechanism|
-|**E00–E89 (Chapter 4)**|Endocrine, Nutritional, and Metabolic Diseases|
-|**F01–F99 (Chapter 5)**|Mental, Behavioral, and Neurodevelopmental Disorders|
-|**G00–G99 (Chapter 6)**|Diseases of the Nervous System|
-|**H00–H59 (Chapter 7)**|Diseases of the Eye and Adnexa|
-|**H60–H95 (Chapter 8)**|Diseases of the Ear and Mastoid Process|
-|**I00–I99 (Chapter 9)**|Diseases of the Circulatory System|
-|**J00–J99 (Chapter 10)**|Diseases of the Respiratory System|
-|**K00–K95 (Chapter 11)**|Diseases of the Digestive System|
-|**L00–L99 (Chapter 12)**|Diseases of the Skin and Subcutaneous Tissue|
-|**M00–M99 (Chapter 13)**|Diseases of the Musculoskeletal System and Connective Tissue|
-|**N00–N99 (Chapter 14)**|Diseases of the Genitourinary System|
+|**A00-B99 (Chapter 1)**|Certain Infectious and Parasitic Diseases|
+|**C00-D49 (Chapter 2)**|Neoplasms|
+|**D50-D89 (Chapter 3)**|Diseases of the Blood and Blood-Forming Organs, and Certain Disorders of the Immune Mechanism|
+|**E00-E89 (Chapter 4)**|Endocrine, Nutritional, and Metabolic Diseases|
+|**F01-F99 (Chapter 5)**|Mental, Behavioral, and Neurodevelopmental Disorders|
+|**G00-G99 (Chapter 6)**|Diseases of the Nervous System|
+|**H00-H59 (Chapter 7)**|Diseases of the Eye and Adnexa|
+|**H60-H95 (Chapter 8)**|Diseases of the Ear and Mastoid Process|
+|**I00-I99 (Chapter 9)**|Diseases of the Circulatory System|
+|**J00-J99 (Chapter 10)**|Diseases of the Respiratory System|
+|**K00-K95 (Chapter 11)**|Diseases of the Digestive System|
+|**L00-L99 (Chapter 12)**|Diseases of the Skin and Subcutaneous Tissue|
+|**M00-M99 (Chapter 13)**|Diseases of the Musculoskeletal System and Connective Tissue|
+|**N00-N99 (Chapter 14)**|Diseases of the Genitourinary System|
 
 ### CPT Surgical Section Organization
 
-The **CPT** code set, managed by the American Medical Association (AMA), uses five-digit numeric or alphanumeric codes to designate procedures and services. Category I codes correspond to a procedure or service and range from **00100** to **99499**, ordered into sub-categories based heavily on procedure type and anatomy. Within the Surgery section (**[[10004]]–[[69990]]**), the structure progresses generally from the integumentary system down through the musculoskeletal, respiratory, cardiovascular, digestive, urinary, and reproductive systems. These categories are divided into broad procedures (such as General, Excision, or Repair) and further separated into specific code ranges designating the exact type of procedure completed and the anatomical location.
+The **CPT** code set, managed by the American Medical Association (AMA), uses five-digit numeric or alphanumeric codes to designate procedures and services. Category I codes correspond to a procedure or service and range from **00100** to **99499**, ordered into sub-categories based heavily on procedure type and anatomy. Within the Surgery section (**[[10004]]-[[69990]]**), the structure progresses generally from the integumentary system down through the musculoskeletal, respiratory, cardiovascular, digestive, urinary, and reproductive systems. These categories are divided into broad procedures (such as General, Excision, or Repair) and further separated into specific code ranges designating the exact type of procedure completed and the anatomical location.
 
 |**CPT Code Range**|**Surgical Body System Section**|
 |---|---|
-|**[[10040]]–[[19499]]**|Integumentary System (Skin, Subcutaneous Tissue, Accessory Structures, Nails, Breast)|
-|**[[20000]]–[[29999]]**|Musculoskeletal System (Neck/Thorax, Spine, Upper/Lower Extremities, Pelvis, Hip Joint)|
-|**[[30000]]–[[32999]]**|Respiratory System (Nose, Accessory Sinuses, Larynx, Trachea, Bronchi, Lungs, Pleura)|
-|**[[33010]]–[[37799]]**|Cardiovascular System (Heart & Pericardium, Arteries & Veins, Cardiac Valves)|
-|**[[38100]]–[[38999]]**|Lymphatic System (Spleen, Lymph Nodes)|
+|**[[10040]]-[[19499]]**|Integumentary System (Skin, Subcutaneous Tissue, Accessory Structures, Nails, Breast)|
+|**[[20000]]-[[29999]]**|Musculoskeletal System (Neck/Thorax, Spine, Upper/Lower Extremities, Pelvis, Hip Joint)|
+|**[[30000]]-[[32999]]**|Respiratory System (Nose, Accessory Sinuses, Larynx, Trachea, Bronchi, Lungs, Pleura)|
+|**[[33010]]-[[37799]]**|Cardiovascular System (Heart & Pericardium, Arteries & Veins, Cardiac Valves)|
+|**[[38100]]-[[38999]]**|Lymphatic System (Spleen, Lymph Nodes)|
 |**[[40000]] Series**|Digestive System Procedures|
 |**[[50000]] Series**|Urinary System, Male Genital System, Female Genital System, Maternity Care|
 |**[[60000]] Series**|Endocrine System and Nervous System Procedures|
@@ -181,9 +181,9 @@ The overarching functions of the integumentary system include protection against
 
 #### Clinical Coding Applications
 
-A profound understanding of the integumentary layers is vital for selecting CPT codes, particularly for excisions, skin grafts, and wound debridement. **Debridement** codes (**CPT [[11042]]–[[11047]]**) are assigned based strictly on the specific depth of the tissue removed and the total surface area measured in square centimeters (sq cm). For example, [[debridement]] of [[subcutaneous]] tissue corresponds to CPT **[[11042]]** for the first 20 sq cm, while **[[+11045]]** is used as an add-on code for each additional 20 sq cm. If a **debridement** extends deeper into the muscle layer—such as for a patient with gangrene—the coder must assign **[[11043]]** for the primary area and **[[+11046]]** for additional areas. In severe cases, such as a foot ulcer requiring **[[debridement]]** down to the bone, the coder utilizes **[[11044]]** and **[[+11047]]**. The mathematical combination of surface areas from different anatomical sites is a common challenge that requires precise reading of the operative report.
+A profound understanding of the integumentary layers is vital for selecting CPT codes, particularly for excisions, skin grafts, and wound debridement. **Debridement** codes (**CPT [[11042]]-[[11047]]**) are assigned based strictly on the specific depth of the tissue removed and the total surface area measured in square centimeters (sq cm). For example, [[debridement]] of [[subcutaneous]] tissue corresponds to CPT **[[11042]]** for the first 20 sq cm, while **[[+11045]]** is used as an add-on code for each additional 20 sq cm. If a **debridement** extends deeper into the muscle layer—such as for a patient with gangrene—the coder must assign **[[11043]]** for the primary area and **[[+11046]]** for additional areas. In severe cases, such as a foot ulcer requiring **[[debridement]]** down to the bone, the coder utilizes **[[11044]]** and **[[+11047]]**. The mathematical combination of surface areas from different anatomical sites is a common challenge that requires precise reading of the operative report.
 
-In the ICD-10-CM, conditions are coded based on location, severity, and the specific layer affected. Coders encounter terms like dermatitis and eczema (L20–L30), psoriasis and papulosquamous disorders (L40–L45), urticaria and erythema (L50–L54), and diseases of the hair, such as alopecia (L60–L75). Skin lesions—whether they present as macules, papules, nodules, or ulcers—require precise anatomical identification. A **[[cellulitis]]** diagnosis implies a bacterial skin infection causing redness and swelling, while a melanoma originates from the melanocytes in the epidermis. Furthermore, coders must trust the **ICD-10-CM Index**; for instance, the term "skin tag" directs the coder to **[[L91.8]]**, even though the tabular code description does not explicitly include the term "skin tag".
+In the ICD-10-CM, conditions are coded based on location, severity, and the specific layer affected. Coders encounter terms like dermatitis and eczema (L20-L30), psoriasis and papulosquamous disorders (L40-L45), urticaria and erythema (L50-L54), and diseases of the hair, such as alopecia (L60-L75). Skin lesions—whether they present as macules, papules, nodules, or ulcers—require precise anatomical identification. A **[[cellulitis]]** diagnosis implies a bacterial skin infection causing redness and swelling, while a melanoma originates from the melanocytes in the epidermis. Furthermore, coders must trust the **ICD-10-CM Index**; for instance, the term "skin tag" directs the coder to **[[L91.8]]**, even though the tabular code description does not explicitly include the term "skin tag".
 
 ### 2. The Musculoskeletal System
 
@@ -204,9 +204,9 @@ This system is composed of an intricate network of connective tissue, muscles, l
 
 #### Clinical Coding Applications
 
-Musculoskeletal coding is highly nuanced due to the vast array of bones and joints. In **ICD-10-CM (Chapter 13, M00–M99)**, conditions like osteoarthritis (M15–M19), spondylopathies (M45–M49), muscle disorders (M60–M63), and other soft tissue disorders (M70–M79) require high diagnostic specificity. For instance, a diagnosis of rheumatoid myopathy with rheumatoid arthritis maps to **[[M05.4]]**. Trauma coding demands exact anatomical precision; an injury such as a calcaneus fracture must be classified clearly. Under the highly specific **ICD-10-CM system**, a displaced intraarticular fracture of the right calcaneus, initial encounter for a closed fracture, maps to **[[S92.061A]]**.
+Musculoskeletal coding is highly nuanced due to the vast array of bones and joints. In **ICD-10-CM (Chapter 13, M00-M99)**, conditions like osteoarthritis (M15-M19), spondylopathies (M45-M49), muscle disorders (M60-M63), and other soft tissue disorders (M70-M79) require high diagnostic specificity. For instance, a diagnosis of rheumatoid myopathy with rheumatoid arthritis maps to **[[M05.4]]**. Trauma coding demands exact anatomical precision; an injury such as a calcaneus fracture must be classified clearly. Under the highly specific **ICD-10-CM system**, a displaced intraarticular fracture of the right calcaneus, initial encounter for a closed fracture, maps to **[[S92.061A]]**.
 
-In the **CPT manual (20000–29999)**, musculoskeletal procedures are categorized generally by anatomical region (**e.g., Neck, Spine, Upper Arm, Pelvis, Hip Joint**) and subsequently by the type of procedure, such as an incision, excision, or repair. Whether a coder is assigning codes for simple fracture care, complex total joint replacements, or arthroscopic tendon repairs, a detailed understanding of the system's structural geometry is vital to prevent claim denials.
+In the **CPT manual (20000-29999)**, musculoskeletal procedures are categorized generally by anatomical region (**e.g., Neck, Spine, Upper Arm, Pelvis, Hip Joint**) and subsequently by the type of procedure, such as an incision, excision, or repair. Whether a coder is assigning codes for simple fracture care, complex total joint replacements, or arthroscopic tendon repairs, a detailed understanding of the system's structural geometry is vital to prevent claim denials.
 
 ### 3. The Respiratory System
 
@@ -226,9 +226,9 @@ The system is divided into upper and lower respiratory tracts, featuring highly 
 
 #### Clinical Coding Applications
 
-Respiratory diagnoses are consolidated under I**CD-10-CM Chapter 10 (J00–J99)**. The clinical specificity required for these codes demands a solid anatomical foundation. For instance, **acute bronchitis** (J20.-) must be coded to the specific viral or bacterial agent when documented; **[[J20.0]]** indicates **[[Mycoplasma]]**, **[[J20.1]]** indicates streptococcus, and **[[J20.5]]** indicates **respiratory syncytial virus (RSV)**. Furthermore, conditions like asthma are classified by clinical severity. Intermittent asthma is clinically defined as occurring less than or equal to two times per week. Coders must also heed explicit "use additional code" instructions in this chapter to report associated tobacco exposure (**[[Z77.22]]**), tobacco dependence (F17.-), or a history of tobacco use (**[[Z87.891]]**).
+Respiratory diagnoses are consolidated under I**CD-10-CM Chapter 10 (J00-J99)**. The clinical specificity required for these codes demands a solid anatomical foundation. For instance, **acute bronchitis** (J20.-) must be coded to the specific viral or bacterial agent when documented; **[[J20.0]]** indicates **[[Mycoplasma]]**, **[[J20.1]]** indicates streptococcus, and **[[J20.5]]** indicates **respiratory syncytial virus (RSV)**. Furthermore, conditions like asthma are classified by clinical severity. Intermittent asthma is clinically defined as occurring less than or equal to two times per week. Coders must also heed explicit "use additional code" instructions in this chapter to report associated tobacco exposure (**[[Z77.22]]**), tobacco dependence (F17.-), or a history of tobacco use (**[[Z87.891]]**).
 
-Procedurally, respiratory **CPT** codes (**30000–32999**) cover surgical and diagnostic interventions progressing from the nose, accessory sinuses, and larynx down to the trachea, bronchi, lungs, and pleura. Coders must differentiate between procedures based on the depth of the airway accessed and the anatomical structures visualized. For example, a coder must distinguish the work involved in a routine intubation, a diagnostic bronchoscopy, or a therapeutic thoracentesis (**the removal of fluid from the pleural space**).
+Procedurally, respiratory **CPT** codes (**30000-32999**) cover surgical and diagnostic interventions progressing from the nose, accessory sinuses, and larynx down to the trachea, bronchi, lungs, and pleura. Coders must differentiate between procedures based on the depth of the airway accessed and the anatomical structures visualized. For example, a coder must distinguish the work involved in a routine intubation, a diagnostic bronchoscopy, or a therapeutic thoracentesis (**the removal of fluid from the pleural space**).
 
 ### 4. The Cardiovascular System
 
@@ -255,7 +255,7 @@ The heart serves as the central muscular pump, structurally divided into four di
 
 Cardiovascular conditions dominate many inpatient and outpatient medical records, making anatomical mastery imperative. Coders must identify distinct pathologies such as myocardial infarctions (MI), heart valve disorders, and arrhythmias. In ICD-10-CM, complex combination codes exist for conditions like atherosclerotic heart disease accompanied by angina pectoris; these codes require the coder to differentiate between blockages in native vessels versus blockages in a previously placed coronary bypass graft. Furthermore, coding guidelines for a myocardial infarction require a strict understanding of the healing timeframe, which is defined as 28 days. Any subsequent MI occurring within that 28-day window requires specific sequencing and code assignment.
 
-For surgical procedures (**CPT 33010–37799**), anatomical landmarks dictate code selection. The category is broadly divided into the Heart & Pericardium and Arteries & Veins, with subcategories dedicated to specific valves like the Aortic and Mitral valves. Surgical procedures such as percutaneous transluminal coronary angioplasty (**PTCA**), stent placement, coronary artery bypass grafting (**CABG**), and pacemaker insertions (**which relate directly to the SA/AV node conduction system**) rely heavily on precise anatomical documentation of the vessels and chambers involved.
+For surgical procedures (**CPT 33010-37799**), anatomical landmarks dictate code selection. The category is broadly divided into the Heart & Pericardium and Arteries & Veins, with subcategories dedicated to specific valves like the Aortic and Mitral valves. Surgical procedures such as percutaneous transluminal coronary angioplasty (**PTCA**), stent placement, coronary artery bypass grafting (**CABG**), and pacemaker insertions (**which relate directly to the SA/AV node conduction system**) rely heavily on precise anatomical documentation of the vessels and chambers involved.
 
 ### 5. The Digestive System
 
@@ -280,7 +280,7 @@ The GI tract is a continuous muscular tube extending from the mouth to the anus,
 
 #### Clinical Coding Applications
 
-**ICD-10-CM** maps digestive diseases to Chapter 11 (K00–K95). Coders encounter diagnoses ranging from upper GI issues like **gastroesophageal reflux disease (GERD)** and peptic ulcers, to lower GI and accessory conditions like Crohn's disease, **irritable bowel syndrome (IBS)**, and pancreatitis.
+**ICD-10-CM** maps digestive diseases to Chapter 11 (K00-K95). Coders encounter diagnoses ranging from upper GI issues like **gastroesophageal reflux disease (GERD)** and peptic ulcers, to lower GI and accessory conditions like Crohn's disease, **irritable bowel syndrome (IBS)**, and pancreatitis.
 
 In the CPT manual, the **40000** series is dedicated to digestive system procedures. A coder's anatomical knowledge is frequently tested when distinguishing between the extent of endoscopic procedures. For example, knowing the exact starting and ending points of an **[[esophagogastroduodenoscopy]]** (EGD) versus a colonoscopy is critical. An EGD visualizes the esophagus, stomach, and the proximal duodenum, while a colonoscopy examines the entire colon from the rectum to the cecum. Accurately coding bariatric surgeries, gastrectomies, and gallbladder removals requires a deep understanding of the surgical approach and the specific GI tract layers involved.
 
@@ -307,7 +307,7 @@ Blausen.com staff (2014). &quot;Medical gallery of Blausen Medical 2014&quot;. W
 
 #### Clinical Coding Applications
 
-Genitourinary diseases are classified in ICD-10-CM under Chapter 14 (N00–N99). Common diagnoses include **urinary tract infections (UTIs**), kidney stones (**[[nephrolithiasis]]**), renal failure, and structural abnormalities.
+Genitourinary diseases are classified in ICD-10-CM under Chapter 14 (N00-N99). Common diagnoses include **urinary tract infections (UTIs**), kidney stones (**[[nephrolithiasis]]**), renal failure, and structural abnormalities.
 
 For procedural coding, the **CPT 50000** series covers the urinary system. The specific anatomical site dictates the code selection. When coding a **[[cystoscopy]]** (**the visual examination of the bladder**), the documentation will frequently reference landmarks such as the trigone, the lateral walls, or the dome to describe the exact location of a biopsy or tumor fulguration. Coders must understand these landmarks to accurately report the size and location of bladder tumors. Similarly, procedures like **[[lithotripsy]]** (**stone crushing**) or a **[[nephrectomy]]** (**kidney removal**) require strict anatomical verification against the operative report to ensure the correct code is billed.
 
@@ -334,11 +334,11 @@ The male system focuses on the production and delivery of sperm and includes the
 
 The CPT manual divides reproductive and maternity services meticulously based on these general anatomical areas.
 
-- **Male Genital System (CPT 54000–55899):** Covers procedures on the penis, testis, epididymis, tunica vaginalis, scrotum, vas deferens, spermatic cord, seminal vesicles, and prostate. Procedures range from circumcisions to complex prostatectomies.
+- **Male Genital System (CPT 54000-55899):** Covers procedures on the penis, testis, epididymis, tunica vaginalis, scrotum, vas deferens, spermatic cord, seminal vesicles, and prostate. Procedures range from circumcisions to complex prostatectomies.
     
-- **Female Genital System (CPT 56405–58999):** Covers procedures categorized by anatomical site, starting externally at the vulva and perineum, and moving internally to the vagina, cervix, uterus, oviducts (fallopian tubes), and ovaries. This section also encompasses codes for In Vitro Fertilization.
+- **Female Genital System (CPT 56405-58999):** Covers procedures categorized by anatomical site, starting externally at the vulva and perineum, and moving internally to the vagina, cervix, uterus, oviducts (fallopian tubes), and ovaries. This section also encompasses codes for In Vitro Fertilization.
     
-- **Maternity Care and Delivery (CPT 59000–59899):** These five-digit codes correspond to services provided in uncomplicated maternity cases, specifically covering antepartum care, delivery services, and postpartum care. Notably, medical complications of pregnancy are not coded in this range but are listed in the Medicine or Evaluation & Management sections, while surgical complications of pregnancy are included in specific Surgery sections.
+- **Maternity Care and Delivery (CPT 59000-59899):** These five-digit codes correspond to services provided in uncomplicated maternity cases, specifically covering antepartum care, delivery services, and postpartum care. Notably, medical complications of pregnancy are not coded in this range but are listed in the Medicine or Evaluation & Management sections, while surgical complications of pregnancy are included in specific Surgery sections.
 
 ![[Pasted image 20260501223723.png]]
 
@@ -354,11 +354,11 @@ This system is characterized by ductless glands distributed throughout the body.
 
 #### Clinical Coding Applications
 
-ICD-10-CM Chapter 4 (E00–E89) encompasses Endocrine, Nutritional, and Metabolic diseases. Coding these conditions requires careful attention to causality, specificity, and detailed documentation. Endocrine disorders occur when hormone levels are abnormally high or low, which could stem from genetic factors, tumors, or the physical removal of a gland. A condition like myxedema coma (**[[E03.5]]**) denotes a severe, naturally underactive thyroid. However, if the **[[hypothyroidism]]** is a direct result of the surgical removal of thyroid tissue, it requires a distinct, specific code (**[[E89.0]]**, Postprocedural **[[hypothyroidism]]**). Other critical codes include **nondiabetic hypoglycemic coma (E15)**, Waterhouse-Friderichsen syndrome involving adrenal gland failure (A39.1), and **Waldenstrom macroglobulinemia** (**[[C88.0]]**).
+ICD-10-CM Chapter 4 (E00-E89) encompasses Endocrine, Nutritional, and Metabolic diseases. Coding these conditions requires careful attention to causality, specificity, and detailed documentation. Endocrine disorders occur when hormone levels are abnormally high or low, which could stem from genetic factors, tumors, or the physical removal of a gland. A condition like myxedema coma (**[[E03.5]]**) denotes a severe, naturally underactive thyroid. However, if the **[[hypothyroidism]]** is a direct result of the surgical removal of thyroid tissue, it requires a distinct, specific code (**[[E89.0]]**, Postprocedural **[[hypothyroidism]]**). Other critical codes include **nondiabetic hypoglycemic coma (E15)**, Waterhouse-Friderichsen syndrome involving adrenal gland failure (A39.1), and **Waldenstrom macroglobulinemia** (**[[C88.0]]**).
 
 From a procedural standpoint, endocrinology utilizes a specific mix of CPT codes spanning multiple sections :
 
-- **Evaluation and Management (E/M):** Codes **[[99201]]**–**99205** (New patient visits) and **[[99211]]**–**[[99215]]** (Established patient visits) are heavily utilized to manage complex metabolic disorders like diabetes. Consultation codes (**[[99241]]**–**[[99245]]**) are applied when a physician requests an expert opinion from an endocrinologist; documentation must clearly support the rationale for the consultation and the complexity of medical decision-making.
+- **Evaluation and Management (E/M):** Codes **[[99201]]**-**99205** (New patient visits) and **[[99211]]**-**[[99215]]** (Established patient visits) are heavily utilized to manage complex metabolic disorders like diabetes. Consultation codes (**[[99241]]**-**[[99245]]**) are applied when a physician requests an expert opinion from an endocrinologist; documentation must clearly support the rationale for the consultation and the complexity of medical decision-making.
     
 - **Laboratory Diagnostics (80047-89398):** Specific quantitative laboratory measurements are crucial for diagnosing endocrine disorders. For example, thyroid function is assessed via specific tests for TSH (**84443**), Free T4 (**84436**), and Free T3 (**84439**). Insulin levels (**83036**), quantitative blood glucose (**82947**), and glucose tolerance tests (**82950**) are essential for diabetes management and assessment of pancreatic function.
     
@@ -395,7 +395,7 @@ The Efferent division is split into the Somatic nervous system (managing volunta
 
 #### Clinical Coding Applications
 
-Nervous system diseases are reported via **ICD-10-CM** Chapter 6 (G00–G99). The specificity in this chapter is intense. For example, coding Parkinson's disease requires coders to distinguish the presence of **dyskinesia** and fluctuations; **[[G20.A1]]** indicates Parkinson's without **dyskinesia** and without mention of fluctuations, while **[[G20.B2]]** indicates the presence of both **dyskinesia** and fluctuations. Neuropathies (**such as [[G60.9]], Hereditary and idiopathic neuropathy**) and autonomic system degenerations (**[[G90.3]]**) are similarly coded with high specificity.
+Nervous system diseases are reported via **ICD-10-CM** Chapter 6 (G00-G99). The specificity in this chapter is intense. For example, coding Parkinson's disease requires coders to distinguish the presence of **dyskinesia** and fluctuations; **[[G20.A1]]** indicates Parkinson's without **dyskinesia** and without mention of fluctuations, while **[[G20.B2]]** indicates the presence of both **dyskinesia** and fluctuations. Neuropathies (**such as [[G60.9]], Hereditary and idiopathic neuropathy**) and autonomic system degenerations (**[[G90.3]]**) are similarly coded with high specificity.
 
 <a title="BruceBlaus, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Spinal_Cord_Sectional_Anatomy.png"><img width="500" alt="A labelled cross-sectional diagram of the human spinal cord." src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Spinal_Cord_Sectional_Anatomy.png/500px-Spinal_Cord_Sectional_Anatomy.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"></a>
 
@@ -416,7 +416,7 @@ Blausen.com staff (2014). &quot;Medical gallery of Blausen Medical 2014&quot;. W
 
 #### Clinical Coding Applications
 
-ICD-10-CM isolates these organs into distinct, highly specialized chapters: Chapter 7 (H00–H59) is dedicated to diseases of the eye and adnexa, and Chapter 8 (H60–H95) covers the ear and mastoid process. The anatomical specificity required here is immense, as nearly all codes require laterality. For example, a diagnosis of otitis media must specify whether it affects the right ear, left ear, or is bilateral, and whether the effusion is serous, suppurative, or allergic in nature. CPT coding in the **69000** series involves precise anatomical identification for procedures such as cataract extractions, tympanostomies (**ear tube placements**), and audiometric testing.
+ICD-10-CM isolates these organs into distinct, highly specialized chapters: Chapter 7 (H00-H59) is dedicated to diseases of the eye and adnexa, and Chapter 8 (H60-H95) covers the ear and mastoid process. The anatomical specificity required here is immense, as nearly all codes require laterality. For example, a diagnosis of otitis media must specify whether it affects the right ear, left ear, or is bilateral, and whether the effusion is serous, suppurative, or allergic in nature. CPT coding in the **69000** series involves precise anatomical identification for procedures such as cataract extractions, tympanostomies (**ear tube placements**), and audiometric testing.
 
 ### 11. Hematopoietic, Lymphatic, and Immune Systems
 
@@ -444,9 +444,9 @@ Blausen.com staff (2014). &quot;Medical gallery of Blausen Medical 2014&quot;. W
 
 #### Clinical Coding Applications
 
-Blood and immune disorders are classified under ICD-10-CM Chapter 3 (D50–D89). Conditions range from various anemias and coagulation defects to complex immunodeficiencies, such as defects in the complement system (**[[D84.1]]**) or cryoglobulinemia (**[[D89.1]]**).
+Blood and immune disorders are classified under ICD-10-CM Chapter 3 (D50-D89). Conditions range from various anemias and coagulation defects to complex immunodeficiencies, such as defects in the complement system (**[[D84.1]]**) or cryoglobulinemia (**[[D89.1]]**).
 
-CPT coding for these systems involves extensive laboratory testing. Coders must frequently bill for panels such as the Complete Blood Count (CBC), CBC with differential, Hematocrit (Hct), Hemoglobin (Hgb), PT/PTT (to assess clotting time), INR (for monitoring anticoagulation therapy), and ESR (sedimentation rate, associated with systemic inflammation). The surgical aspect of the Lymphatic system is found in the **38100**–**38999** CPT range, encompassing excisions, repairs, and biopsies of the spleen and various lymphatic channels.
+CPT coding for these systems involves extensive laboratory testing. Coders must frequently bill for panels such as the Complete Blood Count (CBC), CBC with differential, Hematocrit (Hct), Hemoglobin (Hgb), PT/PTT (to assess clotting time), INR (for monitoring anticoagulation therapy), and ESR (sedimentation rate, associated with systemic inflammation). The surgical aspect of the Lymphatic system is found in the **38100**-**38999** CPT range, encompassing excisions, repairs, and biopsies of the spleen and various lymphatic channels.
 
 ## Regions
 
