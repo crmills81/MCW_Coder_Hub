@@ -61,7 +61,7 @@ My medical coding hub is for the specialties that I code for my employer. These 
 - [[PCS Body Part Index]]  
 - [[Normal Reference Laboratory Values]]
 - [[Spinal Procedures]]  
-- [[MEAT]] 
+- [[M. E. A. T Criteria]] 
 
 ---
 

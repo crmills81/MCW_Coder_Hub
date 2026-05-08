@@ -42,7 +42,7 @@ The combining form **angi-/angio-** refers to vessels, typically blood or lympha
 
 ## Documentation Clues
 - “[[stenosis]]”
-- “[[Occlusion]]”
+- “[[occlusion]]”
 - “Contrast injected into vessel”
 
 ## Coder’s Notes

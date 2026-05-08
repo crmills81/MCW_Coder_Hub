@@ -244,7 +244,7 @@ Always verify the current-year MPFS assistant indicator for each CPT code before
 | Procedure                                | Global  | Most Common Modifier Issue                                   |
 | ---------------------------------------- | ------- | ------------------------------------------------------------ |
 | **Tonsillectomy ([[42820]]/[[42826]])**  | **090** | -78 for post-tonsillectomy hemorrhage return to OR           |
-| **Septoplasty ([[50 Medical Coding/CPT Codes/30520]])**              | **090** | -51 when turbinate reduction (30140) added same day          |
+| **Septoplasty ([[30520]])**              | **090** | -51 when turbinate reduction (30140) added same day          |
 | **FESS ([[31254]]/[[31255]]/[[31267]])** | **090** | -50 for bilateral; -51 for multiple sinus codes same session |
 | **Tympanostomy tubes ([[69436]])**       | **010** | -50 for bilateral; -78 for tube revision for complication    |
 | **Cerumen removal ([[69511]])**          | **000** | -25 when separate E/M; -50 for bilateral                     |
@@ -255,18 +255,17 @@ Always verify the current-year MPFS assistant indicator for each CPT code before
 | Procedure                                         | Global | Most Common Modifier Issue                               |
 | ------------------------------------------------- | ------ | -------------------------------------------------------- |
 | **Open simple nephrectomy ([[50220]])**               | **090**    | -78 for hemorrhage; -24 for unrelated post-op conditions |
-| **Open radical nephrectomy ([[50 Medical Coding/CPT Codes/50230]])**              | **090**    | -78 for return to OR; -62 for co-surgeon (IVC thrombus)  |
+| **Open radical nephrectomy ([[50230]])**              | **090**    | -78 for return to OR; -62 for co-surgeon (IVC thrombus)  |
 | **Laparoscopic radical nephrectomy with LND (50546)** | **090**    | -53 if converted to open; -78 for complication           |
 | **Cystoscopy ([[52000]])**                            | **000**    | -25 when separate E/M; -50 if bilateral                  |
 | **TURBT ([[52240]])**                                 | **010**    | -78 for post-TURBT clot evacuation                       |
 
 ---
 
-## Suggested Obsidian Linkouts
+## Suggested Linkouts
 
 - [[Ophthalmology CPT Codes Reference]]
 - [[Otolaryngology CPT Codes Reference]]
-- [[Urology CPT Codes Reference]]
 - [[Nephrectomy Procedures Family MOC]]
 - [[Otolaryngology Practice Coding Scenarios]]
 - [[H20 Iridocyclitis Family MOC]]

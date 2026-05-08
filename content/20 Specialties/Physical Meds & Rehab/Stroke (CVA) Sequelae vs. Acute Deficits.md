@@ -1,7 +1,4 @@
 ---
-title: Stroke (CVA) Sequelae vs. Acute Deficits
-date: 2026-03-26
-category: Neurology
 tags:
   - ICD-10
   - pmr
@@ -9,6 +6,9 @@ tags:
   - stroke
   - sequelae
   - late-effects
+title: Stroke (CVA) Sequelae vs. Acute Deficits
+date: 2026-03-26
+category: Neurology
 aliases:
   - CVA Deficits
   - I69 Codes
@@ -54,13 +54,13 @@ Paralysis or weakness on one side of the body.
 ### Hemiplegia 6th Character Quick Reference (I69.35-)
 When coding I69.35- (**[[hemiplegia]] and [[hemiparesis]] following cerebral infarction**), the 6th character identifies the specific side and dominance. 
 
-| 6th Character | Affected Side | Dominance | Full Code |
-| :--- | :--- | :--- | :--- |
-| **1** | Right | Dominant | [[I69.351]] |
-| **2** | Left | Dominant | [[I69.352]] |
-| **3** | Right | Non-dominant | [[I69.353]] |
-| **4** | Left | Non-dominant | [[I69.354]] |
-| **9** | Unspecified | Unspecified | [[I69.359]] |
+| 6th Character | Affected Side | Dominance    | Full Code   |
+| :------------ | :------------ | :----------- | :---------- |
+| **1**         | Right         | Dominant     | **[[I69.351]]** |
+| **2**         | Left          | Dominant     | **[[I69.352]]** |
+| **3**         | Right         | Non-dominant | **[[I69.353]]** |
+| **4**         | Left          | Non-dominant | **[[I69.354]]** |
+| **9**         | Unspecified   | Unspecified  | **[[I69.359]]** |
 
 > **Coder's Reminder:** If the documentation says "**right hemiplegia**" but doesn't mention if the patient is right-handed or left-handed, apply the default rule (**Right = Dominant**) and use **[[I69.351]]**.
 

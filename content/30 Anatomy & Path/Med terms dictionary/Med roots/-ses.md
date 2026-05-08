@@ -76,14 +76,14 @@ _____
 > 
 > |Term|Meaning|
 > |---|---|
-> |**[[Fibrosis]]**|Abnormal connective tissue formation|
+> |**[[fibrosis]]**|Abnormal connective tissue formation|
 > |**[[Necrosis]]**|Cell/tissue death|
 > |**[[Stenosis]]**|Abnormal narrowing of any structure|
 > |**[[Sclerosis]]**|Hardening/induration of tissue|
 > |**Diagnosis**|Process of determining a disease|
 > |**Prognosis**|Forecasting the disease course|
 > |**[[metastasis]]**|Spread of disease to distant sites|
-> |**[[Dialysis]]**|Process of separating/filtering _(renal replacement)_|
+> |**[[dialysis]]**|Process of separating/filtering _(renal replacement)_|
 > 
 _____
 

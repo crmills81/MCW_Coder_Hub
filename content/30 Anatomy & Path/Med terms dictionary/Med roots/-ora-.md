@@ -19,7 +19,7 @@ definition:
   - As a plural suffix-The Latin neuter plural ending that transforms singular anatomical nouns
 ---
 >[!Note] DEFINITION of [[-ora-]]
-> _**-ora**_ / _**ora-**_ carries two distinct but related functions in medical terminology. First, as a Latin root, it derives from _**os, oris**_ meaning mouth, rim, or border — giving us words like **_oral_**, **_oropharynx_**, and the anatomical landmark _ora serrata_ (**literally "serrated edge/border" of the retina**). Second, as a Latin **neuter plural suffix**, _[[-ora]]_ is the grammatical ending applied to third-declension and some second-declension neuter nouns in anatomical nomenclature: **_corpus_** (**body/structure**) becomes **corpora**, _tempus_ (**temple**) becomes **tempora**. In clinical practice, the plural form _corpora_ is encountered most frequently in [[urology]] (_corpora cavernosa_) and neurology (_corpora quadrigemina_, _corpus callosum_). The _ora serrata_ usage is of particular significance in [[ophthalmology]], denoting the jagged anterior border where the neurosensory retina terminates.
+> _**-ora**_ / _**ora-**_ carries two distinct but related functions in medical terminology. First, as a Latin root, it derives from _**os, oris**_ meaning mouth, rim, or border — giving us words like **_oral_**, **_oropharynx_**, and the anatomical landmark _ora serrata_ (**literally "serrated edge/border" of the retina**). Second, as a Latin **neuter plural suffix**, _[[-ora]]_ is the grammatical ending applied to third-declension and some second-declension neuter nouns in anatomical nomenclature: **_corpus_** (**body/structure**) becomes **corpora**, _tempus_ (**temple**) becomes **tempora**. In clinical practice, the plural form _corpora_ is encountered most frequently in [[Urology]] (_corpora cavernosa_) and neurology (_corpora quadrigemina_, _corpus callosum_). The _ora serrata_ usage is of particular significance in [[ophthalmology]], denoting the jagged anterior border where the neurosensory retina terminates.
 _____
 
 > [!info]+ ETYMOLOGY of [[-ora-]]
@@ -68,7 +68,7 @@ _____
 > 
 > |Code|Description|
 > |---|---|
-> |**[[D00.00]]**|[[Carcinoma]] in situ of oral cavity, unspecified site|
+> |**[[D00.00]]**|[[carcinoma]] in situ of oral cavity, unspecified site|
 > |**[[D37.09]]**|Neoplasm of uncertain behavior, other specified oral cavity sites|
 > |**[[K12.30]]**|Oral mucositis (ulcerative), unspecified|
 > |**[[K12.31]]**|Oral mucositis due to antineoplastic therapy|

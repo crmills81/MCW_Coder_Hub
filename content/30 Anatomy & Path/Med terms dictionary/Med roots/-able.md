@@ -74,7 +74,7 @@ _____
 > 
 > - **Palpable**: Capable of being felt by touch during physical examination
 > - **Visible**: Capable of being seen with the naked eye or optical instruments
-> - **Irrigable**: Capable of being washed out or flushed (relevant in [[urology]])
+> - **Irrigable**: Capable of being washed out or flushed (relevant in [[Urology]])
 > - **Dilatable**: Capable of being expanded or widened ([[urethral strictures]], [[lacrimal ducts]])
 > 
 > **Treatment & Intervention Related:**

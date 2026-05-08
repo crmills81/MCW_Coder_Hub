@@ -1,6 +1,6 @@
 ---
 tags:
-  - ICD-10
+  - ICD-10-CM
   - neurology
   - physical-medicine
   - spasticity

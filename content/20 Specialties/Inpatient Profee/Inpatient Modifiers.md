@@ -13,7 +13,7 @@ Modifiers provide additional information about services rendered. Critical for i
 > [!IMPORTANT] AI Modifier
 > Only the attending physician bills AI. Consultants do not use this modifier.
 
-### 25 - Significant, Separately Identifiable E/M
+### [[-25]] - Significant, Separately Identifiable E/M
 - **Use:** E/M on same day as procedure
 - **Attached To:** E/M code
 - **Example:** [[99232]][[-25]] + procedure code
@@ -24,7 +24,7 @@ Modifiers provide additional information about services rendered. Critical for i
 - **Timing:** Day before or day of surgery
 - **Global Period:** **90-day** procedures only
 
-### [[-59]]] - Distinct Procedural Service
+### [[-59]] - Distinct Procedural Service
 - **Use:** Separate procedure from other services
 - **Attached To:** Procedure code
 - **Alternative:** XS (separate site)

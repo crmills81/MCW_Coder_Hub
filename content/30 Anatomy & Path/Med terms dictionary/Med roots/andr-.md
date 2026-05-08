@@ -24,7 +24,7 @@ _____
 >[!example]+ RELATED TERMS to [[andr-]]
 >
 _____
->[!tip]+ DERIVATIONS of [[andr-]]
+>[!tip]- DERIVATIONS of [[andr-]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

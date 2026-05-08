@@ -81,7 +81,7 @@ _____
 >
 >**Profee Coding Tips:**
 >- **Always query**: acute vs. chronic, vessel specificity, laterality, thrombotic vs. embolic vs. atherosclerotic — all change the code and DRG weight
->- **[[Occlusion]] as CC/MCC**: Many vascular occlusion codes serve as CCs or MCCs — missing them = lost DRG weight; flag for CDI
+>- **[[occlusion]] as CC/MCC**: Many vascular occlusion codes serve as CCs or MCCs — missing them = lost DRG weight; flag for CDI
 >- **NCCI edits**: Watch for bundling when [[vascular]] occlusion treatment (e.g., [[thrombectomy]]) is coded alongside diagnostic angiography — use modifier **[[-59]]** only when truly distinct
 >- Modifier **[[-LT]]** / **[[-RT]]**: Required for lateralized [[occlusion]] procedures (retinal, peripheral arterial)
 >- Modifier **[[-50]]**: Bilateral retinal or peripheral vascular occlusion procedures when both sides addressed

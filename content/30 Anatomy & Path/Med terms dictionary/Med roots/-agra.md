@@ -13,7 +13,7 @@ forms:
 "alphabet:": A
 definition:
   - pain
-  - gout
+  - sudden, severe pain
 ---
 >[!Note] DEFINITION of [[-agra]]
 >(**sudden**) pain, gout; The suffix **-agra** denotes a sudden, violent, or acute seizure of pain in a specific body part or region. It implies not just generalized pain but a paroxysmal, intense, often debilitating quality of pain — the kind associated with acute inflammatory joint disease, cramping, or spasmodic pain episodes. It is most classically associated with conditions involving crystal deposition, inflammatory arthropathy, or severe acute pain syndromes localized to a particular anatomical site.
@@ -38,7 +38,7 @@ _____
 >- **Omalgra** — acute seizure of pain in the shoulder (from Greek _omos_, shoulder)
 >- **Pellagra** — literally "skin seizure/roughness" (from Italian _pelle_, skin + _agra_); a niacin deficiency disease characterized by acute dermatitis, diarrhea, and dementia — a notable exception where **-agra** does not strictly denote joint pain
 >- **[[Gout]]** — the prototypical **-agra** disease; caused by monosodium urate crystal deposition; strongly associated with uric acid nephrolithiasis and urological comorbidity
->- **[[Hyperuricemia]]** — the metabolic precursor to gouty **-agra** conditions; directly relevant in [[urology]] for uric acid stone disease
+>- **[[Hyperuricemia]]** — the metabolic precursor to gouty **-agra** conditions; directly relevant in [[Urology]] for uric acid stone disease
 >- **Uric acid [[nephrolithiasis]]** — a key urological complication of the same metabolic process underlying podagra and related conditions
 >- **[[-algia]]** — broader pain suffix for comparison (e.g., _arthralgia_, _[[neuralgia]]_)
 >- **[[-dynia]]** — pain suffix with more chronic/functional connotation (e.g., _vulvodynia_, _coccydynia_)

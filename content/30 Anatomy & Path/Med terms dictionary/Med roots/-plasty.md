@@ -62,7 +62,7 @@ In coding, **[[-plasty]]** signals that the surgeon performed a **reconstructive
 
 ### **Orthopedic Examples**
 
-- **[[Arthroplasty]]** - Surgical reconstruction or replacement of a joint
+- **[[arthroplasty]]** - Surgical reconstruction or replacement of a joint
     
 - **[[Osteoplasty]]** - Surgical reshaping of bone
     

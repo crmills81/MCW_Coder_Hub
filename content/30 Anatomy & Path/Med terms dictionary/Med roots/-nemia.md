@@ -47,7 +47,7 @@ _____
 > 
 > The suffix itself doesn’t have standalone codes, but you’ll see it in many diagnosis names. Common **[[-emia]]** diagnoses (**just to anchor it in your coder brain; verify specifics in your encoder/ICD-10-CM book when assigning**):
 > 
-> - [[Anemia]] (various types, e.g., iron deficiency, B12 deficiency, [[aplastic]])​
+> - [[anemia]] (various types, e.g., iron deficiency, B12 deficiency, [[aplastic]])​
 >     
 > - Thalassemia
 >     
