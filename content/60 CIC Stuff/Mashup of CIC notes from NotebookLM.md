@@ -1,12 +1,12 @@
-**Navigating Default Medical Codes: A Guide to Unspecified Documentation**  
+### **Navigating Default Medical Codes: A Guide to Unspecified Documentation**  
 A default code is assigned when a condition is documented in the medical record without additional information or specificity, and the default code represents the condition most commonly associated with the main term or is the unspecified code for that condition. This means that when the provider's documentation lacks the detail needed to select a more specific code, the classification system provides a default option to ensure a code can still be assigned.
 
 Here's a detailed breakdown of when a default code is assigned, based on the provided sources:
 
-**General Principle of Default Code Assignment**  
+### **General Principle of Default Code Assignment**  
 A default code is a code listed next to a main term in the ICD-10-CM Alphabetic Index. It represents the condition most commonly associated with that main term, or it serves as the unspecified code for the condition. The primary situation for assigning a default code is when the medical record documentation is insufficient to assign a more specific code. This aligns with the principle of coding to the highest degree of certainty known for that encounter, reporting unspecified codes when they accurately reflect what is known at that time.
 
-**Specific Scenarios for Default Code Assignment**  
+### **Specific Scenarios for Default Code Assignment**  
 1 . **Unspecified Conditions**:  
     ◦ If a condition is documented without any additional information, such as "appendicitis" without specifying if it's acute or chronic, the default code for that condition should be assigned.  
     ◦ Similarly, for "[[pneumonia]]" without further specificity (e.g., aspiration or viral), the default code J18.9, Pneumonia, unspecified, would be assigned.  
@@ -37,19 +37,19 @@ A default code is a code listed next to a main term in the ICD-10-CM Alphabetic 
 10 . **Congenital vs. Community-Acquired Conditions in Newborns**:  
 • If a newborn has a condition that could be due to the birth process or community-acquired, and documentation does not clarify, the default is **due to the birth process**, and a Chapter 16 code should be used.
 
-**Importance of Specificity and Provider Queries**  
+### **Importance of Specificity and Provider Queries**  
 While default codes are necessary tools when documentation is incomplete, coders are continually trying to determine the most specific diagnosis. It is crucial to use both the Alphabetic Index and the Tabular List to ensure that the most accurate and specific code is assigned. Coders must assign codes to the highest level of specificity If the documentation is unclear, inconsistent, or incomplete, particularly when a default code might be applied but more specific information could exist, a query to the provider is appropriate and often necessary for clarification . This ensures that coding accurately reflects the patient's condition and the care provided, which is vital for proper reimbursement and quality reporting.
 
 Symptom codes are appropriate in various scenarios, primarily when a definitive diagnosis has not yet been established. The sources provide clear guidelines on when to use symptom codes, when to avoid them, and their role in the broader context of medical coding, particularly for "other diagnoses" or secondary conditions.
 
-**Definition of Signs and Symptoms**  
+### **Definition of Signs and Symptoms**  
 First, it is important to distinguish between signs and symptoms:
 
 • A **symptom** is defined as subjective evidence of a disease or a patient’s condition as perceived by the patient themselves. Examples include fatigue, headache, and certain types of pain. These may not be apparent to a physician on physical examination.  
 • A **sign** is objective evidence of a disease or a patient’s condition as perceived by the patient’s examining physician.  
 Chapter 18 of the ICD-10-CM ("Symptoms, Signs, and Abnormal Clinical and Laboratory Findings, Not Elsewhere Classified," codes R00-R99) is specifically designated for these conditions when a more precise diagnosis cannot be made or recorded elsewhere in the classification. This chapter generally includes less well-defined conditions and symptoms that might point to two or more diseases or body systems without a final diagnosis.
 
-**When Symptom Codes Are Appropriate**  
+### **When Symptom Codes Are Appropriate**  
 Symptom codes are generally acceptable for reporting purposes in the following situations:
 
 1 . **When a Definitive Diagnosis Has Not Been Established (Confirmed) by the Provider**: This is the primary and most crucial criterion. If, by the end of the healthcare encounter, the provider has not confirmed a specific diagnosis, coding the presenting signs and symptoms is appropriate to accurately reflect the patient's condition. This is particularly true in outpatient settings. For example, if a patient presents with abdominal pain and the physician suspects appendicitis, gastroenteritis, or cholecystitis (a differential diagnosis), and a definitive diagnosis isn't reached, the abdominal pain would be coded.  
@@ -60,7 +60,7 @@ Symptom codes are generally acceptable for reporting purposes in the following s
 4 . **When a Sign or Symptom Affects the Patient's Condition or the Treatment Given**: If a sign or symptom significantly impacts the patient's management, care, or length of stay, even alongside a definitive diagnosis, it may be coded.  
 5 . **Abnormal Findings (R70-R99) without Definitive Diagnosis**: Codes from R70-R97 for "Abnormal Findings and Abnormal Tumor Markers" are used when a patient has no signs or symptoms, and no definitive diagnosis explains the abnormality. However, these must be explicitly documented by the physician as clinically significant, not merely inferred from lab results or diagnostic reports by the coder. If findings are outside the normal range and the provider has ordered further tests or prescribed treatment, querying the provider about the clinical significance is appropriate.
 
-**When Symptom Codes Are NOT Appropriate**  
+### **When Symptom Codes Are NOT Appropriate**  
 Conversely, symptom codes should *not* be assigned in the following circumstances:
 
 1 . **When a Definitive Diagnosis Has Been Established**: If the provider has confirmed a specific diagnosis, symptom codes related to that diagnosis are generally not reported. Instead, the definitive diagnosis code is used.  
@@ -71,22 +71,22 @@ Conversely, symptom codes should *not* be assigned in the following circumstance
     ◦ If a patient with diabetes has ketoacidosis with a coma, the coma is considered part of the diabetic combination code and would not be separately assigned.  
 3 . **When a Combination Code Includes the Symptom**: If ICD-10-CM provides a single "combination code" that identifies both the definitive diagnosis and a common symptom (or an associated secondary process/complication), only the combination code should be assigned. An additional code for the symptom is then unnecessary. An example is "Acute cystitis with hematuria" (N30.01), where hematuria is already part of the combination code.
 
-**Differences Between Inpatient and Outpatient Settings for Uncertain Diagnoses**  
+### **Differences Between Inpatient and Outpatient Settings for Uncertain Diagnoses**  
 It is important to note the significant difference in how *uncertain diagnoses* are handled, which impacts the use of symptom codes:
 
 • **Inpatient Setting**: For inpatient admissions, if a diagnosis is documented at discharge as "probable," "suspected," "likely," "questionable," "possible," or "still to be ruled out," it is coded as if the condition existed or was established. The rationale is that the diagnostic workup and initial therapeutic approach often align with an established diagnosis. However, there are exceptions such as HIV, certain influenza viruses (e.g., avian or H1N1), and COVID-19, which must be *confirmed* by the provider to be coded. If unconfirmed, the signs and symptoms are coded instead.  
 • **Outpatient Setting**: In contrast, for outpatient encounters, diagnoses documented with terms like "probable," "suspected," "rule out," etc., are *not* coded as if they exist. Instead, the condition(s) are coded to the highest degree of certainty for that encounter, such as signs, symptoms, or abnormal test results.
 
-**Principal Diagnosis and Other Diagnoses**  
+### **Principal Diagnosis and Other Diagnoses**  
 • **As Principal Diagnosis**: Codes for symptoms, signs, and ill-defined conditions from Chapter 18 are generally not used as the principal diagnosis if a related definitive diagnosis has been established. However, if a definitive diagnosis has *not* been established by the end of the encounter, it is appropriate to report codes for signs and/or symptoms as the principal or first-listed diagnosis.  
 • **As Other (Secondary) Diagnoses**: Symptoms that are not integral to a primary disease process, or those that require separate evaluation or treatment (as described above), are appropriate as "other diagnoses." These secondary diagnoses are all conditions that coexist at the time of admission or develop subsequently and are clinically significant because they affect the treatment received, diagnostic procedures performed, length of stay, or increased nursing care/monitoring. For newborns, an additional criterion for clinical significance is having implications for future healthcare needs.
 
-**Documentation and Queries**  
+### **Documentation and Queries**  
 Accurate coding of symptoms, signs, and abnormal findings relies heavily on clear and complete medical record documentation. If the documentation is unclear, inconsistent, or incomplete (e.g., providing a diagnosis without underlying clinical validation), a query to the provider is necessary for clarification. Coders are explicitly instructed not to code abnormal findings unless the provider indicates their clinical significance.
 
 The sources provide detailed guidelines regarding the coding of "other diagnoses," also known as secondary diagnoses, and specifically address the handling of abnormal findings, emphasizing that they are generally *not* coded without documented clinical significance. This principle is crucial for accurate medical coding, especially in the context of inpatient hospital stays where it impacts reimbursement and classification systems like MS-DRGs.
 
-**Definition and Importance of Other Diagnoses (Secondary Diagnoses)**
+### **Definition and Importance of Other Diagnoses (Secondary Diagnoses)**
 
 "Other diagnoses" are defined as all conditions that coexist at the time of admission, or that develop subsequently, and are significant because they affect the treatment received and/or the length of stay. These conditions are reportable if they require:
 
@@ -100,21 +100,21 @@ For newborns, an additional criterion for clinical significance is having implic
 
 Accurate coding of secondary diagnoses is vital because they can influence Medicare Severity Diagnosis-Related Group (MS-DRG) assignment by identifying complications and comorbidities (CCs) or major complications and comorbidities (MCCs), which directly impact payment. Overcoding or misrepresenting the patient's severity of illness by coding unrelated conditions that do not impact patient care can lead to inaccurate reimbursement.
 
-**Abnormal Findings and the Requirement for Clinical Significance**  
+### **Abnormal Findings and the Requirement for Clinical Significance**  
 A key guideline states that abnormal findings (such as laboratory, X-ray, pathologic, and other diagnostic results) should *not* be assigned codes and reported unless the provider indicates their clinical significance. If findings are outside the normal range and the provider has ordered other tests to evaluate the condition or prescribed treatment, it is appropriate to query the provider regarding the significance of the abnormal finding and whether it should be added to the diagnoses. This means coders cannot assume clinical significance based solely on the presence of an abnormal test result without explicit provider documentation or action taken as a result of that finding.  
 For example, a low potassium level on laboratory testing should not be coded as a secondary diagnosis unless the physician documents its clinical significance or orders treatment (like Potassium 20 mEq) in response. Similarly, pleural effusion, while an abnormal finding, is not usually reported if it appears in conjunction with congestive heart failure unless it is separately evaluated or treated, for instance, by requiring special X-rays or diagnostic/therapeutic thoracentesis.
 
-**Role of Documentation and Physician Queries**  
+### **Role of Documentation and Physician Queries**  
 The coding of diagnoses, including abnormal findings, must be directly supported by the medical record documentation. If the documentation is unclear, inconsistent, or incomplete, or if it provides a diagnosis without underlying clinical validation, a query to the provider is necessary. Queries are also crucial when there is conflicting documentation between different clinicians or when the Present on Admission (POA) status is unclear. The purpose of a query is to clarify a diagnosis or add supporting documentation to establish medical necessity for services and reimbursement. It is explicitly stated that queries should *not* include the financial impact of the response to avoid influencing the physician's documentation for reimbursement purposes.
 
-**Inpatient vs. Outpatient Coding Practices for Abnormal Findings**
+### **Inpatient vs. Outpatient Coding Practices for Abnormal Findings**
 
 There is a significant difference in how abnormal findings are coded between inpatient and outpatient settings:
 
 • **Inpatient Setting:** For inpatient admissions, if a diagnosis is documented at discharge as "probable," "suspected," "likely," "questionable," "possible," or "still to be ruled out," the condition is coded as if it existed or was established. This guideline is based on the diagnostic workup, arrangements for further observation, and initial therapeutic approach. However, abnormal findings are still *not* coded unless the provider indicates their clinical significance.  
 • **Outpatient Setting:** In the outpatient setting, diagnoses documented as "probable," "suspected," "questionable," "rule out," etc., are *not* coded. Instead, the condition(s) are coded to the highest degree of certainty for that encounter, such as signs, symptoms, or abnormal test results. For outpatient encounters for diagnostic tests that have been interpreted by a physician and the final report is available, any confirmed or definitive diagnosis(es) documented in the interpretation should be coded, and related signs and symptoms should *not* be coded as additional diagnoses. This directly contrasts with the inpatient practice regarding abnormal findings on test results.
 
-**Exceptions for Documentation by Other Clinicians**
+### **Exceptions for Documentation by Other Clinicians**
 
 While code assignment is generally based on the documentation by the patient's provider (physician or other legally accountable healthcare practitioner), there are specific exceptions where documentation from other clinicians can be used for certain abnormal findings. These exceptions include codes for:  
 • Body Mass Index (BMI)  

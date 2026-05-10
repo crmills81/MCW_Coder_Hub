@@ -1,3 +1,12 @@
+#### <u>Table of Contents</u>
+- [[#**1.0 Introduction Your Transition to Inpatient Coding Excellence**]]
+- [[#**2.0 Foundations of Inpatient Coding**]]
+- [[#**3.0 Deconstructing ICD-10-PCS The 7-Character System**]]
+- [[#**4.0 Practical Application From Documentation to Code**]]
+- [[#**5.0 Conclusion and Final Exam Preparation**]]
+
+---
+
 ## **1.0 Introduction: Your Transition to Inpatient Coding Excellence**
 
 ### **1.1 Setting the Stage for Success in Inpatient Coding**
