@@ -1,12 +1,14 @@
-<h1><strong>ICD-10 Procedure Coding System<h1></strong>
+ICD-10 Procedure Coding System<h1>
 
-<strong>(ICD-10-PCS)</strong>
+## (ICD-10-PCS)
 
 2026 Tables Addenda
 ICD-10-PCS Tables that have changed this year are shown in table format in the pages below. Click on a bookmark to go to a specific table.
 Each table shown in the addenda replaces the table from the previous year.
+
 <br>
-<h1><strong>00H<h1></strong>
+
+# 00H
 
 <table>
   <thead>
@@ -75,7 +77,7 @@ Each table shown in the addenda replaces the table from the previous year.
   </tbody>
 </table>
 
-<h1><strong>00P<h1></strong>
+<h1>00P<h1>
 
 <table>
   <thead>
@@ -158,9 +160,9 @@ Each table shown in the addenda replaces the table from the previous year.
   </tbody>
 </table>
 
-<h1><strong>00W<h1></strong>
+<h1>00W<h1>
 
-<h1><strong>02U<h1></strong>
+<h1>02U<h1>
 
 <table>
   <thead>
@@ -623,7 +625,7 @@ Each table shown in the addenda replaces the table from the previous year.
   </tbody>
 </table>
 
-<h1><strong>04U<h1></strong>
+<h1>04U<h1>
 
 <table>
   <thead>
@@ -678,7 +680,7 @@ Each table shown in the addenda replaces the table from the previous year.
   </tbody>
 </table>
 
-<h1><strong>09X<h1></strong>
+<h1>09X<h1>
 
 <table>
   <thead>
@@ -720,9 +722,9 @@ Each table shown in the addenda replaces the table from the previous year.
   </tbody>
 </table>
 
-<strong>FY2026</strong>
+FY2026
 
-<h1><strong>0C1<h1></strong>
+<h1>0C1<h1>
 
 <table>
   <thead>
@@ -767,7 +769,7 @@ Each table shown in the addenda replaces the table from the previous year.
 FY2026
 
 
-<h1><strong>0F1<h1></strong>
+<h1>0F1<h1>
 
 <table>
   <thead>
@@ -976,7 +978,7 @@ FY2026
   </tbody>
 </table>
 
-<h1><strong>ORR<h1></strong>
+<h1>ORR<h1>
 
 <table>
   <thead>
@@ -1222,7 +1224,7 @@ FY2026
   </tbody>
 </table>
 
-<h1><strong>OSR<h1></strong>
+<h1>OSR<h1>
 
 <table>
   <thead>
@@ -1346,7 +1348,7 @@ FY2026
   </tbody>
 </table>
 
-<h1><strong>5A0<h1></strong>
+<h1>5A0<h1>
 
 <table>
   <thead>
@@ -1443,7 +1445,7 @@ FY2026
   </tbody>
 </table>
 
-<h1><strong>6A4<h1></strong>
+<h1>6A4<h1>
 
 <table>
   <tr>
@@ -1484,7 +1486,7 @@ FY2026
   </tr>
 </table>
 
-<h1><strong>8E0<h1></strong>
+<h1>8E0<h1>
 
 <table>
   <thead>
@@ -1727,7 +1729,7 @@ FY2026
   </tbody>
 </table>
 
-<h1><strong>F08<h1></strong>
+<h1>F08<h1>
 
 <table>
   <thead>
@@ -2020,7 +2022,7 @@ FY2026
   </tbody>
 </table>
 
-<h1><strong>X05<h1></strong>
+<h1>X05<h1>
 
 <table>
   <thead>
@@ -2082,7 +2084,7 @@ FY2026
   </tbody>
 </table>
 
-<h1><strong>X27<h1></strong>
+<h1>X27<h1>
 
 <table>
   <thead>
@@ -2256,7 +2258,7 @@ FY2026
   </tbody>
 </table>
 
-<h1><strong>X28<h1></strong>
+<h1>X28<h1>
 
 <table>
   <thead>
@@ -2304,7 +2306,7 @@ FY2026
   </tbody>
 </table>
 
-<h1><strong>X2A<h1></strong>
+<h1>X2A<h1>
 
 <table>
   <thead>
@@ -2352,7 +2354,7 @@ FY2026
   </tbody>
 </table>
 
-<h1><strong>X2H<h1></strong>
+<h1>X2H<h1>
 
 <table>
   <thead>
@@ -2505,7 +2507,7 @@ FY2026
   </tbody>
 </table>
 
-<h1><strong>X2V<h1></strong>
+<h1>X2V<h1>
 
 <table>
   <thead>
@@ -2567,7 +2569,7 @@ FY2026
   </tbody>
 </table>
 
-<h1><strong>XDJ<h1></strong>
+<h1>XDJ<h1>
 
 <table>
   <thead>
@@ -2611,7 +2613,7 @@ FY2026
   </tbody>
 </table>
 
-<h1><strong>XHH<h1></strong>
+<h1>XHH<h1>
 
 <table>
   <thead>
@@ -2751,7 +2753,7 @@ XNH
   </tbody>
 </table>
 
-<h1><strong>XNS<h1></strong>
+<h1>XNS<h1>
 
 <table>
   <thead>
@@ -2882,7 +2884,7 @@ XNH
   </tbody>
 </table>
 
-<h1><strong>XRG<h1></strong>
+<h1>XRG<h1>
 
 <table>
   <thead>
@@ -3093,7 +3095,7 @@ XNH
   </tr>
 </table>
 
-<h1><strong>XRH<h1></strong>
+<h1>XRH<h1>
 
 <table>
   <thead>
@@ -3217,7 +3219,7 @@ XNH
   </tbody>
 </table>
 
-<h1><strong>XW0<h1></strong>
+<h1>XW0<h1>
 
 <table>
   <thead>
@@ -4268,7 +4270,7 @@ XNH
 | No change | V Bones | 0 Open | P Antibiotic-eluting Bone Void Filler | 7 New Technology Group 7 |
 | No change | V Bones | 3 Percutaneous | W AGN1 Bone Void Filler | A New Technology Group 10 |
 
-<h1><strong>XW1<h1></strong>
+<h1>XW1<h1>
 
 <table>
   <thead>
@@ -4414,9 +4416,9 @@ XNH
   </tbody>
 </table>
 
-<h1><strong>XX2<h1></strong>
+<h1>XX2<h1>
 
-<h1><strong>XXA<h1></strong>
+<h1>XXA<h1>
 
 <table>
   <thead>
@@ -4464,7 +4466,7 @@ XNH
   </tbody>
 </table>
 
-<h1><strong>XXE<h1></strong>
+<h1>XXE<h1>
 
 <table>
   <thead>
