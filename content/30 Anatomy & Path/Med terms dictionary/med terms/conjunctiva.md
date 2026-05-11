@@ -8,6 +8,7 @@ tags:
   - medterm
 aliases:
   - conjunctival
+  - Conjunctiva
   - bulbar conjunctiva
   - palpebral conjunctiva
   - fornix conjunctiva

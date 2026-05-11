@@ -182,7 +182,7 @@ _____
 > *   **[[N31.0]]**: Uninhibited neuropathic bladder, not elsewhere classified
 > *   **[[N31.1]]**: Reflex neuropathic bladder, not elsewhere classified
 > *   **[[N31.2]]**: Flaccid neuropathic bladder, not elsewhere classified
-> *   **[[N31.9]]**: Neuromuscular dysfunction of bladder, unspecified
+> *   **[[50 Medical Coding/ICD-10 Codes/N31.9]]**: Neuromuscular dysfunction of bladder, unspecified
 >
 _____
 > [!example]+ **CPT Codes**
@@ -262,15 +262,15 @@ _____
 > *   **[[51755]]**: Injection procedure for [[cystourethrography]]
 > *   **[[51760]]**: Injection procedure for [[urethrocystography]]
 > *   **[[51761]]**: Injection procedure for voiding cystourethrography
-> *   **[[51762]]**: Injection procedure for [[retrograde pyelography]]
-> *   **[[51763]]**: Injection procedure for [[antegrade pyelography]]
+> *   **[[51762]]**: Injection procedure for retrograde pyelography
+> *   **[[51763]]**: Injection procedure for antegrade pyelography
 > *   **[[51765]]**: Injection procedure for [[nephrostogram]]
 > *   **[[51766]]**: Injection procedure for [[ureterogram]]
-> *   **[[51767]]**: Injection procedure for [[bladderogram]]
-> *   **[[51770]]**: Injection procedure for [[pouchogram]]
-> *   **[[51771]]**: Injection procedure for [[reservoirgram]]
-> *   **[[51772]]**: Injection procedure for [[conduitgram]]
-> *   **[[51773]]**: Injection procedure for [[ileal conduit]] study
+> *   **[[51767]]**: Injection procedure for bladderogram
+> *   **[[51770]]**: Injection procedure for pouchogram
+> *   **[[51771]]**: Injection procedure for reservoirgram
+> *   **[[51772]]**: Injection procedure for conduitgram
+> *   **[[51773]]**: Injection procedure for ileal conduit study
 > *   **[[51774]]**: Injection procedure for colon conduit study
 > *   **[[51775]]**: Injection procedure for urinary diversion study
 > *   **[[51776]]**: Injection procedure for continent reservoir study

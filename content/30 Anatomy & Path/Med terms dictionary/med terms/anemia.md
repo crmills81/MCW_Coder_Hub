@@ -51,10 +51,10 @@ _____
 >|Component|Origin|Meaning|
 >|---|---|---|
 >|**[[an-]]** / **[[a-]]**|Greek _ἀν-_ / _ἀ-_ (an- / a-)|"**without**," "**lacking**," "**absence of**" — alpha privative prefix; _an-_ before vowels, _a-_ before consonants|
->|**[[-haima / -hema]]**|Greek _αἷμα_ (haîma), from PIE _\*seh₂i-_ ("to drip, trickle")|"**blood**," "**blood-related**"|
+>|**-haima / -hema**|Greek _αἷμα_ (haîma), from PIE _\*seh₂i-_ ("to drip, trickle")|"**blood**," "**blood-related**"|
 >|**[[-ia]]**|Greek _-ία_ (-ía)|Noun-forming suffix — "**condition of**," "**state of**," "**abnormal process involving**"|
 >
-> The word entered English in the **1820s** as *anemia* (**noun**), borrowed from French *anémie* (1761), from the Latinized form of Greek ***ἀναιμία*** (*anaimía*) — "**lack of blood**" — from *ἄναιμος* (*ánaimos*), "**bloodless**," literally **"without blood."** The British spelling *anaemia* persisted in clinical literature through the 19th century and remains the standard outside the U.S. The root *haima* ("**blood**") connects **anemia** to the entire **[[-haem / -hem root family]]**: ***[[hematology]]*** (**haima + logos → study of blood**), ***[[hemoglobin]]*** (**haima + Latin globus → blood protein**), ***[[hemoptysis]]*** (**haima + ptysis → spitting blood**), and ***[[hemorrhage]]*** (**haima + rhegnynai → bursting of blood**). The **alpha privative** *[[an-]]* is among the most productive prefixes in medical terminology, appearing in ***[[aphasia]]***, ***[[anoxia]]***, ***[[apnea]]***, ***[[asystole]]***, and ***[[agranulocytosis]]***.
+> The word entered English in the **1820s** as *anemia* (**noun**), borrowed from French *anémie* (1761), from the Latinized form of Greek ***ἀναιμία*** (*anaimía*) — "**lack of blood**" — from *ἄναιμος* (*ánaimos*), "**bloodless**," literally **"without blood."** The British spelling *anaemia* persisted in clinical literature through the 19th century and remains the standard outside the U.S. The root *haima* ("**blood**") connects **anemia** to the entire **-haem / -hem root family**: ***[[hematology]]*** (**haima + logos → study of blood**), ***[[hemoglobin]]*** (**haima + Latin globus → blood protein**), ***[[hemoptysis]]*** (**haima + ptysis → spitting blood**), and ***[[hemorrhage]]*** (**haima + rhegnynai → bursting of blood**). The **alpha privative** *[[an-]]* is among the most productive prefixes in medical terminology, appearing in ***[[aphasia]]***, ***[[anoxia]]***, ***[[apnea]]***, ***asystole***, and ***[[agranulocytosis]]***.
 
 _____
 

@@ -44,14 +44,14 @@ definition:
 > 
 > | Term | Relationship |
 > |---|---|
-> |**[[Intrinsic]]**|Near-synonym; often used interchangeably in physiology (e.g., intrinsic factor, intrinsic pathway)|
-> |**[[Autogenous]]**|"Self-generated" — specifically from the patient's own tissue; used in graft/transplant contexts|
+> |**Intrinsic**|Near-synonym; often used interchangeably in physiology (e.g., intrinsic factor, intrinsic pathway)|
+> |**Autogenous**|"Self-generated" — specifically from the patient's own tissue; used in graft/transplant contexts|
 > |**[[Hematogenous]]**|Spread through the bloodstream from an internal source — the mechanism of most ** endogenous** infections|
 > |**[[Endocrine]]**|*endo-* + *-crine* (to secrete); secreting hormones internally into the bloodstream|
-> |**[[Idiopathic]]**|Disease of unknown internal origin — a related but distinct concept (cause unknown vs. cause internal)|
+> |**Idiopathic**|Disease of unknown internal origin — a related but distinct concept (cause unknown vs. cause internal)|
 > |**[[exogenous]]**|Antonym — originating from outside the body (external agent, drug, pathogen introduced from environment)|
-> |**[[Spontaneous]]**|Clinical near-synonym in some contexts (e.g., spontaneous bacterial peritonitis = ** endogenous** seeding)|
-> |**[[Autologous]]**|Derived from the patient's own body — used in transfusion and transplant medicine|
+> |**Spontaneous**|Clinical near-synonym in some contexts (e.g., spontaneous bacterial peritonitis = ** endogenous** seeding)|
+> |**Autologous**|Derived from the patient's own body — used in transfusion and transplant medicine|
 > 
 
 ---
@@ -59,14 +59,14 @@ definition:
 > 
 > - **Endogenous endophthalmitis** — hematogenous bacterial or fungal seeding of the vitreous from systemic infection ([[bacteremia]], [[candidemia]]); sight-threatening; coded [[H44.19]] — distinguished from post-procedural [[endophthalmitis]]
 > - **Hematogenous osteomyelitis** — bone infection from internal bacteremic seeding, most common in children; M86.0x — the classic "** endogenous**" orthopedic infection
-> - **[[Cushing's disease]]** — ** endogenous** cortisol excess from a pituitary ACTH-secreting adenoma; [[E24.0]] — distinguished from exogenous (drug-induced) [[E24.2]]
+> - **Cushing's disease** — ** endogenous** cortisol excess from a pituitary ACTH-secreting adenoma; [[E24.0]] — distinguished from exogenous (drug-induced) [[E24.2]]
 > - **Endogenous depression** — historical term now subsumed under **Major Depressive Disorder** (F32.x, F33.x]; biologically driven, not reactive to external stressors
 > - **Endogenous opioids** — internally produced peptides (endorphins, enkephalins, dynorphins) acting on opioid receptors; relevant in pain physiology and addiction medicine
 > - **Endogenous antigen** — intracellular protein presented on MHC class I molecules; drives cytotoxic T-cell responses (vs. exogenous antigens on MHC class II)
 > - **Endogenous retrovirus (ERV)** — viral sequences integrated into the human genome; relevant in oncology and autoimmunity research
 > - **[[exogenous]]** — direct antonym; causative agent or substance originates outside the body
 > - **[[Iatrogenic]]** — a specific subtype of exogenous harm; physician/treatment-caused
-> - **[[Autoinflammatory]]** — ** endogenous** immune dysregulation without external trigger; relevant to periodic fever syndromes
+> - **Autoinflammatory** — ** endogenous** immune dysregulation without external trigger; relevant to periodic fever syndromes
 > 
 
 ---

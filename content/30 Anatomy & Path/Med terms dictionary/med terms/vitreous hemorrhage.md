@@ -12,8 +12,7 @@ forms:
   - combining
   - noun
 alphabet: V
-definition:
-  - the leakage of blood into the vitreous humor
+definition: the leakage of blood into the vitreous humor
 ---
 
 <br>
@@ -49,7 +48,7 @@ _____
 |Term|Definition|
 |---|---|
 |**[[Posterior Vitreous Detachment (PVD)]]**|Separation of the [[vitreous gel]] from the [[retina]]; a common mechanical cause of VH |
-|**[[Neovascularization]]**|Growth of new, fragile blood vessels (often due to diabetes) that are prone to leaking into the vitreous |
+|**[[neovascularization]]**|Growth of new, fragile blood vessels (often due to diabetes) that are prone to leaking into the vitreous |
 |**[[Terson Syndrome]]**|[[vitreous hemorrhage]] occurring in association with a [[subarachnoid]] hemorrhage (intracranial bleed) |
 |**[[Ghost Cell Glaucoma]]**|A complication where degenerated red blood cells (rigid "[[ghost cells]]") block the trabecular meshwork, raising intraocular pressure  |
 |**[[Pars Plana Vitrectomy (PPV)]]**|The surgical procedure to remove the vitreous humor and blood; often required if the blood does not clear spontaneously |

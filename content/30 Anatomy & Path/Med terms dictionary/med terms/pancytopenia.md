@@ -44,16 +44,16 @@ definition:
 >
 >| Term | Root Breakdown | Meaning / Relationship |
 >|---|---|---|
->|**[[Trilineage cytopenia]]**|*tri-* + *lineage* + *cyto-* + *-penia*|Synonym; emphasizes all three marrow cell lines affected|
->|**[[Aplastic anemia]]**|*a-* + *plasis* + *anemia*|Most common cause; autoimmune bone marrow failure → pancytopenia|
->|**[[Anemia]]**|*an-* + *-emia*|RBC/hemoglobin component of pancytopenia|
+>|**Trilineage cytopenia**|*tri-* + *lineage* + *cyto-* + *-penia*|Synonym; emphasizes all three marrow cell lines affected|
+>|**Aplastic anemia**|*a-* + *plasis* + *anemia*|Most common cause; autoimmune bone marrow failure → pancytopenia|
+>|**[[anemia]]**|*an-* + *-emia*|RBC/hemoglobin component of pancytopenia|
 >|**[[Leukopenia]]**|*leuko-* + *-penia*|WBC component of pancytopenia|
 >|**[[neutropenia]]**|*neutro-* + *-penia*|Specific WBC subset; drives infection risk|
 >|**[[Thrombocytopenia]]**|*thrombocyto-* + *-penia*|Platelet component; drives bleeding risk|
->|**[[Myelodysplastic syndrome]]**|*myelo-* + *dys-* + *-plasia*|Clonal marrow disorder; major cause of pancytopenia in elderly|
->|**[[Hypersplenism]]**|*hyper-* + *splen-* + *-ism*|Peripheral sequestration cause; spleen traps all cell lines|
+>|**Myelodysplastic syndrome**|*myelo-* + *dys-* + *-plasia*|Clonal marrow disorder; major cause of pancytopenia in elderly|
+>|**Hypersplenism**|*hyper-* + *splen-* + *-ism*|Peripheral sequestration cause; spleen traps all cell lines|
 >|**[[pancytopenia]] with myelophthisis**|*pan-* + *myelo-* + *phthisis*|Marrow replaced by fibrosis, tumor, or granuloma|
->|**[[PNH]] (Paroxysmal Nocturnal Hemoglobinuria)**|Acronym|Clonal GPI-deficient disorder closely associated with aplastic anemia/pancytopenia|
+>|**PNH (Paroxysmal Nocturnal Hemoglobinuria)**|Acronym|Clonal GPI-deficient disorder closely associated with aplastic anemia/pancytopenia|
 
 ---
 
@@ -138,7 +138,7 @@ definition:
 > 
 > **[[D61.818]]** (Other pancytopenia) does **not** directly map to an HCC. However, the **underlying conditions driving pancytopenia carry significant HCC weight:**
 > 
-> - **[[D46.x]] (MDS)** → **HCC 47** (Disorders of Immunity) in some models
+> - **D46.x (MDS)** → **HCC 47** (Disorders of Immunity) in some models
 > - **Aplastic anemia ([[D61.3]], [[D61.9]])** → **HCC 46** (Coagulation Defects and Other Specified Hematological Disorders)
 > - **Leukemia/lymphoma** as the cause → **HCC 8/9/10** (highest-weight hematologic malignancy HCCs)
 > - Documenting the **etiology** of pancytopenia is therefore essential — "pancytopenia due to MDS" vs. "pancytopenia, unspecified" has material RAF/HCC implications

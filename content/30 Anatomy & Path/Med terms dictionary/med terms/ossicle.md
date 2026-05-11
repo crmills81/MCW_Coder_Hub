@@ -178,15 +178,15 @@ definition:
 >
 > ## 🔧 CPT Codes — Ossicular / Middle Ear Procedures
 >
-> > **⚠️ The tympanoplasty CPT code family ([[69631]]-[[69646]]) is organized along TWO axes: (1) whether mastoidectomy was performed (no mastoidectomy = 69631-69633; with antrotomy/mastoidotomy = [[69636]]-[[69637]]; with mastoidectomy = 69641-69646); and (2) whether ossicular chain reconstruction (OCR) was performed and whether a synthetic prosthesis (PORP/TORP) was used. The CPT code that applies depends on BOTH axes together — you cannot code a tympanoplasty correctly without knowing both the mastoidectomy extent AND the ossicular reconstruction method. Otosclerosis surgery (69660/69661) uses a completely SEPARATE code family from the tympanoplasty codes — do NOT mix them. Initial vs. revision is captured within the tympanoplasty codes (69631-69633 cover both initial and revision).**
+> > ⚠️ The **tympanoplasty** CPT code family (**[[69631]]-[[69646]]**) is organized along TWO axes: (1) whether mastoidectomy was performed (no mastoidectomy = [[69631]]-[[69633]]; with antrotomy/mastoidotomy = [[69636]]-[[69637]]; with mastoidectomy = [[69641]]-[[69646]]); and (2) whether ossicular chain reconstruction (OCR) was performed and whether a synthetic prosthesis (PORP/TORP) was used. The CPT code that applies depends on BOTH axes together — you cannot code a tympanoplasty correctly without knowing both the mastoidectomy extent AND the ossicular reconstruction method. Otosclerosis surgery ([[69660]]/[[69661]]) uses a completely SEPARATE code family from the tympanoplasty codes — do NOT mix them. Initial vs. revision is captured within the tympanoplasty codes (69631-69633 cover both initial and revision).
 >
 > ### Tympanoplasty WITHOUT Mastoidectomy — Ossicular Chain Codes
 >
 > | CPT Code | Description |
 > |---|---|
-> |**[[69631]]**|**Tympanoplasty** without **mastoidectomy** (including **canalplasty**, [[atticotomy]] and/or middle ear surgery), initial or revision; without ossicular chain reconstruction *(eardrum repair only; ossicles intact and functional; covers simple tympanic membrane perforation repair)*|
+> |**[[69631]]**|**Tympanoplasty** without **mastoidectomy** (including **canalplasty**, atticotomy and/or middle ear surgery), initial or revision; without ossicular chain reconstruction *(eardrum repair only; ossicles intact and functional; covers simple tympanic membrane perforation repair)*|
 > |**[[69632]]**|Tympanoplasty without mastoidectomy; with ossicular chain reconstruction *(eardrum repair PLUS OCR using patient's own bone or homograft — no synthetic prosthesis; higher RVU than 69631)*|
-> |**[[69633]]**|**Tympanoplasty** without **mastoidectomy**; with ossicular chain reconstruction and synthetic prosthesis (e.g., PORP, TORP) *(OCR with PORP or TORP — highest RVU in the no-mastoidectomy group)*|
+> |**[[69633]]**|**[[Tympanoplasty]]** without **[[mastoidectomy]]**; with ossicular chain reconstruction and synthetic prosthesis (e.g., PORP, TORP) *(OCR with PORP or TORP — highest RVU in the no-mastoidectomy group)*|
 >
 > ### Tympanoplasty WITH Antrotomy/Mastoidotomy — Ossicular Chain Codes
 >

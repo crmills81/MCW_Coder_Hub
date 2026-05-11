@@ -182,7 +182,7 @@ Cyclodialysis is the disinsertion of longitudinal ciliary muscle fibers from the
 **Document created:** February 13, 2026
 **Medical coding professional reference**
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

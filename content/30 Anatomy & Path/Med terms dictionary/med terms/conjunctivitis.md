@@ -5,6 +5,7 @@ tags:
   - ophthalmology
 aliases:
   - pink eye
+  - Conjunctivitis
   - ophthalmia
   - trachoma
 roots:
@@ -29,7 +30,7 @@ definition:
 > 
 > - **Etiology:** It can be caused by:
 >     - **Viruses:** Most common cause (e.g., [[Adenovirus]]); highly contagious, often associated with upper respiratory infections.
->     - **Bacteria:** (e.g., [[_Staphylococcus]] aureus_, _Streptococcus pneumoniae_, _Haemophilus influenzae_); typically produces purulent (**pus-like**) discharge.
+>     - **Bacteria:** (e.g., _[[Staphylococcus]] aureus_, _Streptococcus pneumoniae_, _Haemophilus influenzae_); typically produces purulent (**pus-like**) discharge.
 >     - **Allergens:** (**e.g., pollen, dust mites**); bilateral, intensely itchy, watery discharge; not contagious.
 >     - **Irritants:** Chemicals, smoke, foreign bodies, or contact lens overwear.
 >     - **Sexually Transmitted Infections:** _Chlamydia trachomatis_ ([[Trachoma]]/Inclusion conjunctivitis) or _Neisseria gonorrhoeae_ ([[hyperacute]], severe).
@@ -167,7 +168,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

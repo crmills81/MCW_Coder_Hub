@@ -55,7 +55,7 @@ _____
 >|**[[-et-]]**|Greek genitive stem _-ēt-_ from _mykēs → mykētos_|Linking element derived from the genitive stem of _mykēs_ — bridges the root to the suffix; present because the compound draws on the full declined stem _mykēt-_ rather than the nominative _mykes_|
 >|**[[-oma]]**|Greek _-ōma_ (OH-mah), from _-ō-_ (verb-forming suffix) + _-ma_ (result noun suffix)|Noun-forming suffix — "**tumor**," "**swelling**," "**mass**," "**result of a process**" — in medical terminology, indicates a neoplastic or tumor-like growth; here used descriptively for the mass-like swelling characteristic of the disease|
 > 
->The anatomical site designation **"Madura foot"** (the original lay name) was coined in **1842** by British surgeon John Gill, who described the condition in Madura (now Madurai), a city in Tamil Nadu, India — the geographic focus of earliest documented cases. The formal medical term _mycetoma_ was introduced in **1860** by **Henry Vandyke Carter**, a British physician and anatomist working in India, who published the first systematic description and derived the term from Greek _mykētos_ ("**of the fungus**") + _-oma_ ("**tumor**") — literally **"fungal tumor"** or **"tumor of fungal origin."** Carter coined the name before the causative organisms were fully characterized, leading to later discovery that some cases are actually bacterial (**actinomycetes**), making the _myc-_ prefix technically imprecise for **actinomycetoma**. The root _[[myc-]]_ / _[[myko-]]_ ("**fungus**") connects **mycetoma** to the entire **[[-myco- root family]]**: **_[[mycology]]_*** (**study of fungi**), **_[[onychomycosis]]_*** (**fungal infection of the nail**), **_[[mycobacterium]]_*** (**waxy fungus-like bacterium**), **_[[actinomycosis]]_*** (**ray-fungus disease**), and **_[[dermatomycosis]]_*** (**fungal infection of the skin**). The suffix _[[-oma]]_ is similarly productive: **_[[granuloma]]_*** (**grain-like tumor**), **_[[hematoma]]_*** (**blood swelling**), **_[[lipoma]]_*** (**fat tumor**), **_[[carcinoma]]_*** (**crab-like cancer**), and **_[[neuroma]]_*** (**nerve tumor**).
+>The anatomical site designation **"Madura foot"** (the original lay name) was coined in **1842** by British surgeon John Gill, who described the condition in Madura (now Madurai), a city in Tamil Nadu, India — the geographic focus of earliest documented cases. The formal medical term _mycetoma_ was introduced in **1860** by **Henry Vandyke Carter**, a British physician and anatomist working in India, who published the first systematic description and derived the term from Greek _mykētos_ ("**of the fungus**") + _-oma_ ("**tumor**") — literally **"fungal tumor"** or **"tumor of fungal origin."** Carter coined the name before the causative organisms were fully characterized, leading to later discovery that some cases are actually bacterial (**actinomycetes**), making the _myc-_ prefix technically imprecise for **actinomycetoma**. The root _[[myc-]]_ / _[[myko-]]_ ("**fungus**") connects **mycetoma** to the entire **[[-myco-]] root family**: **_[[mycology]]_*** (**study of fungi**), **_[[onychomycosis]]_*** (**fungal infection of the nail**), **_[[mycobacterium]]_*** (**waxy fungus-like bacterium**), **_[[actinomycosis]]_*** (**ray-fungus disease**), and **_[[dermatomycosis]]_*** (**fungal infection of the skin**). The suffix _[[-oma]]_ is similarly productive: **_[[granuloma]]_*** (**grain-like tumor**), **_[[hematoma]]_*** (**blood swelling**), **_[[lipoma]]_*** (**fat tumor**), **_[[carcinoma]]_*** (**crab-like cancer**), and **_[[neuroma]]_*** (**nerve tumor**).
 
 
 _____
@@ -181,11 +181,12 @@ _____
 _____
 
 > [!faq]- Query functionality
-> ```dataview
-> TABLE definition AS Definition
-> FROM #medterm 
-> WHERE length(filter(definition, (word) => econtains([[mycetoma]].definition, word))) > 0 AND file.name != [[mycetoma]].file.name
-> ```
+>```dataview
+>TABLE definition AS Definition
+>FROM #medterm 
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
+>```
 
 [[Med roots]]
 [[Appendix A Prefixes]]

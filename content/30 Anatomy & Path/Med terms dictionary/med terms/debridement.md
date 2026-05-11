@@ -4,6 +4,7 @@ tags:
   - surgery
 aliases:
   - wound debridement
+  - Debridement
   - excisional debridement
   - non-excisional debridement
   - selective debridement
@@ -21,7 +22,7 @@ definition:
   - The medical removal of dead, damaged, or infected tissue to improve the healing potential of the remaining healthy tissue
 ---
 >[!Note] DEFINITION of [[debridement]]
->**Debridement** is the **medical and surgical process of thoroughly removing non-viable tissue** (**such as [[necrosis]], slough, or eschar**), debris, and infected material from a wound bed or burn. The primary clinical objective is to convert a **chronic or contaminated wound into an acute, clean wound**, thereby promoting [[granulation]], re-[[epithelialization]], and normal healing. [[Debridement]] can be categorized by its method: surgical/excisional (**using sharp instruments like scalpels or scissors to cut away tissue), mechanical (wet-to-dry dressings, hydrotherapy**), enzymatic/chemical (**applying topical agents to dissolve dead tissue**), autolytic (**using the body's own enzymes under moisture-retentive dressings**), or biological (**maggot therapy**).
+>**Debridement** is the **medical and surgical process of thoroughly removing non-viable tissue** (**such as [[necrosis]], slough, or eschar**), debris, and infected material from a wound bed or burn. The primary clinical objective is to convert a **chronic or contaminated wound into an acute, clean wound**, thereby promoting [[granulation]], re-[[epithelialization]], and normal healing. [[debridement]] can be categorized by its method: surgical/excisional (**using sharp instruments like scalpels or scissors to cut away tissue), mechanical (wet-to-dry dressings, hydrotherapy**), enzymatic/chemical (**applying topical agents to dissolve dead tissue**), autolytic (**using the body's own enzymes under moisture-retentive dressings**), or biological (**maggot therapy**).
 _____
 >[!info]+ ETYMOLOGY of [[debridement]]
 >#latin - **[[de-]]** (French/Latin): prefix meaning "**removal**," "**separation**," or "**down from**."
@@ -38,7 +39,7 @@ _____
 > 
 > - **Excision:** The surgical removal of an entire organ, mass, or lesion (**e.g., a cyst or tumor**). While excisional [[debridement]] uses the same **Root Operation in PCS**, clinical "**excision**" usually aims to remove a specific pathological structure with margins, whereas debridement aims to clean a generalized wound bed.
 >     
-> - **Amputation:** The complete surgical removal of a limb or appendage. [[Debridement]] may remove bone from a toe, but if the entire toe is removed, it is an [[amputation]] (**PCS Root Operation: Detachment**).
+> - **Amputation:** The complete surgical removal of a limb or appendage. [[debridement]] may remove bone from a toe, but if the entire toe is removed, it is an [[amputation]] (**PCS Root Operation: Detachment**).
 >     
 > - **Escharotomy:** A surgical incision made _through_ a burn eschar to relieve pressure and restore circulation (**often in circumferential burns**). It is an incision, not a removal (**debridement**) of the eschar.
 >     
@@ -97,7 +98,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

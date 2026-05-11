@@ -4,6 +4,7 @@ tags:
   - medterm
 aliases:
   - pyelonephritis
+  - Colinephritis
   - E. coli nephritis
 roots:
   - coli-
@@ -18,7 +19,7 @@ forms:
 >[!note]+ Definition of [[colinephritis]]
 > [[col-|coli-]][[nephr-]][[-itis]] - Inflammation of kidney, caused by E. coli (*kidney inflammation by E.coli*)
 > [[pyelonephritis]] is a type of urinary tract infection where **one or both kidneys become infected**. They can be infected by bacteria or a virus. 
-> **Colinephritis** is a highly specific term for a bacterial infection and subsequent inflammation of the kidney (**renal parenchyma and renal pelvis**) driven by _Escherichia coli_. Clinically, this almost always presents as acute [[pyelonephritis]]. _E. coli_, a normal resident of the gastrointestinal tract, is the most common [[uropathogen]] responsible for ascending [[urinary tract infections]]. The bacteria typically colonize the [[periurethral]] area, ascend into the bladder (**causing [[cystitis]])**, and then travel up the ureters to invade the kidney. Severe cases can result in systemic [[bacteremia]], renal abscesses, or permanent renal scarring.
+> **Colinephritis** is a highly specific term for a bacterial infection and subsequent inflammation of the kidney (**renal parenchyma and renal pelvis**) driven by _Escherichia coli_. Clinically, this almost always presents as acute [[pyelonephritis]]. _E. coli_, a normal resident of the gastrointestinal tract, is the most common [[uropathogen]] responsible for ascending [[urinary tract infection (UTI)]]. The bacteria typically colonize the [[periurethral]] area, ascend into the bladder (**causing [[cystitis]])**, and then travel up the ureters to invade the kidney. Severe cases can result in systemic [[bacteremia]], renal abscesses, or permanent renal scarring.
 ___
 >[!info]+ Etymology of [[colinephritis]]
 >[[colinephritis]] combines "**coli**" (*E. coli*), "[[nephr-]]/o" (*kidney*), and "[[-itis]]" (*inflammation*) to mean E. coli-caused kidney inflammation;
@@ -84,7 +85,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

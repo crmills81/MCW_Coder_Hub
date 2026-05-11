@@ -54,18 +54,18 @@ _____
 > - **[[Dysphagia]]** — difficulty or impaired swallowing transport; distinct from but frequently co-occurring with odynophagia; coded R13.1x
 > - **[[Aphagia]]** — complete inability to swallow; [[R13.0]]; extreme end of swallowing dysfunction
 > - **[[esophagitis]]** — mucosal inflammation of the esophagus; the most common structural cause of odynophagia
-> - **[[Candidal esophagitis]]** — [[B37.81]]; most common infectious cause; occurs in immunocompromised, diabetic, and steroid-inhaler patients
-> - **[[Eosinophilic esophagitis (EoE)]]** — [[K20.0]]; immune-mediated chronic esophagitis; odynophagia + dysphagia + food impaction
-> - **[[GERD (Gastroesophageal reflux disease)]]** — [[K21.00]] / [[K21.9]]; acid reflux causing esophageal mucosal injury and pain with swallowing
-> - **[[Pill-induced esophagitis]]** — medication lodging and causing direct chemical mucosal injury; classic agents: bisphosphonates, tetracyclines, NSAIDs, KCl
-> - **[[Peritonsillar abscess]]** — [[J36]]; pharyngeal cause of severe odynophagia with deviated uvula and trismus; ENT emergency
-> - **[[Streptococcal pharyngitis]]** — [[J02.0]]; common oropharyngeal cause; odynophagia + exudative tonsils + fever
-> - **[[Esophageal ulcer]]** — [[K22.10]] / [[K22.11]]; discrete mucosal break causing focal, severe odynophagia
-> - **[[Esophageal dyskinesia / Achalasia]]** — [[K22.4]] / [[K22.0]]; motility disorders that may cause odynophagia alongside dysphagia
+> - **Candidal esophagitis** — [[B37.81]]; most common infectious cause; occurs in immunocompromised, diabetic, and steroid-inhaler patients
+> - **Eosinophilic esophagitis (EoE)** — [[K20.0]]; immune-mediated chronic esophagitis; odynophagia + dysphagia + food impaction
+> - **GERD (Gastroesophageal reflux disease)** — [[K21.00]] / [[K21.9]]; acid reflux causing esophageal mucosal injury and pain with swallowing
+> - **Pill-induced esophagitis** — medication lodging and causing direct chemical mucosal injury; classic agents: bisphosphonates, tetracyclines, NSAIDs, KCl
+> - **Peritonsillar abscess** — [[J36]]; pharyngeal cause of severe odynophagia with deviated uvula and trismus; ENT emergency
+> - **Streptococcal pharyngitis** — [[J02.0]]; common oropharyngeal cause; odynophagia + exudative tonsils + fever
+> - **Esophageal ulcer** — [[K22.10]] / [[K22.11]]; discrete mucosal break causing focal, severe odynophagia
+> - **Esophageal dyskinesia / Achalasia** — [[K22.4]] / [[K22.0]]; motility disorders that may cause odynophagia alongside dysphagia
 > - **[[Mucositis]]** — chemotherapy or radiation-induced mucosal breakdown; oropharyngeal and esophageal odynophagia
-> - **[[Plummer-Vinson syndrome / Sideropenic dysphagia]]** — [[D50.1]]; iron-deficiency anemia with esophageal web; painful dysphagia
+> - **Plummer-Vinson syndrome / Sideropenic dysphagia** — [[D50.1]]; iron-deficiency anemia with esophageal web; painful dysphagia
 > - **[[Barrett's esophagus]]** — [[K22.70]]; chronic GERD complication found on EGD during odynophagia workup
-> - **[[Esophagogastroduodenoscopy (EGD)]]** — primary diagnostic procedure for odynophagia workup; identifies esophagitis, ulcers, strictures, masses
+> - **[[Esophagogastroduodenoscopy]] (EGD)** — primary diagnostic procedure for odynophagia workup; identifies esophagitis, ulcers, strictures, masses
 
 _____
 

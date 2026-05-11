@@ -18,10 +18,10 @@ definition:
   - sound perception
 ---
 
-# **Combining Form: [[audi-]] / [[audio-]]**
+# **Combining Form: audi- / audio-**
 
 ## Short Definition
-Relating to hearing or sound; The prefix **[[audi-]]** (or **[[audio-]]**) ==originates from the Latin word _audire_, meaning "to hear" or "listen"==. It is a foundational root used in English to denote sound, listening, or the sense of hearing. Common words using this prefix include **[[audible]]**.
+Relating to hearing or sound; The prefix **[[audi-]]** (or **[[audio-]]**) ==originates from the Latin word _audire_, meaning "to hear" or "listen"==. It is a foundational root used in English to denote sound, listening, or the sense of hearing. Common words using this prefix include **audible**.
 
 ## Long Definition
 The combining form **[[audi-]]/[[audio-]]** refers to hearing, sound perception, or auditory function. It appears frequently in ENT, neurology, and diagnostic testing terminology.
@@ -36,9 +36,9 @@ The combining form **[[audi-]]/[[audio-]]** refers to hearing, sound perception,
 | [[phon-]] | sound |
 
 ## Common Medical Terms
-- **[[Audiogram]]** - hearing test  
-- **[[Audiology]]** - study of hearing  
-- **[[Auditory nerve]]** - nerve responsible for hearing  
+- **Audiogram** - hearing test  
+- **Audiology** - study of hearing  
+- **Auditory nerve** - nerve responsible for hearing  
 
 ## Documentation Clues
 - “Hearing loss”

@@ -4,6 +4,7 @@ tags:
   - medroot
 aliases:
   - biliary tract infection
+  - Cholangitis
 roots:
   - chol-
   - angi-
@@ -35,7 +36,7 @@ _____
 > 
 > - **ICD-10-CM:** The primary code is **[[K83.01]]** ([[Cholangitis]]). However, it is a "code first" condition if associated with certain underlying causes. If the patient has calculus of the bile duct with cholangitis, the coder must use category **K80.3-**.
 >     
-> - **Sepsis Sequencing:** If the patient presents with s[[ystemic inflammatory response syndrome (**SIRS**)]] due to cholangitis, **[[A41.9]]** ([[Sepsis]], unspecified organism) may be the principal diagnosis, followed by K83.01 as the localized infection, depending on the circumstances of admission.
+> - **Sepsis Sequencing:** If the patient presents with systemic inflammatory response syndrome (**SIRS**) due to cholangitis, **[[A41.9]]** ([[Sepsis]], unspecified organism) may be the principal diagnosis, followed by K83.01 as the localized infection, depending on the circumstances of admission.
 >     
 > - **ICD-10-PCS Root Operations:** * If a stent is placed to relieve obstruction: **[[Insertion]]** (Putting in a non-biological appliance).
 >     
@@ -86,7 +87,7 @@ _____
 >```
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

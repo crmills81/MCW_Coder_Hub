@@ -1,8 +1,9 @@
 ---
 tags:
-  - specialty/ophthalmology
+  - ophthalmology
   - medterm
-aliases: []
+aliases: 
+ - Cyanopia
 roots:
   - cyan-
   - op-
@@ -39,7 +40,7 @@ _____
 >```
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

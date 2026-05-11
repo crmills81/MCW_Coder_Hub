@@ -36,18 +36,18 @@ _____
 >|**[[glott-]]**|Greek _glōttis_ (GLOHT-is), from _glōtta_ / _glōssa_ (GLOHS-ah)|"**tongue**," "**mouth of the windpipe**," "**vocal apparatus**" — combining root referring to the laryngeal vocal structure|
 >|**[[-is]]**|Greek/Latin _-is_ (is)|Noun-forming suffix — indicating "**anatomical structure**" or "**part**"|
 >
-> The term entered English in the **late 1800s** as *supraglottis* (**noun**), from New Latin *supraglottis*, composed of Latin *supra-* ("above") and Greek *glōttis* ("mouth of the windpipe / vocal apparatus") — literally **"that which is above the glottis."** The root *glōtt-* connects Supraglottis to the entire **[[-glott- root family]]**: ***[[glottis]]*** (**glōtt- + -is → the vocal apparatus itself**), ***[[subglottis]]*** (**sub- + glottis → below the glottis**), and ***[[epiglottis]]*** (**epi- + glottis → upon the glottis**). The positional prefix *[[supra-]]* is highly productive in anatomical and medical terminology, appearing in ***[[supraclavicular]]***, ***[[suprapubic]]***, ***[[supraspinatus]]***, ***[[suprarenal]]***, and ***[[supraventricular]]***.
+> The term entered English in the **late 1800s** as *supraglottis* (**noun**), from New Latin *supraglottis*, composed of Latin *supra-* ("above") and Greek *glōttis* ("mouth of the windpipe / vocal apparatus") — literally **"that which is above the glottis."** The root *glōtt-* connects Supraglottis to the entire **[[-glott-]] root family**: ***glottis*** (**glōtt- + -is → the vocal apparatus itself**), ***[[subglottis]]*** (**sub- + glottis → below the glottis**), and ***[[epiglottis]]*** (**epi- + glottis → upon the glottis**). The positional prefix *[[supra-]]* is highly productive in anatomical and medical terminology, appearing in ***[[supraclavicular]]***, ***[[suprapubic]]***, ***supraspinatus***, ***[[suprarenal]]***, and ***[[supraventricular]]***.
 
 _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 >
-> - **[[Supraglottic]]** _(adjective form — used clinically in "supraglottic carcinoma," "supraglottic laryngectomy," "supraglottic swallow," and "supraglottic airway")_
+> - **[[supraglottis|Supraglottic]]** _(adjective form — used clinically in "supraglottic carcinoma," "supraglottic laryngectomy," "supraglottic swallow," and "supraglottic airway")_
 > - **Supraglottic larynx** _(full anatomical descriptor used in radiology, operative, and oncology reports; synonymous with supraglottis)_
 > - **[[Epiglottis]]** _(the most prominent structural component of the supraglottis — the cartilaginous flap that closes the laryngeal inlet during swallowing; NOT synonymous with supraglottis, which is the entire compartment)_
 > - **[[Supraglottitis]]** _(acute inflammatory condition of the entire supraglottic region; modern preferred term when inflammation extends beyond just the epiglottis; [[J04.30]] without obstruction, [[J04.31]] with obstruction)_
-> - **[[Acute epiglottitis]]** _(acute inflammation primarily of the epiglottis; classically caused by_ H. influenzae _type b; [[J05.10]] without obstruction, [[J05.11]] with obstruction — distinct from supraglottitis codes)_
-> - **[[Supraglottic carcinoma]]** _(squamous cell carcinoma arising within the supraglottic compartment; notable for early bilateral cervical metastasis; [[C32.1]])_
+> - **Acute epiglottitis** _(acute inflammation primarily of the epiglottis; classically caused by_ H. influenzae _type b; [[J05.10]] without obstruction, [[J05.11]] with obstruction — distinct from supraglottitis codes)_
+> - **Supraglottic carcinoma** _(squamous cell carcinoma arising within the supraglottic compartment; notable for early bilateral cervical metastasis; [[C32.1]])_
 > - **[[Laryngomalacia]]** _(the most common cause of stridor in infants; involves supraglottic structures — most often the epiglottis and aryepiglottic folds — collapsing into the airway on inspiration; [[Q31.5]])_
 > - **Aryepiglottic fold carcinoma** _(SCC arising from the aryepiglottic fold, which is part of the supraglottis; included under [[C32.1]] — also coded here is the hypopharyngeal aspect coded separately to [[C13.1]])_
 > - **False vocal cords** _(the vestibular folds — paired mucosal folds within the supraglottis just above the true vocal cords; not used for phonation; serve airway protection; also called ventricular folds)_
@@ -61,9 +61,9 @@ _____
 > - **[[Subglottis]]** — the lowermost laryngeal compartment below the true vocal cords extending to the inferior cricoid border; malignancy coded to [[C32.2]]; see [[Subglottis]] note
 > - **[[Epiglottis]]** — the leaf-shaped cartilaginous structure that is the most superior and anterior component of the supraglottis; it deflects food into the esophagus during swallowing; inflammation coded to [[J05.10]] or [[J05.11]]
 > - **[[Laryngomalacia]]** — the most common congenital supraglottic pathology; abnormal collapse of supraglottic structures (omega-shaped epiglottis, short aryepiglottic folds) into the airway; coded to [[Q31.5]]; treated surgically with supraglottoplasty
-> - **[[Hypopharynx]]** — the structure immediately superior and posterior to the supraglottis where the digestive and respiratory tracts diverge; tumors at the aryepiglottic fold can span both structures requiring careful site documentation; hypopharyngeal carcinoma coded to [[C13.x]]
+> - **[[Hypopharynx]]** — the structure immediately superior and posterior to the supraglottis where the digestive and respiratory tracts diverge; tumors at the aryepiglottic fold can span both structures requiring careful site documentation; hypopharyngeal carcinoma coded to C13.x
 > - **Laryngeal adductor reflex** — the protective neuromuscular reflex that closes the supraglottic inlet during swallowing; disruption causes aspiration; relevant to dysphagia coding ([[R13.10]]-[[R13.19]]) and swallowing study CPT codes
-> - **[[Aspiration]]** — the entry of food, liquid, or secretions into the airway below the supraglottis; a major functional consequence of supraglottic dysfunction; coded to [[J69.0]] (pneumonitis due to food/vomit) or [[T17.x]] (foreign body in airway)
+> - **[[Aspiration]]** — the entry of food, liquid, or secretions into the airway below the supraglottis; a major functional consequence of supraglottic dysfunction; coded to [[J69.0]] (pneumonitis due to food/vomit) or T17.x (foreign body in airway)
 > - **[[Laryngectomy]]** — surgical resection of the larynx; supraglottic laryngectomy specifically removes the supraglottic compartment while preserving the true vocal cords and voice; coded to CPT [[31367]] or [[31368]]
 > - **[[Dysphonia]]** — voice impairment; while primarily a glottic symptom, supraglottic lesions (especially large epiglottic tumors) can alter resonance and voice quality; coded to [[R49.0]]
 > - **[[Dysphagia]]** — difficulty swallowing; a cardinal symptom of supraglottic pathology given the supraglottis' role in airway protection during swallowing; coded to [[R13.10]]-[[R13.19]] by type

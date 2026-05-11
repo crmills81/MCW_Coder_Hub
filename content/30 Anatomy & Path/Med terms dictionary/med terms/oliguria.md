@@ -71,8 +71,8 @@ last_updated: 2026-02-10
 - **Vasodilatory medications**
 
 **Renal artery problems:**
-- [[Renal artery stenosis]]
-- [[Renal artery thrombosis]]
+- Renal artery stenosis
+- Renal artery thrombosis
 
 **Key feature:** Prerenal oliguria is **potentially reversible** if normal renal perfusion is restored promptly.
 
@@ -82,7 +82,7 @@ last_updated: 2026-02-10
 
 **Direct kidney injury or disease**
 
-**[[Acute Tubular Necrosis]] (ATN)** - most common intrinsic cause: 
+**Acute Tubular Necrosis (ATN)** - most common intrinsic cause: 
 - **[[Ischemic]] ATN** - prolonged hypoperfusion (>4 hours)
 - **[[Nephrotoxic]] ATN** - toxic injury to tubules
   - Medications: Aminoglycosides (gentamicin, kanamycin), vancomycin, NSAIDs, ACE inhibitors
@@ -94,22 +94,22 @@ last_updated: 2026-02-10
 **Glomerular diseases:**
 - [[Glomerulonephritis]]
 - [[vasculitis]] (e.g., ANCA-associated)
-- [[Lupus nephritis]]
+- Lupus nephritis
 - Goodpasture syndrome
 
 **Vascular diseases:**
 - Malignant hypertension
 - Scleroderma renal crisis
-- [[Thrombotic microangiopathy]] (TTP, HUS)
+- Thrombotic microangiopathy (TTP, HUS)
 
-**[[Interstitial nephritis]]:**
+**Interstitial nephritis:**
 - Acute interstitial nephritis (drug-induced)
 - Chronic interstitial nephritis
 
 **Other kidney diseases:**
-- [[acute kidney injury]] ([[AKI]])
-- [[Chronic kidney disease]] ([[CKD]]) - advanced stages
-- [[Polycystic kidney disease]]
+- [[acute kidney injury]] (AKI)
+- [[Chronic kidney disease]] (CKD) - advanced stages
+- Polycystic kidney disease
 
 **Infections:**
 - Severe urinary tract infections (UTIs)
@@ -267,13 +267,13 @@ last_updated: 2026-02-10
 - **Vital signs:** Blood pressure (high or low?), heart rate, temperature
 - **Volume status assessment:**
   - Skin turgor, mucous membranes (dehydration)
-  - [[Jugular venous pressure]] (JVP) - volume status
-  - [[Orthostatic hypotension]]
+  - Jugular venous pressure (JVP) - volume status
+  - Orthostatic hypotension
 - **[[edema]]:** Peripheral, pulmonary, ascites
 - **Bladder:** Palpable distended bladder (suggests obstruction)
 - **Cardiac:** Heart failure signs
 - **Abdominal:** Masses, tenderness
-- **Prostate exam (men):** [[BPH]], prostate enlargement
+- **Prostate exam (men):** BPH, prostate enlargement
 - **Neurologic exam:** Mental status changes
 
 ### Laboratory Tests
@@ -281,7 +281,7 @@ last_updated: 2026-02-10
 **Essential labs:**
 - **Serum electrolytes** - Na, K, Cl, CO2
 - **BUN (Blood Urea Nitrogen)** - elevated in kidney dysfunction
-- **[[Creatinine]]** - assess kidney function
+- **Creatinine** - assess kidney function
 - **BUN:Creatinine ratio** - helps differentiate prerenal from renal
   - **>20:1** suggests prerenal (dehydration)
   - **<15:1** suggests intrinsic renal disease
@@ -378,7 +378,7 @@ last_updated: 2026-02-10
 
 **Goal: Supportive care, prevent further damage**
 
-**Discontinue [[nephrotoxic]] agents:**
+**Discontinue nephrotoxic agents:**
 - Stop NSAIDs, aminoglycosides, contrast agents
 - Adjust medication doses for renal function
 
@@ -443,8 +443,8 @@ last_updated: 2026-02-10
 
 **If oliguria is untreated or prolonged:**
 
-- **[[Acute kidney injury (AKI)]]**
-- **[[Chronic kidney disease (CKD)]]** - if prolonged
+- **[[acute kidney injury|Acute kidney injury]]**
+- **[[Chronic kidney disease]]** - if prolonged
 - **[[Hyperkalemia]]** - life-threatening arrhythmias
 - **[[Metabolic acidosis]]** - pH disturbances
 - **Volume overload** - pulmonary edema, heart failure
@@ -526,7 +526,7 @@ last_updated: 2026-02-10
 ## Common CPT Codes with Oliguria
 
 ### E/M Services
-- **[[10 Guidelines/00 E&M Resources/99221]]-[[99223]]** - Initial hospital care
+- **[[99221]]-[[99223]]** - Initial hospital care
 - **[[99231-[[99233]]** - Subsequent hospital care
 - **[[99291-[[99292]]** - Critical care (if severe)
 - **[[99281-[[99285]]** - Emergency department services
@@ -626,24 +626,6 @@ last_updated: 2026-02-10
 ✅ **Electrolyte complications** - code all documented ([[hyperkalemia]], [[acidosis]], etc.) as they affect severity/DRG
 
 ✅ **Post-void residual** - if measured, document findings (normal <50 mL, abnormal >200 mL)
-
----
-
-## Related Obsidian Notes
-
-- [[Acute Kidney Injury (AKI)]]
-- [[Chronic Kidney Disease (CKD)]]
-- [[Anuria]]
-- [[Urinary Retention]]
-- [[Hydronephrosis]]
-- [[Dehydration]]
-- [[Hyperkalemia]]
-- [[Metabolic Acidosis]]
-- [[Acute Tubular Necrosis (ATN)]]
-- [[benign prostatic hyperplasia (BPH)]]
-- [[Fractional Excretion of Sodium (FENa)]]
-- [[dialysis]]
-- [[Post-Obstructive Diuresis]]
 
 ---
 

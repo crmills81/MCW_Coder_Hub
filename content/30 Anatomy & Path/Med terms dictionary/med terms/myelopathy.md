@@ -48,7 +48,7 @@ _____
 > - **Spinal cord compression** _(clinical synonym; specifically refers to compressive etiologies, common in orthopedic and neurosurgical settings)_
 > - **[[Myeloradiculopathy]]** _(complex form; indicates simultaneous involvement of both the spinal cord and the adjacent nerve roots)_
 > - **Cervical Spondylotic Myelopathy (CSM)** _(clinical descriptor synonym; the most common acquired cause of spinal cord dysfunction in adults)_
-> - **[[Acute Transverse Myelitis|Acute Transverse Myelitis]]** _(inflammatory subtype; rapidly progressive weakness and sensory changes; [[G37.3]])_
+> - **Acute Transverse Myelitis** _(inflammatory subtype; rapidly progressive weakness and sensory changes; [[G37.3]])_
 > - **Subacute Combined Degeneration** _(systemic or syndromic form; demyelination of dorsal and lateral columns due to Vitamin B12 deficiency; [[G32.0]])_
 > - **Compressive myelopathy** _(etiologic subtype; due to extrinsic physical pressure from herniated discs, osteophytes, or tumors)_
 > - **Ischemic myelopathy** _(etiologic subtype; due to compromised vascular supply to the spinal cord, such as anterior spinal artery syndrome)_

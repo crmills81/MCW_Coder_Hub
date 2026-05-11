@@ -120,7 +120,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[turbinectomy]].definition, word))) > 0 AND file.name != [[turbinectomy]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

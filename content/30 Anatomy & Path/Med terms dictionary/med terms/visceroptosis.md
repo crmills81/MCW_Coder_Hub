@@ -65,18 +65,18 @@ _____
 > - **[[gastroptosis]]** — downward displacement of the stomach; greater curve below iliac crest; most common **visceroptosis** subtype; [[K31.89]]
 > - **[[enteroptosis]]** — small intestine prolapse; billable ICD-10 code [[K63.4]]; the only specific **visceroptosis** ICD-10 code family
 > - **[[nephroptosis]]** — mobile/floating kidney; descends >2 vertebral bodies or >5 cm upright; may cause Dietl's crisis (intermittent flank pain with nausea/vomiting); [[N28.83]]
-> - **[[Ehlers-Danlos syndrome (hEDS)]]** — hypermobile subtype; intrinsic collagen laxity causes ligamentous insufficiency → **visceroptosis**; GI manifestations in up to 50% of hEDS; [[Q79.60]]
-> - **[[superior mesenteric artery (SMA) syndrome]]** — **visceroptosis** is a known risk factor; organ descent reduces the aortomesenteric angle → duodenal compression; [[K31.5]]
+> - **Ehlers-Danlos syndrome (hEDS)** — hypermobile subtype; intrinsic collagen laxity causes ligamentous insufficiency → **visceroptosis**; GI manifestations in up to 50% of hEDS; [[Q79.60]]
+> - **superior mesenteric artery (SMA) syndrome** — **visceroptosis** is a known risk factor; organ descent reduces the aortomesenteric angle → duodenal compression; [[K31.5]]
 > - **[[mesentery]]** — the peritoneal fold suspending the small intestine from the posterior abdominal wall; its laxity or elongation is the anatomical substrate of enteroptosis
-> - **[[pelvic organ prolapse (POP)]]** — the pelvic-floor analog to **visceroptosis**; cystocele, rectocele, uterine prolapse; overlapping pathophysiology; [[N81.x]]
-> - **[[diastasis recti]]** — separation of rectus abdominis midline; impairs abdominal wall containment of viscera; may coexist with **visceroptosis**; [[M62.08]]
-> - **[[abdominal wall laxity]]** — loss of musculofascial tone allowing organ descent; major contributing factor
-> - **[[Glénard's test]]** — clinical exam maneuver; manual visceral lift → relief; sudden release → distress; supports [[splanchnoptosis]] diagnosis
+> - **pelvic organ prolapse (POP)** — the pelvic-floor analog to **visceroptosis**; cystocele, rectocele, uterine prolapse; overlapping pathophysiology; N81.x
+> - **diastasis recti** — separation of rectus abdominis midline; impairs abdominal wall containment of viscera; may coexist with **visceroptosis**; [[M62.08]]
+> - **abdominal wall laxity** — loss of musculofascial tone allowing organ descent; major contributing factor
+> - **Glénard's test** — clinical exam maneuver; manual visceral lift → relief; sudden release → distress; supports [[splanchnoptosis]] diagnosis
 > - **[[nephropexy]]** — surgical fixation of a prolapsed kidney; CPT [[50400]]/[[50405]]; may relieve [[nephroptosis]] symptoms; frequent surgical failure rate
 > - **[[colopexy]]** — surgical fixation of prolapsed colon; CPT [[46748]]/[[44900]] series; similarly high recurrence
-> - **[[hypermobility spectrum disorder (HSD)]]** — broader connective tissue laxity spectrum overlapping with hEDS; **visceroptosis** may occur; [[M35.7]]
+> - **hypermobility spectrum disorder (HSD)** — broader connective tissue laxity spectrum overlapping with hEDS; **visceroptosis** may occur; [[M35.7]]
 > - **[[gastroparesis]]** — impaired gastric motility; overlapping condition with [[gastroptosis]]; both cause nausea and early satiety; [[K31.84]]
-> - **[[MALS (median arcuate ligament syndrome)]]** — celiac artery compression disorder; may co-occur with **visceroptosis** and SMA syndrome in connective tissue laxity patients; [[I77.4]]
+> - **MALS (median arcuate ligament syndrome)** — celiac artery compression disorder; may co-occur with **visceroptosis** and SMA syndrome in connective tissue laxity patients; [[I77.4]]
 
 _____
 

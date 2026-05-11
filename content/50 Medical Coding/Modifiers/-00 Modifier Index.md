@@ -50,6 +50,6 @@ SORT file.name ASC
 
 ## 🔗 Related
 [[00 CPT Code Index]]
-[[00 ICD-10 Code Index]]
-[[40 Audits & Denials]]
+[[00 ICD-10-CM Index]]
+40 Audits & Denials
 [[Status Indicators Quick Reference]]

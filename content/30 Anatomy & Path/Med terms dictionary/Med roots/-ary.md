@@ -22,8 +22,8 @@ _____
 >#latin 
 >- **Origin**: Latin suffix _-ārius_ (**masculine**), _-āria_ (**feminine**), _-ārium_ (**neuter**)
 >- **Meaning**: The Latin forms indicated "**pertaining to**," "**connected with**," or "**a place for**"
->- **Evolution**: Entered English through Old French _[[-aire]]_ and directly from Latin, maintaining its associative function
->- **Linguistic pattern**: Part of the larger family of Latin _-[[arius]]_ derivatives that create relational adjectives and nouns
+>- **Evolution**: Entered English through Old French _-aire_ and directly from Latin, maintaining its associative function
+>- **Linguistic pattern**: Part of the larger family of Latin _-arius_ derivatives that create relational adjectives and nouns
 >
 _____
 >[!example]+ RELATED TERMS to [[-ary]]

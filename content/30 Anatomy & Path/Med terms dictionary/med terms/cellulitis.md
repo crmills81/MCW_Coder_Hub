@@ -19,10 +19,10 @@ definition:
   - bacterial skin infection
 ---
 >[!Note] DEFINITION of [[cellulitis]]
->[[cellulitis]] is an **acute, spreading bacterial infection affecting the deep [[dermis]] and [[subcutaneous]] tissues**. Unlike an [[abscess]], which is a contained, walled-off collection of [[pus]], cellulitis is a diffuse inflammation that spreads laterally through tissue planes, often facilitated by bacterial [[enzymes]] that break down cellular barriers. It is clinically characterized by the four cardinal signs of inflammation: [[erythema]] (**redness**), [[edema]] (**swelling**), [[calor]] (**warmth**), and tenderness to [[palpation]]. While frequently unilateral, if left untreated, the infection can ascend via lymphatic vessels to the lymph nodes ([[lymphangitis]]) or enter the bloodstream, leading to [[bacteremia]] or life-threatening [[sepsis]].
+>[[cellulitis]] is an **acute, spreading bacterial infection affecting the deep dermis and [[subcutaneous]] tissues**. Unlike an [[abscess]], which is a contained, walled-off collection of [[pus]], cellulitis is a diffuse inflammation that spreads laterally through tissue planes, often facilitated by bacterial [[enzymes]] that break down cellular barriers. It is clinically characterized by the four cardinal signs of inflammation: [[erythema]] (**redness**), [[edema]] (**swelling**), calor (**warmth**), and tenderness to palpation] While frequently unilateral, if left untreated, the infection can ascend via lymphatic vessels to the lymph nodes ([[lymphangitis]]) or enter the bloodstream, leading to [[bacteremia]] or life-threatening [[sepsis]].
 >
 > #### Related Terms & Synonyms
->- **[[Erysipelas]]:** A specific subtype of superficial cellulitis involving the upper dermis and superficial lymphatics. It is distinguished clinically by **well-demarcated, raised borders** (**unlike the indistinct borders of cellulitis**) and is almost exclusively caused by Group A *Streptococcus*.
+>- **Erysipelas:** A specific subtype of superficial cellulitis involving the upper dermis and superficial lymphatics. It is distinguished clinically by **well-demarcated, raised borders** (**unlike the indistinct borders of cellulitis**) and is almost exclusively caused by Group A *Streptococcus*.
 >- **[[lymphangitis]]:** Inflammation of the lymphatic vessels, often serving as a visible "*red streak*" tracking proximally from the infection site toward regional lymph nodes. This is a sign of worsening infection.
 >- **[[Phlegmon]]:** An archaic but descriptively useful term for spreading diffuse inflammation of soft or connective tissue that may lead to ulceration or [[abscess]] formation.
 >- **[[Necrotizing Fasciitis]]:** A severe, life-threatening infection ("**flesh-eating disease**") that extends deeper than cellulitis into the [[fascia]]. **Red flags** distinguishing this from cellulitis include pain out of proportion to exam findings, rapid progression, and crepitus (gas under the skin).
@@ -32,7 +32,7 @@ _____
 >#latin
 >- **Origin:** 19th century (*first coined in 1861*).
 >- **Roots:** Derived from the Latin _cellula_ ("**little cell" or "compartment**") + #greek suffix _[[-itis]]_ ("**inflammation**").
->- **Historical Context:** The term originally referred to the inflammation of the "**cellular tissue**," an archaic anatomical term for the loose connective tissue (now called [[areolar]] tissue) found in the [[subcutaneous]] layer. Historically, this was distinguished from "[[erysipelas]]" (**which affects the upper dermis**) by its tendency to affect deeper structures.
+>- **Historical Context:** The term originally referred to the inflammation of the "**cellular tissue**," an archaic anatomical term for the loose connective tissue (now called areolar tissue) found in the [[subcutaneous]] layer. Historically, this was distinguished from "erysipelas" (**which affects the upper dermis**) by its tendency to affect deeper structures.
 _____
 
 > [!example]+ **Coding Information**
@@ -64,7 +64,7 @@ _____
 > 
 > - **[[99202]]-[[99215]]:** Office/Outpatient E/M visits.
 >     - _Context:_ Code selection depends on Medical Decision Making (**MDM**). Prescription of oral antibiotics typically supports **Low Complexity ([[99213]])**, while decision to administer IV antibiotics or consideration of hospitalization supports **Moderate to High Complexity ([[99214]]/[[99215]])**.
-> - **[[96374]]:** Therapeutic, [[prophylactic]], or diagnostic injection... intravenous push, single or initial substance/drug.
+> - **[[96374]]:** Therapeutic, prophylactic, or diagnostic injection... intravenous push, single or initial substance/drug.
 >     - _Usage:_ Used for the initial administration of IV antibiotics (e.g., Ceftriaxone) in an office or urgent care setting.
 > - **[[96360]]:** Intravenous infusion, hydration; initial, 31 minutes to 1 hour.
 > - **[[11000]]:** Debridement of extensive eczematous or infected skin; up to 10% of body surface.
@@ -82,7 +82,7 @@ _____
 > - _Anatomical Exclusions (Code to the specific organ instead):_
 >     - Cellulitis of anal and rectal region (K61.-).
 >     - Cellulitis of external genital organs ([[N48.2]] for male, [[N76.4]] for female).
->     - Cellulitis of eyelid (H00.0 - [[Hordeolum]] and [[30 Anatomy & Path/Med terms dictionary/med terms/chalazion]] / [[Preseptal cellulitis]]).
+>     - Cellulitis of eyelid (H00.0 - [[Hordeolum]] and [[chalazion]] / [[cellulitis]]).
 >     - Cellulitis of mouth ([[K12.2]]).
 > 
 > **Excludes2 (Type 2 Excludes - Can be coded together if distinct):**
@@ -98,9 +98,9 @@ _____
 > - **Simple Cellulitis (L03.x):** Generally does **NOT** map to an HCC. It is considered an acute, short-term condition that resolves with antibiotics.
 >     
 > - **Complications & Severity:**
->     - **[[sepsis]] ([[A41.9]]):** If the cellulitis progresses to Sepsis, it maps to **HCC 2** ([[Septicemia]], Sepsis, and [[Systemic Inflammatory Response Syndrome]]/[[shock]]), which carries a high risk adjustment weight.
+>     - **[[sepsis]] ([[A41.9]]):** If the cellulitis progresses to Sepsis, it maps to **HCC 2** ([[Septicemia]], Sepsis, and Systemic Inflammatory Response Syndrome/[[shock]]), which carries a high risk adjustment weight.
 >     - **Necrotizing Fasciitis ([[M72.6]]):** Maps to **HCC 48** (Inflammatory Bone Disease, [[Osteomyelitis]], and [[Arthropathy]]).
->     - **[[Diabetic Ulcer]]:** If cellulitis is associated with a diabetic [[ulcer]], code the ulcer (e.g., [[E11.621]]) which maps to **HCC 161/162** (Chronic Skin Ulcers).
+>     - **Diabetic Ulcer** If cellulitis is associated with a diabetic [[ulcer]], code the ulcer (e.g., [[E11.621]]) which maps to **HCC 161/162** (Chronic Skin Ulcers).
 > 
 > ### Assistant Surgeon Pay
 > 
@@ -118,15 +118,15 @@ _____
 > 
 > ### Common Pathogens
 > 
-> - **[[Group A Streptococcus]] (**_**Streptococcus pyogenes**_**):** The most common cause of diffuse, non-purulent cellulitis.
-> - **[[Staphylococcus aureus]] (including MRSA):** Often associated with **[[purulent]]** cellulitis, where the infection has a central abscess, boil, or weeping discharge.
+> - **Group A Streptococcus (**_**Streptococcus pyogenes**_**):** The most common cause of diffuse, non-purulent cellulitis.
+> - **Staphylococcus aureus (including MRSA):** Often associated with **[[purulent]]** cellulitis, where the infection has a central abscess, boil, or weeping discharge.
 > - **Pasteurella multocida:** Strongly associated with dog or cat bites (**rapid onset, <24 hours**).
 > - **Vibrio vulnificus:** A serious pathogen associated with saltwater exposure or handling raw seafood (**warm coastal waters**).
-> - **[[Pseudomonas aeruginosa]]:** Common in puncture wounds through sneakers/tennis shoes.
+> - **Pseudomonas aeruginosa:** Common in puncture wounds through sneakers/tennis shoes.
 > 
 > ### Symptoms
 > 
-> - **Unilateral:** Usually affects only one limb. Bilateral "**cellulitis**" is rare and often actually [[stasis dermatitis]].
+> - **Unilateral:** Usually affects only one limb. Bilateral "**cellulitis**" is rare and often actually stasis dermatitis.
 > - **Indistinct borders:** The redness fades into normal skin (**unlike Erysipelas**).
 > - **Skin Texture:** May present with "*peau d'orange*" (**orange peel texture**) due to edema around hair follicles.
 > - **Systemic signs:** Fever, chills, and [[leukocytosis]] (**high white blood cell count**) indicate deeper involvement or **bacteremia**.

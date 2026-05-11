@@ -147,7 +147,7 @@ _____
 > | CPT Code | Description |
 > |---|---|
 > | **[[91200]]** | Liver elastography, mechanically induced shear wave (e.g., vibration controlled transient elastography), without imaging, with interpretation and report _(FibroScan/transient elastography — non-invasive liver stiffness measurement used as an alternative to biopsy for fibrosis staging; covered by Medicare for chronic HCV and other chronic liver diseases with fibrosis risk; always requires **[[J84.112]]** / **[[K74.00]]** etc. as the supporting diagnosis on the claim)_ |
-> | **[[0001M]]** | Infectious disease, HCV, six biochemical assays (FibroTest) _(A proprietary serum fibrosis marker panel for HCV-associated hepatic fibrosis — verify individual payer coverage as many commercial plans consider non-invasive fibrosis panels investigational)_ |
+> | **0001M** | Infectious disease, HCV, six biochemical assays (FibroTest) _(A proprietary serum fibrosis marker panel for HCV-associated hepatic fibrosis — verify individual payer coverage as many commercial plans consider non-invasive fibrosis panels investigational)_ |
 >
 > #### **Cystic Fibrosis — Airway Clearance & CFTR Modulator Therapy**
 >

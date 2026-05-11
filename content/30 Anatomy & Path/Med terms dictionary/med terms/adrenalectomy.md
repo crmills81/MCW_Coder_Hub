@@ -58,14 +58,14 @@ _____
 > |Term|Meaning|Coding Relevance|
 > |---|---|---|
 > |**[[pheochromocytoma]]**|Catecholamine-secreting adrenal medulla tumor|Most common malignant indication; affects code selection|
-> |**[[adrenocortical carcinoma]]**|Malignant tumor of the adrenal cortex|Distinct ICD-10 code; may require radical approach|
-> |**[[Cushing's syndrome]]**|Excess cortisol from adrenal hyperplasia or tumor|Common indication; document etiology (ACTH-dependent vs. independent)|
-> |**[[Conn's syndrome]]**|Primary hyperaldosteronism from adrenal adenoma|Indication for [[adrenalectomy|Adrenalectomy]]; document laterality|
+> |**adrenocortical carcinoma**|Malignant tumor of the adrenal cortex|Distinct ICD-10 code; may require radical approach|
+> |**Cushing's syndrome**|Excess cortisol from adrenal hyperplasia or tumor|Common indication; document etiology (ACTH-dependent vs. independent)|
+> |**Conn's syndrome**|Primary hyperaldosteronism from adrenal adenoma|Indication for [[adrenalectomy|Adrenalectomy]]; document laterality|
 > |**[[nephrectomy]]**|Surgical removal of kidney|May be performed concurrently; CCI bundling rules apply|
 > |**[[lymphadenectomy]]**|Removal of lymph nodes|May be separately coded if documented as distinct service|
 > |**[[retroperitoneoscopy]]**|Posterior endoscopic approach to [[retroperitoneum]] | Approach distinction affects operative complexity documentation|
-> |**[[adrenal cortex]]**|Outer layer of adrenal gland; produces steroids|Cortical vs. medullary origin affects diagnosis coding|
-> |**[[adrenal medulla]]**|Inner layer; produces catecholamines (epinephrine)|Source of pheochromocytoma|
+> |**adrenal cortex**|Outer layer of adrenal gland; produces steroids|Cortical vs. medullary origin affects diagnosis coding|
+> |**adrenal medulla**|Inner layer; produces catecholamines (epinephrine)|Source of pheochromocytoma|
 
 _____
 
@@ -86,15 +86,15 @@ _____
 _____
 
 > [!tip]+ ## **Common Clinical Indications**
-> - [[pheochromocytoma]] (most common malignant indication)
+> - **[[pheochromocytoma]]** (most common malignant indication)
 >
-> - [[Adrenocortical carcinoma]]
+> - **Adrenocortical carcinoma**
 >
-> - [[Cushing's syndrome]] (cortisol-secreting adrenal adenoma)
+> - **Cushing's syndrome** (cortisol-secreting adrenal adenoma)
 >
-> - [[Conn's syndrome]] / Primary hyperaldosteronism (aldosterone-secreting adenoma)
+> - **Conn's syndrome / Primary hyperaldosteronism** (aldosterone-secreting adenoma)
 >
-> - Adrenal metastasis from other primary malignancy
+> - **Adrenal metastasis** from other primary malignancy
 >
 > - Non-functioning adrenal incidentaloma (large or growing)
 >
@@ -102,11 +102,11 @@ _____
 >
 > ## Types of Adrenalectomy
 >
-> - **[[Unilateral adrenalectomy]]**: Removal of one adrenal gland; most common; patient typically does not require lifelong steroid replacement
+> - **Unilateral adrenalectomy**: Removal of one adrenal gland; most common; patient typically does not require lifelong steroid replacement
 >
-> - **[[Bilateral adrenalectomy]]**: Removal of both adrenal glands; requires **lifelong corticosteroid and mineralocorticoid replacement**
+> - **Bilateral adrenalectomy**: Removal of both adrenal glands; requires **lifelong corticosteroid and mineralocorticoid replacement**
 >
-> - **[[Partial adrenalectomy]]** (cortex-sparing): Removes only the tumor while preserving functional adrenal tissue; preferred in bilateral or hereditary disease (e.g., MEN2, VHL)
+> - **Partial adrenalectomy** (cortex-sparing): Removes only the tumor while preserving functional adrenal tissue; preferred in bilateral or hereditary disease (e.g., MEN2, VHL)
 >
 > ## Surgical Approaches
 >
@@ -114,11 +114,11 @@ _____
 >
 > - **Open lumbar or dorsal**: Flank or posterior approach; less common
 >
-> - **[[Laparoscopic adrenalectomy]]**: Minimally invasive; gold standard for tumors < 6 cm
+> - **Laparoscopic adrenalectomy**: Minimally invasive; gold standard for tumors < 6 cm
 >
 > - **Retroperitoneoscopic adrenalectomy**: Posterior laparoscopic approach; avoids peritoneal cavity
 >
-> - **[[Robotic-assisted adrenalectomy]]**: Enhanced visualization and dexterity; reported under [[60650]] with appropriate documentation
+> - **Robotic-assisted adrenalectomy**: Enhanced visualization and dexterity; reported under [[60650]] with appropriate documentation
 
 _____
 
@@ -152,7 +152,7 @@ _____
 >
 > - [[60540]] and [[60650]] are **"separate procedure"** codes per CPT — do **not** bill separately when adrenalectomy is bundled into a more comprehensive procedure (e.g., radical nephrectomy [[50545]])
 >
-> - **CCI bundling**: Medicare's NCCI bundles both [[60540]] and [[60650]] with all nephrectomy codes — adrenalectomy is considered inclusive when performed with nephrectomy
+> - **CCI bundling**: Medicare's NCCI bundles both [[60540]] and [[60650]] with all [[nephrectomy]] codes — adrenalectomy is considered inclusive when performed with nephrectomy
 >
 > - If surgeon performs significant additional work (e.g., excising a **retroperitoneal mass**), append modifier [[-22]] to represent increased procedural service
 >
@@ -224,7 +224,7 @@ _____
 
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

@@ -26,7 +26,7 @@ ICD-10 Code: N30.00
 definition: inflammation of the bladder lining
 ---
 >[!Note] DEFINITION of **[[cystitis]]**
->**Cystitis** is the medical term for **inflammation of the bladder**, most commonly caused by a bacterial infection. While it is a type of **urinary tract infection (UTI)**, inflammation can also occur due to non-infectious causes like certain **medications**, **radiation therapy**, or **irritation from hygiene products**. [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/cystitis/symptoms-causes/syc-20371306 "Source")
+>**Cystitis** is the medical term for **inflammation of the bladder**, most commonly caused by a bacterial infection. While it is a type of **urinary tract infection (UTI)**, inflammation can also occur due to non-infectious causes like certain **medications**, **radiation therapy**, or **irritation from hygiene products**.
 >**Acute bacterial [[cystitis]]** causes **[[dysuria]], urgency, frequency, and sometimes [[hematuria]]**; it resolves with antibiotics but recurs in many cases, while interstitial cystitis (IC/BPS) is chronic with pelvic pain and no infection. Risk factors include **female anatomy, sexual activity, catheters, and menopause; complications like [[pyelonephritis]]** can arise if untreated.
 >
 >#### Diagnosis Code(s):
@@ -60,7 +60,7 @@ _____
 
 ![[Pasted image 20260208232625.png]]
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

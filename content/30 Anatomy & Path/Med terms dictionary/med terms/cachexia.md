@@ -37,7 +37,7 @@ _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 > 
-> - **[[Cachectic]]** _(adjective form — "the patient appeared cachectic"; "cachectic habitus")_
+> - **Cachectic** _(adjective form — "the patient appeared cachectic"; "cachectic habitus")_
 > - **Wasting syndrome** _(lay/clinical synonym; particularly used for HIV-associated wasting — B22.2)_
 > - **Disease-associated cachexia** _(ICD-10-CM E88.A — FY2024 addition; when cachexia is directly attributed to an underlying chronic illness)_
 > - **Cancer cachexia** _(most studied form; present in up to 80% of advanced cancers; leads to ~20% of cancer deaths directly)_
@@ -150,7 +150,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

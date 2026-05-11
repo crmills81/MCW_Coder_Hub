@@ -20,7 +20,7 @@ _____
 >[!info]+ ETYMOLOGY of [[-able]]
 >#latin 
 >- **Origin**: From Latin _-abilis_, through Old French _-able_
->- **Latin root**: _[[-abilis]]_ (**capable of, worthy of, deserving of**)
+>- **Latin root**: _-abilis_ (**capable of, worthy of, deserving of**)
 >- **Related to**: Latin verb _habere_ (**to have, to hold**)
 >- **Entry into medical language**: Via medieval Latin medical texts and later French medical terminology during the Renaissance
 >- **Linguistic note**: When the root ends in a hard '**c**' or '**g**', the form becomes _[[-cable]]_ or _[[-gable]]_ to preserve pronunciation

@@ -59,18 +59,18 @@ _____
 > |---|---|
 > |**NPDR**|Standard abbreviation for nonproliferative diabetic retinopathy|
 > |**Background retinopathy**|Older synonym; still used clinically|
-> |**[[PDR]]**|**Proliferative diabetic retinopathy** — the advanced stage ([[neovascularization]] present)|
-> |**[[DME]]**|Diabetic macular edema — can co-exist with any NPDR stage|
-> |**[[CSME]]**|Clinically significant [[macular edema]] — older ETDRS term for vision-threatening DME|
+> |**PDR**|**Proliferative diabetic retinopathy** — the advanced stage ([[neovascularization]] present)|
+> |**DME**|Diabetic macular edema — can co-exist with any NPDR stage|
+> |**CSME**|Clinically significant [[macular edema]] — older ETDRS term for vision-threatening DME|
 > |**[[Microaneurysm]]**|Earliest funduscopic finding; tiny focal outpouching of capillary wall|
-> |**[[IRMA]]**|Intraretinal microvascular abnormality — dilated, tortuous capillary shunts; marker of severe NPDR|
-> |**[[Cotton-wool spot]]**|Focal nerve fiber layer infarct from capillary occlusion; appears fluffy/white on fundus exam|
+> |**IRMA**|Intraretinal microvascular abnormality — dilated, tortuous capillary shunts; marker of severe NPDR|
+> |**Cotton-wool spot**|Focal nerve fiber layer infarct from capillary occlusion; appears fluffy/white on fundus exam|
 > |**Venous beading**|Irregular dilation of retinal veins; sign of severe NPDR|
-> |**[[Hard exudates]]**|Lipid/protein deposits from leaking vessels; yellow waxy deposits near macula|
-> |**[[Anti-VEGF]]**|Class of drugs (**aflibercept, ranibizumab, bevacizumab**) that block the neovascularization trigger|
-> |**[[ETDRS]]**|Early Treatment Diabetic Retinopathy Study — defines the standard NPDR staging scale|
-> |**[[HbA1c]]**|Glycated hemoglobin — primary marker of long-term glycemic control; key risk factor|
-> |**[[OCT]]**|Optical coherence tomography — gold standard imaging for detecting and monitoring DME|
+> |**Hard exudates**|Lipid/protein deposits from leaking vessels; yellow waxy deposits near macula|
+> |**Anti-VEGF**|Class of drugs (**aflibercept, ranibizumab, bevacizumab**) that block the neovascularization trigger|
+> |**ETDRS**|Early Treatment Diabetic Retinopathy Study — defines the standard NPDR staging scale|
+> |**HbA1c**|Glycated hemoglobin — primary marker of long-term glycemic control; key risk factor|
+> |**OCT**|Optical coherence tomography — gold standard imaging for detecting and monitoring DME|
 >
 _____
 
@@ -195,7 +195,7 @@ _____
 > > - **Laterality is mandatory** — always code to the 7th character specifying right (**1**), left (**2**), bilateral (**3**), or unspecified (**9**). Unspecified eye codes risk payer denial.
 > > - **Macular edema status must be documented** — the 6th character flip (e.g., **E11.3311** vs. **E11.3391**) represents a clinically and financially significant distinction. Always verify with the operative/encounter note.
 > > - **[[E11.319]]** (unspecified retinopathy) should only be used when the provider has not documented the stage — it is not preferred and will not satisfy HCC capture requirements.
-> > - **NCCI bundles [[92134]] and [[92250]]** — do not report both on the same date without modifier [[59]] and a documented distinct medical necessity for each (e.g., OCT for DME and fundus photography for a separate choroidal finding).
+> > - **NCCI bundles [[92134]] and [[92250]]** — do not report both on the same date without modifier [[-59]] and a documented distinct medical necessity for each (e.g., OCT for DME and fundus photography for a separate choroidal finding).
 > > - **[[67028]]** (intravitreal injection) is bundled with many retinal laser procedures — confirm NCCI edits before billing together.
 > > - Long-term insulin use ([[Z79.4]]) and oral hypoglycemic use ([[Z79.84]]) should be coded **additionally** per ICD-10-CM instructional notes under the E10-E11 categories.
 > > - For **inpatient coding (ICD-10-PCS)**: the retinal procedure (intravitreal injection, laser) requires a PCS procedure code from the **Eye (0)** body system, root operation **Introduction** or **Destruction**.

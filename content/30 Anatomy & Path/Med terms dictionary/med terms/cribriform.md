@@ -1,6 +1,7 @@
 ---
 tags: [medroot]
-aliases: []
+aliases: 
+ - Cribriform
 roots: Cribrum- forms
 forms: [prefix, suffix]
 alphabet: C
@@ -31,7 +32,7 @@ _____
 >```
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

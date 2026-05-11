@@ -1,14 +1,14 @@
 ---
-title: -LT
-description: Modifier -LT (Left side)
-last_updated: 2026-02
-type: coding-guide
-specialty_tags:
+tags:
   - ophthalmology
   - ENT
   - modifiers
   - laterality
   - Medicare
+title: -LT
+description: Modifier -LT (Left side)
+last_updated: 2026-02
+type: coding-guide
 aliases:
   - Modifier -LT
   - Modifier LT
@@ -49,5 +49,5 @@ aliases:
 
 ## Specialty examples (ophthalmology + ENT)
 - **[[Ophthalmology]]:** If a unilateral eye procedure is performed on the **left eye**, report the procedure with **-LT** when the payer requires laterality on the claim line.
-- **[[ENT]]:** If a unilateral ear/nasal procedure is performed on the **left side**, use **-LT** to identify the side when the code is side-appropriate and laterality is required. 
-- **[[Bilateral]] same session:** If the same eligible procedure is performed on both sides, follow Medicare/payer guidance—either bill **-50** (if applicable) or bill **RT and LT on separate lines** with 1 unit each (payer-specific). 
+- **ENT:** If a unilateral ear/nasal procedure is performed on the **left side**, use **-LT** to identify the side when the code is side-appropriate and laterality is required. 
+- **Bilateral same session:** If the same eligible procedure is performed on both sides, follow Medicare/payer guidance—either bill **-50** (if applicable) or bill **RT and LT on separate lines** with 1 unit each (payer-specific). 

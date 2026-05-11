@@ -35,7 +35,7 @@ The combining form **[[atel-]]** refers to something that is incomplete, imperfe
 
 ## Common Medical Terms
 - **[[Atelectasis]]** - incomplete expansion of the lung  
-- **[[Atelomyelia]]** - incomplete development of the spinal cord  
+- **Atelomyelia** - incomplete development of the spinal cord  
 
 ## Documentation Clues
 - “Partial collapse”

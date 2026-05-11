@@ -40,14 +40,14 @@ _____
 >|**[[para-]]**|Greek _para-_ (PAH-rah), from _para_ "beside, alongside, beyond, contrary to"|"**beside**," "**against**," "**disordered**," "**abnormal**" — here conveys the sense of a disordered or disabled state; directional/intensifying prefix|
 >|**[[-lysis]]**|Greek _lysis_ (LY-sis), from _lyein_ (LY-ein) "to loosen, dissolve, release"|Noun-forming suffix — "**a loosening**," "**a dissolution**," "**a releasing**" — in medical usage: "**breakdown of function or structure**"|
 >
-> The word entered English in the **1520s** as *paralysis* (**noun**), borrowed directly from Latin *paralysis*, from Greek ***parálysis*** ("paralysis of the muscles, palsy") — literally **"a loosening of the side"** or **"a disordering beside [normal function],"** from *para-* ("beside, disordered") + *lysis* ("a loosening, undoing"). The Greek root *lyein* ("to loosen") connects paralysis to the entire **[[-lysis root family]]**: ***[[dialysis]]*** (**dia- + lysis → a separating through**), ***[[hemolysis]]*** (**hemo- + lysis → dissolution of blood cells**), ***[[paralytic ileus]]*** (**paralysis of the bowel — lysis of bowel motility**), and ***[[electrolysis]]*** (breaking down via electric current). The prefix ***[[para-]]*** is among the most productive in medical terminology, appearing in ***[[paraplegia]]***, ***[[paresthesia]]***, ***[[parasite]]***, ***[[paranoia]]***, and ***[[parathyroid]]***.
+> The word entered English in the **1520s** as *paralysis* (**noun**), borrowed directly from Latin *paralysis*, from Greek ***parálysis*** ("paralysis of the muscles, palsy") — literally **"a loosening of the side"** or **"a disordering beside [normal function],"** from *para-* ("beside, disordered") + *lysis* ("a loosening, undoing"). The Greek root *lyein* ("to loosen") connects paralysis to the entire **[[-lysis]] root family**: ***[[dialysis]]*** (**dia- + lysis → a separating through**), ***[[hemolysis]]*** (**hemo- + lysis → dissolution of blood cells**), ***paralytic ileus*** (**paralysis of the bowel — lysis of bowel motility**), and ***[[electrolysis]]*** (breaking down via electric current). The prefix ***[[para-]]*** is among the most productive in medical terminology, appearing in ***[[paraplegia]]***, ***[[paresthesia]]***, ***[[parasite]]***, ***[[paranoia]]***, and ***[[parathyroid]]***.
 
 _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 >
 > - **[[plegia]]** _(Greek-derived clinical synonym for complete paralysis; used as a combining form — [[hemiplegia]], [[paraplegia]], [[quadriplegia]], [[tetraplegia]] — conventionally implies *total* loss of motor function, distinguishing it from "-paresis" which implies partial loss)_
-> - **[[palsy]]** _(lay and historical clinical synonym for paralysis; derived from Old French *paralisie* — still used in formal diagnosis names: [[Bell's Palsy]] [[G51.0]], [[cerebral palsy]] [[G80.x]], [[Erb's Palsy]] [[P14.0]])_
+> - **[[palsy]]** _(lay and historical clinical synonym for paralysis; derived from Old French *paralisie* — still used in formal diagnosis names: [[Bell's Palsy]] [[G51.0]], [[cerebral palsy]] G80.x, Erb's Palsy [[P14.0]])_
 > - **[[Paresis]]** _(partial paralysis — muscular weakness without complete loss of function; clinically significant distinction because it changes ICD-10-CM code to "incomplete" variants, e.g., [[G82.22]] paraplegia incomplete vs. [[G82.21]] complete)_
 > - **Flaccid Paralysis** _(LMN-type paralysis — hypotonic, hyporeflexic, with fasciculations and denervation atrophy; characteristic of peripheral nerve injury, ALS, polio, Guillain-Barré)_
 > - **Spastic Paralysis** _(UMN-type paralysis — hypertonic, hyperreflexic with positive Babinski and velocity-dependent resistance; characteristic of stroke, SCI above T1, MS, TBI)_
@@ -70,8 +70,8 @@ _____
 > - **[[Hemiplegia]]** — **paralysis** of one body side; most common **paralysis** type encountered in inpatient coding; ICD-10-CM requires documentation of: flaccid vs. spastic, affected side (**right vs. left**), and dominant vs. nondominant — all five axes drive code specificity (**[[G81.00]]-[[G81.94]]**)
 > - **[[quadriplegia]]** — **paralysis** of all four extremities due to cervical SCI or severe brain injury; **ICD-10-CM code** selection requires level of SCI (**C1-C4 = [[G82.51]]-[[G82.52]]; C5-C7 = [[G82.53]]-[[G82.54]])** and completeness — always drives a query if not documented
 > - **[[Bell's Palsy]]** — acute unilateral facial nerve (CN VII) LMN paralysis; coded [[G51.0]]; peripheral (**flaccid**) in character — distinguishes it from central UMN facial weakness seen in stroke where forehead sparing occurs
-> - **[[Guillain-Barré Syndrome]]** — acute ascending demyelinating **peripheral neuropathy** producing flaccid paralysis and [[areflexia]]; coded [[G61.0]]; may progress to respiratory failure requiring [[mechanical]] ventilation — key inpatient profee diagnosis
-> - **[[Amyotrophic Lateral Sclerosis]] (ALS)** — progressive motor neuron disease affecting both UMN and LMN simultaneously; produces **mixed spastic-flaccid paralysis**; coded [[G12.21]]; high RVU inpatient profee encounters
+> - **Guillain-Barré Syndrome** — acute ascending demyelinating **peripheral neuropathy** producing flaccid paralysis and [[areflexia]]; coded [[G61.0]]; may progress to respiratory failure requiring [[mechanical]] ventilation — key inpatient profee diagnosis
+> - **Amyotrophic Lateral Sclerosis (ALS)** — progressive motor neuron disease affecting both UMN and LMN simultaneously; produces **mixed spastic-flaccid paralysis**; coded [[G12.21]]; high RVU inpatient profee encounters
 > - **[[Multiple Sclerosis]]** — demyelinating UMN disease causing relapsing/remitting or progressive **spastic paralysis**; coded G35.x; relapse with new paralysis = use G35.x as principal; establish functional deficit with G81.x/G82.x as additional
 > - **[[Cerebral Palsy]]** — nonprogressive UMN disorder from perinatal brain injury; presents with **spastic, dyskinetic, or ataxic paralysis variants**; coded [[G80.0]]-[[G80.9]] — distinct code family from acquired **paralysis**; never code G81/G82 for CP
 > - **[[Electromyography]] (EMG)** — primary electrodiagnostic tool differentiating UMN from LMN paralysis and identifying specific nerve or muscle involvement; coded per limb studied (**[[95860]]-[[95887]]**)
@@ -172,7 +172,7 @@ _____
 > |[[G51.0]]|Bell's palsy (unilateral facial nerve LMN paralysis)|
 > |[[G61.0]]|Guillain-Barré syndrome (acute ascending flaccid paralysis)|
 > |[[G12.21]]|Amyotrophic lateral sclerosis (ALS — mixed UMN/LMN paralysis)|
-> |[[G35]]|Multiple sclerosis (relapsing/remitting UMN spastic paralysis)|
+> |[[G35.D]]|Multiple sclerosis (relapsing/remitting UMN spastic paralysis)|
 > |[[G80.0]]|Spastic quadriplegic cerebral palsy|
 > |[[G80.1]]|Spastic diplegic cerebral palsy|
 > |[[G80.2]]|Spastic hemiplegic cerebral palsy|

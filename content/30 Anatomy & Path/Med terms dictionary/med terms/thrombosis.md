@@ -139,7 +139,7 @@ _____
 > > - If thrombolysis begins and ends on the same calendar day, report only the initial treatment day code ([[37211]] or [[37212]]).
 > > - For **intracranial** arterial thrombolysis, do **not** use [[37211]] — use [[61645]] instead.
 > > - Always code long-term anticoagulant use ([[Z79.01]]) as an additional diagnosis when applicable.
-> > - Common modifiers: [[59]] (distinct procedural service); [[76]] (repeat procedure, same physician); [[78]] (unplanned return to OR, related, during global period); [[79]] (unrelated procedure during global period); [[LT]]/[[RT]] for laterality on vascular procedures where applicable.
+> > - Common modifiers: [[-59]] (distinct procedural service); [[-76]] (repeat procedure, same physician); [[-78]] (unplanned return to OR, related, during global period); [[-79]] (unrelated procedure during global period); [[-LT]]/[[-RT]] for laterality on vascular procedures where applicable.
 
 _____
 >[!tip]- DERIVATIONS of [[thrombosis]]
@@ -157,7 +157,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

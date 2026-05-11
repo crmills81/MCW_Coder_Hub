@@ -70,13 +70,13 @@ _____
 > - **C-peptide** — the connecting peptide cleaved during proinsulin-to-insulin conversion; absent when exogenous insulin is the sole source; key in factitious hypoglycemia and legal/forensic cases
 > - **[[Insulinoma]]** — shares the *[[insul-]]* root; pancreatic islet beta-cell neoplasm that secretes insulin autonomously; benign [[D13.7]], malignant [[C25.4]]
 > - **Insulin resistance** — pathological state in which GLUT4 translocation fails to occur adequately despite normal or elevated insulin; core mechanism of Type 2 DM and metabolic syndrome
-> - **[[Hypoglycemia]]** — the primary adverse consequence of excess insulin action, whether from therapeutic overdose, insulinoma, or counter-regulatory failure; coded [[E16.0]] (drug-induced), [[E11.649]] (T2DM), etc.
+> - **[[hypoglycemia]]** — the primary adverse consequence of excess insulin action, whether from therapeutic overdose, insulinoma, or counter-regulatory failure; coded [[E16.0]] (drug-induced), [[E11.649]] (T2DM), etc.
 > - **[[Hyperglycemia]]** — the consequence of insulin deficiency or resistance; coded [[R73.09]] (non-diabetic NOS) or [[E11.65]] (T2DM with hyperglycemia)
 > - **Diabetic ketoacidosis (DKA)** — life-threatening complication of absolute insulin deficiency (primarily T1DM); coded [[E10.10]] (Type 1 DM with ketoacidosis without coma) or [[E10.11]] (with coma)
 > - **GLP-1 receptor agonist** — incretin-based pharmacotherapy that augments insulin secretion and suppresses glucagon in a glucose-dependent manner; an insulin-sparing agent in T2DM management
 > - **GLUT4** — insulin-sensitive glucose transporter responsible for facilitated diffusion of glucose into muscle and fat cells; its translocation is the key molecular mechanism of insulin action
 > - **Islets of Langerhans** — the pancreatic endocrine microstructures (insulae) that house beta cells (insulin), alpha cells (glucagon), delta cells (somatostatin), and PP cells; the anatomical namesake of insulin
-> - **Hemoglobin A1c** — the 2–3 month glycemic average that reflects cumulative glucose exposure; its reduction is the primary therapeutic goal of insulin therapy; CPT [[83036]]
+> - **Hemoglobin A1c** — the 2-3 month glycemic average that reflects cumulative glucose exposure; its reduction is the primary therapeutic goal of insulin therapy; CPT [[83036]]
 
 _____
 
@@ -147,11 +147,11 @@ _____
 > |**[[96372]]**|Therapeutic, prophylactic, or diagnostic injection; subcutaneous or intramuscular (glucagon or insulin injection administered in office)|
 > |**[[99213]]**|Office/outpatient visit, established patient, low MDM (routine insulin management follow-up)|
 > |**[[99214]]**|Office/outpatient visit, established patient, moderate MDM (insulin titration, hypoglycemia management)|
-> |**[[99291]]**|Critical care, first 30–74 minutes (severe insulin overdose / hypoglycemic coma — inpatient critical care)|
+> |**[[99291]]**|Critical care, first 30-74 minutes (severe insulin overdose / hypoglycemic coma — inpatient critical care)|
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** The most critical inpatient profee insulin coding rule is the [[Z79.4]] requirement — per **ICD-10-CM Official Guideline**s, **[[Z79.4]] must be assigned as an additional code whenever a Type 2 DM patient is documented as using insulin**, even if it is already implied by the clinical picture. This code is **not required for Type 1 DM** since insulin dependence is inherent to the diagnosis. The most common inpatient profee missed code is **[[T38.3X5A]]** on encounters where insulin caused a hypoglycemic event — if the patient took their insulin as prescribed and developed **[[hypoglycemia]]**, that is an **adverse effect**, not a poisoning; the adverse effect code must be sequenced **after** the manifestation code (**e.g., [[E11.649]] first, then [[T38.3X5A]]**). Conversely, if the patient took **too much insulin** — whether accidentally or intentionally — the correct code is a **poisoning** code from **T38.3X1–T38.3X4**, and the **[[hypoglycemia]]** is then coded as a manifestation of the poisoning, **not** as a diabetic combination code. On inpatient charts, the documentation trigger phrases to watch for are **"insulin-induced [[hypoglycemia]]," "accidental insulin overdose," "self-administered excess insulin,"** and **"insulin shock"** — each points to a distinct coding pathway that, if undercoded, may result in a compliance vulnerability or **MS-DRG** impact.
+> > ⚠️ **Coding Note:** The most critical inpatient profee insulin coding rule is the [[Z79.4]] requirement — per **ICD-10-CM Official Guideline**s, **[[Z79.4]] must be assigned as an additional code whenever a Type 2 DM patient is documented as using insulin**, even if it is already implied by the clinical picture. This code is **not required for Type 1 DM** since insulin dependence is inherent to the diagnosis. The most common inpatient profee missed code is **[[T38.3X5A]]** on encounters where insulin caused a hypoglycemic event — if the patient took their insulin as prescribed and developed **[[hypoglycemia]]**, that is an **adverse effect**, not a poisoning; the adverse effect code must be sequenced **after** the manifestation code (**e.g., [[E11.649]] first, then [[T38.3X5A]]**). Conversely, if the patient took **too much insulin** — whether accidentally or intentionally — the correct code is a **poisoning** code from **T38.3X1-T38.3X4**, and the **[[hypoglycemia]]** is then coded as a manifestation of the poisoning, **not** as a diabetic combination code. On inpatient charts, the documentation trigger phrases to watch for are **"insulin-induced [[hypoglycemia]]," "accidental insulin overdose," "self-administered excess insulin,"** and **"insulin shock"** — each points to a distinct coding pathway that, if undercoded, may result in a compliance vulnerability or **MS-DRG** impact.
 
 _____
 

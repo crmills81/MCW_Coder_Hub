@@ -66,24 +66,24 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 >
 > - **[[Myelin]]** — the lipid-rich multilayered sheath produced by oligodendrocytes (CNS) and Schwann cells (PNS); primary target in demyelinating disease
-> - **[[Oligodendrocyte]]** — CNS glial cell responsible for producing and maintaining myelin around multiple axons simultaneously
-> - **[[Schwann cell]]** — PNS equivalent of the oligodendrocyte; each Schwann cell myelinates one axon segment
-> - **[[Axon]]** — the nerve fiber projection along which electrical impulses travel; demyelination slows or blocks conduction; severe disease causes secondary axonal loss
-> - **[[Saltatory conduction]]** — the mechanism by which action potentials "jump" between nodes of Ranvier in myelinated fibers, enabling rapid signal transmission; abolished by demyelination
+> - **Oligodendrocyte** — CNS glial cell responsible for producing and maintaining myelin around multiple axons simultaneously
+> - **Schwann cell] — PNS equivalent of the oligodendrocyte; each Schwann cell myelinates one axon segment
+> - **Axon** — the nerve fiber projection along which electrical impulses travel; demyelination slows or blocks conduction; severe disease causes secondary axonal loss
+> - **Saltatory conduction** — the mechanism by which action potentials "jump" between nodes of Ranvier in myelinated fibers, enabling rapid signal transmission; abolished by demyelination
 > - **[[Plaque]]** — focal area of demyelination and gliosis in the CNS; the histopathologic and MRI unit of MS and related demyelinating diseases
-> - **[[Node of Ranvier]]** — gaps in the myelin sheath where ion exchange occurs during signal propagation; demyelination disrupts this mechanism
+> - **Node of Ranvier** — gaps in the myelin sheath where ion exchange occurs during signal propagation; demyelination disrupts this mechanism
 > - **[[Optic neuritis]]** — inflammation and demyelination of the optic nerve; hallmark presentation of MS, NMO, and MOGAD; coded [[H46.11]]/[[H46.12]]
 > - **[[transverse myelitis]]** — acute demyelinating inflammation of the spinal cord; cord lesion producing weakness, sensory loss, and bladder dysfunction; coded [[G37.3]]
-> - **[[ADEM]]** (Acute Disseminated Encephalomyelitis) — monophasic inflammatory demyelination typically post-viral or post-vaccination; coded [[G36.9]] or [[G36.8]]
-> - **[[NMO / Devic disease]]** — anti-AQP4 antibody-mediated demyelination; distinct from MS; coded [[G36.0]]
-> - **[[MOGAD]]** — anti-MOG antibody disease; cortical demyelination with ADEM, optic neuritis, or myelitis phenotype; FY2026 new code [[G37.81]]
-> - **[[GBS / Guillain-Barré syndrome]]** — acute autoimmune PNS demyelination post-infectious; ascending paralysis; coded [[G61.0]]
-> - **[[CIDP]]** — chronic autoimmune PNS demyelination; treated with IVIG, plasmapheresis, steroids; coded [[G61.81]]
-> - **[[Central pontine myelinolysis (CPM)]]** — osmotic demyelination of pons from rapid hyponatremia correction; coded [[G37.2]]
-> - **[[AQP4-IgG / NMO antibody]]** — serum antibody targeting aquaporin-4 water channel; specific for NMO/Devic disease; negative in MS and MOGAD
-> - **[[MOG-IgG]]** — anti-myelin oligodendrocyte glycoprotein antibody; diagnostic for MOGAD spectrum; negative in MS and NMO
-> - **[[IVIG (intravenous immunoglobulin)]]** — immunomodulatory infusion therapy; first-line for GBS and CIDP; also used in ADEM
-> - **[[Plasmapheresis / PLEX]]** — therapeutic plasma exchange removing pathogenic antibodies; used in NMO relapses, GBS, CIDP, severe ADEM
+> - **ADEM** (Acute Disseminated Encephalomyelitis) — monophasic inflammatory demyelination typically post-viral or post-vaccination; coded [[G36.9]] or [[G36.8]]
+> - **NMO / Devic disease** — anti-AQP4 antibody-mediated demyelination; distinct from MS; coded [[G36.0]]
+> - **MOGAD** — anti-MOG antibody disease; cortical demyelination with ADEM, optic neuritis, or myelitis phenotype; FY2026 new code [[G37.81]]
+> - **GBS / Guillain-Barré syndrome** — acute autoimmune PNS demyelination post-infectious; ascending paralysis; coded [[G61.0]]
+> - **CIDP** — chronic autoimmune PNS demyelination; treated with IVIG, plasmapheresis, steroids; coded [[G61.81]]
+> - **Central pontine myelinolysis (CPM)** — osmotic demyelination of pons from rapid hyponatremia correction; coded [[G37.2]]
+> - **AQP4-IgG / NMO antibody** — serum antibody targeting aquaporin-4 water channel; specific for NMO/Devic disease; negative in MS and MOGAD
+> - **MOG-IgG** — anti-myelin oligodendrocyte glycoprotein antibody; diagnostic for MOGAD spectrum; negative in MS and NMO
+> - **IVIG (intravenous immunoglobulin)** — immunomodulatory infusion therapy; first-line for GBS and CIDP; also used in ADEM
+> - **Plasmapheresis / PLEX** — therapeutic plasma exchange removing pathogenic antibodies; used in NMO relapses, GBS, CIDP, severe ADEM
 >
 _____
 
@@ -103,7 +103,7 @@ _____
 > |---|---|
 > |[[G35.A]]|Relapsing-remitting multiple sclerosis (RRMS) — **⚠️ HCC**|
 > |[[G35.B0]]|Primary progressive MS, unspecified activity — **⚠️ HCC**|
-> |[[50 Medical Coding/ICD-10 Codes/G35.B1]]|Active primary progressive MS — **⚠️ HCC**|
+> |[[G35.B1]]|Active primary progressive MS — **⚠️ HCC**|
 > |[[G35.B2]]|Non-active primary progressive MS — **⚠️ HCC**|
 > |[[G35.C0]]|Secondary progressive MS, unspecified activity — **⚠️ HCC**|
 > |[[G35.C1]]|Active secondary progressive MS — **⚠️ HCC**|
@@ -266,7 +266,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[demyelination]].definition, word))) > 0 AND file.name != [[demyelination]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

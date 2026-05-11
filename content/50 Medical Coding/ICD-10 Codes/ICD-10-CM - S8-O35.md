@@ -1,6 +1,6 @@
 ## **ICD-10-CM - S8-O35**
 
-#### **ICD 10** [[**Code Set 3**]]
+#### **ICD 10** **Code Set 3**
 
 **ICD-CM Code	Description**
 S82.026S	"Nondisplaced longitudinal fracture of unspecified patella, sequela"

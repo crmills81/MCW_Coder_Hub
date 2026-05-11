@@ -29,7 +29,7 @@ ____
 
 
 > [!example]+ **Coding & Documentation Nuances**
-> - **ICD-10-CM:** **Bradylalia** is generally classified under **[[R47.89]]** (Other speech and language abnormalities). However, if it is a documented symptom of a primary condition, the underlying disease (e.g., **[[G20]]** for Parkinson's disease) should be sequenced first.
+> - **ICD-10-CM:** **Bradylalia** is generally classified under **[[R47.89]]** (Other speech and language abnormalities). However, if it is a documented symptom of a primary condition, the underlying disease (e.g., **G20.-** for Parkinson's disease) should be sequenced first.
 >     
 > - **Symptom vs. Diagnosis:** According to ICD-10-CM Official Guidelines for Coding and Reporting, signs and symptoms that are associated routinely with a disease process should not be assigned as additional codes unless otherwise instructed by the classification.
 >     
@@ -77,7 +77,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

@@ -66,7 +66,7 @@ _____
 
 _____
 
-> [!example]+ #### CODING CORNER
+> [!caution]+ #### CODING CORNER
 >
 > <br>
 >
@@ -153,6 +153,128 @@ _____
 > ---
 >
 > ⚠️ **Coding Note:** The two highest-risk compliance areas in acidosis coding are the **DKA Excludes1 violation** and the **respiratory acidosis sequencing error**. On the DKA front, many coders or automated tools erroneously append **[[E87.21]]** alongside **[[E10.10]]** — this is a direct **ICD-10-CM Excludes1** violation since DKA codes fully capture the ketoacidotic acidosis component; submitting both will likely result in a claim edit and potential audit finding. On the respiratory front, **respiratory acidosis should never be sequenced as the principal diagnosis** when the underlying hypercapnic respiratory failure (**[[J96.02]]** or **[[J96.12]]**) is the documented primary condition — respiratory acidosis is a manifestation/consequence of the respiratory failure, and sequencing guidelines require the etiology (**respiratory failure)** to be coded first. For **lactic acidosis**, the key profee query is identifying the cause: Type A (**tissue [[hypoperfusion]] — sepsis, [[shock]], [[cardiac arrest]]**) vs. Type B (**drugs — especially metformin, NRTIs; liver failure; malignancy**) — both map to **[[E87.20]]** or **[[E87.21]]**, but documenting the cause supports additional diagnoses (**[[sepsis]], medication adverse effect**) that significantly impact DRG and risk-adjusted reimbursement. When coding the ABG, never report **[[82803]]** and **[[82805]]** for the same specimen — **[[82805]]** includes everything in **[[82803]]** plus co-oximetry and is reported *instead of*, not in addition to, **[[82803]]**.
+_____
+
+> [!cite]+ ## A Word from MedlinePlus: 
+> **Acidosis** is a condition in which there is too much acid in the body fluids. It is the opposite of [alkalosis](https://medlineplus.gov/ency/article/001183.htm) (a condition in which there is too much base in the body fluids).
+> 
+> ## Causes
+> 
+> The kidneys and lungs maintain the balance (proper pH level) of chemicals called acids and bases in the body. Acidosis occurs when acid builds up or when bicarbonate (a base) is lost. Acidosis is classified as either [respiratory](https://medlineplus.gov/ency/article/000092.htm) or [metabolic acidosis](https://medlineplus.gov/ency/article/000335.htm).
+> 
+> Respiratory acidosis means there is too much carbon dioxide (an acid) in the body. This type of acidosis occurs when the body is unable to remove enough carbon dioxide through breathing. Other names for respiratory acidosis are hypercapnic acidosis and carbon dioxide acidosis. Causes of respiratory acidosis include:
+> 
+> - Chest deformities, such as [kyphosis](https://medlineplus.gov/ency/article/001240.htm)
+> - Chest injuries
+> - Chest muscle weakness
+> - Long-term (chronic) lung disease
+> - Neuromuscular disorders, such as [myasthenia gravis](https://medlineplus.gov/ency/article/000712.htm), [amyotrophic lateral sclerosis](https://medlineplus.gov/ency/article/000688.htm) or [muscular dystrophy](https://medlineplus.gov/ency/article/001190.htm)
+> - Overuse of sedative medicines, causing decreased respiration
+> - Acute lung disease, such as severe pneumonia or [acute respiratory distress syndrome](https://medlineplus.gov/ency/article/000103.htm) associated with severe medical illness
+> 
+> Metabolic acidosis develops when too much acid is produced in the body. It can also occur when the kidneys cannot remove enough acid from the body. There are several types of metabolic acidosis:
+> 
+> - [Diabetic acidosis](https://medlineplus.gov/ency/article/000320.htm) (also called diabetic ketoacidosis or DKA) develops when substances called ketone bodies (which are acidic) build up during uncontrolled [diabetes](https://medlineplus.gov/ency/article/001214.htm) (usually type 1 diabetes).
+> - Hyperchloremic acidosis is caused by the loss of too much sodium bicarbonate from the body, which can happen with severe diarrhea.
+> - Kidney disease (uremia, [distal renal tubular acidosis](https://medlineplus.gov/ency/article/000493.htm) or [proximal renal tubular acidosis](https://medlineplus.gov/ency/article/000497.htm)).
+> - Lactic acidosis (a buildup of lactic acid possibly due to many causes—see below).
+> - Poisoning by aspirin, ethylene glycol (found in antifreeze), or methanol.
+> - Severe [dehydration](https://medlineplus.gov/ency/article/000982.htm).
+> 
+> [Lactic acidosis](https://medlineplus.gov/ency/article/000391.htm) is a buildup of [lactic acid](https://medlineplus.gov/ency/article/003507.htm). Lactic acid is mainly produced in muscle cells and red blood cells. It forms when the body breaks down carbohydrates to use for energy when oxygen levels are low. This can be caused by:
+> 
+> - [Cancer](https://medlineplus.gov/ency/article/001289.htm)
+> - [Carbon monoxide poisoning](https://medlineplus.gov/ency/article/002804.htm)
+> - Drinking too much alcohol
+> - Exercising vigorously for a very long time
+> - [Liver failure](https://medlineplus.gov/ency/article/000255.htm)
+> - [Low blood sugar](https://medlineplus.gov/ency/article/000386.htm) (hypoglycemia)
+> - Medicines, such as salicylates, metformin, anti-retrovirals
+> - MELAS (a very rare genetic mitochondrial disorder that affects energy production)
+> - Prolonged lack of oxygen from shock, heart failure, or severe anemia
+> - [Seizures](https://medlineplus.gov/ency/article/003200.htm)
+> - [Sepsis](https://medlineplus.gov/ency/article/000666.htm) -- severe illness due to infection with bacteria or other germs
+> - Severe asthma
+> 
+> Compensated acidosis occurs when the body returns the acid-base balance and blood pH to near normal in cases of acidosis, but bicarbonate and carbon dioxide levels remain abnormal.
+> 
+> ## Symptoms
+> 
+> Metabolic acidosis symptoms depend on the underlying disease or condition. Metabolic acidosis itself causes rapid and deep breathing as your body tries to compensate for it by breathing out carbon dioxide at a higher rate. Confusion or lethargy may also occur. Severe metabolic acidosis can lead to shock or death. In some situations, metabolic acidosis can be a mild, ongoing (chronic) condition.
+> 
+> Respiratory acidosis symptoms can include:
+> 
+> - [Confusion](https://medlineplus.gov/ency/article/003205.htm)
+> - [Fatigue](https://medlineplus.gov/ency/article/003088.htm)
+> - Lethargy
+> - [Shortness of breath](https://medlineplus.gov/ency/article/003075.htm)
+> - Sleepiness
+> 
+> ## Exams and Tests
+> 
+> Your health care provider will perform a physical exam and ask about your symptoms.
+> 
+> These tests can help diagnose acidosis. They can also determine whether the cause is a breathing problem or a metabolic problem. Tests may include:
+> 
+> - [Arterial or venous blood gas analysis](https://medlineplus.gov/ency/article/003855.htm)
+> - [Basic metabolic panel](https://medlineplus.gov/ency/article/003462.htm) (group of blood tests that measure sodium and potassium levels, kidney function, and other chemicals and functions) to show whether the type of acidosis is metabolic or respiratory
+> - [Blood ketones](https://medlineplus.gov/ency/article/003498.htm)
+> - [Blood lactic acid test](https://medlineplus.gov/ency/article/003507.htm)
+> - [Urine ketones](https://medlineplus.gov/ency/article/003585.htm)
+> - [Urine pH](https://medlineplus.gov/ency/article/003583.htm)
+> 
+> Other blood tests may be needed to determine the cause of the acidosis.
+> 
+> Other tests that may be needed to determine the cause of the acidosis include:
+> 
+> - [Chest x-ray](https://medlineplus.gov/ency/article/003804.htm)
+> - [CT abdomen](https://medlineplus.gov/ency/article/003789.htm)
+> - [Urinalysis](https://medlineplus.gov/ency/article/003579.htm)
+> - Urine pH
+> 
+> ## Treatment
+> 
+> The treatment is aimed at the health problem causing the acidosis. Rarely, sodium bicarbonate (the chemical in baking soda) may be given to reduce the acidity of the blood. Often, you will receive lots of fluids through your vein.
+> 
+> ## Outlook (Prognosis)
+> 
+> Acidosis can be dangerous if untreated. Many cases respond well to treatment. The outlook will depend on the underlying disease causing the condition.
+> 
+> ## Possible Complications
+> 
+> Complications depend on the specific type of acidosis.
+> 
+> ## When to Contact a Medical Professional
+> 
+> All the types of acidosis will cause symptoms that require treatment by your provider.
+> 
+> ## Prevention
+> 
+> Prevention depends on the cause of the acidosis. Many causes of metabolic acidosis can be prevented, including diabetic ketoacidosis and some causes of lactic acidosis. Normally, people with healthy kidneys and lungs do not have serious acidosis.
+> 
+> ## Alternative Names
+> 
+> Respiratory acidosis; Metabolic acidosis
+> 
+> ## Images
+> 
+> - ![Kidneys](https://medlineplus.gov/ency/images/ency/tnails/8819t.jpg "Kidneys") [Kidneys](https://medlineplus.gov/ency/imagepages/8819.htm)
+> 
+> #### References
+> 
+> Kliegman RM, St. Geme JW, Blum NJ, et al. Electrolyte and acid-base disorders. In: Kliegman RM, St. Geme JW, Blum NJ, et al, eds. *Nelson Textbook of Pediatrics*. 22nd ed. Philadelphia, PA: Elsevier; 2025:chap 73.
+> 
+> Oh MS, Briefel G, Pincus MR. Evaluation of renal function, water, electrolytes, and acid-base balance. In: McPherson RA, Pincus MR, eds. *Henry's Clinical Diagnosis and Management by Laboratory Methods.*24th ed. Philadelphia, PA: Elsevier; 2022:chap 15.
+> 
+> Sanghavi S, Albert TJ, Swenson ER. Acid-base balance. In: Broaddus VC, Ernst JD, King TE, et al. *Murray and Nadel's Textbook of Respiratory Medicine*. 7th ed. Philadelphia, PA: Elsevier; 2022:chap 12.
+> 
+> Seifter JL. Acid-base disorders. In: Goldman L, Cooney KA, eds. *Goldman-Cecil Medicine*. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 104.
+> 
+> #### Review Date 11/6/2025
+> 
+> Updated by: Jacob Berman, MD, MPH, Associate Professor of Medicine, Division of General Internal Medicine, University of Washington School of Medicine, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+
+
 
 _____
 >[!tip]- DERIVATIONS of [[acidosis]]
@@ -170,7 +292,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[TERM]].definition, word))) > 0 AND file.name != [[TERM]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

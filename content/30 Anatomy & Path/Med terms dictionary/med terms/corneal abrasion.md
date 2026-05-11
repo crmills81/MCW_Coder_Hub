@@ -24,8 +24,7 @@ forms:
   - adjective
   - combining
 alphabet: C
-definition:
-  - A scratch or disruption of the corneal epithelium (surface layer of the cornea)
+definition: A scratch or disruption of the corneal epithelium (surface layer of the cornea)
 ---
 >[!Note] DEFINITION of [[corneal abrasion]]
 >A **corneal abrasion** is **a scratch, scrape, or disruption of the epithelial layer of the cornea — the clear, dome-shaped front surface of the eye.** It does not penetrate the Bowman membrane (the layer beneath the epithelium). From a medical-coding perspective, documentation must clarify: Laterality (**right, left, bilateral**) Encounter type (**initial vs. subsequent vs. sequela**) Etiology (**foreign body, contact lens, trauma, fingernail, spontaneous**) Presence or absence of **foreign body** Concurrent injuries ([[conjunctival laceration]], [[iritis]], [[corneal ulcer]])
@@ -190,7 +189,7 @@ _____
 
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

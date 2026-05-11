@@ -1,6 +1,7 @@
 ---
 tags:
   - medterm
+  - cardio
 aliases:
   - arteriosclerosis
   - Atherosclerosis
@@ -255,8 +256,131 @@ _____
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** For inpatient coding, [[atherosclerosis]] of the coronary arteries should be coded with the highest level of specificity — always capture whether it involves native vessels vs. bypass grafts, the presence/type of angina, and complicating factors like lipid-rich plaque ([[I25.83]]) or calcified lesion ([[I25.84]]). The I70 category for peripheral atherosclerosis requires laterality, vessel type, and presence of ulceration/[[gangrene]] for full specificity.
+> > ⚠️ **Coding Note:** For inpatient coding, **[[atherosclerosis]]** of the coronary arteries should be coded with the highest level of specificity — always capture whether it involves native vessels vs. bypass grafts, the presence/type of angina, and complicating factors like lipid-rich plaque (**[[I25.83]]**) or calcified lesion (**[[I25.84]]**). The I70 category for peripheral atherosclerosis requires laterality, vessel type, and presence of ulceration/[[gangrene]] for full specificity.
+> 
 
+_____
+
+
+> [!cite]+ ## A Word from MedlinePlus
+> 
+> # Atherosclerosis
+> [[Atherosclerosis]], sometimes called "**hardening of the arteries**," occurs when fat, cholesterol, and other substances build up in the walls of arteries. These deposits are called plaques. Over time, these plaques can narrow or completely block the arteries and cause problems throughout the body.
+> 
+> **Atherosclerosis is a common disorder.**
+> 
+> ## Causes
+> 
+> **Atherosclerosis** often occurs with aging. As you grow older, plaque buildup narrows your arteries and makes them stiffer. These changes make it harder for blood to flow through them.
+> 
+> Clots may form in these narrowed arteries and block blood flow. Pieces of plaque can also break off and move to smaller blood vessels, blocking them.
+> 
+> These blockages starve tissues of blood and oxygen. This can result in damage or tissue death. It is a common cause of [heart attack](https://medlineplus.gov/ency/article/000195.htm) and [stroke](https://medlineplus.gov/ency/article/000726.htm).
+> 
+> [High blood cholesterol levels](https://medlineplus.gov/ency/article/000403.htm) can cause hardening of the arteries at a younger age.
+> 
+> For many people, high cholesterol levels are due to or worsened by a diet that is too high in saturated fats and trans fats.
+> 
+> ![Cholesterol producers](https://medlineplus.gov/ency/images/ency/fullsize/19269.jpg "Cholesterol producers")
+> 
+> Other factors that can contribute to hardening of the arteries include:
+> 
+> - [Diabetes](https://medlineplus.gov/ency/article/001214.htm)
+> - Family history of hardening of the arteries
+> - [High blood pressure](https://medlineplus.gov/ency/article/000468.htm)
+> - Lack of exercise
+> - [Being overweight or obese](https://medlineplus.gov/ency/article/003101.htm)
+> - Smoking
+> 
+> ## Symptoms
+> 
+> **Atherosclerosis** does not cause symptoms until blood flow to part of the body becomes slowed or blocked.
+> 
+> If the arteries supplying the heart become narrow, blood flow can slow down or stop. This can cause chest pain ([stable angina](https://medlineplus.gov/ency/article/000198.htm) or **unstable angina**), shortness of breath, and other symptoms.
+> 
+> Narrowed or blocked arteries may also cause problems in the intestines, kidneys, legs, and brain.
+> 
+> ## Exams and Tests
+> 
+> A health care provider will perform a physical exam and listen to the heart and lungs with a stethoscope. **Atherosclerosis** can create a whooshing or blowing sound ("**bruit**") over an artery.
+> 
+> Most people age 18 or older should have their blood pressure checked every year. More frequent measurement may be needed for those with a history of high blood pressure readings or those with risk factors for high blood pressure. Ask your provider what schedule is best for you.
+> 
+> **Cholesterol** testing is recommended in all adults. The major national guidelines differ on the suggested age to start testing.
+> 
+> - Screening should begin at age 20 for both men and women.
+> - Repeat testing is not needed for five years for most adults with normal cholesterol levels.
+> - Repeat testing may be needed if lifestyle changes occur, such as large increase in weight or a change in diet.
+> - More frequent testing is needed for adults with a history of high cholesterol, [[diabetes]], kidney problems, heart disease, [[stroke]], and other conditions
+> 
+> A number of imaging tests may be used to see how well blood moves through your arteries. Check with your provider to see if any of these are recommended for you.
+> 
+> - **Doppler tests** that use ultrasound or sound waves
+> - [Magnetic resonance arteriography](https://medlineplus.gov/ency/article/007269.htm) (MRA), a special type of MRI scan
+> - Special CT scans called [CT angiography](https://medlineplus.gov/ency/article/007676.htm)
+> - [Arteriograms or angiography](https://medlineplus.gov/ency/article/003327.htm) that use x-rays and contrast material (sometimes called "dye") to see the path of blood flow inside the arteries
+> 
+> ## Treatment
+> 
+> **Lifestyle changes will reduce your risk for atherosclerosis. Things you can do include:**
+> 
+> - **[Quit smoking](https://medlineplus.gov/ency/article/001992.htm)**: This is the single most important change you can make to reduce your risk for heart disease and stroke.
+> - **Avoid fatty foods**: Eat well-balanced meals that are low in fat and cholesterol. Include several daily servings of fruits and vegetables. Adding fish to your diet at least twice a week may be helpful. However, do not eat fried fish.
+> - **Limit how much alcohol you drink**: Recommended limits are one drink a day for women, two a day for men.
+> - **Get regular physical activity**: Exercise with moderate intensity (**such as brisk walking**) 5 days a week for 30 minutes a day if you are at a healthy weight. For weight loss, exercise for 60 to 90 minutes a day. Talk to your provider before starting a new exercise plan, especially if you have been diagnosed with heart disease or you have ever had a heart attack.
+> 
+> ![Prevention of heart disease](https://medlineplus.gov/ency/images/ency/fullsize/18019.jpg "Prevention of heart disease")
+> 
+> If your blood pressure is high, it is important for you to lower it and keep it under control.
+> 
+> The goal of treatment is to reduce your blood pressure so that you have a lower risk of health problems caused by high blood pressure. You and your provider should set a blood pressure goal for you.
+> 
+> - Do **not** stop or change high blood pressure medicines without talking to your provider.
+> 
+> Your provider may want you to take medicine for abnormal cholesterol levels or for high blood pressure if lifestyle changes do not get you to your goals for these. This will depend on:
+> 
+> - Your age
+> - The medicines you take
+> - Your risk of side effects from possible medicines
+> - Whether you have heart disease or other blood flow problems
+> - Whether you smoke or are overweight
+> - Whether you have diabetes or other heart disease risk factors
+> - Whether you have any other medical problems, such as kidney disease
+> 
+> Your provider may suggest taking aspirin or another medicine to help prevent blood clots from forming in your arteries. These medicines are called antiplatelet drugs. **DO NOT** take aspirin without first talking to your provider.
+> 
+> Losing weight if you are overweight and reducing blood sugar if you have diabetes or pre-diabetes can help reduce the risk of developing **atherosclerosis**.
+> 
+> ## Outlook (Prognosis)
+> 
+> **Atherosclerosis** cannot be reversed once it has occurred. However, lifestyle changes and treating high cholesterol levels can prevent or slow the process from becoming worse. This can help reduce the chances of having a heart attack and stroke as a result of atherosclerosis.
+> 
+> ## Possible Complications
+> 
+> In some cases, the plaque is part of a process that causes a weakening of the wall of an artery. This can lead to a bulge in an artery called an [aneurysm](https://medlineplus.gov/ency/article/001122.htm). [[Aneurysms]] can break open (**rupture**). This causes bleeding that can be life threatening.
+> 
+> ## Alternative Names
+> 
+> Hardening of the arteries; **Arteriosclerosis**; Plaque buildup - arteries; **[[Hyperlipidemia]]** - **atherosclerosis**; Cholesterol - **atherosclerosis**
+> 
+> ## **References**
+> 
+> Arnett DK, Blumenthal RS, Albert MA, Buroker AB, et al. 2019 ACC/AHA Guideline on the primary prevention of cardiovascular disease: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. _J Am Coll Cardiol_. 2019;74(10):1376-1414. PMID: 30894319 [pubmed.ncbi.nlm.nih.gov/30894319/](https://pubmed.ncbi.nlm.nih.gov/30894319/).
+> 
+> Libby P. The vascular biology of atherosclerosis. In: Bonow RO, Mann DL, Tomaselli GF, et al, eds. _Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine_. 13th ed. Philadelphia, PA: Elsevier; 2026: chap 22.
+> 
+> Marks AR. Cardiac and circulatory function. In: Goldman L, Cooney KA, eds. _Goldman-Cecil Medicine_. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 41.
+> 
+> Tokgozoglu L, Libby P. Lipoprotein disorders and cardiovascular disease. In: Bonow RO, Mann DL, Tomaselli GF, et al, eds. _Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine_. 13th ed. Philadelphia, PA: Elsevier; 2026:chap 25.
+> 
+> US Preventive Services Task Force; Mangione CM, Barry MJ, et al. Statin use for the primary prevention of cardiovascular disease in adults: US Preventive Services Task Force recommendation statement. _JAMA_. 2022;328(8):746-753. PMID: 35997723 [pubmed.ncbi.nlm.nih.gov/35997723/](https://pubmed.ncbi.nlm.nih.gov/35997723/).
+> 
+> Writing Committee Members; Jones DW, Ferdinand KC, et al. 2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the prevention, detection, evaluation and management of high blood pressure in adults: A report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. _Hypertension_. 2025;82(10):e212-e316. PMID: 40811516 [pubmed.ncbi.nlm.nih.gov/40811516/](https://pubmed.ncbi.nlm.nih.gov/40811516/).
+> 
+> ## Review Date 1/27/2026
+> 
+> Updated by: Thomas S. Metkus MD, PhD, Associate Professor of Medicine and Surgery, Johns Hopkins University School of Medicine, Baltimore, MD. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.
+>
 _____
 >[!tip]- DERIVATIONS of [[atherosclerosis]]
 >```dataview

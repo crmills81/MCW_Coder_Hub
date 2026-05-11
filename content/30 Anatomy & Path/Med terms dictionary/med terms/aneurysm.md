@@ -47,9 +47,9 @@ _____
 >|---|---|---|
 >|**[[ana-]]** / **[[an-]]**|Greek _ἀνά_ (aná)|"**up**," "**upon**," "**throughout**," "**back**" — directional/intensifying prefix|
 >|**[[eury-]]**|Greek _εὐρύς_ (eurús), from PIE _\*wer-_ ("wide, broad")|"**wide**," "**broad**," "**spacious**"|
->|**[[-isma / -ysm]]**|Greek _-ισμα_ (-isma) / _-υσμα_ (-usma)|Noun-forming suffix — "**result of an action**," "**condition produced by**"|
+>|**[[-isma]] / [[-ysm]]**|Greek _-ισμα_ (-isma) / _-υσμα_ (-usma)|Noun-forming suffix — "**result of an action**," "**condition produced by**"|
 >
-> The word entered English in the **early 1400s** (early 15c.) as *aneurysm* (**noun**), from Medieval Latin ***aneurisma***, from Greek ***ἀνεύρυσμα*** (*aneúrusma*) — "**a widening, a dilation**" — from the verb *ἀνευρύνειν* (*aneurúnein*), "**to widen out**," literally **"to widen up/open wide."** The adjectival form *aneurysmal* emerged in the 18th-19th centuries in clinical literature. The root *eurys* ("**wide**") connects **aneurysm** to the broader **[[eury-]] root family**: ***[[euryopia]]*** (**eury- + [[-opia]] → wide field of vision**), ***[[eurythermal]]*** (**eury- + thermal → tolerating wide temperature range**), and *[[Eurasia]]* (**[[eury-]] + Asia → "the wide continent"**). The prefix *[[ana-]]* is highly productive in medical terminology, appearing in ***[[anatomy]]***, ***[[anaphylaxis]]***, ***[[anastomosis]]***, and ***[[anabolism]]***.
+> The word entered English in the **early 1400s** (early 15c.) as *aneurysm* (**noun**), from Medieval Latin ***aneurisma***, from Greek ***ἀνεύρυσμα*** (*aneúrusma*) — "**a widening, a dilation**" — from the verb *ἀνευρύνειν* (*aneurúnein*), "**to widen out**," literally **"to widen up/open wide."** The adjectival form *aneurysmal* emerged in the 18th-19th centuries in clinical literature. The root *eurys* ("**wide**") connects **aneurysm** to the broader **[[eury-]] root family**: ***[[euryopia]]*** (**eury- + [[-opia]] → wide field of vision**), ***eurythermal*** (**eury- + thermal → tolerating wide temperature range**), and *Eurasia* (**[[eury-]] + Asia → "the wide continent"**). The prefix *[[ana-]]* is highly productive in medical terminology, appearing in ***anatomy***, ***[[anaphylaxis]]***, ***[[anastomosis]]***, and ***anabolism***.
 
 _____
 
@@ -62,7 +62,7 @@ _____
 > - **Fusiform aneurysm** _(circumferential, spindle-shaped dilation involving the entire circumference of the vessel wall; more common in aorta and vertebrobasilar system)_
 > - **Pseudoaneurysm | False aneurysm (pseudoaneurysm)** _(contained rupture of the vessel wall with hematoma formation — NOT a true aneurysm; classified under **[[I72.0]]-[[I72.9]]** or traumatic vascular injury codes depending on etiology)_
 > - **Mycotic aneurysm** _(infectious/inflammatory etiology — misnomer, not always fungal; caused by septic emboli seeding vessel wall; requires code for underlying infection sequenced first)_
-> - **Dissecting aneurysm** _(blood enters and tracks through vessel wall layers — now more precisely called **[[aortic dissection]]** and coded I71.0x; distinct from true aneurysm)_
+> - **Dissecting aneurysm** _(blood enters and tracks through vessel wall layers — now more precisely called **aortic dissection** and coded I71.0x; distinct from true aneurysm)_
 > - **AAA (Abdominal Aortic Aneurysm)** _(dilation of the infrarenal aorta ≥3 cm; leading cause of vascular surgery emergencies; coded **[[I71.40]]-[[I71.43]]** without rupture, **[[I71.30]]-[[I71.33]]** with rupture)_
 > - **Intracranial aneurysm** _(includes all aneurysms within the skull — saccular, fusiform, or giant; nonruptured coded **[[I67.1]]**; ruptured cerebral coded **[[I60.7]]**)_
 > - **Giant aneurysm** _(cerebral aneurysm >25 mm diameter; higher rupture risk; coded **[[I67.1]]** if nonruptured — no separate ICD-10-CM code for size specificity)_
@@ -75,7 +75,7 @@ _____
 > - **[[Stenosis]]** — the opposite of aneurysmal dilation; abnormal *narrowing* of a vessel lumen due to plaque, fibrosis, or **[[spasm]]** — reduces blood flow distally rather than expanding the vessel
 > - **[[Dissection]]** — shares the *aorta/artery* anatomic site; involves blood forcing between vessel wall layers (**intima and media**) without a true sac; coded separately under I71.0x (**aortic**) or **I67.0** (**cerebral**)
 > - **[[Atherosclerosis]]** — major risk factor and frequent underlying cause of aortic and peripheral aneurysms; involves intimal plaque formation weakening the medial layer over time
-> - **[[Subarachnoid hemorrhage]]** — most feared complication of ruptured cerebral aneurysm; coded **[[I60.7]]** (**nontraumatic SAH from ruptured cerebral aneurysm**); hemorrhage fills the subarachnoid space
+> - **Subarachnoid hemorrhage** — most feared complication of ruptured cerebral aneurysm; coded **[[I60.7]]** (**nontraumatic SAH from ruptured cerebral aneurysm**); hemorrhage fills the subarachnoid space
 > - **Marfan syndrome** — inherited connective tissue disorder (**FBN1 gene mutation**) causing defective fibrillin → weakened aortic media → high risk of aortic root aneurysm and dissection (**[[Q87.410]]**)
 > - **[[Pseudoaneurysm]]** — **false aneurysm**; involves only the adventitia or surrounding **hematoma** rather than all three vessel layers; commonly post-procedural (**femoral access site**) or traumatic
 > - **[[Thrombosis]]** — frequent secondary complication within **aneurysm** sac; sluggish flow promotes mural thrombus formation → risk of distal embolization

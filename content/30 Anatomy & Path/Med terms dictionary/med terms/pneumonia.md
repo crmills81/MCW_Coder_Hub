@@ -43,10 +43,10 @@ _____
 > - **CAP** *(community-acquired pneumonia — acquired outside the hospital or within 48 hours of admission)*
 > - **HAP** *(hospital-acquired pneumonia — onset ≥48 hours after hospital admission, not incubating at time of admission)*
 > - **VAP** *(ventilator-associated pneumonia — HAP subset occurring in mechanically ventilated patients)*
-> - **[[Lobar pneumonia]]** *(consolidation confined to one or more lobes; classically pneumococcal)*
+> - **Lobar pneumonia** *(consolidation confined to one or more lobes; classically pneumococcal)*
 > - **[[Bronchopneumonia]]** *(patchy consolidation centered on bronchioles; common in elderly and debilitated patients)*
 > - **Atypical pneumonia** *(caused by atypical organisms such as Mycoplasma, Chlamydophila, Legionella; "walking pneumonia")*
-> - **[[Walking pneumonia]]** *(colloquial term for mild atypical pneumonia, typically Mycoplasma, ambulatory presentation)*
+> - **Walking pneumonia** *(colloquial term for mild atypical pneumonia, typically Mycoplasma, ambulatory presentation)*
 > - **[[Aspiration pneumonia]]** *(caused by inhalation of oropharyngeal or gastric contents; common in dysphagic/altered LOC patients)*
 > - **Organizing pneumonia (OP/BOOP)** *(inflammatory lung condition with granulation tissue plugging alveoli; coded under J84.xx)*
 > - **Interstitial pneumonia** *(inflammation primarily of the lung interstitium; distinct category from alveolar pneumonia)*
@@ -56,14 +56,14 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 >
-> - **[[Consolidation]]** — radiographic and pathologic filling of alveolar airspaces with exudate; hallmark finding in pneumonia
+> - **Consolidation** — radiographic and pathologic filling of alveolar airspaces with exudate; hallmark finding in pneumonia
 > - **[[Pleuritis]] / Pleurisy** — inflammation of the pleural lining; common complication of pneumonia causing pleuritic chest pain
-> - **[[Parapneumonic effusion]]** — pleural effusion developing adjacent to a pneumonia; ranges from simple (exudate) to empyema
+> - **Parapneumonic effusion** — pleural effusion developing adjacent to a pneumonia; ranges from simple (exudate) to empyema
 > - **[[Empyema]]** — purulent infection of the pleural space; severe complication requiring drainage; coded separately as [[J86.0]] (with fistula) or [[J86.9]] (without)
-> - **[[Lung abscess]]** — necrotic cavity in lung parenchyma; complication of severe/necrotizing pneumonia; coded [[J85.1]] (**with pneumonia**)
+> - **Lung abscess** — necrotic cavity in lung parenchyma; complication of severe/necrotizing pneumonia; coded [[J85.1]] (**with pneumonia**)
 > - **[[Sepsis]]** — life-threatening organ dysfunction from dysregulated host response; pneumonia is the most common sepsis source
 > - **[[Respiratory failure]]** — impaired oxygenation/ventilation requiring supplemental O2 or mechanical ventilation; code additionally
-> - **[[ARDS]]** (Acute Respiratory Distress Syndrome) — severe form of hypoxic respiratory failure; complication of severe pneumonia
+> - **ARDS** (Acute Respiratory Distress Syndrome) — severe form of hypoxic respiratory failure; complication of severe pneumonia
 > - **Streptococcus pneumoniae** — most common bacterial cause of CAP; pneumococcal pneumonia → [[J13]]
 > - **Staphylococcus aureus** — including MRSA; causes severe necrotizing pneumonia especially post-influenza
 > - **Klebsiella pneumoniae** — gram-negative cause of HAP/VAP; "currant jelly sputum" classically described

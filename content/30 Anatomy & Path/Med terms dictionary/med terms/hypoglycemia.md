@@ -53,8 +53,8 @@ _____
 > - **Hypoglycemic** _(adjective form — clinical collocations: "hypoglycemic episode," "hypoglycemic coma," "hypoglycemic unawareness")_
 > - **Low blood sugar** _(lay term universally used by patients and caregivers; common in diabetes education settings)_
 > - **Insulin shock** _(historical and lay clinical term for severe hypoglycemia with altered consciousness or coma; now largely replaced in clinical documentation)_
-> - **Reactive hypoglycemia** _(postprandial form occurring 2–5 hours after eating; coded under [[E16.1]])_
-> - **[[Drug-induced hypoglycemia|Drug-Induced Hypoglycemia]]** _(caused by insulin, sulfonylureas, or other antidiabetic agents; coded [[E16.0]]; requires an adverse effect code from T36–T50 as an additional code)_
+> - **Reactive hypoglycemia** _(postprandial form occurring 2-5 hours after eating; coded under [[E16.1]])_
+> - **[[Drug-induced hypoglycemia|Drug-Induced Hypoglycemia]]** _(caused by insulin, sulfonylureas, or other antidiabetic agents; coded [[E16.0]]; requires an adverse effect code from T36-T50 as an additional code)_
 > - **[[Diabetic hypoglycemia]]** _(hypoglycemia as a complication of diabetes mellitus; coded with combination codes such as [[E11.649]], [[E10.649]], [[E13.649]] depending on DM type and coma status)_
 > - **Hypoglycemic coma** _(severe neurological manifestation with loss of consciousness; coded [[E15]] when not associated with diabetes, or with diabetic combination codes when DM is present)_
 > - **Neonatal hypoglycemia** _(transient metabolic hypoglycemia of the newborn, especially in infants of diabetic mothers; coded [[P70.4]])_
@@ -68,7 +68,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
 > - **[[Hyperglycemia]]** — the opposite of **hypoglycemia**; blood glucose is elevated above normal (>180 mg/dL in most clinical definitions); caused by insulin deficiency or resistance rather than insulin excess
-> - **[[normoglycemia]]** — shares the *[[glyc-]]* root; refers to blood glucose within the normal physiological range (70–140 mg/dL fasting/postprandial)
+> - **[[normoglycemia]]** — shares the *[[glyc-]]* root; refers to blood glucose within the normal physiological range (70-140 mg/dL fasting/postprandial)
 > - **[[insulin]]** — the primary hormonal driver of hypoglycemia when present in excess, either exogenously administered or endogenously secreted; coded as adverse effect (insulin: [[T38.3X5A]] initial, [[T38.3X5D]] subsequent)
 > - **Glucagon** — counter-regulatory hormone released by pancreatic alpha cells to raise blood glucose in response to hypoglycemia; its deficiency or blunted response contributes to hypoglycemic unawareness
 > - **Insulinoma** — a pancreatic islet-cell tumor that autonomously secretes insulin causing recurrent fasting hypoglycemia; benign form coded [[D13.7]]
@@ -156,7 +156,7 @@ _____
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** For **diabetic hypoglycemia**, always use the appropriate combination code from the E08–E13 range that captures both the DM type and the hypoglycemia — never code E16.x separately when diabetes is the documented cause, as this constitutes undercoding and may trigger a payer audit. The **coma vs. no coma** distinction (e.g., [[E11.641]] vs. [[E11.649]]) requires explicit physician documentation; query the provider if "altered mental status," "unresponsive," or "LOC" appears in the note without a clear coma designation. For **drug-induced non-diabetic hypoglycemia** ([[E16.0]]), always assign an additional adverse effect code from the T38.3X5- range to identify the offending agent — this is a required sequencing step under ICD-10-CM Official Guidelines. A commonly missed inpatient profee opportunity is the **[[E15]]** code (nondiabetic hypoglycemic coma), which is underused when providers document "hypoglycemic episode with unresponsiveness" in a non-diabetic patient — the documentation trigger phrase to watch for is **"insulin shock"** or **"hypoglycemic stupor."** When neonatal hypoglycemia ([[P70.4]]) is the reason for NICU admission, it drives a higher-weighted MS-DRG and must be captured as the principal diagnosis — do not allow it to default to an unspecified newborn code.
+> > ⚠️ **Coding Note:** For **diabetic hypoglycemia**, always use the appropriate combination code from the E08-E13 range that captures both the DM type and the hypoglycemia — never code E16.x separately when diabetes is the documented cause, as this constitutes undercoding and may trigger a payer audit. The **coma vs. no coma** distinction (e.g., [[E11.641]] vs. [[E11.649]]) requires explicit physician documentation; query the provider if "altered mental status," "unresponsive," or "LOC" appears in the note without a clear coma designation. For **drug-induced non-diabetic hypoglycemia** ([[E16.0]]), always assign an additional adverse effect code from the T38.3X5- range to identify the offending agent — this is a required sequencing step under ICD-10-CM Official Guidelines. A commonly missed inpatient profee opportunity is the **[[E15]]** code (nondiabetic hypoglycemic coma), which is underused when providers document "hypoglycemic episode with unresponsiveness" in a non-diabetic patient — the documentation trigger phrase to watch for is **"insulin shock"** or **"hypoglycemic stupor."** When neonatal hypoglycemia ([[P70.4]]) is the reason for NICU admission, it drives a higher-weighted MS-DRG and must be captured as the principal diagnosis — do not allow it to default to an unspecified newborn code.
 
 _____
 

@@ -42,7 +42,7 @@ _____
 >|**[[naso-]]** / **[[nas-]]**|Latin _nasus_ (nose)|"**nose**" — primary anatomical root referring to the external or internal nose|
 >|**[[septo-]]** / **[[sept-]]**|Latin _saeptum_ (fence, enclosure)|"**partition**," "**enclosure**" — anatomical root referring to a dividing wall|
 >
-> The phrase entered English medical literature in the **late 19th century** as *deviated nasal septum* (**noun phrase**), combining Latin-derived anatomical and descriptive terms — literally **"a turned-aside partition of the nose."** The root *saeptum* ("**partition**") connects **deviated nasal septum** to the entire **[[-sept]]** family: ***[[septoplasty]]*** (**surgical repair of the septum**), ***septal [[hematoma]]*** (**blood collection within the partition**), and *[[atrial septal defect]]* (**hole in the partition of the heart**). The root *nasus* links it to terms like ***[[nasopharynx]]*** and ***[[nasolacrimal]]***.
+> The phrase entered English medical literature in the **late 19th century** as *deviated nasal septum* (**noun phrase**), combining Latin-derived anatomical and descriptive terms — literally **"a turned-aside partition of the nose."** The root *saeptum* ("**partition**") connects **deviated nasal septum** to the entire **[[-sept]]** family: ***[[septoplasty]]*** (**surgical repair of the septum**), ***septal [[hematoma]]*** (**blood collection within the partition**), and *atrial septal defect* (**hole in the partition of the heart**). The root *nasus* links it to terms like ***[[nasopharynx]]*** and ***[[nasolacrimal]]***.
 
 _____
 
@@ -134,7 +134,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[deviated nasal septum]].definition, word))) > 0 AND file.name != [[deviated nasal septum]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

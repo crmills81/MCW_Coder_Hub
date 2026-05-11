@@ -80,7 +80,7 @@ _____
 > - **Valgus**: An outward angulation of the distal segment of a bone or joint, which can sometimes be confused with an abducted position, though valgus refers to a structural deformity rather than a dynamic movement.
 >
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

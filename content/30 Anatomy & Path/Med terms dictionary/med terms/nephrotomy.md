@@ -175,7 +175,7 @@ definition:
 > | CPT Code | Description |
 > |---|---|
 > |**[[50590]]**|[[Lithotripsy]], extracorporeal shock wave *(ESWL — non-invasive; no **nephrotomy**; first-line for stones ≤2 cm in favorable location; do NOT combine with 50080/50081 for same kidney same session)*|
-> |**[[50393]]**|Introduction of ureteral catheter or stent into [[ureter]] through renal pelvis for drainage, [[percutaneous]] *(nephrostomy [[30 Anatomy & Path/Med terms dictionary/Med roots/catheter]] placement — percutaneous radiologic approach; distinct from surgical CPT 50040)*|
+> |**[[50393]]**|Introduction of ureteral catheter or stent into [[ureter]] through renal pelvis for drainage, [[percutaneous]] *(nephrostomy [[catheter]] placement — percutaneous radiologic approach; distinct from surgical CPT 50040)*|
 > |**[[50544]]**|Laparoscopy, surgical; pyeloplasty *(laparoscopic repair of UPJ obstruction — distinct from nephrotomy; access via laparoscope not parenchymal incision)*|
 >
 > ---

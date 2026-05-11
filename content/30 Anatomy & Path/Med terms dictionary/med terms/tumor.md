@@ -39,7 +39,7 @@ _____
 >|**[[tum-]]** / **[[tumor-]]**|Latin _tumere_ (to swell)|"**to swell**," "**swelling**" — primary root referring to a protuberance or enlargement|
 >|**[[-or]]**|Latin _-or_ (-or)|Noun-forming suffix — "**state of**," "**condition of**," "**result of**"|
 >
-> The word entered English in the **early 15th century** as *tumor* (**noun**), borrowed from Old French *tumour*, from Latin ***tumor*** — literally **"the state of swelling."** The root *tumere* ("**to swell**") connects tumor to the entire **[[-tum]]** family: ***[[tumefaction]]*** (**the process of swelling**), ***[[tumescence]]*** (**swelling, usually related to vascular engorgement**), and *[[contumacious]]* (**swelling with pride or stubbornness**). The concept evolved from **Celsus**'s classical definition of inflammation (*rubor, tumor, calor, dolor*) to specifically denote neoplastic growths by the 19th century.
+> The word entered English in the **early 15th century** as *tumor* (**noun**), borrowed from Old French *tumour*, from Latin ***tumor*** — literally **"the state of swelling."** The root *tumere* ("**to swell**") connects tumor to the entire **[[-tum]]** family: ***tumefaction*** (**the process of swelling**), ***tumescence*** (**swelling, usually related to vascular engorgement**), and *contumacious* (**swelling with pride or stubbornness**). The concept evolved from **Celsus**'s classical definition of inflammation (*rubor, tumor, calor, dolor*) to specifically denote neoplastic growths by the 19th century.
 
 _____
 
@@ -59,12 +59,12 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
 > - **[[Cancer]]** — the common term for a malignant tumor; defined by its ability to invade adjacent tissues and **[[metastasize]]**.
-> - **[[Oncology]]** — the branch of medicine dedicated to the study, diagnosis, and treatment of tumors (**neoplasms**).
+> - **Oncology** — the branch of medicine dedicated to the study, diagnosis, and treatment of tumors (**neoplasms**).
 > - **[[Metastasis]]** — the pathogenic spread of malignant tumor cells from the primary site to distant organs.
 > - **[[Cyst]]** — an abnormal, often benign, sac-like pocket of tissue that contains fluid, air, or other substances, distinct from the solid cellular mass of most tumors.
 > - **[[Abscess]]** — a localized collection of pus caused by a bacterial infection, clinically presenting as a swollen mass but fundamentally different in mechanism from a neoplastic tumor.
 > - **[[Hyperplasia]]** — an increase in the number of normal cells in an organ or tissue; unlike a tumor (**neoplasia**), **[[hyperplasia]]** is typically a controlled response to a stimulus rather than independent clonal growth.
-> - **[[Biopsy]]** — the primary diagnostic procedure for extracting tissue from a tumor to determine its histological type and behavior.
+> - **Biopsy** — the primary diagnostic procedure for extracting tissue from a tumor to determine its histological type and behavior.
 
 _____
 
@@ -143,7 +143,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[tumor]].definition, word))) > 0 AND file.name != [[tumor]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

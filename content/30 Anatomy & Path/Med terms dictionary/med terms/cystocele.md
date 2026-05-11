@@ -6,6 +6,7 @@ tags:
   - urology
 aliases:
   - bladder prolapse
+  - Cystocele
 roots:
   - cyst-
   - -cel-
@@ -84,7 +85,7 @@ _____
 >```
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

@@ -3,6 +3,7 @@ tags:
   - medterm
 aliases:
   - skin
+  - Cutaneous
 roots:
   - cutaneous
   - cut-
@@ -143,7 +144,7 @@ _____
 > 
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

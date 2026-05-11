@@ -63,7 +63,7 @@ definition:
 > - **Müller's muscle** — smooth muscle secondary eyelid elevator; sympathetically innervated; affected in **Horner syndrome**
 > - **[[Dermatochalasis]]** — redundant upper eyelid skin; causes **mechanical ptosis** and is often concurrent; coded separately ([[H02.831]]-[[H02.836]])
 > - **[[Blepharoplasty]]** — surgical removal of excess eyelid skin/fat; CPT [[15822]]-[[15823]]; distinct from **ptosis** repair ([[67900]]-[[67909]])
-> - **[[Amblyopia]]** — stimulus deprivation from childhood **ptosis** blocking the visual axis; a key complication and urgency driver
+> - **[[amblyopia]]** — stimulus deprivation from childhood **ptosis** blocking the visual axis; a key complication and urgency driver
 > - **Marcus Gunn jaw-winking ptosis** — congenital synkinetic ptosis with [[pterygoid]] muscle contraction; coded [[Q10.0]]
 > - **[[myasthenia gravis]]** — [[autoimmune]] NMJ disorder; bilateral fatigable **ptosis** is classic presentation; [[G70.01]] (acute)/[[G70.00]] (without exacerbation)
 > - **Horner syndrome** — sympathetic chain disruption → **ptosis** + [[miosis]] + [[anhidrosis]]; [[G90.2]]
@@ -193,7 +193,7 @@ definition:
 >WHERE length(filter(definition, (word) => econtains(this.definition, word))) > 0 AND file.name != this.file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

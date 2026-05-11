@@ -1,5 +1,5 @@
 ## **ICD-10-CM - O35-S8**
-#### **ICD 10** [[**Code Set 2**]]
+#### **ICD 10** **Code Set 2**
 
 **ICD-CM Code	Description**
 O35.00X0	"Maternal care for (suspected) central nervous system malformation or damage in fetus, unspecified, not applicable or unspecified"

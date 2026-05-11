@@ -94,11 +94,11 @@ _____
 > - **[[43236]]**: EGD with insertion of guide wire followed by dilation of esophagus (over guide wire). _If stricture dilation is needed alongside Barrett's management._
 
 _____
->[!tip]- DERIVATIONS of [[Barrett's esophagu]]s
+>[!tip]- DERIVATIONS of [[Barrett's esophagus]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
+>WHERE length(filter(roots, (word) => econtains([[Barrett's esophagus]].roots, word))) > 0 AND file.name != [[Barrett's esophagus]].file.name
 >SORT file.name ASC
 >```
 _____
@@ -106,7 +106,8 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.definition, definition))
 >```
 
 [[Med roots]]

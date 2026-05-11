@@ -39,7 +39,7 @@ _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 > 
-> - **[[Atrophic]]** _(adjective form — e.g., "atrophic vaginitis," "atrophic gastritis")_
+> - **Atrophic** _(adjective form — e.g., "atrophic vaginitis," "atrophic gastritis")_
 > - **Wasting / Wasting syndrome** _(lay and clinical term, especially in cachexia)_
 > - **[[Hypotrophy]]** _(decrease in volume of cells or tissues; partial atrophy)_
 > - **Muscle wasting** _(clinical synonym for muscular atrophy; coded under M62.5x)_

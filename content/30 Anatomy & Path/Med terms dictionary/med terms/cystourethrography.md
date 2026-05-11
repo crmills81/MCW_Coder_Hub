@@ -5,6 +5,7 @@ tags:
   - urology
 aliases:
   - retrograde urethrogram
+  - Cystourethrography
   - cystourethroram
   - cystogram
 roots:
@@ -56,7 +57,7 @@ _____
 > |**[[N13.71]]**|Vesicoureteral reflux without reflux nephropathy|
 > |**[[N13.721]]**|VUR with reflux nephropathy w/o hydroureter, unilateral|
 > |**[[N13.722]]**|VUR with reflux nephropathy w/o hydroureter, bilateral|
-> |**[[N31.9]]**|Neuromuscular dysfunction of bladder, unspecified|
+> |**[[50 Medical Coding/ICD-10 Codes/N31.9]]**|Neuromuscular dysfunction of bladder, unspecified|
 > |**[[N31.8]]**|Other neuromuscular dysfunction of bladder|
 > |**[[N35.811]]**|Other urethral stricture, male, meatal|
 > |**[[N35.812]]**|Other bulbous urethral stricture, male|
@@ -93,7 +94,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

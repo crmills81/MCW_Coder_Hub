@@ -6,8 +6,7 @@ roots:
 forms:
   - combining
 "alphabet:": C
-definition:
-  - carbon dioxide
+definition: carbon dioxide
 ---
 >[!Note] DEFINITION of capn-
 >carbon dioxide

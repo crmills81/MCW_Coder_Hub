@@ -43,23 +43,23 @@ _____
 > 
 > | [[-cid-]] Term | Combining Root | Meaning |
 > |:---:|:---:|:---:|
-> | **[[germicide]]** | [[germ/o-]] (**germ**) | Agent that destroys microorganisms |
-> | **[[bactericide]]** | [[bacteri/o-]] (**bacteria**) | Agent that kills bacteria |
-> | **[[fungicide]]** | [[fungi-]] (**fungus**) | Agent that kills fungi |
-> | **[[virucide]]** | [[viru-]] (**virus**) | Agent that destroys viruses |
-> | **[[spermicide]]** | [[sperm/o-]] (**sperm**) | Agent that kills sperm cells |
-> | **[[parasiticide]]** | [[parasit/o-]] (**parasite**) | Agent that kills parasites |
-> | **[[insecticide]]** | [[insect/o-]] (**insect**) | Agent that kills insects |
+> | **germicide** | [[germ/o-]] (**germ**) | Agent that destroys microorganisms |
+> | **bactericide** | [[bacteri/o-]] (**bacteria**) | Agent that kills bacteria |
+> | **fungicide** | [[fungi-]] (**fungus**) | Agent that kills fungi |
+> | **virucide** | [[viru-]] (**virus**) | Agent that destroys viruses |
+> | **spermicide** | [[sperm/o-]] (**sperm**) | Agent that kills sperm cells |
+> | **parasiticide** | [[parasit/o-]] (**parasite**) | Agent that kills parasites |
+> | **insecticide** | [[insect/o-]] (**insect**) | Agent that kills insects |
 > | **[[suicide]]** | [[sui-]] (**of oneself**) | Act of killing oneself |
 > | **[[homicide]]** | [[homi-]] (**man/person**) | Act of killing a person |
 _____
 >[!warning]+ CLINICAL & CODING USES (-cid- in medical documentation)
 >**Infection Control & Pharmacology:**
 >
->- **[[Bactericidal]] vs [[bacteriostatic]]**: Critical distinction — bactericidal agents **kill** the organism; bacteriostatic agents **inhibit growth**; drives antibiotic selection and documentation
->- **[[Germicide]]**: Broad term used in hospital disinfection protocols — subcategorized as **[[sporicide]]**, **[[tuberculocide]]**, **[[virucide]]**, **[[fungicide]]** per CDC guidelines
->- **[[Spermicide]]**: Topical contraceptive agent; surfaces in reproductive health documentation
->- **[[Pediculicide]] / [[scabicide]]**: Agents targeting lice and scabies — coded under parasitic infestation diagnoses
+>- **Bactericidal vs bacteriostatic**: Critical distinction — bactericidal agents **kill** the organism; bacteriostatic agents **inhibit growth**; drives antibiotic selection and documentation
+>- **Germicide**: Broad term used in hospital disinfection protocols — subcategorized as **sporicide**, **tuberculocide**, **virucide**, **fungicide** per CDC guidelines
+>- **Spermicide**: Topical contraceptive agent; surfaces in reproductive health documentation
+>- **Pediculicide / scabicide**: Agents targeting lice and scabies — coded under parasitic infestation diagnoses
 >
 >**Mental Health (High-Priority Coding Area):**
 >
@@ -69,7 +69,7 @@ _____
 >
 >**Profee Coding Tips:**
 >- For **[[-cidal]] drug therapies**, verify HCPCS/NDC codes for antimicrobials administered during inpatient stay
->- Modifier **[[59]]**: May apply when a separate wound care/[[debridement]] encounter involves **-cidal** agent application distinct from another service
+>- Modifier **[[-59]]**: May apply when a separate wound care/[[debridement]] encounter involves **-cidal** agent application distinct from another service
 >- Always distinguish **bactericidal** vs **bacteriostatic** in antimicrobial stewardship documentation — affects CC/MCC capture under ICD-10-PCS
 >- **[[Homicide]]** and **[[assault]]** sequelae are coded with **external cause codes (X92-Y09 range)** — required for trauma inpatient stays
 _____

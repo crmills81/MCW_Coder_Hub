@@ -9,6 +9,7 @@ aliases:
   - diabetic eye disease
   - NPDR
   - PDR
+  - Diabetic retinopathy
 roots:
   - diabet-
   - retin-
@@ -158,7 +159,7 @@ _____
 >```
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

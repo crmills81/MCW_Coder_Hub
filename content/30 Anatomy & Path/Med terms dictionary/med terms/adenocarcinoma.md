@@ -19,7 +19,7 @@ definition:
   - malignant neoplasm originating from glandular epithelial tissue
 ---
 >[!Note] DEFINITION of [[adenocarcinoma]]
->[[adenocarcinoma]] is cancer arising from glandular epithelium, forming gland‑like structures or secreting mucin. Adenocarcinoma is a malignant tumor of epithelial origin derived from glandular or secretory epithelium ([[endoderm]], [[mesoderm]], or [[ectoderm]]), exhibiting morphological features such as glandular/acinar differentiation, mucin production, or ductal structures. It represents the most common type of non‑small cell lung cancer (**NSCLC**), colorectal cancer, pancreatic cancer, esophageal cancer, and many others, with subtypes including mucinous, signet‑ring cell, [[papillary]], [[bronchioloalveolar]] (now reclassified), and others based on histologic patterns and molecular features.
+>[[adenocarcinoma]] is cancer arising from glandular epithelium, forming gland‑like structures or secreting mucin. Adenocarcinoma is a malignant tumor of epithelial origin derived from glandular or secretory epithelium ([[endoderm]], [[mesoderm]], or [[ectoderm]]), exhibiting morphological features such as glandular/acinar differentiation, mucin production, or ductal structures. It represents the most common type of non‑small cell lung cancer (**NSCLC**), colorectal cancer, pancreatic cancer, esophageal cancer, and many others, with subtypes including mucinous, signet‑ring cell, papillary, [[bronchioloalveolar]] (now reclassified), and others based on histologic patterns and molecular features.
 _____
 >[!info]+ ETYMOLOGY of [[adenocarcinoma]]
 >#greek 
@@ -78,12 +78,12 @@ _____
 > - **[[adenoma]]** (adenomatous polyp): Benign glandular tumor (/0 in ICD‑O); precursor to adenocarcinoma in colon, stomach.[2]
 > 
 > **Other glandular malignancies:**  
-> - **[[Cystadenocarcinoma]]:** Cystic [[glandular cancer]].  
-> - **Papillary adenocarcinoma:** With [[papillary]] projections.  
+> - **[[Cystadenocarcinoma]]:** Cystic glandular cancer.  
+> - **Papillary adenocarcinoma:** With papillary projections.  
 > - **Tubular adenocarcinoma:** Predominantly tubular glands.  
 > 
 > **Precursors:**  
-> - **[[dysplasia]] / [[adenoma]] / [[metaplasia]]** (e.g., [[Barrett’s esophagus]] → esophageal adenocarcinoma).  
+> - **[[dysplasia]] / [[adenoma]] / [[metaplasia]]** (e.g., Barrett’s esophagus → esophageal adenocarcinoma).  
 > 
 > **Molecular markers:**  
 > - **KRAS**, **EGFR**, **BRAF** mutations (lung, colorectal); **HER2** amplification (breast, gastric); MSI‑high (colorectal Lynch syndrome).[2]
@@ -119,7 +119,7 @@ _____
 >AND any(contains(this.definition, definition))
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

@@ -91,11 +91,11 @@
 ##### **Introduction**
 [[6.1 The Functions of the Skeletal System]]
 [[6.2 Bone Classification]]
-[[6.3 Bone Structure]]
+[[6.3  Bone Structure]]
 [[6.4 Bone Formation and Development]]
-[[6.5 Fractures: Bone Repair]]
+[[6.5 Fractures - Bone Repair]]
 [[6.6 Exercise, Nutrition, Hormones, and Bone Tissue]]
-[[6.7 Calcium Homeostasis: Interactions of the Skeletal System and Other Organ Systems]]
+[[6.7 Calcium Homeostasis - Interactions of the Skeletal System and Other Organ Systems]]
 **Key Terms**
 **Chapter Review**
 **Review Questions**

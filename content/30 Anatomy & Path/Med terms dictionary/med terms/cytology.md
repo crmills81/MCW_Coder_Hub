@@ -183,7 +183,7 @@ Cytology is the branch of pathology focused on examining individual cells and sm
 **Document created:** February 13, 2026
 **Medical coding professional reference**
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

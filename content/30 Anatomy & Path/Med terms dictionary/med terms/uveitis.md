@@ -52,7 +52,7 @@ _____
 **ICD-10-CM:**[10]
 | Code      | Description                                      |
 |-----------|--------------------------------------------------|
-| **[[H20.9]]** | Unspecified [[Iridocyclitis]] ([[anterior uveitis]]).   |
+| **[[H20.9]]** | Unspecified [[iridocyclitis]] ([[anterior uveitis]]).   |
 | **[[H30.9]]** | Unspecified uveitis ([[posterior]]).                |
 | **[[H21.9]]** | Unspecified disorder of iris/[[ciliary body]].      |
 | **[[H44.1]]** | [[Endophthalmitis]] (infectious uveitis).           |
@@ -77,7 +77,7 @@ _____
 
 ## Related Terms
 
-- **[[Iridocyclitis]]:** Anterior uveitis synonym.  
+- **[[iridocyclitis]]:** Anterior uveitis synonym.  
 - **[[Keratic Precipitates]] (KP):** Inflammatory [[corneal]] deposits.  
 - **[[Synechiae]]:** Iris adhesions (posterior: lens; anterior: cornea).  
 - **CME:** [[Cystoid macular edema]] (OCT diagnosis).  

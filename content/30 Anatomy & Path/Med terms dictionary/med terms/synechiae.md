@@ -34,7 +34,7 @@ _____
 > 
 > **Ophthalmology:**
 > 
-> - **[[Uveitis]] / [[Iridocyclitis]]** — The most common inciting condition for posterior synechiae formation
+> - **[[Uveitis]] / [[iridocyclitis]]** — The most common inciting condition for posterior synechiae formation
 > - **Anterior chamber inflammation** — Generates the fibrin scaffold upon which synechiae form
 > - **[[Fibrin]]** — The inflammatory protein that forms the initial "glue" preceding organized synechiae
 > - **[[Gonioscopy]]** — The examination technique used to directly visualize anterior synechiae and assess angle involvement

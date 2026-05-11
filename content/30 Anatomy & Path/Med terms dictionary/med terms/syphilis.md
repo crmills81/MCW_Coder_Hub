@@ -1,6 +1,8 @@
 ---
 tags:
   - medterm
+  - bacterium
+  - STI
 aliases:
   - Syphilis
   - lues
@@ -18,11 +20,10 @@ forms:
   - noun
   - adjective (syphilitic)
 alphabet: S
-definition:
-  - A chronic, systemic sexually transmitted infection caused by the spirochete bacterium Treponema pallidum, progressing through four clinical stages — primary, secondary, latent, and tertiary — with multisystem involvement if untreated
+definition: A chronic, systemic sexually transmitted infection caused by the spirochete bacterium Treponema pallidum, progressing through four clinical stages — primary, secondary, latent, and tertiary — with multisystem involvement if untreated
 ---
 >[!Note] DEFINITION of [[syphilis]]
->**Syphilis** is a chronic, systemic **sexually transmitted infection (STI)** caused by **the gram-negative spirochete bacterium** ***Treponema pallidum* subspecies *pallidum***. Transmission occurs primarily through direct sexual contact with active infectious lesions, but also transplacentally (**congenital syphilis**), via blood transfusion, or through skin breaks contacting infectious lesions. Untreated, the disease progresses through four distinct clinical stages: **primary** (painless chancre at the site of entry), **secondary** (systemic dissemination — **rash, condylomata lata, mucous patches**), **latent** (**asymptomatic; seroreactive with no clinical signs**), and **tertiary** (gummatous, cardiovascular, or neurologic destruction). Because syphilis can mimic virtually any disease — presenting as rash, [[meningitis]], [[dementia]], [[aortic aneurysm]], [[uveitis]], [[hepatitis]], and more — it earned the historic title **"the great imitator"** and continues to be the **"great mimicker"** in modern medicine. **Syphilis** disproportionately affects **men who have sex with men (MSM)** and people with HIV, and rates have risen sharply in the United States since the early 2000s. As an inpatient profee coder, syphilis appears in neurology, cardiology, psychiatry, and infectious disease admissions — **neurosyphilis** (**A52.3**) and cardiovascular syphilis (A52.0x) are the most clinically severe and code-impactful presentations you'll encounter; always check the CSF and serology results in the chart when either is suspected.
+>**Syphilis** is a chronic, systemic **sexually transmitted infection (STI)** caused by **the gram-negative spirochete bacterium** ***Treponema pallidum* subspecies *pallidum***. Transmission occurs primarily through direct sexual contact with active infectious lesions, but also transplacentally (**congenital syphilis**), via blood transfusion, or through skin breaks contacting infectious lesions. Untreated, the disease progresses through four distinct clinical stages: **primary** (painless chancre at the site of entry), **secondary** (systemic dissemination — **rash, condylomata lata, mucous patches**), **latent** (**asymptomatic; seroreactive with no clinical signs**), and **tertiary** (gummatous, cardiovascular, or neurologic destruction). Because syphilis can mimic virtually any disease — presenting as rash, [[meningitis]], [[dementia]], aortic [[aneurysm]], [[uveitis]], [[hepatitis]], and more — it earned the historic title **"the great imitator"** and continues to be the **"great mimicker"** in modern medicine. **Syphilis** disproportionately affects **men who have sex with men (MSM)** and people with HIV, and rates have risen sharply in the United States since the early 2000s. As an inpatient profee coder, syphilis appears in neurology, cardiology, psychiatry, and infectious disease admissions — **neurosyphilis** (**A52.3**) and cardiovascular syphilis (A52.0x) are the most clinically severe and code-impactful presentations you'll encounter; always check the CSF and serology results in the chart when either is suspected.
 _____
 >[!info]+ ETYMOLOGY of [[syphilis]]
 >#newlatin #literary
@@ -213,7 +214,7 @@ _____
 > |CPT Code|Description|
 > |---|---|
 > |**[[96372]]**|Therapeutic, prophylactic, or diagnostic injection; subcutaneous or intramuscular *(benzathine penicillin G IM — first-line treatment)*|
-> |**[[99211-99215]]**|Office/outpatient E&M *(follow-up visits for titer monitoring and treatment response)*|
+> |**[[99211]]-[[99215]]**|Office/outpatient E&M *(follow-up visits for titer monitoring and treatment response)*|
 >
 > #### HIV Co-infection Testing
 >
@@ -224,7 +225,7 @@ _____
 >
 > ---
 >
-> > ⚠️ **Coding Note:** **A53.9 (syphilis, unspecified)** is a last-resort code — the stage and type are almost always determinable from serology titers, treatment records, and provider documentation. For **neurosyphilis**, stage specificity matters enormously: A52.11 (tabes dorsalis), A52.17 (general paresis), and A52.3 (neurosyphilis, unspecified) are distinct codes — pull the neurologist's consult note and CSF results before defaulting to unspecified. **Congenital syphilis (A50)** is a high-priority public health code and a frequent focus of maternal/newborn quality audits — document whether it is early vs. late AND symptomatic vs. latent. For **inpatient profee**, the CSF-VDRL performed via lumbar puncture (62270) is your key procedure for neurosyphilis claims — confirm the ordering provider interpreted the results AND documented their clinical impression based on the CSF findings. When syphilis is co-diagnosed with **HIV**, code both (sequence based on reason for admission); HIV + neurosyphilis is a clinically significant combination that affects care intensity and DRG weight. **Jarisch-Herxheimer reaction** post-treatment is not separately coded in ICD-10-CM — document it narratively for clinical completeness but it does not have its own billable code at this time.
+> > ⚠️ **Coding Note:** **A53.9 (syphilis, unspecified)** is a last-resort code — the stage and type are almost always determinable from serology titers, treatment records, and provider documentation. For **neurosyphilis**, stage specificity matters enormously: [[A52.11]] (tabes dorsalis), [[A52.17]] (general paresis), and A52.3 (neurosyphilis, unspecified) are distinct codes — pull the neurologist's consult note and CSF results before defaulting to unspecified. **Congenital syphilis (A50)** is a high-priority public health code and a frequent focus of maternal/newborn quality audits — document whether it is early vs. late AND symptomatic vs. latent. For **inpatient profee**, the CSF-VDRL performed via lumbar puncture ([[62270]]) is your key procedure for neurosyphilis claims — confirm the ordering provider interpreted the results AND documented their clinical impression based on the CSF findings. When syphilis is co-diagnosed with **HIV**, code both (sequence based on reason for admission); HIV + neurosyphilis is a clinically significant combination that affects care intensity and DRG weight. **Jarisch-Herxheimer reaction** post-treatment is not separately coded in ICD-10-CM — document it narratively for clinical completeness but it does not have its own billable code at this time.
 >
 _____
 >[!tip]- DERIVATIONS of [[syphilis]]

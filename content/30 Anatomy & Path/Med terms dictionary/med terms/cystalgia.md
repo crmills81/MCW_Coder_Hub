@@ -5,6 +5,7 @@ tags:
   - medroot
 aliases:
   - cystodynia
+  - Cystalgia
 roots:
   - cyst-
   - alg-
@@ -110,7 +111,7 @@ ____
 
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

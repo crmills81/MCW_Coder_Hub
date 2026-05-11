@@ -33,7 +33,7 @@ _____
 >[!info]+ ETYMOLOGY of [[trabeculectomy]]
 > #latin + #greek The word is a compound of **three elements**:
 > 
-> - _**[[Trabecula]]**_: Diminutive of Latin _**trabs**_ ("**beam, timber, bar**") — referring to the lattice-like, beam-structured meshwork of tissue through which **aqueous humor drains**; in anatomy, a _trabecula_ is any small, bar-like structural element.
+> - _**[[trabecula-]]**_: Diminutive of Latin _**trabs**_ ("**beam, timber, bar**") — referring to the lattice-like, beam-structured meshwork of tissue through which **aqueous humor drains**; in anatomy, a _trabecula_ is any small, bar-like structural element.
 > - _**[[-ec-]]**_: From Greek _**ek-**_ ("**out, away**") — the preposition of removal in surgical terminology.
 > - _**[[-tomy]]**_: From Greek _**tomē**_ ("**a cutting**") — but here paired with the full suffix _**[[-ectomy]]**_ (_ektomē_ = "**act of cutting out**"), denoting surgical excision.
 > 
@@ -50,12 +50,12 @@ _____
 > |**[[Trabeculotomy]]**|Incision _into_ the trabecular meshwork; does NOT remove tissue — used in congenital [[glaucoma]]|
 > |**[[Trabeculoplasty]]**|Laser procedure (ALT/SLT) to open trabecular meshwork; no excision|
 > |**[[Bleb]]**|The filtering conjunctival reservoir created by trabeculectomy|
-> |**[[Needling]]**|Office procedure to revise a scarred/failed bleb with a needle|
+> |**Needling**|Office procedure to revise a scarred/failed bleb with a needle|
 > |**[[Phacotrabeculectomy]]**|Combined cataract extraction + trabeculectomy in one session|
-> |**[[MIGS]]**|Microinvasive glaucoma surgery — newer, less invasive alternatives (iStent, XEN, Kahook)|
+> |**MIGS**|Microinvasive glaucoma surgery — newer, less invasive alternatives (iStent, XEN, Kahook)|
 > |**Tube shunt / aqueous shunt**|Alternative to trabeculectomy for refractory glaucoma (Baerveldt, Ahmed, Molteno)|
-> |**[[Canal of Schlemm]]**|The venous drainage channel just beyond the trabecular meshwork|
-> |**[[Antifibrotic agents]]**|MMC, 5-FU — used to prevent bleb scarring|
+> |**Canal of Schlemm**|The venous drainage channel just beyond the trabecular meshwork|
+> |**Antifibrotic agents**|MMC, 5-FU — used to prevent bleb scarring|
 
 ---
 
@@ -157,7 +157,7 @@ _____
 > 
 > **Combined Phacotrabeculectomy**
 > 
-> > When cataract surgery ([[66984]] or [[66982]]) is performed in the same session as trabeculectomy ([[66170]] or [[66172]]), both codes may be reported with modifier [[51]] (multiple procedure). Confirm payer-specific bundling rules and CCI edits before reporting together.
+> > When cataract surgery ([[66984]] or [[66982]]) is performed in the same session as trabeculectomy ([[66170]] or [[66172]]), both codes may be reported with modifier [[-51]] (multiple procedure). Confirm payer-specific bundling rules and CCI edits before reporting together.
 > 
 > ---
 > 
@@ -166,8 +166,8 @@ _____
 > > - **[[66170]]** vs. **[[66172]]**: The critical distinction is **prior surgery/scarring**. If the eye has had previous ocular surgery (including prior trabeculectomy, cataract surgery, tube shunt, or trauma), use [[66172]]. If no prior surgery and no scarring, use [[66170]]. When documentation is ambiguous, query the surgeon.
 > > - **[[66183]]** (Ex-PRESS shunt) is **mutually exclusive** with [[66170]]/[[66172]] per NCCI edits — report [[66183]] only when a device is implanted.
 > > - Trabeculectomy carries a **90-day global period** — E/M visits during that period for related care are not separately billable.
-> > - **Laterality modifiers** are required: [[RT]] (right eye), [[LT]] (left eye). Do **not** use modifier [[50]] for bilateral glaucoma surgery — the two eyes are never performed simultaneously.
-> > - Common modifiers: [[58]] (staged/related procedure during global); [[78]] (unplanned return to OR, related, during global); [[79]] (unrelated procedure during global); [[22]] (increased procedural services — e.g., extensive scarring requiring greater work, with supporting documentation); [[54]]/[[55]] (split surgical/postoperative care).
+> > - **Laterality modifiers** are required: [[-RT]] (right eye), [[-LT]] (left eye). Do **not** use modifier [[-50]] for bilateral glaucoma surgery — the two eyes are never performed simultaneously.
+> > - Common modifiers: [[-58]] (staged/related procedure during global); [[-78]] (unplanned return to OR, related, during global); [[-79]] (unrelated procedure during global); [[-22]] (increased procedural services — e.g., extensive scarring requiring greater work, with supporting documentation); [[-54]]/[[-55]] (split surgical/postoperative care).
 > > - For MIGS procedures (iStent, XEN Gel stent, Kahook Dual Blade), do **not** substitute [[66170]]/[[66172]] — these have their own specific CPT codes.
 
 _____
@@ -175,7 +175,7 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
+>WHERE length(filter(roots, (word) => econtains([[trabeculectomy]].roots, word))) > 0 AND file.name != [[trabeculectomy]].file.name
 >SORT file.name ASC
 >```
 _____
@@ -183,10 +183,10 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE length(filter(definition, (word) => econtains([[trabeculectomy]].definition, word))) > 0 AND file.name != [[trabeculectomy]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

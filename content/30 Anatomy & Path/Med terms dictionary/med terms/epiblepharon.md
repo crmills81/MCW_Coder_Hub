@@ -119,7 +119,7 @@ _____
 >
 > - **Skin-muscle excision procedure**: An ellipse of skin and pretarsal orbicularis muscle is excised from the lower lid, and the lower lid retractors are reattached to the anterior tarsal surface to create a lower lid crease and evert the lashes
 >
-> - **Sutures** ([[6-0 Prolene]] or similar) are used to close and create the new lid crease
+> - **Sutures** (6-0 Prolene or similar) are used to close and create the new lid crease
 >
 > - Typically a **bilateral procedure** performed under general anesthesia in pediatric patients
 

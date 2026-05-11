@@ -32,7 +32,7 @@ cpt:
 >Surgical repair or reconstruction of the eyelid, often to correct drooping ([[ptosis]]) or remove excess skin. [[Blepharoplasty]] is a surgical procedure that improves the appearance of the eyelids by removing **drooping skin** from upper lids and reducing the look of tired eyes or "*bags*" from lower lids, sometimes **improving vision by treating loose skin that impairs it**.
 >
 >#### ICD-10-CM Code(s):
->**1. H02.83- - [[Dermatochalasis]] of eyelid:**
+>**1. H02.83- - [[dermatochalasis]] of eyelid:**
 >- **Explanation:** This is the most common diagnosis for functional [[blepharoplasty]]. It refers to "*baggy*" or redundant skin of the eyelids.
 >	- **Note:** Requires a 6th digit for laterality: **[[H02.831]]** (**Right upper**), **[[H02.832]]** (**Right lower**), **[[H02.834]]** (**Left upper**), **[[H02.835]]** (**Left lower**).
 >- **2. H02.3- - [[Blepharochalasis]]:**
@@ -50,7 +50,7 @@ _____
 >[!example]+ RELATED TERMS to [[blepharoplasty]]
 >- **[[Blepharo-]] (combining form):** “**pertaining to the eyelid**,” seen in terms like _[[blepharitis]]_ and _[[blepharoplasty]]_.​
 >- **[[ptosis]]:** drooping of the upper eyelid that may be assessed/managed alongside upper blepharoplasty in some patients.​
->- **[[Dermatochalasis]] / [[steatoblepharon]]:** age-related excess eyelid skin and prominent fat pads that often motivate evaluation for blepharoplasty.​
+>- **[[dermatochalasis]] / [[steatoblepharon]]:** age-related excess eyelid skin and prominent fat pads that often motivate evaluation for blepharoplasty.​
 >- **Transconjunctival blepharoplasty / East Asian blepharoplasty:** specific technique/approach variants (e.g., internal lower-lid approach; creation or adjustment of a supratarsal fold in “double eyelid” surgery).
 
 _____
@@ -68,7 +68,7 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

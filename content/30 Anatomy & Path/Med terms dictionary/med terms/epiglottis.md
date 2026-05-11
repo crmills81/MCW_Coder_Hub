@@ -55,7 +55,7 @@ _____
 > - **[[Tracheitis]]** — **[[J04.10]]**; acute bacterial infection of the trachea, another pediatric airway emergency that can mimic epiglottitis but involves the airway below the vocal cords.
 > - **[[Dysphagia]]** — **[[R13.10]]**; difficulty swallowing; a primary symptom of epiglottitis but coded separately only if not entirely explained by the primary diagnosis (**though typically bundled as a symptom**).
 > - **[[Stridor]]** — **[[R06.1]]**; high-pitched, wheezing sound caused by disrupted airflow; a key clinical sign of the upper airway obstruction caused by epiglottitis.
-> - **[[Abscess of epiglottis]]** — **[[J05.11]]** (**maps to epiglottitis with obstruction**) or **[[J39.1]]**; a severe complication where a localized collection of pus forms on the epiglottis.
+> - **Abscess of epiglottis** — **[[J05.11]]** (**maps to epiglottitis with obstruction**) or **[[J39.1]]**; a severe complication where a localized collection of pus forms on the epiglottis.
 
 _____
 
@@ -77,7 +77,7 @@ _____
 >
 > #### **Secondary Organism Codes (Use Additional Code)**
 >
-> > ⚠️ **Instructional Note**: ICD-10 requires an additional code (**B95-B9**7) to identify the infectious agent if known.
+> > ⚠️ **Instructional Note**: ICD-10 requires an additional code (**B95-B97**) to identify the infectious agent if known.
 >
 > | Code | Description |
 > |---|---|

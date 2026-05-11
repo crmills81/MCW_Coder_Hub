@@ -170,7 +170,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[transverse myelitis]].definition, word))) > 0 AND file.name != [[transverse myelitis]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

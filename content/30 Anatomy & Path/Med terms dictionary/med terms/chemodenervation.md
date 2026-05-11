@@ -11,6 +11,7 @@ tags:
   - toxicology
 aliases:
   - chemodenervation injection
+  - Chemodenervation
   - botulinum toxin injection
   - BoNT injection
   - BTX injection
@@ -255,7 +256,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[chemodenervation]].definition, word))) > 0 AND file.name != [[chemodenervation]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

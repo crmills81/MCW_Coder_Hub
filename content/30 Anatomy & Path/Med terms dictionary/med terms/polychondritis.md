@@ -36,7 +36,7 @@ _____
 > [!done]+ **Related Medical Terms**
 > 
 > - **[[Chondritis]]**: Inflammation of a single area of cartilage.
-> - **[[Auricular Chondritis]]**: Inflammation of the cartilage of the ear.
+> - **Auricular Chondritis**: Inflammation of the cartilage of the ear.
 > - **Saddle Nose Deformity**: A collapse of the nasal bridge, often a complication of nasal chondritis.
 > - **Cauliflower Ear**: A deformity of the ear caused by trauma or inflammation leading to cartilage [[necrosis]] and fibrosis.
 > - **Autoimmune Disease**: A condition in which the body's immune system attacks its own tissues.

@@ -87,7 +87,7 @@ _____
 > - **[[10060]]:** Incision and drainage of abscess (e.g., carbuncle, [[suppurative hidradenitis]], [[cutaneous]] or [[subcutaneous]] abscess, cyst, furuncle, or [[paronychia]]); simple or single.
 > - **[[10061]]:** Incision and drainage of abscess... complicated or multiple.
 > - **[[10180]]:** Incision and drainage, complex, postoperative wound infection.
-> - **Specific Sites:** There are distinct codes for deep I&D (e.g., **[[46040]]** for Incision and drainage of [[ischiorectal]] and/or [[perirectal]] abscess).
+> - **Specific Sites:** There are distinct codes for deep I&D (e.g., **[[46040]]** for Incision and drainage of ischiorectal and/or [[perirectal]] abscess).
 
 ______
 
@@ -104,7 +104,7 @@ ______
 > 
 > - Abscess of anus and rectal regions (K61.-)
 > - Abscess of genital organs (external) ([[N48.2]], [[N76.4]])
-> - Abscess of glands (e.g., [[Bartholin's gland]] [[N75.1]])
+> - Abscess of glands (e.g., Bartholin's gland [[N75.1]])
 > 
 > **Excludes2 (Type 2 Excludes - Can be coded together if distinct):**
 > 
@@ -164,7 +164,7 @@ ______
 > - **Packing:** The wound is often left open or packed with gauze to allow it to heal from the inside out (secondary intention) to prevent recurrence.
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

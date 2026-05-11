@@ -36,7 +36,7 @@ _____
 >Derived from three Greek roots:
 >
 >- **Blepharon**: Meaning "**eyelid**."
->- **[[-Phimosis]]**: Meaning "**muzzling**," "**binding**," or "**narrowing**" (from _phimoun_, to muzzle). In medicine, _phimosis_ usually refers to the constriction of the foreskin, but here it denotes the constriction/narrowing of the eyelid opening.
+>- **[[-phimosis]]**: Meaning "**muzzling**," "**binding**," or "**narrowing**" (from _phimoun_, to muzzle). In medicine, _phimosis_ usually refers to the constriction of the foreskin, but here it denotes the constriction/narrowing of the eyelid opening.
 >- Literally translates to "**narrowing of the eyelid opening**."
 _____
 
@@ -114,7 +114,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

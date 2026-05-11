@@ -73,9 +73,9 @@ _____
 >
 >22. **[[Antiemesis]]** - Prevention of vomiting
 >   - Related term: antiemetic (**adjective/noun form**)
->22. [[**Hematemesis]]** - Vomiting of blood (from Greek _haima_ = blood + _emein_ = to vomit + _**-esis**_)
+>1. **[[Hematemesis]]** - Vomiting of blood (from Greek _haima_ = blood + _emein_ = to vomit + _**-esis**_)
 >    - Important diagnostic sign
->23. **Melena** vs **Hematochezia** - Note: while these don't use [[-esis]], they're related GI bleeding terms often coded alongside [[hematemesis]]
+>2. **Melena** vs **Hematochezia** - Note: while these don't use [[-esis]], they're related GI bleeding terms often coded alongside [[hematemesis]]
 >
 _____
 >[!tip]- DERIVATIONS of -esis

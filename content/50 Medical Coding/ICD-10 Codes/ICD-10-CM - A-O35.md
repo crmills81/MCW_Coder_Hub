@@ -1,5 +1,5 @@
 ## **ICD-10-CM - A-O35**
-#### **ICD 10** [[**Code Set 1**]]
+#### **ICD 10** Code Set 1
 
 **ICD-CM Code	Description**
 A00.0	    "Cholera due to Vibrio cholerae 01, biovar cholerae"
@@ -7650,7 +7650,7 @@ H40.60X3	"Glaucoma secondary to drugs, unspecified eye, severe stage"
 [[H40.60X4]]	"Glaucoma secondary to drugs, unspecified eye, indeterminate stage"
 [[H40.61X0]]	"Glaucoma secondary to drugs, right eye, stage unspecified"
 [[H40.61X1]]	"Glaucoma secondary to drugs, right eye, mild stage"
-[[H40.61X2]]	"Glaucoma secondary to drugs, right eye, moderate stage"
+[[50 Medical Coding/ICD-10 Codes/H40.61X2]]	"Glaucoma secondary to drugs, right eye, moderate stage"
 [[H40.61X3]]	"Glaucoma secondary to drugs, right eye, severe stage"
 [[H40.61X4]]	"Glaucoma secondary to drugs, right eye, indeterminate stage"
 H40.62X0	"Glaucoma secondary to drugs, left eye, stage unspecified"

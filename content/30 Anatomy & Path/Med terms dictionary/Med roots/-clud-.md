@@ -63,20 +63,20 @@ _____
 >[!warning]+ CLINICAL & CODING USES (-clud- terms & coding applications)
 >**Cardiology / Vascular (Highest-volume [[-clud-]] coding area):**
 >
->- **[[Coronary artery occlusion]]**: Acute → likely AMI; chronic → atherosclerotic disease — specificity of vessel (**LAD, RCA, LCX**) and acuity is mandatory for ICD-10-CM
->- **[[Arterial occlusion]]**: Peripheral arteries — code by **vessel + laterality + acute vs. chronic**; affects **DRG 299/300** assignment
->- **[[Venous occlusion]]**: DVT vs. [[venous thrombosis]] vs. occlusion without [[thrombosis]] — distinct codes, do not default to unspecified
->- **[[Retinal artery occlusion]] / [[Retinal vein occlusion]]**: Ophthalmology — laterality (**right/left/bilateral**) required; **central vs. branch** vessel further specifies
+>- **Coronary artery occlusion**: Acute → likely AMI; chronic → atherosclerotic disease — specificity of vessel (**LAD, RCA, LCX**) and acuity is mandatory for ICD-10-CM
+>- **Arterial [[occlusion]]**: Peripheral arteries — code by **vessel + laterality + acute vs. chronic**; affects **DRG 299/300** assignment
+>- **Venous [[occlusion]]**: DVT vs. venous [[thrombosis]] vs. occlusion without [[thrombosis]] — distinct codes, do not default to unspecified
+>- **Retinal artery occlusion / Retinal vein occlusion**: Ophthalmology — laterality (**right/left/bilateral**) required; **central vs. branch** vessel further specifies
 >
 >**Dentistry / Oral Surgery:**
 >
 >- **[[Malocclusion]]**: Coded by **Angle's classification (Class I, II, III)** — requires provider documentation of class; unspecified is available but query-worthy
 >- **Occlusal trauma**: Documented in dental/oral surgery notes; may support periodontitis or TMJ codes
->- **[[Dental occlusion]]**: Functional vs. dysfunctional; drives M26 code family
+>- **Dental occlusion**: Functional vs. dysfunctional; drives M26 code family
 >
 >**Pulmonology / Airway:**
 >
->- **[[Airway occlusion]]**: Foreign body vs. mucus plug vs. tumor — mechanism drives code selection; affects MCC capture
+>- **Airway occlusion**: Foreign body vs. mucus plug vs. tumor — mechanism drives code selection; affects MCC capture
 >- **Occlusive dressing**: Documented in wound care; relevant for CPT billing of wound management services
 >
 >**Profee Coding Tips:**

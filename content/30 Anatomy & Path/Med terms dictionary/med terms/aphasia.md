@@ -24,7 +24,7 @@ roots:
 ---
 >[!note] Definition of [[aphasia]]
 >[[a-]][[pha-]][[-ia|-sia]] - Impaired ability to use or comprehend words (**condition of lacking communication**)
->1.  A [partial or [total](https://en.wiktionary.org/wiki/total#English "total") [loss]] **Aphasia** results from damage to dominant (usually left) hemisphere perisylvian language areas (Broca’s frontal, Wernicke’s [[temporal]], [[arcuate fasciculus]]), disrupting phonology, syntax, semantics, or fluency; classified as fluent (Wernicke’s: nonsensical [[verbosity]]), nonfluent (Broca’s: effortful telegraphic speech), conduction (**repetition deficit**), anomic (**word-finding**), global (total loss), or primary progressive (**degenerative**); spares intelligence but isolates socially.
+>1.  A [partial or [total](https://en.wiktionary.org/wiki/total#English "total") [loss]] **Aphasia** results from damage to dominant (usually left) hemisphere perisylvian language areas (Broca’s frontal, Wernicke’s [[temporal]], arcuate fasciculus), disrupting phonology, syntax, semantics, or fluency; classified as fluent (Wernicke’s: nonsensical verbosity), nonfluent (Broca’s: effortful telegraphic speech), conduction (**repetition deficit**), anomic (**word-finding**), global (total loss), or primary progressive (**degenerative**); spares intelligence but isolates socially.
 
 ___
 >[!info]+ Etymology of [[aphasia]]
@@ -55,7 +55,7 @@ _____
 > |-----------|--------------------------------------------------|
 > | **[[R47.01]]** | Aphasia (unspecified).                          |
 > | **[[I69.320]]** | Aphasia post [[cerebral infarction]] ([[stroke]]).[10] |
-> | **[[50 Medical Coding/ICD-10 Codes/G11.4]]** | **PPA** ([[frontotemporal dementia]] variant).          |
+> | **[[G11.4]]** | **PPA** (frontotemporal dementia variant).          |
 
 
 > [!caution]+ ## Causes and Risk Factors
@@ -70,7 +70,7 @@ _____
 
 > [!danger]+ ## Related Terms
 > 
-> - **[[dysarthria]]:** Motor speech (**slurring**) vs. [[linguistic aphasia]].  
+> - **[[dysarthria]]:** Motor speech (**slurring**) vs. linguistic aphasia.  
 > - **Apraxia of speech:** Motor planning deficit (often w/Broca's).  
 > - **[[Alexia]]:** Reading deficit; **[[agraphia]]:** writing.  
 > - **[[Anomia]]:** Naming deficit (**all types**).  

@@ -122,7 +122,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[colostomy]].definition, word))) > 0 AND file.name != [[colostomy]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

@@ -86,11 +86,11 @@ _____
 > 
 > There are two main types for treating diseased kidneys
 > 
-> - **[[Partial nephrectomy]]** (**nephron-sparing surgery**): Removes only the diseased or injured portion of the kidney while preserving healthy tissue, typically for tumors under 4 cm
+> - **Partial nephrectomy** (**nephron-sparing surgery**): Removes only the diseased or injured portion of the kidney while preserving healthy tissue, typically for tumors under 4 cm
 >     
-> - **[[Radical nephrectomy]]**: Removes the entire kidney along with the surrounding fatty tissue, the [[ureter]] section, adrenal gland, and sometimes regional lymph nodes
+> - **Radical nephrectomy**: Removes the entire kidney along with the surrounding fatty tissue, the [[ureter]] section, adrenal gland, and sometimes regional lymph nodes
 >     
-> - **[[Bilateral nephrectomy]]**: Removal of both kidneys simultaneously​
+> - **Bilateral nephrectomy**: Removal of both kidneys simultaneously​
 >     
 > 
 > ## Surgical Approaches
@@ -99,9 +99,9 @@ _____
 > 
 > - **Open surgery**: Through a side or midline incision in the abdomen
 >     
-> - **[[Laparoscopic surgery]]**: Using 3-4 small incisions (5-10 mm) with instruments and a camera
+> - **Laparoscopic surgery**: Using 3-4 small incisions (5-10 mm) with instruments and a camera
 >     
-> - **[[Single-port laparoscopy]]**: Advanced technique through one incision in the navel
+> - **Single-port laparoscopy**: Advanced technique through one incision in the navel
 > 
 _____
 

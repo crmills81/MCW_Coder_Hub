@@ -31,9 +31,9 @@ The prefix **[[auto-]]** refers to something that arises from, acts on, or relat
 | [[idio-]] | self, distinct, personal |
 
 ## Common Medical Terms
-- **[[Autograft]]** - graft taken from the same person  
+- **Autograft** - graft taken from the same person  
 - **[[autoimmune]]** - immune system attacks self  
-- **[[Autonomic]]** - self-regulating nervous system  
+- **Autonomic** - self-regulating nervous system  
 
 ## Documentation Clues
 - “Patient’s own tissue used”

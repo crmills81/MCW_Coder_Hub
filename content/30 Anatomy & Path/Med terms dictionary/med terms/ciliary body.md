@@ -140,7 +140,7 @@ The ciliary body consists of several specialized structures:
 - Part of uveitis spectrum
 - Symptoms: pain, redness, photophobia, blurred vision
 
-**2. [[Iridocyclitis]] (Anterior [[uveitis]])**
+**2. [[iridocyclitis]] (Anterior [[uveitis]])**
 - Combined inflammation of iris and ciliary body
 - Most common form of uveitis
 - Causes: autoimmune, infection, trauma
@@ -313,10 +313,10 @@ The ciliary body consists of several specialized structures:
 - [[Iris]] - Colored part of eye, controls pupil size
 - [[Choroid]] - Vascular layer supplying retina
 - [[Aqueous Humor]] - Clear fluid produced by ciliary body
-- [[Accommodation]] - Focusing mechanism controlled by ciliary muscle
+- Accommodation - Focusing mechanism controlled by ciliary muscle
 - [[Glaucoma]] - Elevated intraocular pressure, often involves ciliary body
 - [[uveitis]] - Inflammation of uveal tract (includes iridocyclitis)
-- [[Lens (Eye)]] - Attached to ciliary body via zonular fibers
+- Lens (Eye) - Attached to ciliary body via zonular fibers
 - [[Intraocular Pressure]] - Regulated by aqueous humor production/drainage
 
 ---
@@ -326,7 +326,7 @@ The ciliary body consists of several specialized structures:
 
 **Key Concept:** The ciliary body is a ring-shaped structure behind the iris with three critical functions: (1) producing aqueous humor to maintain eye pressure and nourish avascular structures, (2) controlling lens shape for accommodation/focusing, and (3) supporting the lens via zonular fibers. It's part of the uveal tract along with the iris and choroid, and is a target for glaucoma treatments that reduce aqueous production.
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

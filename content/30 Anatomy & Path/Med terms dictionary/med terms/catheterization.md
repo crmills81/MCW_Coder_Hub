@@ -24,17 +24,17 @@ definition:
   - insertion of a catheter (thin tube)
 ---
 >[!Note] DEFINITION of [[catheterization]]
->[[catheterization]] is the [[percutaneous]] or surgical insertion of a [[catheter]] into **vessels, heart chambers, bladder, or ducts to measure pressures, inject contrast, drain fluids, or deliver therapy**. **Catheterization** involves advancing a flexible tube (**catheter**) via a peripheral access site (e.g., **femoral/groin artery/vein, radial artery, neck vein, urethra**) to targeted sites like coronary arteries, heart chambers (**left/right**), pulmonary arteries, or urinary bladder, enabling [[hemodynamic]] measurements, angiography (**contrast injection for imaging**), biopsy, [[angioplasty]]/stenting, or drainage. Common types include cardiac (**diagnostic/therapeutic**), urinary (**Foley/straight cath**), [[central venous]] (**CVC**), and peripheral arterial; it carries risks like bleeding, infection, [[arrhythmia]], [[embolism]], or vessel injury.
+>[[catheterization]] is the [[percutaneous]] or surgical insertion of a [[catheter]] into **vessels, heart chambers, bladder, or ducts to measure pressures, inject contrast, drain fluids, or deliver therapy**. **Catheterization** involves advancing a flexible tube (**catheter**) via a peripheral access site (e.g., **femoral/groin artery/vein, radial artery, neck vein, urethra**) to targeted sites like coronary arteries, heart chambers (**left/right**), pulmonary arteries, or urinary bladder, enabling hemodynamic measurements, angiography (**contrast injection for imaging**), biopsy, [[angioplasty]]/stenting, or drainage. Common types include cardiac (**diagnostic/therapeutic**), urinary (**Foley/straight cath**), central venous (**CVC**), and peripheral arterial; it carries risks like bleeding, infection, [[arrhythmia]], [[embolism]], or vessel injury.
 _____
 >[!info]+ ETYMOLOGY of [[catheterization]]
 >#latin 
->•	**Catheter**: Late *Latin* **catheter** from #Greek kathetēr (καθετήρ) = “**instrument to let something flow in**” or “**probe**,” from *kathiénai* = “**to let down/flow in**” ([[kata-]] “**down**” + *hiénai* “**to send**”).
+>•	**Catheter**: Late *Latin* **catheter** from #Greek kathetēr (καθετήρ) = “**instrument to let something flow in**” or “**probe**,” from *kathiénai* = “**to let down/flow in**” (kata- “**down**” + *hiénai* “**to send**”).
 >•	[[-ization]]: Suffix indicating “**process or action of**” (from Greek [[-sis]] via French/Latin).
 >•	**Historical note**: First described by ancient Egyptians/Greeks (**e.g., urinary catheters from papyrus**); modern cardiac cath pioneered by Werner Forssmann (**1929, self‑experiment**).
 _____
 > [!example]+ Common Types and CPT Codes
 > 
-> **Cardiac Catheterization CPT Codes ([[93451]]-[[93461]], 935xx congenital):**[4][6][7][2][1]
+> **Cardiac Catheterization CPT Codes ([[93451]]-[[93461]], 935xx congenital):**
 > 
 > | Code    | Description (Key Bundles: Catheter Placement, Injection, Imaging S&I)                  |  
 > |---------|---------------------------------------------------------------------------------------|  
@@ -65,9 +65,9 @@ _____
 > - **4A023N8** - Bilateral (combined), percutaneous.  
 > 
 > **ICD-10-CM Diagnoses (support medical necessity):**[4]
-> - **I20.x** - [[Angina pectoris]].  
+> - **I20.x** - Angina pectoris.  
 > - **I21.x** - Acute MI.  
-> - **[[I25.1]]** - [[Atherosclerotic]] heart disease.  
+> - **[[I25.1]]** - Atherosclerotic heart disease.  
 > - **I50.x** - Heart failure.  
 > - **[[N39.0]]** - UTI (urinary cath context).  
 > - **[[Z45.2]]** - Maintenance of [[vascular]] access (post‑cath).  

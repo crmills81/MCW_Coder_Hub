@@ -6,6 +6,7 @@ tags:
   - specialty/urology
 aliases:
   - cystoscopy
+  - Cystourethroscopy
 roots:
   - cystourethroscopy
   - cyst-
@@ -94,7 +95,7 @@ _____
 
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

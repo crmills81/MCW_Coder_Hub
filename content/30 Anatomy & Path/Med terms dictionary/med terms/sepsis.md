@@ -295,11 +295,11 @@ last_updated: 2026-02-10
 **Potential complications of sepsis:
 
 - **[[Septic shock]]** - profound hypotension, high mortality
-- **[[Acute Respiratory Distress Syndrome (ARDS)]]** - lung failure
+- **Acute Respiratory Distress Syndrome (ARDS)** - lung failure
 - **[[acute kidney injury]] (AKI)** - renal failure
 - **Liver dysfunction**
-- **[[Disseminated Intravascular Coagulation (DIC)]]** - abnormal clotting
-- **[[Multi-organ dysfunction syndrome (MODS]])**
+- **Disseminated Intravascular Coagulation (DIC)** - abnormal clotting
+- **Multi-organ dysfunction syndrome (MODS)**
 - **Tissue necrosis** - gangrene, amputation
 - **Long-term cognitive impairment**
 - **Post-sepsis syndrome** - physical and psychological effects
@@ -334,8 +334,8 @@ last_updated: 2026-02-10
 
 **A41.x - Other sepsis (most commonly used):**
 - **[[A41.0]]** - Sepsis due to *Staphylococcus aureus*
-  - **[[A41.01]]** - Sepsis due to Methicillin susceptible *[[Staphylococcus aureus]]* ([[MSSA]])
-  - **[[A41.02]]** - Sepsis due to Methicillin resistant *[[Staphylococcus aureus]]* ([[MRSA]])
+  - **[[A41.01]]** - Sepsis due to Methicillin susceptible *[[Staphylococcus]] aureus* (MSSA)
+  - **[[A41.02]]** - Sepsis due to Methicillin resistant *[[Staphylococcus]] aureus* (MRSA)
 - **[[A41.1]]** - Sepsis due to other specified staphylococcus
 - **[[A41.2]]** - Sepsis due to unspecified staphylococcus
 - **[[A41.3]]** - Sepsis due to *Haemophilus influenzae*

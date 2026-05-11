@@ -40,7 +40,7 @@ _____
 >|**[[phyt-]]** / **[[phyto-]]**|Greek _phyton_ (FY-ton), from _phyein_ (FY-ein)|"**plant**," "**growth**," "**that which has grown**" — here used in the sense of an abnormal outgrowth|
 >|**[[-ectomy]]**|Greek _ektomē_ (ek-TOH-may), from _ek-_ (**out**) + _temnein_ (to cut)|Noun-forming suffix — "**surgical removal**," "**excision of**"|
 >
-> The compound entered surgical **nomenclature** in the **late 1800s-early 1900s** as *osteophytectomy* (**noun**), constructed entirely from Greek components: *osteon* ("**bone**") + *phyton* ("**growth/plant**") + *ektomē* ("**cutting out**") — literally **"cutting out a bone growth."** The intermediate term *osteophyte* itself appeared earlier in English anatomical literature, formed from *osteo-* + *-phyte* (a Greek-derived suffix meaning "**growth**" or "**plant-like outgrowth**"). The root *phyt-* ("growth") connects [[osteophytectomy]] to the broader **[[-phyte / phyto- root family]]**: ***[[osteophyte]]*** (**osteo- + -phyte → bony growth**), ***[[epiphyte]]*** (**epi- + -phyte → growth upon a surface**), and *[[dermatophyte]]* ([[dermato-]] + [[-phyte]] → skin-invading growth/fungus). The **combining form** *[[osteo-]]* is among the most productive roots in musculoskeletal terminology — appearing in ***[[osteoporosis]]***, ***[[osteomyelitis]]***, ***[[osteosarcoma]]***, ***[[osteoarthritis]]***, and ***[[osteonecrosis]]***.
+> The compound entered surgical **nomenclature** in the **late 1800s-early 1900s** as *osteophytectomy* (**noun**), constructed entirely from Greek components: *osteon* ("**bone**") + *phyton* ("**growth/plant**") + *ektomē* ("**cutting out**") — literally **"cutting out a bone growth."** The intermediate term *osteophyte* itself appeared earlier in English anatomical literature, formed from *osteo-* + *-phyte* (a Greek-derived suffix meaning "**growth**" or "**plant-like outgrowth**"). The root *phyt-* ("growth") connects [[osteophytectomy]] to the broader **[[-phyte]] / [[phyto-]] root family]]**: ***[[osteophyte]]*** (**osteo- + [[-phyte]] → bony growth**), ***[[epiphyte]]*** (**epi- + -phyte → growth upon a surface**), and *dermatophyte* ([[dermato-]] + [[-phyte]] → skin-invading growth/fungus). The **combining form** *[[osteo-]]* is among the most productive roots in musculoskeletal terminology — appearing in ***[[osteoporosis]]***, ***[[osteomyelitis]]***, ***[[osteosarcoma]]***, ***[[osteoarthritis]]***, and ***[[osteonecrosis]]***.
 
 _____
 
@@ -180,7 +180,6 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[osteophytectomy]].definition, word))) > 0 AND file.name != [[osteophytectomy]].file.name
 >```
 
-[[30 Anatomy & Path/Med terms dictionary/Med roots]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]
