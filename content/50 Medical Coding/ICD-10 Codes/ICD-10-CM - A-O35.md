@@ -8251,7 +8251,7 @@ H55.82	Deficient smooth pursuit eye movements
 [[H55.89]]	Other irregular eye movements
 [[H57.00]]	Unspecified anomaly of pupillary function
 [[H57.01]]	"Argyll Robertson pupil, atypical"
-[[H57.02]]	Anisocoria
+[[H57.02 1]]	Anisocoria
 [[H57.03]]	Miosis
 H57.04	Mydriasis
 H57.051	"Tonic pupil, right eye"
