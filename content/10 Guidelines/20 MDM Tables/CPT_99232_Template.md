@@ -1,5 +1,4 @@
-# CPT Code 99232 Documentation Template
-## Subsequent Hospital/Observation Visit - Moderate Complexity
+# Subsequent Hospital/Observation Visit - Moderate Complexity
 
 **Code Level:** Moderate complexity subsequent inpatient E/M  
 **Typical Time:** 25 minutes (inpatient subsequent time)  

@@ -1,5 +1,4 @@
-# CPT Code 99213 Documentation Template
-## Established Patient - Low Complexity Office/Outpatient Visit
+# Established Patient - Low Complexity Office/Outpatient Visit
 
 **Code Level:** Low complexity E/M for established patients  
 **Typical Time:** 20-29 minutes total encounter time  
@@ -11,18 +10,18 @@
 ## ⚠️ CRITICAL QUALIFICATION REQUIREMENTS
 
 ### Patient Status
-- [ ] **Established Patient Confirmed** - Seen by this provider or another provider in same specialty/group within past 3 years ☐
-- [ ] **Office or Outpatient Setting** - Private practice, clinic, urgent care (NOT facility/hospital) ☐
+- [ ] **Established Patient Confirmed** - Seen by this provider or another provider in same specialty/group within past 3 years 
+- [ ] **Office or Outpatient Setting** - Private practice, clinic, urgent care (NOT facility/hospital) 
 
 ### Complexity Threshold (Must Choose One)
 **Option A: TIME-BASED CODING**
-- [ ] Total encounter time: **20-29 minutes** (includes face-to-face + non-face-to-face activities same day) ☐
-- [ ] Document specific start/stop times or total time spent ☐
-- [ ] List activities performed ☐
+- [ ] Total encounter time: **20-29 minutes** (includes face-to-face + non-face-to-face activities same day) 
+- [ ] Document specific start/stop times or total time spent 
+- [ ] List activities performed 
 
 **Option B: LOW-COMPLEXITY MDM**
-- [ ] Medical Decision-Making qualifies as LOW complexity (see MDM section below) ☐
-- [ ] Document clinical reasoning and complexity drivers ☐
+- [ ] Medical Decision-Making qualifies as LOW complexity (see MDM section below) 
+- [ ] Document clinical reasoning and complexity drivers 
 
 ---
 
@@ -40,35 +39,35 @@
 
 ### Required: At least 2 HPI elements documented (for expanded history)
 
-- [ ] **Location:** Where is the patient experiencing symptoms?  ☐
+- [ ] **Location:** Where is the patient experiencing symptoms?  
   _________________________________________________________________
 
-- [ ] **Quality:** How would the patient describe the symptom (sharp, dull, aching)? ☐ 
+- [ ] **Quality:** How would the patient describe the symptom (sharp, dull, aching)? 
   _________________________________________________________________
 
-- [ ] **Severity:** Rate current vs. baseline (1-10 scale helpful)  ☐
+- [ ] **Severity:** Rate current vs. baseline (1-10 scale helpful)  
   _________________________________________________________________
 
-- [ ] **Duration:** When did this start? Is it constant or intermittent?  ☐
+- [ ] **Duration:** When did this start? Is it constant or intermittent?  
   _________________________________________________________________
 
-- [ ] **Modifying Factors:** What makes it better or worse?  ☐
+- [ ] **Modifying Factors:** What makes it better or worse?  
   _________________________________________________________________
 
-- [ ] **Associated Symptoms:** Any other symptoms?  ☐
+- [ ] **Associated Symptoms:** Any other symptoms?  
   _________________________________________________________________
 
 ### Clinical Context for 99213 Justification:
 Document why this visit is appropriate for low complexity:
 
-- [ ] **Stable chronic condition(s) with routine follow-up** ☐
+- [ ] **Stable chronic condition(s) with routine follow-up** 
   - Condition: _________________ Status: Stable / No change needed
   - Condition: _________________ Status: Stable / No change needed
 
-- [ ] **Minor acute illness or complaint** ☐
+- [ ] **Minor acute illness or complaint** 
   - Issue: _________________ Expected resolution: _________________________
 
-- [ ] **Medication refill with no adjustments** ☐
+- [ ] **Medication refill with no adjustments** 
   - Medications: ________________________________________________________________
 
 ---
@@ -95,7 +94,7 @@ Document why this visit is appropriate for low complexity:
 
 #### Past Medical History
 **Chronic Conditions:**
-- [ ] Condition 1: _________________ Status: _________________________ ☐
+- [ ] Condition 1: _________________ Status: _________________________ 
 
 **Medications:** (List current)
 1. _________________________ Indication: _________________ 
@@ -121,7 +120,7 @@ _________________________________________________________________
 BP: ___/___  HR: _____  RR: _____  Temp: _____  O₂ Sat: _____
 
 **General/Constitutional:**  
-[ ] Well-appearing / [ ] Alert / [ ] Abnormal: ____________ ☐
+[ ] Well-appearing / [ ] Alert / [ ] Abnormal: ____________ 
 
 **Focused System Exam #1:**  
 System: _________________ Findings: __________________________________
@@ -154,10 +153,10 @@ System: _________________ Findings: __________________________________
 
 **✓ Check all that apply:**
 
-- [ ] **One or more self-limited or minor problems**  ☐
+- [ ] **One or more self-limited or minor problems**  
   - Problem: _________________ Expected course: Resolves in days to weeks
   
-- [ ] **Stable chronic illness(es) - no exacerbation or change**  ☐
+- [ ] **Stable chronic illness(es) - no exacerbation or change**  
   - Condition: _________________ Status: Stable / Controlled
 
 **Point Achieved?** [ ] YES - **Category 1 Satisfied**  [ ] NO - Move to Categories 2 & 3
@@ -169,9 +168,9 @@ System: _________________ Findings: __________________________________
 **✓ Must meet ANY combination of 2 from the following:**
 
 **Tests/Documents Reviewed or Ordered:**
-- [ ] Review of recent test result from chart: _______________________  ☐
-- [ ] Ordering of single test: ____________________________________  ☐
-- [ ] Brief review of prior visit summary or problem list: _________  ☐
+- [ ] Review of recent test result from chart: _______________________  
+- [ ] Ordering of single test: ____________________________________  
+- [ ] Brief review of prior visit summary or problem list: _________  
 
 **Total items checked: _____/2 minimum needed**
 
@@ -183,10 +182,10 @@ System: _________________ Findings: __________________________________
 
 **✓ Check all that apply:**
 
-- [ ] **Prescription drug refill with no changes** (established medication) ☐
+- [ ] **Prescription drug refill with no changes** (established medication) 
   - Drug: _________________
 
-- [ ] **Over-the-counter medication recommendation** or patient counseling ☐
+- [ ] **Over-the-counter medication recommendation** or patient counseling 
   - Topic: _________________
 
 **Point Achieved?** [ ] YES - **Category 3 Satisfied**  [ ] NO
@@ -196,9 +195,9 @@ System: _________________ Findings: __________________________________
 ## MDM COMPLEXITY SUMMARY
 
 **Categories Satisfied:**
-- [ ] Category 1 (Problem Complexity) ☐
-- [ ] Category 2 (Data Review) ☐
-- [ ] Category 3 (Risk Assessment) ☐
+- [ ] Category 1 (Problem Complexity) 
+- [ ] Category 2 (Data Review) 
+- [ ] Category 3 (Risk Assessment) 
 
 **Total Categories Met: _____/3 required = 2 minimum for LOW COMPLEXITY**
 
@@ -215,12 +214,12 @@ _________________________________________________________________
 _________________________________________________________________
 
 **Specific reason for visit (check applicable):**
-- [ ] Routine medication refill - no changes needed ☐
-- [ ] Follow-up of stable chronic condition ☐
-- [ ] Minor acute complaint (expected to resolve quickly) ☐
-- [ ] Monitoring of previously diagnosed condition - stable ☐
-- [ ] Patient counseling on minor health topic ☐
-- [ ] Other: ______________________________________________________ ☐
+- [ ] Routine medication refill - no changes needed 
+- [ ] Follow-up of stable chronic condition 
+- [ ] Minor acute complaint (expected to resolve quickly) 
+- [ ] Monitoring of previously diagnosed condition - stable 
+- [ ] Patient counseling on minor health topic 
+- [ ] Other: ______________________________________________________ 
 
 ---
 
@@ -230,18 +229,18 @@ _________________________________________________________________
 _________________________________________________________________
 
 **Medication Management:**
-- [ ] Continued: _________________ Indication: _________________  ☐
-- [ ] Refilled: _________________ Number of refills: _________ ☐
-- [ ] Counseled: No changes needed / Continue current regimen ☐
+- [ ] Continued: _________________ Indication: _________________  
+- [ ] Refilled: _________________ Number of refills: _________ 
+- [ ] Counseled: No changes needed / Continue current regimen 
 
 **Patient Instructions:**
-- [ ] Activity level recommendations provided ☐
-- [ ] Self-care instructions given ☐
-- [ ] When to return/call explained ☐
+- [ ] Activity level recommendations provided 
+- [ ] Self-care instructions given 
+- [ ] When to return/call explained 
 
 **Follow-up:**
-- [ ] Routine follow-up in: _____________ weeks/months ☐
-- [ ] PRN for: ____________________ ☐
+- [ ] Routine follow-up in: _____________ weeks/months 
+- [ ] PRN for: ____________________ 
 
 ---
 
@@ -267,11 +266,11 @@ _________________________________________________________________
 ## SECTION 11: CODING DECISION & JUSTIFICATION
 
 ### Primary Coding Method Used:
-- [ ] **TIME-BASED:** 20-29 minutes total encounter (documented above) ☐
-- [ ] **MDM-BASED:** Low-complexity medical decision-making (2 of 3 categories met) ☐
+- [ ] **TIME-BASED:** 20-29 minutes total encounter (documented above) 
+- [ ] **MDM-BASED:** Low-complexity medical decision-making (2 of 3 categories met) 
 
 ### Code Selection:
-- [ ] **CPT 99213** - Established Patient, Low-Complexity E/M Visit ☐
+- [ ] **CPT 99213** - Established Patient, Low-Complexity E/M Visit 
 
 ### Compared to Other Established Patient Codes:
 - **99211**: Brief visit (10-19 min), minimal complexity (NOT appropriate if more than brief)
@@ -280,12 +279,12 @@ _________________________________________________________________
 - **99215**: Comprehensive history/exam, high complexity MDM (NOT appropriate - over-coding)
 
 ### Audit Defense Checklist:
-- [ ] Medical necessity documented appropriately ☐
-- [ ] No artificial complexity inflation ☐
-- [ ] History/Exam/MDM components documented (minimal but present) ☐
-- [ ] Consistency across documentation ☐
-- [ ] Time documented clearly if using time-based method ☐
-- [ ] Straightforward decision-making appropriately described ☐
+- [ ] Medical necessity documented appropriately 
+- [ ] No artificial complexity inflation 
+- [ ] History/Exam/MDM components documented (minimal but present) 
+- [ ] Consistency across documentation 
+- [ ] Time documented clearly if using time-based method 
+- [ ] Straightforward decision-making appropriately described 
 
 ---
 

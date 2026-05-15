@@ -1,5 +1,4 @@
-# CPT Code 99222 Documentation Template
-## Initial Hospital/Observation Admission - Moderate Complexity
+# Initial Hospital/Observation Admission - Moderate Complexity
 
 **Code Level:** Moderate complexity initial inpatient E/M  
 **Typical Time:** 50 minutes (inpatient time calculations include all unit activities)  

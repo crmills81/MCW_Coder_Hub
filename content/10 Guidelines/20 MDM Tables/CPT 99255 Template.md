@@ -1,5 +1,4 @@
-# CPT Code 99255 Documentation Template
-## Initial Inpatient Consultation - High Complexity
+# Initial Inpatient Consultation - High Complexity
 
 **Code Level:** High complexity initial inpatient/observation consultation  
 **Typical Time:** 80 minutes (or more, if using time-based method)  
@@ -11,11 +10,11 @@
 ## ⚠️ CRITICAL QUALIFICATION REQUIREMENTS
 
 ### Setting & Timing Requirements
-- [ ] **Inpatient or Observation Hospital Setting** - Patient in hospital or observation bed  ☐
-- [ ] **Initial Consultation** - First consult from requesting service (NOT follow-up) ☐
-- [ ] **Requested by Another Provider** - Formal consultation request documented ☐
-- [ ] **Independent Evaluation** - Separate specialty assessment, not the admitting provider ☐
-- [ ] **Separate Documentation** - Distinct consult note ☐
+- [ ] **Inpatient or Observation Hospital Setting** - Patient in hospital or observation bed  
+- [ ] **Initial Consultation** - First consult from requesting service (NOT follow-up) 
+- [ ] **Requested by Another Provider** - Formal consultation request documented 
+- [ ] **Independent Evaluation** - Separate specialty assessment, not the admitting provider 
+- [ ] **Separate Documentation** - Distinct consult note 
 
 **NOTE (Payer Policy):**
 - Many commercial payers still recognize 99255 and other consult codes
@@ -26,15 +25,15 @@
 ### Complexity Threshold (Must Choose One)
 
 **Option A: TIME-BASED CODING**
-- [ ] Total time on this date: **≥ 80 minutes** (same-day time, face-to-face + non-face-to-face) ☐
-- [ ] Includes: Comprehensive history, comprehensive exam, interpretation, MDM, counseling, coordination, documentation ☐
-- [ ] Excludes: Time for separate billable procedures ☐
+- [ ] Total time on this date: **≥ 80 minutes** (same-day time, face-to-face + non-face-to-face)
+- [ ] Includes: Comprehensive history, comprehensive exam, interpretation, MDM, counseling, coordination, documentation 
+- [ ] Excludes: Time for separate billable procedures 
 
 **Option B: HIGH-COMPLEXITY MDM**
-- [ ] Medical Decision-Making meets **HIGH complexity** (see MDM section) ☐
-- [ ] Extensive number and complexity of problems ☐
-- [ ] Extensive amount/complexity of data reviewed/ordered ☐
-- [ ] High risk of morbidity/mortality or complications ☐
+- [ ] Medical Decision-Making meets **HIGH complexity** (see MDM section) 
+- [ ] Extensive number and complexity of problems 
+- [ ] Extensive amount/complexity of data reviewed/ordered 
+- [ ] High risk of morbidity/mortality or complications 
 
 ---
 
@@ -78,11 +77,11 @@ _________________________________________________________________
 - Prior treatments and response/failure: ____________________________  
 
 **Why Consultation Needed NOW (high-risk trigger):**  
-- [ ] Clinical deterioration  ☐
-- [ ] Multi-organ involvement  ☐
-- [ ] Treatment failure  ☐
-- [ ] Major procedure/surgery decision  ☐
-- [ ] Complex risk/benefit decision  ☐
+- [ ] Clinical deterioration  
+- [ ] Multi-organ involvement  
+- [ ] Treatment failure  
+- [ ] Major procedure/surgery decision  
+- [ ] Complex risk/benefit decision  
 Explain: __________________________________________________________  
 _________________________________________________________________
 
@@ -130,9 +129,9 @@ _________________________________________________________________
 _________________________________________________________________
 
 **Allergies/Adverse Reactions:**  
-- [ ] NKDA  ☐
-- [ ] Drug/Substance: _________________  Reaction: __________________  Severity: [ ] Mild [ ] Mod [ ] Severe  ☐
-- [ ] Drug/Substance: _________________  Reaction: __________________  Severity: [ ] Mild [ ] Mod [ ] Severe  ☐
+- [ ] NKDA  
+- [ ] Drug/Substance: _________________  Reaction: __________________  Severity: [ ] Mild [ ] Mod [ ] Severe  
+- [ ] Drug/Substance: _________________  Reaction: __________________  Severity: [ ] Mild [ ] Mod [ ] Severe  
 
 ---
 
@@ -220,18 +219,18 @@ _________________________________________________________________
 
 **Check all that apply:**
 
-- [ ] **Acute/chronic condition posing threat to life or bodily function**  ☐
+- [ ] **Acute/chronic condition posing threat to life or bodily function**  
   - Condition: _______________________  
   - Threat: __________________________  
 
-- [ ] **Severe exacerbation/progression of chronic illness**  ☐
+- [ ] **Severe exacerbation/progression of chronic illness**  
   - Condition: _______________________  
   - Evidence of severity: ____________  
 
-- [ ] **Multiple major problems requiring intensive management**  ☐
+- [ ] **Multiple major problems requiring intensive management**  
   - List: ____________________________  
 
-- [ ] **Serious complication of major treatment or surgery**  ☐
+- [ ] **Serious complication of major treatment or surgery**  
   - Treatment: _______________________  
   - Complication: ____________________  
 
@@ -244,20 +243,20 @@ _________________________________________________________________
 **Extensive data from multiple sources.**
 
 **Data Reviewed:**  
-- [ ] Multiple lab panels/trends (e.g., CBC, CMP, ABG, coags)  ☐
-- [ ] Multiple imaging studies (CT, MRI, US, echo, etc.)  ☐
-- [ ] Monitoring data (telemetry, ICP, invasive lines)  ☐
-- [ ] Prior external records/specialist notes  ☐
-- [ ] Procedure or operative reports  ☐
+- [ ] Multiple lab panels/trends (e.g., CBC, CMP, ABG, coags)  
+- [ ] Multiple imaging studies (CT, MRI, US, echo, etc.)  
+- [ ] Monitoring data (telemetry, ICP, invasive lines)  
+- [ ] Prior external records/specialist notes  
+- [ ] Procedure or operative reports  
 
 **Data Ordered:**  
-- [ ] Multiple additional labs  ☐
-- [ ] New imaging (e.g., CT, MRI, echo)  ☐
-- [ ] Advanced/specialty tests (e.g., cultures, serology, genetic, CSF studies)  ☐
+- [ ] Multiple additional labs  
+- [ ] New imaging (e.g., CT, MRI, echo)  
+- [ ] Advanced/specialty tests (e.g., cultures, serology, genetic, CSF studies)  
 
 **Interpretation/Discussion:**  
-- [ ] Independent interpretation of imaging/tests (beyond report)  ☐
-- [ ] Direct discussion with other physician(s)/specialist(s) about findings  ☐
+- [ ] Independent interpretation of imaging/tests (beyond report)  
+- [ ] Direct discussion with other physician(s)/specialist(s) about findings  
 
 **Category 2 = HIGH?** [ ] YES  [ ] NO  
 
@@ -267,12 +266,12 @@ _________________________________________________________________
 
 **High risk is required.**
 
-- [ ] High risk of sudden clinical deterioration or death  ☐
-- [ ] Decision regarding **ICU vs floor**, ventilation, or vasopressors  ☐
-- [ ] Decision regarding **major surgery** with multiple risk factors  ☐
-- [ ] High-risk medications requiring intensive monitoring (e.g., chemo, IV anticoagulants, pressors, immunosuppressants)  ☐
-- [ ] Risk of multi-organ failure, shock, or emergent intervention  ☐
-- [ ] High-risk decision to withhold or withdraw treatment  ☐
+- [ ] High risk of sudden clinical deterioration or death  
+- [ ] Decision regarding **ICU vs floor**, ventilation, or vasopressors  
+- [ ] Decision regarding **major surgery** with multiple risk factors  
+- [ ] High-risk medications requiring intensive monitoring (e.g., chemo, IV anticoagulants, pressors, immunosuppressants)  
+- [ ] Risk of multi-organ failure, shock, or emergent intervention  
+- [ ] High-risk decision to withhold or withdraw treatment  
 
 **Category 3 = HIGH?** [ ] YES  [ ] NO  
 
@@ -282,9 +281,9 @@ _________________________________________________________________
 
 **At least 2 of 3 categories must be HIGH** to support 99255.
 
-- [ ] Category 1: Problems = HIGH  ☐
-- [ ] Category 2: Data = HIGH  ☐
-- [ ] Category 3: Risk = HIGH  ☐
+- [ ] Category 1: Problems = HIGH  
+- [ ] Category 2: Data = HIGH  
+- [ ] Category 3: Risk = HIGH  
 
 ✅ **HIGH COMPLEXITY MDM ACHIEVED:** [ ] YES  [ ] NO  
 
@@ -297,11 +296,11 @@ _________________________________________________________________
 _________________________________________________________________  
 
 **Specific Management Decisions:**  
-- [ ] High-risk medication initiation/adjustment: _____________________  ☐
-- [ ] Diagnostic strategy (tests, procedures) and rationale: __________  ☐
-- [ ] Level of care decision (ICU, step-down, telemetry): ____________  ☐
-- [ ] Surgery/procedure timing or candidacy decisions: _______________  ☐
-- [ ] Code status and goals-of-care discussions (if applicable): _______  ☐
+- [ ] High-risk medication initiation/adjustment: _____________________  
+- [ ] Diagnostic strategy (tests, procedures) and rationale: __________  
+- [ ] Level of care decision (ICU, step-down, telemetry): ____________  
+- [ ] Surgery/procedure timing or candidacy decisions: _______________  
+- [ ] Code status and goals-of-care discussions (if applicable): _______  
 
 **Contingency / "If Worse, Then" Plan:**  
 _________________________________________________________________
@@ -320,18 +319,18 @@ _________________________________________________________________
 - Stopped/Held: _______________  Reason: ____________________________  
 
 **Monitoring:**  
-- [ ] Telemetry / continuous monitoring: __________________________  ☐  
-- [ ] Serial labs/imaging (specify): ________________________________  ☐
-- [ ] Neuro checks / respiratory checks: ____________________________  ☐
+- [ ] Telemetry / continuous monitoring: __________________________    
+- [ ] Serial labs/imaging (specify): ________________________________  
+- [ ] Neuro checks / respiratory checks: ____________________________  
 
 **Other Services/Consults:**  
-- [ ] Additional specialty consults: ________________________________  ☐
-- [ ] Multidisciplinary rounds/discussion documented: ______________  ☐  
+- [ ] Additional specialty consults: ________________________________  
+- [ ] Multidisciplinary rounds/discussion documented: ______________   
 
 **Disposition / Follow-Up:**  
-- [ ] ICU  [ ] Step-down  [ ] Floor with enhanced monitoring: __________ ☐  
-- [ ] Frequency of reassessment: _________________________________  ☐
-- [ ] Anticipated decision points (e.g., 24-48 hr re-eval for X): ____  ☐
+- [ ] ICU  [ ] Step-down  [ ] Floor with enhanced monitoring: __________ 
+- [ ] Frequency of reassessment: _________________________________  
+- [ ] Anticipated decision points (e.g., 24-48 hr re-eval for X): ____  
 
 ---
 
@@ -357,11 +356,11 @@ _________________________________________________________________
 ## SECTION 12: CODING DECISION & JUSTIFICATION
 
 ### Primary Method Used:
-- [ ] **TIME-BASED:** ≥ 80 minutes on this date ☐
-- [ ] **MDM-BASED:** High-complexity MDM (≥ 2 of 3 categories high) ☐
+- [ ] **TIME-BASED:** ≥ 80 minutes on this date 
+- [ ] **MDM-BASED:** High-complexity MDM (≥ 2 of 3 categories high) 
 
 ### Code Selection:
-- [ ] **CPT 99255** - Initial inpatient/observation consultation, high complexity ☐
+- [ ] **CPT 99255** - Initial inpatient/observation consultation, high complexity 
 
 ### Compared to Other Consultation Codes:
 
@@ -373,15 +372,15 @@ _________________________________________________________________
 | **99255** | **High** | **≥ 80 min** | Highest-level consult |
 
 ### Audit Defense Checklist:
-- [ ] Clear **consult request** and **reason** documented ☐
-- [ ] Initial consult for this admission/service ☐
-- [ ] High-risk problems clearly described ☐
-- [ ] Extensive data review and/or ordering documented ☐
-- [ ] High risk of morbidity/mortality or major complications described ☐
-- [ ] Time or MDM clearly supports high-complexity level ☐
-- [ ] Specific, actionable recommendations provided ☐
-- [ ] Communication with requesting provider documented ☐
-- [ ] For Medicare: Facility policy followed (may need 99221-99223 instead) ☐
+- [ ] Clear **consult request** and **reason** documented 
+- [ ] Initial consult for this admission/service 
+- [ ] High-risk problems clearly described 
+- [ ] Extensive data review and/or ordering documented 
+- [ ] High risk of morbidity/mortality or major complications described 
+- [ ] Time or MDM clearly supports high-complexity level 
+- [ ] Specific, actionable recommendations provided 
+- [ ] Communication with requesting provider documented 
+- [ ] For Medicare: Facility policy followed (may need 99221-99223 instead) 
 ---
 
 ## SECTION 13: PROVIDER SIGNATURE & CREDENTIALS

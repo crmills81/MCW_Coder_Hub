@@ -1,5 +1,4 @@
-# CPT Code 99221 Documentation Template
-## Initial Hospital/Observation Admission - Low Complexity
+# Initial Hospital/Observation Admission - Low Complexity
 
 **Code Level:** Low complexity initial inpatient E/M  
 **Typical Time:** 30 minutes (inpatient time calculations differ from outpatient)  

@@ -1,5 +1,4 @@
-# CPT Code 99253 Documentation Template
-## Initial Inpatient Consultation - Moderate Complexity
+# Initial Inpatient Consultation - Moderate Complexity
 
 **Code Level:** Moderate complexity initial inpatient consultation  
 **Typical Time:** 30-39 minutes  

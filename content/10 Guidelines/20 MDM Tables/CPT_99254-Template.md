@@ -1,5 +1,4 @@
-# CPT Code 99254 Documentation Template
-## Initial Inpatient Consultation - Moderate-High Complexity
+# Initial Inpatient Consultation - Moderate-High Complexity
 
 **Code Level:** Moderate-high complexity initial inpatient consultation  
 **Typical Time:** 40-54 minutes  

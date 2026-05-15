@@ -1,5 +1,4 @@
-# CPT Code 99233 Documentation Template
-## Subsequent Hospital/Observation Visit - High Complexity
+# Subsequent Hospital/Observation Visit - High Complexity
 
 **Code Level:** High complexity subsequent inpatient E/M  
 **Typical Time:** 50 minutes (inpatient subsequent time)  

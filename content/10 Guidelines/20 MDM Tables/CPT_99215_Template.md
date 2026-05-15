@@ -1,5 +1,4 @@
-# CPT Code 99215 Documentation Template
-## Established Patient - High Complexity Office/Outpatient Visit
+# Established Patient - High Complexity Office/Outpatient Visit
 
 **Code Level:** Highest complexity E/M for established patients  
 **Typical Time:** 40-54 minutes total encounter time  

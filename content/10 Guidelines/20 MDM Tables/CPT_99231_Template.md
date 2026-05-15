@@ -1,5 +1,4 @@
-# CPT Code 99231 Documentation Template
-## Subsequent Hospital/Observation Visit - Low Complexity
+# Subsequent Hospital/Observation Visit - Low Complexity
 
 **Code Level:** Low complexity subsequent inpatient E/M  
 **Typical Time:** 15 minutes (inpatient subsequent time)  

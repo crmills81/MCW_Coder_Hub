@@ -1,5 +1,4 @@
-# CPT Code 99214 Documentation Template
-## Established Patient - Moderate Complexity Office/Outpatient Visit
+# Established Patient - Moderate Complexity Office/Outpatient Visit
 
 **Code Level:** Moderate complexity E/M for established patients  
 **Typical Time:** 30-39 minutes total encounter time  

@@ -1,5 +1,4 @@
-# CPT Code 99223 Documentation Template
-## Initial Hospital/Observation Admission - High Complexity
+# Initial Hospital/Observation Admission - High Complexity
 
 **Code Level:** High complexity initial inpatient E/M  
 **Typical Time:** 70 minutes (inpatient time includes all unit/floor activities)  
