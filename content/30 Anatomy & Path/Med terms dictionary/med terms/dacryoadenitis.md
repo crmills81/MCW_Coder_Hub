@@ -3,7 +3,7 @@ tags:
   - medterm
   - medroot
 aliases:
- - Dacryoadenitis
+  - Dacryoadenitis
 roots:
   - dacryoadenitis
   - dacry-
@@ -17,8 +17,7 @@ forms:
   - combining
   - disease
 alphabet: D
-definition:
-  - inflammation of the lacrimal gland
+definition: inflammation of the lacrimal gland
 ---
 >[!Note] DEFINITION of [[dacryoadenitis]]
 >**Dacryoadenitis** involves **swelling and irritation** of the almond-sized lacrimal glands, which produce tears for the eye's aqueous layer; it disrupts tear production and causes orbital discomfort, potentially leading to [[fibrosis]] in chronic cases. 

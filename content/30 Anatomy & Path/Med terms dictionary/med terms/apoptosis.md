@@ -103,7 +103,7 @@ _____
 > |**[[G30.9]]**|Alzheimer's disease, unspecified|
 > |**[[G20]]**|Parkinson's disease|
 > |**[[G31.9]]**|Degenerative disease of nervous system, unspecified|
-> |**[[G35]]**|Multiple sclerosis|
+> |**[[G35.D]]**|Multiple sclerosis|
 >
 > #### **Apoptosis-Driven Cardiac & Vascular Injury | Heart Failure & Ischemic Disease**
 >

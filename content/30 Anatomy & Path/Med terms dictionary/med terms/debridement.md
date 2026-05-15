@@ -2,6 +2,7 @@
 tags:
   - medterm
   - surgery
+  - pmr
 aliases:
   - wound debridement
   - Debridement
@@ -18,8 +19,7 @@ forms:
   - suffix
   - noun
 alphabet: D
-definition:
-  - The medical removal of dead, damaged, or infected tissue to improve the healing potential of the remaining healthy tissue
+definition: The medical removal of dead, damaged, or infected tissue to improve the healing potential of the remaining healthy tissue
 ---
 >[!Note] DEFINITION of [[debridement]]
 >**Debridement** is the **medical and surgical process of thoroughly removing non-viable tissue** (**such as [[necrosis]], slough, or eschar**), debris, and infected material from a wound bed or burn. The primary clinical objective is to convert a **chronic or contaminated wound into an acute, clean wound**, thereby promoting [[granulation]], re-[[epithelialization]], and normal healing. [[debridement]] can be categorized by its method: surgical/excisional (**using sharp instruments like scalpels or scissors to cut away tissue), mechanical (wet-to-dry dressings, hydrotherapy**), enzymatic/chemical (**applying topical agents to dissolve dead tissue**), autolytic (**using the body's own enzymes under moisture-retentive dressings**), or biological (**maggot therapy**).

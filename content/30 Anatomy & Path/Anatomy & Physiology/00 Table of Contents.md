@@ -75,10 +75,10 @@
 ## **Unit 2  Support and Movement**
 ### **Chapter 5:  The Integumentary System**
 ##### **Introduction**
-[[5.1 Layers of the Skin]]
-[[5.2 Accessory Structures of the Skin]]
-[[5.3 Functions of the Integumentary System]]
-[[5.4 Diseases, Disorders, and Injuries of the Integumentary System]]
+[[5.1 Layers of the Skin]]<br>
+[[5.2 Accessory Structures of the Skin]]<br>
+[[5.3 Functions of the Integumentary System]]<br>
+[[5.4 Diseases, Disorders, and Injuries of the Integumentary System]]<br>
 **Key Terms**
 **Chapter Review**
 **Interactive Link Questions**
@@ -89,13 +89,13 @@
 
 ### **Chapter 6:  Bone Tissue and the Skeletal System**
 ##### **Introduction**
-[[6.1 The Functions of the Skeletal System]]
-[[6.2 Bone Classification]]
-[[6.3  Bone Structure]]
-[[6.4 Bone Formation and Development]]
-[[6.5 Fractures - Bone Repair]]
-[[6.6 Exercise, Nutrition, Hormones, and Bone Tissue]]
-[[6.7 Calcium Homeostasis - Interactions of the Skeletal System and Other Organ Systems]]
+[[6.1 The Functions of the Skeletal System]]<br>
+[[6.2 Bone Classification]]<br>
+[[6.3  Bone Structure]]<br>
+[[6.4 Bone Formation and Development]]<br>
+[[6.5 Fractures - Bone Repair]]<br>
+[[6.6 Exercise, Nutrition, Hormones, and Bone Tissue]]<br>
+[[6.7 Calcium Homeostasis - Interactions of the Skeletal System and Other Organ Systems]]<br>
 **Key Terms**
 **Chapter Review**
 **Review Questions**
@@ -105,11 +105,11 @@
 
 ### **Chapter 7:  Axial Skeleton**
 ##### **Introduction**
-**7.1** Divisions of the Skeletal System
-**7.2** The Skull
-**7.3** The Vertebral Column
-**7.4** The Thoracic Cage
-**7.5** Embryonic Development of the Axial Skeleton
+[[7.1 Divisions of the Skeletal System]]<br>
+[[7.2 The Skull]]<br>
+[[7.3 The Vertebral Column]]<br>
+[[7.4 The Thoracic Cage]]<br>
+[[7.5 Embryonic Development of the Axial Skeleton]]<br>
 **Key Terms**
 **Chapter Review**
 **Interactive Link Questions**
@@ -120,7 +120,7 @@
 
 ### **Chapter 8:  The Appendicular Skeleton**
 ##### **Introduction**
-**8.1** The Pectoral Girdle
+[[8.1 The Pectoral Girdle]]
 **8.2** Bones of the Upper Limb
 **8.3** The Pelvic Girdle and Pelvis
 **8.4** Bones of the Lower Limb

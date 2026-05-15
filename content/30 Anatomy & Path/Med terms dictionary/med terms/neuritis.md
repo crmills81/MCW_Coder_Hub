@@ -18,18 +18,17 @@ forms:
   - prefix
   - suffix
 alphabet: N
-definition:
-  - inflammation of a nerve or nerves
+definition: inflammation of a nerve or nerves
 ---
->[!Note] DEFINITION of neuritis
->**Neuritis** is a general term describing **inflammation of one or more nerves, which can affect the peripheral nervous system, cranial nerves, or specific nerve plexuses**. The condition disrupts normal nerve conduction, leading to various neurological symptoms depending on the nerve(s) involved. Types: 
->  - **[[Mononeuritis]]**: Inflammation of a single nerve (**e.g., [[optic neuritis]], [[ulnar neuritis]]**). 
+>[!Note] DEFINITION of [[neuritis]]
+>**[[Neuritis]]** is a general term describing **inflammation of one or more nerves, which can affect the peripheral nervous system, cranial nerves, or specific nerve plexuses**. The condition disrupts normal nerve conduction, leading to various neurological symptoms depending on the nerve(s) involved. Types: 
+>  - **[[Mononeuritis]]**: Inflammation of a single nerve (**e.g., [[optic neuritis]], ulnar [[neuritis]]**). 
 >  - **[[Polyneuritis]]/Multiple [[Mononeuritis]]**: Inflammation of multiple individual nerves in different areas. 
->  - **[[Polyneuropathy]]**: Diffuse, symmetrical inflammation affecting many nerves simultaneously (**often systemic in origin**). 
->  - **Cranial Neuritis**: Inflammation of cranial nerves (**e.g., [[optic]], [[vestibular]], facial**). 
->  - **Etiology**: Causes include infection (**viral, bacterial**), [[autoimmune]] disorders ([[Guillain-Barré syndrome]], [[multiple sclerosis]]), trauma, compression, toxins, metabolic disorders ([[diabetes]]), nutritional deficiencies (**B vitamins**), and idiopathic causes. 
->  - **Symptoms**: Pain (**burning, shooting, or stabbing**), [[paresthesia]] (**tingling/numbness**), muscle weakness, loss of reflexes, and in severe cases, **muscle atrophy** or **paralysis**. 
->  - **Treatment**: Depends on underlying cause; may include anti-inflammatory medications, [[immunosuppressants]], **antivirals/antibiotics**, pain management, and physical therapy.
+>  - **[[polyneuropathy]]**: Diffuse, symmetrical inflammation affecting many nerves simultaneously (**often systemic in origin**). 
+>  - **Cranial Neuritis**: Inflammation of cranial nerves (**e.g., optic, [[vestibular]], facial**). 
+>  - **Etiology**: Causes include infection (**viral, bacterial**), **[[autoimmune]]** disorders (**[[Guillain-Barré syndrome]], [[multiple sclerosis]]**), trauma, compression, toxins, metabolic disorders (**[[diabetes]]**), nutritional deficiencies (**B vitamins**), and idiopathic causes. 
+>  - **Symptoms**: Pain (**burning, shooting, or stabbing**), **[[paresthesia]]** (**tingling/numbness**), muscle weakness, loss of reflexes, and in severe cases, **muscle atrophy** or **paralysis**. 
+>  - **Treatment**: Depends on underlying cause; may include anti-inflammatory medications, **[[immunosuppressants]]**, **antivirals/antibiotics**, pain management, and physical therapy.
 _____
 
 > [!important]+ ETYMOLOGY of [[neuritis]]
@@ -44,17 +43,17 @@ _____
 > [!danger]+ **Related Terms**
 > 
 > - **[[Neuropathy]]:** General term for nerve damage or dysfunction (may or may not be inflammatory).
-> - **[[Neuralgia]]:** Pain along the course of a nerve without necessarily implying inflammation.
+> - **[[neuralgia]]:** Pain along the course of a nerve without necessarily implying inflammation.
 > - **[[Radiculitis]]:** Inflammation of a nerve root (where the nerve exits the spine).
 > - **[[Plexitis]]:** Inflammation of a nerve plexus (e.g., brachial plexitis).
 > - **[[Encephalitis]]:** Inflammation of the brain tissue.
 > - **[[Myelitis]]:** Inflammation of the spinal cord.
-> - **Guillain-Barré Syndrome:** Autoimmune polyneuritis causing rapid-onset muscle weakness.
-> - **Optic Neuritis:** Inflammation of the optic nerve (common in multiple sclerosis).
-> - **[[Vestibular Neuritis]]:** Inflammation of the vestibular nerve (causes vertigo).
-> - **[[Brachial Neuritis]]:** Inflammation of nerves in the brachial plexus (shoulder/arm).
-> - **[[Diabetic Neuropathy]]:** Nerve damage from diabetes (often has inflammatory component).
-> - **[[demyelination]]:** Loss of the myelin sheath surrounding nerves; often occurs in [[inflammatory neuritis]].
+> - **Guillain-Barré Syndrome:** **[[Autoimmune]]** **[[polyneuritis]]** causing rapid-onset muscle weakness.
+> - **Optic Neuritis:** Inflammation of the optic nerve (common in **[[multiple sclerosis]]**).
+> - **Vestibular Neuritis:** Inflammation of the **vestibular** nerve (causes **vertigo**).
+> - **Brachial Neuritis:** Inflammation of nerves in the brachial plexus (shoulder/arm).
+> - **[[diabetic neuropathy]]:** Nerve damage from diabetes (often has inflammatory component).
+> - **[[demyelination]]:** Loss of the myelin sheath surrounding nerves; often occurs in inflammatory neuritis.
 _____
 
 > [!bug]+ **ICD-10-CM Codes**

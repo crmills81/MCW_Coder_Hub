@@ -17,8 +17,7 @@ forms:
   - disease
   - noun
 alphabet: D
-definition:
-  - a condition characterized by excessive loose or redundant skin on the eyelids
+definition: a condition characterized by excessive loose or redundant skin on the eyelids
 ---
 >[!Note] DEFINITION of **[[dermatochalasis]]**
 >**Dermatochalasis** is an acquired condition involving the laxity and redundancy of the eyelid skin and [[orbicularis]] oculi muscle. It is primarily a result of the aging process (**senile [[dermatochalasis]]**), where collagen and elastin fibers in the dermis degrade, causing the skin to stretch and hang. 

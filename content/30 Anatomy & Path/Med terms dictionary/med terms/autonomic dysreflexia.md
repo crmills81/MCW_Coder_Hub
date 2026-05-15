@@ -3,6 +3,7 @@ tags:
   - medterm
   - neurology
   - movement-disorder
+  - pmr
 aliases:
   - Autonomic Dysreflexia
   - micrographia

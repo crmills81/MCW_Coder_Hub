@@ -18,9 +18,7 @@ forms:
   - noun
   - adjective
 alphabet: A
-definition:
-  - A supraventricular cardiac arrhythmia characterized by chaotic, rapid, and disorganized electrical impulses in the atria resulting in irregular and often rapid ventricular response
-  - Loss of coordinated atrial contraction causing irregular R-R intervals on ECG and increased risk of thromboembolism, stroke, and heart failure
+definition: A supraventricular cardiac arrhythmia characterized by chaotic, rapid, and disorganized electrical impulses in the atria resulting in irregular and often rapid ventricular response, Loss of coordinated atrial contraction causing irregular R-R intervals on ECG and increased risk of thromboembolism, stroke, and heart failure
 ---
 >[!Note] DEFINITION of [[atrial fibrillation]]
 >**Atrial fibrillation** (**AF** or **AFib**) is the most common sustained [[cardiac arrhythmia]], characterized by **rapid, chaotic, and disorganized electrical impulses** originating from multiple ectopic foci throughout the atria — most frequently triggered by **pulmonary vein** firing — that replace the normal coordinated P-wave activity with an irregularly irregular ventricular response. On ECG, AF presents as **absent P waves**, an **irregularly irregular rhythm**, and a **fibrillatory baseline**. AF is classified by duration and reversibility into four clinically coded types: **paroxysmal** (self-terminating within 7 days), **persistent** (lasting >7 days; subdivided into *longstanding persistent* [>12 months] and *other persistent*), **permanent** (ongoing AF where rhythm control is no longer pursued), and **chronic/long-standing** (collectively overlapping with permanent in ICD-10-CM). The clinical consequences of AF center on two main threats: **[[thromboembolism]]** — particularly **[[ischemic stroke]]** — from stasis and clot formation in the **left atrial appendage (LAA)**, and **tachycardia-induced cardiomyopathy** from sustained rapid ventricular rates. For AAPC-certified inpatient profee coders, **AF type specificity is mandatory** — the ICD-10-CM code set has distinct billable codes for each AF subtype, and defaulting to unspecified (**[[I48.91]]**) when the type is documented is a chronic CDI gap. Additionally, AF is a **high-impact DRG driver**: it serves as a principal diagnosis in DRGs 308-310 and as a significant comorbidity/complication (MCC/CC) in virtually every cardiac and non-cardiac DRG.
@@ -59,20 +57,20 @@ definition:
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Pulmonary vein isolation (PVI)]]** — catheter ablation targeting ectopic foci at pulmonary vein-left atrial junctions; primary curative strategy for symptomatic AF; CPT **[[93656]]**
-> - **[[Left atrial appendage (LAA)]]** — primary site of thrombus formation in AF; source of most AF-related embolic strokes; targeted by **[[WATCHMAN]]** device (CPT **[[33340]]**)
+> - **Pulmonary vein isolation (PVI)** — catheter ablation targeting ectopic foci at pulmonary vein-left atrial junctions; primary curative strategy for symptomatic AF; CPT **[[93656]]**
+> - **Left atrial appendage (LAA)** — primary site of thrombus formation in AF; source of most AF-related embolic strokes; targeted by **WATCHMAN** device (CPT **[[33340]]**)
 > - **[[Cardioversion]]** — restoration of sinus rhythm via synchronized electric shock (**[[92960]]** external) or pharmacologic agents; required pre-procedure anticoagulation documentation
-> - **[[CHA₂DS₂-VASc score]]** — stroke risk stratification tool for AF; drives anticoagulation decision-making; score ≥2 (male) / ≥3 (female) = anticoagulation indicated
+> - **CHA₂DS₂-VASc score** — stroke risk stratification tool for AF; drives anticoagulation decision-making; score ≥2 (male) / ≥3 (female) = anticoagulation indicated
 > - **[[Anticoagulation]]** — mainstay of stroke prevention in AF; document agent type (warfarin, NOAC/DOAC) — supports **[[Z79.01]]** (long-term anticoagulant use) as additional diagnosis
-> - **[[Rate control]]** vs **[[Rhythm control]]** — two therapeutic strategies; rate control = control ventricular response (beta-blockers, calcium channel blockers, digoxin); rhythm control = restore/maintain sinus rhythm (antiarrhythmics, cardioversion, ablation)
-> - **[[Tachycardia-induced cardiomyopathy]]** — reversible cardiomyopathy from sustained rapid ventricular rate in uncontrolled AF; code with heart failure if present (**[[I50.x]]**)
-> - **[[Wolff-Parkinson-White syndrome (WPW)]]** — accessory pathway disorder; AF in WPW is a **medical emergency** — avoid AV nodal blocking agents; separate ICD-10 code **[[I45.6]]**
-> - **[[Sick sinus syndrome]]** — SA node dysfunction; commonly coexists with AF (tachy-brady syndrome); coded **[[I49.5]]**
+> - **Rate control** vs **Rhythm control** — two therapeutic strategies; rate control = control ventricular response (beta-blockers, calcium channel blockers, digoxin); rhythm control = restore/maintain sinus rhythm (**antiarrhythmics, cardioversion, ablation**)
+> - **Tachycardia-induced cardiomyopathy** — reversible **cardiomyopathy** from sustained rapid ventricular rate in uncontrolled AF; code with heart failure if present (**I50.x**)
+> - **Wolff-Parkinson-White syndrome (WPW)** — accessory pathway disorder; AF in WPW is a **medical emergency** — avoid AV nodal blocking agents; separate ICD-10 code **[[I45.6]]**
+> - **Sick sinus syndrome** — SA node dysfunction; commonly coexists with AF (tachy-brady syndrome); coded **[[I49.5]]**
 > - **[[Ischemic stroke]]** — most feared complication of AF; AF-related strokes tend to be more severe and disabling; code stroke first, AF as additional diagnosis
 > - **[[Heart failure]]** — both a cause and consequence of AF; document type (systolic/diastolic, acute/chronic, left/right) for CC/MCC capture
-> - **[[Electrophysiology (EP) study]]** — diagnostic catheterization to map arrhythmia mechanism; CPT **[[93620]]**; foundation for ablation planning
-> - **[[Holter monitor]]** / **[[Event monitor]]** — ambulatory ECG monitoring to capture paroxysmal AF; CPT **[[93224]]**-**[[93227]]** (Holter); **[[93268]]** (event)
-> - **[[Transesophageal echocardiogram (TEE)]]** — used pre-cardioversion and intra-WATCHMAN procedure to evaluate LAA thrombus; CPT **[[93312]]** (diagnostic) / **[[93355]]** (intraoperative)
+> - **Electrophysiology (EP) study** — diagnostic catheterization to map arrhythmia mechanism; CPT **[[93620]]**; foundation for ablation planning
+> - **Holter monitor** / **Event monitor** — ambulatory ECG monitoring to capture paroxysmal AF; CPT **[[93224]]**-**[[93227]]** (Holter); **[[93268]]** (event)
+> - **Transesophageal echocardiogram (TEE)** — used pre-cardioversion and intra-WATCHMAN procedure to evaluate LAA thrombus; CPT **[[93312]]** (diagnostic) / **[[93355]]** (intraoperative)
 
 ---
 
@@ -297,7 +295,7 @@ _____
 > 
 > Calkins H, Tomaselli GF, Morady F. Atrial fibrillation: clinical features, mechanisms, and management. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds. _Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine_. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 66.
 > 
-> Joglar JA, Chung MK, Armbruster AL, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the diagnosis and management of atrial fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. _Circulation_. 2024;149(1):e1–e156. PMID: 38033089 [pubmed.ncbi.nlm.nih.gov/38033089/](https://pubmed.ncbi.nlm.nih.gov/38033089/).
+> Joglar JA, Chung MK, Armbruster AL, et al. 2023 ACC/AHA/ACCP/HRS Guideline for the diagnosis and management of atrial fibrillation: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. _Circulation_. 2024;149(1):e1-e156. PMID: 38033089 [pubmed.ncbi.nlm.nih.gov/38033089/](https://pubmed.ncbi.nlm.nih.gov/38033089/).
 > 
 > Zimetbaum P, Goldman L. Supraventricular ectopy and tachyarrhythmias. In: Goldman L, Cooney KA, eds. _Goldman-Cecil Medicine_. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 52.
 > 

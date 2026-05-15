@@ -1,6 +1,7 @@
 ---
 tags:
   - medterm
+  - pmr
 aliases:
   - Atrophic
   - Atrophy
@@ -23,7 +24,7 @@ alphabet: A
 definition: The partial or complete wasting away or reduction in size of a body part, organ, tissue, or cell
 ---
 >[!Note] DEFINITION of [[atrophy]]
->**Atrophy** is the **partial or complete wasting away** of a cell, tissue, organ, or body part — defined specifically as a **reduction in size of a structure that has already reached its normal mature growth**. This distinguishes it from **[[hypoplasia]]** (failure to reach normal size) and **[[aplasia]]** (**failure to develop at all**). Atrophy results from an imbalance between protein synthesis and degradation at the cellular level and may be **physiological** (**e.g., thymus regression after puberty, uterine involution post-partum**) or **pathological** (e.g., disuse atrophy from immobilization, denervation atrophy from nerve injury, ischemic **atrophy** from poor circulation, or endocrine **atrophy** from hormone withdrawal). The clinically relevant forms include **muscle atrophy** (most commonly coded as M62.5x), **cerebral/cortical atrophy**, **optic atrophy**, **spinal muscular atrophy (SMA)**, and **skin atrophy**. Atrophy differs critically from **[[necrosis]]** (**cell deat**h) and **dystrophy** (disordered development/nutrition): atrophied cells are still alive, just reduced in mass and function.
+>**Atrophy** is the **partial or complete wasting away** of a cell, tissue, organ, or body part — defined specifically as a **reduction in size of a structure that has already reached its normal mature growth**. This distinguishes it from **[[hypoplasia]]** (failure to reach normal size) and **[[aplasia]]** (**failure to develop at all**). **Atrophy** results from an imbalance between protein synthesis and degradation at the cellular level and may be **physiological** (**e.g., thymus regression after puberty, uterine involution post-partum**) or **pathological** (e.g., disuse atrophy from immobilization, denervation atrophy from nerve injury, ischemic **atrophy** from poor circulation, or endocrine **atrophy** from hormone withdrawal). The clinically relevant forms include **muscle atrophy** (most commonly coded as M62.5x), **cerebral/cortical atrophy**, **optic atrophy**, **spinal muscular atrophy (SMA)**, and **skin atrophy**. **Atrophy** differs critically from **[[necrosis]]** (**cell death**) and **dystrophy** (disordered development/nutrition): atrophied cells are still alive, just reduced in mass and function.
 _____
 >[!info]+ ETYMOLOGY of [[atrophy]]
 >#greek
@@ -34,7 +35,7 @@ _____
 >|**[[troph-]]**|Greek _τροφή_ (trophḗ), from _τρέφω_ (tréphō)|"**Nourishment**," "**food**," "**that which causes growth**"|
 >|**[[-y]]**|Greek _-ία_ (-ia)|Noun-forming suffix — "**state or condition of**"|
 >
-> The word entered English in the **1610s** as *atrophy* (**noun**), borrowed from French *atrophie*, from Late Latin ***atrophia***, from Greek ***atrophia*** — literally **"a wasting away from lack of nourishment."** The adjective *atrophied* appears even earlier, by the **1590s**. The root *trephein* ("**to fatten, to nourish**") connects atrophy to the entire **[[-trophy]]** family: ***hypertrophy*** (**over-nourishment → over-growth**), ***dystrophy*** (**disordered nourishment**), and *trophic* (pertaining to nutritional support of a tissue or organ — as in "trophic nerve input"). The **alpha privative** *[[a-]]* is one of the most productive prefixes in medical terminology, appearing in ***[[aphasia]]***, ***[[anemia]]***, ***[[apnea]]***, ***asepsis***, and dozens more.
+> The word entered English in the **1610s** as *atrophy* (**noun**), borrowed from French *atrophie*, from Late Latin ***atrophia***, from Greek ***atrophia*** — literally **"a wasting away from lack of nourishment."** The adjective *atrophied* appears even earlier, by the **1590s**. The root *trephein* ("**to fatten, to nourish**") connects atrophy to the entire **[[-trophy]]** family: ***hypertrophy*** (**over-nourishment → over-growth**), ***dystrophy*** (**disordered nourishment**), and *trophic* (pertaining to nutritional support of a tissue or organ — as in "**trophic nerve input**"). The **alpha privative** *[[a-]]* is one of the most productive prefixes in medical terminology, appearing in ***[[aphasia]]***, ***[[anemia]]***, ***[[apnea]]***, ***asepsis***, and dozens more.
 _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
@@ -170,14 +171,14 @@ _____
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** The M62.5x codes require **site specificity** — "muscle wasting/atrophy, NEC" means the **atrophy** is not a direct manifestation of a coded disease; if it IS caused by a specific condition (**e.g., stroke, ALS, Duchenne MD**), code the underlying condition first and the **atrophy** may be implicit or separately coded per guidelines. On inpatient profee claims, **[[sarcopenia]] ([[M62.84]])** is often undercoded — it's a valid, billable CC on some payers; query when the provider documents "generalized weakness," "**deconditioning**," or "**muscle wasting**" in elderly or prolonged-stay patients. **Disuse atrophy** from prolonged immobilization may also be captured under M62.5x as an additional diagnosis. For SMA coding, confirm the type (**I, II, III, IV**) and whether it is genetic-confirmed, as nusinersen (**Spinraza**) or onasemnogene (**Zolgensma**) treatment authorization often requires the most specific code available.
+> > ⚠️ **Coding Note:** The M62.5x codes require **site specificity** — "muscle wasting/atrophy, NEC" means the **atrophy** is not a direct manifestation of a coded disease; if it IS caused by a specific condition (**e.g., stroke, ALS, Duchenne MD**), code the underlying condition first and the **atrophy** may be implicit or separately coded per guidelines. On inpatient profee claims, **[[sarcopenia]] ([[M62.84]])** is often undercoded — it's a valid, billable CC on some payers; query when the provider documents "**generalized weakness**," "**deconditioning**," or "**muscle wasting**" in elderly or prolonged-stay patients. **Disuse atrophy** from prolonged immobilization may also be captured under M62.5x as an additional diagnosis. For SMA coding, confirm the type (**I, II, III, IV**) and whether it is genetic-confirmed, as nusinersen (**Spinraza**) or onasemnogene (**Zolgensma**) treatment authorization often requires the most specific code available.
 > 
 _____
 >[!tip]- DERIVATIONS of [[atrophy]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
+>WHERE length(filter(roots, (word) => econtains([[atrophy]].roots, word))) > 0 AND file.name != [[atrophy]].file.name
 >SORT file.name ASC
 >```
 _____
@@ -185,10 +186,10 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE length(filter(definition, (word) => econtains([[atrophy]].definition, word))) > 0 AND file.name != [[atrophy]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

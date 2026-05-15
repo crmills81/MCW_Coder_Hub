@@ -2,6 +2,7 @@
 tags:
   - medterm
   - cardio
+  - cardiology
 aliases:
   - arteriosclerosis
   - Atherosclerosis
@@ -18,8 +19,7 @@ forms:
   - suffix
   - noun
 alphabet: A
-definition:
-  - chronic disease in which the arterial walls thicken and harden due to the buildup of fatty plaques
+definition: chronic disease in which the arterial walls thicken and harden due to the buildup of fatty plaques
 ---
 
 > [!note]+ DEFINITION of [[atherosclerosis]]

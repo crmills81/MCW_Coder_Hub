@@ -9,6 +9,7 @@ tags:
   - cranial-nerve
   - facial-nerve
   - bells-palsy
+  - pmr
 aliases:
   - Bell's palsy
   - Bell palsy

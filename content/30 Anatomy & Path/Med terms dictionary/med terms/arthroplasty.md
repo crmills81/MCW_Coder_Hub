@@ -4,24 +4,25 @@ tags:
   - orthopedics
   - surgery
   - ICD-10-CM-Z96
+  - pmr
 aliases:
-- Arthroplasty
-- arthroplasty
-- Arthroplastic
-- arthroplastic
-- Joint Replacement Surgery
-- joint replacement surgery
-- Joint Reconstruction
-- joint reconstruction
-- Joint Replacement
-- joint replacement
-- Prosthetic Joint Replacement
-- prosthetic joint replacement
-- Total Joint Arthroplasty
-- total joint arthroplasty
-- TJA
-- Partial Joint Replacement
-- partial joint replacement
+  - Arthroplasty
+  - arthroplasty
+  - Arthroplastic
+  - arthroplastic
+  - Joint Replacement Surgery
+  - joint replacement surgery
+  - Joint Reconstruction
+  - joint reconstruction
+  - Joint Replacement
+  - joint replacement
+  - Prosthetic Joint Replacement
+  - prosthetic joint replacement
+  - Total Joint Arthroplasty
+  - total joint arthroplasty
+  - TJA
+  - Partial Joint Replacement
+  - partial joint replacement
 roots:
   - arthr-
   - -o-

@@ -3,6 +3,7 @@ tags:
   - medterm
   - medroot
 aliases:
+  - Autoantibody, Autoimmune
 roots:
   - auto-
   - -une

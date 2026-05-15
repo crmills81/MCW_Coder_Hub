@@ -18,8 +18,7 @@ forms:
   - suffix
   - combined
 alphabet: A
-definition:
-  - refractive error of the eye where the cornea or lens has an irregular curvature
+definition: refractive error of the eye where the cornea or lens has an irregular curvature
 ---
 >[!Note] DEFINITION of [[astigmatism]]
 >**Astigmatism** is an **optical defect caused by the failure of the eye's refractive system** (**primarily the cornea, sometimes the crystalline lens**) to focus light rays from a point object into a point image on the retina. In a normal eye, the cornea and lens are spherical **(like a basketball**); in an astigmatic eye, they are toric (**shaped more like a football or the back of a spoon**). This irregular curvature causes light rays entering the eye to converge at two different focal lines rather than a single focal point. 
