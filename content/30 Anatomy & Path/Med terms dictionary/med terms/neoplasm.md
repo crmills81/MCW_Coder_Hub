@@ -14,8 +14,7 @@ forms:
   - suffix
   - noun
 alphabet: N
-definition:
-  - An abnormal and excessive growth of tissue, which can be benign, premalignant, or malignant.
+definition: An abnormal and excessive growth of tissue, which can be benign, premalignant, or malignant.
 ---
 >[!Note] DEFINITION of [[neoplasm]]
 >The term **neoplasm** refers to an abnormal mass of tissue that forms when cells grow and divide more than they should, or do not die when they should. The growth of this "**new tissue**" is uncoordinated with that of the normal surrounding tissue and persists in the same excessive manner even after the cessation of the stimuli which evoked the change. **Neoplasms** are broadly categorized clinically and histologically into **benign** (non-cancerous, localized, non-invasive), **premalignant** (such as [[carcinoma]] in situ or severe [[dysplasia]]), and **malignant** (cancerous, capable of invading surrounding structures and distant **metastasis**). 

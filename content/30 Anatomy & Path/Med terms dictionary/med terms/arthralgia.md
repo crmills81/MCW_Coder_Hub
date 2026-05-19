@@ -55,7 +55,7 @@ _____
 > - **[[Arthritis]]** — arthralgia + inflammation ([[synovitis]], joint swelling, warmth); coded separately (M05, M06, M15-M19, etc.)
 > - **[[Arthropathy]]** — broader term for any joint disease (*[[-pathy]]* = disease/disorder, vs. *-algia* = pain only)
 > - **[[Synovitis]]** — inflammation of the synovial membrane lining the joint; M65.x — often the source of arthralgic pain
-> - **[[Bursitis]]** — inflammation of the bursa adjacent to a joint; M70-M71 — frequently confused with joint pain
+> - **[[bursitis]]** — inflammation of the bursa adjacent to a joint; M70-M71 — frequently confused with joint pain
 > - **[[myalgia]]** — muscle pain; shares the *[[-algia]]* root; often co-presents with arthralgia in viral illness, fibromyalgia
 > - **[[neuralgia]]** — nerve pain; *[[-algia]]* family; may radiate and mimic arthralgia (e.g., radiculopathy → shoulder "joint" pain)
 > - **[[Gout]] / [[Pseudogout]]** — crystal arthropathy; presents as acute [[monoarthralgia]]; M10.x / M11.x
