@@ -41,11 +41,11 @@ _____
 > | Type                  | Location/Characteristics                        | Speech Pattern/Key Deficit                  |
 > |-----------------------|-------------------------------------------------|---------------------------------------------|
 > | **Broca's (nonfluent)** | Frontal (Broca's area, IFG)                   | Telegraphic ("want...home"), good comprehension, effortful, agrammatic.[1][3] |
-> | **Wernicke's (fluent)** | [[Temporal]] (superior temporal gyrus)            | Fluent, nonsensical ("word salad"), [[neologisms]], poor comprehension.[1][3] |
+> | **Wernicke's (fluent)** | [[temporal]] (superior temporal gyrus)            | Fluent, nonsensical ("word salad"), neologisms, poor comprehension.[1][3] |
 > | **Conduction**       | Arcuate fasciculus ([[supramarginal]]/[[angular]])     | Fluent, good comprehension, poor repetition ("no way José").[3] |
-> | **[[Anomic]]**           | Temporal-parietal (angular gyrus)              | Word-finding pauses, [[circumlocution]] ("thingy").[4] |
+> | **[[anomic]]**           | Temporal-parietal (angular gyrus)              | Word-finding pauses, [[circumlocution]] ("thingy").[4] |
 > | **Global**           | Perisylvian (large MCA stroke)                 | Minimal output, poor comprehension.[1] |
-> | **Primary Progressive (PPA)** | [[Frontotemporal]] degeneration              | Gradual worsening (nonfluent, semantic, logopenic variants).[3] |
+> | **Primary Progressive (PPA)** | [[frontotemporal]] degeneration              | Gradual worsening (nonfluent, semantic, logopenic variants).[3] |
 > 
 
 > [!important]+ ## Coding Context
@@ -62,8 +62,8 @@ _____
 > 
 > 
 > - **[[Vascular]] (70%):** [[Ischemic]]/hemorrhagic stroke (left MCA).[2]
-> - **Traumatic:** [[TBI]], contusion.[3]
-> - **[[Neoplastic]]:** Brain tumor, [[abscess]].[1]
+> - **Traumatic:** TBI, contusion.[3]
+> - **Neoplastic:** Brain tumor, [[abscess]].[1]
 > - **Degenerative:** PPA (tauopathy).[3]
 > - **Other:** [[Encephalitis]], seizures, [[hypoxia]].[2]
 

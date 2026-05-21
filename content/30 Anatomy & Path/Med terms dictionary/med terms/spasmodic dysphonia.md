@@ -71,7 +71,7 @@ _____
 > - **[[aphonia]]** — complete loss of voice; coded **[[R49.1]]**; the extreme end of the SD severity spectrum
 > - **[[vocal cord paralysis]]** — **[[J38.01]]** / **[[J38.02]]**; structurally distinct from SD but often confused clinically; key differential: VCP is flaccid/fixed; SD cords are mobile with spasms
 > - **Muscle tension dysphonia (MTD)** — functional hypertonicity without neurological origin; must be ruled out before SD diagnosis; also coded **[[R49.0]]**
-> - **[[Laryngoscopy]] / [[Videostroboscopy]]** — essential diagnostic tool; reveals task-specific vocal cord spasms during phonation but not during whispering, coughing, or laughing
+> - **[[laryngoscopy]] / [[Videostroboscopy]]** — essential diagnostic tool; reveals task-specific vocal cord spasms during phonation but not during whispering, coughing, or laughing
 > - **Laryngeal EMG** — electromyography of the laryngeal muscles; used to guide Botox injection placement and to differentiate SD from VCP; CPT **[[95865]]**
 > - **[[Cervical dystonia]] / [[Spasmodic torticollis]]** — **[[G24.3]]**; related focal dystonia of the neck muscles; same disease category; some patients have both
 > - **[[Blepharospasm]]** — **[[G24.5]]**; focal dystonia of the eyelid; another related focal dystonia; may co-occur with SD in Meige syndrome
@@ -113,7 +113,7 @@ _____
 >
 > | Code | Description |
 > |---|---|
-> | **[[G20]]** | Parkinson's disease _(hypophonia / voice changes differ from SD but may coexist; code separately)_ |
+> | **G20.-** | Parkinson's disease _(hypophonia / voice changes differ from SD but may coexist; code separately)_ |
 > | **[[R13.10]]** | [[Dysphagia]], unspecified _(post-Botox temporary swallowing difficulty; common transient side effect)_ |
 > | **[[R13.11]]** | Dysphagia, oral phase |
 > | **[[R13.12]]** | Dysphagia, oropharyngeal phase _(most common Botox side effect dysphagia type in ADSD injection)_ |
@@ -126,7 +126,7 @@ _____
 >
 > | CPT Code | Description |
 > |---|---|
-> | **[[31575]]** | [[Laryngoscopy]], flexible fiberoptic; diagnostic _(essential to visualize task-specific vocal cord spasms and exclude structural lesions)_ |
+> | **[[31575]]** | [[laryngoscopy]], flexible fiberoptic; diagnostic _(essential to visualize task-specific vocal cord spasms and exclude structural lesions)_ |
 > | **[[31579]]** | Laryngoscopy, flexible or rigid telescopic, with stroboscopy _(videostroboscopy; gold-standard visualization of vocal fold vibration pattern during phonation)_ |
 > | **[[95865]]** | Needle electromyography; larynx _(laryngeal EMG; differentiates SD from VCP; guides Botox injection placement; prognostic tool)_ |
 > | **[[92521]]** | Evaluation of speech fluency _(formal speech assessment for voice break documentation and perceptual rating by SLP)_ |
@@ -142,7 +142,7 @@ _____
 >
 > | CPT Code | Description |
 > |---|---|
-> | **[[31570]]** | [[Laryngoscopy]], direct, with injection into vocal cord(s), therapeutic _(direct laryngoscopy approach to Botox injection; OR-based; used when percutaneous approach is not feasible)_ |
+> | **[[31570]]** | [[laryngoscopy]], direct, with injection into vocal cord(s), therapeutic _(direct laryngoscopy approach to Botox injection; OR-based; used when percutaneous approach is not feasible)_ |
 > | **[[31571]]** | Laryngoscopy, direct, operative, with injection into vocal cord(s), therapeutic; with operating microscope or telescope _(direct approach with optical magnification; typically general anesthesia)_ |
 > | **[[31573]]** | Laryngoscopy, flexible, diagnostic with therapeutic injection(s) (e.g., **chemodenervation** agent or corticosteroid); unilateral _(flexible scope therapeutic injection; office-based; does NOT include EMG guidance — add +95874 separately if EMG guidance used)_ |
 >

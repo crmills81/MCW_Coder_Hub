@@ -143,7 +143,7 @@ _____
 > |[[M47.22]]|Anterior cord syndrome, cervical region (vascular/compressive; selective motor loss with preserved posterior column)|
 > |[[G61.0]]|Guillain-Barré syndrome (ascending LMN flaccid paralysis — NOT coded G82.5x; LMN mechanism; code with G61.0 as principal)|
 > |[[G12.21]]|Amyotrophic lateral sclerosis (mixed UMN/LMN; four-limb involvement in advanced ALS)|
-> |[[G35]]|Multiple sclerosis (cervical cord demyelinating lesions can produce quadriparesis/tetraparesis)|
+> |[[G35.A]]|Multiple sclerosis (cervical cord demyelinating lesions can produce quadriparesis/tetraparesis)|
 > |[[G80.0]]|Spastic quadriplegic cerebral palsy (CP-related four-limb involvement — Excludes1 with G82.5x; NEVER use G82.5x for CP)|
 > |[[R53.2]]|Functional quadriplegia (immobility without neurological lesion — Excludes1 with G82.5x; NEVER code both)|
 >

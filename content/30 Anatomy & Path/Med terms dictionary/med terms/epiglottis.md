@@ -92,7 +92,7 @@ _____
 >
 > | CPT Code | Description |
 > |---|---|
-> | **[[31575]]** | [[Laryngoscopy]], flexible fiberoptic; diagnostic _(Often performed cautiously in the ED or OR to visualize the swollen epiglottis without provoking total spasm)_ |
+> | **[[31575]]** | [[laryngoscopy]], flexible fiberoptic; diagnostic _(Often performed cautiously in the ED or OR to visualize the swollen epiglottis without provoking total spasm)_ |
 >
 > #### **Emergent Airway Intervention**
 >

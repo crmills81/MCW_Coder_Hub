@@ -65,7 +65,7 @@ _____
 > - **Vocal cord nodules** — [[J38.2]]; result of chronic vocal overuse; related cause of hoarseness often confused with laryngitis
 > - **[[Vocal cord polyp]]** — [[J38.1]]; benign lesion causing hoarseness; distinguished from laryngitis by laryngoscopy
 > - **Laryngeal [[spasm]]** — [[J38.5]]; sudden involuntary closure of the vocal folds; not inflammatory but may co-occur
-> - **[[Laryngoscopy]]** — primary diagnostic tool; direct or flexible fiberoptic visualization of the larynx
+> - **[[laryngoscopy]]** — primary diagnostic tool; direct or flexible fiberoptic visualization of the larynx
 > - **[[vocal cord paralysis]]** — [[J38.01]] / [[J38.02]]; must be excluded in persistent hoarseness workup
 > - **[[Rhinovirus]] / [[Parainfluenza virus]]** — most common infectious causes of acute laryngitis
 > - **[[Hoarseness]]** — the cardinal presenting symptom; coded as [[R49.0]] (dysphonia) when laryngitis is not yet confirmed

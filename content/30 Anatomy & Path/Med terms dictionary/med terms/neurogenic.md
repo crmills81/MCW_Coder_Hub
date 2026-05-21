@@ -162,14 +162,14 @@ _____
 > |**[[51797]]**|Voiding pressure studies — intraabdominal|
 > |**[[95923]]**|Testing of autonomic nervous system function|
 > |**[[92516]]**|Facial nerve function studies _(neurogenic facial weakness)_|
-> |**[[31595]]**|[[Laryngoscopy]] with injection of vocal cord _(for neurogenic vocal fold paralysis)_|
+> |**[[31595]]**|[[laryngoscopy]] with injection of vocal cord _(for neurogenic vocal fold paralysis)_|
 > 
 > ---
 > 
 > ### 📝 Inpatient Coder Notes
 > 
 > - **No single "neurogenic bladder" ICD-10-CM code exists** — this is one of the most common documentation-to-coding translation issues in urology. The **N31.x** series is the correct category, but the subtype (**uninhibited, reflex, flaccid**) depends on the underlying UMN vs. LMN lesion. If the documentation just says "**neurogenic bladder**" without further specification, **[[50 Medical Coding/ICD-10 Codes/N31.9]]** is appropriate — but always query the physician if possible for specificity.
-> - **Etiology-first sequencing**: Always code the underlying neurological cause before the N31.x bladder code — spinal cord injury (S14.x/S24.x/S34.x), MS (G35.-), Parkinson's ([[G20]]), diabetes ([[E11.40]]), [[myelomeningocele]] (Q05.x), etc.
+> - **Etiology-first sequencing**: Always code the underlying neurological cause before the N31.x bladder code — spinal cord injury (S14.x/S24.x/S34.x), MS (G35.-), Parkinson's (G20.-), diabetes ([[E11.40]]), [[myelomeningocele]] (Q05.x), etc.
 > - **Detrusor-sphincter dyssynergia (DSD)** — a critical urodynamic finding in spinal cord injury patients — maps to **[[N31.8]]** (**other neuromuscular dysfunction of bladder**) as there is no unique code for DSD.
 > - **Neurogenic vocal fold paralysis** post-[[thyroidectomy]] or neck [[dissection]] is a common ENT inpatient complication — don't miss this as a secondary diagnosis; **[[J38.01]]/[[J38.0]]2** are your codes.
 > - **Neurogenic claudication ([[M48.062]])** must be distinguished from **[[vascular]] claudication ([[I73.9]])** — they have completely different etiologies, treatments, and DRG implications.

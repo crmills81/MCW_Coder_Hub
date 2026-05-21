@@ -1,11 +1,4 @@
 ---
-title: "Global Surgical Package MOC"
-aliases:
-  - Global Surgery MOC
-  - Global Surgical Package
-  - Global Period MOC
-  - Surgical Package Reference
-  - Global Surgery Modifiers MOC
 tags:
   - MOC
   - global-surgical-package
@@ -19,6 +12,13 @@ tags:
   - NCCI
   - medical-coding
   - index
+title: Global Surgical Package MOC
+aliases:
+  - Global Surgery MOC
+  - Global Surgical Package
+  - Global Period MOC
+  - Surgical Package Reference
+  - Global Surgery Modifiers MOC
 note_type: MOC
 related_families:
   - Global Surgery Modifiers
@@ -26,9 +26,9 @@ related_families:
   - Post-Op Period Modifiers
   - E/M with Procedure Modifiers
 global_period_types:
-  - "0-day (day of procedure only)"
-  - "10-day (minor procedures)"
-  - "90-day (major procedures — 1 day pre-op + DOS + 90 days post-op)"
+  - 0-day (day of procedure only)
+  - 10-day (minor procedures)
+  - 90-day (major procedures — 1 day pre-op + DOS + 90 days post-op)
 date_created: 2026-02-23
 date_modified: 2026-02-23
 status: active

@@ -2,7 +2,6 @@
 tags:
   - medical_coding
   - greek
-  - general[[]]
   - medterm
   - specialty/ent
 aliases: []

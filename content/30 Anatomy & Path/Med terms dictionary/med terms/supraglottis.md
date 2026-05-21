@@ -67,7 +67,7 @@ _____
 > - **[[Laryngectomy]]** — surgical resection of the larynx; supraglottic laryngectomy specifically removes the supraglottic compartment while preserving the true vocal cords and voice; coded to CPT [[31367]] or [[31368]]
 > - **[[Dysphonia]]** — voice impairment; while primarily a glottic symptom, supraglottic lesions (especially large epiglottic tumors) can alter resonance and voice quality; coded to [[R49.0]]
 > - **[[Dysphagia]]** — difficulty swallowing; a cardinal symptom of supraglottic pathology given the supraglottis' role in airway protection during swallowing; coded to [[R13.10]]-[[R13.19]] by type
-> - **[[Laryngoscopy]]** — the primary endoscopic tool for supraglottic evaluation; flexible and direct rigid variants coded across **CPT [[31520]]-[[31579]]** range
+> - **[[laryngoscopy]]** — the primary endoscopic tool for supraglottic evaluation; flexible and direct rigid variants coded across **CPT [[31520]]-[[31579]]** range
 
 _____
 

@@ -66,7 +66,7 @@ _____
 > - **[[Cricoid cartilage]]** — the only complete cartilaginous ring of the airway; forms the structural lateral and posterior boundary of the subglottis; its rigidity means subglottic swelling has nowhere to expand except inward
 > - **[[Trachea]]** — the structure immediately inferior to the subglottis; the subglottis transitions into the trachea at the inferior cricoid border; narrowing near this junction may be ambiguously coded unless carefully documented
 > - **[[Subglottic stenosis]]** — the most clinically significant disease of this region; may be congenital ([[Q31.1]]), acquired ([[J38.6]]), or postprocedural ([[J95.5]]); each subtype requires precise documentation for correct code assignment
-> - **[[Laryngoscopy]]** — the primary endoscopic procedure used to evaluate the subglottis; direct and flexible variants coded across the 31520-31579 CPT range
+> - **[[laryngoscopy]]** — the primary endoscopic procedure used to evaluate the subglottis; direct and flexible variants coded across the 31520-31579 CPT range
 > - **[[Tracheotomy]]** — a surgical procedure sometimes required for severe subglottic obstruction; coded to CPT [[31600]]/[[31601]] (surgical) or [[31603]]/[[31605]] (emergency)
 > - **Croup (acute obstructive laryngitis)** — the most common cause of acute subglottic narrowing in children; characterized by subglottic edema; coded to [[J05.0]] — note: Excludes1 note under J38 blocks J38.6 from being used concurrently
 > - **[[Laryngeal carcinoma]]** — broader category encompassing glottic, supraglottic, and subglottic cancers; parent category [[C32]] is not billable; use site-specific codes

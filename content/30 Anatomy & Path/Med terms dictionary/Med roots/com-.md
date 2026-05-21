@@ -130,7 +130,7 @@ _____
 > |**[[67031]]**|Severing of [[vitreous]] strands _(complication of prior eye surgery)_|
 > |**[[67036]]**|[[Vitrectomy]], mechanical pars plana _(complication repair)_|
 > |**[[67112]]**|Repair of retinal detachment _(post-surgical complication)_|
-> |**[[31541]]**|[[Laryngoscopy]] with excision of lesion at anterior commissure|
+> |**[[31541]]**|[[laryngoscopy]] with excision of lesion at anterior commissure|
 > |**[[31560]]**|Laryngoscopy, direct; with [[arytenoidectomy]] _(commissure region)_|
 > |**[[69801]]**|[[Labyrinthotomy]] with perfusion of vestibuloactive drugs _(complication avoidance)_|
 > |**[[52330]]**|Cystourethroscopy with removal of ureteral calculus _(complication of urolithiasis)_|

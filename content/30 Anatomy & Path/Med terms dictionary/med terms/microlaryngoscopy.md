@@ -32,7 +32,7 @@ _____
 _____
 
 > [!success]+ **Related Terms**
-> - **[[Laryngoscopy]]** — broader term; includes indirect and flexible methods
+> - **[[laryngoscopy]]** — broader term; includes indirect and flexible methods
 > - **Suspension Laryngoscopy** — the setup technique used during microlaryngoscopy
 > - **[[Phonosurgery]]** — surgery to improve or restore voice
 > - **[[Panendoscopy]]** — combined scope exam of larynx, esophagus, and bronchi
@@ -52,7 +52,7 @@ _____
 > 
 > |CPT Code|Description|
 > |---|---|
-> |**[[31531]]**|[[Laryngoscopy]], direct, operative; foreign body removal **with operating microscope**|
+> |**[[31531]]**|[[laryngoscopy]], direct, operative; foreign body removal **with operating microscope**|
 > |**[[31536]]**|Laryngoscopy, direct, operative; with biopsy **with operating microscope**|
 > |**[[31541]]**|Laryngoscopy, direct, operative; excision of tumor and/or stripping of vocal cord(s) or epiglottis **with operating microscope**|
 > |**[[31545]]**|Direct operative laryngoscopy with microscope; [[submucosal]] removal of non-neoplastic lesion(s), **with reconstruction using local tissue flap(s)**|

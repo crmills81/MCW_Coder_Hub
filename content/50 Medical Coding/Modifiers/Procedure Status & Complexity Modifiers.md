@@ -1,10 +1,4 @@
 ---
-title: "Procedure Status & Complexity Modifiers"
-aliases:
-  - Procedure Complexity Modifiers
-  - Procedure Status Modifiers
-  - Modifiers 22 23 52 53
-  - Reduced Discontinued Increased Unusual
 tags:
   - MOC
   - modifier
@@ -19,6 +13,12 @@ tags:
   - surgical
   - NCCI
   - index
+title: Procedure Status & Complexity Modifiers
+aliases:
+  - Procedure Complexity Modifiers
+  - Procedure Status Modifiers
+  - Modifiers 22 23 52 53
+  - Reduced Discontinued Increased Unusual
 note_type: MOC
 modifiers_covered:
   - "22"

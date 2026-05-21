@@ -191,7 +191,7 @@ _____
 > |Code|Description|
 > |---|---|
 > |**[[31300]]**|[[Laryngotomy]]; with removal of laryngeal tumor|
-> |**[[31540]]**|[[Laryngoscopy]], direct; with excision of tumor|
+> |**[[31540]]**|[[laryngoscopy]], direct; with excision of tumor|
 > |**[[31541]]**|Laryngoscopy with excision of tumor with operating microscope|
 > |**[[31570]]**|Laryngoscopy, direct; with injection into vocal cord(s)|
 > |**[[31571]]**|Laryngoscopy with injection into vocal cord(s) with operating microscope|

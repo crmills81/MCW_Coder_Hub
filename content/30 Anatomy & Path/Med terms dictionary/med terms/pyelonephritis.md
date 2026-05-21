@@ -90,7 +90,7 @@ _____
 > ### HCC (Hierarchical Condition Category) Risk Adjustment
 > 
 > *   **Acute Pyelonephritis (N10, N12):** Generally, acute and unspecified pyelonephritis do **not** risk-adjust under the CMS-HCC model. They are considered acute, treatable conditions.
-> *   **Chronic Pyelonephritis (N11.0 - N11.9):** These codes do not directly map to an HCC on their own in the standard V24/V28 models. However, chronic pyelonephritis frequently leads to Chronic Kidney Disease (CKD). If the provider documents the resulting CKD stage (e.g., N18.3 for Stage 3, N18.4 for Stage 4), the CKD code **will** map to an HCC (e.g., HCC 326 for CKD Stage 3 in the V28 model).
+> *   **Chronic Pyelonephritis (N11.0 - N11.9):** These codes do not directly map to an HCC on their own in the standard V24/V28 models. However, chronic pyelonephritis frequently leads to Chronic Kidney Disease (CKD). If the provider documents the resulting CKD stage (e.g., N18.30 for Stage 3, N18.4 for Stage 4), the CKD code **will** map to an HCC (e.g., HCC 326 for CKD Stage 3 in the V28 model).
 > 
 > ---
 > 

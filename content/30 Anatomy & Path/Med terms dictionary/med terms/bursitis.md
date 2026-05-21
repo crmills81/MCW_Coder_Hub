@@ -66,7 +66,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
 > - **[[Arthritis]]** — inflammation within the joint space itself, as opposed to the periarticular location of **bursitis**; distinguished by intra-articular **[[effusion]]**, **[[synovitis]]**, and cartilage involvement on imaging; frequently coexists with **bursitis**, particularly in **rheumatoid** and **crystal arthropathies**
-> - **[[Tendinitis]]** — inflammation of a tendon rather than a **bursa**; shares clinical presentation of focal pain and swelling near joints; often coexists with **bursitis** (**e.g., subacromial bursitis + rotator cuff tendinitis at M75.1–M75.5**); coded separately when both documented
+> - **[[tendinitis]]** — inflammation of a tendon rather than a **bursa**; shares clinical presentation of focal pain and swelling near joints; often coexists with **bursitis** (**e.g., subacromial bursitis + rotator cuff tendinitis at M75.1–M75.5**); coded separately when both documented
 > - **[[Synovitis]]** — inflammation of the synovial lining, which also lines bursal sacs; synovitis (M65.–) refers primarily to joint-space **synovial inflammation** but the pathophysiology overlaps with bursal inflammation
 > - **[[Bursa]]** — the anatomical structure that becomes inflamed in **bursitis**; a closed, fluid-filled synovial sac reducing friction between moving structures
 > - **[[Bursectomy]]** — surgical excision of a chronically inflamed or calcified bursa; **CPT [[27062]]** (**trochanteric**), **[[23030]]–[[23031]]** (**shoulder drainage**); coded when conservative treatment fails

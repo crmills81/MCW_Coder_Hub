@@ -82,7 +82,7 @@ _____
 > - **Thyroid carcinoma** — malignant invasion or compression of the RLN; must be excluded in new-onset VCP
 > - **Lung carcinoma** — left-sided lung apex or mediastinal tumors commonly compress left RLN; new left VCP = malignancy workup
 > - **Voice therapy / Speech-language pathology** — first-line treatment for UVCP; compensatory techniques, vocal exercises; CPT [[92507]]
-> - **[[Laryngoscopy]]** — primary diagnostic tool for VCP; flexible or direct; visualizes vocal cord mobility
+> - **[[laryngoscopy]]** — primary diagnostic tool for VCP; flexible or direct; visualizes vocal cord mobility
 > - **Electromyography (laryngeal EMG)** — prognostic tool; assesses RLN integrity and predicts likelihood of spontaneous recovery; CPT **[[95865]]**
 
 _____

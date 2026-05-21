@@ -131,7 +131,7 @@ _____
 >
 > |Code|Description|
 > |---|---|
-> |**[[G35]]**|Multiple sclerosis|
+> |**[[G35.D]]**|Multiple sclerosis|
 > |**[[G36.0]]**|Neuromyelitis optica [Devic]|
 > |**[[G36.1]]**|Acute and subacute hemorrhagic leukoencephalitis [Hurst]|
 > |**[[G36.8]]**|Other specified acute disseminated demyelination|
