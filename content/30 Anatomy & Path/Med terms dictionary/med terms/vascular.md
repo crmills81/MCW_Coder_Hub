@@ -32,7 +32,7 @@ _____
 > 
 > |Form|Examples|
 > |---|---|
-> |**[[Vascul-]]/[[vasculo-]]**|[[Vasculitis]], vasculopathy, vasculogenesis, musculovascular|
+> |**[[Vascul-]]/[[vasculo-]]**|[[vasculitis]], vasculopathy, vasculogenesis, musculovascular|
 > |**[[Vas-]]/[[vaso-]]**|Vasodilation, vasoconstriction, vasospasm, [[vasectomy]], vas deferens|
 > |**[[Angio-]]**|Greek equivalent: [[angiogram]], [[angioplasty]], [[angiosarcoma]], angiogenesis|
 > |**[[Hemo-]]/[[haemo-]]**|Related: hemorrhage, hemostasis, hemangioma|
@@ -119,7 +119,7 @@ _____
 > |**[[D44.6]]**|Neoplasm of uncertain behavior, carotid body|
 > |**[[D44.7]]**|Neoplasm of uncertain behavior, aortic body and other paraganglia|
 > |**[[H61.01]]-[[H61.03]]**|[[Perichondritis]] of ear (may involve vascular compromise)|
-> |**[[R04.0]]**|[[Epistaxis]]|
+> |**[[R04.0]]**|[[epistaxis]]|
 > |**[[D10.6]]**|Benign neoplasm of nasopharynx _(JNA coded here)_|
 > |**[[Q27.30]]**|AV malformation, unspecified site|
 > 

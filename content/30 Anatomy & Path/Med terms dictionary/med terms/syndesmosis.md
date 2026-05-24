@@ -74,7 +74,7 @@ _____
 > - **Ankle fracture\|Weber B/C fracture** — fibular fracture classification most commonly associated with syndesmotic disruption; Weber C fractures nearly always involve complete syndesmotic injury requiring fixation
 > - **Suture** — sibling fibrous joint subtype; bones joined edge-to-edge with minimal fibrous tissue (e.g., cranial sutures); no interosseous ligament component
 > - **[[Gomphosis]]** — sibling fibrous joint subtype; peg-in-socket articulation (tooth in alveolus); all three fibrous joint subtypes (suture, gomphosis, syndesmosis) fall under [[synarthrosis]]
-> - **[[Arthrodesis]]** — surgical creation of a permanent bony union at a joint; when applied to the syndesmosis (e.g., tibiofibular fusion in chronic instability), coded to CPT [[27829]] acutely or [[27870]] for ankle arthrodesis
+> - **[[arthrodesis]]** — surgical creation of a permanent bony union at a joint; when applied to the syndesmosis (e.g., tibiofibular fusion in chronic instability), coded to CPT [[27829]] acutely or [[27870]] for ankle arthrodesis
 > - **Tibiofibular ligament** — the four-ligament complex (AITFL, PITFL, transverse, interosseous) that specifically constitutes the distal tibiofibular syndesmosis; primary coding target in "**high ankle sprain**" scenarios
 
 _____

@@ -24,7 +24,7 @@ _____
 
 > [!abstract]+ **Related Terms**
 > - [[Rhinitis]] (inflammation of the nose)
-> - [[Epistaxis]] (nosebleed)
+> - [[epistaxis]] (nosebleed)
 > - [[Sinusitis]]
 > - Allergic rhinitis
 > - Nasal congestion ([[R09.81]])

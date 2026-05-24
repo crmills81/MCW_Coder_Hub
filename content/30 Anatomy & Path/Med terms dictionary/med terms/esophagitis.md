@@ -57,7 +57,7 @@ _____
 > - **[[Odynophagia]]** — **[[R13.19]]**; painful swallowing; the hallmark symptom of infectious and pill-induced **esophagitis**.
 > - **[[Barrett's esophagus]]** — **[[K22.70]]**; a premalignant metaplastic change in the esophageal mucosa caused by chronic reflux **esophagitis**.
 > - **[[Esophageal stricture]]** — **[[K22.2]]**; narrowing of the esophagus often resulting from chronic inflammatory scarring.
-> - **EGD ([[Esophagogastroduodenoscopy]])** — **[[43239]]**; the gold-standard diagnostic procedure used to visualize the inflammation and obtain biopsies.
+> - **EGD ([[esophagogastroduodenoscopy]])** — **[[43239]]**; the gold-standard diagnostic procedure used to visualize the inflammation and obtain biopsies.
 
 _____
 
@@ -98,7 +98,7 @@ _____
 >
 > | CPT Code | Description |
 > |---|---|
-> | **[[43235]]** | **[[Esophagogastroduodenoscopy]]**, flexible, transoral; diagnostic, including collection of specimen(s) by brushing or washing, when performed |
+> | **[[43235]]** | **[[esophagogastroduodenoscopy]]**, flexible, transoral; diagnostic, including collection of specimen(s) by brushing or washing, when performed |
 > | **[[43239]]** | **Esophagogastroduodenoscopy**, flexible, transoral; with biopsy, single or multiple _(The most common procedure to diagnose EoE or infectious esophagitis)_ |
 > | **[[43247]]** | **Esophagogastroduodenoscopy**, flexible, transoral; with removal of tumors, [[polyps]], or other lesion(s) by hot biopsy forceps or bipolar cautery |
 >

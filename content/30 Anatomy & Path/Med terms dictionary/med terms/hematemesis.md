@@ -59,7 +59,7 @@ _____
 > - **Mucosal erosion** — the cellular/structural mechanism where the superficial gastrointestinal epithelium is worn away, exposing vessels and leading to hemorrhage.
 > - **[[Esophageal varices]]** — extremely dilated sub-mucosal veins in the lower third of the esophagus; a highly lethal underlying cause of **hematemesis**.
 > - **Peptic ulcer disease (PUD)** — a disease entity frequently presenting with hematemesis when the ulcer erodes into an underlying gastric or duodenal artery.
-> - **[[Esophagogastroduodenoscopy]] (EGD)** — the primary diagnostic and therapeutic procedure associated with evaluating and treating the source of **hematemesis**.
+> - **[[esophagogastroduodenoscopy]] (EGD)** — the primary diagnostic and therapeutic procedure associated with evaluating and treating the source of **hematemesis**.
 
 _____
 

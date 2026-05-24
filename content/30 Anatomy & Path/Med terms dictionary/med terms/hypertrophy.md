@@ -64,7 +64,7 @@ _____
 > - **[[Dystrophy]]** — shares the *[[-trophy]]* root; a disorder characterized by defective or abnormal tissue growth and maintenance, often genetic (**e.g., [[Muscular Dystrophy]]**).
 > - **[[Hyperplasia]]** — closely related adaptive mechanism; an increase in the size of a tissue or organ due to an increase in the *number* of cells, which frequently occurs concurrently with **[[hypertrophy]]**.
 > - **[[Cardiomegaly]]** — clinical entity representing an enlarged heart (**coded as [[I51.7]]**); **hypertrophy** is the primary cellular mechanism driving this enlargement.
-> - **[[Cardiomyopathy]]** — a disease of the heart muscle, a major subtype of which is **Hypertrophic Cardiomyopathy (HCM)**, characterized by pathological thickening of the heart walls.
+> - **[[cardiomyopathy]]** — a disease of the heart muscle, a major subtype of which is **Hypertrophic Cardiomyopathy (HCM)**, characterized by pathological thickening of the heart walls.
 > - **Echocardiogram** — primary diagnostic imaging procedure used to evaluate **cardiac hypertrophy** and measure ventricular wall thickness.
 > - **[[Neoplasia]]** — abnormal and uncontrolled cell growth (**tumors**); distinctly different from the regulated, stress-responsive nature of **[[hypertrophy]]**.
 

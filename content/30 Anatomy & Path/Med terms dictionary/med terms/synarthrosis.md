@@ -64,7 +64,7 @@ _____
 > - **[[Amphiarthrosis]]** — shares the *[[arthr-]]* root; the intermediate joint mobility class — slightly movable joints (e.g., intervertebral discs, pubic symphysis) that fall between synarthrosis and diarthrosis
 > - **[[Ankylosis]]** — pathological immobility of a previously mobile joint (**[[M24.60]]–[[M24.679]]**); clinically resembles synarthrosis in function, but is an acquired pathological state — not a normal anatomical classification
 > - **[[Ankylosing spondylitis]]** — inflammatory disease that progressively converts spinal amphiarthroses and diarthroses into synarthrosis-like fused joints (**[[M45.0]]–[[M45.9]]**); hallmark "bamboo spine" radiographic finding
-> - **[[Arthrodesis]]** — surgical creation of a synarthrosis-like state in a previously mobile joint; intentional joint fusion procedure (**CPT [[27279]], [[27280]], [[22612]], etc.**)
+> - **[[arthrodesis]]** — surgical creation of a synarthrosis-like state in a previously mobile joint; intentional joint fusion procedure (**CPT [[27279]], [[27280]], [[22612]], etc.**)
 > - **[[Craniosynostosis]]** — premature pathological fusion of cranial sutures (synarthroses) in infants (**[[Q75.0]]**); leads to skull deformity and increased intracranial pressure
 > - **[[Synostosis]]** — bony bridging/fusion across a joint; the structural end-stage of synarthrosis involving ossification of the interosseous space
 > - **Articular cartilage** — tissue type defining **[[synchondrosis]]** subtype of synarthrosis; also present in diarthroses as the gliding surface

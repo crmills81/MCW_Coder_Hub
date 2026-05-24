@@ -64,7 +64,7 @@ _____
 > - **Detrusor sphincter dyssynergia (DSD)** — simultaneous detrusor contraction + sphincter contraction; common with **hyperreflexia**
 > - **[[Spinal cord injury (SCI)]]** — most common cause of both autonomic and detrusor **hyperreflexia**
 > - **Multiple sclerosis (MS)** — demyelinating cause of UMN **hyperreflexia** and bladder **hyperreflexia**
-> - **[[stroke]] / [[Cerebral infarction]]** — UMN lesion causing contralateral **hyperreflexia**
+> - **[[stroke]] / [[cerebral infarction]]** — UMN lesion causing contralateral **hyperreflexia**
 > - **[[cerebral palsy]]** — developmental UMN cause of spastic **hyperreflexia**
 > - **ALS (Amyotrophic Lateral Sclerosis)** — mixed UMN/LMN disease; **hyperreflexia** prominent in early UMN phase
 > - **[[Urodynamics]]** — diagnostic testing modality for detrusor **hyperreflexia**/NDO

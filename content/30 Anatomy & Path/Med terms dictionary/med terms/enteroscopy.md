@@ -55,7 +55,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 >
 > - **Capsule endoscopy (small intestine)** — **[[91110]]**; a non-invasive, swallowed wireless camera that images the entire small bowel; frequently used as the *diagnostic* precursor to therapeutic [[enteroscopy]] when a small bowel lesion is suspected but not yet localized.
-> - **[[Esophagogastroduodenoscopy]] (EGD)** — **[[43235]]** (**diagnostic**); standard upper GI endoscopy reaching only to the proximal duodenum; if the scope cannot advance ≥50 cm beyond the pylorus, the encounter defaults to the EGD family rather than the enteroscopy family.
+> - **[[esophagogastroduodenoscopy]] (EGD)** — **[[43235]]** (**diagnostic**); standard upper GI endoscopy reaching only to the proximal duodenum; if the scope cannot advance ≥50 cm beyond the pylorus, the encounter defaults to the EGD family rather than the enteroscopy family.
 > - **Obscure gastrointestinal bleeding (OGIB)** — **[[K92.1]]**; the single most common clinical indication driving enteroscopy; refers to ongoing or recurrent GI hemorrhage for which a source is not identified on EGD or colonoscopy, necessitating small bowel examination.
 > - **Crohn's disease of small intestine** — **[[K50.00]]** (without complications); a major inflammatory indication for [[enteroscopy]], particularly for stricture dilation or biopsy of small bowel Crohn's disease not accessible by colonoscopy alone.
 > - **[[Angiodysplasia]]** — **[[K31.811]]** ([[angiodysplasia]] of stomach and duodenum with hemorrhage); [[vascular]] malformations of the small bowel are among the most frequent findings and therapeutic targets during enteroscopy for OGIB.

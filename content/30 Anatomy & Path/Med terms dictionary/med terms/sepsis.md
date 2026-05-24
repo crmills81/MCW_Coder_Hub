@@ -490,7 +490,7 @@ If sepsis documented:
 ✅ **Query appropriately:**
   - "[[Urosepsis]]" → clarify UTI vs sepsis
   - "Sepsis" without organism → ask if specific organism identified
-  - "[[Bacteremia]]" vs "Sepsis" → different codes
+  - "[[bacteremia]]" vs "Sepsis" → different codes
 
 ✅ **Septic shock requires:**
   - Documentation of "septic shock" or "severe sepsis with septic shock"

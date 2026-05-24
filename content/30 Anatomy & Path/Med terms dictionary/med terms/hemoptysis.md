@@ -65,7 +65,7 @@ _____
 > - **Lung abscess** — necrotizing infection; can erode into blood vessels causing **hemoptysis**
 > - **[[Bronchitis]]** — most common cause of mild **hemoptysis** in outpatient settings
 > - **[[Sputum]]** — the expectorated material; **hemoptysis** is distinguished by blood content
-> - **[[Epistaxis]]** — nasal bleeding; must be distinguished from pseudohemoptysis
+> - **[[epistaxis]]** — nasal bleeding; must be distinguished from pseudohemoptysis
 
 _____
 

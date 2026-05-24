@@ -62,7 +62,7 @@ _____
 > - **[[Dysphonia]]** — impaired voice/phonation, often a component of dysarthria
 > - **Bulbar [[palsy]]** — LMN disorder affecting cranial nerves IX-XII; causes flaccid dysarthria
 > - **Pseudobulbar palsy** — UMN disorder causing spastic dysarthria
-> - **[[Cerebral infarction]] / TIA** — common acute cause
+> - **[[cerebral infarction]] / TIA** — common acute cause
 > - **Parkinson's disease** — common degenerative cause
 > - **ALS (Amyotrophic Lateral Sclerosis)** — causes progressive mixed dysarthria
 > - **Multiple [[sclerosis]]** — can cause ataxic or mixed dysarthria

@@ -69,7 +69,7 @@ _____
 > - **[[Involucrum]]** — reactive sheath of new periosteal bone that forms around the sequestrum in chronic **osteomyelitis**; represents the body's attempt to wall off dead bone
 > - **Brodie abscess** — a localized, walled-off subacute bone **[[abscess]]** form of **osteomyelitis** (usually *S. aureus*); presents as a lucent lesion with sclerotic margins on imaging; coded M86.2x
 > - **Septic arthritis** — infection *within the joint space* (**not the bone itself**); coded M00.xx; can coexist with **osteomyelitis** when adjacent joint is seeded; code both when documented
-> - **[[Bacteremia]]** — presence of bacteria in the bloodstream; the source event for hematogenous **[[osteomyelitis]]**; code the causative organism using B95.x-B97.x as an additional code per M86 instruction
+> - **[[bacteremia]]** — presence of bacteria in the bloodstream; the source event for hematogenous **[[osteomyelitis]]**; code the causative organism using B95.x-B97.x as an additional code per M86 instruction
 > - **[[MRSA]]** — *Methicillin-resistant Staphylococcus aureus*; the most clinically significant causative organism for **hematogenous** **osteomyelitis** in hospitalized patients; coded additionally as **[[B95.62]]** when documented
 > - **[[Spondylodiscitis]]** — vertebral **osteomyelitis** with intervertebral disc involvement; coded M46.2x — Excludes2 under M86 means it *can* be coded together with M86 when both are present but refers to a different anatomic locus
 > - **Osseous defect** — major bone loss resulting from chronic **osteomyelitis** or surgical **[[debridement]]**; must be coded additionally with M89.7x per M86 "**use additional code**" instruction

@@ -215,7 +215,7 @@ last_updated: 2026-02-10
 - **[[Metabolic acidosis]]** - acid buildup
 - **[[Hyperphosphatemia]]** - high phosphorus
 - **[[Hypocalcemia]]** - low calcium
-- **[[Hyponatremia]]** - low sodium (in some cases)
+- **[[hyponatremia]]** - low sodium (in some cases)
 
 **Neurologic symptoms:**
 - **Confusion, disorientation**

@@ -54,7 +54,7 @@ _____
 > 
 > To support the diagnosis of a gastrocele and accurately code the surgical intervention, look for the following in the clinical record:
 > 
-> 1. **Diagnostic Imaging/Endoscopy:** [[Esophagogastroduodenoscopy]] (EGD) reports noting "Z-line displacement," "gastric folds seen above the diaphragm," or a Barium Swallow study confirming a "sliding" or "[[paraesophageal]]" hernia.
+> 1. **Diagnostic Imaging/Endoscopy:** [[esophagogastroduodenoscopy]] (EGD) reports noting "Z-line displacement," "gastric folds seen above the diaphragm," or a Barium Swallow study confirming a "sliding" or "[[paraesophageal]]" hernia.
 >     
 > 2. **Surgical Documentation:** Operative notes detailing the "[[reduction]] of the stomach into the [[peritoneal]] cavity," "crural closure," or "Nissen/Toupet fundoplication."
 >     

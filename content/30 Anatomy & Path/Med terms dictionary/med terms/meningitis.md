@@ -55,7 +55,7 @@ _____
 > - **[[Meningoencephalitis]]** — simultaneous inflammation of meninges AND brain parenchyma; G04.x; more severe than isolated meningitis
 > - **[[Encephalitis]]** — brain parenchyma inflammation without meningeal involvement; G04.x
 > - **[[Ventriculitis]]** — inflammation of the cerebral ventricles; G04.x; often a complication of bacterial meningitis or VP shunt infection
-> - **[[Septicemia]] / [[Bacteremia]]** — systemic bloodstream infection; meningococcal meningitis is typically preceded by meningococcemia ([[A39.2]])
+> - **[[Septicemia]] / [[bacteremia]]** — systemic bloodstream infection; meningococcal meningitis is typically preceded by meningococcemia ([[A39.2]])
 > - **CSF (Cerebrospinal Fluid)** — the fluid in the subarachnoid space; analyzed by LP to diagnose meningitis
 > - **Lumbar puncture (LP) / Spinal tap** — the diagnostic procedure (CPT [[62270]]) that samples CSF for meningitis diagnosis
 > - **Nuchal rigidity** — neck stiffness from meningeal irritation; a cardinal sign of meningitis

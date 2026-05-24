@@ -111,7 +111,7 @@ _____
 > |**[[85730]]**|Thromboplastin time, partial (PTT); plasma or whole blood; evaluates the intrinsic pathway|
 > |**[[85379]]**|Fibrin degradation products, D-dimer; quantitative|
 > |**[[85240]]**|Blood coagulation factor VIII, VW factor, ristocetin cofactor|
-> |**[[43255]]**|[[Esophagogastroduodenoscopy]], flexible, transoral; with control of bleeding, any method (e.g., via argon plasma coagulation)|
+> |**[[43255]]**|[[esophagogastroduodenoscopy]], flexible, transoral; with control of bleeding, any method (e.g., via argon plasma coagulation)|
 > |**[[45382]]**|Colonoscopy, flexible; with control of bleeding, any method|
 > 
 > ---

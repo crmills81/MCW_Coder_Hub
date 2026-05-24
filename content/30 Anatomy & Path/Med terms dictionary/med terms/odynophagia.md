@@ -65,7 +65,7 @@ _____
 > - **[[Mucositis]]** — chemotherapy or radiation-induced mucosal breakdown; oropharyngeal and esophageal odynophagia
 > - **Plummer-Vinson syndrome / Sideropenic dysphagia** — [[D50.1]]; iron-deficiency anemia with esophageal web; painful dysphagia
 > - **[[Barrett's esophagus]]** — [[K22.70]]; chronic GERD complication found on EGD during odynophagia workup
-> - **[[Esophagogastroduodenoscopy]] (EGD)** — primary diagnostic procedure for odynophagia workup; identifies esophagitis, ulcers, strictures, masses
+> - **[[esophagogastroduodenoscopy]] (EGD)** — primary diagnostic procedure for odynophagia workup; identifies esophagitis, ulcers, strictures, masses
 
 _____
 

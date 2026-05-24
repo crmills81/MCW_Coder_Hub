@@ -72,7 +72,7 @@ _____
 > - **Scleroderma (systemic sclerosis)** — autoimmune connective tissue disease; mat telangiectasias classic on face and hands
 > - **[[Sclerotherapy]]** — gold-standard treatment for lower extremity telangiectasias; injection of sclerosant causes vessel hardening and resorption
 > - **Pulsed dye laser (PDL)** — preferred laser for facial telangiectasias; targets oxyhemoglobin
-> - **[[Epistaxis]]** — most common presenting symptom of HHT; recurrent nosebleeds from nasal mucosal telangiectasias
+> - **[[epistaxis]]** — most common presenting symptom of HHT; recurrent nosebleeds from nasal mucosal telangiectasias
 > - **[[Ectasia]]** — the broader term for any dilation of a hollow or tubular structure; telangiectasia is a form of vascular ectasia
 >
 _____

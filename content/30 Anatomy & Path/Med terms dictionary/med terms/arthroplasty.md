@@ -72,7 +72,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 >
-> - **[[Arthrodesis]]** — the opposite surgical goal of arthroplasty; joint surfaces are fused together to eliminate motion entirely, sacrificing mobility for stability and pain relief — coded by joint site (e.g., **[[M43.27]]** for spinal fusion; CPT **[[27580]]** for ankle arthrodesis)
+> - **[[arthrodesis]]** — the opposite surgical goal of arthroplasty; joint surfaces are fused together to eliminate motion entirely, sacrificing mobility for stability and pain relief — coded by joint site (e.g., **[[M43.27]]** for spinal fusion; CPT **[[27580]]** for ankle arthrodesis)
 > - **[[Arthroscopy]]** — shares the *[[arthr-]]* root; minimally invasive joint visualization and intervention using a fiber-optic scope — does not involve implantation or joint reconstruction; CPT **[[29800]]**-**[[29999]]** series
 > - **[[Arthritis]]** — shares the *[[arthr-]]* root; the primary disease process driving the indication for arthroplasty; end-stage **osteoarthritis** (M16.x, M17.x) and rheumatoid arthritis (M05.x) are the most common indications
 > - **[[osteoarthritis]]** — the leading indication for elective total joint arthroplasty; characterized by progressive cartilage loss, subchondral sclerosis, and osteophyte formation — coded by joint and laterality (**M16.x hip; M17.x knee; M19.x other joints**)

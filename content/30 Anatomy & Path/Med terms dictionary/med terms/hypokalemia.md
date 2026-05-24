@@ -62,7 +62,7 @@ _____
 > - **Cushing's syndrome** — **[[E24.0]]** (pituitary-dependent) / **[[E24.2]]** (drug-induced) / **[[E24.9]]** (unspecified); excess cortisol causes mineralocorticoid-like renal potassium wasting; document and code the Cushing's type as the primary etiology.
 > - **Ventricular arrhythmia** — **[[I49.01]]** (ventricular fibrillation) / **[[I49.02]]** (ventricular flutter) / **[[I47.2]]** (ventricular tachycardia); the most life-threatening complication of severe hypokalemia (K⁺ < 2.5 mEq/L) — always code separately when documented and actively managed.
 > - **Torsades de pointes** — **[[I47.2]]** (ventricular tachycardia); the specific polymorphic VT triggered by hypokalemia-induced QT prolongation — particularly dangerous in patients on QT-prolonging drugs; code as an additional complication when documented.
-> - **[[Hyponatremia]]** — **[[E87.1]]**; frequently co-occurs with hypokalemia in patients on diuretics, vomiting patients, and those with SIADH; code both separately when documented.
+> - **[[hyponatremia]]** — **[[E87.1]]**; frequently co-occurs with hypokalemia in patients on diuretics, vomiting patients, and those with SIADH; code both separately when documented.
 > - **Rhabdomyolysis** — **[[M62.82]]**; severe hypokalemia can impair skeletal muscle membrane stability, precipitating myocyte destruction and rhabdomyolysis — an important complication to query the physician about when CK is dramatically elevated alongside severe hypokalemia.
 
 _____

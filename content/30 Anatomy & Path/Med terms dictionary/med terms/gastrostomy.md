@@ -59,7 +59,7 @@ _____
 > - **[[Colostomy]]** — shares the *[[-stomy]]* root; surgical diversion of the large intestine for fecal elimination.
 > - **[[Dysphagia]]** — difficulty swallowing; the primary pathological symptom and clinical indication driving the need for PEG placement (**e.g., [[R13.10]]**).
 > - **Enteral nutrition** — the physiological and therapeutic process of feeding through the **gastrointestinal tract** using a tube, as opposed to parenteral (IV) nutrition.
-> - **[[Esophagogastroduodenoscopy]] (EGD)** — the diagnostic and therapeutic upper GI endoscopy procedure used to facilitate and guide PEG placement.
+> - **[[esophagogastroduodenoscopy]] (EGD)** — the diagnostic and therapeutic upper GI endoscopy procedure used to facilitate and guide PEG placement.
 
 _____
 
@@ -98,7 +98,7 @@ _____
 > 
 > |CPT Code|Description|
 > |---|---|
-> |**[[43246]]**|[[Esophagogastroduodenoscopy]], flexible, transoral; with directed placement of percutaneous gastrostomy tube (PEG)|
+> |**[[43246]]**|[[esophagogastroduodenoscopy]], flexible, transoral; with directed placement of percutaneous gastrostomy tube (PEG)|
 > |**[[49440]]**|Insertion of gastrostomy tube, percutaneous, under fluoroscopic guidance including contrast injection(s), image documentation and report|
 > |**[[43830]]**|**Gastrostomy**, open; without construction of gastric tube (eg, Stamm procedure) (separate procedure)|
 > |**[[43762]]**|Replacement of **gastrostomy** tube, percutaneous, includes removal, when performed, without imaging or endoscopic guidance; not requiring revision of **gastrostomy** tract|

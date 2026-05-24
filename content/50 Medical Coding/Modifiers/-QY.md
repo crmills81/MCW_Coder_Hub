@@ -17,14 +17,6 @@ aliases:
 code_type: HCPCS Level II Modifier
 descriptor: Anesthesiologist directing one certified registered nurse anesthetist
 category: Anesthesia Modifiers
-global_period: Follows Primary Procedure
-wRVU: N/A (Adjusts Primary Procedure)
-peRVU: N/A
-mpRVU: N/A
-total_RVU: N/A
-assistant_surgeon_payable: N/A (Anesthesia Direction)
-ncci_modifier_indicator: N/A (Applied to Anesthesia Code)
-separate_procedure: false
 ms_drg_primary: Follows Primary Procedure
 last_updated: 2026-03-14
 ---

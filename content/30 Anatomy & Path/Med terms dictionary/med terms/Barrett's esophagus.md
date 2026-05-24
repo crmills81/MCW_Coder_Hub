@@ -79,14 +79,14 @@ _____
 > 
 > **Diagnostic Procedures**
 > 
-> - **[[43235]]**: [[Esophagogastroduodenoscopy]] (EGD), flexible, transoral; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure). _Used for initial diagnosis and surveillance biopsies._
+> - **[[43235]]**: [[esophagogastroduodenoscopy]] (EGD), flexible, transoral; diagnostic, including collection of specimen(s) by brushing or washing, when performed (separate procedure). _Used for initial diagnosis and surveillance biopsies._
 > - **[[43239]]**: EGD with biopsy, single or multiple. _Often billed if biopsies are the primary focus, though 43235 includes brushing/washing; specific biopsy coding rules apply._ (Note: 43235 is the comprehensive diagnostic code often used for Barrett's surveillance).
 > 
 > **Therapeutic Procedures (Ablation/Resection)**
 > 
 > - **[[43216]]**: [[Esophagoscopy]], flexible, transoral; with ablation of tumor(s), polyp(s), or other lesion(s) not amenable to removal by hot biopsy forceps, bipolar cautery or snare technique. _Sometimes used for focal ablation._
 > - **[[43228]]**: [[Esophagoscopy]], flexible, transoral; with thermal ablation of tumor(s), polyp(s), or other lesion(s) (includes pre- and post-dilation and guide wire passage, when performed). _Commonly used for Radiofrequency Ablation (RFA) of Barrett's._
-> - **[[43257]]**: [[Esophagogastroduodenoscopy]], flexible, transoral; with endoscopic mucosal resection (EMR). _Used for removing visible nodules or areas of high-grade dysplasia/early cancer within the Barrett's segment._
+> - **[[43257]]**: [[esophagogastroduodenoscopy]], flexible, transoral; with endoscopic mucosal resection (EMR). _Used for removing visible nodules or areas of high-grade dysplasia/early cancer within the Barrett's segment._
 > - **[[43258]]**: ... with endoscopic submucosal dissection (ESD). _Advanced technique for en-bloc resection of large lesions._
 > 
 > **Other Related CPTs**

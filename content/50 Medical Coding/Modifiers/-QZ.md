@@ -1,10 +1,4 @@
 ---
-title: "-QZ"
-aliases:
-  - Modifier QZ
-  - QZ Modifier
-  - CRNA Without Medical Direction
-  - Independent CRNA Anesthesia
 tags:
   - modifier
   - anesthesia
@@ -14,14 +8,17 @@ tags:
   - unsupervised-anesthesia
   - anesthesia-payment-modifier
   - nonphysician-anesthetist
+title: -QZ
+aliases:
+  - Modifier QZ
+  - QZ Modifier
+  - CRNA Without Medical Direction
+  - Independent CRNA Anesthesia
 modifier_code: QZ
 modifier_type: HCPCS Level II
 full_name: "CRNA Service: Without Medical Direction by a Physician"
-short_definition: "The CRNA personally performed and fully managed the entire anesthesia service without medical direction or supervision by a physician."
+short_definition: The CRNA personally performed and fully managed the entire anesthesia service without medical direction or supervision by a physician.
 reported_by: CRNA (Certified Registered Nurse Anesthetist) only
-use_by_anesthesiologist: false
-use_by_anesthesiologist_assistant: false
-paired_billing: false
 reimbursement_rate: 100% of applicable CRNA fee schedule rate
 opt_out_states: Applies in states where the governor has opted out of the physician supervision requirement for CRNAs (Medicare rule)
 mutually_exclusive_with:
@@ -41,7 +38,7 @@ related_modifiers:
 date_created: 2026-02-23
 date_modified: 2026-02-23
 note_type: modifier-reference
-status: active
+status: Active ✅
 source: CMS Medicare Claims Processing Manual / ASA / Novitas / Moda Health / CMS Transmittal 1859
 ---
 

@@ -65,7 +65,7 @@ definition:
 > - **[[Lymphangitis]]** — inflammation of the lymphatic vessels (not nodes); red streaking tracking from wound toward regional nodes; distinct from lymphadenitis; coded **[[I89.1]]**; often concurrent — code both when documented
 > - **[[Cellulitis]]** — soft tissue bacterial infection that commonly triggers regional lymphadenitis as a secondary finding; sequence cellulitis as principal if it drove admission
 > - **[[Abscess]]** — when lymphadenitis progresses to suppuration; node becomes fluctuant; requires incision and drainage (CPT **[[38300]]** or **[[38305]]**); code abscess formation separately when documented
-> - **[[Bacteremia]] / [[Sepsis]]** — systemic spread from suppurative lymphadenitis; if sepsis criteria met, sequence **[[A41.9]]** (or organism-specific code) as principal; lymphadenitis as additional diagnosis
+> - **[[bacteremia]] / [[Sepsis]]** — systemic spread from suppurative lymphadenitis; if sepsis criteria met, sequence **[[A41.9]]** (or organism-specific code) as principal; lymphadenitis as additional diagnosis
 > - **[[Epstein-Barr virus (EBV) / Infectious mononucleosis]]** — classic cause of bilateral cervical and systemic lymphadenitis in adolescents; coded **[[B27.00]]**-**[[B27.09]]** by type
 > - **[[Cat scratch disease]]** — *Bartonella henselae*; regional suppurative adenitis 1-3 weeks after cat scratch; **[[A28.1]]** is the primary code
 > - **[[Tuberculosis]]** — mycobacterial lymphadenitis (scrofula); **[[A18.2]]** — separate code family; never code as L04 or I88

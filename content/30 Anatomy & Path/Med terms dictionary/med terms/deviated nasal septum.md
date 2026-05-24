@@ -63,7 +63,7 @@ _____
 > - **[[Rhinoplasty]]** — cosmetic or functional surgical reconstruction of the external nose; frequently combined with **[[septoplasty]]** (**[[septorhinoplasty]]**) if the septal deviation severely affects external nasal alignment.
 > - **[[Hypertrophy]]** — commonly seen in the inferior turbinates contralateral to the **septal deviation** as a compensatory mechanism to protect the overly patent airway from cold, dry air.
 > - **[[Rhinosinusitis]]** — **[[inflammation]]** of the paranasal sinuses; a severely deviated septum can mechanically obstruct the sinus ostia in the middle **[[meatus]]**, predisposing patients to this chronic infection (**e.g., [[J32.9]]**).
-> - **[[Epistaxis]]** — **nosebleed**; frequently caused by turbulent airflow drying out the fragile mucosa stretched over a protruding septal deviation or spur (**coded as [[R04.0]]**).
+> - **[[epistaxis]]** — **nosebleed**; frequently caused by turbulent airflow drying out the fragile mucosa stretched over a protruding septal deviation or spur (**coded as [[R04.0]]**).
 > - **Nasal valve collapse** — dynamic inward collapse of the lateral nasal wall; another primary cause of nasal airway obstruction that must be distinguished from septal deviation during examination.
 > - **Computed Tomography (CT)** — primary advanced diagnostic imaging procedure used to evaluate the complex bony anatomy of the nasal septum and paranasal sinuses prior to surgery.
 
