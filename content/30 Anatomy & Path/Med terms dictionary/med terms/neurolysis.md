@@ -64,14 +64,14 @@ _____
 > - **[[Rhizotomy]]** — selective destruction of spinal **nerve** roots, usually for spasticity or radicular pain; targets root entry zone, not peripheral **nerve**.
 > - **[[Nerve block]]** — temporary interruption of **nerve** conduction for diagnostic or short‑term therapeutic purposes; not inherently destructive.
 > - **[[neuralgia]]** — pain in the distribution of a **nerve**; often the indication for **neurolysis**, coded as **[[M79.2]]** (unspecified) or site‑specific codes like **[[G50.0]]** (**[[trigeminal neuralgia]]**).
-> - **[[Causalgia]]** — complex regional pain syndrome **type II** with burning pain; may be treated with **neurolysis**; coded under **[[G56.41]]–[[G56.43]].**
+> - **[[Causalgia]]** — complex regional pain syndrome **type II** with burning pain; may be treated with **neurolysis**; coded under **[[G56.41]]-[[G56.43]].**
 > - **Myofascial pain syndrome** — regional muscle pain with **[[trigger points]]**; **[[neurolysis]]** is not indicated, differentiating it from entrapment neuropathies.
-> - **Nerve entrapment syndrome** — **compression neuropathy** (e.g., **[[carpal tunnel]]** syndrome **[[G56.00]]–[[G56.03]]**); external surgical neurolysis (**decompression**) is curative, while ablative **[[neurolysis]]** is reserved for intractable pain.
+> - **Nerve entrapment syndrome** — **compression neuropathy** (e.g., **[[carpal tunnel]]** syndrome **[[G56.00]]-[[G56.03]]**); external surgical neurolysis (**decompression**) is curative, while ablative **[[neurolysis]]** is reserved for intractable pain.
 
 _____
 
-> [!caution]+ #### CODING CORNER 
-> <br>
+> [!example]+ #### CODING CORNER 
+> 
 > 
 > ### 🏥 ICD-10-CM CODES (Diagnoses Commonly Associated with Neurolysis)
 > 

@@ -36,7 +36,7 @@ definition: A Greek-derived combining form meaning "blood," used as a prefix or 
 ---
 
 >[!Note] DEFINITION of [[hemo-]]
->**hemo-** (also **haemo-**, **hem-**, **haem-**, **hemat-**, **haemat-**) is a combining form derived from the Greek *haima* meaning "**blood**," used at the beginning of medical terms to indicate a relationship to blood — **its composition, movement, pathology, or the procedures performed on it**. Unlike **[[–emia]]**, which is a suffix denoting a *condition of* the blood, **hemo-** is a *prefix or stem* that anchors the term to blood as its subject, with the clinical meaning then shaped by the following element (**e.g., *-rrhage* = bursting forth → [[hemorrhage]]; *[[-lysis]]* = destruction → [[hemolysis]]; *-stasis* = stopping → [[hemostasis]]**). The underlying structural role is purely compositional — **[[hemo-]]** carries no inherent pathological or physiological charge on its own; rather, it localizes the clinical concept to the blood compartment, the **[[vascular]]** space, or blood-derived tissue. It appears in both physiological terms (**e.g., [[hematopoiesis]] — normal blood cell formation**) and pathological terms (**e.g., [[hemoptysis]] — coughing up blood; [[hematoma]] — a collection of clotted blood**). In **ICD-10-CM**, **hemo-** terms are distributed across Chapter 3 (**D50–D89, blood disorders**), Chapter 10 (**J04–J99, respiratory hemorrhage**), Chapter 19 (**S/T codes, traumatic hematomas**), and procedural chapters of **ICD-10-PCS**. It is commonly confused with **[[–emia]]**, which is its suffix counterpart — the key distinction is positional and functional: **hemo-** builds the front of a term and identifies the subject; **-emia** closes the term and names the blood condition.
+>**hemo-** (also **haemo-**, **hem-**, **haem-**, **hemat-**, **haemat-**) is a combining form derived from the Greek *haima* meaning "**blood**," used at the beginning of medical terms to indicate a relationship to blood — **its composition, movement, pathology, or the procedures performed on it**. Unlike **[[-emia]]**, which is a suffix denoting a *condition of* the blood, **hemo-** is a *prefix or stem* that anchors the term to blood as its subject, with the clinical meaning then shaped by the following element (**e.g., *-rrhage* = bursting forth → [[hemorrhage]]; *[[-lysis]]* = destruction → [[hemolysis]]; *-stasis* = stopping → [[hemostasis]]**). The underlying structural role is purely compositional — **[[hemo-]]** carries no inherent pathological or physiological charge on its own; rather, it localizes the clinical concept to the blood compartment, the **[[vascular]]** space, or blood-derived tissue. It appears in both physiological terms (**e.g., [[hematopoiesis]] — normal blood cell formation**) and pathological terms (**e.g., [[hemoptysis]] — coughing up blood; [[hematoma]] — a collection of clotted blood**). In **ICD-10-CM**, **hemo-** terms are distributed across Chapter 3 (**D50-D89, blood disorders**), Chapter 10 (**J04-J99, respiratory hemorrhage**), Chapter 19 (**S/T codes, traumatic hematomas**), and procedural chapters of **ICD-10-PCS**. It is commonly confused with **[[-emia]]**, which is its suffix counterpart — the key distinction is positional and functional: **hemo-** builds the front of a term and identifies the subject; **-emia** closes the term and names the blood condition.
 
 _____
 
@@ -49,7 +49,7 @@ _____
 >|**[[hemat-]]** / **[[haemat-]]**|Greek _haimatos_ (HY-mah-tos), genitive of _haima_|"**of blood**," "**blood's**" — the genitive (possessive) combining form; used before vowel-initial suffixes (e.g., *hemat-ology*, *hemat-oma*) for phonological smoothness|
 >|**[[-o-]]**|Greek linking vowel|Connecting vowel — "**of, pertaining to**" — joins the root to the following element; present in *hemo-* but absent in *hem-* variants used before vowels|
 >
-> The **combining form** entered formal English medical vocabulary in the **1840s–1850s** as *hemo-* and *haemo-* (combining form), borrowed from Greek ***haima*** ("blood") — literally **"blood."** The British variant *haemo-* (and *haem-*) preserves the aspirate and is standard in UK, Australian, and Canadian medical literature; *[[hemo]]-* is the American English standard per AMA style. The root *haima* ("blood") connects **hemo-** to the entire **[[haem-/hem- root family]]**: ***[[hemoglobin]]*** (*haima* + *globus* → blood's globular oxygen carrier), ***[[hemorrhage]]*** (*haima* + *rhegnynai* → bursting forth of blood), ***[[hematopoiesis]]*** (*haima* + *poiesis* → making of blood), and ***[[hemostasis]]*** (*haima* + *[[-stasis]]* → stopping of blood). The root *[[haima]]* is extraordinarily productive in medical terminology, appearing in: ***[[hemophilia]]***, ***[[hematuria]]***, ***[[hemolysis]]***, ***[[hemothorax]]***, ***[[hemodialysis]]***, ***[[hemoptysis]]***, and ***[[-emia]]*** (its suffix form).
+> The **combining form** entered formal English medical vocabulary in the **1840s-1850s** as *hemo-* and *haemo-* (combining form), borrowed from Greek ***haima*** ("blood") — literally **"blood."** The British variant *haemo-* (and *haem-*) preserves the aspirate and is standard in UK, Australian, and Canadian medical literature; *[[hemo]]-* is the American English standard per AMA style. The root *haima* ("blood") connects **hemo-** to the entire **[[haem-/hem- root family]]**: ***[[hemoglobin]]*** (*haima* + *globus* → blood's globular oxygen carrier), ***[[hemorrhage]]*** (*haima* + *rhegnynai* → bursting forth of blood), ***[[hematopoiesis]]*** (*haima* + *poiesis* → making of blood), and ***[[hemostasis]]*** (*haima* + *[[-stasis]]* → stopping of blood). The root *[[haima]]* is extraordinarily productive in medical terminology, appearing in: ***[[hemophilia]]***, ***[[hematuria]]***, ***[[hemolysis]]***, ***[[hemothorax]]***, ***[[hemodialysis]]***, ***[[hemoptysis]]***, and ***[[-emia]]*** (its suffix form).
 
 _____
 
@@ -63,7 +63,7 @@ _____
 > - **[[hemoptysis]]** *(coughing up blood from the respiratory tract; [[R04.2]]; distinct from hematemesis — vomiting blood — [[R10.11]]/ [[K92.0]])*
 > - **[[hematemesis]]** *(vomiting of blood — GI source; [[K92.0]]; clinically and anatomically distinct from hemoptysis; both begin with hemo- but differ entirely in site and mechanism)*
 > - **[[hemothorax]]** *(blood in the pleural space; [[J94.2]] nontraumatic, [[S27.1XXA]] traumatic; common post-surgical or trauma complication)*
-> - **[[hemarthrosis]]** *(blood in a joint space; [[M25.00]]–[[M25.07]] by site; seen in hemophilia and traumatic joint injuries)*
+> - **[[hemarthrosis]]** *(blood in a joint space; [[M25.00]]-[[M25.07]] by site; seen in hemophilia and traumatic joint injuries)*
 > - **[[hemoperitoneum]]** *(blood in the peritoneal cavity; [[K66.1]]; post-surgical or traumatic; high acuity inpatient diagnosis)*
 > - **[[hemopneumothorax]]** *(combined blood and air in the pleural space; [[J94.2]] / [[S27.2XXA]]; trauma-associated)*
 > - **[[hemodialysis]]** *(extracorporeal blood purification for renal failure; [[Z99.2]] dependence on renal dialysis; paired with [[N18.6]] ESRD in urology inpatient accounts)*
@@ -75,21 +75,21 @@ _____
 > - **[[-emia]]** — the suffix counterpart to **hemo-**; where *hemo-* builds the front of a term identifying blood as subject, *-emia* closes the term naming a *condition of* the blood (**e.g., [[anemia]], [[uremia]], [[leukemia]]**); the two roots share the same Greek ancestor *haima* but occupy opposite structural positions in a word
 > - **[[-uria]]** — suffix meaning "substance in the urine"; frequently paired with hemo- concepts in urology (e.g., [[hematuria]] bridges both roots — blood [hemo-] found in urine [-uria]); distinguish from [[hemoglobinuria]], where free hemoglobin — not intact red cells — appears in urine
 > - **[[hemostasis]]** — the physiological process of stopping blood flow through vasoconstriction, platelet aggregation, and coagulation; the clinical goal of hemo- procedures in surgical settings; disrupted in [[hemophilia]] and coagulopathies
-> - **[[hematopoiesis]]** — normal blood cell formation occurring in the bone marrow; the productive/physiological counterpart to most pathological hemo- conditions; disrupted in aplastic anemia (D61.x) and [[leukemia]] (C91–C95.x)
-> - **[[hemolysis]]** — destruction or breakdown of red blood cells, releasing hemoglobin into plasma; the core mechanism of hemolytic anemias (D55–D59.x); can be intravascular or extravascular
+> - **[[hematopoiesis]]** — normal blood cell formation occurring in the bone marrow; the productive/physiological counterpart to most pathological hemo- conditions; disrupted in aplastic anemia (D61.x) and [[leukemia]] (C91-C95.x)
+> - **[[hemolysis]]** — destruction or breakdown of red blood cells, releasing hemoglobin into plasma; the core mechanism of hemolytic anemias (D55-D59.x); can be intravascular or extravascular
 > - **[[coagulation]]** — the biochemical cascade converting fibrinogen to fibrin to form a blood clot; the mechanism underlying both [[hemostasis]] (therapeutic) and [[thrombosis]] (pathological); key to understanding hemo- bleeding disorders
 > - **[[hemophilia]]** — X-linked hereditary bleeding disorder due to deficiency of coagulation factors; Hemophilia A (D66) — factor VIII deficiency; Hemophilia B (D67) — factor IX deficiency; the prototypical hemo- named disease
 > - **hemoglobinopathy** — genetic disorder of hemoglobin structure or production; includes [[sickle cell disease]] (D57.x) and [[thalassemia]] (D56.x); major source of inpatient hematology admissions
 > - **disseminated intravascular coagulation (DIC)** — systemic coagulation and fibrinolysis consuming clotting factors and platelets; D65; life-threatening hemo- emergency; MCC on inpatient accounts
 > - **[[thrombocytopenia]]** — abnormal reduction in platelet count; [[D69.6]] unspecified; often a secondary finding with [[hemo-]] bleeding presentations; distinguish etiology (immune vs. drug-induced vs. consumption)
-> - **[[anemia]]** — the most clinically common blood condition; reduction in hemoglobin or red cell mass; shares the *haima* root with [[hemo-]]; coded D50–D64 by type and etiology
+> - **[[anemia]]** — the most clinically common blood condition; reduction in hemoglobin or red cell mass; shares the *haima* root with [[hemo-]]; coded D50-D64 by type and etiology
 > - **[[hematology]]** — the medical specialty dedicated to the study and treatment of blood disorders; the clinical home of most hemo- diagnoses and procedures
 > - **complete blood count (CBC)** — primary diagnostic laboratory tool for evaluating [[hemo-]] conditions; includes RBC, WBC, hemoglobin, hematocrit, platelets, and differential; CPT [[85025]]
 
 _____
 
-> [!caution]+ #### CODING CORNER
-> <br>
+> [!example]+ #### CODING CORNER
+> 
 >
 > ### 🏥 ICD-10-CM CODES
 >
@@ -153,7 +153,7 @@ _____
 > |**[[M25.071]]**|Hemarthrosis, right ankle|
 > |**[[M25.072]]**|Hemarthrosis, left ankle|
 >
-> #### Hemophilia & Coagulation Defects (D65–D68)
+> #### Hemophilia & Coagulation Defects (D65-D68)
 >
 > |Code|Description|
 > |---|---|

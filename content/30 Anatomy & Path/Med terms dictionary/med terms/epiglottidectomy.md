@@ -54,7 +54,7 @@ _____
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 > 
 > - **Epiglottidectomic / epiglottidectomized** _(adjective form — include 2-3 clinical collocations where this adjective form appears, e.g., "epiglottidectomic defect," "epiglottidectomic margin," "epiglottidectomized airway")_
-> - **Epiglottis excision / epiglottis removal** _(lay and clinical term; note specialty context — e.g., otolaryngology–head and neck surgery, pediatric airway surgery)_
+> - **Epiglottis excision / epiglottis removal** _(lay and clinical term; note specialty context — e.g., otolaryngology-head and neck surgery, pediatric airway surgery)_
 > - **Partial epiglottidectomy** _(define briefly — e.g., removal of a portion of the epiglottic cartilage preserving the aryepiglottic folds and supraglottic framework; note relationship to main term as a lesser manifestation)_
 > - **Epiglottic stripping** _(clinical synonym used in specific context — e.g., endoscopic removal of the epiglottic mucosa and submucosa; coded under [[31540]] when performed via direct laryngoscopy)_
 > - **Supraglottic laryngectomy|Supraglottic laryngectomy** _(define this alias briefly and note its ICD-10-CM code — e.g., oncologic resection of the entire supraglottis including the epiglottis, false cords, and aryepiglottic folds; reported with [[31367]] or [[31368]])_
@@ -136,7 +136,7 @@ _____
 > |**[[31500]]**|Intubation, endotracheal, emergency procedure (for acute epiglottitis with airway compromise)|
 > |**[[99284]]**|Emergency department E/M, level 4 (for acute epiglottitis requiring airway intervention)|
 > |**[[99285]]**|Emergency department E/M, level 5 (for imminent airway obstruction)|
-> |**[[99291]]**|Critical care, first 30–74 minutes (for postoperative airway monitoring or severe epiglottitis)|
+> |**[[99291]]**|Critical care, first 30-74 minutes (for postoperative airway monitoring or severe epiglottitis)|
 > 
 > ---
 > 

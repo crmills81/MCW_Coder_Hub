@@ -49,12 +49,12 @@ _____
 > - **Altered mental status (AMS)** _(broad clinical term encompassing confusion, disorientation, lethargy, and obtundation; when the clinician documents AMS and identifies a metabolic cause, code the encephalopathy — do not code AMS separately; [[R41.3]] if no etiology established)_
 > - **Metabolic encephalopathy** _(encephalopathy caused by any metabolic derangement — electrolyte imbalance, hypoglycemia, uremia, hepatic failure, CO2 retention; [[G93.41]]; the most commonly assigned encephalopathy code in inpatient settings)_
 > - **Hepatic encephalopathy** _(brain dysfunction caused by liver failure with accumulation of ammonia and neurotoxins; [[K72.90]] without coma, [[K72.91]] with coma; sequences as principal or additional diagnosis depending on admission reason)_
-> - **Hypoxic-ischemic encephalopathy (HIE)** _(brain injury from combined oxygen and blood flow deprivation; [[G93.1]]; post-cardiac arrest encephalopathy is the most common adult form; neonatal HIE coded separately to [[P91.60]]–[[P91.63]])_
+> - **Hypoxic-ischemic encephalopathy (HIE)** _(brain injury from combined oxygen and blood flow deprivation; [[G93.1]]; post-cardiac arrest encephalopathy is the most common adult form; neonatal HIE coded separately to [[P91.60]]-[[P91.63]])_
 > - **Toxic encephalopathy** _(brain dysfunction caused by exogenous toxins, drugs, heavy metals, or chemical agents; [[G92.8]] other toxic, [[G92.9]] unspecified toxic; requires T-code for the toxic substance as additional diagnosis)_
 > - **Wernicke encephalopathy** _(thiamine-deficiency encephalopathy with classic triad of confusion, ophthalmoplegia, and ataxia; [[E51.2]]; high-risk populations include alcoholism, malnutrition, prolonged IV nutrition without thiamine supplementation)_
 > - **Hypertensive encephalopathy** _(acute brain dysfunction due to severe hypertension exceeding autoregulatory capacity; [[I67.4]]; associated with posterior reversible encephalopathy syndrome, PRES)_
 > - **Septic encephalopathy** _(brain dysfunction in the setting of systemic sepsis, without direct CNS infection; coded to [[G93.41]] metabolic encephalopathy plus sepsis code; one of the most common causes of ICU-level altered mental status)_
-> - **Uremic encephalopathy** _(brain dysfunction caused by accumulation of uremic toxins in renal failure; coded to [[G93.41]] plus [[N18.x]] for the CKD stage; distinguished from dialysis disequilibrium syndrome)_
+> - **Uremic encephalopathy** _(brain dysfunction caused by accumulation of uremic toxins in renal failure; coded to [[G93.41]] plus N18.x for the CKD stage; distinguished from dialysis disequilibrium syndrome)_
 > - **Posterior reversible encephalopathy syndrome (PRES)** _(vasogenic edema of posterior cerebral regions associated with hypertension, eclampsia, immunosuppressants, or sepsis; [[I67.83]]; reversible with blood pressure control)_
 > - **Chronic traumatic encephalopathy (CTE)** _(progressive neurodegenerative encephalopathy from repetitive head trauma; [[G31.85]]; distinct from acute traumatic brain injury)_
 
@@ -62,23 +62,23 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 >
-> - **[[encephalitis]]** — the most clinically critical distinction: encephalitis implies primary neuroinflammation (infectious or autoimmune), while encephalopathy implies brain dysfunction from a systemic or exogenous cause without primary inflammation; the two are frequently conflated in physician documentation — query when CSF, MRI, or clinical pattern suggests inflammation in a patient coded only to encephalopathy
-> - **[[Delirium]]** — the acute neurobehavioral syndrome (fluctuating confusion, inattention, altered arousal) that is the clinical expression of encephalopathy; [[F05]] for delirium not superimposed on dementia; both codes may be assigned when clearly documented; encephalopathy is the preferred code when an identified metabolic/toxic cause is documented
-> - **[[Coma]]** — the most severe point on the encephalopathy spectrum; coded separately with [[R40.20]]–[[R40.24]] Glasgow Coma Scale codes as required by guidelines; hepatic coma specifically captured by [[K72.91]] (hepatic failure with coma)
-> - **[[Dementia]]** — a chronic, progressive cognitive decline syndrome distinct from acute/subacute encephalopathy; encephalopathy superimposed on dementia is a common inpatient scenario and both should be coded; delirium superimposed on dementia codes to [[F05]]
+> - **[[encephalitis]]** — the most clinically critical distinction: encephalitis implies primary neuroinflammation (infectious or [[autoimmune]]), while encephalopathy implies brain dysfunction from a systemic or exogenous cause without primary inflammation; the two are frequently conflated in physician documentation — query when CSF, MRI, or clinical pattern suggests inflammation in a patient coded only to encephalopathy
+> - **[[Delirium]]** — the acute neurobehavioral syndrome (fluctuating confusion, inattention, altered arousal) that is the clinical expression of [[encephalopathy]]; [[F05]] for delirium not superimposed on dementia; both codes may be assigned when clearly documented; encephalopathy is the preferred code when an identified metabolic/toxic cause is documented
+> - **[[Coma]]** — the most severe point on the encephalopathy spectrum; coded separately with [[R40.20]]-[[R40.24]] Glasgow Coma Scale codes as required by guidelines; hepatic coma specifically captured by [[K72.91]] (hepatic failure with coma)
+> - **[[Dementia]]** — a chronic, progressive cognitive decline syndrome distinct from acute/subacute [[encephalopathy]]; encephalopathy superimposed on dementia is a common inpatient scenario and both should be coded; delirium superimposed on [[dementia]] codes to [[F05]]
 > - **[[Asterixis]]** — a characteristic motor finding (flapping tremor of outstretched hands) highly associated with hepatic, uremic, and CO2-retention encephalopathy; coded to [[R25.1]] (tremor, unspecified) or [[R25.8]] when documented; a documentation trigger to query underlying encephalopathy type
-> - **[[Ammonia]]** — the primary neurotoxin in hepatic encephalopathy; elevated serum ammonia ([[E72.21]] hyperammonemia) drives astrocyte swelling and cerebral edema in acute liver failure; ammonia levels guide clinical management
+> - **[[Ammonia]]** — the primary neurotoxin in hepatic [[encephalopathy]]; elevated serum ammonia ([[E72.21]] hyperammonemia) drives astrocyte swelling and cerebral edema in acute liver failure; ammonia levels guide clinical management
 > - **Blood-brain barrier** — the selective endothelial barrier separating systemic circulation from CNS parenchyma; disruption of the BBB is a common pathway in both toxic and septic encephalopathy, allowing neurotoxic substances access to CNS tissue
-> - **Glasgow Coma Scale (GCS)** — the standardized neurological assessment tool for level of consciousness; ICD-10-CM requires GCS score coding (R40.21x–R40.23x) for most comatose patients and for trauma patients; relevant to encephalopathy severity documentation
-> - **Posterior reversible encephalopathy syndrome (PRES)** — a neuroimaging-defined syndrome of vasogenic cerebral edema in posterior regions; [[I67.83]]; closely associated with hypertensive encephalopathy, eclampsia, and calcineurin inhibitor toxicity; MRI is diagnostic
+> - **Glasgow Coma Scale (GCS)** — the standardized neurological assessment tool for level of consciousness; ICD-10-CM requires GCS score coding (R40.21x-R40.23x) for most comatose patients and for trauma patients; relevant to encephalopathy severity documentation
+> - **Posterior reversible encephalopathy syndrome (PRES)** — a neuroimaging-defined syndrome of vasogenic cerebral [[edema]] in posterior regions; [[I67.83]]; closely associated with hypertensive [[encephalopathy]], [[eclampsia]], and calcineurin inhibitor toxicity; MRI is diagnostic
 > - **Thiamine (Vitamin B1)** — the essential cofactor whose deficiency causes Wernicke encephalopathy ([[E51.2]]); deficiency coded to [[E51.9]] thiamine deficiency unspecified or [[E51.11]] dry beriberi, [[E51.12]] wet beriberi; IV thiamine administration is urgent and life-saving
-> - **Hepatic failure** — the primary driver of hepatic encephalopathy; [[K72.00]] acute hepatic failure without coma, [[K72.01]] with coma; distinguish acute (K72.0x), subacute (K72.0x), and chronic (K72.1x) forms — each has a with/without coma variant
+> - **Hepatic failure** — the primary driver of hepatic encephalopathy; [[K72.00]] acute hepatic failure without [[coma]], [[K72.01]] with coma; distinguish acute (K72.0x), subacute (K72.0x), and chronic (K72.1x) forms — each has a with/without coma variant
 > - **EEG (Electroencephalogram)** — key diagnostic tool for encephalopathy; triphasic waves are classic for metabolic/hepatic encephalopathy; continuous EEG monitoring detects nonconvulsive status epilepticus complicating encephalopathy; CPT [[95812]], [[95819]], [[95950]]
 
 _____
 
-> [!caution]+ #### CODING CORNER
-> <br>
+> [!example]+ #### CODING CORNER
+> 
 >
 > ### 🏥 ICD-10-CM CODES
 >
@@ -180,7 +180,7 @@ _____
 > |CPT Code|Description|
 > |---|---|
 > |**[[62270]]**|Spinal puncture, lumbar, diagnostic (CSF analysis to rule out encephalitis when encephalopathy etiology is unclear)|
-> |**[[95812]]**|Electroencephalogram (EEG); 41–60 minutes (triphasic waves diagnostic of metabolic/hepatic encephalopathy; nonconvulsive seizure detection)|
+> |**[[95812]]**|Electroencephalogram (EEG); 41-60 minutes (triphasic waves diagnostic of metabolic/hepatic encephalopathy; nonconvulsive seizure detection)|
 > |**[[95813]]**|Electroencephalogram (EEG); greater than 1 hour|
 > |**[[95819]]**|Electroencephalogram (EEG); awake and asleep|
 > |**[[95950]]**|Monitoring for localization of cerebral seizure focus, 24 hours (continuous EEG monitoring in encephalopathic ICU patients)|
@@ -194,7 +194,7 @@ _____
 > |**[[86851]]**|Platelet neutralization procedure (part of coagulopathy workup in acute hepatic failure with encephalopathy)|
 > |**[[99232]]**|Subsequent hospital care, moderate complexity (daily management of encephalopathy admission)|
 > |**[[99233]]**|Subsequent hospital care, high complexity|
-> |**[[99291]]**|Critical care, first 30–74 minutes (severe encephalopathy with coma, ICU-level management)|
+> |**[[99291]]**|Critical care, first 30-74 minutes (severe encephalopathy with coma, ICU-level management)|
 > |**[[99292]]**|Critical care, each additional 30 minutes|
 >
 > ---

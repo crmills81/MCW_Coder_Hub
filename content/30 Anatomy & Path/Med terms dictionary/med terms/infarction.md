@@ -72,7 +72,7 @@ _____
 > - **[[Atherosclerosis]]** — the chronic plaque-forming disease of arterial walls that predisposes to thrombotic occlusion and infarction; underlying condition sequenced first when causal relationship is documented
 > - **Reperfusion injury** — paradoxical tissue damage that occurs when blood flow is restored to an ischemic zone; relevant in post-thrombolysis MI and stroke coding as a complication
 > - **[[Apoptosis]]** — programmed, regulated cell death; distinguished from the uncontrolled necrosis of infarction; relevant in understanding peri-infarct penumbra zone in cerebral infarction
-> - **Myocardial infarction (MI)** — infarction of cardiac muscle; the prototypical clinical form; STEMI ([[I21.0]]–I21.2x) vs. NSTEMI ([[I21.4]]) distinction critical for DRG assignment (MS-DRG 280–282)
+> - **Myocardial infarction (MI)** — infarction of cardiac muscle; the prototypical clinical form; STEMI ([[I21.0]]-I21.2x) vs. NSTEMI ([[I21.4]]) distinction critical for DRG assignment (MS-DRG 280-282)
 > - **[[Cerebral infarction]]** — infarction of brain parenchyma from arterial or venous occlusion or hypoperfusion; coded under [[I63.9]] and subcategories; dominant diagnosis in stroke rehabilitation IRF admissions
 > - **Pulmonary infarction** — hemorrhagic infarction of lung tissue from pulmonary embolism; coded under [[I26.99]] (PE without acute cor pulmonale) or [[I26.09]] (with acute cor pulmonale)
 > - **Renal infarction** — ischemic necrosis of renal parenchyma from arterial embolism or thrombosis; coded under [[N28.0]]
@@ -85,7 +85,7 @@ _____
 >
 > ### 🏥 ICD-10-CM CODES
 >
-> #### Myocardial Infarction — STEMI (I21.0x–I21.2x | Site Required)
+> #### Myocardial Infarction — STEMI (I21.0x-I21.2x | Site Required)
 >
 > |Code|Description|
 > |---|---|
@@ -205,7 +205,7 @@ _____
 > |**[[93798]]**|Physician services for outpatient cardiac rehabilitation with continuous ECG monitoring, per session|
 > ---
 >
-> > ⚠️ **Coding Note:** When **coding myocardial infarction**, the **STEMI** vs. **NSTEMI** distinction (**I21.0x–I21.3 vs. I21.4**) is mandatory for both correct code assignment and accurate DRG assignment to **MS-DRG 280, 281, or 282** — query the attending if only "**acute MI**" is documented without type specification. For **[[cerebral infarction]]**, the I63.x subcategory requires documentation of the underlying mechanism (**[[thrombosis]], [[embolism]], unspecified [[occlusion]], or [[venous]]**) and the specific vessel affected; **[[I63.9]]** is a common undercoding default — when imaging reports identify a specific vessel, that level of specificity should be reflected in the code. A high-value undercoding alert: I23.x complication codes (**ventricular septal defect, [[papillary]] muscle rupture, [[hemopericardium]]**) are frequently missed as additional diagnoses on acute MI admissions — review **echo** reports and cardiology notes for mechanical complications documentation. For inpatient sequencing, when a patient is admitted with an MI and undergoes PCI (**[[92941]]**), the MI code remains the principal diagnosis; subsequent **MI** (I22.x) codes within 28 days of a prior MI must be distinguished from a new acute event and coded accordingly. Payer-specific: **UnitedHealthcare** and **Aetna** replacement plans frequently require documentation of **ejection fraction** and Killip class for **MI** authorization and DRG validation on post-acute transfers.
+> > ⚠️ **Coding Note:** When **coding myocardial infarction**, the **STEMI** vs. **NSTEMI** distinction (**I21.0x-I21.3 vs. I21.4**) is mandatory for both correct code assignment and accurate DRG assignment to **MS-DRG 280, 281, or 282** — query the attending if only "**acute MI**" is documented without type specification. For **[[cerebral infarction]]**, the I63.x subcategory requires documentation of the underlying mechanism (**[[thrombosis]], [[embolism]], unspecified [[occlusion]], or [[venous]]**) and the specific vessel affected; **[[I63.9]]** is a common undercoding default — when imaging reports identify a specific vessel, that level of specificity should be reflected in the code. A high-value undercoding alert: I23.x complication codes (**ventricular septal defect, [[papillary]] muscle rupture, [[hemopericardium]]**) are frequently missed as additional diagnoses on acute MI admissions — review **echo** reports and cardiology notes for mechanical complications documentation. For inpatient sequencing, when a patient is admitted with an MI and undergoes PCI (**[[92941]]**), the MI code remains the principal diagnosis; subsequent **MI** (I22.x) codes within 28 days of a prior MI must be distinguished from a new acute event and coded accordingly. Payer-specific: **UnitedHealthcare** and **Aetna** replacement plans frequently require documentation of **ejection fraction** and Killip class for **MI** authorization and DRG validation on post-acute transfers.
 
 _____
 

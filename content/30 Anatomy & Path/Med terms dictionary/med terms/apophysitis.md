@@ -67,9 +67,9 @@ _____
 > 
 > - **[[Apophysis]]** — the bony prominence or secondary ossification center that is the anatomic target of apophysitis; located at musculotendinous attachment sites; not an articular surface
 > - **[[Epiphysis]]** — shares the *[[-physis]]* root; the articular end of a long bone with its own growth plate (**[[physis]]**); epiphyseal injuries are classified under Salter-Harris fracture coding, NOT M92.x
-> - **[[Osteochondrosis]]** — the broader disease family to which apophysitis belongs in ICD-10-CM; classified under M91–M94 (Osteopathies and Chondropathies); apophysitis is a subtype of juvenile osteochondrosis
+> - **[[osteochondrosis]]** — the broader disease family to which apophysitis belongs in ICD-10-CM; classified under M91-M94 (Osteopathies and Chondropathies); apophysitis is a subtype of juvenile osteochondrosis
 > - **Osteochondritis dissecans** — related but distinct; involves fragmentation of articular cartilage and subchondral bone at a joint surface (e.g., knee, elbow); coded under M93.2x — do NOT confuse with apophysitis, which is non-articular
-> - **[[Physis]]** — the cartilaginous growth plate itself; the zone of vulnerability in apophysitis; represents the weakest link under repetitive traction loading in skeletally immature bone
+> - **[[physis]]** — the cartilaginous growth plate itself; the zone of vulnerability in apophysitis; represents the weakest link under repetitive traction loading in skeletally immature bone
 > - **Avulsion fracture** — acute complete separation of the apophysis; the end-stage failure of the same traction mechanism that causes apophysitis; coded under fracture codes, not M92.x — distinguish by imaging and acuity of presentation
 > - **Stress fracture** — repetitive microtrauma injury like apophysitis, but occurring in cortical/trabecular bone rather than at a cartilaginous growth plate; often confused in adolescent athletes
 > - **Sever's disease** — the eponym for calcaneal apophysitis; coined by James Warren Sever in 1912; now increasingly replaced in clinical documentation by the anatomic term "calcaneal **apophysitis**"; coded under M92.6x

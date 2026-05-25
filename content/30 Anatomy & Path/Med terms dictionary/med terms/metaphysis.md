@@ -51,10 +51,10 @@ _____
 > - **Metaphyseal neck** _(anatomic sub-region term used in orthopedic imaging to describe the narrowest transition zone of the metaphysis immediately adjacent to the physis; commonly referenced in fracture pattern descriptions — e.g., "subcapital," "femoral neck" fractures at the proximal femoral metaphysis)_
 > - **Juxtaphyseal region** _(clinical synonym for the metaphyseal zone immediately adjacent to the growth plate; used especially in tumor and infection contexts to emphasize proximity to the physis)_
 > - **Cancellous bone** _(structural synonym for the internal trabecular architecture that fills the metaphysis — as opposed to the compact cortical bone of the diaphysis; the open latticework of cancellous bone is the structural reason the metaphysis is vulnerable to compression fracture and tumor infiltration)_
-> - **Torus fracture** _(buckle fracture; the signature pediatric metaphyseal fracture pattern — cortical buckling without complete cortical break; occurs at the distal radial metaphysis most commonly; [[S52.501A]]–[[S52.509A]] for acute initial encounters)_
+> - **Torus fracture** _(buckle fracture; the signature pediatric metaphyseal fracture pattern — cortical buckling without complete cortical break; occurs at the distal radial metaphysis most commonly; [[S52.501A]]-[[S52.509A]] for acute initial encounters)_
 > - **Greenstick fracture** _(incomplete fracture through the metaphysis in a young child's compliant bone — one cortex breaks, the other bends; coded by site and encounter with S-series fracture codes)_
-> - **Metaphyseal osteomyelitis** _(the classical form of acute hematogenous osteomyelitis in children — bacteria seed the metaphyseal sinusoids and establish infection in the cancellous bone; coded under M86.0x–M86.2x with site specificity)_
-> - **Brodie's abscess** _(a subacute or chronic walled-off metaphyseal abscess representing a contained, low-virulence form of metaphyseal osteomyelitis; coded under [[M86.8X1]]–[[M86.8X9]] per site)_
+> - **Metaphyseal osteomyelitis** _(the classical form of acute hematogenous osteomyelitis in children — bacteria seed the metaphyseal sinusoids and establish infection in the cancellous bone; coded under M86.0x-M86.2x with site specificity)_
+> - **Brodie's abscess** _(a subacute or chronic walled-off metaphyseal abscess representing a contained, low-virulence form of metaphyseal osteomyelitis; coded under [[M86.8X1]]-[[M86.8X9]] per site)_
 > - **Zone of provisional calcification** _(histologic term for the distal metaphyseal layer where cartilage matrix is calcified and replaced by woven bone — the first layer of true metaphyseal bone formation; disrupted in rickets, producing the "fraying" and "cupping" of the metaphysis on radiograph)_
 
 _____
@@ -63,21 +63,21 @@ _____
 >
 > - **[[Diaphysis]]** — the cylindrical cortical shaft of the long bone, proximal and distal to the metaphysis; transitions gradually into the metaphysis at the "metaphyseal-diaphyseal junction"; diaphyseal fractures and osteomyelitis are coded separately from metaphyseal disease
 > - **[[Epiphysis]]** — the articular end of the long bone, separated from the metaphysis by the [[physis]] in skeletally immature patients; once the physis fuses, the former metaphysis merges with the epiphysis; the epiphyseal blood supply is independent of the metaphyseal supply, which is why epiphyseal avascular necrosis can occur even with intact metaphyseal vasculature
-> - **[[Physis]]** — the cartilaginous growth plate residing between the epiphysis and the metaphysis; the zone of longitudinal bone growth; the metaphysis is defined by its position *beyond* the physis; [[Salter-Harris fracture]] patterns involve the physis and variably extend into the metaphysis (Types II, IV) or epiphysis (Types III, IV)
+> - **[[physis]]** — the cartilaginous growth plate residing between the epiphysis and the metaphysis; the zone of longitudinal bone growth; the metaphysis is defined by its position *beyond* the physis; [[Salter-Harris fracture]] patterns involve the physis and variably extend into the metaphysis (Types II, IV) or epiphysis (Types III, IV)
 > - **Epiphyseal plate** — synonymous with physis; the cartilaginous disc whose chondrocyte proliferation and hypertrophy drive the longitudinal growth that the metaphysis converts to bone via endochondral ossification
 > - **Endochondral ossification** — the biological process that defines metaphyseal function: chondrocytes in the physis hypertrophy, mineralize, and are replaced by osteoblasts that lay down woven bone in the primary spongiosa of the metaphysis, which is then remodeled to lamellar bone in the secondary spongiosa
-> - **[[Osteomyelitis]]** — bone infection; the metaphysis is the most common site in children due to its sluggish sinusoidal circulation and lack of phagocytic cells; coded under M86.0x–M86.6x with required site specificity and laterality
+> - **[[Osteomyelitis]]** — bone infection; the metaphysis is the most common site in children due to its sluggish sinusoidal circulation and lack of phagocytic cells; coded under M86.0x-M86.6x with required site specificity and laterality
 > - **[[Osteosarcoma]]** — the most common primary malignant bone tumor; arises almost exclusively in the metaphysis of long bones (distal femur, proximal tibia, proximal humerus) in the second decade of life; coded under **[[C40.21]], [[C40.22]], [[C40.11]], [[C40.12]], [[C40.01]], [[C40.02]]** with laterality
 > - **Giant cell tumor of bone** — a locally aggressive primary bone tumor that characteristically arises in the *epiphysis* and extends into the metaphysis after physeal fusion; coded under [[D48.0]] (bone neoplasm, unspecified behavior) with site-specific codes when available
 > - **[[Salter-Harris fracture]]** — the classification system for physeal fractures; Types II and IV extend into the metaphysis and are the most clinically common; coded with S-series fracture codes + 7th character for encounter type
 > - **[[Rickets]]** — metabolic bone disease causing failure of metaphyseal mineralization; produces characteristic radiographic findings of metaphyseal fraying, cupping, and widening; coded under [[E55.0]] (rickets, active) with additional codes for underlying mineral deficiency
-> - **Pathological fracture** — fracture through abnormal metaphyseal bone (e.g., metastatic disease, primary tumor, osteomyelitis); coded under M84.5x– or M84.6x– with site, laterality, and encounter-type 7th character; must "code also" the underlying neoplasm
+> - **Pathological fracture** — fracture through abnormal metaphyseal bone (e.g., metastatic disease, primary [[tumor]], osteomyelitis); coded under M84.5x- or M84.6x- with site, laterality, and encounter-type 7th character; must "code also" the underlying neoplasm
 > - **[[Periosteum]]** — the fibrous membrane tightly adherent to the outer cortex of the metaphysis; in children, the metaphyseal periosteum is loosely attached, allowing subperiosteal pus to spread rapidly in osteomyelitis — a key reason pediatric osteomyelitis can present with dramatic soft-tissue swelling
 
 _____
 
-> [!cite]+ #### CODING CORNER
-> <br>
+> [!example]+ #### CODING CORNER
+> 
 >
 > ### 🏥 ICD-10-CM CODES
 >

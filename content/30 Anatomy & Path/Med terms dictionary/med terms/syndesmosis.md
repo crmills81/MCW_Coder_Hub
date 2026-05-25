@@ -31,7 +31,7 @@ definition: A fibrous joint in which two adjacent bones are bound together by an
 ---
 
 >[!Note] DEFINITION of [[syndesmosis]]
->**Syndesmosis** is a type of fibrous joint (**and a subtype of [[synarthrosis]]**) in which two adjacent bones are held together by dense connective tissue in the form of an interosseous ligament, interosseous membrane, or strong fibrous band, with no synovial cavity present. Unlike a suture (**bones joined edge-to-edge by minimal fibrous tissue**) or a **[[gomphosis]] (peg-in-socket)**, **syndesmosis** allows a slight degree of movement — placing it functionally on the border between true **[[synarthrosis]]** and **[[amphiarthrosis]]**, depending on the amount of connective tissue present. The structural mechanism involves tightly packed collagen fiber bundles running between opposing bony surfaces; the length and tension of these fibers determine how much "give" the joint allows. The most clinically significant **syndesmosis** is the **distal tibiofibular syndesmosis**, stabilized by four ligaments — the **anterior inferior tibiofibular ligament (AITFL), posterior inferior tibiofibular ligament (PITFL), transverse ligament, and interosseous ligament** — and is frequently injured in high-energy ankle trauma (**commonly coded [[S93.431A]]–[[S93.439A]] for tibiofibular ligament sprains**). **Syndesmosis** is commonly confused with **[[amphiarthrosis]]**, but the key distinction is structural: **syndesmosis** is defined by the type of uniting tissue (**ligamentous/fibrous**), whereas **amphiarthrosis** is defined purely by degree of motion — the two categories significantly overlap at the distal tibiofibular joint.
+>**Syndesmosis** is a type of fibrous joint (**and a subtype of [[synarthrosis]]**) in which two adjacent bones are held together by dense connective tissue in the form of an interosseous ligament, interosseous membrane, or strong fibrous band, with no synovial cavity present. Unlike a suture (**bones joined edge-to-edge by minimal fibrous tissue**) or a **[[gomphosis]] (peg-in-socket)**, **syndesmosis** allows a slight degree of movement — placing it functionally on the border between true **[[synarthrosis]]** and **[[amphiarthrosis]]**, depending on the amount of connective tissue present. The structural mechanism involves tightly packed collagen fiber bundles running between opposing bony surfaces; the length and tension of these fibers determine how much "give" the joint allows. The most clinically significant **syndesmosis** is the **distal tibiofibular syndesmosis**, stabilized by four ligaments — the **anterior inferior tibiofibular ligament (AITFL), posterior inferior tibiofibular ligament (PITFL), transverse ligament, and interosseous ligament** — and is frequently injured in high-energy ankle trauma (**commonly coded [[S93.431A]]-[[S93.439A]] for tibiofibular ligament sprains**). **Syndesmosis** is commonly confused with **[[amphiarthrosis]]**, but the key distinction is structural: **syndesmosis** is defined by the type of uniting tissue (**ligamentous/fibrous**), whereas **amphiarthrosis** is defined purely by degree of motion — the two categories significantly overlap at the distal tibiofibular joint.
 
 _____
 
@@ -55,8 +55,8 @@ _____
 > - **Fibrous joint** _(structural classification synonym; syndesmosis is one of three fibrous joint subtypes along with suture and [[gomphosis]])_
 > - **Ligamentous joint** _(descriptive synonym used in biomechanics and orthopedic literature; emphasizes the ligamentous tissue binding the bones)_
 > - **Distal tibiofibular syndesmosis\|Tibiofibular syndesmosis** _(the most clinically relevant syndesmosis; formed by the distal tibia and fibula, stabilized by four ligaments — most commonly injured in Weber B/C ankle fractures)_
-> - **Interosseous membrane\|Radioulnar interosseous membrane** _(proximal and distal radioulnar syndesmoses; fibrous interosseous membrane binding radius and ulna along their shafts — [[S59.001A]]–[[S59.099A]] for physeal injuries)_
-> - **Tibiofibular ligament sprain** _(clinical injury term for disruption of the syndesmotic complex; coded to [[S93.431A]]–[[S93.439A]] by laterality and encounter type)_
+> - **Interosseous membrane\|Radioulnar interosseous membrane** _(proximal and distal radioulnar syndesmoses; fibrous interosseous membrane binding radius and ulna along their shafts — [[S59.001A]]-[[S59.099A]] for physeal injuries)_
+> - **Tibiofibular ligament sprain** _(clinical injury term for disruption of the syndesmotic complex; coded to [[S93.431A]]-[[S93.439A]] by laterality and encounter type)_
 > - **Syndesmotic disruption** _(pathological term for complete or partial tear of the distal tibiofibular syndesmotic ligaments; associated with ankle fracture-dislocations requiring surgical stabilization — CPT [[27829]])_
 > - **[[Diastasis]]|Tibiofibular diastasis** _(widening of the mortise from syndesmotic rupture — the most severe form; may require open reduction and fixation)_
 
@@ -67,7 +67,7 @@ _____
 > - **[[Synarthrosis]]** — parent joint classification that includes syndesmosis; covers all fibrous joints with little to no movement; [[synarthrosis]] is the broader anatomical category
 > - **[[Amphiarthrosis]]** — slightly movable joint class; syndesmosis falls on the functional border between [[synarthrosis]] and amphiarthrosis depending on ligamentous laxity and fiber length
 > - **[[Diarthrosis]]** — freely movable synovial joint; the functional opposite of syndesmosis — note that the ankle's talocrural joint *is* a diarthrosis, while the distal tibiofibular joint holding it together is a syndesmosis
-> - **[[Ankylosis]]** — pathological fibrous or bony fusion of a joint that was previously mobile ([[M24.60]]–[[M24.676]]); can involve the syndesmotic ligaments in chronic post-traumatic states
+> - **[[Ankylosis]]** — pathological fibrous or bony fusion of a joint that was previously mobile ([[M24.60]]-[[M24.676]]); can involve the syndesmotic ligaments in chronic post-traumatic states
 > - **Interosseous membrane** — the broad fibrous sheet that constitutes the radioulnar and tibiofibular syndesmoses along the shaft; provides rotational stability in both the forearm and leg
 > - **[[Diastasis]]** — abnormal widening of a syndesmotic joint space, particularly the distal tibiofibular mortise; a key radiographic finding driving surgical intervention
 > - **[[Ligament]]** — the primary uniting tissue in syndesmosis; dense regular collagenous connective tissue binding bone to bone
@@ -79,8 +79,8 @@ _____
 
 _____
 
-> [!caution]+ #### CODING CORNER 
-> <br>
+> [!example]+ #### CODING CORNER 
+> 
 > 
 > ### 🏥 ICD-10-CM CODES
 > 
@@ -162,7 +162,7 @@ _____
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** Syndesmosis itself is an anatomical joint classification, not a standalone billable diagnosis — always code the **specific injury, disorder, or procedure** involving the syndesmotic joint with full laterality and encounter type (7th character required for all S-codes). The tibiofibular ligament sprain codes (**[[S93.431A]]–[[S93.439A]]**) require the 7th character extension: **A** = initial encounter (active treatment), **D** = subsequent encounter (routine healing), **S** = sequela. A high-yield undercoding alert for inpatient profee: when documentation describes **"ankle fracture with syndesmotic disruption," "positive cotton test," or "high ankle sprain"** without a separate syndesmotic injury code, query the provider — the syndesmotic injury should be coded *in addition to* the fracture code, as the two are not mutually exclusive and affect DRG weight on inpatient claims. CPT **[[27829]]** (**syndesmosis repair**) is **separately reportable** from ORIF codes (**e.g., [[27814]], [[27822]]**) when syndesmotic screws are placed independently — not through the fracture fixation plate — per **AAPC guidance**; document medical necessity clearly. For payer considerations, some commercial plans (**UHC, Aetna**) require pre-authorization for ankle ORIF plus syndesmotic fixation when billed together; modifier **[[-51]]** (multiple procedures) may be required on the secondary procedure, or **[[-59]]** (distinct procedural service) if payer bundles are triggered.
+> > ⚠️ **Coding Note:** Syndesmosis itself is an anatomical joint classification, not a standalone billable diagnosis — always code the **specific injury, disorder, or procedure** involving the syndesmotic joint with full laterality and encounter type (7th character required for all S-codes). The tibiofibular ligament sprain codes (**[[S93.431A]]-[[S93.439A]]**) require the 7th character extension: **A** = initial encounter (active treatment), **D** = subsequent encounter (routine healing), **S** = sequela. A high-yield undercoding alert for inpatient profee: when documentation describes **"ankle fracture with syndesmotic disruption," "positive cotton test," or "high ankle sprain"** without a separate syndesmotic injury code, query the provider — the syndesmotic injury should be coded *in addition to* the fracture code, as the two are not mutually exclusive and affect DRG weight on inpatient claims. CPT **[[27829]]** (**syndesmosis repair**) is **separately reportable** from ORIF codes (**e.g., [[27814]], [[27822]]**) when syndesmotic screws are placed independently — not through the fracture fixation plate — per **AAPC guidance**; document medical necessity clearly. For payer considerations, some commercial plans (**UHC, Aetna**) require pre-authorization for ankle ORIF plus syndesmotic fixation when billed together; modifier **[[-51]]** (multiple procedures) may be required on the secondary procedure, or **[[-59]]** (distinct procedural service) if payer bundles are triggered.
 
 _____
 

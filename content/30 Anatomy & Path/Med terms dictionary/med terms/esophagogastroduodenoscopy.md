@@ -56,7 +56,7 @@ _____
 > - **EGD / upper endoscopy / upper GI endoscopy** _(lay and clinical term; note specialty context — e.g., gastroenterology, general surgery, emergency medicine, critical care)_
 > - **Diagnostic EGD** _(define briefly — e.g., visualization and assessment without therapeutic intervention; note relationship to main term as the base procedure reported with [[43235]])_
 > - **Screening EGD** _(clinical synonym used in specific context — e.g., performed for asymptomatic surveillance or family history; coded under [[Z13.810]])_
-> - **Therapeutic EGD|Interventional EGD** _(define this alias briefly and note its ICD-10-CM code — e.g., any EGD with biopsy, dilation, hemostasis, resection, or stenting; reported with therapeutic CPT codes 43239–43270)_
+> - **Therapeutic EGD|Interventional EGD** _(define this alias briefly and note its ICD-10-CM code — e.g., any EGD with biopsy, dilation, hemostasis, resection, or stenting; reported with therapeutic CPT codes 43239-43270)_
 > - **Surveillance EGD|Barrett's surveillance EGD** _(systemic or syndromic form — e.g., periodic endoscopic monitoring for dysplasia in Barrett's esophagus; surveillance intervals per dysplasia grade; [[K22.70]], [[K22.710]], [[K22.711]], [[K22.719]])_
 > - **Emergent EGD** _(define by cause — e.g., performed for acute upper GI hemorrhage, hematemesis, or melena; often with [[43255]] or [[43244]] for variceal banding)_
 > - **Elective EGD** _(define by cause — e.g., scheduled for chronic dyspepsia, reflux symptoms, iron deficiency anemia, or celiac disease evaluation)_

@@ -38,7 +38,7 @@ definition: A nerve is a cordlike bundle of axons (nerve fibers) enclosed in con
 ---
 
 > [!Note] DEFINITION of [[nerve]]
-> **Nerve** is a **discrete, macroscopic anatomical structure composed of one or more bundles (fascicles) of axons — the long projections of neurons** — enclosed and protected by three concentric layers of connective tissue: the innermost **endoneurium** (**surrounds individual axons**), the **perineurium** (**surrounds each fascicle**), and the outermost **epineurium** (**surrounds the entire nerve trunk**); this layered architecture distinguishes a peripheral nerve from a mere nerve fiber or **axon** and is critical for surgical repair coding. A nerve functions as the communication "**cable**" of the nervous system, carrying **electrochemical** signals in one or both directions: **afferent (sensory) nerves** transmit impulses from peripheral receptors — **skin, muscle, joints,** **viscera** — toward the **CNS** via ascending pathways; **efferent (motor) nerves** carry commands from the **CNS** to skeletal muscle (**somatic motor**) or to smooth muscle, cardiac muscle, and glands (**autonomic motor**); **mixed nerves** carry both, and the vast majority of peripheral nerves in the body are mixed. Nerves are organized into two major anatomical divisions: the **12 pairs of cranial nerves** (**CN I–XII**) arising directly from the brain and brainstem, and the **31 pairs of spinal nerves** arising from the spinal cord (8 **cervical**, 12 **thoracic**, 5 **lumbar**, 5 **sacral**, 1 **coccygeal**) — each spinal nerve formed by the junction of a dorsal (**sensory**) root and a ventral (**motor**) root at the intervertebral foramen. The word **nerve** should not be conflated with **[[neuron]]** (**the individual cell body + axon + dendrites**), **[[ganglion]]** (**a cluster of neuron cell bodies outside the CNS**), or **[[plexus]]** (**a network formed by the interweaving of multiple nerve branches**); in **ICD-10-CM**, disorders of peripheral nerves are classified across G50–G59 (**cranial and named peripheral nerve disorders**), G60–G65 (**polyneuropathies**), and the injury chapter S-codes (**traumatic nerve injury with laterality and encounter type required**).
+> **Nerve** is a **discrete, macroscopic anatomical structure composed of one or more bundles (fascicles) of axons — the long projections of neurons** — enclosed and protected by three concentric layers of connective tissue: the innermost **endoneurium** (**surrounds individual axons**), the **perineurium** (**surrounds each fascicle**), and the outermost **epineurium** (**surrounds the entire nerve trunk**); this layered architecture distinguishes a peripheral nerve from a mere nerve fiber or **axon** and is critical for surgical repair coding. A nerve functions as the communication "**cable**" of the nervous system, carrying **electrochemical** signals in one or both directions: **afferent (sensory) nerves** transmit impulses from peripheral receptors — **skin, muscle, joints,** **viscera** — toward the **CNS** via ascending pathways; **efferent (motor) nerves** carry commands from the **CNS** to skeletal muscle (**somatic motor**) or to smooth muscle, cardiac muscle, and glands (**autonomic motor**); **mixed nerves** carry both, and the vast majority of peripheral nerves in the body are mixed. Nerves are organized into two major anatomical divisions: the **12 pairs of cranial nerves** (**CN I-XII**) arising directly from the brain and brainstem, and the **31 pairs of spinal nerves** arising from the spinal cord (8 **cervical**, 12 **thoracic**, 5 **lumbar**, 5 **sacral**, 1 **coccygeal**) — each spinal nerve formed by the junction of a dorsal (**sensory**) root and a ventral (**motor**) root at the intervertebral foramen. The word **nerve** should not be conflated with **[[neuron]]** (**the individual cell body + axon + dendrites**), **[[ganglion]]** (**a cluster of neuron cell bodies outside the CNS**), or **[[plexus]]** (**a network formed by the interweaving of multiple nerve branches**); in **ICD-10-CM**, disorders of peripheral nerves are classified across G50-G59 (**cranial and named peripheral nerve disorders**), G60-G65 (**polyneuropathies**), and the injury chapter S-codes (**traumatic nerve injury with laterality and encounter type required**).
 
 _____
 
@@ -51,7 +51,7 @@ _____
 > | **[[neur-]]** | Greek *νεῦρον* (NEU-ron), from PIE ***(s)neu-*** ("band, sinew") | "**sinew, tendon**" in Homer and pre-Galenic Greek; extended by Galen (2nd century AD) to mean "nerve fiber" as anatomical knowledge advanced; directly cognate with Latin *nervus* through the shared PIE root |
 > | **[[-al]]** | Latin *-alis* → Old French *-al* → English *-al* | Adjective-forming suffix — "**pertaining to**," "**of the nature of**," "**relating to**" |
 >
-> The English word *nerve* entered the language in the **late 14th century** (c. 1390s) with its original Latin sense of "**sinew, tendon, hard cord of the body**" — a meaning now completely obsolete. The modern anatomical sense — "**fiber or bundle of fibers conveying feeling or motion from the brain or spinal cord**" — was established by the **1540s**, as Galenic anatomy was disseminated through the **Renaissance**. The word was borrowed first from Old French *nerf* ("**sinew, nerve**") and directly from Medieval Latin *nervus*, itself a metathesis (letter-reversal) of the pre-Latin form **neuros*, sharing the PIE root ***(s)neu-*** ("**to bind, sinew**") — cognate with Greek *νεῦρον* (*neuron*), English *sinew*, Sanskrit *snāvan* ("**tendon, muscle**"), and Old Armenian *neard* ("sinew"). Galen of Pergamum (c. 130–210 AD) is credited with establishing the distinction between **nerves**, **tendons**, and **ligaments** — his terminology formed the basis of Western **neuroanatomy** for over a millennium. The figurative English sense of "**nerve**" **meaning "audacity, boldness, impudence"** derived from the Latin figurative sense of *nervus* as "**vigor, force**" and entered common use by the 19th century. The shared root ***(s)neu-*** connects *nerve* to a vast anatomical and clinical family: ***[[neural]]*** (pertaining to a nerve), ***[[neuralgia]]*** (neur- + -algia → "nerve pain"), ***[[neuritis]]*** ([[neur-]] + [[-itis]] → "nerve inflammation"), ***[[neuropathy]]*** ([[neuro-]] + [[-pathy]] → "**nerve disease**"), ***[[neuroma]]*** (neuro- + [[-oma]] → "nerve tumor"), ***[[neurolysis]]*** ([[neuro-]] + [[-lysis]] → "**nerve release/destructio**n"), and ***[[neurorrhaphy]]*** (neuro- + [[-rrhaphy]] → "**nerve suture/repair**").
+> The English word *nerve* entered the language in the **late 14th century** (c. 1390s) with its original Latin sense of "**sinew, tendon, hard cord of the body**" — a meaning now completely obsolete. The modern anatomical sense — "**fiber or bundle of fibers conveying feeling or motion from the brain or spinal cord**" — was established by the **1540s**, as Galenic anatomy was disseminated through the **Renaissance**. The word was borrowed first from Old French *nerf* ("**sinew, nerve**") and directly from Medieval Latin *nervus*, itself a metathesis (letter-reversal) of the pre-Latin form **neuros*, sharing the PIE root ***(s)neu-*** ("**to bind, sinew**") — cognate with Greek *νεῦρον* (*neuron*), English *sinew*, Sanskrit *snāvan* ("**tendon, muscle**"), and Old Armenian *neard* ("sinew"). Galen of Pergamum (c. 130-210 AD) is credited with establishing the distinction between **nerves**, **tendons**, and **ligaments** — his terminology formed the basis of Western **neuroanatomy** for over a millennium. The figurative English sense of "**nerve**" **meaning "audacity, boldness, impudence"** derived from the Latin figurative sense of *nervus* as "**vigor, force**" and entered common use by the 19th century. The shared root ***(s)neu-*** connects *nerve* to a vast anatomical and clinical family: ***[[neural]]*** (pertaining to a nerve), ***[[neuralgia]]*** (neur- + -algia → "nerve pain"), ***[[neuritis]]*** ([[neur-]] + [[-itis]] → "nerve inflammation"), ***[[neuropathy]]*** ([[neuro-]] + [[-pathy]] → "**nerve disease**"), ***[[neuroma]]*** (neuro- + [[-oma]] → "nerve tumor"), ***[[neurolysis]]*** ([[neuro-]] + [[-lysis]] → "**nerve release/destructio**n"), and ***[[neurorrhaphy]]*** (neuro- + [[-rrhaphy]] → "**nerve suture/repair**").
 
 _____
 
@@ -64,7 +64,7 @@ _____
 > - **Spinal nerve** _(one of 31 pairs arising from the spinal cord; each formed by the union of a dorsal sensory root and a ventral motor root)_
 > - **[[Neuron]]** _(the individual structural and functional unit of the nervous system — cell body + axon + dendrites; a nerve is a macroscopic bundle of many neuronal axons)_
 > - **[[Axon]]** _(the long projection of a neuron that conducts impulses away from the cell body; the core functional unit within each nerve fiber)_
-> - **[[Plexus]]** _(a network formed by the interweaving of branches from multiple spinal nerves — e.g., brachial plexus C5–T1, lumbosacral plexus L1–S4)_
+> - **[[Plexus]]** _(a network formed by the interweaving of branches from multiple spinal nerves — e.g., brachial plexus C5-T1, lumbosacral plexus L1-S4)_
 > - **[[ganglion]]** _(a discrete cluster of neuron cell bodies outside the CNS — sensory ganglia or autonomic ganglia; the relay stations along the nerve pathway)_
 > - **[[Fascicle]]** _(an individual bundle of nerve fibers within a peripheral nerve, surrounded by perineurium; the surgical anatomy unit relevant to fascicular nerve repair)_
 > - **[[Endoneurium]]** _(innermost connective tissue layer surrounding individual axons within a fascicle)_
@@ -80,28 +80,28 @@ _____
 > - **[[Neuron]]** — the cellular unit: cell body (**soma**) + axon + dendrites; multiple neurons form a nerve; nerves are the macroscopic packaging of many axons traveling together to the same anatomical region
 > - **[[Myelin]]** — the lipid-rich insulating sheath produced by Schwann cells (PNS) or oligodendrocytes (CNS) around axons; saltatory conduction between nodes of Ranvier increases velocity; demyelination underlies **Guillain-Barré ([[G61.0]])** and **[[multiple sclerosis]]**
 > - **Schwann cell** — the PNS glial cell responsible for myelinating peripheral axons; survives axonal injury and forms bands of Büngner guiding axon regeneration after nerve repair
-> - **Axon** — the single long process of a neuron conducting impulses away from the cell body; regenerates at ~1–2 mm/day after injury
+> - **Axon** — the single long process of a neuron conducting impulses away from the cell body; regenerates at ~1-2 mm/day after injury
 > - **Dendrite** — the branching processes of a neuron that receive signals; typically multiple per neuron and shorter than axons
 > - **[[Synapse]]** — the specialized junction between two neurons (**or neuron and effector**) where chemical **neurotransmission** occurs; peripheral nerves themselves do not contain synapses
-> - **[[Plexus]]** — an interconnected network of nerve branches; clinically significant plexuses include the **brachial plexus** (C5–T1), **lumbar plexus** (L1–L4), **sacral plexus** (L4–S3), and celiac plexus
+> - **[[Plexus]]** — an interconnected network of nerve branches; clinically significant plexuses include the **brachial plexus** (C5-T1), **lumbar plexus** (L1-L4), **sacral plexus** (L4-S3), and celiac plexus
 > - **[[ganglion]]** — a collection of neuron cell bodies in the PNS; **sensory ganglia** (**dorsal root ganglia**) relay afferent signals; **autonomic ganglia** relay pre- to postganglionic signals
 > - **[[Dermatome]]** — the area of skin supplied by a single spinal nerve's sensory fibers; guides localization of **nerve root compression**, **radiculopathy**, and herpes zoster distribution
 > - **[[Myotome]]** — the muscle group innervated by a single spinal nerve's motor fibers; tested with resisted movement to localize motor nerve root level in **[[radiculopathy]]**
-> - **[[Neuropathy]]** — pathological dysfunction of one or more nerves; classified as mononeuropathy (**single nerve, e.g., carpal tunnel [[G56.01]]), polyneuropathy (multiple nerves — [[G62.0]]–[[G62.9]]**), or **[[autonomic neuropathy]]**
+> - **[[Neuropathy]]** — pathological dysfunction of one or more nerves; classified as mononeuropathy (**single nerve, e.g., carpal tunnel [[G56.01]]), polyneuropathy (multiple nerves — [[G62.0]]-[[G62.9]]**), or **[[autonomic neuropathy]]**
 > - **[[neuralgia]]** — severe episodic pain along a nerve distribution without structural damage; key examples: **[[trigeminal neuralgia]]** (**[[G50.0]]**), **[[occipital neuralgia]]** (**[[G44.841]]**); distinguished from neuropathic pain by the absence of measurable nerve dysfunction
-> - **[[Neurorrhaphy]]** — surgical suture repair of a severed nerve; coded **CPT [[64831]]**–**[[64858]]** depending on nerve type, location, and whether grafting is required
-> - **[[neurolysis]]** — surgical freeing of a nerve from **adhesions**/scar (**external neurolysis**) or internal fascicular release; chemical destruction of a nerve by neurolytic agent for pain management coded **[[64600]]–[[64640]]**
+> - **[[Neurorrhaphy]]** — surgical suture repair of a severed nerve; coded **CPT [[64831]]**-**[[64858]]** depending on nerve type, location, and whether grafting is required
+> - **[[neurolysis]]** — surgical freeing of a nerve from **adhesions**/scar (**external neurolysis**) or internal fascicular release; chemical destruction of a nerve by neurolytic agent for pain management coded **[[64600]]-[[64640]]**
 > - **[[Neuroma]]** — a painful, disorganized mass of axon sprouts and Schwann cells forming after nerve injury when regenerating axons cannot find a distal target; treated surgically
-> - **[[Radiculopathy]]** — dysfunction at the nerve root level; symptoms follow a dermato**m**al/**myotomal** pattern rather than a **peripheral nerve distribution**; coded **[[G54.2]]–[[G54.4]]** or M54.1x depending on cause
+> - **[[Radiculopathy]]** — dysfunction at the nerve root level; symptoms follow a dermato**m**al/**myotomal** pattern rather than a **peripheral nerve distribution**; coded **[[G54.2]]-[[G54.4]]** or M54.1x depending on cause
 
 _____
 
-> [!caution]+ #### CODING CORNER
-> <br>
+> [!example]+ #### CODING CORNER
+> 
 >
 > ### 🏥 ICD-10-CM CODES
 >
-> #### Cranial Nerve Disorders (G50–G52)
+> #### Cranial Nerve Disorders (G50-G52)
 >
 > | Code | Description |
 > |---|---|
@@ -198,7 +198,7 @@ _____
 > | **[[G57.62]]** | Lesion of plantar nerve, left lower limb |
 > | **[[G57.63]]** | Lesion of plantar nerve, bilateral lower limbs |
 >
-> #### Polyneuropathies (G60–G63)
+> #### Polyneuropathies (G60-G63)
 >
 > | Code | Description |
 > |---|---|
@@ -230,12 +230,12 @@ _____
 > | CPT Code | Description |
 > |---|---|
 > | **[[95905]]** | Motor and/or sensory nerve conduction, using preconfigured electrode array(s), amplitude and latency/velocity study, each limb |
-> | **[[95907]]** | Nerve conduction studies; 1–2 studies |
-> | **[[95908]]** | Nerve conduction studies; 3–4 studies |
-> | **[[95909]]** | Nerve conduction studies; 5–6 studies |
-> | **[[95910]]** | Nerve conduction studies; 7–8 studies |
-> | **[[95911]]** | Nerve conduction studies; 9–10 studies |
-> | **[[95912]]** | Nerve conduction studies; 11–12 studies |
+> | **[[95907]]** | Nerve conduction studies; 1-2 studies |
+> | **[[95908]]** | Nerve conduction studies; 3-4 studies |
+> | **[[95909]]** | Nerve conduction studies; 5-6 studies |
+> | **[[95910]]** | Nerve conduction studies; 7-8 studies |
+> | **[[95911]]** | Nerve conduction studies; 9-10 studies |
+> | **[[95912]]** | Nerve conduction studies; 11-12 studies |
 > | **[[95913]]** | Nerve conduction studies; 13 or more studies |
 >
 > #### Electromyography (EMG)
@@ -307,7 +307,7 @@ _____
 >
 > ---
 >
-> > ⚠️ **Coding Note:** For nerve conduction studies (**CPT 95907–95913**), code selection is based on the **total number of nerve studies** performed across all limbs in the entire encounter — never bill one unit per limb. Count each distinct named **nerve/branch** tested once, sum the total, and select the single code that corresponds to that total; billing **[[95905]]** (**automated array**) and **[[95907]]–[[95913]]** (**standard NCS**) together is incorrect — they are mutually exclusive methods. For peripheral nerve disorder coding (G56.xx, G57.xx), **laterality is required** at the 5th character level — right, left, bilateral, or unspecified; avoid unspecified unless documentation is truly silent and a query cannot resolve it. For inpatient profee nerve injury coding (**S-codes**), three axes are always required: the **named nerve**, the **anatomical level**, and the **encounter type** (**A = initial, D = subsequent, S = sequela**) — the 7th character encounter type is the most commonly omitted element in inpatient profee S-code claims. When a nerve block injection and a surgical procedure are performed by the **same provider on the same day**, the block is bundled per **NCCI** edits and is not separately reportable. For **[[neurorrhaphy]]** (**[[64831]]–[[64858]]**), documentation must specify: (1) the exact named nerve repaired, (2) repair technique (**primary vs. secondary**), (3) whether nerve grafting was required, and (4) laterality — all four elements drive correct code selection and support medical necessity on audit.
+> > ⚠️ **Coding Note:** For nerve conduction studies (**CPT 95907-95913**), code selection is based on the **total number of nerve studies** performed across all limbs in the entire encounter — never bill one unit per limb. Count each distinct named **nerve/branch** tested once, sum the total, and select the single code that corresponds to that total; billing **[[95905]]** (**automated array**) and **[[95907]]-[[95913]]** (**standard NCS**) together is incorrect — they are mutually exclusive methods. For peripheral nerve disorder coding (G56.xx, G57.xx), **laterality is required** at the 5th character level — right, left, bilateral, or unspecified; avoid unspecified unless documentation is truly silent and a query cannot resolve it. For inpatient profee nerve injury coding (**S-codes**), three axes are always required: the **named nerve**, the **anatomical level**, and the **encounter type** (**A = initial, D = subsequent, S = sequela**) — the 7th character encounter type is the most commonly omitted element in inpatient profee S-code claims. When a nerve block injection and a surgical procedure are performed by the **same provider on the same day**, the block is bundled per **NCCI** edits and is not separately reportable. For **[[neurorrhaphy]]** (**[[64831]]-[[64858]]**), documentation must specify: (1) the exact named nerve repaired, (2) repair technique (**primary vs. secondary**), (3) whether nerve grafting was required, and (4) laterality — all four elements drive correct code selection and support medical necessity on audit.
 
 _____
 

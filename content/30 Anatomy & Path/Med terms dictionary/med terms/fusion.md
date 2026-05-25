@@ -34,7 +34,7 @@ definition: The joining or merging of two or more structures — cells, tissues,
 ---
 
 >[!Note] DEFINITION of [[fusion]]
->**Fusion** is **the joining or merging of two or more distinct anatomical structures** — **bones, cells, tissues, or vertebral segments** — **into a continuous, unified mass, either through natural biological processes or deliberate surgical intervention**. In its physiological form, **fusion** describes normal developmental events such as the closure of cranial sutures or the union of **epiphyses** to diaphyses during **skeletal maturation**; in its pathological form, it describes abnormal bony union across a joint space — termed **[[ankylosis]]** — occurring as a consequence of **inflammatory arthropathy** (**e.g., ankylosing spondylitis, [[M45.0]]–[[M45.9]]**), infection, or trauma. Surgically, fusion — formally termed **[[arthrodesis]]** — is the intentional elimination of motion at a joint or intervertebral segment through bone grafting, instrumentation, and biological union, most commonly performed at the **spine, ankle, wrist, or small joints of the foot**. **Fusion** differs from **[[consolidation]]**, which describes the hardening or solidification of soft tissue (**e.g., pulmonary consolidation**), and from **[[coalescence]]**, which implies the gradual merging of fluid or soft-tissue collections rather than bony union. It should not be confused with [[ankylosis]] proper, which is specifically restricted to pathological **joint immobility**, whereas surgical fusion is planned and therapeutic; however, the end biological result — bony bridging across the target segment — is identical.
+>**Fusion** is **the joining or merging of two or more distinct anatomical structures** — **bones, cells, tissues, or vertebral segments** — **into a continuous, unified mass, either through natural biological processes or deliberate surgical intervention**. In its physiological form, **fusion** describes normal developmental events such as the closure of cranial sutures or the union of **epiphyses** to diaphyses during **skeletal maturation**; in its pathological form, it describes abnormal bony union across a joint space — termed **[[ankylosis]]** — occurring as a consequence of **inflammatory arthropathy** (**e.g., ankylosing spondylitis, [[M45.0]]-[[M45.9]]**), infection, or trauma. Surgically, fusion — formally termed **[[arthrodesis]]** — is the intentional elimination of motion at a joint or intervertebral segment through bone grafting, instrumentation, and biological union, most commonly performed at the **spine, ankle, wrist, or small joints of the foot**. **Fusion** differs from **[[consolidation]]**, which describes the hardening or solidification of soft tissue (**e.g., pulmonary consolidation**), and from **[[coalescence]]**, which implies the gradual merging of fluid or soft-tissue collections rather than bony union. It should not be confused with [[ankylosis]] proper, which is specifically restricted to pathological **joint immobility**, whereas surgical fusion is planned and therapeutic; however, the end biological result — bony bridging across the target segment — is identical.
 
 _____
 
@@ -54,7 +54,7 @@ _____
 >
 > - **Fused** _(adjective form — clinical collocations: "fused vertebral segment," "fused joint," "fused suture line")_
 > - **[[Arthrodesis]]** _(formal surgical term for intentional joint fusion; from Greek arthron [joint] + desis [binding]; coded under ICD-10-PCS Root Operation G — Fusion; the preferred term in operative reports and CPT/PCS coding)_
-> - **[[Ankylosis]]** _(pathological fusion of a joint — bony or fibrous; coded under [[M24.60]]–[[M24.679]] for acquired ankylosis of joints; distinguished from surgical arthrodesis by its unintentional, disease-driven etiology)_
+> - **[[Ankylosis]]** _(pathological fusion of a joint — bony or fibrous; coded under [[M24.60]]-[[M24.679]] for acquired ankylosis of joints; distinguished from surgical arthrodesis by its unintentional, disease-driven etiology)_
 > - **[[Synostosis]]** _(bony fusion between two bones that are normally separate; congenital or acquired; e.g., radioulnar synostosis [[Q74.0]], craniosynostosis [[Q75.0]])_
 > - **Coalescence** _(merging of structures, more often used for soft tissue or fluid collections than bone; not a distinct ICD-10-CM axis but appears in radiology and pathology reports)_
 > - **Bony union** _(clinical synonym for completed fracture or fusion healing; confirmed radiographically by bridging trabeculae across the fusion site)_
@@ -68,22 +68,22 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 >
 > - **[[Arthrodesis]]** — the operative synonym for surgical fusion; the CPT and PCS term of art; from Greek *arthron* (joint) + *desis* (binding); the ICD-10-PCS Root Operation G is defined as "joining together portions of an articular body part, rendering the articular body part immobile"
-> - **[[Ankylosis]]** — pathological immobility and consolidation of a joint due to disease, injury, or inflammation; the unintentional, disease-driven counterpart to surgical arthrodesis; coded under [[M24.60]]–[[M24.679]] (acquired) or as a feature of inflammatory arthropathies (e.g., M45.x ankylosing spondylitis)
+> - **[[Ankylosis]]** — pathological immobility and consolidation of a joint due to disease, injury, or inflammation; the unintentional, disease-driven counterpart to surgical arthrodesis; coded under [[M24.60]]-[[M24.679]] (acquired) or as a feature of inflammatory arthropathies (e.g., M45.x ankylosing spondylitis)
 > - **[[Nonunion]]** — failure of fusion or fracture healing to achieve bony bridging; the biological opposite of successful fusion; coded under [[M96.0]] (pseudarthrosis after fusion) or fracture nonunion codes; the most feared complication in spinal fusion surgery
 > - **[[Pseudarthrosis]]** — failed fusion resulting in a false joint forming at the intended fusion site; coded [[M96.0]]; clinically presents as persistent pain, hardware failure, and motion on dynamic imaging
 > - **[[Ossification]]** — the biological process of bone formation that underlies successful fusion; includes endochondral and intramembranous pathways; relevant to understanding graft incorporation and the biology of arthrodesis
 > - **[[Osteogenesis]]** — bone formation at the cellular level; the mechanism by which graft material and decorticated host bone remodel into a fused segment; the biological target of bone morphogenetic proteins (BMPs) used in spinal fusion grafting
-> - **Bone graft** — the biological or synthetic material placed at the fusion site to stimulate ossification; types include autograft ([[20936]]–[[20938]]), allograft, and synthetic substitutes (e.g., rhBMP-2, demineralized bone matrix); graft type is captured in ICD-10-PCS Device character
-> - **[[Ankylosing spondylitis]]** — systemic inflammatory condition causing progressive pathological fusion of the spinal facet joints and sacroiliac joints; coded [[M45.0]]–[[M45.9]]; the prototypical disease of pathological spinal fusion
+> - **Bone graft** — the biological or synthetic material placed at the fusion site to stimulate ossification; types include autograft ([[20936]]-[[20938]]), allograft, and synthetic substitutes (e.g., rhBMP-2, demineralized bone matrix); graft type is captured in ICD-10-PCS Device character
+> - **[[Ankylosing spondylitis]]** — systemic inflammatory condition causing progressive pathological fusion of the spinal facet joints and sacroiliac joints; coded [[M45.0]]-[[M45.9]]; the prototypical disease of pathological spinal fusion
 > - **[[Synostosis]]** — bony union between normally separate bones; congenital forms include craniosynostosis ([[Q75.0]]), radioulnar synostosis ([[Q74.0]]); acquired forms may occur post-traumatically or post-surgically
 > - **[[Spondylodesis]]** — an older synonym for spinal fusion/arthrodesis; less common in contemporary clinical documentation but may appear in older operative reports or international records
-> - **Hardware failure** — mechanical failure of instrumentation (screws, rods, cages) at a fusion site, often a consequence of nonunion or pseudarthrosis; coded under T84.1x–T84.2x series (complication of internal fixation device)
+> - **Hardware failure** — mechanical failure of instrumentation (screws, rods, cages) at a fusion site, often a consequence of nonunion or pseudarthrosis; coded under T84.1x-T84.2x series (complication of internal fixation device)
 > - **Bone morphogenetic protein (BMP)** — growth factor family that stimulates osteogenesis at the fusion site; rhBMP-2 (INFUSE) is commonly used off-label in spinal fusion; not separately coded in ICD-10-CM but relevant to operative report interpretation and implant log review
 
 _____
 
 > [!example]+ #### CODING CORNER
-> <br>
+>
 >
 > ### 🏥 ICD-10-CM CODES
 >
@@ -160,7 +160,7 @@ _____
 > |**[[22558]]**|Arthrodesis, anterior interbody technique (ALIF), lumbar, single level|
 > |**[[22551]]**|Arthrodesis, anterior interbody technique (ACDF), cervical below C2, single level|
 > |**[[22600]]**|Arthrodesis, posterior technique, cervical below C2, single level|
-> |**[[22842]]**|Posterior segmental instrumentation, 3–6 vertebral segments (add-on; reported with fusion primary code)|
+> |**[[22842]]**|Posterior segmental instrumentation, 3-6 vertebral segments (add-on; reported with fusion primary code)|
 > |**[[22840]]**|Posterior non-segmental instrumentation (add-on)|
 > |**[[20936]]**|Autograft for spine surgery — local (from same incision site)|
 > |**[[20938]]**|Autograft for spine surgery — structural, bicortical or tricortical (add-on)|

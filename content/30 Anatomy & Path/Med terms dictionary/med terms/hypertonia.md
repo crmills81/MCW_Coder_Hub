@@ -64,16 +64,16 @@ _____
 > - **[[Rigidity]]** — non‑velocity‑dependent uniform resistance (**lead‑pipe or cogwheel**) seen in **[[Parkinson’s disease]]**.
 > - **[[dystonia]]** — sustained or intermittent muscle contractions causing twisting movements or abnormal postures; not reflex‑mediated like **[[hypertonia]]**.
 > - **Upper motor neuron syndrome** — constellation including **[[hypertonia]]**, **[[hyperreflexia]]**, and **weakness** after damage to the corticospinal tract.
-> - **[[Cerebral palsy]]** — static motor impairment due to early brain injury; spastic types coded under **[[G80.0]]–[[G80.1]]**.
+> - **[[Cerebral palsy]]** — static motor impairment due to early brain injury; spastic types coded under **[[G80.0]]-[[G80.1]]**.
 > - **[[Hemiplegia]]** — **paralysis** of one side, often accompanied by **spastic hypertonia**; **ICD‑10‑CM [[G81.11]]** (**spastic, right dominant side**), **[[G81.12]]** (left).
-> - **[[Paraplegia]]** — **[[paralysis]]** of lower limbs; **spastic paraplegia** coded as **[[G80.1]] (spastic diplegia)** or **[[G82.20]]–[[G82.22]]** (specified forms).
+> - **[[Paraplegia]]** — **[[paralysis]]** of lower limbs; **spastic paraplegia** coded as **[[G80.1]] (spastic diplegia)** or **[[G82.20]]-[[G82.22]]** (specified forms).
 > - **[[Myotonia]]** — delayed muscle relaxation without a stretch reflex component; a **channelopathy**, not **hypertonia**.
-> - **[[Botulinum toxin injections]]** — common treatment for focal **spastic hypertonia**; see CPT codes below.
+> - **Botulinum toxin injections** — common treatment for focal **spastic hypertonia**; see CPT codes below.
 
 _____
 
-> [!caution]+ #### CODING CORNER 
-> <br>
+> [!example]+ #### CODING CORNER 
+> 
 > 
 > ### 🏥 ICD-10-CM CODES
 > 
@@ -118,7 +118,7 @@ _____
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** Use the most specific diagnosis code for the cause of **hypertonia** — e.g., **spastic hemiplegia** (**[[G81.11]]–[[G81.14]]**) should be coded instead of **R29.8** when the condition is clearly **[[stroke]]**‑related. Unspecified **hypertonia** (**[[R29.8]]**) is only appropriate when no underlying aetiology or specific type is documented, and it should not be used as a primary code if a definitive diagnosis is known. **Congenital hypertonia** (**[[P94.1]]**) is limited to the perinatal period and should never be used outside that context. For botulinum toxin injections to treat **spasticity**, use the most specific **[[chemodenervation]]** code for the body region (**[[64642]] for extremities, [[64644]] for larynx, [[64616]] for head/neck**), and always document the specific muscles injected and the dosage. **Modifier [[‑59]]** (distinct procedural service) may be required when injecting multiple nerve distributions in the same session. Prior authorization is often mandatory for **[[botulinum toxin]]**, and documentation must include failure of conservative measures and functional goals.
+> > ⚠️ **Coding Note:** Use the most specific diagnosis code for the cause of **hypertonia** — e.g., **spastic hemiplegia** (**[[G81.11]]-[[G81.14]]**) should be coded instead of **R29.8** when the condition is clearly **[[stroke]]**‑related. Unspecified **hypertonia** (**[[R29.8]]**) is only appropriate when no underlying aetiology or specific type is documented, and it should not be used as a primary code if a definitive diagnosis is known. **Congenital hypertonia** (**[[P94.1]]**) is limited to the perinatal period and should never be used outside that context. For botulinum toxin injections to treat **spasticity**, use the most specific **[[chemodenervation]]** code for the body region (**[[64642]] for extremities, [[64644]] for larynx, [[64616]] for head/neck**), and always document the specific muscles injected and the dosage. **Modifier [[‑59]]** (distinct procedural service) may be required when injecting multiple nerve distributions in the same session. Prior authorization is often mandatory for **[[botulinum toxin]]**, and documentation must include failure of conservative measures and functional goals.
 
 _____
 

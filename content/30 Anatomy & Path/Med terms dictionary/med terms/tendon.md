@@ -60,9 +60,9 @@ _____
 > - **[[Tendinopathy]]** _(umbrella clinical term for any pathological condition of a tendon regardless of mechanism — includes both inflammatory and degenerative forms; preferred over "tendinitis" in modern evidence-based literature; coded by site under M65.x, M66.x, M67.x, M75.x, M76.x families)_
 > - **[[Tendinosis]]** _(degenerative, non-inflammatory tendon disorder characterized by collagen disorganization, mucoid degeneration, and neovascularization without significant inflammatory infiltrate; the underlying pathology in most "chronic tendinitis" cases; coded as tendinopathy under the appropriate site-specific code)_
 > - **[[tendinitis]]** / **Tendonitis** _(inflammatory tendon condition; acute irritation with nociceptive and inflammatory cell infiltrate; the distinction from tendinosis is clinically important but does not change the ICD-10-CM code — both map to the same site-specific M-code family; the spelling "tendinitis" is preferred in current ICD-10-CM)_
-> - **[[Rotator cuff]]** _(the four-tendon complex of the shoulder — supraspinatus, infraspinatus, teres minor, subscapularis — whose collective function is glenohumeral stabilization and rotation; the most commonly coded tendon complex in orthopaedic profee billing; coded under M75.1xx–M75.3xx family)_
-> - **[[Achilles tendon]]** / **Tendo calcaneus** _(the largest tendon in the body; connects gastrocnemius and soleus to the calcaneus; prone to spontaneous rupture ([[M66.361]]/[[M66.362]]) and insertional/mid-substance tendinopathy (M76.60–M76.62))_
-> - **Patellar tendon** / **Patellar ligament** _(the distal continuation of the quadriceps mechanism from patella to tibial tuberosity; prone to tendinopathy "jumper's knee" coded [[M76.50]]–[[M76.52]]; technically classified as a ligament anatomically despite being called a tendon clinically)_
+> - **[[Rotator cuff]]** _(the four-tendon complex of the shoulder — supraspinatus, infraspinatus, teres minor, subscapularis — whose collective function is glenohumeral stabilization and rotation; the most commonly coded tendon complex in orthopaedic profee billing; coded under M75.1xx-M75.3xx family)_
+> - **[[Achilles tendon]]** / **Tendo calcaneus** _(the largest tendon in the body; connects gastrocnemius and soleus to the calcaneus; prone to spontaneous rupture ([[M66.361]]/[[M66.362]]) and insertional/mid-substance tendinopathy (M76.60-M76.62))_
+> - **Patellar tendon** / **Patellar ligament** _(the distal continuation of the quadriceps mechanism from patella to tibial tuberosity; prone to tendinopathy "jumper's knee" coded [[M76.50]]-[[M76.52]]; technically classified as a ligament anatomically despite being called a tendon clinically)_
 > - **[[Aponeurosis]]** _(flat, broad sheet of dense connective tissue performing the same function as a tendon over a wide area; e.g., plantar fascia/aponeurosis; distinction from tendon is important for injection coding — plantar fascia injections use [[20550]], not [[20551]])_
 
 _____
@@ -72,8 +72,8 @@ _____
 > - **[[Ligament]]** — **fibrous connective tissue** connecting bone to bone across a joint; shares the same dense collagen I structure as tendons but serves a joint stabilization rather than muscle-force-transmission function; coded in the M series by site; a key distinction for injection coding (**[[20550]] covers both tendon sheaths and ligaments**)
 > - **[[tendinitis]]** — inflammatory condition of a **tendon**; acute; coded by anatomic site under M65.2x (**calcific tendinitis**) or site-specific codes in M75.x/M76.x; distinguished from tendinosis by the presence of inflammatory cells on histology, though clinically and for coding purposes the codes overlap
 > - **[[Tendinosis]]** — **degenerative**, non-inflammatory **tendon** pathology; the predominant finding in chronic overuse **tendinopathy**; histologically characterized by **mucoid degeneration** and failed tendon healing; coded under the same site-specific M-code as **tendinitis** in **ICD-10-CM**
-> - **[[Tenosynovitis]]** — inflammation of the synovial tendon sheath surrounding a tendon; coded under M65.x family by site (**e.g., [[M65.811]]–[[M65.819]] other [[synovitis]]/[[tenosynovitis]]**); distinct from **tendinitis**, which involves the tendon body itself; requires the **sheath** to be present (**only tendons enclosed in synovial sheaths can develop [[tenosynovitis]]**)
-> - **Trigger finger (stenosing tenosynovitis)** — thickening of the tendon sheath of a digital flexor tendon causing the tendon to catch or lock when flexing; coded **[[M65.311]]–[[M65.319]] (right), [[M65.321]]–[[M65.329]] (left)**, by digit; injection coded **[[20550]]**; surgical release coded **[[26055]]**
+> - **[[Tenosynovitis]]** — inflammation of the synovial tendon sheath surrounding a tendon; coded under M65.x family by site (**e.g., [[M65.811]]-[[M65.819]] other [[synovitis]]/[[tenosynovitis]]**); distinct from **tendinitis**, which involves the tendon body itself; requires the **sheath** to be present (**only tendons enclosed in synovial sheaths can develop [[tenosynovitis]]**)
+> - **Trigger finger (stenosing tenosynovitis)** — thickening of the tendon sheath of a digital flexor tendon causing the tendon to catch or lock when flexing; coded **[[M65.311]]-[[M65.319]] (right), [[M65.321]]-[[M65.329]] (left)**, by digit; injection coded **[[20550]]**; surgical release coded **[[26055]]**
 > - **De Quervain tenosynovitis** — stenosing **tenosynovitis** of the first dorsal compartment (**abductor pollicis longus and extensor pollicis brevis**); coded **[[M65.4]]** (without laterality specification in **ICD-10-CM**); treated with **[[20550]]** injection or surgical release (**[[26145]]**)
 > - **Rotator cuff tear** — partial or complete disruption of one or more of the four **rotator cuff tendons**; non-traumatic coded M75.1xx; traumatic coded S46.0xx; the most commonly repaired **tendon** lesion in orthopaedic surgery (arthroscopic repair CPT **[[29827]]**)
 > - **Collagen type I** — the primary structural protein of tendon; organized in parallel fibril bundles aligned along the axis of tensile stress; reduced cross-linking, aging, and repetitive **microtrauma** reduce type I collagen integrity, leading to **tendinosis**
@@ -81,12 +81,12 @@ _____
 > - **[[Tenodesis]]** — surgical procedure anchoring a tendon to bone, typically to restore function after rupture or transfer; **CPT** coded by site and technique (**e.g., biceps tenodesis [[23430]]**)
 > - **[[Tenotomy]]** — surgical or **[[percutaneous]]** cutting of a **tendon** to release **contracture** or correct deformity; **CPT coded** by site and approach (**e.g., percutaneous Achilles [[27605]], open finger flexor [[26060]]**)
 > - **[[Tenorrhaphy]]** — suture repair of a lacerated or ruptured **tendon**; the root operative procedure in most **tendon** repair **CPT** codes (**e.g., [[27650]] Achilles repair, [[26410]] extensor tendon hand repair**)
-> - **Calcific tendinitis** — deposition of calcium hydroxyapatite crystals within **tendon** substance, most commonly the **supraspinatus**; coded **[[M65.20]]–[[M65.29]]** by site; produces acute inflammatory pain episodes superimposed on chronic **tendinopathy**
+> - **Calcific tendinitis** — deposition of calcium hydroxyapatite crystals within **tendon** substance, most commonly the **supraspinatus**; coded **[[M65.20]]-[[M65.29]]** by site; produces acute inflammatory pain episodes superimposed on chronic **[[tendinopathy]]**
 
 _____
 
-> [!caution]+ #### CODING CORNER 
-> <br>
+> [!example]+ #### CODING CORNER 
+> 
 > 
 > ### 🏥 ICD-10-CM CODES
 > 

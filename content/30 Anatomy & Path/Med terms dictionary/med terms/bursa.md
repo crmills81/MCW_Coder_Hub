@@ -28,7 +28,7 @@ definition: A small,fluid-filled synovial sac located between tendons,muscles,an
 ---
 
 >[!Note] DEFINITION of [[bursa]]
->**Bursa** is **a small, closed, fluid-filled synovial sac interposed between anatomical structures** — most commonly between **tendons, muscles, skin, and underlying bony prominences** — that functions as a mechanical buffer to reduce friction and absorb compressive forces during movement. Unlike a **[[joint capsule]]**, which encloses an articular space between two bones, a **bursa** is an independent, **extrasynovial structure** that does not communicate with the joint cavity unless pathologically ruptured or congenitally connected. The sac is lined by a specialized synovial membrane that secretes and reabsorbs a small volume of lubricating fluid (**synovial fluid**), maintaining near-frictionless gliding between adjacent structures. Bursae exist as either **anatomic bursae** (**present at birth, constant across individuals — e.g., subacromial, olecranon, prepatellar**) or **adventitious bursae** (**acquired in response to chronic external pressure or friction at atypical sites — e.g., over a bunion or bony prominence in an amputee's residual limb**). When the synovial lining becomes inflamed — from trauma, overuse, infection, gout, or **systemic inflammatory disease** — the condition is termed **[[bursitis]]**, characterized by excessive fluid accumulation, pain, swelling, and restricted range of motion (**ICD-10-CM M70–M71 range**). **Bursa** is commonly confused with **[[ganglion cyst]]**, which arises from joint or tendon sheath connective tissue and lacks a true synovial lining, and with **[[synovial cyst]]**, which communicates directly with an adjacent joint space.
+>**Bursa** is **a small, closed, fluid-filled synovial sac interposed between anatomical structures** — most commonly between **tendons, muscles, skin, and underlying bony prominences** — that functions as a mechanical buffer to reduce friction and absorb compressive forces during movement. Unlike a **[[joint capsule]]**, which encloses an articular space between two bones, a **bursa** is an independent, **extrasynovial structure** that does not communicate with the joint cavity unless pathologically ruptured or congenitally connected. The sac is lined by a specialized synovial membrane that secretes and reabsorbs a small volume of lubricating fluid (**synovial fluid**), maintaining near-frictionless gliding between adjacent structures. Bursae exist as either **anatomic bursae** (**present at birth, constant across individuals — e.g., subacromial, olecranon, prepatellar**) or **adventitious bursae** (**acquired in response to chronic external pressure or friction at atypical sites — e.g., over a bunion or bony prominence in an amputee's residual limb**). When the synovial lining becomes inflamed — from trauma, overuse, infection, gout, or **systemic inflammatory disease** — the condition is termed **[[bursitis]]**, characterized by excessive fluid accumulation, pain, swelling, and restricted range of motion (**ICD-10-CM M70-M71 range**). **Bursa** is commonly confused with **[[ganglion cyst]]**, which arises from joint or tendon sheath connective tissue and lacks a true synovial lining, and with **[[synovial cyst]]**, which communicates directly with an adjacent joint space.
 
 _____
 
@@ -48,7 +48,7 @@ _____
 > 
 > - **Bursal** _(adjective form — appears clinically as "bursal fluid," "bursal inflammation," "bursal injection," "bursal thickening" on imaging reports)_
 > - **Synovial bursa** _(anatomically precise synonym emphasizing the synovial lining; distinguishes true bursae from adventitious or non-synovial sacs)_
-> - **Bursal sac** _(descriptive lay/clinical term used in operative notes and patient education; coded under the same M70–M71 range depending on site and etiology)_
+> - **Bursal sac** _(descriptive lay/clinical term used in operative notes and patient education; coded under the same M70-M71 range depending on site and etiology)_
 > - **Bursae** _(Latin plural form; used in anatomical nomenclature, pathology reports, and imaging — e.g., "bilateral subacromial bursae")_
 > - **Adventitious bursa** _(acquired bursa that forms at sites of chronic pressure or friction not typically containing a bursa; common in amputee residual limbs, bunion sites, and pressure injury-prone bony prominences; coded as other bursitis NEC — M71.3x)_
 > - **Retrocalcaneal bursa** _(anatomic bursa located between the Achilles tendon and the calcaneus; inflammation coded as M77.3x — retrocalcaneal bursitis)_
@@ -63,7 +63,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Bursitis]]** — the pathological state of **[[bursa]]**; inflammation of the synovial lining resulting in excessive fluid production, pain, warmth, and swelling; principal **ICD-10-CM code**s in the M70–M71 range with site-specific and laterality subcategories
+> - **[[Bursitis]]** — the pathological state of **[[bursa]]**; inflammation of the synovial lining resulting in excessive fluid production, pain, warmth, and swelling; principal **ICD-10-CM code**s in the M70-M71 range with site-specific and laterality subcategories
 > - **[[Synovium]]** — shares the *[[synovi-]]* root with **[[synovial cyst]]** and **synovial fluid**; the specialized secretory lining membrane common to both bursae and joint capsules; its inflammation (**synovitis**) may coexist with **bursitis**
 > - **Synovial cyst** — closely related fluid-filled structure, but communicates directly with an adjacent joint space, distinguishing it from a true **[[bursa]]**; common sites include the popliteal fossa (**[[Baker's cyst]]**, M71.2x) and wrist
 > - **[[Ganglion cyst]]** — a mucinous **[[cyst]]** arising from joint or **tendon** sheath connective tissue, lacking a true synovial lining; frequently confused with bursal pathology on clinical exam; coded M67.4x
@@ -71,9 +71,9 @@ _____
 > - **[[Tendon]]** — the primary anatomical neighbor of most bursae; bursae exist specifically to reduce friction between tendons and underlying bony surfaces; concurrent **[[tendinitis]]** and **[[bursitis]]** frequently coexist and may both require coding
 > - **Synovial fluid** — the lubricating secretion produced by the synovial lining of the bursa; aspiration and laboratory analysis of bursal fluid is used to differentiate septic **bursitis**, **gout**, **pseudogout**, and inflammatory **arthritis**
 > - **Septic bursitis** — infectious **bursitis** most commonly caused by _Staphylococcus aureus_; coded M71.0x (**right**) or **[[M71.02]]** (**elbow**); requires specific documentation of organism for most specific coding and CC/MCC capture
-> - **[[Gout]]** — systemic purine metabolism disorder causing urate crystal deposition within bursae and joint spaces; acute gouty **bursitis** is a high-frequency coding scenario in inpatient **PM&R** and orthopedics (M10.0x–M10.9x)
+> - **[[Gout]]** — systemic purine metabolism disorder causing urate crystal deposition within bursae and joint spaces; acute gouty **bursitis** is a high-frequency coding scenario in inpatient **PM&R** and orthopedics (M10.0x-M10.9x)
 > - **Calcific bursitis** — bursitis complicated by calcium hydroxyapatite crystal deposition within the bursal sac; associated with rotator cuff calcific **[[tendinopathy]]**; coded M71.4x (**calcium deposit in bursa**)
-> - **Aspiration/injection, bursa** — key diagnostic and therapeutic procedure; bursal aspiration yields fluid for culture and crystal analysis; corticosteroid injection is first-line treatment for non-infectious bursitis; **CPT [[20610]]–[[20611]]**
+> - **Aspiration/injection, bursa** — key diagnostic and therapeutic procedure; bursal aspiration yields fluid for culture and crystal analysis; corticosteroid injection is first-line treatment for non-infectious bursitis; **CPT [[20610]]-[[20611]]**
 
 _____
 
@@ -192,7 +192,7 @@ _____
 > |**[[M77.31]]**|Retrocalcaneal bursitis, right foot|
 > |**[[M77.32]]**|Retrocalcaneal bursitis, left foot|
 > 
-> #### Septic Bursitis — Organism Coding (B95–B97 as additional code)
+> #### Septic Bursitis — Organism Coding (B95-B97 as additional code)
 > 
 > |Code|Description|
 > |---|---|
@@ -220,7 +220,7 @@ _____
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** Site specificity and laterality are required for all M70–M71 codes — unspecified laterality codes (**e.g., M70.60**) should be queried if documentation supports a specific side, as payers including **UnitedHealthcare** and **Aetna** increasingly flag unspecified laterality on professional claims. Sequence the underlying condition first when **bursitis** is a manifestation of **gout** (M10.0x), **rheumatoid arthritis** (M05–M06), or infection (M71.0x–M71.1x), with the bursal code as an additional diagnosis. A common undercoding alert in PM&R inpatient stays: **trochanteric bursitis (M70.6x) is frequently documented only as "hip pain" or "greater trochanter tenderness"** — both phrases should trigger a physician query to clarify whether **bursitis** has been diagnosed, as **M70.61/M70.62** are significantly more specific and support stronger **DRG** coding than R10 or M25.55x pain codes. For septic bursitis, always append the causative organism code (**B95–B97 range**) per **ICD-10-CM instructional** note at M71.0x; **MRSA bursitis** (M71.1x + **[[B95.62]]**) captures an MCC in most MS-DRG groupings. **CPT [[20611]]** (**ultrasound-guided major bursa injection**) is increasingly required by **BCBS of Wisconsin** and **UMR** for shoulder and **hip bursal injections** — confirm that permanent imaging documentation exists before billing, as this is a common audit trigger.
+> > ⚠️ **Coding Note:** Site specificity and laterality are required for all M70-M71 codes — unspecified laterality codes (**e.g., M70.60**) should be queried if documentation supports a specific side, as payers including **UnitedHealthcare** and **Aetna** increasingly flag unspecified laterality on professional claims. Sequence the underlying condition first when **bursitis** is a manifestation of **gout** (M10.0x), **rheumatoid arthritis** (M05-M06), or infection (M71.0x-M71.1x), with the bursal code as an additional diagnosis. A common undercoding alert in PM&R inpatient stays: **trochanteric bursitis (M70.6x) is frequently documented only as "hip pain" or "greater trochanter tenderness"** — both phrases should trigger a physician query to clarify whether **bursitis** has been diagnosed, as **M70.61/M70.62** are significantly more specific and support stronger **DRG** coding than R10 or M25.55x pain codes. For septic bursitis, always append the causative organism code (**B95-B97 range**) per **ICD-10-CM instructional** note at M71.0x; **MRSA bursitis** (M71.1x + **[[B95.62]]**) captures an MCC in most MS-DRG groupings. **CPT [[20611]]** (**ultrasound-guided major bursa injection**) is increasingly required by **BCBS of Wisconsin** and **UMR** for shoulder and **hip bursal injections** — confirm that permanent imaging documentation exists before billing, as this is a common audit trigger.
 
 _____
 

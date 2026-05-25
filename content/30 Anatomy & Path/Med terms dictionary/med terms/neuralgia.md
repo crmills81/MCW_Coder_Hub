@@ -78,12 +78,12 @@ _____
 
 _____
 
-> [!caution]+ #### CODING CORNER 
-> <br>
+> [!example]+ #### CODING CORNER 
+> 
 > 
 > ### 🏥 ICD-10-CM CODES
 > 
-> #### Trigeminal & Cranial Nerve Neuralgias (G50–G52)
+> #### Trigeminal & Cranial Nerve Neuralgias (G50-G52)
 > 
 > |Code|Description|
 > |---|---|

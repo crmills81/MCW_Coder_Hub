@@ -65,7 +65,7 @@ _____
 > - **[[Neutropenia]]** — the most common and clinically important subtype of leukopenia; defined as ANC <1,500/µL; codes independently under D70 family; primary risk factor for bacterial and fungal infections
 > - **[[Lymphopenia]]** — deficiency of lymphocytes (<1,000/µL in adults); coded [[D72.810]]; hallmark of HIV/AIDS, immunosuppressive therapy, and some viral infections
 > - **[[Pancytopenia]]** — simultaneous reduction of WBCs, RBCs, and platelets; most commonly caused by aplastic anemia, myelodysplastic syndrome, or marrow infiltration; coded [[D61.818]] or by underlying cause
-> - **[[Thrombocytopenia]]** — isolated platelet deficiency; frequently co-occurs with leukopenia in bone marrow failure states; coded under [[D69.3]]–[[D69.6]] depending on etiology
+> - **[[Thrombocytopenia]]** — isolated platelet deficiency; frequently co-occurs with leukopenia in bone marrow failure states; coded under [[D69.3]]-[[D69.6]] depending on etiology
 > - **[[Agranulocytosis]]** — severe, life-threatening form of neutropenia; historically used synonymously with neutropenia; coded under [[D70.9]] (unspecified) or specific etiologic subtype
 > - **Myelodysplastic syndrome (MDS)** — clonal bone marrow disorder causing ineffective [[hematopoiesis]] and cytopenias including leukopenia; coded under D46 category; important underlying cause to code when documented
 > - **Aplastic anemia** — bone marrow failure causing pancytopenia including leukopenia; coded [[D61.3]] (idiopathic), [[D61.09]] (other constitutional), [[D61.1]] (drug-induced); must distinguish from MDS
@@ -108,7 +108,7 @@ _____
 > |---|---|
 > |**[[D61.01]]**|Constitutional (pure) red cell aplasia (Diamond-Blackfan anemia)|
 > |**[[D61.09]]**|Other constitutional aplastic anemia|
-> |**[[D61.1]]**|Drug-induced aplastic anemia (use additional code for adverse effect — T36–T50 with 5th/6th character 5)|
+> |**[[D61.1]]**|Drug-induced aplastic anemia (use additional code for adverse effect — T36-T50 with 5th/6th character 5)|
 > |**[[D61.2]]**|Aplastic anemia due to other external agents|
 > |**[[D61.3]]**|Idiopathic aplastic anemia|
 > |**[[D61.810]]**|ABO incompatible progenitor cell transplant|
@@ -124,8 +124,8 @@ _____
 > |**[[D46.0]]**|Refractory anemia without ring sideroblasts, so stated|
 > |**[[D46.1]]**|Refractory anemia with ring sideroblasts (RARS)|
 > |**[[D46.20]]**|Refractory anemia with excess of blasts, unspecified (RAEB NOS)|
-> |**[[D46.21]]**|Refractory anemia with excess of blasts 1 (RAEB-1; 5–9% blasts)|
-> |**[[D46.22]]**|Refractory anemia with excess of blasts 2 (RAEB-2; 10–19% blasts)|
+> |**[[D46.21]]**|Refractory anemia with excess of blasts 1 (RAEB-1; 5-9% blasts)|
+> |**[[D46.22]]**|Refractory anemia with excess of blasts 2 (RAEB-2; 10-19% blasts)|
 > |**[[D46.4]]**|Refractory anemia, unspecified|
 > |**[[D46.9]]**|Myelodysplastic syndrome, unspecified (preleukemia NOS)|
 > |**[[D46.A]]**|Refractory cytopenia with multilineage dysplasia (RCMD)|

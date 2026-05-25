@@ -66,18 +66,18 @@ _____
 > - **[[Synarthrosis]]** — the functional joint class to which **gomphosis** belongs; denotes a joint with little to no movement; other synarthroses include sutures and some **[[syndesmoses]]**
 > - **[[Syndesmosis]]** — a fibrous joint connecting bone to bone via an interosseous ligament or membrane (e.g., tibiofibular); closely related structurally but differs from gomphosis in that it connects two bones rather than tooth to bone
 > - **Suture** — the fibrous joint type connecting cranial bones; like gomphosis, it is a synarthrosis with fibrous tissue uniting the structures, but it connects bone to bone with interlocking margins
-> - **[[Periodontitis]]** — inflammatory destruction of the periodontal ligament and surrounding alveolar bone that directly compromises the integrity of the gomphosis; classified under **[[K05.211]]–[[K05.329]]** depending on type, severity, and distribution
+> - **[[Periodontitis]]** — inflammatory destruction of the periodontal ligament and surrounding alveolar bone that directly compromises the integrity of the gomphosis; classified under **[[K05.211]]-[[K05.329]]** depending on type, severity, and distribution
 > - **[[Periodontosis]]** — non-inflammatory degenerative disease of the periodontium affecting the gomphosis; **[[K05.4]]**
 > - **[[Ankylosis]] (dental)** — pathological fusion of the cementum/tooth root directly to alveolar bone, obliterating the periodontal ligament and eliminating the gomphosis; occurs in primary teeth and reimplanted teeth; **[[K08.5]]** range
 > - **Tooth avulsion** — traumatic complete **displacement** of a tooth from its **gomphosis** (**socket**); severs the periodontal ligament entirely; **[[S02.5XXA]] (fracture of tooth)** / **[[S03.2XXA]] (dislocation of tooth, initial encounter)**
 > - **[[Scurvy]]** — vitamin C deficiency disease that weakens and destroys collagen in the periodontal ligament, directly compromising the **gomphosis** and causing tooth mobility and loss; **[[E54]]**
-> - **[[Orthodontic tooth movement]]** — the clinical application of controlled, sustained force to incrementally stretch and remodel the periodontal ligament of the **gomphosis**, allowing repositioning of teeth over months; relies on the biomechanical plasticity of the joint
+> - **Orthodontic tooth movement** — the clinical application of controlled, sustained force to incrementally stretch and remodel the periodontal ligament of the **gomphosis**, allowing repositioning of teeth over months; relies on the biomechanical plasticity of the joint
 > - **Periapical radiograph** _(dental X-ray)_ — primary imaging modality for evaluating the **gomphosis**; visualizes the tooth root, periodontal ligament space, lamina dura, and alveolar bone; **CPT D0220** (ADA) / billed under **[[70300]]** in a medical imaging context
 
 _____
 
-> [!caution]+ #### CODING CORNER 
-> <br>
+> [!example]+ #### CODING CORNER 
+> 
 > 
 > ### 🏥 ICD-10-CM CODES
 > 
@@ -151,7 +151,7 @@ _____
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** The **gomphosis** is not coded as a joint disorder in ICD-10-CM — there is no standalone "**gomphosis disease**" code; instead, you always code the specific pathological process affecting the periodontal ligament and alveolar socket (**e.g., periodontitis, periodontosis, traumatic dislocation**). For inpatient profee claims, the K05 **periodontitis** codes require **specificity for type (aggressive vs. chronic), distribution (localized vs. generalized), and severity (slight/moderate/severe/unspecified)** — do not default to **[[K05.6]]** (unspecified) when documentation supports a more specific code, as this is one of the most undercoded categories in oral medicine on profee claims. A common undercoding trigger is provider documentation of **"bone loss around teeth," "attachment loss," or "mobility of teeth"** — these phrases should prompt a query for **periodontitis** type and severity to support the most specific K05 code. For traumatic tooth **avulsion** or luxation (**gomphosis disruption**), ensure the S03.2XX- code captures the correct encounter type (**A = initial, D = subsequent, S = sequela**), and pair with an external cause code when trauma etiology is documented. **CPT [[70300]]–[[70320]]** are the primary imaging codes for visualizing the periodontal ligament space; confirm the radiology report specifies the tooth/region examined for medical necessity support.
+> > ⚠️ **Coding Note:** The **gomphosis** is not coded as a joint disorder in ICD-10-CM — there is no standalone "**gomphosis disease**" code; instead, you always code the specific pathological process affecting the periodontal ligament and alveolar socket (**e.g., periodontitis, periodontosis, traumatic dislocation**). For inpatient profee claims, the K05 **periodontitis** codes require **specificity for type (aggressive vs. chronic), distribution (localized vs. generalized), and severity (slight/moderate/severe/unspecified)** — do not default to **[[K05.6]]** (unspecified) when documentation supports a more specific code, as this is one of the most undercoded categories in oral medicine on profee claims. A common undercoding trigger is provider documentation of **"bone loss around teeth," "attachment loss," or "mobility of teeth"** — these phrases should prompt a query for **periodontitis** type and severity to support the most specific K05 code. For traumatic tooth **avulsion** or luxation (**gomphosis disruption**), ensure the S03.2XX- code captures the correct encounter type (**A = initial, D = subsequent, S = sequela**), and pair with an external cause code when trauma etiology is documented. **CPT [[70300]]-[[70320]]** are the primary imaging codes for visualizing the periodontal ligament space; confirm the radiology report specifies the tooth/region examined for medical necessity support.
 
 _____
 

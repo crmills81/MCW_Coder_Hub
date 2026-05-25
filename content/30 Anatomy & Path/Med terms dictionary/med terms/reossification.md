@@ -32,7 +32,7 @@ definition: The process by which new bone tissue forms and mineralizes in an are
 ---
 
 >[!Note] DEFINITION of [[reossification]]
->**Reossification** is t**he biological process by which bone tissue is regenerated and re-mineralized in a region where osseous continuity has been disrupted, destroyed, or lost** — whether due to fracture, surgical **resection**, osteolytic disease, infection, **avascular [[necrosis]]**, or metabolic bone loss. It differs from primary bone formation (**[[ossification]]**) in that it implies restoration of previously existing bone, and from remodeling in that **reossification** specifically refers to the deposition of new bone matrix in a structurally deficient area rather than the cyclical turnover of intact cortical or trabecular bone. The underlying mechanism involves the recruitment and differentiation of [[osteoblasts]], which synthesize and secrete osteoid (**unmineralized bone matrix**) that is subsequently calcified via hydroxyapatite crystal deposition — a process regulated by parathyroid hormone, vitamin D, and local growth factors such as BMP-2 and TGF-β. **Reossification** may be physiological (**e.g., normal fracture callus formation progressing through fibrocartilaginous and bony callus stages**) or pathological/delayed (**e.g., nonunion, malunion, or avascular necrosis inhibiting normal consolidation**). Clinically relevant subtypes include post-fracture consolidation (M84.3x–M84.5x), bone healing after surgical osteotomy, reossification of osteolytic lesions following bisphosphonate or denosumab therapy (**in metastatic bone disease — [[C79.51]]–[[C79.52]]**), and vertebral body **reossification** following vertebroplasty or kyphoplasty. It is commonly confused with **[[ossification]]** (**de novo bone formation, as in heterotopic ossification — M61.xx**) and **[[calcification]]** (**calcium deposition in soft tissue that does not represent true bone matrix**).
+>**Reossification** is t**he biological process by which bone tissue is regenerated and re-mineralized in a region where osseous continuity has been disrupted, destroyed, or lost** — whether due to fracture, surgical **resection**, osteolytic disease, infection, **avascular [[necrosis]]**, or metabolic bone loss. It differs from primary bone formation (**[[ossification]]**) in that it implies restoration of previously existing bone, and from remodeling in that **reossification** specifically refers to the deposition of new bone matrix in a structurally deficient area rather than the cyclical turnover of intact cortical or trabecular bone. The underlying mechanism involves the recruitment and differentiation of [[osteoblasts]], which synthesize and secrete osteoid (**unmineralized bone matrix**) that is subsequently calcified via hydroxyapatite crystal deposition — a process regulated by parathyroid hormone, vitamin D, and local growth factors such as BMP-2 and TGF-β. **Reossification** may be physiological (**e.g., normal fracture callus formation progressing through fibrocartilaginous and bony callus stages**) or pathological/delayed (**e.g., nonunion, malunion, or avascular necrosis inhibiting normal consolidation**). Clinically relevant subtypes include post-fracture consolidation (M84.3x-M84.5x), bone healing after surgical osteotomy, reossification of osteolytic lesions following bisphosphonate or denosumab therapy (**in metastatic bone disease — [[C79.51]]-[[C79.52]]**), and vertebral body **reossification** following vertebroplasty or kyphoplasty. It is commonly confused with **[[ossification]]** (**de novo bone formation, as in heterotopic ossification — M61.xx**) and **[[calcification]]** (**calcium deposition in soft tissue that does not represent true bone matrix**).
 
 _____
 
@@ -54,9 +54,9 @@ _____
 > - **Reossified** _(adjective form — used clinically in phrases such as "reossified lesion," "reossified fracture site," "reossified vertebral body" on imaging reports)_
 > - **Bone regrowth** _(lay and general clinical synonym; used broadly by patients and in non-specialist documentation to describe restoration of bone density or continuity)_
 > - **Osseous regeneration** _(preferred clinical synonym in surgical and oral-maxillofacial contexts; also used in guided bone regeneration [GBR] for craniofacial and dental implant procedures)_
-> - **Bone reconsolidation** _(synonym used specifically in the context of fracture healing — coded along M84.3x–M84.5x for fracture stages; common in orthopedic and trauma surgery documentation)_
-> - **Fracture callus formation|Fracture callus** _(the early, unmineralized phase of reossification at a fracture site; progresses through soft callus → hard callus → remodeling phases; radiographically evident at 2–6 weeks post-injury)_
-> - **Bone healing** _(broad clinical synonym encompassing all phases of fracture repair including hematoma formation, inflammation, soft callus, hard callus, and remodeling; M84.3x–M84.5x range)_
+> - **Bone reconsolidation** _(synonym used specifically in the context of fracture healing — coded along M84.3x-M84.5x for fracture stages; common in orthopedic and trauma surgery documentation)_
+> - **Fracture callus formation|Fracture callus** _(the early, unmineralized phase of reossification at a fracture site; progresses through soft callus → hard callus → remodeling phases; radiographically evident at 2-6 weeks post-injury)_
+> - **Bone healing** _(broad clinical synonym encompassing all phases of fracture repair including hematoma formation, inflammation, soft callus, hard callus, and remodeling; M84.3x-M84.5x range)_
 > - **Heterotopic ossification** _(pathological form in which bone forms in non-skeletal soft tissue — muscles, tendons, joint capsules — following trauma, burns, spinal cord injury, or total joint arthroplasty; M61.xx; distinct from reossification at the native bone site)_
 > - **[[Osteogenesis]]** _(broader term for any new bone formation; reossification is a subset of osteogenesis specifically referring to restoration of lost bone, whereas osteogenesis also covers embryonic and developmental bone formation)_
 > - **Angiogenesis-coupled bone repair** _(mechanistic synonym used in research literature; highlights the vascular invasion component essential to reossification — [[avascular necrosis]] represents its failure)_
@@ -84,13 +84,12 @@ _____
 
 _____
 
-> [!caution]+ #### CODING CORNER
+> [!example]+ #### CODING CORNER
 > 
-
 >
 > ### 🏥 ICD-10-CM CODES
 >
-> #### Fracture Healing & Delayed Bone Consolidation (M84.3x–M84.5x — Laterality & Site Required)
+> #### Fracture Healing & Delayed Bone Consolidation (M84.3x-M84.5x — Laterality & Site Required)
 >
 > |Code|Description|
 > |---|---|

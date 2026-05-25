@@ -26,7 +26,7 @@ definition: Inflammation of one or more joints,characterized by pain,swelling,st
 ---
 
 >[!Note] DEFINITION of [[arthritis]]
->**Arthritis** is a broad clinical term denoting inflammation of one or more joints, characterized by the cardinal signs of rubor, calor, dolor, and **[[tumor]]** — redness, warmth, pain, and swelling — often accompanied by progressive loss of joint function and range of motion. It is distinguished from **[[arthralgia]]**, which denotes joint pain without objective evidence of **[[inflammation]]**, and from **[[arthrosis]]**, a term historically used for non-inflammatory degenerative joint disease, though the boundary blurs considerably in late-stage **[[osteoarthritis]]** (M15–M19). The underlying mechanism varies by etiology: **[[autoimmune]]** forms such as **[[rheumatoid arthritis]]** (M05–M06) involve synovial membrane **[[hyperplasia]]** driven by cytokine-mediated immune dysregulation, whereas crystal-induced forms such as **[[gout]]** (M10) result from monosodium urate deposition triggering **neutrophil-mediated** acute inflammation. **Arthritis** may be physiological only in a trivial developmental sense; in virtually all clinical presentations it represents a pathological process, ranging from **acute infectious arthritis** (M00) to **chronic degenerative [[osteoarthritis]]** (M15–M19) and systemic **[[autoimmune]]** **[[polyarthritis]]**. Clinically relevant subtypes encountered in inpatient coding include **infectious/septic arthritis** (M00–M02), **[[rheumatoid arthritis]]** with and without **rheumatoid** factor (M05–M06), crystal arthropathies including **gout** and **pseudogout** (M10–M11), **psoriatic arthritis** (L40.5x, M07.x), and primary **[[osteoarthritis]]** (M15–M19). It is commonly confused with **[[bursitis]]** (M70–M71) and **[[tendinitis]]** (M75–M77), which involve periarticular structures rather than the joint space itself, and with **[[fibromyalgia]]** (**[[M79.7]]**), which produces diffuse musculoskeletal pain without true joint **[[inflammation]]**.
+>**Arthritis** is a broad clinical term denoting inflammation of one or more joints, characterized by the cardinal signs of rubor, calor, dolor, and **[[tumor]]** — redness, warmth, pain, and swelling — often accompanied by progressive loss of joint function and range of motion. It is distinguished from **[[arthralgia]]**, which denotes joint pain without objective evidence of **[[inflammation]]**, and from **[[arthrosis]]**, a term historically used for non-inflammatory degenerative joint disease, though the boundary blurs considerably in late-stage **[[osteoarthritis]]** (M15-M19). The underlying mechanism varies by etiology: **[[autoimmune]]** forms such as **[[rheumatoid arthritis]]** (M05-M06) involve synovial membrane **[[hyperplasia]]** driven by cytokine-mediated immune dysregulation, whereas crystal-induced forms such as **[[gout]]** (M10) result from monosodium urate deposition triggering **neutrophil-mediated** acute inflammation. **Arthritis** may be physiological only in a trivial developmental sense; in virtually all clinical presentations it represents a pathological process, ranging from **acute infectious arthritis** (M00) to **chronic degenerative [[osteoarthritis]]** (M15-M19) and systemic **[[autoimmune]]** **[[polyarthritis]]**. Clinically relevant subtypes encountered in inpatient coding include **infectious/septic arthritis** (M00-M02), **[[rheumatoid arthritis]]** with and without **rheumatoid** factor (M05-M06), crystal arthropathies including **gout** and **pseudogout** (M10-M11), **psoriatic arthritis** (L40.5x, M07.x), and primary **[[osteoarthritis]]** (M15-M19). It is commonly confused with **[[bursitis]]** (M70-M71) and **[[tendinitis]]** (M75-M77), which involve periarticular structures rather than the joint space itself, and with **[[fibromyalgia]]** (**[[M79.7]]**), which produces diffuse musculoskeletal pain without true joint **[[inflammation]]**.
 
 _____
 
@@ -50,7 +50,7 @@ _____
 > - **[[Oligoarthritis]]** _(involvement of two to four joints; commonly used in pediatric rheumatology and early psoriatic arthritis documentation)_
 > - **Septic arthritis** _(acute infectious form caused by bacterial hematogenous seeding or direct inoculation of the joint space; M00.x — site and laterality required)_
 > - **[[Rheumatoid arthritis]]** _(systemic autoimmune synovitis with seropositive (M05.x) and seronegative (M06.x) subtypes; high-priority inpatient diagnosis with significant CC/MCC capture potential)_
-> - **[[Osteoarthritis]]** _(degenerative, non-primarily-inflammatory form characterized by cartilage breakdown and subchondral bone changes; primary forms M15–M19 by site; secondary forms M19.2x)_
+> - **[[Osteoarthritis]]** _(degenerative, non-primarily-inflammatory form characterized by cartilage breakdown and subchondral bone changes; primary forms M15-M19 by site; secondary forms M19.2x)_
 > - **Crystal arthropathy** _(acute or chronic arthritis triggered by crystal deposition — monosodium urate in gout (M10.x), calcium pyrophosphate in pseudogout/CPPD (M11.x))_
 > - **Psoriatic arthritis** _(inflammatory arthritis associated with psoriasis; coded under M07.x when psoriatic etiology is documented; requires L40.5x dual-coding per convention)_
 > - **Reactive arthritis** _(post-infectious sterile joint inflammation following GI or GU infection; M02.x — site required; formerly called Reiter syndrome)_
@@ -63,8 +63,8 @@ _____
 >
 > - **[[arthralgia]]** — joint pain without objective inflammatory signs; distinguished from arthritis by the absence of swelling, warmth, or synovial effusion; coded separately under M25.5x when no underlying arthritis diagnosis is documented
 > - **[[synovitis]]** — inflammation limited to the synovial membrane lining the joint; may precede or accompany full arthritis; coded under M65.x or M67.2x depending on site and acuity
-> - **[[bursitis]]** — inflammation of the fluid-filled bursa sac adjacent to joints; shares the *[[-itis]]* suffix; coded under M70–M71 and distinguished from arthritis by the periarticular rather than intra-articular location
-> - **[[osteoarthritis]]** — the most common form of joint disease, characterized by progressive cartilage degradation, subchondral sclerosis, and osteophyte formation; while not primarily inflammatory, secondary synovitis frequently develops (M15–M19)
+> - **[[bursitis]]** — inflammation of the fluid-filled bursa sac adjacent to joints; shares the *[[-itis]]* suffix; coded under M70-M71 and distinguished from arthritis by the periarticular rather than intra-articular location
+> - **[[osteoarthritis]]** — the most common form of joint disease, characterized by progressive cartilage degradation, subchondral sclerosis, and osteophyte formation; while not primarily inflammatory, secondary synovitis frequently develops (M15-M19)
 > - **[[rheumatoid arthritis]]** — the prototypical autoimmune inflammatory arthritis; systemic disease with extra-articular manifestations including rheumatoid nodules, interstitial lung disease, and vasculitis (M05.x seropositive, M06.x seronegative)
 > - **[[gout]]** — acute crystal arthritis caused by monosodium urate crystal deposition, classically in the first MTP joint (podagra); M10.x — requires site specificity and coding of associated hyperuricemia (E79.0) when documented
 > - **[[pannus]]** — the invasive proliferating synovial tissue that erodes cartilage and bone in rheumatoid arthritis; key pathological mechanism differentiating RA from degenerative forms
@@ -107,7 +107,7 @@ _____
 > |**[[M00.80]]**|Arthritis due to other bacteria, unspecified joint|
 > |**[[M00.9]]**|Pyogenic arthritis, unspecified|
 >
-> #### Rheumatoid Arthritis | Autoimmune Inflammatory Forms (M05–M06)
+> #### Rheumatoid Arthritis | Autoimmune Inflammatory Forms (M05-M06)
 >
 > |Code|Description|
 > |---|---|
@@ -135,7 +135,7 @@ _____
 > |**[[M06.4]]**|Inflammatory polyarthropathy|
 > |**[[M06.9]]**|Rheumatoid arthritis, unspecified|
 >
-> #### Crystal Arthropathies | Gout and CPPD (M10–M11)
+> #### Crystal Arthropathies | Gout and CPPD (M10-M11)
 >
 > |Code|Description|
 > |---|---|
@@ -156,7 +156,7 @@ _____
 > |**[[M11.20]]**|Other chondrocalcinosis, unspecified site (CPPD/pseudogout)|
 > |**[[M11.9]]**|Crystal arthropathy, unspecified|
 >
-> #### Osteoarthritis | Degenerative Joint Disease (M15–M19)
+> #### Osteoarthritis | Degenerative Joint Disease (M15-M19)
 >
 > |Code|Description|
 > |---|---|
@@ -182,7 +182,7 @@ _____
 > |**[[M19.211]]**|Secondary osteoarthritis, right shoulder|
 > |**[[M19.271]]**|Secondary osteoarthritis, right ankle and foot|
 >
-> #### Other Arthritis Forms | Psoriatic, Reactive, Juvenile, Neuropathic (M02, M07–M08, M13–M14)
+> #### Other Arthritis Forms | Psoriatic, Reactive, Juvenile, Neuropathic (M02, M07-M08, M13-M14)
 >
 > |Code|Description|
 > |---|---|

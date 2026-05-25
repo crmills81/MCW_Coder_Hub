@@ -27,7 +27,7 @@ definition: A type of joint in which adjacent bones are united by fibrous connec
 ---
 
 >[!Note] DEFINITION of [[synarthrosis]]
->**Synarthrosis** is **an immovable or nearly immovable articulation in which two bones are united by intervening fibrous connective tissue, cartilage, or bone, with no synovial cavity present**. Unlike **[[diarthrosis]]** (**freely movable, synovial joints**) or [**[amphiarthrosis]]** (**slightly movable joints such as the pubic symphysis**), a **synarthrosis** is defined by its functional immobility — making it the most mechanically stable joint classification. The structural mechanism involves dense fibrous tissue, hyaline cartilage, or direct bony fusion filling the narrow space between opposing bone surfaces, eliminating gliding or rotational motion. **Synarthroses** may be physiological (e.g., the cranial sutures in a healthy adult skull — **[[M26.69]]**) or pathological when joint **ankylosis** develops secondary to disease (e.g., **[[ankylosing spondylitis]]** — **[[M45.0]]–[[M45.9]]**). The three primary subtypes encountered in clinical coding are **sutures** (**skull bones, united by fibrous tissue**), **gomphoses** (**tooth-in-socket joints — [[K08.8]]**), and **synchondroses** (**cartilaginous unions such as the first sternocostal joint and epiphyseal growth plates**). **Synarthrosis** is commonly confused with **[[ankylosis]]**, but the distinction is critical: **synarthrosis** is a normal anatomical joint type, whereas **ankylosis** (**[[M24.60]]–[[M24.679]]**) is an abnormal pathological fusion of a joint that was previously mobile.
+>**Synarthrosis** is **an immovable or nearly immovable articulation in which two bones are united by intervening fibrous connective tissue, cartilage, or bone, with no synovial cavity present**. Unlike **[[diarthrosis]]** (**freely movable, synovial joints**) or [**[amphiarthrosis]]** (**slightly movable joints such as the pubic symphysis**), a **synarthrosis** is defined by its functional immobility — making it the most mechanically stable joint classification. The structural mechanism involves dense fibrous tissue, hyaline cartilage, or direct bony fusion filling the narrow space between opposing bone surfaces, eliminating gliding or rotational motion. **Synarthroses** may be physiological (e.g., the cranial sutures in a healthy adult skull — **[[M26.69]]**) or pathological when joint **ankylosis** develops secondary to disease (e.g., **[[ankylosing spondylitis]]** — **[[M45.0]]-[[M45.9]]**). The three primary subtypes encountered in clinical coding are **sutures** (**skull bones, united by fibrous tissue**), **gomphoses** (**tooth-in-socket joints — K08.8**), and **synchondroses** (**cartilaginous unions such as the first sternocostal joint and epiphyseal growth plates**). **Synarthrosis** is commonly confused with **[[ankylosis]]**, but the distinction is critical: **synarthrosis** is a normal anatomical joint type, whereas **ankylosis** (**[[M24.60]]-[[M24.679]]**) is an abnormal pathological fusion of a joint that was previously mobile.
 
 _____
 
@@ -52,7 +52,7 @@ _____
 > - **Fibrous joint** _(clinical descriptor used when categorizing by tissue type rather than mobility — the majority of synarthroses are fibrous; coded by underlying anatomy)_
 > - **Suture\|Cranial suture** _(fibrous synarthrosis between flat skull bones; most classic example — [[M26.69]] for other specified disorders of jaw/skull joint)_
 > - **[[Gomphosis]]** _(peg-in-socket synarthrosis; the articulation of a tooth root in the alveolar socket — [[K08.8]] Other specified disorders of teeth)_
-> - **[[Synchondrosis]]** _(cartilaginous synarthrosis; united by hyaline cartilage — includes growth plate joints and first sternocostal junction; can be implicated in conditions coded under [[M91.0]]–[[M93.9]])_
+> - **[[Synchondrosis]]** _(cartilaginous synarthrosis; united by hyaline cartilage — includes growth plate joints and first sternocostal junction; can be implicated in conditions coded under [[M91.0]]-[[M93.9]])_
 > - **[[Synostosis]]** _(the most rigid form — bony fusion across what was once a joint space; e.g., premature cranial suture fusion — [[Q75.0]] Craniosynostosis)_
 > - **[[Amphiarthrosis]]** _(slightly movable joint — partially overlaps with synchondrosis; distinguished by having slightly more mobility, such as the pubic symphysis — [[M53.3]])_
 
@@ -62,19 +62,19 @@ _____
 > 
 > - **[[Diarthrosis]]** — the functional opposite of synarthrosis; a freely movable synovial joint (**e.g., knee, shoulder**) with a fluid-filled joint cavity, articular cartilage, and a synovial membrane; the most common joint type in the extremities
 > - **[[Amphiarthrosis]]** — shares the *[[arthr-]]* root; the intermediate joint mobility class — slightly movable joints (e.g., intervertebral discs, pubic symphysis) that fall between synarthrosis and diarthrosis
-> - **[[Ankylosis]]** — pathological immobility of a previously mobile joint (**[[M24.60]]–[[M24.679]]**); clinically resembles synarthrosis in function, but is an acquired pathological state — not a normal anatomical classification
-> - **[[Ankylosing spondylitis]]** — inflammatory disease that progressively converts spinal amphiarthroses and diarthroses into synarthrosis-like fused joints (**[[M45.0]]–[[M45.9]]**); hallmark "bamboo spine" radiographic finding
+> - **[[Ankylosis]]** — pathological immobility of a previously mobile joint (**[[M24.60]]-[[M24.679]]**); clinically resembles synarthrosis in function, but is an acquired pathological state — not a normal anatomical classification
+> - **[[Ankylosing spondylitis]]** — inflammatory disease that progressively converts spinal amphiarthroses and diarthroses into synarthrosis-like fused joints (**[[M45.0]]-[[M45.9]]**); hallmark "bamboo spine" radiographic finding
 > - **[[arthrodesis]]** — surgical creation of a synarthrosis-like state in a previously mobile joint; intentional joint fusion procedure (**CPT [[27279]], [[27280]], [[22612]], etc.**)
 > - **[[Craniosynostosis]]** — premature pathological fusion of cranial sutures (synarthroses) in infants (**[[Q75.0]]**); leads to skull deformity and increased intracranial pressure
 > - **[[Synostosis]]** — bony bridging/fusion across a joint; the structural end-stage of synarthrosis involving ossification of the interosseous space
 > - **Articular cartilage** — tissue type defining **[[synchondrosis]]** subtype of synarthrosis; also present in diarthroses as the gliding surface
 > - **Fibrous connective tissue** — primary uniting tissue in sutures and gomphoses; dense collagen bundles that bind opposing bone surfaces with minimal compliance
-> - **Joint ankylosis\|Spinal ankylosis** — progressive vertebral fusion converting mobile segments into a synarthrosis-like state; hallmark of advanced spondylarthropathies (**[[M45.0]]–[[M45.9]], [[M47.816]]**)
+> - **Joint ankylosis\|Spinal ankylosis** — progressive vertebral fusion converting mobile segments into a synarthrosis-like state; hallmark of advanced [[spondylarthropathies]] (**[[M45.0]]-[[M45.9]], [[M47.816]]**)
 
 _____
 
-> [!cite]+ #### CODING CORNER 
-> <br>
+> [!example]+ #### CODING CORNER 
+> 
 > 
 > ### 🏥 ICD-10-CM CODES
 > 

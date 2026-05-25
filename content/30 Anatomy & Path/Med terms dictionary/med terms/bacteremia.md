@@ -85,7 +85,7 @@ _____
 > |---|---|
 > |**[[R78.81]]**|Bacteremia — used when bacteremia is documented WITHOUT meeting sepsis criteria; this is an "abnormal finding" code under Chapter 18; NOT a sepsis code|
 >
-> #### Sepsis by Organism (When Bacteremia Meets Sepsis Criteria — A40–A41)
+> #### Sepsis by Organism (When Bacteremia Meets Sepsis Criteria — A40-A41)
 >
 > |Code|Description|
 > |---|---|
@@ -110,12 +110,12 @@ _____
 > |**[[A41.89]]**|Other specified sepsis|
 > |**[[A41.9]]**|Sepsis, unspecified organism|
 >
-> #### Severe Sepsis & Septic Shock (Sequenced After A40–A41)
+> #### Severe Sepsis & Septic Shock (Sequenced After A40-A41)
 >
 > |Code|Description|
 > |---|---|
-> |**[[R65.20]]**|Severe sepsis without septic shock — requires A40–A41 code first|
-> |**[[R65.21]]**|Severe sepsis with septic shock — requires A40–A41 code first|
+> |**[[R65.20]]**|Severe sepsis without septic shock — requires A40-A41 code first|
+> |**[[R65.21]]**|Severe sepsis with septic shock — requires A40-A41 code first|
 >
 > #### Fungal & Other Non-Bacterial Bloodstream Infections
 >

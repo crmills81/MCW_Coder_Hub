@@ -30,7 +30,7 @@ definition: A suffix denoting a condition of the blood or a specific substance w
 ---
 
 >[!Note] DEFINITION of [[-emia]]
->**-emia** is **a noun-forming suffix derived from Greek, used extensively in medical terminology to denote a condition of the blood** — specifically the presence of a particular substance in the blood or an abnormal quantity of a normal blood constituent. It does not describe a single disease but rather a structural element that creates an entire class of clinical terms, each defined by the combining form that precedes it (e.g., **[[anemia]]**, **[[hyperglycemia]]**, **[[uremia]]**, **[[bacteremia]]**). The underlying pathological or physiological mechanism varies by term: some -emia words indicate excess (e.g., **[[hypercalcemia]]** — too much calcium), some indicate deficiency (e.g., **[[hyponatremia]]** — too little sodium), and some indicate the mere presence of a substance not normally found freely in blood (e.g., **[[bacteremia]]** — bacteria in the blood). The suffix can describe physiological states (e.g., **[[hyperemia]]** — increased blood flow as a normal inflammatory response) as well as frank pathology (e.g., **[[septicemia]]** — systemic infection in the blood). In **ICD-10-CM**, **-emia** terms are distributed across multiple chapters depending on etiology: blood and blood-forming organ disorders (**Chapter 3, D50–D89**), endocrine/metabolic disorders (**Chapter 4, E00–E89**), infectious conditions (**Chapter 1, A00–B99**), and toxic or drug-related causes (Chapter 19–20). It is commonly confused with **[[-uria]]** (substance in the urine) and **[[-osis]]** (a condition or process, not blood-specific); the key distinguishing feature of **-emia** is its explicit blood-compartment specificity.
+>**-emia** is **a noun-forming suffix derived from Greek, used extensively in medical terminology to denote a condition of the blood** — specifically the presence of a particular substance in the blood or an abnormal quantity of a normal blood constituent. It does not describe a single disease but rather a structural element that creates an entire class of clinical terms, each defined by the combining form that precedes it (e.g., **[[anemia]]**, **[[hyperglycemia]]**, **[[uremia]]**, **[[bacteremia]]**). The underlying pathological or physiological mechanism varies by term: some [[-emia]] words indicate excess (e.g., **[[hypercalcemia]]** — too much calcium), some indicate deficiency (e.g., **[[hyponatremia]]** — too little sodium), and some indicate the mere presence of a substance not normally found freely in blood (e.g., **[[bacteremia]]** — bacteria in the blood). The suffix can describe physiological states (e.g., **[[hyperemia]]** — increased blood flow as a normal inflammatory response) as well as frank pathology (e.g., **[[septicemia]]** — systemic infection in the blood). In **ICD-10-CM**, **-emia** terms are distributed across multiple chapters depending on etiology: blood and blood-forming organ disorders (**Chapter 3, D50-D89**), endocrine/metabolic disorders (**Chapter 4, E00-E89**), infectious conditions (**Chapter 1, A00-B99**), and toxic or drug-related causes (Chapter 19-20). It is commonly confused with **[[-uria]]** (substance in the urine) and **[[-osis]]** (a condition or process, not blood-specific); the key distinguishing feature of **-emia** is its explicit blood-compartment specificity.
 
 _____
 
@@ -43,7 +43,7 @@ _____
 >|**haem-** / **[[hem-]]**|Greek _haima_ (HY-mah)|"**blood**," "**red substance**" — the combining form used before vowels or in compound terms|
 >|**[[-ia]]**|Greek _-ia_ (ee-ah)|Noun-forming suffix — "**state or condition of**"; marks the full word as a noun denoting a pathological or physiological condition|
 >
-> The suffix entered English medical vocabulary in the **1840s–1850s** as *-emia* (noun-forming), borrowed through New Latin *-aemia*, from Greek ***haima*** ("blood") — literally **"a condition of the blood."** The variant *-aemia* remains standard in British English (e.g., *anaemia*, *leukaemia*), while *-emia* is the American English standard. The root *haima* ("blood") connects -emia to the entire **[[haem-]]/[[hem-]] root family**: ***[[hematology]]*** (study of blood), ***[[hemoglobin]]*** (blood's oxygen-carrying protein → *haima* + *globus*), ***[[hemorrhage]]*** (bursting forth of blood → *haima* + *rhegnynai*), and ***[[hemostasis]]*** (stopping of blood flow). The **combining root** *haem-* appears broadly across clinical medicine: ***[[hemophilia]]***, ***[[hematoma]]***, ***[[hemodialysis]]***, ***[[hematuria]]***, and ***[[hemolysis]]***.
+> The suffix entered English medical vocabulary in the **1840s-1850s** as *-emia* (noun-forming), borrowed through New Latin *-aemia*, from Greek ***haima*** ("blood") — literally **"a condition of the blood."** The variant *-aemia* remains standard in British English (e.g., *anaemia*, *leukaemia*), while *-emia* is the American English standard. The root *haima* ("blood") connects -emia to the entire **[[haem-]]/[[hem-]] root family**: ***[[hematology]]*** (study of blood), ***[[hemoglobin]]*** (blood's oxygen-carrying protein → *haima* + *globus*), ***[[hemorrhage]]*** (bursting forth of blood → *haima* + *rhegnynai*), and ***[[hemostasis]]*** (stopping of blood flow). The **combining root** *haem-* appears broadly across clinical medicine: ***[[hemophilia]]***, ***[[hematoma]]***, ***[[hemodialysis]]***, ***[[hematuria]]***, and ***[[hemolysis]]***.
 
 _____
 
@@ -54,11 +54,11 @@ _____
 > - **blood dyscrasia** *(lay/clinical synonym for abnormal blood conditions broadly; often used in oncology and hematology settings; coded variously under [[D75.9]] or specific disease codes)*
 > - **blood condition** *(lay term; used in patient education; maps to the specific -emia code for the substance or deficiency involved)*
 > - **[[hyperemia]]** *(excess blood in a tissue or vessel — a physiological or reactive phenomenon; distinct from systemic blood composition disorders; coded under [[I77.89]] or site-specific congestion codes)*
-> - **[[anemia]]** *(the most common -emia in clinical use — deficiency of red blood cells or hemoglobin; coded under D50–D64 based on etiology and type)*
+> - **[[anemia]]** *(the most common -emia in clinical use — deficiency of red blood cells or hemoglobin; coded under D50-D64 based on etiology and type)*
 > - **[[bacteremia]]** *(presence of bacteria in the bloodstream without systemic inflammatory response; distinct from septicemia/sepsis; [[A49.9]] or organism-specific)*
 > - **[[septicemia]]** *(older clinical term for bacterial infection with systemic spread — largely replaced by "[[sepsis]]" in modern coding; maps to A41.x in ICD-10-CM)*
 > - **[[uremia]]** *(accumulation of urea and nitrogenous waste in the blood due to renal failure; [[N19]] or N18.x with associated CKD stage; high-frequency in inpatient urology coding)*
-> - **[[hyperglycemia]]** *(elevated blood glucose — may be coded as [[R73.09]] if not linked to diabetes, or as an associated complication code under E11.x–E13.x)*
+> - **[[hyperglycemia]]** *(elevated blood glucose — may be coded as [[R73.09]] if not linked to diabetes, or as an associated complication code under E11.x-E13.x)*
 > - **[[hyponatremia]]** *(low serum sodium — [[E87.1]]; a common CC on inpatient accounts, particularly in elderly and PM&R patients)*
 > - **[[hypercalcemia]]** *(elevated serum calcium — [[E83.52]]; MCC-level complication in oncology and [[hyperparathyroidism]] cases)*
 
@@ -71,11 +71,11 @@ _____
 > - **[[-emia]] vs. [[-penia]]** — *-penia* (from Greek *penia*, poverty) specifically denotes **deficiency or reduction** of a blood cell type (e.g., **[[leukopenia]]**, **[[thrombocytopenia]]**); -emia is broader and includes excess, deficiency, or mere presence of any blood constituent
 > - **[[hematology]]** — the medical specialty focused on disorders of blood composition, blood-forming organs, and coagulation; the clinical home of most **-emia** diagnoses
 > - **[[hemolysis]]** — destruction of red blood cells, releasing hemoglobin into the plasma; the underlying mechanism of **hemolytic anemia** (D58.x, D59.x) and contributing factor to **hemoglobinemia**
-> - **electrolyte imbalance** — broad clinical category encompassing many **-emia** conditions involving serum ions (**sodium, potassium, calcium, magnesium, phosphorus**); coded under E86–E87 family; extremely high frequency on inpatient accounts as CC/MCC
+> - **electrolyte imbalance** — broad clinical category encompassing many **-emia** conditions involving serum ions (**sodium, potassium, calcium, magnesium, phosphorus**); coded under E86-E87 family; extremely high frequency on inpatient accounts as CC/MCC
 > - **[[sepsis]]** — the modern clinical and coding replacement for "**septicemia**"; defined by organ dysfunction due to infection; coded A41.x as principal or secondary diagnosis; **[[septicemia]]** maps to sepsis in ICD-10-CM and should not be coded as a standalone term
 > - **[[uremia]]** — the prototypical renal **-emia**; nitrogenous waste accumulation in end-stage or acute renal failure; key sequencing issue in urology inpatient coding (N19, N17.x, N18.x)
 > - **[[polycythemia]]** — abnormal increase in red blood cell mass (**D45, D75.1**); an **-emia** term denoting excess rather than deficiency; important in hematology and cardiovascular comorbidity coding
-> - **[[leukemia]]** — malignant -emia; neoplastic proliferation of **leukocytes** in the blood and bone marrow (C91–C95.x); one of the most complex -emia code families in ICD-10-CM
+> - **[[leukemia]]** — malignant -emia; neoplastic proliferation of **leukocytes** in the blood and bone marrow (C91-C95.x); one of the most complex -emia code families in ICD-10-CM
 > - **[[hyperlipidemia]]** — elevated lipids in the blood (E78.x); extremely common comorbidity across all inpatient specialties; CC/HCC-relevant under CMS-HCC v28
 > - **[[hyperkalemia]]** — elevated serum potassium ([[E87.5]]); potentially life-threatening; common in CKD and acute kidney injury patients in urology inpatient setting; frequently a CC
 > - **[[hypokalemia]]** — low serum potassium ([[E87.6]]); common post-surgical or diuretic-related finding; CC on inpatient accounts
@@ -88,7 +88,7 @@ _____
 > 
 > ### 🏥 ICD-10-CM CODES
 > 
-> #### Anemias — Deficiency & Nutritional Forms (D50–D53)
+> #### Anemias — Deficiency & Nutritional Forms (D50-D53)
 > 
 > |Code|Description|
 > |---|---|
@@ -103,7 +103,7 @@ _____
 > |**[[D52.9]]**|Folate deficiency anemia, unspecified|
 > |**[[D53.9]]**|Nutritional anemia, unspecified|
 > 
-> #### Hemolytic Anemias (D55–D59)
+> #### Hemolytic Anemias (D55-D59)
 > 
 > |Code|Description|
 > |---|---|
@@ -119,7 +119,7 @@ _____
 > |**[[D59.10]]**|Autoimmune hemolytic anemia, unspecified|
 > |**[[D59.9]]**|Acquired hemolytic anemia, unspecified|
 > 
-> #### Aplastic & Other Anemias (D60–D64)
+> #### Aplastic & Other Anemias (D60-D64)
 > 
 > |Code|Description|
 > |---|---|
@@ -134,7 +134,7 @@ _____
 > |**[[D64.0]]**|Hereditary sideroblastic anemia|
 > |**[[D64.9]]**|Anemia, unspecified|
 > 
-> #### Electrolyte & Metabolic -emia Disorders (E83–E87)
+> #### Electrolyte & Metabolic -emia Disorders (E83-E87)
 > 
 > |Code|Description|
 > |---|---|
@@ -154,7 +154,7 @@ _____
 > |**[[E87.79]]**|Other fluid overload|
 > |**[[E87.8]]**|Other disorders of electrolyte and fluid balance NEC|
 > 
-> #### Hyperglycemia & Glycemic -emia Disorders (E11–E13, R73)
+> #### Hyperglycemia & Glycemic -emia Disorders (E11-E13, R73)
 > 
 > |Code|Description|
 > |---|---|
@@ -188,7 +188,7 @@ _____
 > |**[[A41.9]]**|Sepsis, unspecified organism|
 > |**[[R78.81]]**|Bacteremia|
 > 
-> #### Uremia & Renal -emia (N17–N19)
+> #### Uremia & Renal -emia (N17-N19)
 > 
 > |Code|Description|
 > |---|---|
@@ -210,7 +210,7 @@ _____
 > 
 > ---
 > 
-> ### 🔧 COMMON CPT CODES (-emia–Related Diagnosis & Monitoring)
+> ### 🔧 COMMON CPT CODES (-emia-Related Diagnosis & Monitoring)
 > 
 > |CPT Code|Description|
 > |---|---|

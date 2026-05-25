@@ -32,7 +32,7 @@ definition: A small parasympathetic ganglion located in the posterior orbit betw
 ---
 
 > [!Note] DEFINITION of [[ciliary ganglion]]
-> **Ciliary ganglion** is a **peripheral parasympathetic ganglion situated in the posterior orbit, approximately 1–2 mm in diameter and containing roughly 2,500 neurons in humans**, that functions as the primary autonomic relay center for ocular accommodation and pupillary constriction. It receives **preganglionic** **parasympathetic** fibers arising from the **Edinger-Westphal nucleus** traveling via the inferior division of **CN III (oculomotor nerve)** — these synapse within the **ganglion**, and postganglionic fibers then exit via the **short ciliary nerves** to innervate the sphincter pupillae and ciliary muscle. Approximately 95% of ganglion neurons serve the ciliary muscle (**driving lens convexity for near focus**), while only ~3–5% innervate the **pupillary sphincter**, which is why **ciliary ganglion** damage classically produces a **[[tonic pupil]]** (Adie's pupil) with relatively preserved accommodation over the light reflex. The ganglion is distinct from the **[[ciliary body]]** — the ganglion is a neural structure in the orbital fat, while the **ciliary body** is an **[[intraocular]]** muscular ring; the two are connected functionally but are separate anatomic entities. Three root types enter the ciliary ganglion: the **motor (parasympathetic) root** from CN III (the only fibers that actually synapse here), the **sensory root** from the nasociliary branch of CN V1 (**passing through without synapsing**), and the **sympathetic root** from the internal carotid plexus (**also passing through without synapsing**). Damage to the ciliary **[[ganglion]]** — from trauma, viral infection, or surgical injury — produces the classic **Adie's tonic pupil** syndrome (**[[H57.051]]–[[H57.053]]**), characterized by a tonically dilated pupil with light-near dissociation, **sectoral palsy** of the **iris sphincter**, and supersensitivity to dilute pilocarpine (0.1%).
+> **Ciliary ganglion** is a **peripheral parasympathetic ganglion situated in the posterior orbit, approximately 1-2 mm in diameter and containing roughly 2,500 neurons in humans**, that functions as the primary autonomic relay center for ocular accommodation and pupillary constriction. It receives **preganglionic** **parasympathetic** fibers arising from the **Edinger-Westphal nucleus** traveling via the inferior division of **CN III (oculomotor nerve)** — these synapse within the **ganglion**, and postganglionic fibers then exit via the **short ciliary nerves** to innervate the sphincter pupillae and ciliary muscle. Approximately 95% of ganglion neurons serve the ciliary muscle (**driving lens convexity for near focus**), while only ~3-5% innervate the **pupillary sphincter**, which is why **ciliary ganglion** damage classically produces a **[[tonic pupil]]** (Adie's pupil) with relatively preserved accommodation over the light reflex. The ganglion is distinct from the **[[ciliary body]]** — the ganglion is a neural structure in the orbital fat, while the **ciliary body** is an **[[intraocular]]** muscular ring; the two are connected functionally but are separate anatomic entities. Three root types enter the ciliary ganglion: the **motor (parasympathetic) root** from CN III (the only fibers that actually synapse here), the **sensory root** from the nasociliary branch of CN V1 (**passing through without synapsing**), and the **sympathetic root** from the internal carotid plexus (**also passing through without synapsing**). Damage to the ciliary **[[ganglion]]** — from trauma, viral infection, or surgical injury — produces the classic **Adie's tonic pupil** syndrome (**[[H57.051]]-[[H57.053]]**), characterized by a tonically dilated pupil with light-near dissociation, **sectoral palsy** of the **iris sphincter**, and supersensitivity to dilute pilocarpine (0.1%).
 
 _____
 
@@ -57,9 +57,9 @@ _____
 > - **Lenticular ganglion** _(older anatomical term; refers to the lens-shaped appearance; occasionally seen in historical surgical literature)_
 > - **Orbital ganglion** _(regional synonym used in neuroanatomy texts emphasizing its orbital location)_
 > - **Ganglion ciliare** _(Latin anatomical term; used in Terminologia Anatomica and international anatomy nomenclature)_
-> - **Adie's pupil|Adie's Pupil / Tonic Pupil** _(the classic clinical syndrome resulting from ciliary ganglion damage; characterized by tonically dilated pupil + light-near dissociation; coded H57.051–H57.053)_
+> - **Adie's pupil|Adie's Pupil / Tonic Pupil** _(the classic clinical syndrome resulting from ciliary ganglion damage; characterized by tonically dilated pupil + light-near dissociation; coded H57.051-H57.053)_
 > - **Adie's syndrome** _(ciliary ganglion damage + absent deep tendon reflexes; autonomic neuropathy syndrome)_
-> - **Short ciliary nerves** _(postganglionic efferent output fibers from the ciliary ganglion; 8–10 branches piercing the posterior sclera)_
+> - **Short ciliary nerves** _(postganglionic efferent output fibers from the ciliary ganglion; 8-10 branches piercing the posterior sclera)_
 > - **Long ciliary nerves** _(sensory fibers from nasociliary nerve V1 that bypass the ciliary ganglion without synapsing; carry pain/sensation from the globe)_
 > - **Edinger-Westphal nucleus** _(the preganglionic parasympathetic nucleus in the CN III complex that sends fibers TO the ciliary ganglion)_
 > - **Oculomotor nerve (CN III)** _(carries preganglionic parasympathetic fibers to the ciliary ganglion via its inferior division)_
@@ -70,21 +70,21 @@ _____
 >
 > - **[[Ciliary body]]** — the intraocular muscular ring structure that produces aqueous humor and adjusts lens shape; functionally downstream of the ciliary ganglion but anatomically distinct (intraocular vs. orbital)
 > - **Ciliary muscle** — the smooth muscle innervated by postganglionic parasympathetic fibers from the ciliary ganglion via short ciliary nerves; contracts to increase lens convexity for near vision (accommodation)
-> - **Sphincter pupillae** — the iris constrictor muscle; the second target of postganglionic fibers from the ciliary ganglion; receives only ~3–5% of ganglionic output
+> - **Sphincter pupillae** — the iris constrictor muscle; the second target of postganglionic fibers from the ciliary ganglion; receives only ~3-5% of ganglionic output
 > - **[[tonic pupil]]** — the hallmark clinical finding of ciliary ganglion damage; slow, tonic response to near stimulus with diminished or absent light reflex; coded [[H57.051]] (right), [[H57.052]] (left), [[H57.053]] (bilateral), [[H57.059]] (unspecified)
 > - **Adie's syndrome** — broader autonomic neuropathy syndrome combining tonic pupil + absent/reduced deep tendon reflexes; ciliary ganglion denervation is the ocular component
 > - **Parasympathetic nervous system** — the division of the autonomic nervous system to which the ciliary ganglion belongs; drives accommodation and miosis (opposite of sympathetic mydriasis)
 > - **Edinger-Westphal nucleus** — the midbrain preganglionic nucleus that initiates the parasympathetic pathway terminating in the ciliary ganglion; damaged in CN III palsy causing mydriasis
-> - **CN III palsy** — oculomotor nerve palsy; when the nerve's inferior division is involved, preganglionic fibers to the ciliary ganglion are interrupted → fixed dilated pupil; coded [[H49.00]]–[[H49.03]]
+> - **CN III palsy** — oculomotor nerve palsy; when the nerve's inferior division is involved, preganglionic fibers to the ciliary ganglion are interrupted → fixed dilated pupil; coded **[[H49.00]]-[[H49.03]]**
 > - **Retrobulbar block** — anesthetic technique that deposits local anesthetic into the intraconal space at the orbital apex, blocking the ciliary ganglion and producing akinesia + analgesia of the globe; CPT **67500**
 > - **Accommodation** — the dynamic refractive adjustment of the lens for near vision; mediated entirely through the **ciliary ganglion** → short ciliary nerves → ciliary muscle pathway
 > - **Light reflex** — the direct and consensual pupillary constriction response to light; afferent limb via CN II → pretectal nucleus; efferent limb via Edinger-Westphal → **ciliary ganglion** → sphincter pupillae
-> - **Herpes zoster ophthalmicus** — VZV reactivation along V1 that can involve the nasociliary branch and indirectly affect ciliary ganglion function; coded **[[B02.30]]–[[B02.39]]**
+> - **Herpes zoster ophthalmicus** — VZV reactivation along V1 that can involve the nasociliary branch and indirectly affect [[ciliary ganglion]] function; coded **[[B02.30]]-[[B02.39]]**
 
 _____
 
-> [!caution]+ #### CODING CORNER
-> <br>
+> [!example]+ #### CODING CORNER
+> 
 >
 > ### 🏥 ICD-10-CM CODES
 >
@@ -136,7 +136,7 @@ _____
 >
 > ---
 >
-> ### 🔧 COMMON CPT CODES (Ciliary Ganglion–Related Diagnosis & Treatment)
+> ### 🔧 COMMON CPT CODES (Ciliary Ganglion-Related Diagnosis & Treatment)
 >
 > | CPT Code | Description |
 > |---|---|

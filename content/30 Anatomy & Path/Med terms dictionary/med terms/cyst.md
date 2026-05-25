@@ -67,13 +67,13 @@ _____
 > - **[[Pseudocyst]]** — shares the fluid-collection appearance but lacks a true epithelial lining; the most clinically important example is pancreatic pseudocyst ([[K86.3]]) arising after pancreatitis or trauma; coding distinction matters because pseudocysts are indexed separately
 > - **[[Neoplasm]]** — cystic tumors (e.g., cystic teratoma, cystadenocarcinoma) differ from benign cysts in that their lining epithelium is proliferative and potentially malignant; cystic neoplasms code to the appropriate neoplasm category, not generic cyst codes
 > - **Sinus tract** — a tubular passage that may communicate with a cyst (e.g., pilonidal sinus [[L05.92]]); distinguished from a cyst by its channel-like rather than sac-like structure
-> - **[[Cystitis]]** — inflammation of the urinary bladder (shares the *kystis* root); unrelated pathophysiologically to cysts but commonly confused by etymology; coded to [[N30.00]]–[[N30.91]] range
+> - **[[Cystitis]]** — inflammation of the urinary bladder (shares the *kystis* root); unrelated pathophysiologically to cysts but commonly confused by etymology; coded to [[N30.00]]-[[N30.91]] range
 > - **[[cystectomy]]** — surgical excision of a cyst or of the urinary bladder; contextual use determines coding (radical cystectomy for bladder cancer vs. cyst excision)
-> - **[[Cystic fibrosis]]** — a genetic disorder (CFTR gene mutation) that causes systemic exocrine gland dysfunction with mucus accumulation; named for the characteristic cystic changes in the pancreas; [[E84.0]]–[[E84.9]]; not a "cyst" in the pathologic sense
+> - **[[Cystic fibrosis]]** — a genetic disorder (CFTR gene mutation) that causes systemic exocrine gland dysfunction with mucus accumulation; named for the characteristic cystic changes in the pancreas; [[E84.0]]-[[E84.9]]; not a "cyst" in the pathologic sense
 > - **Polycystic kidney disease (PKD)** — hereditary condition causing bilateral renal cyst formation; autosomal dominant [[Q61.2]], autosomal recessive [[Q61.3]]; distinct from simple renal cyst [[N28.1]]
-> - **[[Cholecystitis]]** — inflammation of the gallbladder (chole + kystis); shares root with "cyst" through *kystis* meaning bladder/sac; coded to [[K81.0]]–[[K81.9]]
-> - **Dermoid cyst** — a congenital teratomatous cyst containing ectodermal elements (hair, sebum, teeth); benign ovarian dermoid coded to [[D27.9]] or [[D27.1]]/[[D27.2]]; orbital dermoid coded to [[D31.60]]–[[D31.62]] — high frequency in ophthalmology OT admissions
-> - **Meibomian cyst** — also called a [[chalazion]]; a lipogranulomatous cyst of the meibomian gland of the eyelid; [[H00.11]]–[[H00.19]]; distinguish from hordeolum (stye) — high frequency in ophthalmology
+> - **[[Cholecystitis]]** — inflammation of the gallbladder (chole + kystis); shares root with "cyst" through *kystis* meaning bladder/sac; coded to [[K81.0]]-[[K81.9]]
+> - **Dermoid cyst** — a congenital teratomatous cyst containing ectodermal elements (hair, sebum, teeth); benign ovarian dermoid coded to [[D27.9]] or [[D27.1]]/[[D27.2]]; orbital dermoid coded to [[D31.60]]-[[D31.62]] — high frequency in ophthalmology OT admissions
+> - **Meibomian cyst** — also called a [[chalazion]]; a lipogranulomatous cyst of the meibomian gland of the eyelid; [[H00.11]]-[[H00.19]]; distinguish from hordeolum (stye) — high frequency in ophthalmology
 > - **Ultrasound** — primary diagnostic modality for characterizing cysts by Bosniak classification (renal), size, septation, and internal echogenicity
 
 _____
@@ -207,14 +207,14 @@ _____
 > |CPT Code|Description|
 > |---|---|
 > |**[[11400]]**|Excision, benign lesion (cyst), trunk/arm/leg; ≤0.5 cm|
-> |**[[11401]]**|Excision, benign lesion, trunk/arm/leg; 0.6–1.0 cm|
-> |**[[11402]]**|Excision, benign lesion, trunk/arm/leg; 1.1–2.0 cm|
+> |**[[11401]]**|Excision, benign lesion, trunk/arm/leg; 0.6-1.0 cm|
+> |**[[11402]]**|Excision, benign lesion, trunk/arm/leg; 1.1-2.0 cm|
 > |**[[11420]]**|Excision, benign lesion, scalp/neck/hands/feet/genitalia; ≤0.5 cm|
-> |**[[11421]]**|Excision, benign lesion, scalp/neck/hands/feet/genitalia; 0.6–1.0 cm|
-> |**[[11422]]**|Excision, benign lesion, scalp/neck/hands/feet/genitalia; 1.1–2.0 cm|
+> |**[[11421]]**|Excision, benign lesion, scalp/neck/hands/feet/genitalia; 0.6-1.0 cm|
+> |**[[11422]]**|Excision, benign lesion, scalp/neck/hands/feet/genitalia; 1.1-2.0 cm|
 > |**[[11440]]**|Excision, benign lesion, face/ears/eyelids/nose/lips/mucous membrane; ≤0.5 cm|
-> |**[[11441]]**|Excision, benign lesion, face/ears/eyelids/nose/lips; 0.6–1.0 cm|
-> |**[[11442]]**|Excision, benign lesion, face/ears/eyelids/nose/lips; 1.1–2.0 cm|
+> |**[[11441]]**|Excision, benign lesion, face/ears/eyelids/nose/lips; 0.6-1.0 cm|
+> |**[[11442]]**|Excision, benign lesion, face/ears/eyelids/nose/lips; 1.1-2.0 cm|
 > |**[[10060]]**|Incision and drainage of abscess (infected cyst, simple or single)|
 > |**[[10061]]**|Incision and drainage of abscess (infected cyst, complicated or multiple)|
 > |**[[10080]]**|Incision and drainage of pilonidal cyst; simple|
@@ -226,7 +226,7 @@ _____
 > |**[[58662]]**|Laparoscopy, surgical; with fulguration or excision of lesions of the ovary (includes cyst wall fulguration)|
 > |**[[50290]]**|Excision of perinephric cyst|
 > |**[[49203]]**|Excision or destruction, open, intra-abdominal tumors/cysts/endometriomas; largest ≤5 cm diameter|
-> |**[[49204]]**|Excision or destruction, open, intra-abdominal tumors/cysts; largest 5.1–10 cm|
+> |**[[49204]]**|Excision or destruction, open, intra-abdominal tumors/cysts; largest 5.1-10 cm|
 > |**[[42120]]**|Resection of palate or extensive resection of lesion (congenital cyst, hard palate)|
 > |**[[42104]]**|Excision, lesion of palate, uvula; without closure|
 >

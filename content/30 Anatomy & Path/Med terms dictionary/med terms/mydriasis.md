@@ -54,7 +54,7 @@ _____
 > - **Fixed dilation** _(clinical descriptor indicating non-reactive mydriasis — pupil does not constrict to light or near stimulus; associated with severe CN III palsy, herniation, or pharmacologic blockade; coded [[H57.04]] with additional etiology codes as indicated)_
 > - **Traumatic mydriasis** _(mydriasis resulting from blunt or penetrating ocular trauma; typically coded with injury codes — e.g., S05.xx — sequenced first as the etiology, with [[H57.04]] as a manifestation)_
 > - **Congenital mydriasis** _(rare form present at birth; classified under [[H57.04]] per ICD-10-CM synonyms; consider additional congenital anomaly codes if syndromic)_
-> - **Adie's tonic pupil** _(related but distinct: a post-ganglionic parasympathetic denervation causing tonic/sluggish dilation with light-near dissociation; classified separately under [[H57.051]]–[[H57.059]])_
+> - **Adie's tonic pupil** _(related but distinct: a post-ganglionic parasympathetic denervation causing tonic/sluggish dilation with light-near dissociation; classified separately under [[H57.051]]-[[H57.059]])_
 > - **Anticholinergic mydriasis** _(pharmacologic subtype due to muscarinic receptor blockade — atropine, tropicamide, scopolamine; also seen in toxidrome settings)_
 > - **Adrenergic mydriasis** _(pharmacologic subtype due to α1-receptor overstimulation — phenylephrine, cocaine; less complete dilation; near/light reflex typically preserved)_
 > - **Neurogenic mydriasis** _(dilation secondary to CN III palsy, Horner's syndrome reversal, or central herniation; workup-driven; code the neurological etiology first)_
@@ -66,7 +66,7 @@ _____
 > - **[[Miosis]]** — the direct opposite of **mydriasis**; refers to abnormal constriction of the pupil (< 2 mm); coded **[[H57.03]];** caused by **parasympathetic** **overactivation**, opioid toxicity, Horner's syndrome, or pilocarpine use
 > - **[[Anisocoria]]** — unequal pupil sizes between the two eyes; does not specify which pupil is abnormal; coded **[[H57.02]]**; **mydriasis** may be the cause of **[[anisocoria]]** when the dilated pupil is the pathological one
 > - **[[tonic pupil]]** — a specific post-ganglionic **parasympathetic lesion** causing poorly reactive, dilated pupil with light-near dissociation and **segmental iris palsy**; coded **[[H57.051]] (right), [[H57.052]] (left), [[H57.053]] (bilateral), [[H57.059]] (unspecified)**; distinguished from **mydriasis** by its characteristic slow, tonic re-**dilation** after near effort
-> - **Adie syndrome** — the systemic form of **tonic pupil** combined with diminished deep **[[tendon]]** reflexes; coded **[[H57.051]]–[[H57.059]]** for the pupil component; CNS involvement may warrant additional neurological codes
+> - **Adie syndrome** — the systemic form of **tonic pupil** combined with diminished deep **[[tendon]]** reflexes; coded **[[H57.051]]-[[H57.059]]** for the pupil component; CNS involvement may warrant additional neurological codes
 > - **[[Cycloplegia]]** — **[[paralysis]]** of the ciliary muscle causing loss of accommodation, often co-occurring with pharmacologic **mydriasis**; both **mydriasis** and **[[cycloplegia]]** are induced by the same anticholinergic agents (**atropine, cyclopentolate**); cycloplegic refraction billed under [[92015]]
 > - **Mydriatic** — the adjectival form; refers to an agent or condition that produces **mydriasis**; "**mydriatic drugs**" include **tropicamide, phenylephrine, atropine, and cyclopentolate**
 > - **Iris sphincter rupture** — traumatic disruption of the **iris sphincter muscle** causing fixed, irregular **mydriasis**; distinct from **neurogenic/pharmacologic** causes; sequenced with the appropriate trauma code
@@ -74,12 +74,12 @@ _____
 > - **[[Herniation]] syndrome** — transtentorial or uncal herniation compresses CN III, producing sudden unilateral fixed **mydriasis**; a neurosurgical emergency; the **[[herniation]]** is coded first, **[[H57.04]]** as manifestation
 > - **Pharmacologic pupil** — clinical term for a dilated, non-reactive pupil due to topical anticholinergic exposure; differentiated from CN III palsy by failure to constrict with 1% pilocarpine
 > - **Funduscopic examination** — primary diagnostic procedure requiring pharmacologic **mydriasis**; documented as part of comprehensive/intermediate eye exams billed under **[[92004]], [[92014]], [[92002]], [[92012]]**
-> - **Pupillary light reflex** — the **autonomic reflex** tested to evaluate **mydriasis**; **afferent arc** via CN II, efferent arc via CN III; absent or sluggish in pathologic **mydriasis**
+> - **Pupillary light reflex** — the **autonomic reflex** tested to evaluate **mydriasis**; **afferent arc** via CN II, efferent arc via CN III; absent or sluggish in pathologic **[[mydriasis]]**
 
 _____
 
-> [!caution]+ #### CODING CORNER 
-> <br>
+> [!example]+ #### CODING CORNER 
+>
 > 
 > ### 🏥 ICD-10-CM CODES
 > 
