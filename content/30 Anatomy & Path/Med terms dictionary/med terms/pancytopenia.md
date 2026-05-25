@@ -47,7 +47,7 @@ definition:
 >|**Trilineage cytopenia**|*tri-* + *lineage* + *cyto-* + *-penia*|Synonym; emphasizes all three marrow cell lines affected|
 >|**Aplastic anemia**|*a-* + *plasis* + *anemia*|Most common cause; autoimmune bone marrow failure → pancytopenia|
 >|**[[anemia]]**|*an-* + *-emia*|RBC/hemoglobin component of pancytopenia|
->|**[[Leukopenia]]**|*leuko-* + *-penia*|WBC component of pancytopenia|
+>|**[[leukopenia]]**|*leuko-* + *-penia*|WBC component of pancytopenia|
 >|**[[neutropenia]]**|*neutro-* + *-penia*|Specific WBC subset; drives infection risk|
 >|**[[Thrombocytopenia]]**|*thrombocyto-* + *-penia*|Platelet component; drives bleeding risk|
 >|**Myelodysplastic syndrome**|*myelo-* + *dys-* + *-plasia*|Clonal marrow disorder; major cause of pancytopenia in elderly|

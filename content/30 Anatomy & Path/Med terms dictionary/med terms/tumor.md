@@ -61,7 +61,7 @@ _____
 > - **[[Cancer]]** — the common term for a malignant tumor; defined by its ability to invade adjacent tissues and **[[metastasize]]**.
 > - **Oncology** — the branch of medicine dedicated to the study, diagnosis, and treatment of tumors (**neoplasms**).
 > - **[[Metastasis]]** — the pathogenic spread of malignant tumor cells from the primary site to distant organs.
-> - **[[Cyst]]** — an abnormal, often benign, sac-like pocket of tissue that contains fluid, air, or other substances, distinct from the solid cellular mass of most tumors.
+> - **[[cyst]]** — an abnormal, often benign, sac-like pocket of tissue that contains fluid, air, or other substances, distinct from the solid cellular mass of most tumors.
 > - **[[Abscess]]** — a localized collection of pus caused by a bacterial infection, clinically presenting as a swollen mass but fundamentally different in mechanism from a neoplastic tumor.
 > - **[[Hyperplasia]]** — an increase in the number of normal cells in an organ or tissue; unlike a tumor (**neoplasia**), **[[hyperplasia]]** is typically a controlled response to a stimulus rather than independent clonal growth.
 > - **Biopsy** — the primary diagnostic procedure for extracting tissue from a tumor to determine its histological type and behavior.

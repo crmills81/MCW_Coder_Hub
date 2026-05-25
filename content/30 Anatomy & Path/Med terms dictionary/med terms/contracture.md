@@ -73,7 +73,7 @@ _____
 > - **Range of motion (ROM)** — the primary clinical measure affected by contracture
 > - **Physical therapy / Occupational therapy** — primary non-surgical intervention
 > - **Serial casting** — progressive splinting technique to stretch contracture
-> - **[[Fasciotomy]]** — surgical release of fascial contracture
+> - **[[fasciotomy]]** — surgical release of fascial contracture
 
 _____
 
@@ -184,7 +184,7 @@ _____
 >
 > | CPT Code | Description |
 > |---|---|
-> | **[[26040]]** | [[Fasciotomy]], palmar; percutaneous _(Dupuytren — needle/percutaneous)_ |
+> | **[[26040]]** | [[fasciotomy]], palmar; percutaneous _(Dupuytren — needle/percutaneous)_ |
 > | **[[26045]]** | Fasciotomy, palmar; open, partial _(Dupuytren — open limited)_ |
 > | **[[26121]]** | Fasciectomy, partial with release of single digit including proximal interphalangeal joint _(Dupuytren — single digit)_ |
 > | **[[26123]]** | Fasciectomy, partial with release of each additional digit _(Dupuytren — add-on per additional digit)_ |

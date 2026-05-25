@@ -30,7 +30,7 @@ _____
 > - Wheezing (**Lower airway sound**)
 > - [[Croup]] (**Laryngotracheobronchitis**)
 > - Laryngomalacia (**Softening of laryngeal tissues**)
-> - [[Epiglottitis]] (**Inflammation of the epiglottis**)
+> - [[epiglottitis]] (**Inflammation of the epiglottis**)
 > - Airway Obstruction
 _____
 

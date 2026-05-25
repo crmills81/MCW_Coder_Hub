@@ -53,11 +53,11 @@ _____
 > 
 > ### Related Terms & Differentials
 > 
-> - **[[Anemia]]:** The broader clinical syndrome resulting from decreased oxygen-carrying capacity. Erythropenia is the literal quantitative shortage of cells that usually _causes_ anemia.
+> - **[[anemia]]:** The broader clinical syndrome resulting from decreased oxygen-carrying capacity. Erythropenia is the literal quantitative shortage of cells that usually _causes_ anemia.
 >     
 > - **[[Erythrocytosis]] / [[Polycythemia]]:** The exact opposite of erythropenia; an abnormal _increase_ in the number of circulating red blood cells.
 >     
-> - **[[Leukopenia]]:** A deficiency in _white_ blood cells ([[leukocytes]]), impacting the immune system rather than oxygen transport.
+> - **[[leukopenia]]:** A deficiency in _white_ blood cells ([[leukocytes]]), impacting the immune system rather than oxygen transport.
 >     
 > - **[[Thrombocytopenia]]:** A deficiency in platelets ([[thrombocytes]]), leading to bleeding disorders and impaired coagulation.
 >     

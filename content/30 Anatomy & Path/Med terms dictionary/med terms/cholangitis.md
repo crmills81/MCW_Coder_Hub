@@ -42,7 +42,7 @@ _____
 >     
 >     - If a stone is removed via ERCP: **[[Extirpation]]** (Taking or cutting out solid matter from a body part).
 >         
->     - If a stricture is widened: **[[Dilation]]** (Expanding an orifice or the lumen of a tubular body part).
+>     - If a stricture is widened: **[[dilation]]** (Expanding an orifice or the lumen of a tubular body part).
 >         
 > 
 > ### Clinical Indicators

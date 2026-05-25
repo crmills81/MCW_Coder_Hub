@@ -64,7 +64,7 @@ _____
 > | ----------------------- | ---------------------------------------- | ------------------------ |
 > | **[[Nephrolithiasis]]**     | _[[nephro-]]_ (kidney) + _[[lith/o-]]_ (stone)   | Kidney stone condition​  |
 > | **[[Urolithiasis]]**        | _[[ur/o-]]_ (urine) + _lith/o-_ (stone)      | Urinary tract stones ​   |
-> | **[[Cholelithiasis]]**      | _[[chol/e-]]_ (bile) + _lith/o-_ (stone)     | Gallstones ​             |
+> | **[[cholelithiasis]]**      | _[[chol/e-]]_ (bile) + _lith/o-_ (stone)     | Gallstones ​             |
 > | **[[Choledocholithiasis]]** | _chol/e-_ + _doch/o-_ (duct) + _lith/o-_ | Stones in the bile duct  |
 > | **[[Cystolithiasis]]**      | _[[cyst/o-]]_ (bladder) + _lith/o-_          | Bladder stones ​         |
 > | **[[Ureterolithiasis]]**    | _[[ureter/o-]]_ + _lith/o-_                  | Stones in the ureter ​   |

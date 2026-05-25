@@ -47,7 +47,7 @@ _____
 >[!warning]+ SURGICAL USES (-desis procedures & coding applications)
 >**Orthopedic & Spine (Primary -desis territory):**
 >
->- **[[Arthrodesis]]**: Fusion of a joint — the most common [[-desis]] procedure; coded by **site, approach, and technique**
+>- **[[arthrodesis]]**: Fusion of a joint — the most common [[-desis]] procedure; coded by **site, approach, and technique**
 >- **Spinal arthrodesis**: Fusion of vertebral segments; CPT family drives by **approach + level + instrumentation**
 >- **[[Tenodesis]]**: Tendon anchored to bone to restore function (**e.g., biceps tenodesis**)
 >- **Subtalar arthrodesis**: Fusion of hindfoot joint for flatfoot deformity or post-traumatic arthritis

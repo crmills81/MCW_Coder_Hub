@@ -61,7 +61,7 @@ _____
 >     
 > 3. **Contracture:** A permanent, physical shortening of the muscle, tendon, or joint capsule preventing normal articulation. **Spasticity** is neurological and can be overcome (**or treated with Botox**); a contracture is anatomical and usually requires surgical release (e.g., [[tenotomy]]).
 >     
-> 4. **[[Dystonia]]:** A movement disorder characterized by sustained or intermittent **muscle contractions** causing abnormal, often **repetitive, movements, postures, or twisting**.
+> 4. **[[dystonia]]:** A movement disorder characterized by sustained or intermittent **muscle contractions** causing abnormal, often **repetitive, movements, postures, or twisting**.
 >     
 > 5. **Flaccidity:** The exact opposite of **spasticity**. A state of completely absent muscle tone ([[hypotonia]]) and absent reflexes, typically resulting from a **Lower Motor Neuron (LMN)** lesion.
 _____

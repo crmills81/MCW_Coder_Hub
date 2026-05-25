@@ -52,7 +52,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Dystonia]]** — the parent movement disorder category (G24); **blepharospasm** is a focal subtype of dystonia involving the eyelid musculature
+> - **[[dystonia]]** — the parent movement disorder category (G24); **blepharospasm** is a focal subtype of dystonia involving the eyelid musculature
 > - **Meige syndrome** _(G24.4)_ — cranial [[dystonia]]; BEB + oromandibular dystonia (involuntary tongue, jaw, facial [[spasms]]); the progressive extension of BEB
 > - **[[Hemifacial spasm]]** — involuntary unilateral facial contractions; involves the same facial nerve anatomy but is typically [[vascular]] compression of CN VII, not [[dystonia]]; treated with same [[64612]] **CPT**
 > - **Orbicularis oculi** — the circular muscle surrounding the eye socket that executes the blink; the primary target muscle in **blepharospasm** and [[chemodenervation]]

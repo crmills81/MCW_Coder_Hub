@@ -53,7 +53,7 @@ _____
 > 
 > - **[[Meninges]]** — the three-layered membrane system (dura mater, arachnoid mater, pia mater) that meningitis inflames
 > - **[[Meningoencephalitis]]** — simultaneous inflammation of meninges AND brain parenchyma; G04.x; more severe than isolated meningitis
-> - **[[Encephalitis]]** — brain parenchyma inflammation without meningeal involvement; G04.x
+> - **[[encephalitis]]** — brain parenchyma inflammation without meningeal involvement; G04.x
 > - **[[Ventriculitis]]** — inflammation of the cerebral ventricles; G04.x; often a complication of bacterial meningitis or VP shunt infection
 > - **[[Septicemia]] / [[bacteremia]]** — systemic bloodstream infection; meningococcal meningitis is typically preceded by meningococcemia ([[A39.2]])
 > - **CSF (Cerebrospinal Fluid)** — the fluid in the subarachnoid space; analyzed by LP to diagnose meningitis

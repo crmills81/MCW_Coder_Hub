@@ -201,20 +201,11 @@ _____
 > |CPT Code|Description|
 > |---|---|
 > |[[95910]]|Nerve conduction studies; 7-8 studies|
-> |[[95886]]|Needle EMG, complete study of extremity (5 or more muscles studied)|
-> |[[95923]]|Testing of autonomic nervous system function|
-> 
-> ---
-> 
-> ### 🏷️ RELEVANT CPT MODIFIERS
-> 
-> |Modifier|Description|
-> |---|---|
-> |[[-RT]]|Right side — identifies procedure performed on the right side of the body|
-> |[[-LT]]|Left side — identifies procedure performed on the left side of the body|
-> |[[-52]]|Reduced services — procedure partially performed (e.g., patient unable to complete full EMG study due to weakness/pain)|
-> |[[-59]]|Distinct procedural service — used when multiple therapy services are billed on the same date and are distinct/separate|
-> |[-[GP]]|Services delivered under an outpatient physical therapy plan of care|
+> |[[95886]]|Needle| ICD-10 Code     | Description                                                                                              | HCC?      | Clinical Notes                                                                                                              |
+| --------------- | -------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **[[I69.398]]** | Other symptoms and signs involving the nervous and musculoskeletal systems following cerebral infarction | ✅ HCC 108 | Report as an additional diagnosis when gait training is required for a chronic sequela of a stroke (e.g., [[hemiparesis]]). |
+| **[[Z47.1]]**   | Aftercare following joint replacement surgery                                                            | ❌ No      | Used when gait training is required to teach proper weight-bearing and device use following a hip or knee replacement.      |
+| **[[M62.81]]**  | Muscle weakness (generalized)                                                                            | ❌ No      | Used to justify the medical necessity of gait training in patients suffering from severe deconditioning.                    |ical therapy plan of care|
 > |[[-GO]]|Services delivered under an outpatient occupational therapy plan of care|
 > |[[-GN]]|Services delivered under an outpatient speech-language pathology plan of care|
 > |[[-KX]]|Requirements specified in the medical policy have been met (used for therapy when exceeding therapy cap thresholds — Medicare)|

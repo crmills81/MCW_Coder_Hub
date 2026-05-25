@@ -52,7 +52,7 @@ _____
 > |**[[Keratoconus]]** _(variant)_|Cone-shaped corneal degeneration|
 > |**[[Phthisis bulbi]]**|End-stage [[atrophy]]/shrinkage of the globe|
 > |**[[Enophthalmos]]**|Posterior displacement of the globe|
-> |**[[Mydriasis]]**|Dilation of the pupil|
+> |**[[mydriasis]]**|Dilation of the pupil|
 > |**[[Miosis]]**|Constriction of the pupil|
 > |**[[ptosis|Ptosis]]**|Drooping of the eyelid|
 > |**[[Epiphora]]**|Excessive tearing|
@@ -68,7 +68,7 @@ _____
 > |**[[Cholesteatosis]]**|Abnormal keratin cyst in middle ear|
 > |**[[Tonsillitis]]**|Tonsillar inflammation|
 > |**[[Laryngomalacia]]** _(variant)_|Softening of laryngeal tissue|
-> |**[[Epistaxis]]**|Nosebleed (process of nasal bleeding)|
+> |**[[epistaxis]]**|Nosebleed (process of nasal bleeding)|
 > |**[[Pharyngitis]]**|Pharyngeal inflammation|
 > |**[[Mastoiditis]]**|Mastoid bone infection/inflammation|
 > 

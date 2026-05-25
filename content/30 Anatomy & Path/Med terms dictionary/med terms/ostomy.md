@@ -226,7 +226,7 @@ _____
 > *   **[[51580]]**: Cystectomy, partial; with repair of ureteroenteric fistula
 > *   **[[51585]]**: Cystectomy, partial; with repair of vesicoureteral reflux
 > *   **[[51590]]**: Cystectomy, partial; with augmentation [[cystoplasty]]
-> *   **[[51595]]**: [[Cystectomy]], partial; with creation of continent urinary reservoir
+> *   **[[51595]]**: [[cystectomy]], partial; with creation of continent urinary reservoir
 > *   **[[51596]]**: Cystectomy, partial; with creation of noncontinent urinary reservoir
 > *   **[[51600]]**: [[Cystotomy]], with removal of bladder [[calculus]]
 > *   **[[51605]]**: Cystotomy, with removal of foreign body

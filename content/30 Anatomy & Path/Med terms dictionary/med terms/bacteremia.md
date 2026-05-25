@@ -68,7 +68,7 @@ _____
 > - **Septic emboli** — fragments of infected thrombus or vegetation that break off and seed distant sites; a serious complication of **bacteremia** and [[endocarditis]]; coded by site of embolization
 > - **[[Bacteriuria]]** — bacteria in the urine; a common source of secondary bacteremia (**urosepsis**); coded [[N39.0]] for UTI; when bacteriuria leads to bacteremia with systemic response, sequencing shifts to sepsis codes with UTI as the source
 > - **Blood culture** — the definitive diagnostic test for bacteremia; results drive organism-specific ICD-10-CM code selection; a positive blood culture is the microbiological prerequisite for the bacteremia diagnosis
-> - **[[Leukocytosis]]** — elevated WBC count; one of the SIRS criteria commonly accompanying bacteremia; coded [[D72.829]] when documented as a clinical finding contributing to the clinical picture
+> - **[[leukocytosis]]** — elevated WBC count; one of the SIRS criteria commonly accompanying bacteremia; coded [[D72.829]] when documented as a clinical finding contributing to the clinical picture
 > - **[[Neutropenia]]** — reduced neutrophil count; significantly increases susceptibility to bacteremia and is a critical comorbidity that affects code sequencing; coded [[D70.x]] by type; bacteremia in a neutropenic patient triggers a query for sepsis
 > - **Line infection** — infection of an indwelling vascular [[catheter]]; the most common cause of primary bacteremia in the inpatient setting; has distinct coding and POA implications under CMS HAC policy
 

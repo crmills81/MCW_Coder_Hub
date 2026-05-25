@@ -65,7 +65,7 @@ _____
 > - **Traumatic:** TBI, contusion.[3]
 > - **Neoplastic:** Brain tumor, [[abscess]].[1]
 > - **Degenerative:** PPA (tauopathy).[3]
-> - **Other:** [[Encephalitis]], seizures, [[hypoxia]].[2]
+> - **Other:** [[encephalitis]], seizures, [[hypoxia]].[2]
 
 
 > [!danger]+ ## Related Terms

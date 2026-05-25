@@ -43,7 +43,7 @@ _____
 _____
 
 > [!warning]+ RELATED TERMS
-> - **[[Intraocular]]**: Situated *inside* the eyeball — contrasts directly with **extraocular** (e.g., [[intraocular]] pressure, intraocular lens).
+> - **[[intraocular]]**: Situated *inside* the eyeball — contrasts directly with **extraocular** (e.g., [[intraocular]] pressure, intraocular lens).
 > - **[[Strabismus]]**: Misalignment of the eyes due to extraocular muscle imbalance; umbrella term for [[esotropia]], [[exotropia]], [[hypertropia]].
 > - **[[Ophthalmoplegia]]**: [[paralysis]] of extraocular muscles; can be partial or complete.
 > - **EOM palsy / Cranial nerve palsy**: CN III, IV, or VI palsies directly impair specific extraocular muscles, producing diplopia and abnormal eye position.

@@ -60,7 +60,7 @@ _____
 >- **[[Nephrolithiasis]]**: Kidney stones — query stone location, laterality, and any obstruction for full ICD-10 specificity
 >- **[[Ureterolithiasis]]**: Ureteral [[calculi]] — laterality required; drives codes like [[N20.1]]
 >- **[[Urolithiasis]]**: Unspecified urinary tract stones — use only when site cannot be determined
->- **[[Cholelithiasis]] / [[Choledocholithiasis]]**: Gallstones / CBD stones — query for obstruction, acute cholecystitis, and whether cholecystectomy is performed
+>- **[[cholelithiasis]] / [[Choledocholithiasis]]**: Gallstones / CBD stones — query for obstruction, acute cholecystitis, and whether cholecystectomy is performed
 >
 >**Dermatology:**
 >
@@ -106,7 +106,7 @@ _____
 >| **[[L40.1]]** | Generalized pustular psoriasis |
 >| **[[L40.4]]** | Guttate psoriasis |
 >| **[[L40.50]]** | Arthropathic psoriasis, unspecified |
->| **[[H57.04]]** | [[Mydriasis]] |
+>| **[[H57.04]]** | [[mydriasis]] |
 >
 >**✅ Valid & Billable CPT Codes (conditions driven by -iasis):**
 >

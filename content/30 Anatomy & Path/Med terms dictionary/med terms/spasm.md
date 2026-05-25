@@ -47,7 +47,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 >
 > - **[[Spasticity]]** — A state of continuous, increased muscle tone and hyperreflexia due to central nervous system damage (e.g., [[multiple sclerosis]] or cerebral palsy). Distinct from an acute peripheral spasm.
-> - **[[Dystonia]]** — **[[G24.9]]**; a neurological movement disorder characterized by sustained or repetitive muscle contractions (spasms) resulting in twisting movements or abnormal postures (e.g., [[spasmodic dysphonia]]).
+> - **[[dystonia]]** — **[[G24.9]]**; a neurological movement disorder characterized by sustained or repetitive muscle contractions (spasms) resulting in twisting movements or abnormal postures (e.g., [[spasmodic dysphonia]]).
 > - **[[Myoclonus]]** — **[[G25.3]]**; sudden, brief, shock-like involuntary muscle jerks.
 > - **[[Tetany]]** — **[[R29.0]]**; a condition characterized by severe, prolonged muscle cramps and spasms, often resulting from profound [[hypocalcemia]].
 > - **[[Bronchospasm]]** — **[[J98.01]]**; an acute, involuntary narrowing of the smooth muscles of the bronchi in the lungs, classically seen in asthma or anaphylaxis.

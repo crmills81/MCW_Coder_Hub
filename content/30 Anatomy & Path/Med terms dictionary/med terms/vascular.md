@@ -35,7 +35,7 @@ _____
 > |**[[Vascul-]]/[[vasculo-]]**|[[vasculitis]], vasculopathy, vasculogenesis, musculovascular|
 > |**[[Vas-]]/[[vaso-]]**|Vasodilation, vasoconstriction, vasospasm, [[vasectomy]], vas deferens|
 > |**[[Angio-]]**|Greek equivalent: [[angiogram]], [[angioplasty]], [[angiosarcoma]], angiogenesis|
-> |**[[Hemo-]]/[[haemo-]]**|Related: hemorrhage, hemostasis, hemangioma|
+> |**[[hemo-]]/[[haemo-]]**|Related: hemorrhage, hemostasis, hemangioma|
 > |**[[Cardio-]]**|Cardiovascular, cardiopulmonary|
 >
 _____

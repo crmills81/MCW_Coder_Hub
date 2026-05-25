@@ -56,7 +56,7 @@ _____
 > 
 > - **[[Empyema]]:** A collection of pus in a naturally existing anatomical cavity (e.g., the pleural space), distinct from an abscess which creates a new cavity.
 > 
-> - **[[Cyst]]:** A sac-like pocket of membranous tissue (often confused with abscess, but a cyst is not necessarily infected/filled with pus unless it becomes an "infected cyst").
+> - **[[cyst]]:** A sac-like pocket of membranous tissue (often confused with abscess, but a cyst is not necessarily infected/filled with pus unless it becomes an "infected cyst").
 >     
 > 
 >  **Coding Information**

@@ -70,7 +70,7 @@ _____
 >
 >**Dentistry / Oral Surgery:**
 >
->- **[[Malocclusion]]**: Coded by **Angle's classification (Class I, II, III)** — requires provider documentation of class; unspecified is available but query-worthy
+>- **[[malocclusion]]**: Coded by **Angle's classification (Class I, II, III)** — requires provider documentation of class; unspecified is available but query-worthy
 >- **Occlusal trauma**: Documented in dental/oral surgery notes; may support periodontitis or TMJ codes
 >- **Dental occlusion**: Functional vs. dysfunctional; drives M26 code family
 >

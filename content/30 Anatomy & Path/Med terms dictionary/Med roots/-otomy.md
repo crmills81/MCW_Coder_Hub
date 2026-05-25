@@ -49,7 +49,7 @@ In coding, recognizing **-otomy** helps confirm that the procedure performed was
 ## **Common Medical Terms Using [[-otomy]]**
 
 ### **General Surgery**
-- **[[Laparotomy]]** - Incision into the abdominal cavity  
+- **[[laparotomy]]** - Incision into the abdominal cavity  
 - **[[Thoracotomy]]** - Incision into the chest cavity  
 
 ### **ENT**

@@ -62,7 +62,7 @@ _____
 > - **[[Hypotonia]]** — abnormally low muscle tone; the opposite of **hypertonia**.
 > - **[[Spasticity]]** — velocity‑dependent **hypertonia** with clasp‑knife phenomenon; hallmark of corticospinal tract lesions; coded under hemiplegia codes like **[[G81.11]]**.
 > - **[[Rigidity]]** — non‑velocity‑dependent uniform resistance (**lead‑pipe or cogwheel**) seen in **[[Parkinson’s disease]]**.
-> - **[[Dystonia]]** — sustained or intermittent muscle contractions causing twisting movements or abnormal postures; not reflex‑mediated like **[[hypertonia]]**.
+> - **[[dystonia]]** — sustained or intermittent muscle contractions causing twisting movements or abnormal postures; not reflex‑mediated like **[[hypertonia]]**.
 > - **Upper motor neuron syndrome** — constellation including **[[hypertonia]]**, **[[hyperreflexia]]**, and **weakness** after damage to the corticospinal tract.
 > - **[[Cerebral palsy]]** — static motor impairment due to early brain injury; spastic types coded under **[[G80.0]]–[[G80.1]]**.
 > - **[[Hemiplegia]]** — **paralysis** of one side, often accompanied by **spastic hypertonia**; **ICD‑10‑CM [[G81.11]]** (**spastic, right dominant side**), **[[G81.12]]** (left).

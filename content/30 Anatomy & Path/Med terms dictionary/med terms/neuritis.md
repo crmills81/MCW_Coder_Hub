@@ -46,7 +46,7 @@ _____
 > - **[[neuralgia]]:** Pain along the course of a nerve without necessarily implying inflammation.
 > - **[[Radiculitis]]:** Inflammation of a nerve root (where the nerve exits the spine).
 > - **[[Plexitis]]:** Inflammation of a nerve plexus (e.g., brachial plexitis).
-> - **[[Encephalitis]]:** Inflammation of the brain tissue.
+> - **[[encephalitis]]:** Inflammation of the brain tissue.
 > - **[[Myelitis]]:** Inflammation of the spinal cord.
 > - **Guillain-Barré Syndrome:** **[[Autoimmune]]** **[[polyneuritis]]** causing rapid-onset muscle weakness.
 > - **Optic Neuritis:** Inflammation of the optic nerve (common in **[[multiple sclerosis]]**).

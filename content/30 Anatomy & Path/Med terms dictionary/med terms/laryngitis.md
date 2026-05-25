@@ -56,7 +56,7 @@ _____
 >
 > - **[[Dysphonia]]** — impaired or altered voice quality; the primary symptom of laryngitis; coded separately as [[R49.0]] when it stands alone
 > - **[[aphonia]]** — complete loss of voice; [[R49.1]]; extreme end of vocal cord inflammation
-> - **[[Epiglottitis]]** — acute inflammation of the epiglottis; potentially life-threatening airway emergency; distinct from laryngitis
+> - **[[epiglottitis]]** — acute inflammation of the epiglottis; potentially life-threatening airway emergency; distinct from laryngitis
 > - **[[Croup]]** — acute obstructive laryngitis in children; parainfluenza-driven subglottic edema; [[J05.0]]
 > - **[[Tracheitis]]** — inflammation of the trachea; frequently co-occurs with laryngitis as laryngotracheitis
 > - **Laryngopharyngeal reflux (LPR)** — retrograde flow of gastric contents to the larynx; leading cause of chronic laryngitis; also called "silent reflux" (no classic heartburn)
