@@ -69,7 +69,7 @@ _____
 - Unilateral > bilateral eye pain.  
 - Ciliary flush ([[perilimbal]] injection).  
 - [[photophobia]], blurred vision.  
-- [[Miosis]] (reactive spasm).  
+- [[miosis]] (reactive spasm).  
 
 **Slit-lamp signs:**  
 - AC cells/flare (SUN grading).  

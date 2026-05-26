@@ -72,7 +72,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 >
-> - **[[Necrosis]]** — the opposite of apoptosis in mechanism and consequence; uncontrolled, energy-independent cell death caused by acute injury (ischemia, toxins, trauma) resulting in cell swelling, membrane rupture, and inflammation — coded by anatomic site and etiology (e.g., I21.x for myocardial, N17.x for renal cortical necrosis)
+> - **[[necrosis]]** — the opposite of apoptosis in mechanism and consequence; uncontrolled, energy-independent cell death caused by acute injury (ischemia, toxins, trauma) resulting in cell swelling, membrane rupture, and inflammation — coded by anatomic site and etiology (e.g., I21.x for myocardial, N17.x for renal cortical necrosis)
 > - **[[Necroptosis]]** — shares the *[[ptosis]]* conceptual lineage; a regulated, caspase-independent form of cell death that is morphologically necrotic but programmed, triggered by RIPK3/MLKL activation; relevant in sepsis, ischemia-reperfusion injury, and inflammatory bowel disease
 > - **Autophagy** — shares the self-degradation mechanism but is primarily a survival response, not a death pathway; cells digest damaged organelles via lysosomal machinery — distinguished from apoptosis by the absence of caspase activation and the goal of cellular preservation
 > - **[[Pyroptosis]]** — inflammatory, caspase-1-mediated programmed cell death triggered by the inflammasome; results in IL-1β and IL-18 release and is a key mechanism in sepsis-associated organ dysfunction and autoinflammatory disease

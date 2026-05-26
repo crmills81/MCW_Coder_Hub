@@ -66,7 +66,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 >
 > - **[[Ischemia]]** — the reversible precursor to infarction; defined as insufficient blood flow to meet tissue metabolic demands without yet causing irreversible cell death; distinguished from infarction by the absence of necrosis
-> - **[[Necrosis]]** — shares the concept of cell death; infarction produces a specific subtype (coagulative necrosis in most solid organs; liquefactive in CNS); necrosis may arise from non-ischemic causes (toxins, infections, trauma)
+> - **[[necrosis]]** — shares the concept of cell death; infarction produces a specific subtype (coagulative necrosis in most solid organs; liquefactive in CNS); necrosis may arise from non-ischemic causes (toxins, infections, trauma)
 > - **[[Thrombosis]]** — the in-situ formation of a blood clot within a vessel; the most common proximate cause of myocardial and cerebral infarction; coded separately as the underlying condition when documented
 > - **[[Embolism]]** — migration of a thrombus, fat globule, air bubble, or tumor fragment that occludes a distal vessel; the dominant mechanism in pulmonary and many cerebral infarcts; requires coding for both the embolism and resultant infarct
 > - **[[Atherosclerosis]]** — the chronic plaque-forming disease of arterial walls that predisposes to thrombotic occlusion and infarction; underlying condition sequenced first when causal relationship is documented

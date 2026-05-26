@@ -26,7 +26,7 @@ _____
 |:------------:|:-------------------------:|:--------------------------------:|:-----:|
 |   [[myo-]]   |          muscle‑related         |      -       |   -   |
 | [[Myopathy]] | Disease of muscle tissue | [[myo-]] (muscle) + -pathos (disease) |   -   |
-|     [[Myalgia]] |  Muscle pain |  [[my-]] (muscle) + -algos (pain)  |  -   |
+|     [[myalgia]] |  Muscle pain |  [[my-]] (muscle) + -algos (pain)  |  -   |
 _____
 >[!tip]+ DERIVATIONS of [[myo-]]
 >```dataview

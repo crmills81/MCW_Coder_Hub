@@ -60,7 +60,7 @@ _____
 > 
 > - **[[Myringoplasty]]** — surgical repair restricted exclusively to the pars tensa of the eardrum without middle ear exploration; the simplest form of eardrum repair.
 > - **[[Myringotomy]]** — surgical **incision** into the eardrum; the opposite intent of a tympanoplasty, as it creates a hole rather than closing one.
-> - **[[Mastoidectomy]]** — surgical removal of diseased mastoid air cells; frequently performed in conjunction with a **tympanoplasty** to eradicate chronic infection.
+> - **[[mastoidectomy]]** — surgical removal of diseased mastoid air cells; frequently performed in conjunction with a **tympanoplasty** to eradicate chronic infection.
 > - **[[Cholesteatoma]]** — a destructive and expanding growth of keratinizing squamous epithelium in the middle ear; a primary pathological indication requiring **[[tympanoplasty]]** and **[[mastoidectomy]]**.
 > - **Tympanic membrane perforation** — a hole in the eardrum; the primary anatomical defect necessitating a **Type I tympanoplasty** (**e.g., [[H72.91]]**).
 > - **[[Otitis media]]** — inflammation or infection of the middle ear; chronic, suppurative forms lead to the tissue destruction that **tympanoplasty** aims to repair.

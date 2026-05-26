@@ -66,7 +66,7 @@ definition:
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Necrosis]]** — cellular/tissue death (the substrate of ** gangrene**); ** gangrene** = necrosis + putrefaction/decay
+> - **[[necrosis]]** — cellular/tissue death (the substrate of ** gangrene**); ** gangrene** = necrosis + putrefaction/decay
 > - **[[Ischemia]]** — inadequate blood supply; the primary driver of dry ** gangrene**; coded as the underlying vascular condition
 > - **[[Atherosclerosis]]** — most common cause of dry ** gangrene** in adults; I70.26x (with ** gangrene**, laterality required)
 > - **Peripheral arterial disease (PAD)** — chronic arterial insufficiency; final stage = critical limb ischemia → ** gangrene**

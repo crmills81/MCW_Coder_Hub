@@ -69,7 +69,7 @@ _____
 >
 > - **[[Constriction]]** — the opposite of dilation; narrowing or reduction in the diameter of a lumen, vessel, or opening; at the pupil, called [[miosis]]
 > - **[[Mydriasis]]** — pupil-specific dilation; shares the clinical context of ophthalmic examination and neurologic assessment; coded separately under [[H57.04]] when abnormal
-> - **[[Miosis]]** — pupillary constriction; the direct functional opposite of mydriasis/dilation; driven by parasympathetic stimulation of the iris sphincter muscle
+> - **[[miosis]]** — pupillary constriction; the direct functional opposite of mydriasis/dilation; driven by parasympathetic stimulation of the iris sphincter muscle
 > - **[[Stenosis]]** — abnormal narrowing of a vessel, duct, or orifice; the pathological condition that most often requires therapeutic dilation as treatment
 > - **[[Stricture]]** — fibrous narrowing of a tubular structure (e.g., urethral stricture [[N35.9]], esophageal stricture [[K22.2]]); primary indication for balloon or mechanical dilation procedures
 > - **[[Ectasia]]** — chronic, structural tubular or ductal dilation; distinct from acute or therapeutic dilation; seen in mammary duct ectasia and coronary artery ectasia

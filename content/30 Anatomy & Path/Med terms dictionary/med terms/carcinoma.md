@@ -46,7 +46,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
 > - **[[sarcoma]]** — a malignant tumor arising from connective tissue (bone, cartilage, fat, muscle), distinct from epithelial carcinoma.
-> - **[[Melanoma]]** — a malignancy of melanocytes (pigment-producing cells), often highly aggressive.
+> - **[[melanoma]]** — a malignancy of melanocytes (pigment-producing cells), often highly aggressive.
 > - **[[Metastasis]]** — the spread of carcinoma cells from the primary site to distant organs or lymph nodes.
 > - **[[neoplasm]]** — an abnormal mass of tissue resulting from uncontrolled cell division; can be benign or malignant.
 > - **[[dysplasia]]** — abnormal development or growth of cells, often a precursor to carcinoma in situ.

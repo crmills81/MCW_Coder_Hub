@@ -53,7 +53,7 @@ _____
 > |**[[Phthisis bulbi]]**|End-stage [[atrophy]]/shrinkage of the globe|
 > |**[[Enophthalmos]]**|Posterior displacement of the globe|
 > |**[[mydriasis]]**|Dilation of the pupil|
-> |**[[Miosis]]**|Constriction of the pupil|
+> |**[[miosis]]**|Constriction of the pupil|
 > |**[[ptosis|Ptosis]]**|Drooping of the eyelid|
 > |**[[Epiphora]]**|Excessive tearing|
 > |**[[Blepharophimosis]]**|Narrowing of the palpebral fissure|
@@ -77,7 +77,7 @@ _____
 > |Term|Meaning|
 > |---|---|
 > |**[[fibrosis]]**|Abnormal connective tissue formation|
-> |**[[Necrosis]]**|Cell/tissue death|
+> |**[[necrosis]]**|Cell/tissue death|
 > |**[[Stenosis]]**|Abnormal narrowing of any structure|
 > |**[[Sclerosis]]**|Hardening/induration of tissue|
 > |**Diagnosis**|Process of determining a disease|

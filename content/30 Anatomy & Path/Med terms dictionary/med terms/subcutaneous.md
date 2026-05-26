@@ -106,7 +106,7 @@ _The depth of the procedure is critical here. Documentation must explicitly stat
 - **Subcutaneous Emphysema (T79.7):** Generally **No HCC** (Acute traumatic complication).
 - **Pressure Ulcers (Stage 3):**
     - **L89.xxx3:** Pressure ulcer... with full thickness skin loss involving damage or necrosis of **subcutaneous tissue**.
-    - _Impact:_ Maps to **HCC 158** (Pressure Ulcer of Skin with [[Necrosis]]).
+    - _Impact:_ Maps to **HCC 158** (Pressure Ulcer of Skin with [[necrosis]]).
     - _Documentation Requirement:_ To qualify for Stage 3 (**and the HCC**), the clinician must document that subcutaneous fat is visible, but bone, tendon, or muscle is _not_ exposed.
 
 ### Assistant Surgeon Pay

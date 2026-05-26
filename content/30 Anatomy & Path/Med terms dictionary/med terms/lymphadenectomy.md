@@ -97,7 +97,7 @@ _____
 > [!tip]+ ## **Common Clinical Indications**
 > - **Breast cancer** — axillary lymph node dissection (ALND) for node-positive disease or failed sentinel biopsy
 >
-> - **[[Melanoma]]** — regional dissection for nodal metastasis
+> - **[[melanoma]]** — regional dissection for nodal metastasis
 >
 > - **Head and neck [[squamous cell carcinoma]]** — radical or modified radical neck dissection
 >

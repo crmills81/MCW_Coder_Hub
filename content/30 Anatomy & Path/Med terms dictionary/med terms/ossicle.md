@@ -62,7 +62,7 @@ definition:
 > |**TORP**|Total ossicular replacement prosthesis — synthetic prosthesis replacing all three ossicles to oval window (no footplate); coded CPT **[[69633]]**/**[[69637]]**|
 > |**OCR**|Ossicular chain reconstruction — operative shorthand; may use patient's own bone, homograft, or PORP/TORP prosthesis; standard CPT descriptor language|
 > |**Ossiculoplasty**|The surgical procedure of reconstructing the ossicular chain; not a standalone CPT code — always bundled within the tympanoplasty code family (69631-69646)|
-> |**[[Ossification]]**|The process of bone formation from ossiculum root; not to be confused with ossicular pathology — ossification of soft tissue is a distinct clinical entity|
+> |**[[ossification]]**|The process of bone formation from ossiculum root; not to be confused with ossicular pathology — ossification of soft tissue is a distinct clinical entity|
 > |**[[Osseous]]**|Adjective meaning "of or relating to bone"; from same Latin root; used in *osseous spiral lamina* (inner ear), *osseous labyrinth*|
 
 ---
@@ -76,7 +76,7 @@ definition:
 > - **[[Cholesteatoma]]** — destructive, expansile keratinizing epithelium cyst of the middle ear; erodes ossicles (most commonly the incus long process); primary surgical indication for tympanoplasty with mastoidectomy and ossicular reconstruction; coded **[[H71.00]]**-**[[H71.93]]**
 > - **Chronic suppurative otitis media (CSOM)** — chronic middle ear infection causing ossicular erosion over time; coded **[[H66.3X1]]**/**[[H66.3X2]]** (right/left); high-complexity ossicular reconstruction indication
 > - **Conductive hearing loss** — the primary functional consequence of ossicular chain disruption; coded **[[H90.01]]**-**[[H90.2]]**; differentiated from sensorineural (**[[H90.3]]**-**[[H90.5]]**) by audiometry showing air-bone gap
-> - **[[Mastoidectomy]]** — surgical removal of infected mastoid air cells; type performed (simple, modified radical, radical) is a key determinant of tympanoplasty CPT code selection (compare CPT **[[69631]]**-**[[69633]]** [no mastoidectomy] vs. **[[69641]]**-**[[69646]]** [with mastoidectomy])
+> - **[[mastoidectomy]]** — surgical removal of infected mastoid air cells; type performed (simple, modified radical, radical) is a key determinant of tympanoplasty CPT code selection (compare CPT **[[69631]]**-**[[69633]]** [no mastoidectomy] vs. **[[69641]]**-**[[69646]]** [with mastoidectomy])
 > - **Oval window** — membrane-covered opening in the bony wall of the inner ear (cochlea) where the stapes footplate sits; the terminal point of ossicular chain mechanical transmission
 > - **Stapedius muscle** — the smallest skeletal muscle in the human body; attaches to the neck of the stapes; innervated by the **facial nerve (CN VII)**; contracts reflexively to dampen ossicular vibration in response to loud sound (acoustic reflex); paralysis in Bell's palsy/CN VII damage causes hyperacusis
 > - **Incudostapedial joint** — the synovial joint between the long process of the incus and the head of the stapes; the most common site of ossicular chain discontinuity from trauma or erosion

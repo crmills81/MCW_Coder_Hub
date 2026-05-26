@@ -63,7 +63,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Miosis]]** — the direct opposite of **mydriasis**; refers to abnormal constriction of the pupil (< 2 mm); coded **[[H57.03]];** caused by **parasympathetic** **overactivation**, opioid toxicity, Horner's syndrome, or pilocarpine use
+> - **[[miosis]]** — the direct opposite of **mydriasis**; refers to abnormal constriction of the pupil (< 2 mm); coded **[[H57.03]];** caused by **parasympathetic** **overactivation**, opioid toxicity, Horner's syndrome, or pilocarpine use
 > - **[[Anisocoria]]** — unequal pupil sizes between the two eyes; does not specify which pupil is abnormal; coded **[[H57.02]]**; **mydriasis** may be the cause of **[[anisocoria]]** when the dilated pupil is the pathological one
 > - **[[tonic pupil]]** — a specific post-ganglionic **parasympathetic lesion** causing poorly reactive, dilated pupil with light-near dissociation and **segmental iris palsy**; coded **[[H57.051]] (right), [[H57.052]] (left), [[H57.053]] (bilateral), [[H57.059]] (unspecified)**; distinguished from **mydriasis** by its characteristic slow, tonic re-**dilation** after near effort
 > - **Adie syndrome** — the systemic form of **tonic pupil** combined with diminished deep **[[tendon]]** reflexes; coded **[[H57.051]]-[[H57.059]]** for the pupil component; CNS involvement may warrant additional neurological codes
