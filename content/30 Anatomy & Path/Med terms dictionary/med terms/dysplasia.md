@@ -48,7 +48,7 @@ _____
 > - **Metaplasia** — the reversible replacement of one mature cell type by another mature cell type.
 > - **Carcinoma in situ (CIS)** — severe **dysplasia** where abnormal cells involve the full thickness of the epithelium but haven't broken through the basement membrane.
 > - **Colposcopy** — a procedure closely examining the cervix, vagina, and vulva for signs of dysplasia.
-> - **[[Osteotomy]]** — a surgical cutting of a bone, often performed to correct macroscopic skeletal dysplasias (**like hip dysplasia**).
+> - **[[osteotomy]]** — a surgical cutting of a bone, often performed to correct macroscopic skeletal dysplasias (**like hip dysplasia**).
 > 
 _____
 

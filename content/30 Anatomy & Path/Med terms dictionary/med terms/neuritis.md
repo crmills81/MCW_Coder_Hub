@@ -47,7 +47,7 @@ _____
 > - **[[Radiculitis]]:** Inflammation of a nerve root (where the nerve exits the spine).
 > - **[[Plexitis]]:** Inflammation of a nerve plexus (e.g., brachial plexitis).
 > - **[[encephalitis]]:** Inflammation of the brain tissue.
-> - **[[Myelitis]]:** Inflammation of the spinal cord.
+> - **[[myelitis]]:** Inflammation of the spinal cord.
 > - **Guillain-Barré Syndrome:** **[[Autoimmune]]** **[[polyneuritis]]** causing rapid-onset muscle weakness.
 > - **Optic Neuritis:** Inflammation of the optic nerve (common in **[[multiple sclerosis]]**).
 > - **Vestibular Neuritis:** Inflammation of the **vestibular** nerve (causes **vertigo**).

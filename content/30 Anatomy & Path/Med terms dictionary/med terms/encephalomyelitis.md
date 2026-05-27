@@ -73,7 +73,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 >
 > - **[[encephalitis]]** — inflammation limited to the brain parenchyma without spinal cord involvement; shares the *[[encephal-]]* root; coded to G04.xx when acute, distinguished from encephalomyelitis by absence of myelopathic features
-> - **[[Myelitis]]** — inflammation of the spinal cord alone; shares the *[[myel-]]* root; coded to G04.xx (**[[G04.89]], [[G04.90]], [[G04.91]**]) — overlap with encephalomyelitis is coded to the combined form
+> - **[[myelitis]]** — inflammation of the spinal cord alone; shares the *[[myel-]]* root; coded to G04.xx (**[[G04.89]], [[G04.90]], [[G04.91]**]) — overlap with encephalomyelitis is coded to the combined form
 > - **[[Multiple Sclerosis]]** — chronic relapsing-remitting demyelinating CNS disease (**[[G35.D]]**); shares white matter inflammation with ADEM but distinguished by relapsing course, specific MRI lesion pattern, and CSF oligoclonal bands
 > - **Acute Disseminated Encephalomyelitis** — the most common acute autoimmune demyelinating **encephalomyelitis** (**[[G04.00]], [[G04.01]]**); typically monophasic; mimics MS on initial presentation but lacks recurrence in most cases
 > - **Neuromyelitis Optica Spectrum Disorder** — autoimmune demyelinating disease targeting optic nerves and spinal cord preferentially ([[G36.0]]); distinguished by AQP4-IgG or MOG-IgG seropositivity and specific spinal cord lesion pattern

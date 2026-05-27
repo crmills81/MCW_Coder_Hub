@@ -40,7 +40,7 @@ _____
 > 
 > **Related CPT Codes** (Common procedures for diagnosis/treatment)
 > 
-> - **[[92201]]** - [[Ophthalmoscopy]], extended (with [[retinal]] drawing and scleral depression)
+> - **[[92201]]** - [[ophthalmoscopy]], extended (with [[retinal]] drawing and scleral depression)
 > - **[[92250]]** - Fundus photography with interpretation and report
 > - **[[67028]]** - [[Intravitreal]] injection of pharmacologic agent
 > - **[[67036]]** - [[Vitrectomy]], mechanical, pars plana approach (for diagnostic purposes)
