@@ -588,7 +588,7 @@ A 72-year-old female with a history of PVD and Type 2 diabetes underwent right B
 - [[I70.201]] — Atherosclerosis of native arteries, right leg *(underlying PVD cause)*
 - [[I70.202]] — Atherosclerosis of native arteries, left leg
 - [[I50.30]] — Heart failure with preserved ejection fraction, unspecified *(active comorbidity being monitored — query physician if more specificity available)*
-- [[N18.33]] — Chronic kidney disease, stage 3b *(active comorbidity)*
+- [[N18.32]] — Chronic kidney disease, stage 3b *(active comorbidity)*
 
 **CPT (PMR Physician Profee — Initial Visit):**
 - [[99223]][[-AI]] — Initial hospital care, high complexity *(bilateral amputations, multiple active comorbidities, complex discharge planning)*

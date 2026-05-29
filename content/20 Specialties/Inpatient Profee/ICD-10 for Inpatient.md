@@ -28,7 +28,7 @@ Inpatient coding requires high specificity. Principal diagnosis drives DRG assig
 | :--- | :--- |
 | **[[J18.9]]** | Pneumonia, unspecified |
 | **[[J44.1]]** | COPD with acute exacerbation |
-| **[[J96.00]]** | Acute respiratory failure |
+| **[[J69.0]]** | Acute respiratory failure |
 
 ### Digestive (K00-K95)
 | Code | Description |

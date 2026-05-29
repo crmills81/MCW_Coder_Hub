@@ -197,10 +197,10 @@ last_reviewed: 2026-05-06
 
 | Bucket                    | Purpose                                                          | Examples            |
 | ------------------------- | ---------------------------------------------------------------- | ------------------- |
-| **Aftercare**             | Reason for encounter during recovery phase post-procedure/injury | **Z47.–, Z48.–**        |
-| **Status**                | Patient currently has a device, implant, or dependency           | **Z96.–, Z99.–**        |
-| **Functional dependency** | Documents care needs and functional limitations                  | **Z74.–**               |
-| **History**               | Prior condition relevant to current care planning                | **Z82.–, Z86.–, Z87.–** |
+| **Aftercare**             | Reason for encounter during recovery phase post-procedure/injury | **Z47.-, Z48.-**        |
+| **Status**                | Patient currently has a device, implant, or dependency           | **Z96.-, Z99.-**        |
+| **Functional dependency** | Documents care needs and functional limitations                  | **Z74.-**               |
+| **History**               | Prior condition relevant to current care planning                | **Z82.-, Z86.-, Z87.-** |
 
 > [!warning] Z Code PDX Rule — Critical
 > Per **ICD-10-CM Official Guidelines Section I.C.21:** Z codes **may** be sequenced as PDX when the circumstances of admission support it. In IRF settings, aftercare Z codes (**Z47/Z48**) are frequently the correct PDX. However, certain conditions — active disease, acute complications — must be coded as PDX instead, with the Z code as secondary.
@@ -225,9 +225,9 @@ last_reviewed: 2026-05-06
 | -------------------------------------- | ------------------------------------------------------------------------- |
 | IRF admission post-THR                 | **[[Z47.1]] — Aftercare following joint replacement**                         |
 | IRF admission post-stroke (stable)     | **[[Z87.39]] — Personal history of stroke / or [[Z51.89]]**                   |
-| Acute care, PM&R consult for CVA rehab | **I63.– — Active cerebral infarction (not Z code)**                       |
-| Acute care, post-op day 2, PT ordered  | **Z48.– — Post-surgical aftercare (secondary)**                           |
-| IRF, SCI rehab                         | **Z37.– — No; use S14.– or S24.– if acute; G82.– if chronic** |
+| Acute care, PM&R consult for CVA rehab | **I63.- — Active cerebral infarction (not Z code)**                       |
+| Acute care, post-op day 2, PT ordered  | **Z48.- — Post-surgical aftercare (secondary)**                           |
+| IRF, SCI rehab                         | **Z37.- — No; use S14.- or S24.- if acute; G82.- if chronic** |
 
 ---
 
@@ -249,9 +249,9 @@ last_reviewed: 2026-05-06
 | **[[Z47.89]]** | Encounter for other orthopedic aftercare                         | Fracture aftercare, tendon repair aftercare |
 
 **Coding pearls:**
-- **[[Z47.1]]** does **not** specify which joint — always code the joint status with Z96.– (presence of prosthesis) as an additional code
+- **[[Z47.1]]** does **not** specify which joint — always code the joint status with Z96.- (presence of prosthesis) as an additional code
 - For bilateral joint replacements, code **[[Z47.1]]** once; add bilateral Z96 status codes
-- Post-amputation: pair **[[Z47.81]]** with **amputation** status code (Z89.–) and prosthetic fitting code if applicable
+- Post-amputation: pair **[[Z47.81]]** with **amputation** status code (Z89.-) and prosthetic fitting code if applicable
 - **[[Z47.89]]** is the catch-all for fracture aftercare — fracture codes with 7th character D (subsequent encounter) are **not** used when **Z47.89 i**s assigned as PDX per guidelines
 
 > [!warning] Z47.89 vs. Fracture Code 7th Character D
@@ -310,7 +310,7 @@ last_reviewed: 2026-05-06
 - **[[Z48.811]]** is key for **post-neurosurgery PM&R** (e.g., post-craniotomy, post-spinal surgery rehab)
 - **[[Z48.812]]** drives many **cardiac rehab IRF admissions** following CABG, valve surgery, LVAD placement
 - Always add the underlying condition as additional diagnosis (e.g., the heart disease, the [[neoplasm]])
-- Transplant aftercare codes (Z48.2–) require the transplant status code (Z94.–) as additional dx
+- Transplant aftercare codes (Z48.2-) require the transplant status code (Z94.-) as additional dx
 
 ---
 
@@ -321,7 +321,7 @@ last_reviewed: 2026-05-06
 | **[[Z51.89]]** | Encounter for other specified aftercare | Catch-all; used for rehab encounters not covered by Z47/Z48 |
 
 > [!tip] Z51.89 Use in PM&R
-> **Z51.89** is used when a patient is admitted for rehabilitation but no more specific aftercare code applies — for example, post-stroke rehab when the CVA is resolved and no Z47/Z48 code fits. Pair with personal history code (Z86.–) or the residual condition (e.g., [[hemiplegia]] G81.–) as additional diagnoses.
+> **Z51.89** is used when a patient is admitted for rehabilitation but no more specific aftercare code applies — for example, post-stroke rehab when the CVA is resolved and no Z47/Z48 code fits. Pair with personal history code (Z86.-) or the residual condition (e.g., [[hemiplegia]] G81.-) as additional diagnoses.
 
 ---
 
@@ -344,7 +344,7 @@ last_reviewed: 2026-05-06
 - **Z74** codes are **never PDX** — always secondary
 - Extremely useful for **supporting IRF medical necessity** documentation
 - **[[Z74.3]]** is valuable in TBI and stroke patients with cognitive impairment requiring supervision
-- Pair **[[Z74.01]]** with Z99.– device dependence codes when applicable (e.g., ventilator-dependent bedbound patient)
+- Pair **[[Z74.01]]** with Z99.- device dependence codes when applicable (e.g., ventilator-dependent bedbound patient)
 
 ---
 
@@ -378,7 +378,7 @@ last_reviewed: 2026-05-06
 | **[[Z86.69]]** | Personal history of other diseases of the musculoskeletal system and connective tissue | Prior fracture, arthritis         |
 
 > [!warning] Z86 vs. Active Condition
-> Use **Z86** **only** when the condition is resolved. If the condition is active and affecting current care, use the active disease code. Example: patient with ongoing [[hemiplegia]] from a prior [[stroke]] uses G81.– ([[hemiplegia]]), not **[[Z86.73]]** — because the hemiplegia is an active residual condition, not history.
+> Use **Z86** **only** when the condition is resolved. If the condition is active and affecting current care, use the active disease code. Example: patient with ongoing [[hemiplegia]] from a prior [[stroke]] uses G81.- ([[hemiplegia]]), not **[[Z86.73]]** — because the hemiplegia is an active residual condition, not history.
 
 ---
 
@@ -399,7 +399,7 @@ last_reviewed: 2026-05-06
 **Coding pearl — Stroke history:**
 - There is no **Z87** code specifically for stroke
 - Resolved stroke with no residual effects: **[[Z86.73]]** — Personal history of transient ischemic attack (TIA) and cerebral infarction without residual deficits
-- Stroke with residual deficits (**[[hemiplegia]], [[aphasia]], [[dysphagia]]**): code the **active residual** (G81.–, [[R47.01]], R13.1–) — not a history code
+- Stroke with residual deficits (**[[hemiplegia]], [[aphasia]], [[dysphagia]]**): code the **active residual** (G81.-, [[R47.01]], R13.1-) — not a history code
 
 ---
 
@@ -433,7 +433,7 @@ last_reviewed: 2026-05-06
 - Always pair the appropriate Z96 code with **[[Z47.1]]** in post-arthroplasty rehab admissions
 - Bilateral replacements at same admission: use bilateral Z96 code (**e.g., [[Z96.653]]**)
 - Staged bilateral (one side at a time): code the specific side operated
-- Internal fixation device presence: **[[Z96.691–Z96.699]] or [[Z96.9]]** — distinguish from joint prosthesis
+- Internal fixation device presence: **[[Z96.691-Z96.699]] or [[Z96.9]]** — distinguish from joint prosthesis
 
 ---
 
@@ -468,10 +468,10 @@ last_reviewed: 2026-05-06
 | -------------------------------- | ---------------------------- | ----------------------------------------------------------------------------------------- |
 | Post-THR rehab                   | **[[Z47.1]]**                | **[[Z96.641]] or [[Z96.642]], [[Z74.09]], [[Z87.39]]**                                        |
 | Post-TKR rehab                   | **[[Z47.1]]**                | **[[Z96.651]] or [[Z96.652]], [[Z74.09]]**                                                    |
-| Post-stroke rehab (resolved CVA) | **[[Z51.89]] or [[Z86.73]]** | **[[G81.–]] (hemiplegia), [[R47.01]] (aphasia if present), [[R13.–]] (dysphagia if present)** |
-| Post-hip fracture ORIF rehab     | **[[Z47.89]]**               | **[[Z87.820]], [[Z74.09]], [[M81.–]] (osteoporosis if applicable)**                           |
-| Post-amputation rehab            | **[[Z47.81]]**               | **[[Z89.–]] (amputation status), [[Z74.09]]**                                                 |
-| Post-spinal fusion rehab         | **[[Z47.82]]**               | **[[M43.–]] (underlying condition), [[Z74.09]]**                                              |
+| Post-stroke rehab (resolved CVA) | **[[Z51.89]] or [[Z86.73]]** | **G81.- (hemiplegia), [[R47.01]] (aphasia if present), [[R13.-]] (dysphagia if present)** |
+| Post-hip fracture ORIF rehab     | **[[Z47.89]]**               | **[[Z87.820]], [[Z74.09]], M81.- (osteoporosis if applicable)**                           |
+| Post-amputation rehab            | **[[Z47.81]]**               | **Z89.- (amputation status), [[Z74.09]]**                                                 |
+| Post-spinal fusion rehab         | **[[Z47.82]]**               | **M43.- (underlying condition), [[Z74.09]]**                                              |
 | Post-cardiac surgery rehab       | **[[Z48.812]]**              | **Underlying cardiac condition, [[Z74.09]]**                                                  |
 | Post-neurosurgery rehab          | **[[Z48.811]]**              | **Underlying neurological condition**                                                         |
 
@@ -484,10 +484,10 @@ last_reviewed: 2026-05-06
 
 | Clinical Scenario                   | PDX (Acute Care)                    | PM&R-Relevant Secondary Codes                             |
 | ----------------------------------- | ----------------------------------- | --------------------------------------------------------- |
-| Active CVA with PM&R consult        | **I63.–**                           | **[[Z74.09]], [[Z74.3]], [[Z74.1]]**                          |
-| Post-op day 2, PT/OT consult        | **Z48.– (surgical aftercare)**      | **[[Z74.09]], [[Z74.1]]**                                     |
-| Acute SCI, PM&R consult             | **S14.– or S24.– or S34.–** | **[[Z74.01]], [[Z99.11]] if vented, [[Z99.3]] if applicable** |
-| Acute TBI, PM&R consult             | **S06.–**                           | **[[Z74.3]], [[Z74.01]]**                                     |
+| Active CVA with PM&R consult        | **I63.-**                           | **[[Z74.09]], [[Z74.3]], [[Z74.1]]**                          |
+| Post-op day 2, PT/OT consult        | **Z48.- (surgical aftercare)**      | **[[Z74.09]], [[Z74.1]]**                                     |
+| Acute SCI, PM&R consult             | **S14.- or S24.- or S34.-** | **[[Z74.01]], [[Z99.11]] if vented, [[Z99.3]] if applicable** |
+| Acute TBI, PM&R consult             | **S06.-**                           | **[[Z74.3]], [[Z74.01]]**                                     |
 | Deconditioning workup, PM&R consult | **[[R53.81]] (deconditioning/fatigue)** | **[[Z74.09]], [[Z74.1]], underlying etiology**                |
 
 ---
@@ -505,7 +505,7 @@ last_reviewed: 2026-05-06
 | Spinal fusion for scoliosis            | **[[Z47.82]]**             |
 | Cardiac surgery (CABG, valve)          | **[[Z48.812]]**            |
 | Neurosurgery (craniotomy, laminectomy) | **[[Z48.811]]**            |
-| Organ transplant                       | **[[Z48.21–Z48.298]]**     |
+| Organ transplant                       | **[[Z48.21-Z48.298]]**     |
 | Oncologic surgery                      | **[[Z48.3]]**              |
 | Other surgery                          | **[[Z48.89]]**             |
 
@@ -524,13 +524,13 @@ last_reviewed: 2026-05-06
 | **[[G82.21]]** | Paraplegia, complete            |
 | **[[G82.22]]** | Paraplegia, incomplete          |
 | **[[G82.50]]** | Quadriplegia, unspecified       |
-| **[[G82.51]]** | Quadriplegia, C1–C4, complete   |
-| **[[G82.52]]** | Quadriplegia, C1–C4, incomplete |
-| **[[G82.53]]** | Quadriplegia, C5–C7, complete   |
-| **[[G82.54]]** | Quadriplegia, C5–C7, incomplete |
+| **[[G82.51]]** | Quadriplegia, C1-C4, complete   |
+| **[[G82.52]]** | Quadriplegia, C1-C4, incomplete |
+| **[[G82.53]]** | Quadriplegia, C5-C7, complete   |
+| **[[G82.54]]** | Quadriplegia, C5-C7, incomplete |
 
 > [!tip] SCI Coding Tip
-> Acute traumatic SCI in acute care: use S14/S24/S34 (injury codes). Chronic/established SCI in IRF: use G82.– (functional level). Always document ASIA Impairment Scale classification if available — maps to complete vs. incomplete.
+> Acute traumatic SCI in acute care: use S14/S24/S34 (injury codes). Chronic/established SCI in IRF: use G82.- (functional level). Always document ASIA Impairment Scale classification if available — maps to complete vs. incomplete.
 
 **TBI — Residual Conditions Commonly Coded in PM&R:**
 
@@ -667,20 +667,20 @@ last_reviewed: 2026-05-06
 > [!tip] CC/MCC Capture in PM&R
 > Common **CCs** and **MCCs** that elevate **DRG** in **PM&R** encounters:
 > - **Acute blood loss anemi**a ([[D62]]) → **CC**
-> - **Pressure ulcer Stage 3+** (L89.–) → **MCC**
-> - **[[Malnutrition]]** ([[E43]], E44.–) → **MCC/CC**
-> - **Respiratory failure** (J96.0–) → **MCC**
-> - **[[Sepsis]]** (A41.–) → **MCC**
-> - **[[Hyponatremia]]** ([[E87.1]]) → **CC**
+> - **Pressure ulcer Stage 3+** (L89.-) → **MCC**
+> - **[[Malnutrition]]** ([[E43]], E44.-) → **MCC/CC**
+> - **Respiratory failure** (J96.0-) → **MCC**
+> - **[[Sepsis]]** (A41.-) → **MCC**
+> - **[[hyponatremia]]** ([[E87.1]]) → **CC**
 > - **UTI** ([[N39.0]]) → **CC**
-> - **[[Dysphagia]]** (R13.1–) → **CC**
-> - **DVT** (I82.–) → **CC**
+> - **[[Dysphagia]]** (R13.1-) → **CC**
+> - **DVT** (I82.-) → **CC**
 
 ---
 
 ## 📌 Coding Scenarios — High-Yield Clinical Situations
 
-### Scenario 1: IRF Admission Post–Total Hip Replacement
+### Scenario 1: IRF Admission Post-Total Hip Replacement
 
 - **PDX:** [[Z47.1]] — Aftercare following joint replacement
 - **Secondary:** [[Z96.641]] — Presence of right artificial hip joint
@@ -706,7 +706,7 @@ last_reviewed: 2026-05-06
 ### Scenario 3: Acute Care Admission, SCI C5 Complete, PM&R Consult
 
 - **PDX:** [[S14.105A]] — Unspecified injury at C5 level, initial encounter (acute SCI)
-- **Secondary:** [[G82.51]] — Quadriplegia, C1–C4 complete (or appropriate level)
+- **Secondary:** [[G82.51]] — Quadriplegia, C1-C4 complete (or appropriate level)
 - **Secondary:** [[Z99.11]] — Ventilator dependence (if applicable)
 - **Secondary:** [[Z74.01]] — Bed confinement
 - **Secondary:** [[Z74.1]] — Need for assistance with personal care
@@ -736,7 +736,7 @@ last_reviewed: 2026-05-06
 
 ### Scenario 6: TBI Rehab, Cognitive Impairment, Supervision Needed
 
-- **PDX:** [[Z48.811]] — Aftercare following surgery on the nervous system (if post-neurosurgery) OR [[S06.–]] if still acute
+- **PDX:** [[Z48.811]] — Aftercare following surgery on the nervous system (if post-neurosurgery) OR [[S06.-]] if still acute
 - **Secondary:** [[F07.81]] — Postconcussional syndrome
 - **Secondary:** [[R41.89]] — Other cognitive symptoms
 - **Secondary:** [[Z74.3]] — Need for continuous supervision

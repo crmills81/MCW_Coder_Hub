@@ -93,7 +93,7 @@ last_reviewed: 2026-05-06
 # 🦾 Z89 — Acquired Absence of Limb (Amputation Status)
 
 > [!tip] Quick Orientation
-> **Z89** codes document **acquired absence of a limb** — meaning the limb was surgically amputated or traumatically lost. These are **status codes**, always secondary, never PDX. They pair directly with **[[Z47.81]]** (**post-amputation aftercare**) in IRF admissions and with prosthetic **CPT** codes in **PM&R** encounters. Congenital absence of limb is coded separately under Q71–Q73 — do not use Z89 for congenital limb deficiency.
+> **Z89** codes document **acquired absence of a limb** — meaning the limb was surgically amputated or traumatically lost. These are **status codes**, always secondary, never PDX. They pair directly with **[[Z47.81]]** (**post-amputation aftercare**) in IRF admissions and with prosthetic **CPT** codes in **PM&R** encounters. Congenital absence of limb is coded separately under Q71-Q73 — do not use Z89 for congenital limb deficiency.
 
 ---
 
@@ -124,9 +124,9 @@ last_reviewed: 2026-05-06
 
 | Concept                       | Rule                                                      |
 | ----------------------------- | --------------------------------------------------------- |
-| Congenital limb absence       | **Q71–Q73, NOT Z89**                                          |
+| Congenital limb absence       | **Q71-Q73, NOT Z89**                                          |
 | Traumatic amputation, acute   | **S48/S58/S68/S78/S88/S98 (injury codes), NOT Z89**           |
-| Healed/established amputation | **Z89.–**                                                     |
+| Healed/established amputation | **Z89.-**                                                     |
 | Multiple limb amputations     | **Code each separately**                                      |
 | Bilateral amputation          | **Use bilateral code where available; code each side if not** |
 
@@ -150,7 +150,7 @@ last_reviewed: 2026-05-06
 | **[[Z89.129]]** | Acquired absence of wrist, unspecified        |
 
 > [!tip] Finger-Level Coding
-> **Individual finger codes** exist for thumb and index finger specifically. For middle, ring, and little finger absence, use Z89.02– (**other finger**) codes. Multiple finger absence on same hand — code each absent finger separately.
+> **Individual finger codes** exist for thumb and index finger specifically. For middle, ring, and little finger absence, use Z89.02- (**other finger**) codes. Multiple finger absence on same hand — code each absent finger separately.
 
 ---
 
@@ -216,7 +216,7 @@ last_reviewed: 2026-05-06
 > **Toe amputations** are extremely common in diabetic patients with peripheral vascular disease. Always code the underlying etiology:
 > - **[[E11.51]]** — Type 2 DM with diabetic peripheral angiopathy without gangrene
 > - **[[E11.52]]** — Type 2 DM with diabetic peripheral angiopathy with gangrene
-> - I70.– — Atherosclerosis of native arteries of extremities
+> - I70.- — Atherosclerosis of native arteries of extremities
 
 ---
 
@@ -268,7 +268,7 @@ last_reviewed: 2026-05-06
 
 | Pitfall                                               | Correct Approach                                                                   |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| **Using Z89 for congenital limb absence**                 | Use Q71–Q73 instead                                                                |
+| **Using Z89 for congenital limb absence**                 | Use Q71-Q73 instead                                                                |
 | **Using Z89 during acute traumatic amputation encounter** | Use S-code injury codes with 7th char A; Z89 applies after healing                 |
 | **Missing laterality**                                    | Always specify right, left, or bilateral                                           |
 | **Missing level of amputation**                           | Below knee (BK), above knee (AK), transmetatarsal — document and code specifically |
@@ -283,12 +283,12 @@ last_reviewed: 2026-05-06
 | ------------------------------ | -------------------------------------------------------- |
 | Post-amputation IRF admission  | **[[Z47.81]] as PDX**                                        |
 | Diabetic toe/foot amputation   | **[[E11.51]] or [[E11.52]]**                                 |
-| PAD-related amputation         | **I70.– atherosclerosis codes**                          |
+| PAD-related amputation         | **I70.- atherosclerosis codes**                          |
 | Prosthetic training            | **CPT [[97761]]**                                            |
 | Wheelchair dependence post-amp | **[[Z99.3]]**                                                |
 | Reduced mobility               | **[[Z74.09]]**                                               |
 | Phantom limb pain              | **[[G54.6]] (phantom limb syndrome with pain)**              |
-| Stump complication             | **T87.– (complications of reattachment and amputation)** |
+| Stump complication             | **T87.- (complications of reattachment and amputation)** |
 
 ---
 

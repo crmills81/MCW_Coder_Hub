@@ -138,7 +138,7 @@ Modifier [[AS]] does not directly impact MS-DRG assignment, as DRGs are based on
 | **[[K80.20]]** | Calculus of gallbladder without [[cholecystitis]] | ❌ Not HCC      |
 | **[[M17.11]]** | Unilateral primary osteoarthritis, right knee     | ❌ Not HCC      |
 
-* *HCC Status*: Hierarchical Condition Category mapping for Medicare Advantage risk adjustment. Diagnosis codes determine HCC status, not the modifier. Modifier [[AS]] has no impact on risk adjustment scores <sup>9</sup><sup>10</sup>.
+* *HCC Status*: Hierarchical Condition Category mapping for Medicare Advantage risk adjustment. Diagnosis codes determine HCC status, not the modifier. Modifier [[-AS]] has no impact on risk adjustment scores <sup>9</sup><sup>10</sup>.
 
 ### Supporting/Comorbid Codes (Document When Applicable)
 - [[N18.30]] Chronic kidney disease, stage 3 unspecified (HCC applicable)
@@ -151,17 +151,17 @@ Modifier [[AS]] does not directly impact MS-DRG assignment, as DRGs are based on
 
 | Modifier            | Use Case for [[AS]]                                           | Payable?                                                         |
 | ------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------- |
-| **[[80]]**          | **Assistant Surgeon (Physician/MD/DO)**                       | ❌ Do not use for NPPs                                            |
-| **[[81]]**          | **Minimum Assistant Surgeon (Physician)**                     | ❌ Do not use for NPPs                                            |
-| **[[82]]**          | **Assistant Surgeon (when qualified resident not available)** | ❌ Do not use for NPPs                                            |
-| **[[50]]**          | **Bilateral Procedure**                                       | ✅ Can be used with [[AS]] if primary code is bilateral           |
-| **[[51]]**          | **Multiple Procedures**                                       | ✅ Can be used with [[AS]] on secondary codes                     |
-| **[[59]]**          | **Distinct Procedural Service**                               | ✅ Can be used with [[AS]] if primary code requires it            |
-| **[[GC]]**          | **Teaching Physician**                                        | ⚠️ Do not use together; [[GC]] is for resident supervision       |
-| **[[LT]] / [[RT]]** | **Laterality**                                                | ✅ Should be used with [[AS]] if primary code requires laterality |
+| **[[-80]]**          | **Assistant Surgeon (Physician/MD/DO)**                       | ❌ Do not use for NPPs                                            |
+| **[[-81]]**          | **Minimum Assistant Surgeon (Physician)**                     | ❌ Do not use for NPPs                                            |
+| **[[-82]]**          | **Assistant Surgeon (when qualified resident not available)** | ❌ Do not use for NPPs                                            |
+| **[[-50]]**          | **Bilateral Procedure**                                       | ✅ Can be used with [[-AS]] if primary code is bilateral           |
+| **[[-51]]**          | **Multiple Procedures**                                       | ✅ Can be used with [[-AS]] on secondary codes                     |
+| **[[-59]]**          | **Distinct Procedural Service**                               | ✅ Can be used with [[-AS]] if primary code requires it            |
+| **[[-GC]]**          | **Teaching Physician**                                        | ⚠️ Do not use together; [[-GC]] is for resident supervision       |
+| **[[-LT]] / [[-RT]]** | **Laterality**                                                | ✅ Should be used with [[-AS]] if primary code requires laterality |
 
-> [!CAUTION] Modifier [[80]] vs [[AS]]
-> Do not use modifier [[80]] for a Physician Assistant. Modifier [[80]] is strictly for physicians (MD/DO). Using [[80]] for an NPP may result in recoupment or audit flags <sup>3</sup>.
+> [!CAUTION] Modifier [[-80]] vs [[-AS]]
+> Do not use modifier [[-80]] for a Physician Assistant. Modifier [[-80]] is strictly for physicians (MD/DO). Using [[-80]] for an NPP may result in recoupment or audit flags <sup>3</sup>.
 
 ---
 
@@ -170,34 +170,34 @@ Modifier [[AS]] does not directly impact MS-DRG assignment, as DRGs are based on
 ### ✅ Example 1: PA Assisting in Open Ureterolithotomy
 > **Scenario**: 55 y/o M undergoes open ureterolithotomy [[50620]]. Primary surgeon is MD. Physician Assistant provides retraction and suturing assistance. Primary code allows assistant surgery.  
 > **Report**:  
-> - Primary Surgeon (MD): [[50620]]-[[RT]]  
-> - Assistant (PA): [[50620]]-[[AS]]-[[RT]]  
+> - Primary Surgeon (MD): [[50620]]-[[-RT]]  
+> - Assistant (PA): [[50620]]-[[-AS]]-[[-RT]]  
 > - Diagnosis: [[N20.1]]  
 > **Rationale**: PA assistance documented; primary code allows assistant; correct modifier used <sup>11</sup>.
 
 ### ❌ Example 2: PA Assisting but Code Bundles Assistant
 > **Scenario**: PA assists in minor procedure [[52000]] (Cystoscopy). Primary code Status Indicator is "0" (Assistant not permitted).  
-> **Report**: [[52000]]-[[AS]]  
-> **Rationale**: **Incorrect**. [[52000]] bundles assistant services. Modifier [[AS]] will be denied regardless of provider type <sup>7</sup>.
+> **Report**: [[52000]]-[[-AS]]  
+> **Rationale**: **Incorrect**. [[52000]] bundles assistant services. Modifier [[-AS]] will be denied regardless of provider type <sup>7</sup>.
 
 ### ⚠️ Example 3: Physician Assistant Using Wrong Modifier
-> **Scenario**: PA assists in colectomy. Bills with modifier [[80]].  
-> **Report**: [[44140]]-[[80]]  
-> **Rationale**: **Incorrect**. PA must use [[AS]]. Modifier [[80]] implies a physician assistant. Claim may be rejected or audited <sup>3</sup>.
+> **Scenario**: PA assists in colectomy. Bills with modifier [[-80]].  
+> **Report**: [[44140]]-[[-80]]  
+> **Rationale**: **Incorrect**. PA must use [[-AS]]. Modifier [[-80]] implies a physician assistant. Claim may be rejected or audited <sup>3</sup>.-
 
 ### ✅ Example 4: NP Assisting in Bilateral Procedure
 > **Scenario**: NP assists in bilateral carpal tunnel release [[64721]].  
 > **Report**:  
-> - Primary: [[64721]]-[[50]]  
-> - Assistant (NP): [[64721]]-[[AS]]-[[50]]  
+> - Primary: [[64721]]-[[-50]]  
+> - Assistant (NP): [[64721]]-[[-AS]]-[[-50]]  
 > - Diagnosis: [[G56.01]] (Carpal tunnel syndrome, right upper limb)  
-> **Rationale**: Modifier [[AS]] appended with bilateral modifier [[50]] per payer policy <sup>11</sup>.
+> **Rationale**: Modifier [[-AS]] appended with bilateral modifier [[-50]] per payer policy <sup>11</sup>.
 
 ---
 
 ## 🔍 Documentation Essentials for Support
 
-To support modifier [[AS]] and mitigate audit risk, operative documentation should include:
+To support modifier [[-AS]] and mitigate audit risk, operative documentation should include:
 
 1. **Identity of Assistant**: Clearly state the name and credentials (PA, NP, CNS) of the assistant.
 2. **Specific Tasks**: Document what the assistant did (e.g., "PA assisted with retraction," "NP performed suturing").
@@ -215,25 +215,25 @@ To support modifier [[AS]] and mitigate audit risk, operative documentation shou
 
 | Pitfall | Consequence | Prevention |
 |---------|-------------|------------|
-| Using [[80]] for PA/NP | Claim denial or recoupment | Always use [[AS]] for NPP assistants <sup>3</sup> |
-| Billing [[AS]] on bundled codes | Claim denial | Check MPFS Status Indicator before billing <sup>7</sup> |
+| Using [[-80]] for PA/NP | Claim denial or recoupment | Always use [[-AS]] for NPP assistants <sup>3</sup> |
+| Billing [[-AS]] on bundled codes | Claim denial | Check MPFS Status Indicator before billing <sup>7</sup> |
 | Insufficient operative documentation | Audit failure | Document specific tasks and medical necessity <sup>11</sup> |
-| Using [[AS]] for residents | Claim denial | Use [[GC]] or [[GE]] for resident involvement <sup>12</sup> |
-| Missing laterality modifiers | Claim rejection | Append [[LT]]/[[RT]] or [[50]] as required by primary code <sup>11</sup> |
+| Using [[-AS]] for residents | Claim denial | Use [[-GC]] or [[-GE]] for resident involvement <sup>12</sup> |
+| Missing laterality modifiers | Claim rejection | Append [[-LT]]/[[-RT]] or [-[50]] as required by primary code <sup>11</sup> |
 
 ---
 
 ## 🔗 Related Codes & Crosswalks
 
-| Code Type | Code | Relationship to [[AS]] |
+| Code Type | Code | Relationship to [[-AS]] |
 |-----------|------|---------------------------|
-| HCPCS Modifier | [[80]] | Assistant Surgeon (Physician) |
-| HCPCS Modifier | [[81]] | Minimum Assistant Surgeon (Physician) |
-| HCPCS Modifier | [[82]] | Assistant Surgeon (No Resident Available) |
-| HCPCS Modifier | [[62]] | Two Surgeons (Co-surgery) |
-| HCPCS Modifier | [[GC]] | Teaching Physician (Resident involved) |
+| HCPCS Modifier | [[-80]] | Assistant Surgeon (Physician) |
+| HCPCS Modifier | [[-81]] | Minimum Assistant Surgeon (Physician) |
+| HCPCS Modifier | [[-82]] | Assistant Surgeon (No Resident Available) |
+| HCPCS Modifier | [[-62]] | Two Surgeons (Co-surgery) |
+| HCPCS Modifier | [[-GC]] | Teaching Physician (Resident involved) |
 | CPT® | Varies | Primary surgical procedure code (e.g., [[51565]]) |
-| CMS Form | CMS-1500 | Professional claim form where [[AS]] is reported |
+| CMS Form | CMS-1500 | Professional claim form where [[-AS]] is reported |
 
 ---
 

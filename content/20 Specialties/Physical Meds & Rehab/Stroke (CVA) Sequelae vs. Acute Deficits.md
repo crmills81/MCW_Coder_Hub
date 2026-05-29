@@ -34,8 +34,6 @@ When coding [[hemiplegia]] or [[hemiparesis]], you need the affected side and wh
 ## 3. Top 3 Sequelae Categories (Assuming Infarction I69.3-)
 *Note: The I69 category changes based on the type of stroke (e.g., I69.0 for nontraumatic subarachnoid hemorrhage). The codes below assume the most common: Sequelae of cerebral infarction (I69.3-).*
 
-[attachment_0](attachment)
-
 ### Aphasia
 Loss of ability to understand or express speech. 
 * **Code:** [[I69.320]] ([[Aphasia]] following [[cerebral infarction]])

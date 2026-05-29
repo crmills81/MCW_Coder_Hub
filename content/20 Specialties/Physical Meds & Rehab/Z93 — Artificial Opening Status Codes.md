@@ -36,7 +36,7 @@ last_reviewed: 2026-05-06
 # 🔓 Z93 — Artificial Opening Status Codes
 
 > [!tip] Quick Orientation
-> **Z93** codes document that a patient **currently has an artificial opening** — a surgically created connection between an internal organ and the body surface. These are **status codes**, always secondary, never PDX. In **PM&R**, they are critical companions for **SCI, TBI, stroke**, and **post-ICU** rehab patients who are trach/vent-dependent, tube-fed, or ostomy-dependent. Pair with Z99.– device dependence codes and Z74.– functional dependency codes for complete picture.
+> **Z93** codes document that a patient **currently has an artificial opening** — a surgically created connection between an internal organ and the body surface. These are **status codes**, always secondary, never PDX. In **PM&R**, they are critical companions for **SCI, TBI, stroke**, and **post-ICU** rehab patients who are trach/vent-dependent, tube-fed, or ostomy-dependent. Pair with Z99.- device dependence codes and Z74.- functional dependency codes for complete picture.
 
 ---
 
@@ -63,17 +63,17 @@ last_reviewed: 2026-05-06
 > [!warning] Critical Rules
 > - **Z93** codes are **always secondary** — never PDX
 > - Use when the artificial opening **currently exists** and is relevant to care
-> - If the opening has a **complication**, code the complication from K94.– (**GI ostomy complications**) or N99.5– (**urinary stoma complications**) instead — then add Z93 as additional
+> - If the opening has a **complication**, code the complication from K94.- (**GI ostomy complications**) or N99.5- (**urinary stoma complications**) instead — then add Z93 as additional
 > - Do not use **Z93** for temporary openings that have been reversed
 > - **[[Tracheostomy]] status** (**[[Z93.0]]**) frequently pairs with **[[Z99.11]]** (ventilator dependence) in complex **PM&R** patients
 
 | Opening Type | Z93 Code          | Complication Code (if applicable)    |
 | ------------ | ----------------- | ------------------------------------ |
-| Tracheostomy | **Z93.0**         | J95.0– (tracheostomy complications)  |
-| Gastrostomy  | **Z93.1**         | K94.2– (gastrostomy complications)   |
-| Ileostomy    | **Z93.2**         | K94.1– (ileostomy complications)     |
-| Colostomy    | **Z93.3**         | K94.0– (colostomy complications)     |
-| Cystostomy   | **Z93.50–Z93.52** | N99.5– (urinary stoma complications) |
+| Tracheostomy | **Z93.0**         | J95.0- (tracheostomy complications)  |
+| Gastrostomy  | **Z93.1**         | K94.2- (gastrostomy complications)   |
+| Ileostomy    | **Z93.2**         | K94.1- (ileostomy complications)     |
+| Colostomy    | **Z93.3**         | K94.0- (colostomy complications)     |
+| Cystostomy   | **Z93.50-Z93.52** | N99.5- (urinary stoma complications) |
 
 ---
 
@@ -98,7 +98,7 @@ last_reviewed: 2026-05-06
 - **[[J95.04]]** — Tracheo-esophageal fistula following tracheostomy
 - **[[J95.09]]** — Other tracheostomy complication
 
-> [!warning] Z93.0 vs. J95.– vs. Procedure Code
+> [!warning] Z93.0 vs. J95.- vs. Procedure Code
 > - Patient has a trach, no complications → **[[Z93.0]]**
 > - Patient has a trach with an infected stoma → **[[J95.02]] + [[Z93.0]]**
 > - Tracheostomy was performed **this admission** → **ICD-10-PCS** procedure code (**0B110F4**, etc.) — **Z93.0** is not assigned until the opening is established
@@ -191,7 +191,7 @@ last_reviewed: 2026-05-06
 - SCI patients with neurogenic bladder frequently have suprapubic **catheters** (SPC) = **[[cystostomy]]**
 - **Mitrofanoff** (appendico-**vesicostomy**) is common in pediatric/young adult SCI
 - Distinguish from urethral catheter — indwelling urethral catheter is NOT a Z93 code
-- Pair neurogenic bladder coding: N31.– (**neuromuscular** dysfunction of bladder)
+- Pair neurogenic bladder coding: N31.- (**neuromuscular** dysfunction of bladder)
 
 **Complication codes:**
 - **[[N99.510]]** — Cystostomy complication, unspecified
@@ -230,7 +230,7 @@ last_reviewed: 2026-05-06
 | --------------------------------------------------------- | ----------------------------------------------------------------------- |
 | Coding Z93 for NG tube                                    | **NG tube is temporary — no Z93 code; document as part of clinical status** |
 | Using Z93.0 when trach was done THIS admission            | **Code the PCS procedure; Z93.0 not assigned until established**            |
-| Missing complication code when stoma has a problem        | **Code complication (K94.–, J95.–, N99.5–) first, then Z93**                |
+| Missing complication code when stoma has a problem        | **Code complication (K94.-, J95.-, N99.5-) first, then Z93**                |
 | Forgetting Z93.0 + Z99.11 pairing for vent-trach patients | **Always code both when patient has trach AND vent dependence**             |
 | Using Z93 for reversed/closed openings                    | **Once surgically reversed, Z93 is no longer applicable**                   |
 
@@ -240,11 +240,11 @@ last_reviewed: 2026-05-06
 
 | Z93 Code               | Frequently Paired With                                       |
 | ---------------------- | ------------------------------------------------------------ |
-| **[[Z93.0]] Tracheostomy** | [[Z99.11]] vent dependence; [[J95.–]] if complications       |
-| **[[Z93.1]] Gastrostomy**  | [[Z99.89]] tube feed dependence; [[R13.1–]] dysphagia        |
+| **[[Z93.0]] Tracheostomy** | [[Z99.11]] vent dependence; [[J95.-]] if complications       |
+| **[[Z93.1]] Gastrostomy**  | [[Z99.89]] tube feed dependence; [[R13.1-]] dysphagia        |
 | **[[Z93.2]] Ileostomy**    | [[Z74.1]] ADL assistance; electrolyte imbalance codes        |
 | **[[Z93.3]] Colostomy**    | [[Z74.1]] ADL assistance; bowel program documentation        |
-| **[[Z93.50]] Cystostomy**  | [[N31.–]] neurogenic bladder; [[Z99.89]] if device-dependent |
+| **[[Z93.50]] Cystostomy**  | [[N31.-]] neurogenic bladder; [[Z99.89]] if device-dependent |
 | **All Z93**                | [[Z74.1]] need for personal care assistance                  |
 
 ---
@@ -252,13 +252,13 @@ last_reviewed: 2026-05-06
 ## 📌 Coding Scenarios
 
 ### Scenario 1: C4 Complete SCI, Vent-Dependent, Trach, PEG Tube
-- **PDX:** [[G82.51]] — Quadriplegia, C1–C4, complete
+- **PDX:** [[G82.51]] — Quadriplegia, C1-C4, complete
 - **Secondary:** [[Z93.0]] — Tracheostomy status
 - **Secondary:** [[Z99.11]] — Ventilator dependence
 - **Secondary:** [[Z93.1]] — Gastrostomy status
 - **Secondary:** [[Z99.89]] — Tube feed dependence
 - **Secondary:** [[Z74.01]] — Bed confinement
-- **Secondary:** [[N31.–]] — Neurogenic bladder
+- **Secondary:** [[N31.-]] — Neurogenic bladder
 
 ### Scenario 2: Stroke Patient, PEG Tube, Dysphagia, IRF Admission
 - **PDX:** [[Z51.89]] — Encounter for other aftercare (post-stroke rehab)

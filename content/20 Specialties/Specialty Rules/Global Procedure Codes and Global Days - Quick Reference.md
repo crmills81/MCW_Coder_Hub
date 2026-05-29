@@ -153,8 +153,8 @@ Some OB codes historically associated with 45-day global periods (payer-specific
 | **0 Days (000)**  | ~250+   | Endoscopies & minor procedures; no pre-op or post-op period included              | [[10030]], [[11000]], [[11004]], [[29000]], [[92920]], [[99213]]                                                |
 | **10 Days (010)** | ~300+   | Minor procedures; 11 total days (day of surgery + 10 post-op days)                | [[10060]]-[[10061]], [[11010]], [[11400]]-[[11446]], [[12020]]-[[12057]], [[17000]], [[26341]]                  |
 | **45 Days (045)** | ~10-15  | Rare category; primarily maternity/postpartum codes                               | [[59409]], [[59410]], [[59412]], [[59414]], [[59430]], [[59514]]-[[59620]]                                      |
-| **90 Days (090)** | ~1,500+ | Major surgical procedures; 92 total days (1 pre-op + day of surgery + 90 post-op) | [[11450]]-[[11471]], [[13160]], [[14000+]], [[19110+]], [[20661+]], [[21010+]], [[27130]], [[27447]], [[66984]] |
-| **999 (N/A)**     | ~5,000+ | Concept does not apply; diagnostic tests, labs, E/M, vaccines                     | [[70010+]], [[80047+]], [[81000+]], [[87003+]], [[90832+]], [[93000+]], [[99201+]]                              |
+| **90 Days (090)** | ~1,500+ | Major surgical procedures; 92 total days (1 pre-op + day of surgery + 90 post-op) | [[11450]]-[[11471]], [[13160]], 14000+, 19110+, 20661+, 21010+, [[27130]], [[27447]], [[66984]] |
+| **999 (N/A)**     | ~5,000+ | Concept does not apply; diagnostic tests, labs, E/M, vaccines                     | 70010, 80047+, 81000+, 87003+, 90832+, 93000+, 99201+                              |
 
 ---
 

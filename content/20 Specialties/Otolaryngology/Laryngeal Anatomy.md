@@ -22,7 +22,7 @@ date_created: 2026-03-10
 
 ## The Three Anatomical Zones
 
-The larynx is divided into three zones, and zone specificity is required for [[neoplasm]] coding under category [[C32. A]] lesion that does not clearly fall within a single zone defaults to [[C32.8]] (**overlapping**) or [[C32.9]] (**unspecified**) — resist the urge to assign a specific zone code without clear documentation.
+The larynx is divided into three zones, and zone specificity is required for [[neoplasm]] coding under category [[C32.A]] lesion that does not clearly fall within a single zone defaults to [[C32.8]] (**overlapping**) or [[C32.9]] (**unspecified**) — resist the urge to assign a specific zone code without clear documentation.
 
 **[[supraglottis]] (C32.1)** extends from the tip of the epiglottis down to (**but not including**) the true vocal cords. Its subsites are the epiglottis (**both the suprahyoid and infrahyoid portions**), the aryepiglottic folds (**laryngeal surface**), the arytenoid cartilages, and the false vocal cords (**ventricular bands**). The [[supraglottis]] has rich lymphatic drainage, which is why supraglottic carcinomas often present with nodal disease.
 
@@ -178,7 +178,7 @@ The true vocal cord is a layered structure critical to voice production. From su
 | 4     | **Deep lamina propria**                         | Collagen fiber layer; completes the vocal ligament               |
 | 5     | **Vocalis muscle (thyroarytenoid)**             | Intrinsic muscle; body of the cord                               |
 
-**Reinke's space** is of particular surgical importance — [[subepithelial]] procedures ([[Microlaryngoscopy]] with submucosal resection, CPT [[31545]]/[[31546]]) are designed to preserve the vocal ligament while evacuating pathological contents of this space.
+**Reinke's space** is of particular surgical importance — [[subepithelial]] procedures ([[microlaryngoscopy]] with submucosal resection, CPT [[31545]]/[[31546]]) are designed to preserve the vocal ligament while evacuating pathological contents of this space.
 
 **Clinical significance:**
 - Glottic cancers present **early** due to [[dysphonia]] — even a small lesion disrupts the mucosal wave and causes hoarseness
@@ -262,7 +262,7 @@ All intrinsic muscles are innervated by the **recurrent laryngeal nerve (RLN)** 
 | **Cricothyroid (CT)** | Anterolateral cricoid → inferior thyroid lamina and inferior cornu | Elongates and tenses the vocal cord (raises pitch); the only intrinsic muscle accessible externally | eSLN |
 
 >[!tip] **Coding Pearl:** 
->Unilateral RLN injury (e.g., after [[thyroidectomy]], anterior cervical spine surgery, or [[thoracic]] surgery) paralyzes all [[ipsilateral]] intrinsic muscles **except** the cricothyroid, resulting in a paramedian cord position. The [[cricothyroid]] remains functional because it is supplied by the eSLN. This is why patients with unilateral RLN injury still have some degree of vocal cord tension and residual (if abnormal) phonation.
+>Unilateral RLN injury (e.g., after [[thyroidectomy]], anterior cervical spine surgery, or thoracic surgery) paralyzes all ipsilateral intrinsic muscles **except** the cricothyroid, resulting in a paramedian cord position. The [[cricothyroid]] remains functional because it is supplied by the eSLN. This is why patients with unilateral RLN injury still have some degree of vocal cord tension and residual (if abnormal) phonation.
 
 ---
 
@@ -283,7 +283,7 @@ These muscles connect the larynx to surrounding structures and control its verti
 | Structure                       | Location & Description                                                                                                                          | Clinical Importance                                                                                                                                     |
 | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Thyrohyoid membrane**         | Connects the superior thyroid cartilage to the hyoid bone; the internal branch of the SLN and superior **laryngeal artery** pierce it laterally | Palpated during surgical approaches; landmark for SLN nerve block injection                                                                             |
-| **Cricothyroid membrane (CTM)** | Connects the inferior thyroid cartilage to the superior cricoid cartilage; [[avascular]] in the midline superior half                           | Site of emergency **cricothyrotomy**; landmark for needle decompression of the airway; CPT [[31600]] (**tracheostomy**, planned) vs. [[cricothyrotomy]] |
+| **Cricothyroid membrane (CTM)** | Connects the inferior thyroid cartilage to the superior cricoid cartilage; avascular in the midline superior half                           | Site of emergency **cricothyrotomy**; landmark for needle decompression of the airway; CPT [[31600]] (**tracheostomy**, planned) vs. [[cricothyrotomy]] |
 | **Cricotracheal ligament**      | Connects inferior cricoid cartilage to first tracheal ring                                                                                      | Defines the laryngotracheal junction; incised during cricotracheal resection                                                                            |
 | **Quadrangular membrane**       | Internal fibrous membrane from the epiglottis to the arytenoid; inferior free edge = false vocal cord (**ventricular ligament**)                | Defines the lateral wall of the laryngeal [[vestibule]]                                                                                                 |
 | **Conus elasticus**             | Fibroelastic membrane; base attaches to the cricoid; superior free edges form the **vocal ligaments**                                           | The vocal ligament is the critical deep structure preserved during phonomicrosurgery                                                                    |
@@ -483,7 +483,7 @@ Relevant to coding newborn laryngoscopy (CPT 31520 vs. 31525) and pediatric airw
 | **Subglottic hemangioma (pediatric)**  | Subglottis                         | **[[D18.09]]**              | **31572 (laser)**                                                      |
 | **Contact granuloma**                  | Posterior glottis / interarytenoid | **[[J38.7]]**               | **31540 or medical management**                                        |
 | **Laryngocele**                        | Ventricle / supraglottis           | **J38.7**                   | **31540 or external excision**                                         |
-| **[[Epiglottitis]] / [[supraglottitis]]**      | Supraglottis                       | **[[J04.30]] / [[J04.31]]** | **31525 (evaluation); airway intervention if needed**                  |
+| **[[epiglottitis]] / [[supraglottitis]]**      | Supraglottis                       | **[[J04.30]] / [[J04.31]]** | **31525 (evaluation); airway intervention if needed**                  |
 
 ---
 

@@ -298,8 +298,8 @@ These ophthalmology-specific exam codes are an alternative to standard E/M codes
 | **[[H26.001]]**  | Unspecified infantile and juvenile cataract, right eye |
 | **[[H40.1110]]** | Primary open-angle glaucoma, right eye, mild stage     |
 | **[[H40.1130]]** | Primary open-angle glaucoma, right eye, severe stage   |
-| **[[H35.31]]**   | [[Nonexudative]] (dry) AMD, right eye                  |
-| **[[H35.32]]**   | [[Exudative]] (wet) AMD, right eye                     |
+| **H35.31-**   | [[Nonexudative]] (dry) AMD, right eye                  |
+| **H35.32-**   | [[Exudative]] (wet) AMD, right eye                     |
 | **[[H35.81]]**   | Retinal [[edema]]                                      |
 | **[[H43.391]]**  | [[Vitreous]] degeneration, right eye                   |
 | **[[H52.13]]**   | [[Myopia]], bilateral                                  |

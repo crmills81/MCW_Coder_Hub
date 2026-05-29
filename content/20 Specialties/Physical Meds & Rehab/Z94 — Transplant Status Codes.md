@@ -34,16 +34,16 @@ last_reviewed: 2026-05-06
 # 🫀 Z94 — Transplanted Organ and Tissue Status
 
 > [!tip] Quick Orientation
-> **Z94** codes document that a patient **has received an organ or tissue transplant** that is still functioning. These are **status codes**, always secondary, never PDX. In PM&R, they appear in post-transplant rehabilitation admissions paired with **[[Z48.21]]–[[Z48.298]]** aftercare codes. **Critical distinction**: if the transplant is experiencing a **complication or rejection**, use T86.– (**complications of transplanted organs/tissue**) — not Z94 alone.
+> **Z94** codes document that a patient **has received an organ or tissue transplant** that is still functioning. These are **status codes**, always secondary, never PDX. In PM&R, they appear in post-transplant rehabilitation admissions paired with **[[Z48.21]]-[[Z48.298]]** aftercare codes. **Critical distinction**: if the transplant is experiencing a **complication or rejection**, use T86.- (**complications of transplanted organs/tissue**) — not Z94 alone.
 
 ---
 
 ## 📑 Table of Contents
 
 1. [[#🧭 Z94 Code Fundamentals|Z94 Code Fundamentals]]
-2. [[#❤️ Z94.0–Z94.3 — Heart, Lung, and Major Organ Transplants|Heart, Lung, and Major Organ Transplants]]
-3. [[#🫘 Z94.4–Z94.6 — Liver, Skin, Bone, and Corneal Transplants|Liver, Skin, Bone, Corneal]]
-4. [[#🦴 Z94.7–Z94.84 — Bone Marrow, Intestine, Pancreas, Stem Cell|Bone Marrow, Intestine, Pancreas]]
+2. [[#❤️ Z94.0-Z94.3 — Heart, Lung, and Major Organ Transplants|Heart, Lung, and Major Organ Transplants]]
+3. [[#🫘 Z94.4-Z94.6 — Liver, Skin, Bone, and Corneal Transplants|Liver, Skin, Bone, Corneal]]
+4. [[#🦴 Z94.7-Z94.84 — Bone Marrow, Intestine, Pancreas, Stem Cell|Bone Marrow, Intestine, Pancreas]]
 5. [[#➕ Z94.89 and Z94.9 — Other and Unspecified|Other and Unspecified]]
 6. [[#⚠️ Z94 vs. T86 — Status vs. Complication|Z94 vs. T86]]
 7. [[#🔗 Essential Code Pairings|Essential Code Pairings]]
@@ -57,21 +57,21 @@ last_reviewed: 2026-05-06
 > [!warning] Critical Rules
 > - **Z94** codes are **always secondary** — never PDX
 > - Use when the transplanted organ is **functioning** (whether perfectly or suboptimally, as long as no active rejection/failure)
-> - Active **transplant** complication → T86.– (includes rejection, failure, infection of transplant)
+> - Active **transplant** complication → T86.- (includes rejection, failure, infection of transplant)
 > - Both **Z94** and **T86** can coexist: **T86** captures the complication, **Z94** documents transplant history
 > - **[[Immunosuppression]]** in transplant patients → **[[Z79.899]]** (other long-term drug therapy) — always add
 > - Always code the underlying condition that led to transplant as relevant
 
 | Scenario                                 | Code                             |
 | ---------------------------------------- | -------------------------------- |
-| Transplant functioning, no complications | **Z94.– only**                       |
-| Transplant with active rejection         | **T86.– + Z94.–**                    |
-| Transplant with infection                | **T86.– + Z94.– + infection code**   |
-| Post-transplant rehab admission          | **Z48.2– (PDX) + Z94.– (secondary)** |
+| Transplant functioning, no complications | **Z94.- only**                       |
+| Transplant with active rejection         | **T86.- + Z94.-**                    |
+| Transplant with infection                | **T86.- + Z94.- + infection code**   |
+| Post-transplant rehab admission          | **Z48.2- (PDX) + Z94.- (secondary)** |
 
 ---
 
-## ❤️ Z94.0–Z94.3 — Heart, Lung, and Major Organ Transplants
+## ❤️ Z94.0-Z94.3 — Heart, Lung, and Major Organ Transplants
 
 | Code      | Description                      | PM&R Rehab Context                               |
 | --------- | -------------------------------- | ------------------------------------------------ |
@@ -88,15 +88,15 @@ last_reviewed: 2026-05-06
 **Lung transplant (Z94.2):**
 - **Pulmonary** rehab is a cornerstone of post-transplant care
 - Watch for bronchiolitis obliterans syndrome (BOS) as a complication → **[[T86.812]]**
-- Pair with: **[[Z48.24]], [[Z79.899]]**,[J98.– if residual pulmonary condition
+- Pair with: **[[Z48.24]], [[Z79.899]]**,[J98.- if residual pulmonary condition
 
 **Kidney transplant (Z94.1):**
 - PM&R involved for deconditioning, functional mobility following prolonged ESRD
-- Pair with: [[Z48.22]], [[Z79.899]], N18.– if CKD still present in remaining native kidney
+- Pair with: [[Z48.22]], [[Z79.899]], N18.- if CKD still present in remaining native kidney
 
 ---
 
-## 🫘 Z94.4–Z94.6 — Liver, Skin, Bone, and Corneal Transplants
+## 🫘 Z94.4-Z94.6 — Liver, Skin, Bone, and Corneal Transplants
 
 | Code      | Description             | PM&R Relevance                                          |
 | --------- | ----------------------- | ------------------------------------------------------- |
@@ -106,16 +106,16 @@ last_reviewed: 2026-05-06
 
 **Skin transplant (Z94.5):**
 - Common in post-burn **PM&R** rehabilitation
-- Pair with: T20–T32 (**burn codes**), scar contracture codes, **[[Z74.09]]**
+- Pair with: T20-T32 (**burn codes**), scar contracture codes, **[[Z74.09]]**
 - Burn rehab is a specialized **PM&R** subspecialty — document burn size (TBSA), depth, and location
 
 **Bone transplant (Z94.6):**
 - Allograft reconstruction following tumor resection or complex fracture repair
-- Pair with: **[[Z47.89]]** (orthopedic aftercare), Z96.– if implant also present
+- Pair with: **[[Z47.89]]** (orthopedic aftercare), Z96.- if implant also present
 
 ---
 
-## 🦴 Z94.7–Z94.84 — Bone Marrow, Intestine, Pancreas, Stem Cell
+## 🦴 Z94.7-Z94.84 — Bone Marrow, Intestine, Pancreas, Stem Cell
 
 | Code       | Description                                       | PM&R Relevance                                           |
 | ---------- | ------------------------------------------------- | -------------------------------------------------------- |
@@ -129,8 +129,8 @@ last_reviewed: 2026-05-06
 
 **Bone marrow / stem cell transplant (Z94.81, Z94.84):**
 - Extended hospitalization leads to profound deconditioning — **PM&R** heavily involved
-- Graft-versus-host disease (**GVHD**) is a critical complication → **[[D89.810]]–[[D89.813]]**
-- Pair with: **[[Z48.290]], [[Z79.899]]**, D89.– if GVHD present
+- Graft-versus-host disease (**GVHD**) is a critical complication → **[[D89.810]]-[[D89.813]]**
+- Pair with: **[[Z48.290]], [[Z79.899]]**, D89.- if GVHD present
 
 ---
 
@@ -166,20 +166,20 @@ last_reviewed: 2026-05-06
 
 | Z94 Code                  | Always Pair With                                    |
 | ------------------------- | --------------------------------------------------- |
-| **Any Z94.–**                 | [[Z79.899]] — Immunosuppressant therapy (long-term) |
+| **Any Z94.-**                 | [[Z79.899]] — Immunosuppressant therapy (long-term) |
 | **[[Z94.0]] Heart**           | [[Z48.21]] if in for post-transplant aftercare      |
-| **[[Z94.1]] Kidney**          | [[Z48.22]] + [[N18.–]] if CKD of remaining kidney   |
+| **[[Z94.1]] Kidney**          | [[Z48.22]] + N18.- if CKD of remaining kidney   |
 | **[[Z94.2]] Lung**            | [[Z48.24]] + pulmonary condition code               |
 | **[[Z94.3]] Heart-Lung**      | [[Z48.25]]                                          |
-| **[[Z94.81]] BMT**            | [[Z48.290]] + [[D89.–]] if GVHD                     |
+| **[[Z94.81]] BMT**            | [[Z48.290]] + D89.- if GVHD                     |
 | **[[Z94.84]] Stem cell**      | [[Z48.290]]                                         |
-| **Any Z94 with complication** | [[T86.–]] as additional or PDX                      |
+| **Any Z94 with complication** | T86.- as additional or PDX                      |
 
 ---
 
 ## 📌 Coding Scenarios
 
-### Scenario 1: Post–Heart Transplant IRF Admission, Functional Rehab
+### Scenario 1: Post-Heart Transplant IRF Admission, Functional Rehab
 - **PDX:** [[Z48.21]] — Aftercare following heart transplant
 - **Secondary:** [[Z94.0]] — Heart transplant status
 - **Secondary:** [[Z79.899]] — Long-term immunosuppressant use
@@ -197,7 +197,7 @@ last_reviewed: 2026-05-06
 ### Scenario 3: Kidney Transplant, Deconditioning Rehab, CKD Native Kidney
 - **PDX:** [[Z48.22]] — Aftercare following kidney transplant
 - **Secondary:** [[Z94.1]] — Kidney transplant status
-- **Secondary:** [[N18.3]] — CKD, stage 3 (native kidney)
+- **Secondary:** [[N18.30]] — CKD, stage 3 (native kidney)
 - **Secondary:** [[Z79.899]] — Immunosuppressants
 - **Secondary:** [[Z74.09]] — Reduced mobility
 

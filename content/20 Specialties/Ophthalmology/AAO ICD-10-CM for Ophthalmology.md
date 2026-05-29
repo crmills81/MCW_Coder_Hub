@@ -134,20 +134,20 @@ WET (Exudative) AMD:
 ## 📋 High-Yield Ophthalmic ICD-10-CM Codes by Subspecialty
 
 ### Cornea & External Disease
-| Condition | Specific Code Example | Documentation Requirement |
-|-----------|----------------------|---------------------------|
-| Bacterial keratitis | H16.011 (Right eye) | Specify organism if known (add B95-B96 code) |
-| Recurrent corneal erosion | H18.811 (Right eye) | Document recurrence vs. initial episode |
-| Pterygium | H11.011 (Right eye) | Specify if recurrent, bilateral, or with symblepharon |
-| Dry eye syndrome | H04.121 (Right eye) | Document severity (mild/moderate/severe) if impacting treatment |
+| Condition                 | Specific Code Example | Documentation Requirement                                       |
+| ------------------------- | --------------------- | --------------------------------------------------------------- |
+| Bacterial keratitis       | **H16.011 (Right eye)**   | Specify organism if known (add B95-B96 code)                    |
+| Recurrent corneal erosion | **H18.811 (Right eye)**   | Document recurrence vs. initial episode                         |
+| Pterygium                 | **H11.011 (Right eye)**   | Specify if recurrent, bilateral, or with symblepharon           |
+| Dry eye syndrome          | **H04.121 (Right eye)**   | Document severity (mild/moderate/severe) if impacting treatment |
 
 ### Glaucoma
-| Condition | Specific Code Example | Documentation Requirement |
-|-----------|----------------------|---------------------------|
-| POAG, mild stage | [[H40.1111]] (Right eye) | Document stage 1-4 per Hodapp-Parrish-Anderson criteria |
-| Angle-closure suspect | [[H40.021]] (Right eye) | Document gonioscopy findings supporting "suspect" status |
-| Glaucoma secondary to trauma | [[H40.31X4]] (Right eye) | Add external cause code ([[W51.0XXA]], etc.) and injury code |
-| Normal tension glaucoma | [[H40.1211]] (Right eye) | Document IOP <21 mmHg with characteristic optic nerve damage |
+| Condition                    | Specific Code Example    | Documentation Requirement                                    |
+| ---------------------------- | ------------------------ | ------------------------------------------------------------ |
+| POAG, mild stage             | **[[H40.1111]] (Right eye)** | Document stage 1-4 per Hodapp-Parrish-Anderson criteria      |
+| Angle-closure suspect        | **[[H40.021]] (Right eye)**  | Document gonioscopy findings supporting "suspect" status     |
+| Glaucoma secondary to trauma | **[[H40.31X4]] (Right eye)** | Add external cause code ([[W51.0XXA]], etc.) and injury code |
+| Normal tension glaucoma      | **[[H40.1211]] (Right eye)** | Document IOP <21 mmHg with characteristic optic nerve damage |
 
 ### Retina & Vitreous
 | Condition | Specific Code Example | Documentation Requirement |
@@ -162,7 +162,7 @@ WET (Exudative) AMD:
 |-----------|----------------------|---------------------------|
 | Blepharoptosis | [[H02.411]] (Right upper eyelid) | Specify congenital vs. acquired; myogenic vs. aponeurotic |
 | Thyroid eye disease | [[H06.311]] (Right eye, active) | Document activity status (active/inactive) and severity |
-| Optic neuritis | [[H46.011]] (Right eye) | Specify if associated with MS (add G35) or other etiology |
+| Optic neuritis | [[H46.011]] (Right eye) | Specify if associated with MS (add G35.D) or other etiology |
 | Visual field defect | [[H53.411]] (Right eye) | Document pattern (homonymous, bitemporal, etc.) if known |
 
 ---
@@ -230,7 +230,7 @@ Impact: Stage-specific codes support medical necessity for advanced testing/trea
 ## 🔍 Inpatient Ophthalmology: Rare but Critical Scenarios
 
 > [!WARNING] Context Reminder  
-> >95% of ophthalmic care is outpatient. True inpatient admissions typically involve systemic complications or trauma. Focus CC/MCC capture on **systemic conditions**, not the eye condition itself. [[86]][[92]]
+> >95% of ophthalmic care is outpatient. True inpatient admissions typically involve systemic complications or trauma. Focus CC/MCC capture on **systemic conditions**, not the eye condition itself.
 
 ### Scenario 1: Orbital Cellulitis with Sepsis
 ```markdown
@@ -295,7 +295,7 @@ CC/MCC Impact:
 
 ## 📚 AAOE Resources & Contact Information
 
-### Official AAO Coding Products 
+### Official G35.D Coding Products 
 | Resource | Description | Best For |
 |----------|-------------|----------|
 | **ICD-10-CM for Ophthalmology: The Complete Reference** | Annual book with full code set, guidelines, decision trees | Comprehensive reference; coding audits |
@@ -334,11 +334,11 @@ San Francisco, CA 94109
 ---
 
 ## 📚 Official Resources
-- [AAO ICD-10-CM Coding Portal](https://www.aao.org/practice-management/coding/icd-10-cm) [[11]][[35]]
-- [AAO Store: ICD-10-CM for Ophthalmology Book](https://store.aao.org/2026-icd-10-cm-for-ophthalmology-the-complete-reference.html) [[33]]
-- [AAOE Decision Trees & Quick Guides](https://www.aao.org/practice-management/coding/icd-10-cm#resources) [[11]]
+- [AAO ICD-10-CM Coding Portal](https://www.aao.org/practice-management/coding/icd-10-cm) 
+- [AAO Store: ICD-10-CM for Ophthalmology Book](https://store.aao.org/2026-icd-10-cm-for-ophthalmology-the-complete-reference.html)
+- [AAOE Decision Trees & Quick Guides](https://www.aao.org/practice-management/coding/icd-10-cm#resources) 
 - [CMS ICD-10-CM Code Tables FY 2025](https://www.cms.gov/icd10m/FY2025-Version42-fullcode-cms)
-- [AAO Coding Clinic Archives](https://www.aao.org/eyenet/academy-live/detail/2025-coding-update) [[17]]
+- [AAO Coding Clinic Archives](https://www.aao.org/eyenet/academy-live/detail/2025-coding-update) 
 
 > [!ABSTRACT] Bottom Line  
 > Ophthalmic ICD-10-CM coding demands precision in: (1) **laterality specification** (avoid "unspecified eye"), (2) **combination code usage** (especially diabetes + eye manifestations), (3) **Excludes1 navigation** (dry vs. wet AMD, conjunctivitis subtypes), and (4) **clinical documentation alignment** (stage, severity, activity status). For the rare inpatient case, focus CC/MCC capture on systemic complications—not the ocular diagnosis itself. Always leverage AAOE decision trees and query providers when documentation lacks coding specificity.

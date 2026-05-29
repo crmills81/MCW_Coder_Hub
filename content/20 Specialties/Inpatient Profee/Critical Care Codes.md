@@ -59,7 +59,7 @@ Critical care services are for patients who are critically ill or injured.
 
 | Scenario | Billing |
 | :--- | :--- |
-| **E/M + Critical Care** | E/M with [[Modifier 25]] |
+| **E/M + Critical Care** | E/M with Modifier [[-25]] |
 | **Critical Care Only** | [[99291]] (+ [[99292]] if applicable) |
 | **Multiple Sessions** | Aggregate time same day |
 

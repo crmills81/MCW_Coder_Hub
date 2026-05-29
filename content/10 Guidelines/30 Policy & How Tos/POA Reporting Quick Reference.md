@@ -20,9 +20,9 @@ version: FY 2025 (v42.0)
 effective_date: 2024-10-01
 expiration_date: 2025-09-30
 related_notes:
-  - "[[CMS MS-DRG Definitions Manual v42.0]]"
-  - "[[ICD-10-CM Official Guidelines FY 2025]]"
-  - "[[ADL Data CC/MCC Checklist]]"
+  - "CMS MS-DRG Definitions Manual v42.0"
+  - "ICD-10-CM Official Guidelines FY 2025"
+  - "ADL Data CC/MCC Checklist"
 ---
 # 📋 POA Reporting Quick Reference — FY 2025
 ### POA Reporting Quick Reference
@@ -451,10 +451,10 @@ When referencing diagnoses in your notes, wikilink only reportable ICD-10-CM cod
 - ❌ Do NOT wikilink non-billable concepts: MCC, CC, POA, HAC, DRG, MDC, etc.
 
 ### Cross-Reference These Vault Notes
-- `[[CMS MS-DRG Definitions Manual v42.0]]` — Grouper logic and CC/MCC rules
-- `[[ICD-10-CM Official Guidelines FY 2025]]` — Section III (additional diagnoses) and Appendix I (POA guidelines)
-- `[[ADL Data CC/MCC Checklist]]` — Quick lookup of CC/MCC designation and documentation requirements
-- `[[Clinical Validation Query Templates]]` — Standardized language for POA clarification queries
+- `CMS MS-DRG Definitions Manual v42.0` — Grouper logic and CC/MCC rules
+- `ICD-10-CM Official Guidelines FY 2025` — Section III (additional diagnoses) and Appendix I (POA guidelines)
+- `ADL Data CC/MCC Checklist` — Quick lookup of CC/MCC designation and documentation requirements
+- `Clinical Validation Query Templates` — Standardized language for POA clarification queries
 
 ### Callout Styles for Visual Scanning
 ```markdown
@@ -530,5 +530,4 @@ When referencing diagnoses in your notes, wikilink only reportable ICD-10-CM cod
 
 ---
 *Last synced: $(date)*  
-*Next review: FY 2026 IPPS Final Rule (expected August 2025)*  
-*Vault Status: ✅ Integrated with [[CMS MS-DRG Definitions Manual v42.0]] and [[ADL Data CC/MCC Checklist]]*
+*Next review: FY 2026 IPPS Final Rule (expected August 2025)*  Vault Status: ✅ Integrated with CMS MS-DRG Definitions Manual v42.0]] and ADL Data CC/MCC Checklist*

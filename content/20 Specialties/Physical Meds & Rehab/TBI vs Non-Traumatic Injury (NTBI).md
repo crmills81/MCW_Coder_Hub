@@ -33,7 +33,7 @@ status: Active
 | **Typical ICD‑10‑CM root**  | S06.x (**intracranial injury**), S02.x skull fractures, with 7th char for encounter.                                                 | I60-I69 **(stroke)**, G93.x (**other brain disorders like edema, anoxic injury**), G31.x, etc.                                         |
 | **Documentation anchor**    | Mechanism of **trauma**, loss/alteration of consciousness, neuro findings, imaging.                                              | Underlying medical cause (**cardiac arrest, overdose, [[sepsis]], metabolic derangement, aneurysm rupture**), neuro findings, imaging. |
 | **Severity classification** | Often by GCS (**mild 13-15, moderate 9-12, severe ≤8**), PTA, LOC duration.                                                          | No single universal scale; uses GCS, coma scales, and underlying disease classifications (**NIHSS for stroke, etc.**).             |
-| **Coding pitfalls**         | Missing trauma link, missing 7th character, failing to distinguish acute vs sequela, confusing traumatic vs non‑traumatic edema. | Mis‑classifying as TBI when cause is [[anoxia/metabolic]], under‑coding anoxic injury, mixing [[G93.6]] vs S06.1x for cerebral edema.  |
+| **Coding pitfalls**         | Missing trauma link, missing 7th character, failing to distinguish acute vs sequela, confusing traumatic vs non‑traumatic edema. | Mis‑classifying as TBI when cause is anoxia/metabolic, under‑coding anoxic injury, mixing [[G93.6]] vs S06.1x for cerebral edema.  |
 
 ---
 
@@ -134,12 +134,12 @@ Clinical picture often overlaps with TBI (**coma, seizures, focal deficits**), b
    - **I63.x - Cerebral infarction** (ischemic [[stroke]]).
 
 4. **Metabolic encephalopathy**  
-   - **[[G93.4]] - [[Encephalopathy]], unspecified** with more specific options for hepatic, uremic, septic, etc. depending on documentation.
+   - **[[G93.4]] - [[encephalopathy]], unspecified** with more specific options for hepatic, uremic, septic, etc. depending on documentation.
    - Underlying systemic cause codes (**e.g., K70.x for hepatic disease, N18.x for CKD, A41.x for [[sepsis]]**) are essential for accurate DRG capture.
 
 > CDI Note - NTBI  
 > Ensure documentation explicitly identifies the **non‑traumatic cause** (**e.g., “anoxic brain injury after [[cardiac arrest]],” “non‑traumatic intracerebral hemorrhage due to hypertension,” “metabolic encephalopathy from hepatic failure”**) rather than simply using generic “**brain injury**” or “**encephalopathy**” language.
-> When [[cerebral edema]] is present, query to clarify whether it is traumatic (S06.1x) or non‑traumatic [[(G93.6)]].
+> When [[cerebral edema]] is present, query to clarify whether it is traumatic (S06.1x) or non‑traumatic [[G93.6]].
 
 ---
 

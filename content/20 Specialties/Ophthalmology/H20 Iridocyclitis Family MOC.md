@@ -195,7 +195,7 @@ When the iridocyclitis is associated with a systemic condition that does NOT hav
 
 These conditions are Excludes1 at the H20 category level. **Do not code H20.x alongside these** when they are the documented etiology — use the disease-specific code instead:
 
-- [[Iridocyclitis]] in [[diabetes]] mellitus → E08-E13 with .39 suffix
+- [[iridocyclitis]] in [[diabetes]] mellitus → E08-E13 with .39 suffix
 - Iridocyclitis in diphtheria → [[A36.89]]
 - Iridocyclitis in gonococcal infection → [[A54.32]]
 - Iridocyclitis in herpes simplex → [[B00.51]]
@@ -216,11 +216,11 @@ This is one of the highest-stakes coding distinctions in the H20 family:
 | Scenario                                                                 | Correct Code                                           |
 | ------------------------------------------------------------------------ | ------------------------------------------------------ |
 | [[Hypopyon]] from severe iridocyclitis (**non-infectious or non-Excludes1**) | H20.05x                                                |
-| Hypopyon from bacterial [[endophthalmitis]]                              | [[H44.001]]-[[H44.003]] ([[purulent endophthalmitis]]) |
+| Hypopyon from bacterial [[endophthalmitis]]                              | [[H44.001]]-[[H44.003]] (purulent [[endophthalmitis]]) |
 | Hypopyon from [[panophthalmitis]]                                        | [[H44.011]]-[[H44.013]]                                |
 | Ambiguous documentation                                                  | Clarify with provider before coding                    |
 
-**Clinical tip:** [[Endophthalmitis]] hypopyon is typically more severe, associated with severe vitritis and posterior involvement, often post-surgical or post-injection. Iridocyclitis hypopyon is typically anterior chamber confined. Documentation should reflect the clinical distinction.
+**Clinical tip:** [[Endophthalmitis]] hypopyon is typically more severe, associated with severe [[vitritis]] and posterior involvement, often post-surgical or post-injection. [[Iridocyclitis]] [[hypopyon]] is typically anterior chamber confined. Documentation should reflect the clinical distinction.
 
 ---
 
@@ -246,7 +246,7 @@ No H20 code directly maps to a CMS-HCC. HCC weight comes from **underlying syste
 | Psoriatic arthritis (L40.5x)   | **HCC 40** |
 | JIA (M08.-)                    | **HCC 40** |
 | IBD (K50-K51)                  | **HCC 35** |
-| Multiple sclerosis (G35)       | **HCC 77** |
+| Multiple sclerosis (G35.A)       | **HCC 77** |
 | Behcet disease (M35.2)         | **HCC 40** |
 
 Always code confirmed systemic comorbidities for full CDI and RAF accuracy.
@@ -327,9 +327,9 @@ Inpatient admission for iridocyclitis alone is uncommon. Most H20.x encounters a
 | Code        | Description                      | Note          |
 | ----------- | -------------------------------- | ------------- |
 | [[H20.011]] | Primary iridocyclitis, right eye | (create note) |
-| H20.012     | Primary iridocyclitis, left eye  | [[H20.012]]   |
-| H20.013     | Primary iridocyclitis, bilateral | [[H20.013]]   |
-| H20.051     | Hypopyon, right eye              | [[H20.051]]   |
+| [[H20.012]]     | Primary iridocyclitis, left eye  | [[H20.012]]   |
+| [[H20.013]]     | Primary iridocyclitis, bilateral | [[H20.013]]   |
+| [[H20.051]]     | Hypopyon, right eye              | [[H20.051]]   |
 | [[H20.052]] | Hypopyon, left eye               | (create note) |
 | [[H20.053]] | Hypopyon, bilateral              | (create note) |
 

@@ -62,7 +62,7 @@ _____
 > 
 > |Term|Meaning|
 > |---|---|
-> |**[[Sinusitis]]**|Inflammation of sinus cavities|
+> |**[[sinusitis]]**|Inflammation of sinus cavities|
 > |**[[Rhinitis]]**|Nasal mucosal inflammation|
 > |**[[Otosclerosis]]**|Abnormal bone growth in the ear|
 > |**[[Cholesteatosis]]**|Abnormal keratin cyst in middle ear|

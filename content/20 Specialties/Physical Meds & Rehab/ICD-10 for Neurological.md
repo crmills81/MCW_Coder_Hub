@@ -47,7 +47,7 @@
 ## Required Combinations
 
 ### Diabetic Neuropathy
-[[E11.40]] **(Type 2 diabetes with diabetic [[neuropathy]]**) + [[G62.9]] (**[[Polyneuropathy]]**)
+[[E11.40]] **(Type 2 diabetes with diabetic [[neuropathy]]**) + [[G62.9]] (**[[polyneuropathy]]**)
 
 ### Post-Stroke Rehabilitation
 I69.3xx (**Sequelae of cerebral infarction**) + Z89.xxx (**Acquired absence of limb, if applicable**) + G81.9x (**[[Hemiplegia]], if applicable**)

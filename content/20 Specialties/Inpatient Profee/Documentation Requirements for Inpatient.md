@@ -66,4 +66,4 @@ Billing: Provider B (substantive portion)
 
 [[00 Inpatient ProFee Coding MOC]]
 [[Medical Necessity for Inpatient]]
-[[Audit Triggers Inpatient]]
+[[Audit Triggers for Inpatient]]

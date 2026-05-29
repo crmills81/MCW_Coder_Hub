@@ -1,4 +1,4 @@
-#### Can you even bill without the [[teaching physician]] being in the room with the resident?
+#### Can you even bill without the teaching physician being in the room with the resident?
 
 Yes, there are two main instances where you can bill Medicare for services performed by a resident without the teaching physician being physically present in the exam room:
 
@@ -7,7 +7,7 @@ Yes, there are two main instances where you can bill Medicare for services perfo
 In specific primary care centers, residents can furnish lower-to-mid-level **Evaluation and Management (E/M)** services without the teaching physician's physical presence during the exam.
 
 - **Requirements:** The teaching physician must direct the care from a proximity, have no other responsibilities at the time, and review the medical record.
-- **Modifier:** You must append **[[Modifier -GE]]** (Service performed by a resident without the presence of a teaching physician under the primary care exception) to the claim.
+- **Modifier:** You must append **Modifier [[-GE]]** (Service performed by a resident without the presence of a teaching physician under the primary care exception) to the claim.
 - **Limitation:** This applies only to specific codes (typically lower-level office visits) and specific residency programs.
 
 ###### 2. Moonlighting
@@ -44,13 +44,13 @@ To bill for a service performed by a resident, the Teaching Physician generally 
 
 **4. Medical Students**
 
-- Students may document the history, exam, and [[MDM Tables]] in the chart.
+- Students may document the history, exam, and MDM Tables in the chart.
 - **However**, the TP must **verify** the documentation and **personally perform (or re-perform)** the physical exam and medical decision-making activities. The TP cannot just rely on the student's exam findings.
 
 ###### **Important Modifiers**
 
-- **-GC:** This service has been performed in part by a resident under the direction of a teaching physician. (Standard use).
-- **-GE:** This service has been performed by a resident without the presence of a teaching physician under the **Primary Care Exception** (limited to specific primary care centers and lower-level codes).
+- **[[-GC]]:** This service has been performed in part by a resident under the direction of a teaching physician. (Standard use).
+- **[[-GE]]:** This service has been performed by a resident without the presence of a teaching physician under the **Primary Care Exception** (limited to specific primary care centers and lower-level codes).
 
 ### **Recent & Future Updates (2025/2026)**
 
@@ -101,12 +101,12 @@ You must append this modifier to the procedure or E/M code in the following scen
 
 - **No Documentation:** If the resident participated but did _not_ document the service, or if you did not use their notes to generate the bill.
 - **Solo Performance:** If the teaching physician performed the entire service personally without resident involvement.
-- **Primary Care Exception:** If the service meets the specific "Primary Care Exception" rules (where the teaching physician isn't required to be present), use **[[Modifier GE]]** instead.
+- **Primary Care Exception:** If the service meets the specific "Primary Care Exception" rules (where the teaching physician isn't required to be present), use **Modifier [[-GE]]** instead.
 
 ###### **Billing & Claims Tips**
 
 - **Payment Impact:** Modifier GC is **informational only**. It does not affect the reimbursement amount, but omitting it when a resident is involved is a compliance risk.
-- **Placement:** Always list GC **after** payment modifiers (like -25, -57, or -RT/LT).
+- **Placement:** Always list GC **after** payment modifiers (like [[-25]], [[-57]], or [[-RT]]/LT).
 
 ###### **Recent & Future Updates (2025/2026)**
 

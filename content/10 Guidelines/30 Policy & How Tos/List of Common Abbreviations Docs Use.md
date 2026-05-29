@@ -1,6 +1,7 @@
 
 | Abbreviation | Stands for                                                    | More information                                                                                                |
 | ------------ | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **IPH**      | Intraparenchymal Hemorrhage                                   |                                                                                                                 |
 | **ORIF**     | Open reduction and internal fixation                          |                                                                                                                 |
 | **CF**       | Concern for                                                   |                                                                                                                 |
 | **NWB**      | Non-weightbearing                                             |                                                                                                                 |

@@ -98,6 +98,6 @@ For Initial Hospital Inpatient Care ([[99223]]), the time thresholds for reporti
 
 ### G2211 Complexity Add-on
 
-**HCPCS** code [[**G2211**]] is an add-on code used to capture resource costs for the **longitudinal care of complex patients**. It is applicable when the physician serves as the continuing focal point for a patient with a **serious or complex condition**, such as ongoing SCI management. Note that **G2211** cannot be reported when Modifier 25 is appended to the E/M code.
+**HCPCS** code [[G2211]] is an add-on code used to capture resource costs for the **longitudinal care of complex patients**. It is applicable when the physician serves as the continuing focal point for a patient with a **serious or complex condition**, such as ongoing SCI management. Note that **G2211** cannot be reported when Modifier 25 is appended to the E/M code.
 
 **Final Statement:** The management of spinal cord injuries demands clinical expertise that must be mirrored by precise documentation. The interplay between terminology, independent diagnostic interpretation, and the strategic use of prolonged service codes is essential for clinical clarity and optimized revenue cycle management.

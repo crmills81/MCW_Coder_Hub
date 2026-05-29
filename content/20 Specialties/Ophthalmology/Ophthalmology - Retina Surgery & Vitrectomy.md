@@ -38,7 +38,7 @@ Here are detailed notes for **Retina Surgery & Vitrectomy** to add to your refer
     - _Target:_ [[Macular Pucker]] / [[Epiretinal Membrane]] (ERM).
 - **[[67042]]**: PPV + Removal of **Internal Limiting Membrane (ILM)**.
     - _Target:_ [[Macular Hole]], [[Diabetic Macular Edema]] (DME).
-- **[[67108]]**: Repair of [[Retinal Detachment]] (RD) with Vitrectomy.
+- **[[67108]]**: Repair of [[retinal detachment]] (RD) with Vitrectomy.
     - _Includes:_ Scleral buckle, air/gas exchange, cryo, endolaser, drainage of subretinal fluid.
 - **[[67113]]**: Repair of **Complex** Retinal Detachment.
     - _Mandatory:_ Must perform **Vitrectomy AND Membrane Peeling**.

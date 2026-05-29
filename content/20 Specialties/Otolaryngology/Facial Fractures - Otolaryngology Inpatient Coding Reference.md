@@ -158,7 +158,7 @@ last_reviewed: 2026-05-06
 ---
 
 > [!tip] Quick Orientation
-> Facial fractures in inpatient coding fall under **ICD-10-CM Chapter 19 (S00–T88)** — Injury, Poisoning, and Certain Other Consequences of External Causes. The 7th character is **critical** for every code in this family. Operative management maps to ICD-10-PCS and associated CPT codes. MS-DRGs 152–154 govern these cases.
+> Facial fractures in inpatient coding fall under **ICD-10-CM Chapter 19 (S00-T88)** — Injury, Poisoning, and Certain Other Consequences of External Causes. The 7th character is **critical** for every code in this family. Operative management maps to ICD-10-PCS and associated CPT codes. MS-DRGs 152-154 govern these cases.
 
 ---
 
@@ -218,7 +218,7 @@ last_reviewed: 2026-05-06
 
 **Anterior vs. Posterior Table:**
 - **Anterior table only:** managed surgically by ENT/plastics; lower intracranial risk
-- **Posterior table:** neurosurgery involvement; code also any associated intracranial injury (S06.–)
+- **Posterior table:** neurosurgery involvement; code also any associated intracranial injury (S06.-)
 - **Nasofrontal outflow tract involvement:** document for surgical planning (affects DRG complexity)
 
 **Common associated codes:**
@@ -260,9 +260,9 @@ last_reviewed: 2026-05-06
 
 **Coding pearls:**
 - Orbital floor fracture = **S02.3**, **NOT** S02.4 (which is malar/zygomatic)
-- Medial orbital wall fracture → use S02.83– (other orbital fractures)
+- Medial orbital wall fracture → use S02.83- (other orbital fractures)
 - Entrapment documented → add **[[H50.9]]** (unspecified strabismus) or specific motility code
-- Eye injury: code separately — S05.– for globe/orbital soft tissue injuries
+- Eye injury: code separately — S05.- for globe/orbital soft tissue injuries
 - White-eyed blowout (pediatric trapdoor): emergent — document and code **entrapment explicitly**
 
 > [!info] Orbital Anatomy
@@ -341,8 +341,8 @@ last_reviewed: 2026-05-06
 
 **NOE Fractures:**
 - No single **ICD-10-CM code** for "**naso-orbito-ethmoid fracture**" as a unit
-- Code each bone involved: nasal (S02.2), orbital medial wall (S02.83–), ethmoid component often captured with skull base codes
-- **NOE** is a clinical classification (**Markowitz Types I–III**); map to anatomical **ICD-10-CM codes**
+- Code each bone involved: nasal (S02.2), orbital medial wall (S02.83-), ethmoid component often captured with skull base codes
+- **NOE** is a clinical classification (**Markowitz Types I-III**); map to anatomical **ICD-10-CM codes**
 - **Telecanthus**, medial canthal tendon disruption → **[[S01.01XA]]** (open wound eyelid) if laceration present
 
 > [!info] NOE Fracture Classification
@@ -453,9 +453,9 @@ last_reviewed: 2026-05-06
 > - Acute blood loss anemia (**D62**) → **CC**
 > - CSF leak (**[[G96.00]]**) → **MCC**
 > - Aspiration pneumonia (**[[J69.0]]**) → **MCC**
-> - Traumatic intracranial hemorrhage (S06.–) → **MCC**
-> - Orbital cellulitis (H05.01–) → **CC**
-> - Acute respiratory failure (J96.0–) → **MCC**
+> - Traumatic intracranial hemorrhage (S06.-) → **MCC**
+> - Orbital cellulitis (H05.01-) → **CC**
+> - Acute respiratory failure (J96.00) → **MCC**
 
 ---
 
@@ -501,7 +501,7 @@ last_reviewed: 2026-05-06
 ### Scenario 5: Orbital Roof Fracture with Intracranial Extension
 
 - **PDX:** [[S02.81XA]] — Fracture of orbital roof
-- **Additional:** [[S06.–]] — Intracranial injury if documented
+- **Additional:** S06.- — Intracranial injury if documented
 - **Consults:** Neurosurgery involvement → code any neurosurgical procedure separately
 - **DRG:** 52 or 53 (Intracranial Vascular Procedures) or 154 depending on neurosurgical intervention
 
@@ -514,13 +514,13 @@ last_reviewed: 2026-05-06
 
 | External Cause Category | Code Range   | Examples                    |
 | ----------------------- | ------------ | --------------------------- |
-| **Motor vehicle accident**  | **V20–V79**      | MVA most common mechanism   |
-| **Assault**                 | **X92–Y09**      | Interpersonal violence      |
-| **Fall**                    | **W00–W19**      | Ground-level fall           |
-| **Sports/recreation**       | **W21–W31, Y93** | Contact sports, cycling     |
-| **Place of occurrence**     | **Y93.–**        | Where injury happened       |
-| **Activity**                | **Y93.–**        | What patient was doing      |
-| **Patient status**          | **Y99.–**        | Civilian, military, leisure |
+| **Motor vehicle accident**  | **V20-V79**      | MVA most common mechanism   |
+| **Assault**                 | **X92-Y09**      | Interpersonal violence      |
+| **Fall**                    | **W00-W19**      | Ground-level fall           |
+| **Sports/recreation**       | **W21-W31, Y93** | Contact sports, cycling     |
+| **Place of occurrence**     | **Y93.-**        | Where injury happened       |
+| **Activity**                | **Y93.-**        | What patient was doing      |
+| **Patient status**          | **Y99.-**        | Civilian, military, leisure |
 
 ---
 

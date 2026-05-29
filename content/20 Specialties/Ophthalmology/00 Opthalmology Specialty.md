@@ -44,7 +44,7 @@ created: 2026-01-21
 
 ---
 
-# [[Retina Surgery & Vitrectomy]]
+# Retina Surgery & Vitrectomy
 
 ### **Complex vs. Simple Repair**
 
@@ -64,16 +64,16 @@ created: 2026-01-21
 
 ### **New Technology (2025)**
 
-- [[**0936T]]:** New Category III code for **[[Photobiomodulation therapy]]** of the retina (single session). Use Modifier 50 for bilateral.
+- **0936T:** New Category III code for **Photobiomodulation therapy** of the retina (single session). Use Modifier 50 for bilateral.
 - **Subretinal Gene Therapy:** HCPCS **C9770** covers [[vitrectomy]] with [[subretinal]] injection (e.g., Luxturna administration). Do not bill standard vitrectomy ([[67036]]) for this.
 
 ---
 
-# [[Diagnostic Imaging Rules]]
+# Diagnostic Imaging Rules
 
 ### **B-Scan Ultrasound (76512 vs. 76513)**
 
-- **[[76512]] (Posterior):** Use for structures _behind_ the lens (e.g., [[Retinal Detachment]], [[vitreous hemorrhage]], optic nerve head).
+- **[[76512]] (Posterior):** Use for structures _behind_ the lens (e.g., [[retinal detachment]], [[vitreous hemorrhage]], optic nerve head).
 - **[[76513]] (Anterior):** Use for structures _at or in front of_ the lens (e.g., IOL position, iris cysts, [[ciliary body]], UBM for [[glaucoma]]).
     - _Tip:_ Do not code both on the same eye; [[76512]] is bundled into [[76513]].
 

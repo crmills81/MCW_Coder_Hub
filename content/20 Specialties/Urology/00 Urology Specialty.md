@@ -56,14 +56,14 @@ These codes were released early but are effective for **CPT 2026** (implementati
 Would you like me to draft a specific guide note for the new **HIFU (0950T)** code or the **Lithotripsy (0991T)** code for your vault?
 
 ## Common ICD-10-CM Codes
-* **[[N40.1]]** - [[benign prostatic hyperplasia (BPH)]] with lower urinary tract symptoms
-* **[[N20.0]]** - [[Calculus of kidney]] ([[calculus|stone]])
+* **[[N40.1]]** - [[benign prostatic hyperplasia]](BPH) with lower urinary tract symptoms
+* **[[N20.0]]** - Calculus of kidney ([[stone]])
 * **[[R31.9]]** - [[Hematuria]], unspecified
-* **[[N39.0]]** -[[urinary tract infection (UTI)]], site not specified
+* **[[N39.0]]** -urinary tract infection (UTI)] site not specified
 
 
 ## Key Modifiers
-* **[[-50]]**: Bilateral procedure (e.g., bilateral [[ureteral stents]])
+* **[[-50]]**: Bilateral procedure (e.g., bilateral ureteral stents)
 * **[[-53]]**: Discontinued procedure (common if a scope cannot pass an obstruction)
 * **[[-XU]]**: Overlapping service (used to bypass NCCI edits when distinct)
 
@@ -73,8 +73,8 @@ Would you like me to draft a specific guide note for the new **HIFU (0950T)** co
 | :--- | :--- | :--- |
 | **[[Cystoscopy]]** | Gr. *kystis* (bladder) + *skopein* (to look) | **Visual examination of the bladder**. |
 | **[[Lithotripsy]]** | Gr. *lithos* (stone) + *tribein* (to crush) | **The crushing of stones**. |
-| **[[Nephrolith]]** | Gr. *nephros* (kidney) + *lithos* (stone) | **A kidney stone.** |
-| **[[Orchidopexy]]** | Gr. *orchis* (testis) + *pexis* (fixation) | **Surgical fixation of an undescended testis**. |
+| **Nephrolith** | Gr. *nephros* (kidney) + *lithos* (stone) | **A kidney stone.** |
+| **Orchidopexy** | Gr. *orchis* (testis) + *pexis* (fixation) | **Surgical fixation of an undescended testis**. |
 
 
 
@@ -85,27 +85,27 @@ Would you like me to draft a specific guide note for the new **HIFU (0950T)** co
 
 ## High‑yield clinical basics
 
-- [[Ureteral stents]] are thin, flexible tubes (commonly double‑J) placed from renal pelvis to bladder to maintain [[ureteral]] drainage and bypass obstruction. [clevelandclinic+1](https://my.clevelandclinic.org/health/treatments/21795-ureteral-stents)
+- Ureteral stent are thin, flexible tubes (commonly double‑J) placed from renal pelvis to bladder to maintain ureteral drainage and bypass obstruction. 
     
-- Main indications: obstructing ureteral/[[UPJ stone]], ureteral stricture, post‑[[ureteroscopy]] drainage, malignant [[ureteral]] obstruction, pregnancy with [[obstructive hydronephrosis]], obstructive pyelonephritis.[pmc.ncbi.nlm.nih+2](https://pmc.ncbi.nlm.nih.gov/articles/PMC8811679/)
+- Main indications: obstructing ureteral/UPJ stone, ureteral stricture, post‑[[ureteroscopy]] drainage, malignant ureteral obstruction, pregnancy with obstructive [[hydronephrosis]], obstructive pyelonephritis.
     
-- Alternative to stent when retrograde access fails or patient unstable: percutaneous [[nephrostomy]] (esp. in [[urosepsis]] or when repeated attempts at stenting would delay decompression). [[urology-textbook](https://www.urology-textbook.com/ureteral-stent.html)]​
+- Alternative to stent when retrograde access fails or patient unstable: percutaneous [[nephrostomy]] (esp. in [[urosepsis]] or when repeated attempts at stenting would delay decompression). ​
     
 
 Example Obsidian note line:
 
-- **Indications ([[ureteral stent]])**: stone disease, benign/malignant stricture, post‑operative drainage, pregnancy obstruction, infected obstruction, protection of ureter at risk.
+- **Indications (ureteral stent)**: stone disease, benign/malignant stricture, post‑operative drainage, pregnancy obstruction, infected obstruction, protection of ureter at risk.
     
 
 ---
 
 ## Key operative steps (ureteral stent placement)
 
-- Patient is positioned in [[lithotomy]]; cystoscope is passed via urethra into bladder under general or regional anesthesia.[uuanj+2](https://uuanj.com/surgical/ureteroscopy-stent-placement/)
+- Patient is positioned in [[lithotomy]]; cystoscope is passed via urethra into bladder under general or regional anesthesia.[
     
-- The [[ureteral]] orifice on the affected side is identified; a guidewire is advanced up the ureter, often under [[fluoroscopy]], sometimes after retrograde [[pyelogram]] to define anatomy/obstruction.[mkuh+2](https://www.mkuh.nhs.uk/patient-information-leaflet/ureteric-stent-going-home)
+- The ureteral orifice on the affected side is identified; a guidewire is advanced up the ureter, often under [[fluoroscopy]], sometimes after retrograde [[pyelogram]] to define anatomy/obstruction.
     
-- Over the wire, the ureteral stent is advanced until the proximal curl sits in the kidney and distal curl in the bladder; fluoroscopy or [[cystoscopic]] visualization confirms position.[uuanj+2](https://uuanj.com/surgical/cystoscopy-stent-placement-retrograde-pyelogram/)
+- Over the wire, the ureteral stent is advanced until the proximal curl sits in the kidney and distal curl in the bladder; fluoroscopy or cystoscopic visualization confirms position.
     
 
 Example Obsidian checklist block:
@@ -117,11 +117,11 @@ Example Obsidian checklist block:
 
 ## Common findings and documentation phrases
 
-- Describe side and level of obstruction (e.g., “impacted 6 mm distal ureteral stone with proximal [[hydroureteronephrosis]]”).[uuanj+1](https://uuanj.com/surgical/ureteroscopy-stent-placement/)
+- Describe side and level of obstruction (e.g., “impacted 6 mm distal ureteral stone with proximal [[hydroureteronephrosis]]”).
     
-- Mention if ureteral orifice/ureter was tight or required dilation before stent passage.[[askfilo](https://askfilo.com/user-question-answers-smart-solutions/what-cpt-code-should-be-reported-for-the-described-3337393832363034)]​
+- Mention if ureteral orifice/ureter was tight or required dilation before stent passage.​
     
-- Note stent type/size/length and planned dwell time (e.g., 6F × 26 cm double‑J stent; planned removal in 1-2 weeks).[clevelandclinic+1](https://my.clevelandclinic.org/health/treatments/21795-ureteral-stents)
+- Note stent type/size/length and planned dwell time (e.g., 6F × 26 cm double‑J stent; planned removal in 1-2 weeks).
     
 
 Example note phrases:
@@ -135,11 +135,11 @@ Example note phrases:
 
 ## Complications and postop expectations
 
-- Early/common symptoms: flank or suprapubic pain, urinary frequency/urgency, [[dysuria]], [[hematuria]]; these often occur while stent is in place.[myhealth.alberta+3](https://myhealth.alberta.ca/Health/aftercareinformation/pages/conditions.aspx?hwid=zc2561)
+- Early/common symptoms: flank or suprapubic pain, urinary frequency/urgency, [[dysuria]], [[hematuria]]; these often occur while stent is in place.[
     
-- Early complications (<4 weeks): irritative voiding, [[hematuria]], infection; late complications (>4 weeks): migration, blockage, encrustation, fragmentation, persistent UTI.[pmc.ncbi.nlm.nih+1](https://pmc.ncbi.nlm.nih.gov/articles/PMC8811679/)
+- Early complications (<4 weeks): irritative voiding, [[hematuria]], infection; late complications (>4 weeks): migration, blockage, encrustation, fragmentation, persistent UTI.
     
-- Serious but less common issues: [[sepsis]] from [[UTI]], stent encrustation requiring endoscopic removal, misplacement or failure to drain requiring [[nephrostomy]].[sciencedirect+2](https://www.sciencedirect.com/science/article/pii/S0094014321015949)
+- Serious but less common issues: [[sepsis]] from UTI, stent encrustation requiring endoscopic removal, misplacement or failure to drain requiring [[nephrostomy]].
     
 
 Example Obsidian list:
@@ -151,13 +151,13 @@ Example Obsidian list:
 
 ## Coding‑oriented notes (since you code)
 
-- Ureteral stent placement via [[cystoscopy]]/[[ureteroscopy]] is typically captured with codes such as [[52332]] ([[ureteroscopy]] with stent placement) and [[52342]] (endoscopic ureteral stent placement), with cystoscopy and retrograde [[pyelogram]] often bundled.[hcmsus+1](https://hcmsus.com/blog/cystoscopy-cpt-codes)
+- Ureteral stent placement via [[cystoscopy]]/[[ureteroscopy]] is typically captured with codes such as [[52332]] ([[ureteroscopy]] with stent placement) and [[52342]] (endoscopic ureteral stent placement), with cystoscopy and retrograde [[pyelogram]] often bundled.
     
-- Document: approach (cystoscopic vs open/lap), side, use of [[ureteroscopy]] vs simple cystoscopic placement, retrograde pyelogram, dilation, and any stone manipulation to support code selection.[askfilo+1](https://askfilo.com/user-question-answers-smart-solutions/what-cpt-code-should-be-reported-for-the-described-3337393832363034)
+- Document: approach (cystoscopic vs open/lap), side, use of [[ureteroscopy]] vs simple cystoscopic placement, retrograde pyelogram, dilation, and any stone manipulation to support code selection.
     
 
 Example “coding support” lines:
 
-- “[[Cystoscopy]] with right [[ureteroscopy]], balloon dilation of [[distal ureteral stricture]], retrograde [[pyelogram]], and placement of indwelling ureteral stent.”
+- “[[Cystoscopy]] with right [[ureteroscopy]], balloon dilation of distal ureteral stricture, retrograde [[pyelogram]], and placement of indwelling ureteral stent.”
     
 
