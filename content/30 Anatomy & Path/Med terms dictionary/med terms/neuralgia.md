@@ -66,7 +66,7 @@ _____
 > - **[[Neuropathy]]** — broader term describing any functional disturbance or pathological change in the nervous system; **neuralgia** is pain-dominant, while neuropathy implies structural nerve damage with sensory/motor deficits (**[[G60.9]], [[G62.9]]**)
 > - **[[Neuritis]]** — **[[inflammation]]** of a nerve; may cause **neuralgia** as a symptom but specifically implies an inflammatory mechanism rather than mechanical or paroxysmal etiology
 > - **[[Radiculopathy]]** — nerve root compression causing pain radiating along a dermatomal distribution **plus** motor, sensory, or reflex deficits; distinguished from neuralgia by the neurological deficit component (**[[M54.10]]-[[M54.17]]**)
-> - **[[Plexopathy]]** — disorder of a nerve plexus (**brachial or lumbosacral**) causing diffuse pain and weakness; coded as **[[G54.0]]** (**cervical/brachial**) or **[[G54.1]]** (**lumbosacral**)
+> - **[[plexopathy]]** — disorder of a nerve plexus (**brachial or lumbosacral**) causing diffuse pain and weakness; coded as **[[G54.0]]** (**cervical/brachial**) or **[[G54.1]]** (**lumbosacral**)
 > - **[[Allodynia]]** — pain caused by a stimulus that does not normally provoke pain; commonly associated with neuralgic and neuropathic states; key mechanism in postherpetic **neuralgia**
 > - **[[Hyperalgesia]]** — exaggerated pain response to a painful stimulus; shares underlying sensitization mechanism with **neuralgia**
 > - **[[Demyelination]]** — loss of the myelin sheath around nerve fibers; underlying structural mechanism in many neuralgias including trigeminal **neuralgia** secondary to MS

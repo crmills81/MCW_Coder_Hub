@@ -57,7 +57,7 @@ _____
 > - **[[Retinitis]]** — inflammation of the retina only
 > - **[[Posterior uveitis]]** — umbrella category; chorioretinitis is the primary subtype
 > - **Chorioretinal scar** — fibrotic remnant of prior chorioretinal inflammation or injury
-> - **[[Retinal detachment]]** — separation of retina from choroid; often sequela of chorioretinal disease
+> - **[[retinal detachment]]** — separation of retina from choroid; often sequela of chorioretinal disease
 > - **Macular degeneration (AMD)** — degenerative chorioretinal disease of the macula
 > - **Multifocal choroiditis** — pattern of multiple discrete choroidal inflammatory lesions
 > - **APMPEE** — **A**cute **P**osterior **M**ultifocal **P**lacoid **P**igment **E**pitheliopathy; bilateral inflammatory chorioretinal disease

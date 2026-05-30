@@ -72,7 +72,7 @@ _____
 > 
 > - **[[Epiglottoplasty]]** — the opposite of [[epiglottidectomy]]; surgical reconstruction, reshaping, or augmentation of the epiglottis to restore laryngeal protection during swallowing or to treat laryngomalacia; distinguished from epiglottidectomy as preservation/repair versus removal
 > - **[[Glottidectomy]]** — shares the *[[glott-]]* root; excision of the glottis (true vocal cords and rima glottidis) rather than the epiglottis; a more profound phonatory and airway procedure
-> - **[[Supraglottitis]] ([[epiglottitis]])** — shares the *[[epiglott-]]* root; acute bacterial or viral inflammation of the supraglottic structures including the epiglottis; the disease entity most commonly precipitating urgent airway intervention and, in rare refractory cases, epiglottidectomy; **[[J05.10]], [[J05.11]]**
+> - **[[supraglottitis]] ([[epiglottitis]])** — shares the *[[epiglott-]]* root; acute bacterial or viral inflammation of the supraglottic structures including the epiglottis; the disease entity most commonly precipitating urgent airway intervention and, in rare refractory cases, epiglottidectomy; **[[J05.10]], [[J05.11]]**
 > - **[[Laryngomalacia]]** — congenital or acquired flaccidity of the supraglottic structures causing inspiratory stridor; severe cases may require partial epiglottidectomy or supraglottoplasty as treatment
 > - **[[Excision]]** — the surgical mechanism of cutting out tissue; in otolaryngology, the fundamental operative principle underlying epiglottidectomy and related laryngeal resections
 > - **Excisional** — adjective describing surgical removal by cutting; e.g., "excisional biopsy," "excisional margins"

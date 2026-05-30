@@ -55,7 +55,7 @@ _____
 > 
 > - **[[Antrostomy]]** — the creation of a permanent or semi-permanent opening into an antrum; closely related but distinct from the simple incision of an antrotomy.
 > - **[[mastoidectomy]]** — surgical removal of mastoid air cells, which traditionally includes or follows a transmastoid antrotomy.
-> - **[[Sinusitis]]** — inflammation of the sinus; the primary pathological condition (acute or chronic) prompting a maxillary antrotomy.
+> - **[[sinusitis]]** — inflammation of the sinus; the primary pathological condition (acute or chronic) prompting a maxillary antrotomy.
 > - **[[Mastoiditis]]** — infection of the mastoid bone; the primary indication for a mastoid antrotomy.
 > - **Antrum** — the underlying anatomical target; a nearly closed cavity or chamber, especially within a bone.
 

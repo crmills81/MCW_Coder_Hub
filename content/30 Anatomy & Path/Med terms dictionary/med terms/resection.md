@@ -72,7 +72,7 @@ _____
 > - **[[Nephrectomy]]** — resection of the kidney; radical vs. partial nephrectomy determines ICD-10-PCS root operation
 > - **[[Mastectomy]]** — resection of the breast; total = ICD-10-PCS Resection
 > - **[[Gastrectomy]]** — partial or total resection of the stomach
-> - **[[Prostatectomy]]** — resection of the prostate gland; open, laparoscopic, or robotic approach
+> - **[[prostatectomy]]** — resection of the prostate gland; open, laparoscopic, or robotic approach
 > - **Debulking** — intentional incomplete resection ([[cytoreduction]]) used in gynecologic oncology; does NOT map to ICD-10-PCS Resection
 > - **Margins** — pathologic status of tissue borders at edge of resected specimen; R0/R1/R2 classification
 > - **Oncology** — primary clinical context driving majority of resection procedures

@@ -1,6 +1,6 @@
 <header>Cystoscopy-Based Procedures</header>
 <header>2026 Coding & Payment Quick Reference</header>
-
+#Cystourethroscopy #catheterization #urethrotomy #cystoscopy #urology 
 # 2026 Coding and Payment Guide - Cystoscopy-Based Procedures
 
 The coding options listed within this guide are commonly used codes and are not intended to be an all-inclusive list. They are thought to be relevant to Cystoscopy-based procedures and are referenced throughout this document. We recommend consulting your relevant manuals for appropriate coding options. Payer policies will vary and should be verified prior to treatment for limitations on diagnosis, coding, or site of service requirements.
@@ -263,7 +263,7 @@ CPT® codes with their respective long descriptions will be found on page 5.
       <td>N/A</td>
     </tr>
     <tr>
-      <td>[[52310]]</td>
+      <td>52310</td>
       <td>With removal of foreign body, calculus, ureteral stent from urethra or bladder (separate procedure); simple</td>
       <td>$135</td>
       <td>4.03</td>
@@ -361,7 +361,7 @@ CPT® codes with their respective long descriptions will be found on page 5.
       <td colspan="6"><strong>Cystoscopy-based Procedures</strong></td>
     </tr>
     <tr>
-      <td>[[52000]]</td>
+      <td>52000</td>
       <td>Cystourethroscopy (separate procedure)</td>
       <td>5372</td>
       <td>J1</td>
@@ -377,7 +377,7 @@ CPT® codes with their respective long descriptions will be found on page 5.
       <td>$1,723</td>
     </tr>
     <tr>
-      <td>[[52005]]</td>
+      <td>52005</td>
       <td>Cystourethroscopy, with ureteral catheterization, with or without irrigation, instillation, or ureteropyelography, exclusive of radiologic service</td>
       <td>5373</td>
       <td>J1</td>
@@ -401,7 +401,7 @@ CPT® codes with their respective long descriptions will be found on page 5.
       <td>$311</td>
     </tr>
     <tr>
-      <td>[[52204]]</td>
+      <td>52204</td>
       <td>Cystourethroscopy, with biopsy(s)</td>
       <td>5373</td>
       <td>J1</td>

@@ -71,7 +71,7 @@ _____
 > - **[[Diabetic retinopathy]]** — disease entity defined by findings on ophthalmoscopy (microaneurysms, dot‑blot hemorrhages, neovascularization); ICD‑10‑CM [[E11.31]] with fourth character for severity; ophthalmoscopy is the primary diagnostic tool.
 > - **Hypertensive retinopathy** — disease entity defined by arteriolar narrowing, arteriovenous nicking, cotton‑wool spots; ICD‑10‑CM [[H35.033]] (bilateral); graded by Scheie or Keith‑Wagener‑Barker scales using ophthalmoscopy.
 > - **Glaucomatous optic neuropathy** — characteristic optic disc changes (increased cup‑to‑disc ratio, notch, nerve fiber layer defect) seen on ophthalmoscopy; codes [[H40.11]] (primary open‑angle glaucoma, mild stage).
-> - **[[Retinal detachment]]** — rhegmatogenous, tractional, or exudative; indirect ophthalmoscopy with scleral depression is the gold standard for diagnosis; ICD‑10‑CM [[H33.0]]‑[[H33.5]].
+> - **[[retinal detachment]]** — rhegmatogenous, tractional, or exudative; indirect ophthalmoscopy with scleral depression is the gold standard for diagnosis; ICD‑10‑CM [[H33.0]]‑[[H33.5]].
 > - **[[Papilledema]]** — swelling of the optic disc due to increased intracranial pressure; emergency finding on ophthalmoscopy; ICD‑10‑CM [[H47.13]] (bilateral). Requires immediate neuroimaging.
 > - **[[Retinoblastoma]]** — childhood intraocular malignancy; leukocoria (white reflex) on ophthalmoscopy is a key sign; ICD‑10‑CM [[C69.21]] (right), [[C69.22]] (left).
 > - **Ophthalmoscopy, extended, with drawing** — diagnostic procedure CPT [[92225]] (unilateral or bilateral) and [[92226]] (with medical decision making); documented by drawing or annotation.

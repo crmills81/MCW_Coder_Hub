@@ -15,7 +15,7 @@ forms:
   - prefix
   - suffix
   - adjective
-alphabet: R
+alphabet: V
 definition:
   - the clear gel-like substance filling the posterior cavity of the eye
 ---
@@ -46,7 +46,7 @@ definition:
 > |**Syneresis**|Collapse/shrinkage of the vitreous gel framework|
 > |**Vitritis**|Inflammation within the vitreous (coded [[H43.89]])|
 > |**[[Hyaloid membrane]]**|Outer membrane enclosing the vitreous|
-> |**[[Retinal detachment]]**|Common complication of vitreous traction/PVD|
+> |**[[retinal detachment]]**|Common complication of vitreous traction/PVD|
 
 ---
 

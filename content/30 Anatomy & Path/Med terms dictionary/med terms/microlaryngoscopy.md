@@ -2,7 +2,7 @@
 tags:
   - medterm
   - medroot
-  - ophthalmology
+  - ophthalmologyy
 aliases:
   - laryngomicroscopy
   - direct microlaryngoscopy

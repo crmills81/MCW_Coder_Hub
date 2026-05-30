@@ -45,7 +45,7 @@ _____
 > - **[[supraglottis|Supraglottic]]** _(adjective form — used clinically in "supraglottic carcinoma," "supraglottic laryngectomy," "supraglottic swallow," and "supraglottic airway")_
 > - **Supraglottic larynx** _(full anatomical descriptor used in radiology, operative, and oncology reports; synonymous with supraglottis)_
 > - **[[Epiglottis]]** _(the most prominent structural component of the supraglottis — the cartilaginous flap that closes the laryngeal inlet during swallowing; NOT synonymous with supraglottis, which is the entire compartment)_
-> - **[[Supraglottitis]]** _(acute inflammatory condition of the entire supraglottic region; modern preferred term when inflammation extends beyond just the epiglottis; [[J04.30]] without obstruction, [[J04.31]] with obstruction)_
+> - **[[supraglottitis]]** _(acute inflammatory condition of the entire supraglottic region; modern preferred term when inflammation extends beyond just the epiglottis; [[J04.30]] without obstruction, [[J04.31]] with obstruction)_
 > - **Acute epiglottitis** _(acute inflammation primarily of the epiglottis; classically caused by_ H. influenzae _type b; [[J05.10]] without obstruction, [[J05.11]] with obstruction — distinct from supraglottitis codes)_
 > - **Supraglottic carcinoma** _(squamous cell carcinoma arising within the supraglottic compartment; notable for early bilateral cervical metastasis; [[C32.1]])_
 > - **[[Laryngomalacia]]** _(the most common cause of stridor in infants; involves supraglottic structures — most often the epiglottis and aryepiglottic folds — collapsing into the airway on inspiration; [[Q31.5]])_

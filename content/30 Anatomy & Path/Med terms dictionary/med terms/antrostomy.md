@@ -61,7 +61,7 @@ _____
 > - **[[Antrotomy]]** — the sibling/lesser term of **antrostomy**; involves a surgical incision into the antrum for exploration or temporary drainage without intending to leave a permanent opening.
 > - **Functional Endoscopic Sinus Surgery (FESS)** — the comprehensive surgical framework within which a **maxillary antrostomy** is typically performed.
 > - **[[Ethmoidectomy]]** — surgical removal of **ethmoid sinus cells**; a frequently concurrent procedure performed with **antrostomy** to clear adjacent sinus disease.
-> - **[[Sphenoidotomy]]** — creation of an opening into the **sphenoid sinus**; another concurrent FESS procedure.
+> - **[[sphenoidotomy]]** — creation of an opening into the **sphenoid sinus**; another concurrent FESS procedure.
 > - **[[Ostium]]** — the natural anatomical opening of a sinus, which an **antrostomy** typically targets for surgical enlargement.
 > - **Chronic Maxillary Sinusitis** — the primary chronic inflammatory disease entity treated by this procedure; coded as **[[J32.0]]**.
 > - **Nasal Polyposis** — an **inflammatory mucosal** disease entity characterized by benign growths that obstruct the sinuses, frequently requiring **antrostomy** for clearance; coded as **[[J33.9]]**.

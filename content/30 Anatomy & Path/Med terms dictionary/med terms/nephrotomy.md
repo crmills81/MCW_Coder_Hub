@@ -47,7 +47,7 @@ definition:
 > |**[[Nephrostomy]]**|Nephrotomy with drainage/decompression; creation of renal drainage tract; CPT **[[50040]]**|
 > |**[[Renal exploration]]**|Nephrotomy performed diagnostically to explore the kidney; CPT **[[50045]]**|
 > |**[[PCNL]]**|Percutaneous nephrolithotomy — modern minimally invasive [[percutaneous]] approach; CPT **[[50080]]** (simple) / **[[50081]]** (complex)|
-> |**Pyelolithotomy**|[[Stone]] removal through incision into the renal pelvis (*pyelos* = trough/pelvis) rather than parenchyma; CPT **[[50130]]**|
+> |**Pyelolithotomy**|[[stone]] removal through incision into the renal pelvis (*pyelos* = trough/pelvis) rather than parenchyma; CPT **[[50130]]**|
 > |**Anatrophic nephrotomy**|Open surgical technique creating incision along Brödel's avascular line to minimize parenchymal bleeding; used for complex staghorn calculi; CPT **[[50075]]**|
 > |**Endopyelotomy**|Endoscopic incision of ureteropelvic junction (UPJ) through nephrotomy access; CPT **[[50575]]**|
 > |**[[Nephrectomy]]**|⚠️ NOT nephrotomy — nephrectomy = kidney *removal* ([[-ectomy]]); CPT [[50220]]-[[50240]] (**open**); [[50543]]-[[50548]] (laparoscopic); do NOT confuse the suffixes|

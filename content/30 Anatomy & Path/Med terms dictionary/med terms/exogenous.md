@@ -61,7 +61,7 @@ definition:
 
 >[!danger]+ ### 🔗 RELATED TERMS
 
-- **Adverse effect** — correct ICD-10-CM coding scenario when an **exogenous** drug is **correctly prescribed and correctly taken** but causes an unwanted reaction; the **manifestation** is sequenced first, then the T-code with 5th character **5** (e.g., [[T38.0X5A]])
+- **Adverse effect** — correct ICD-10-CM coding scenario when an **exogenous** drug is **correctly prescribed and correctly taken** but causes an unwanted reaction; the **manifestation** is sequenced first, then the T-code with 5th character **5** (e.g., [[50 Medical Coding/ICD-10 Codes/T38.0X5A]])
 - **Poisoning** — **exogenous** drug taken in **wrong dose, wrong drug, wrong patient**, or **intentional overdose**; the T-code is sequenced **first** with 5th character **1** (accidental), **2** (self-harm), **3** (assault), **4** (undetermined); e.g., [[T38.0X1A]]
 - **Teratogen** — **exogenous** agent causing fetal malformation; alcohol (**[[Q86.0]]**), phenytoin (**[[Q86.1]]**), other agents (**[[Q86.8]]**); T-codes from the mother's record cross-reference
 - **Drug-induced Cushing's syndrome** — **exogenous** glucocorticoid excess; **[[E24.2]]**; contrasted with endogenous **[[E24.0]]**
@@ -99,10 +99,10 @@ definition:
 
 | ICD-10-CM Code | Description | Exogenous Context |
 |---|---|---|
-|**[[E24.2]]**|Drug-induced Cushing's syndrome|Exogenous glucocorticoid (steroid) excess — most common cause of Cushing's overall; always add [[T38.0X5A]]|
+|**[[E24.2]]**|Drug-induced Cushing's syndrome|Exogenous glucocorticoid (steroid) excess — most common cause of Cushing's overall; always add [[50 Medical Coding/ICD-10 Codes/T38.0X5A]]|
 |**[[E03.2]]**|Hypothyroidism due to medicaments and other **exogenous** substances|Exogenous drug suppression of thyroid (lithium, amiodarone, antithyroid drugs)|
 |**[[E66.1]]**|Drug-induced obesity|Exogenous weight gain from medications (antipsychotics, steroids, insulin, antidepressants)|
-|**[[T38.0X5A]]**|Adverse effect of glucocorticoids and synthetic analogues, initial encounter|T-code companion for steroid-induced conditions — sequence after manifestation ([[E24.2]], etc.)|
+|**[[50 Medical Coding/ICD-10 Codes/T38.0X5A]]**|Adverse effect of glucocorticoids and synthetic analogues, initial encounter|T-code companion for steroid-induced conditions — sequence after manifestation ([[E24.2]], etc.)|
 |**[[T38.0X1A]]**|Poisoning by glucocorticoids and synthetic analogues, accidental, initial encounter|Poisoning scenario — sequence this T-code first|
 
 ### 👁️ Ophthalmology — Exogenous Endophthalmitis
@@ -146,7 +146,7 @@ definition:
 
 | Clinical Scenario | Exogenous Code | Endogenous Code |
 |---|---|---|
-|Cushing's syndrome from steroid medication|**[[E24.2]]** + [[T38.0X5A]]|**[[E24.0]]** (pituitary adenoma)|
+|Cushing's syndrome from steroid medication|**[[E24.2]]** + [[50 Medical Coding/ICD-10 Codes/T38.0X5A]]|**[[E24.0]]** (pituitary adenoma)|
 |[[Endophthalmitis]] from surgery/injection|**[[H44.001]]**-**[[H44.009]]** (purulent)|**[[H44.19]]** (hematogenous)|
 |Hypothyroidism from drug|**[[E03.2]]**|[[E03.9]] (idiopathic/autoimmune)|
 |Obesity from medication|**[[E66.1]]**|[[E66.01]] (morbid, due to excess calories)|

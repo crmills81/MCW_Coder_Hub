@@ -63,7 +63,7 @@ _____
 > - **[[Hyperesthesia]]** — shares the *[[esthes-]]* root; increased or heightened sensitivity to sensory stimuli, including touch and temperature.
 > - **[[Hypoesthesia]]** — shares the *[[esthes-]]* root; a partial loss or abnormally decreased sensitivity to touch.
 > - **[[Formication]]** — a specific type of [[paresthesia]] characterized by the tactile hallucination of insects crawling on or under the skin, often associated with substance withdrawal or severe neuropathy.
-> - **[[Peripheral neuropathy]]** — a widespread disease entity of the peripheral nerves often presenting primarily with symmetrical distal **paresthesias** (**e.g., "stocking-glove" distribution; [[G62.9]]**).
+> - **[[peripheral neuropathy]]** — a widespread disease entity of the peripheral nerves often presenting primarily with symmetrical distal **paresthesias** (**e.g., "stocking-glove" distribution; [[G62.9]]**).
 > - **[[radiculopathy]]** — compression or irritation of a spinal nerve root, causing radiating paresthesia along a specific dermatome (**e.g., [[sciatica]] or cervical [[radiculopathy]]**).
 > - **[[Demyelination]]** — the cellular pathological mechanism where the myelin sheath of neurons is destroyed, leading to "**short-circuiting**" and spurious sensory signals like **paresthesia** (**classic in [[Multiple Sclerosis]]**).
 > - **Nerve conduction studies (NCS)** — primary diagnostic procedure used alongside [[electromyography]] (**EMG**) to evaluate the integrity of sensory and motor nerves when investigating chronic **paresthesias**.

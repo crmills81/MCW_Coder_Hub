@@ -31,11 +31,11 @@ _____
 > [!caution]+ RELATED TERMS
 > **[[Vitrectomy]]**: Surgical removal of vitreous gel, the hallmark vitreoretinal procedure. 
 > **[[Vitreoretinopathy]]**: Disease of the vitreous and retina (e.g., proliferative vitreoretinopathy/PVR). 
-> **[[Retinal detachment]]**: Separation of the retina from the underlying RPE; a key vitreoretinal emergency. 
+> **[[retinal detachment]]**: Separation of the retina from the underlying RPE; a key vitreoretinal emergency. 
 > **[[Posterior vitreous detachment (PVD)]]**: Age-related separation of vitreous from retinal surface. 
 > **[[Epiretinal membrane (ERM)]]**: Scar tissue forming on the retinal surface at the vitreoretinal interface. 
 > **[[Macular hole]]**: Full-thickness defect in the [[fovea]], often [[vitreoretinal]] traction-related.
-> **[[Diabetic retinopathy]]**: [[Vascular]] damage to the retina; a leading vitreoretinal disease. 
+> **[[diabetic retinopathy]]**: [[Vascular]] damage to the retina; a leading vitreoretinal disease. 
 > **[[Vitritis]]**: Inflammation of the vitreous itself. 
 > **[[Vitreology]]**: The scientific study of the [[vitreous]] body. 
 > **[[Scleral buckling]]**: Vitreoretinal surgical technique using an external band to support retinal reattachment.

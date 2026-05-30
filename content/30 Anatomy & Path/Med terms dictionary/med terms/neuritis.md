@@ -22,8 +22,8 @@ definition: inflammation of a nerve or nerves
 ---
 >[!Note] DEFINITION of [[neuritis]]
 >**[[Neuritis]]** is a general term describing **inflammation of one or more nerves, which can affect the peripheral nervous system, cranial nerves, or specific nerve plexuses**. The condition disrupts normal nerve conduction, leading to various neurological symptoms depending on the nerve(s) involved. Types: 
->  - **[[Mononeuritis]]**: Inflammation of a single nerve (**e.g., [[optic neuritis]], ulnar [[neuritis]]**). 
->  - **[[Polyneuritis]]/Multiple [[Mononeuritis]]**: Inflammation of multiple individual nerves in different areas. 
+>  - **[[mononeuritis]]**: Inflammation of a single nerve (**e.g., [[optic neuritis]], ulnar [[neuritis]]**). 
+>  - **[[Polyneuritis]]/Multiple [[mononeuritis]]**: Inflammation of multiple individual nerves in different areas. 
 >  - **[[polyneuropathy]]**: Diffuse, symmetrical inflammation affecting many nerves simultaneously (**often systemic in origin**). 
 >  - **Cranial Neuritis**: Inflammation of cranial nerves (**e.g., optic, [[vestibular]], facial**). 
 >  - **Etiology**: Causes include infection (**viral, bacterial**), **[[autoimmune]]** disorders (**[[Guillain-Barré syndrome]], [[multiple sclerosis]]**), trauma, compression, toxins, metabolic disorders (**[[diabetes]]**), nutritional deficiencies (**B vitamins**), and idiopathic causes. 
@@ -163,7 +163,7 @@ _____
 > - **[[G57.81]]**: ... right lower limb
 > - **[[G57.82]]**: ... left lower limb
 > - **[[G57.83]]**: ... bilateral lower limbs
-> - **[[G57.90]]**: [[Mononeuropathy]] of lower limb, unspecified
+> - **[[G57.90]]**: [[mononeuropathy]] of lower limb, unspecified
 > - **[[G57.91]]**: ... right lower limb
 > - **[[G57.92]]**: ... left lower limb
 > - **[[G57.93]]**: ... bilateral lower limbs
