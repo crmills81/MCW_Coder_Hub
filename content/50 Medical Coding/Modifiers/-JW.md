@@ -51,9 +51,9 @@ aliases:
 ## Common drug HCPCS codes billed with -JW (specialty-specific examples)
 *Note: The HCPCS drug J-code is wikilinkable if it is a valid, separately payable code. Below are examples — always verify unit definitions for each code.*
 - **Intravitreal injections (Ophthalmology):**
-  - [[J0178]] (aflibercept/Eylea) — 1 mg; prefilled syringe, single-dose; [[-JZ]] typically (no waste when full dose given from prefilled syringe).
-  - [[J2778]] (ranibizumab/Lucentis) — 0.1 mg; single-dose vial; [[-JW]] if partial vial discarded.
-  - [[J3396]] (bevacizumab/Avastin compounded) — 0.25 mg; single-dose drawn syringe; [[-JW]] if any waste.
+  - **J0178** (aflibercept/Eylea) — 1 mg; prefilled syringe, single-dose; [[-JZ]] typically (no waste when full dose given from prefilled syringe).
+  - **J2778** (ranibizumab/Lucentis) — 0.1 mg; single-dose vial; [[-JW]] if partial vial discarded.
+  - **J3396** (bevacizumab/Avastin compounded) — 0.25 mg; single-dose drawn syringe; [[-JW]] if any waste.
 - **Oncology/Infusion examples:**
   - Large-molecule biologicals drawn from single-dose vials (e.g., trastuzumab, pembrolizumab) frequently generate [[-JW]] waste due to weight-based dosing leaving residual in the vial.
 - **Rheumatology/Infusion examples:**

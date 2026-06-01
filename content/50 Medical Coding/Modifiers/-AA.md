@@ -71,7 +71,7 @@ This modifier is the highest-level anesthesia payment modifier and results in re
 - When the anesthesiologist is **medically directing 2-4 concurrent cases** — use **[[-QK]]** instead.
 - When the **anesthesiologist** is **medically directing one CRNA** — use **[[-QY]]** instead.
 - When the anesthesiologist is **medically supervising more than 4 concurrent cases** — use **[[-AD]]** instead.
-- **Never** report [[-AA]] on the same claim line as [[-QK]], [[-QX]], [[-QY]], [[-QZ]], or [[AD]] — these modifiers are mutually exclusive.
+- **Never** report [[-AA]] on the same claim line as [[-QK]], [[-QX]], [[-QY]], [[-QZ]], or [[-AD]] — these modifiers are mutually exclusive.
 
 ## Reimbursement
 - Billed at **100% of the anesthesia fee schedule allowable**.

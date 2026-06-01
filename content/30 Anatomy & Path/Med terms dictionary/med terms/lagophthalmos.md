@@ -195,13 +195,13 @@ _____
 > - **Congenital lagophthalmos Excludes1**: Congenital eyelid malformations ([[Q10.0]]-[[Q10.3]]) are hard Excludes1 from H02.- — do NOT code H02.2- for congenital presentations; use appropriate Q10.- code
 >
 > - **Eyelid modifiers E1-E4 may be required** on CPT codes [[67880]], [[67882]], and [[67912]] by certain payers — verify payer-specific requirements:
->   - [[E1]] = upper left | [[E2]] = lower left | [[E3]] = upper right | [[E4]] = lower right
+>   - [[-E1]] = upper left | [[-E2]] = lower left | [[-E3]] = upper right | [[-E4]] = lower right
 >
-> - **Gold weight implant + ectropion repair same session**: When [[67912]] (gold weight) and [[67917]] (ectropion repair) are performed together for paralytic lagophthalmos with paralytic ectropion — both CPT codes are billable on the same claim with modifier [[51]] on the secondary procedure; document each procedure separately in the operative note
+> - **Gold weight implant + ectropion repair same session**: When [[67912]] (gold weight) and [[67917]] (ectropion repair) are performed together for paralytic lagophthalmos with paralytic ectropion — both CPT codes are billable on the same claim with modifier [[-51]] on the secondary procedure; document each procedure separately in the operative note
 >
 > - **ICU/inpatient lagophthalmos**: In critically ill patients, lagophthalmos is a common secondary complication; for inpatient profee coding, ensure POA = Y and code the ocular complications ([[H16.23-]] exposure keratopathy) additionally to support ophthalmology consultation medical necessity
 >
-> - **Global period for [[67912]]**: Gold weight implantation carries a **90-day global period** — subsequent visits to assess lid closure and remove/adjust the weight during the global period are included unless the visit is unrelated (modifier [[24]]) or the removal requires a separate surgical procedure
+> - **Global period for [[67912]]**: Gold weight implantation carries a **90-day global period** — subsequent visits to assess lid closure and remove/adjust the weight during the global period are included unless the visit is unrelated (modifier [[-24]]) or the removal requires a separate surgical procedure
 >
 > ## **ICD-10-CM Diagnosis Codes**
 >
@@ -251,16 +251,16 @@ _____
 >
 > | Modifier | Use |
 > |---|---|
-> | **[[E1]]** | Upper left eyelid — append to CPT code for upper lid procedure (tarsorrhaphy, gold weight) on left side |
-> | **[[E3]]** | Upper right eyelid — append to CPT code for upper lid procedure on right side |
-> | **[[E2]]** | Lower left eyelid — append when lower lid tightening/ectropion repair performed left side |
-> | **[[E4]]** | Lower right eyelid — append when lower lid tightening/ectropion repair performed right side |
-> | **[[51]]** | Multiple procedures — when gold weight ([[67912]]) and ectropion repair ([[67917]]) performed same session |
-> | **[[50]]** | Bilateral procedure — bilateral tarsorrhaphy or bilateral gold weight same session (verify payer policy) |
-> | **[[22]]** | Increased procedural services — complex tarsorrhaphy or gold weight revision (prior failed implant, scarring, atypical anatomy) |
-> | **[[24]]** | Unrelated E/M service during 90-day global period for gold weight or tarsorrhaphy |
-> | **[[79]]** | Unrelated procedure during postoperative global period |
-> | **[[58]]** | Staged procedure — planned revision of gold weight or tarsorrhaphy within global period |
+> | **[[-E1]]** | Upper left eyelid — append to CPT code for upper lid procedure (tarsorrhaphy, gold weight) on left side |
+> | **[[-E3]]** | Upper right eyelid — append to CPT code for upper lid procedure on right side |
+> | **[[-E2]]** | Lower left eyelid — append when lower lid tightening/ectropion repair performed left side |
+> | **[[-E4]]** | Lower right eyelid — append when lower lid tightening/ectropion repair performed right side |
+> | **[[-51]]** | Multiple procedures — when gold weight ([[67912]]) and ectropion repair ([[67917]]) performed same session |
+> | **[[-50]]** | Bilateral procedure — bilateral tarsorrhaphy or bilateral gold weight same session (verify payer policy) |
+> | **[[-22]]** | Increased procedural services — complex tarsorrhaphy or gold weight revision (prior failed implant, scarring, atypical anatomy) |
+> | **[[-24]]** | Unrelated E/M service during 90-day global period for gold weight or tarsorrhaphy |
+> | **[[-79]]** | Unrelated procedure during postoperative global period |
+> | **[[-58]]** | Staged procedure — planned revision of gold weight or tarsorrhaphy within global period |
 
 _____
 >[!tip]- DERIVATIONS of [[lagophthalmos]]

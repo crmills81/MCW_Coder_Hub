@@ -104,7 +104,7 @@ _____
 > 
 > | Code | Description |
 > |------|-------------|
-> | **[[44320]]** | Colostomy or skin level [[cecostomy]] or other colonic procedure; temporary [[24]] |
+> | **[[44320]]** | Colostomy or skin level [[cecostomy]] or other colonic procedure; temporary  |
 > | **[[44332]]** | Colostomy or skin level cecostomy or other colonic procedure; permanent |
 > | **[[44346]]** | Ileostomy or jejunostomy; non-therapeutic (separate procedure) |
 > | **[[44380]]** | Small intestinal enterostomy (e.g., tube enterostomy, needle [[catheter]] enterostomy) |
@@ -114,9 +114,9 @@ _____
 > | Code | Description |
 > |------|-------------|
 > | **[[44388]]** | Colonoscopy through stoma; diagnostic, including collection of specimen(s) by brushing or washing   |
-> | **[[44389]]** | Colonoscopy through stoma; with biopsy, single or multiple [[27]] |
+> | **[[44389]]** | Colonoscopy through stoma; with biopsy, single or multiple  |
 > | **[[44390]]** | Colonoscopy through stoma; with ablation of tumor(s), polyp(s), or other lesion(s) |
-> | **[[44391]]** | Colonoscopy through stoma; with removal of foreign body [[25]] |
+> | **[[44391]]** | Colonoscopy through stoma; with removal of foreign body  |
 > | **[[44392]]** | Colonoscopy through stoma; with control of bleeding   |
 > | **[[44393]]** | Colonoscopy through stoma; with decompression (e.g., placement of decompression tube) |
 > | **[[44394]]** | Colonoscopy through stoma; with removal of tumor(s), polyp(s), or other lesion(s) by hot biopsy forceps    |

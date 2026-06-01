@@ -61,7 +61,7 @@ HCPCS Level II Modifiers
 ```
 
 **Parent Category**: Anesthesia Modifiers <sup>7</sup>  
-**Related Modifiers**: [[AA]], [[QK]], [[QX]], [[QZ]], [[AD]] (Supervision >4 cases)  
+**Related Modifiers**: [[-AA]], [[-QK]], [[-QX]], [[-QZ]], [[-AD]] (Supervision >4 cases)  
 **Primary Code Dependency**: Must be appended to a valid Anesthesia CPT® code (e.g., 00100, 00300)
 
 ---
@@ -72,8 +72,8 @@ HCPCS Level II Modifiers
 |-----------|------|-------|
 | **Base Rate** | 100% | Based on the allowed amount for the Anesthesia CPT® code <sup>4</sup> |
 | **Anesthesiologist Share** | 50% | Standard reimbursement rate for medical direction of one CRNA <sup>4</sup> |
-| **CRNA Share** | 50% | CRNA bills separately with modifier [[QX]] for the remaining 50% <sup>4</sup> |
-| **Final [[QY]] Rate** | **50%** | Of the total allowed anesthesia fee schedule amount <sup>4</sup> |
+| **CRNA Share** | 50% | CRNA bills separately with modifier [[-QX]] for the remaining 50% <sup>4</sup> |
+| **Final [[-QY]] Rate** | **50%** | Of the total allowed anesthesia fee schedule amount <sup>4</sup> |
 | **Global Period** | Same as Primary | Anesthesia services are paid per unit/time; no global period in surgical sense <sup>2</sup> |
 
 **Assistant Surgeon Payable**: N/A (**Anesthesia Direction**)  
@@ -95,29 +95,29 @@ HCPCS Level II Modifiers
 - Monitoring of the CRNA's administration
 
 ### ❌ Excludes / Bundled Per NCCI
-- Personal performance of anesthesia (use [[AA]] if anesthesiologist does it all) <sup>3</sup>
+- Personal performance of anesthesia (use [[-AA]] if anesthesiologist does it all) <sup>3</sup>
 - Medical direction of 2-4 CRNAs (use [[-QK]]) <sup>3</sup>
-- Medical supervision of >4 concurrent procedures (use [[AD]]) <sup>3</sup>
+- Medical supervision of >4 concurrent procedures (use [[-AD]]) <sup>3</sup>
 - CRNA services without medical direction (CRNA uses [[-QZ]]) <sup>3</sup>
 - Services not meeting Tefra medical direction criteria (may be denied) <sup>6</sup>
 
 > [!IMPORTANT] Tefra Regulations Critical Note
-> Modifier [[-QY]] is governed by federal regulations (Tefra). If the anesthesiologist is concurrently directing more than one CRNA, [[QY]] is incorrect; [[QK]] must be used. If the anesthesiologist fails to meet the 7 steps of medical direction, payment may be denied <sup>6</sup>.
+> Modifier [[-QY]] is governed by federal regulations (Tefra). If the anesthesiologist is concurrently directing more than one CRNA, [[-QY]] is incorrect; [[-QK]]] must be used. If the anesthesiologist fails to meet the 7 steps of medical direction, payment may be denied <sup>6</sup>.
 
 ---
 
 ## 🏥 MS-DRG Assignment (Inpatient Facility)
 
-Modifier [[QY]] does not directly impact MS-DRG assignment, as DRGs are based on the primary surgical procedure and diagnoses. It affects physician reimbursement under Medicare Part B.
+Modifier [[-QY]] does not directly impact MS-DRG assignment, as DRGs are based on the primary surgical procedure and diagnoses. It affects physician reimbursement under Medicare Part B.
 
 | Scenario | Impact | Description |
 |----------|--------|-------------|
 | Anesthesia medically directed | Payment Split | Anesthesiologist paid 50%, CRNA paid 50% <sup>4</sup> |
-| Anesthesia personally performed | Full Payment | Anesthesiologist bills [[AA]] for 100% <sup>4</sup> |
+| Anesthesia personally performed | Full Payment | Anesthesiologist bills [[-AA]] for 100% <sup>4</sup> |
 | Inpatient Status | Part B Billing | Anesthesia services billed on CMS-1500/837P <sup>8</sup> |
 
 > [!Note] 
-> Facility reimbursement (**Part A**) is not affected by modifier [[QY]]; this modifier is for professional fee billing only <sup>8</sup>.
+> Facility reimbursement (**Part A**) is not affected by modifier [[-QY]]; this modifier is for professional fee billing only <sup>8</sup>.
 
 ---
 
@@ -134,7 +134,7 @@ Modifier [[QY]] does not directly impact MS-DRG assignment, as DRGs are based on
 | [[Z40.01]] | Encounter for prophylactic surgery for malignant neoplasm | ✅ HCC (History of Cancer) |
 | [[I10]] | Essential (primary) hypertension | ✅ HCC (Cardiovascular) |
 
-\* *HCC Status*: Hierarchical Condition Category mapping for Medicare Advantage risk adjustment. Diagnosis codes determine HCC status, not the modifier. Modifier [[QY]] has no impact on risk adjustment scores <sup>9</sup><sup>10</sup>.
+\* *HCC Status*: Hierarchical Condition Category mapping for Medicare Advantage risk adjustment. Diagnosis codes determine HCC status, not the modifier. Modifier [[-QY]] has no impact on risk adjustment scores <sup>9</sup><sup>10</sup>.
 
 ### Supporting/Comorbid Codes (Document When Applicable)
 - [[N18.30]] Chronic kidney disease, stage 3 unspecified (HCC applicable)
@@ -145,18 +145,18 @@ Modifier [[QY]] does not directly impact MS-DRG assignment, as DRGs are based on
 
 ## ✏️ Modifiers Guidance
 
-| Modifier | Use Case for [[QY]]                                 | Payable?                                                 |
+| Modifier | Use Case for [[-QY]]                                 | Payable?                                                 |
 | -------- | --------------------------------------------------- | -------------------------------------------------------- |
-| **[[-AA]]**   | **Anesthesia performed personally by anesthesiologist** | ❌ Do not use with [[QY]]                                 |
-| **[[-QK]]**   | **Medical direction of 2-4 CRNAs**                      | ❌ Do not use with [[QY]]                                 |
-| **[[-QX]]**   | **CRNA service with medical direction**                 | ✅ Used by CRNA when anesthesiologist bills [[QY]]        |
-| **[[-QZ]]**   | **CRNA service without medical direction**              | ❌ Mutually exclusive with [[QY]] relationship            |
-| **[[-AD]]**   | **Medical supervision >4 procedures**                   | ❌ Do not use with [[QY]]                                 |
+| **[[-AA]]**   | **Anesthesia performed personally by anesthesiologist** | ❌ Do not use with [[-QY]]                                 |
+| **[[-QK]]**   | **Medical direction of 2-4 CRNAs**                      | ❌ Do not use with [[-QY]]                                 |
+| **[[-QX]]**   | **CRNA service with medical direction**                 | ✅ Used by CRNA when anesthesiologist bills [[-QY]]        |
+| **[[-QZ]]**   | **CRNA service without medical direction**              | ❌ Mutually exclusive with [[-QY]] relationship            |
+| **[[-AD]]**   | **Medical supervision >4 procedures**                   | ❌ Do not use with [[-QY]]                                 |
 | **[[-47]]**   | **Anesthesia by Surgeon**                               | ❌ Mutually exclusive                                     |
-| **[[-23]]**   | **Unusual Anesthesia**                                  | ✅ Can be used with [[QY]] if unusual circumstances exist |
+| **[[-23]]**   | **Unusual Anesthesia**                                  | ✅ Can be used with [[-QY]] if unusual circumstances exist |
 
-> [!CAUTION] Modifier [[QY]] vs [[QK]]
-> Do not use modifier [[-QY]] if the anesthesiologist is directing more than one CRNA concurrently. Use [[-QK]] for 2-4 CRNAs. Using [[QY]] for multiple CRNAs may trigger audit or recoupment <sup>3</sup>.
+> [!CAUTION] Modifier [[-QY]] vs [[-QK]]]
+> Do not use modifier [[-QY]] if the anesthesiologist is directing more than one CRNA concurrently. Use [[-QK]] for 2-4 CRNAs. Using [[-QY]] for multiple CRNAs may trigger audit or recoupment <sup>3</sup>.
 
 ---
 
@@ -178,24 +178,24 @@ Modifier [[QY]] does not directly impact MS-DRG assignment, as DRGs are based on
 ### ⚠️ Example 3: Personal Performance
 > **Scenario**: Anesthesiologist performs all anesthesia services personally without CRNA. Bills [[-QY]].  
 > **Report**: [[00402]]-[[-QY]]  
-> **Rationale**: **Incorrect**. If personally performed, modifier [[AA]] should be used for 100% reimbursement <sup>3</sup>.
+> **Rationale**: **Incorrect**. If personally performed, modifier [[-AA]] should be used for 100% reimbursement <sup>3</sup>.
 
 ### ✅ Example 4: Unusual Anesthesia with Direction
 > **Scenario**: Patient has severe cardiac disease requiring unusual anesthesia techniques. Anesthesiologist directs one CRNA.  
 > **Report**:  
-> - Anesthesiologist: [[00402]]-[[QY]]-[[23]]  
-> - CRNA: [[00402]]-[[QX]]-[[23]]  
+> - Anesthesiologist: [[00402]]-[[-QY]]-[[-23]]  
+> - CRNA: [[00402]]-[[-QX]]-[[-23]]  
 > - Diagnosis: [[I10]], [[M17.11]]  
-> **Rationale**: Modifier [[23]] indicates unusual anesthesia; [[QY]] indicates direction relationship <sup>11</sup>.
+> **Rationale**: Modifier [[-23]] indicates unusual anesthesia; [[-QY]] indicates direction relationship <sup>11</sup>.
 
 ---
 
 ## 🔍 Documentation Essentials for Support
 
-To support modifier [[QY]] and mitigate audit risk, anesthesia documentation should include:
+To support modifier [[-QY]] and mitigate audit risk, anesthesia documentation should include:
 
 1. **Medical Direction Tasks**: Document the 7 steps of medical direction (pre-op, plan, critical portions, etc.) <sup>6</sup>.
-2. **Concurrency**: Clearly state how many CRNAs are being directed concurrently (must be one for [[QY]]).
+2. **Concurrency**: Clearly state how many CRNAs are being directed concurrently (must be one for [[-QY]]).
 3. **Presence**: Anesthesiologist must be physically present during critical portions.
 4. **Availability**: Anesthesiologist must be immediately available for emergencies.
 5. **Signatures**: Both anesthesiologist and CRNA must sign the anesthesia record.
@@ -210,25 +210,25 @@ To support modifier [[QY]] and mitigate audit risk, anesthesia documentation sho
 
 | Pitfall | Consequence | Prevention |
 |---------|-------------|------------|
-| Using [[QY]] for >1 CRNA | Claim denial or recoupment | Use [[QK]] for 2-4 CRNAs <sup>3</sup> |
+| Using [[-QY]] for >1 CRNA | Claim denial or recoupment | Use [[-QK]] for 2-4 CRNAs <sup>3</sup> |
 | Failing to meet Tefra criteria | Payment denial | Ensure all 7 medical direction steps are documented <sup>6</sup> |
-| Using [[QY]] for personal performance | Underpayment | Use [[AA]] if anesthesiologist performs all services <sup>3</sup> |
-| Missing CRNA modifier [[QX]] | Claim mismatch | CRNA should bill [[QX]] when anesthesiologist bills [[QY]] <sup>11</sup> |
+| Using [[-QY]] for personal performance | Underpayment | Use [[-AA]] if anesthesiologist performs all services <sup>3</sup> |
+| Missing CRNA modifier [[-QX]] | Claim mismatch | CRNA should bill [[-QX]] when anesthesiologist bills [[-QY]] <sup>11</sup> |
 | Inadequate time documentation | Payment reduction | Document exact anesthesia time units <sup>11</sup> |
 
 ---
 
 ## 🔗 Related Codes & Crosswalks
 
-| Code Type | Code | Relationship to [[QY]] |
+| Code Type | Code | Relationship to [[-QY]] |
 |-----------|------|---------------------------|
-| HCPCS Modifier | [[AA]] | Anesthesia services performed personally by anesthesiologist |
-| HCPCS Modifier | [[QK]] | Medical direction of two, three, or four CRNAs |
-| HCPCS Modifier | [[QX]] | CRNA service with medical direction by a physician |
-| HCPCS Modifier | [[QZ]] | CRNA service without medical direction by a physician |
-| HCPCS Modifier | [[AD]] | Medical supervision by a physician; more than four concurrent anesthesia procedures |
+| HCPCS Modifier | [[-AA]] | Anesthesia services performed personally by anesthesiologist |
+| HCPCS Modifier | [[-QK]] | Medical direction of two, three, or four CRNAs |
+| HCPCS Modifier | [[-QX]] | CRNA service with medical direction by a physician |
+| HCPCS Modifier | [[-QZ]] | CRNA service without medical direction by a physician |
+| HCPCS Modifier | [[-AD]] | Medical supervision by a physician; more than four concurrent anesthesia procedures |
 | CPT® | [[00100]]-[[01999]] | Anesthesia Procedure Codes |
-| CMS Form | CMS-1500 | Professional claim form where [[QY]] is reported |
+| CMS Form | CMS-1500 | Professional claim form where [[-QY]] is reported |
 
 ---
 

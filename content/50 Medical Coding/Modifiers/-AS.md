@@ -112,7 +112,7 @@ HCPCS Level II Modifiers
 
 ## 🏥 MS-DRG Assignment (Inpatient Facility)
 
-Modifier [[AS]] does not directly impact MS-DRG assignment, as DRGs are based on the primary procedure and diagnoses. However, it affects physician reimbursement under Medicare Part B.
+Modifier [[-AS]] does not directly impact MS-DRG assignment, as DRGs are based on the primary procedure and diagnoses. However, it affects physician reimbursement under Medicare Part B.
 
 | Scenario                            | Impact          | Description                                                                 |
 | ----------------------------------- | --------------- | --------------------------------------------------------------------------- |
@@ -149,7 +149,7 @@ Modifier [[AS]] does not directly impact MS-DRG assignment, as DRGs are based on
 
 ## ✏️ Modifiers Guidance
 
-| Modifier            | Use Case for [[AS]]                                           | Payable?                                                         |
+| Modifier            | Use Case for [[-AS]]                                           | Payable?                                                         |
 | ------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------- |
 | **[[-80]]**          | **Assistant Surgeon (Physician/MD/DO)**                       | ❌ Do not use for NPPs                                            |
 | **[[-81]]**          | **Minimum Assistant Surgeon (Physician)**                     | ❌ Do not use for NPPs                                            |

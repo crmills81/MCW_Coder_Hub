@@ -151,13 +151,13 @@ _____
 >
 > - **Eyelid modifiers E1-E4 are REQUIRED** for entropion repair codes — payers will reject without them
 >
-> - **E1** = upper left eyelid | **E2** = lower left eyelid | **E3** = upper right eyelid | **E4** = lower right eyelid
+> - **[[-E1]]** = upper left eyelid | **[[-E2]]** = lower left eyelid | **[[-E3]]** = upper right eyelid | **[[-E4]]** = lower right eyelid
 >
 > - Entropion repair codes ([[67921]]-[[67924]]) are **not** eyelid-specific in their CPT descriptor — the E modifier is what specifies which lid was repaired
 >
-> - **Do NOT use [[LT]]/[[RT]] modifiers** for entropion repair codes — use **E1-E4** instead; [[LT]]/[[RT]] are for blepharoplasty codes
+> - **Do NOT use [[-LT]]/[[-RT]] modifiers** for entropion repair codes — use **E1-E4** instead; [[-LT]]/[[-RT]] are for blepharoplasty codes
 >
-> - **Bilateral entropion**: Some Medicare carriers require the code billed **twice** with appropriate E modifiers rather than a single line with modifier [[50]]; verify payer policy
+> - **Bilateral entropion**: Some Medicare carriers require the code billed **twice** with appropriate E modifiers rather than a single line with modifier [[-50]]; verify payer policy
 >
 > - **Congenital entropion** is **excluded** from H02.0- codes (Excludes1 note); use [[Q10.2]] instead — this is a hard Excludes1, not a sequencing issue
 >
@@ -207,19 +207,19 @@ _____
 >
 > | Modifier | Eyelid |
 > |---|---|
-> | **[[E1]]** | Upper left eyelid |
-> | **[[E2]]** | Lower left eyelid |
-> | **[[E3]]** | Upper right eyelid |
-> | **[[E4]]** | Lower right eyelid |
+> | **[[-E1]]** | Upper left eyelid |
+> | **[[-E2]]** | Lower left eyelid |
+> | **[[-E3]]** | Upper right eyelid |
+> | **[[-E4]]** | Lower right eyelid |
 >
 > ## **Other Common Modifiers**
 >
 > | Modifier | Use |
 > |---|---|
-> | **[[50]]** | Bilateral procedure — bilateral entropion same session (check payer; may need two lines with E modifiers instead) |
-> | **[[22]]** | Increased procedural services — complex repair beyond typical entropion work |
-> | **[[51]]** | Multiple procedures — when entropion repair is performed alongside another ocular procedure |
-> | **[[79]]** | Unrelated procedure or service by same physician during postoperative period |
+> | **[[-50]]** | Bilateral procedure — bilateral entropion same session (check payer; may need two lines with E modifiers instead) |
+> | **[[-22]]** | Increased procedural services — complex repair beyond typical entropion work |
+> | **[[-51]]** | Multiple procedures — when entropion repair is performed alongside another ocular procedure |
+> | **[[-79]]** | Unrelated procedure or service by same physician during postoperative period |
 
 _____
 >[!tip]- DERIVATIONS of [[entropion]]

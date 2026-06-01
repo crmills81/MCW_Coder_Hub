@@ -206,7 +206,7 @@ _____
 >
 > - **Concurrent [[iritis]] or [[endophthalmitis]]**: Must be coded additionally — they are not bundled into H16.0- and directly affect clinical management and medical necessity
 >
-> - **Global period**: Keratoplasty CPT codes carry a **90-day global period** — post-op visits within that period are included; do NOT separately bill E/M visits without modifier [[24]] (unrelated E/M) or [[-79]] (unrelated procedure) during the global period
+> - **Global period**: Keratoplasty CPT codes carry a **90-day global period** — post-op visits within that period are included; do NOT separately bill E/M visits without modifier [[-24]] (unrelated E/M) or [[-79]] (unrelated procedure) during the global period
 >
 > ## **ICD-10-CM Diagnosis Codes**
 >
