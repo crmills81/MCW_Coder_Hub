@@ -158,8 +158,8 @@ _____
 > |---|---|
 > |**[[92004]]**|Ophthalmological services, new patient; comprehensive, one or more visits, with initiation of diagnostic and treatment program|
 > |**[[92014]]**|Ophthalmological services, established patient; comprehensive, one or more visits|
-> |**[[92225]]**|Ophthalmoscopy, extended with retinal drawing; initial|
-> |**[[92226]]**|Ophthalmoscopy, extended with retinal drawing; subsequent|
+
+
 > |**[[92134]]**|Scanning computerized ophthalmic diagnostic imaging, posterior segment (OCT); retina|
 > |**[[92235]]**|Fluorescein angiography (includes multiframe imaging) with interpretation and report, unilateral or bilateral|
 > |**[[92240]]**|Indocyanine-green angiography (ICG), with interpretation and report, unilateral or bilateral|

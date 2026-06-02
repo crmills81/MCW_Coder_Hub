@@ -69,7 +69,7 @@ Spasticity and muscle spasm arise most commonly in the inpatient PMR setting fol
 - **Nontraumatic brain injury (nTBI)** — anoxic, hypoxic, toxic, or metabolic etiologies
 - **Spinal cord injury (SCI)** — traumatic or nontraumatic
 - **Multiple sclerosis ([[G35]])** and other demyelinating diseases
-- **Cerebral palsy ([[G80.0]]–[[G80.9]])** — occasionally seen in adult PMR admissions
+- **Cerebral palsy ([[G80.0]]-[[G80.9]])** — occasionally seen in adult PMR admissions
 
 > [!tip] Why This Matters for Inpatient Abstraction
 > Many of these codes carry **CC or MCC** status. Spasticity type (**flaccid vs. spastic**), side, and dominance are all required for the most specific billable code. Vague documentation like "**[[paralysis]]**" or "**weakness**" without qualifiers leaves **DRG weight** on the table.
@@ -87,7 +87,7 @@ Spasticity and muscle spasm arise most commonly in the inpatient PMR setting fol
 | **[[Spasticity]]**   | Velocity-dependent increase in muscle tone (UMN sign)                     | Loss of descending inhibition from UMN lesion      | Captured via G81.1x qualifier; no standalone code              |
 | **Flaccidity**       | Loss of muscle tone; reduced or absent reflexes                           | LMN lesion or acute UMN disruption (spinal shock)  | Captured via G81.0x qualifier                                  |
 | **Rigidity**         | Constant resistance to passive movement (lead-pipe or cogwheel)           | Basal ganglia dysfunction (e.g., Parkinson's)      | [[G20]], G21.x — not a PMR spasticity code                     |
-| **[[Contracture]]**  | Fixed shortening of muscle/tendon due to chronic spasticity or immobility | Downstream sequela of unresolved spasticity        | [[M62.40]]–[[M62.48]]                                          |
+| **[[Contracture]]**  | Fixed shortening of muscle/tendon due to chronic spasticity or immobility | Downstream sequela of unresolved spasticity        | [[M62.40]]-[[M62.48]]                                          |
 | **Clonus**           | Rhythmic oscillating contractions in response to sustained stretch        | UMN lesion; associated with spasticity             | Documented but coded through underlying dx; no standalone code |
 
 > [!warning] No Standalone "Spasticity" Code in ICD-10-CM
@@ -107,9 +107,9 @@ Spasticity and muscle spasm arise most commonly in the inpatient PMR setting fol
 
 | Lesion Level                                     | Paralysis Type                               | Muscle Tone                             | Reflexes                                                                 | Clinical Signs                        | Code Pattern                               |
 | ------------------------------------------------ | -------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------- | ------------------------------------------ |
-| **UMN** (cortex, brainstem, corticospinal tract) | Spastic                                      | Increased (**[[hypertonia]]**)          | **[[Hyperreflexia]]**, clonus, Babinski+                                 | Scissor gait, fisted hand             | **[[G81.10]]–[[G81.14]] or I69.x5x**           |
-| **LMN** (anterior horn, peripheral nerve)        | Flaccid                                      | Decreased or absent (**[[hypotonia]]**) | **[[Hyporeflexia]]**, **[[areflexia]]**, **[[atrophy]]**, fasciculations | Foot drop, wasted limb                | **[[G81.00]]–[[G81.04]]**                      |
-| **Acute SCI** (spinal shock phase)               | Initially flaccid even with UMN-level lesion | Decreased                               | Areflexia                                                                | Evolves to spastic over days to weeks | **[[G81.00]]–[[G81.04]] initially → reassess** |
+| **UMN** (cortex, brainstem, corticospinal tract) | Spastic                                      | Increased (**[[hypertonia]]**)          | **[[Hyperreflexia]]**, clonus, Babinski+                                 | Scissor gait, fisted hand             | **[[G81.10]]-[[G81.14]] or I69.x5x**           |
+| **LMN** (anterior horn, peripheral nerve)        | Flaccid                                      | Decreased or absent (**[[hypotonia]]**) | **[[Hyporeflexia]]**, **[[areflexia]]**, **[[atrophy]]**, fasciculations | Foot drop, wasted limb                | **[[G81.00]]-[[G81.04]]**                      |
+| **Acute SCI** (spinal shock phase)               | Initially flaccid even with UMN-level lesion | Decreased                               | Areflexia                                                                | Evolves to spastic over days to weeks | **[[G81.00]]-[[G81.04]] initially → reassess** |
 
 > [!example] Why This Matters for Coding
 > **Stroke** and **TBI** produce **UMN lesions → spastic paralysis**. If a physician documents only "**hemiplegia**" post-**[[stroke]]** without specifying type, a CDI query is warranted. Spastic (G81.1x) and flaccid (G81.0x) codes are both CC — but accurate specificity is required for clinical integrity and quality metrics.
@@ -125,7 +125,7 @@ Spasticity and muscle spasm arise most commonly in the inpatient PMR setting fol
 > **[[Hemiplegia]]** = complete [[paralysis]] of one side of the body (arm + leg, same side). **[[Hemiparesis]]** = weakness (partial loss) of one side. Both are captured under G81.
 
 > [!caution] Excludes1 — Critical Before Using G81
-> G81 has an **Excludes1** for **hemiplegia** and **hemiparesis** due to sequela of **cerebrovascular disease** (**I69.0–, I69.1–, I69.2–, I69.3–, I69.8–, I69.9–**). before assigning any G81 code.
+> G81 has an **Excludes1** for **hemiplegia** and **hemiparesis** due to sequela of **cerebrovascular disease** (**I69.0-, I69.1-, I69.2-, I69.3-, I69.8-, I69.9-**). before assigning any G81 code.
 
 ### G81 Code Table
 
@@ -185,14 +185,14 @@ Spasticity and muscle spasm arise most commonly in the inpatient PMR setting fol
 | **[[G82.21]]** | Paraplegia, complete           | CC     |
 | **[[G82.22]]** | Paraplegia, incomplete         | CC     |
 | **[[G82.50]]** | Quadriplegia, unspecified      | MCC    |
-| **[[G82.51]]** | Quadriplegia, C1–C4 complete   | MCC    |
-| **[[G82.52]]** | Quadriplegia, C1–C4 incomplete | MCC    |
-| **[[G82.53]]** | Quadriplegia, C5–C7 complete   | MCC    |
-| **[[G82.54]]** | Quadriplegia, C5–C7 incomplete | MCC    |
+| **[[G82.51]]** | Quadriplegia, C1-C4 complete   | MCC    |
+| **[[G82.52]]** | Quadriplegia, C1-C4 incomplete | MCC    |
+| **[[G82.53]]** | Quadriplegia, C5-C7 complete   | MCC    |
+| **[[G82.54]]** | Quadriplegia, C5-C7 incomplete | MCC    |
 
 > [!important] Complete vs. Incomplete
 > - **Complete (ASIA A):** No motor or sensory function preserved below the level of injury
-> - **Incomplete (ASIA B–D):** Some preservation of function below the lesion
+> - **Incomplete (ASIA B-D):** Some preservation of function below the lesion
 >
 > This distinction is clinically essential and affects both **DRG** assignment and rehabilitation prognosis documentation. Query if not documented.
 
@@ -200,7 +200,7 @@ Spasticity and muscle spasm arise most commonly in the inpatient PMR setting fol
 > Unlike G81, the G82 category does not have a **flaccid** vs. **spastic** sub-qualifier. **[[Spasticity]]** in a patient with SCI-related **[[paraplegia]]** or **[[quadriplegia]]** is additionally captured with **[[R25.2]]** when separately documented. Query the physician when tone type has a significant impact on the rehabilitation plan.
 
 > [!tip] Quadriplegia = MCC
-> All G82.5x codes carry **MCC** status — one of the highest-impact diagnoses in **PMR** inpatient. Ensure the level of injury (C1–C4 vs. C5–C7) and completeness are documented and queried if absent.
+> All G82.5x codes carry **MCC** status — one of the highest-impact diagnoses in **PMR** inpatient. Ensure the level of injury (C1-C4 vs. C5-C7) and completeness are documented and queried if absent.
 
 ---
 
@@ -380,7 +380,7 @@ ADD: [additional PMR diagnoses as applicable]
 ## Excludes Notes & G81 vs. I69 Decision Tree
 
 > [!caution] G81 Excludes1 — Cannot Use G81.x with I69.x
-> **G81 has a formal Excludes1** for **hemiplegia** and **hemiparesis** due to sequela of cerebrovascular disease (**I69.0–, I69.1–, I69.2–, I69.3–, I69.8–, I69.9–**). An **Excludes1** means the conditions cannot coexist in the same coding encounter — you must choose one.
+> **G81 has a formal Excludes1** for **hemiplegia** and **hemiparesis** due to sequela of cerebrovascular disease (**I69.0-, I69.1-, I69.2-, I69.3-, I69.8-, I69.9-**). An **Excludes1** means the conditions cannot coexist in the same coding encounter — you must choose one.
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -449,22 +449,22 @@ ADD: [additional PMR diagnoses as applicable]
 
 | Code                  | Description                               | CC/MCC |
 | --------------------- | ----------------------------------------- | ------ |
-| **[[G81.01]]–[[G81.04]]** | Flaccid hemiplegia (specific sides)       | CC     |
-| **[[G81.11]]–[[G81.14]]** | Spastic hemiplegia (specific sides)       | CC     |
-| **[[G81.91]]–[[G81.94]]** | Hemiplegia, unspecified (specific sides)  | CC     |
-| **[[G82.20]]–[[G82.22]]** | Paraplegia (all subcodes)                 | CC     |
+| **[[G81.01]]-[[G81.04]]** | Flaccid hemiplegia (specific sides)       | CC     |
+| **[[G81.11]]-[[G81.14]]** | Spastic hemiplegia (specific sides)       | CC     |
+| **[[G81.91]]-[[G81.94]]** | Hemiplegia, unspecified (specific sides)  | CC     |
+| **[[G82.20]]-[[G82.22]]** | Paraplegia (all subcodes)                 | CC     |
 | **[[G82.50]]**            | Quadriplegia, unspecified                 | MCC    |
-| **[[G82.51]]–[[G82.54]]** | Quadriplegia (C1–C4 and C5–C7, specified) | MCC    |
+| **[[G82.51]]-[[G82.54]]** | Quadriplegia (C1-C4 and C5-C7, specified) | MCC    |
 | **[[G93.1]]**             | Anoxic brain damage, NEC                  | MCC    |
 | **[[G92.9]]**             | Toxic encephalopathy, unspecified         | MCC    |
 | **[[G93.40]]**            | Encephalopathy, unspecified               | CC     |
 | **[[G93.41]]**            | Metabolic encephalopathy                  | CC     |
-| **[[M62.41]]–[[M62.48]]** | Contracture of muscle (site-specific)     | CC     |
+| **[[M62.41]]-[[M62.48]]** | Contracture of muscle (site-specific)     | CC     |
 | **[[R25.2]]**             | Cramp and spasm                           | Non-CC |
 
 > [!tip] DRG Impact Summary
 > - **Quadriplegia (G82.5x)** as MCC significantly elevates DRG weight in almost any base MS-DRG pairing
-> - **Spastic/flaccid hemiplegia (G81.x1–x4)** as CC can shift a no-CC DRG to the CC tier
+> - **Spastic/flaccid hemiplegia (G81.x1-x4)** as CC can shift a no-CC DRG to the CC tier
 > - **Contractures (M62.4x)** as CC add weight when the principal diagnosis is neurological or rehabilitation-focused
 > - **R25.2** contributes clinical documentation completeness but does not independently shift DRG tiers
 
@@ -482,7 +482,7 @@ ADD: [additional PMR diagnoses as applicable]
 | **Stroke + hemiplegia, but stroke type not linked to hemiplegia** | Confirm relationship; specify stroke type                               | Determines I69.0x5x vs. I69.1x5x vs. I69.3x5x        |
 | **PT/OT notes describe contractures not documented by physician** | Are these separately addressable contractures?                          | M62.4x as CC                                         |
 | **SCI with "paralysis" — complete vs. incomplete not stated**     | ASIA classification? Complete or incomplete?                            | G82.21 vs. G82.22; affects CDI and prognosis metrics |
-| **Quadriplegia documented but level (C1–C4 vs. C5–C7) absent**    | What is the spinal level of injury?                                     | G82.50 → G82.51–G82.54 (all MCC)                     |
+| **Quadriplegia documented but level (C1-C4 vs. C5-C7) absent**    | What is the spinal level of injury?                                     | G82.50 → G82.51-G82.54 (all MCC)                     |
 | **"Spasticity" documented without hemiplegia/paralysis pattern**  | What is the pattern and distribution?                                   | Clarify mono/hemi/para/quad; add G81.x or context    |
 | **"Brain injury" without trauma/nontrauma distinction**           | Is there a documented mechanism? Was this traumatic?                    | S06.xxxS vs. G93.1/G92.x — MCC implications          |
 | **Spasms documented in SCI patient post-acute phase**             | Is spasticity now present, requiring clinical management?               | R25.2 — adds documentation completeness              |
@@ -519,7 +519,7 @@ ADD: [additional PMR diagnoses as applicable]
 | **Additional** | **[[R25.2]]**  | Cramp and spasm              | Separately documented spasticity burden; G82 has no spastic qualifier |
 
 > [!tip] 
-> Query here for cervical level and completeness: **[[G82.51]]–[[G82.54]]** are all **MCC** and would require one additional documented element.
+> Query here for cervical level and completeness: **[[G82.51]]-[[G82.54]]** are all **MCC** and would require one additional documented element.
 
 ---
 
@@ -553,11 +553,11 @@ ADD: [additional PMR diagnoses as applicable]
 
 ### Scenario 5 — Acute SCI with Evolving Tone (Spinal Shock → Spasticity)
 
-**Clinical Situation:** 30-year-old male, T6 level complete SCI. Day 1–6: flaccid paraplegia (spinal shock). By day 12: spasticity developing bilaterally in lower extremities, documented by physiatrist.
+**Clinical Situation:** 30-year-old male, T6 level complete SCI. Day 1-6: flaccid paraplegia (spinal shock). By day 12: spasticity developing bilaterally in lower extremities, documented by physiatrist.
 
 | Phase                           | PDX                                               | Additional                            | Rationale                                             |
 | ------------------------------- | ------------------------------------------------- | ------------------------------------- | ----------------------------------------------------- |
-| Days 1–10 (spinal shock)        | **S24.111A (T6 complete SCI, initial encounter)** | **[[G82.21]] (paraplegia, complete)** | Flaccid phase — G82 has no tone qualifier             |
+| Days 1-10 (spinal shock)        | **S24.111A (T6 complete SCI, initial encounter)** | **[[G82.21]] (paraplegia, complete)** | Flaccid phase — G82 has no tone qualifier             |
 | Day 12+ (spasticity documented) | **[[S24.111A]]**                                  | **[[G82.21]], [[R25.2]]**             | Add **[[R25.2]]** once physician documents spasticity |
 
 > [!warning] 
@@ -587,9 +587,9 @@ ADD: [additional PMR diagnoses as applicable]
 
 | CPT           | Description                                    | Notes                       |
 | ------------- | ---------------------------------------------- | --------------------------- |
-| **[[64644]]** | Chemodenervation of one extremity, 1–4 muscles | Botulinum toxin injection   |
+| **[[64644]]** | Chemodenervation of one extremity, 1-4 muscles | Botulinum toxin injection   |
 | **[[64645]]** | Chemodenervation of one extremity, 5+ muscles  | Higher-dose/more complex    |
-| **[[64646]]** | Chemodenervation of trunk muscles, 1–5 muscles | Axial spasticity management |
+| **[[64646]]** | Chemodenervation of trunk muscles, 1-5 muscles | Axial spasticity management |
 | **[[64647]]** | Chemodenervation of trunk muscles, 6+ muscles  | —                           |
 | **[[96002]]** | Dynamic surface EMG                            | Spasticity assessment tool  |
 | **[[97110]]** | Therapeutic exercises                          | Standard PMR rehab          |

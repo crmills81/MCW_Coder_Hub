@@ -57,11 +57,11 @@ _____
 > - **Focal myelitis]]** _(localized inflammation confined to one segment, e.g., cervical myelitis)_
 > - **Disseminated myelitis]]** _(multifocal cord inflammation, may mimic [[multiple sclerosis]]; coded under [[G04.89]])_
 > - **Necrotizing myelitis** _(severe form with tissue necrosis; seen in paraneoplastic syndromes or [[NMOSD]]; often requires immunotherapy)_
-> - **Postinfectious myelitis]]** _(immune‑mediated onset 1–4 weeks after viral/bacterial infection; coded [[G04.82]] or [[G04.89]])_
+> - **Postinfectious myelitis]]** _(immune‑mediated onset 1-4 weeks after viral/bacterial infection; coded [[G04.82]] or [[G04.89]])_
 > - **Parainfectious myelitis** _(clinically synonymous with postinfectious; same coding)_
 > - **Idiopathic myelitis** _(no cause identified after full workup; coded [[G04.91]] if unspecified, or [[G04.82]] for other myelitis)_
 > - **[[Transverse myelitis]]** _(complete horizontal cord involvement with bilateral signs and a sensory level; classic acute/subacute presentation; demyelinating form = [[G37.3]], other/idiopathic = [[G04.89]])_
-> - **Longitudinally extensive transverse myelitis (LETM)** _(inflammation spanning ≥3 vertebral segments on MRI; strongly associated with **AQP4‑IgG+ NMOSD**; coded [[G36.0]] – neuromyelitis optica)_
+> - **Longitudinally extensive transverse myelitis (LETM)** _(inflammation spanning ≥3 vertebral segments on MRI; strongly associated with **AQP4‑IgG+ NMOSD**; coded [[G36.0]] - neuromyelitis optica)_
 
 _____
 
@@ -88,58 +88,58 @@ _____
 > 
 > ### 🏥 ICD-10-CM CODES
 > 
-> #### Myelitis (G04.9 – G04.8 Family – Site and Etiology Required When Known)
+> #### Myelitis (G04.9 - G04.8 Family - Site and Etiology Required When Known)
 > 
 > |Code|Description|
 > |---|---|
 > |**[[G04.91]]**|Myelitis, unspecified (use only when workup incomplete; avoid for inpatient profee if MRI or CSF results exist)|
 > |**[[G04.82]]**|Other myelitis (specified non‑infectious, postinfectious, idiopathic with sufficient documentation)|
 > |**[[G04.89]]**|Other specified encephalitis, myelitis and encephalomyelitis (includes focal myelitis, disseminated myelitis, chronic myelitis)|
-> |**[[G04.00]]**|Acute disseminated encephalomyelitis (ADEM) – includes encephalomyelitis with spinal cord involvement|
+> |**[[G04.00]]**|Acute disseminated encephalomyelitis (ADEM) - includes encephalomyelitis with spinal cord involvement|
 > |**[[G04.01]]**|Postinfectious acute disseminated encephalomyelitis (postinfectious ADEM)|
 > |**[[G37.3]]**|Acute transverse myelitis in demyelinating disease of central nervous system (use for MS‑associated or isolated demyelinating transverse myelitis)|
-> |**[[G36.0]]**|Neuromyelitis optica (Devic’s disease) – includes longitudinally extensive transverse myelitis as core feature|
+> |**[[G36.0]]**|Neuromyelitis optica (Devic’s disease) - includes longitudinally extensive transverse myelitis as core feature|
 > |**[[A80.9]]**|Acute poliomyelitis, unspecified (viral anterior horn cell myelitis; reportable disease)|
-> |**[[B02.23]]**|Zoster myelitis (herpes zoster with myelitis) – use as principal diagnosis if myelitis is the primary manifestation|
+> |**[[B02.23]]**|Zoster myelitis (herpes zoster with myelitis) - use as principal diagnosis if myelitis is the primary manifestation|
 > |**[[G13.0]]**|Paraneoplastic neuromyopathy and neuropathy (includes paraneoplastic myelitis; code neoplasm first)|
 > 
-> #### Infectious Myelitis (Specific Organism Codes) – Use Additional Code for Causative Agent
+> #### Infectious Myelitis (Specific Organism Codes) - Use Additional Code for Causative Agent
 > 
 > |Code|Description|
 > |---|---|
 > |**[[G04.81]]**|Other encephalitis and encephalomyelitis (used for infectious myelitis when organism specified, e.g., syphilitic, Lyme)|
-> |**[[A52.11]]**|Syphilitic myelitis (tabes dorsalis with cord involvement) – confirm with CSF VDRL|
-> |**[[A69.22]]**|Lyme disease myelitis (neuroborreliosis with myelitis) – use additional code for late neurological manifestations|
-> |**[[B58.01]]**|Toxoplasma myelitis (common in immunocompromised, e.g., HIV) – code HIV status first if applicable|
+> |**[[A52.11]]**|Syphilitic myelitis (tabes dorsalis with cord involvement) - confirm with CSF VDRL|
+> |**[[A69.22]]**|Lyme disease myelitis (neuroborreliosis with myelitis) - use additional code for late neurological manifestations|
+> |**[[B58.01]]**|Toxoplasma myelitis (common in immunocompromised, e.g., HIV) - code HIV status first if applicable|
 > |**[[B37.4]]**|Candidal myelitis (rare, usually in disseminated candidiasis)|
 > 
-> #### Acute Flaccid Myelitis (AFM) – Specific Enterovirus‑Associated Subtype
+> #### Acute Flaccid Myelitis (AFM) - Specific Enterovirus‑Associated Subtype
 > 
 > |Code|Description|
 > |---|---|
 > |**[[G04.82]]**|Other myelitis (use with additional code [[B97.19]] for other enterovirus as cause)|
-> |**[[B97.11]]**|Enterovirus D68 as the cause of diseases classified elsewhere – report together with G04.82|
+> |**[[B97.11]]**|Enterovirus D68 as the cause of diseases classified elsewhere - report together with G04.82|
 > 
-> #### Myelitis in Systemic Autoimmune Disease – Code Underlying Disease First
+> #### Myelitis in Systemic Autoimmune Disease - Code Underlying Disease First
 > 
 > |Code|Description|
 > |---|---|
-> |**[[M32.19]]**|Systemic lupus erythematosus with other organ or system involvement (including myelitis) – code SLE first, then [[G04.82]]|
+> |**[[M32.19]]**|Systemic lupus erythematosus with other organ or system involvement (including myelitis) - code SLE first, then [[G04.82]]|
 > |**[[M35.02]]**|Sjögren’s syndrome with myelitis|
 > |**[[D86.89]]**|Sarcoidosis with other specified manifestations (neurosarcoidosis with myelitis)|
 > |**[[M30.3]]**|Kawasaki disease with neurologic involvement (rare myelitis)|
 > 
-> #### Skin / Integumentary Form – Not applicable; myelitis is not a cutaneous condition
+> #### Skin / Integumentary Form - Not applicable; myelitis is not a cutaneous condition
 > 
 > |Code|Description|
 > |---|---|
 > |—|No direct skin codes for myelitis; secondary pressure ulcers from paralysis use L89.- series with site specifiers|
 > 
-> #### Genitourinary / Autonomic Complications – Myelitis‑Associated Neurogenic Bladder
+> #### Genitourinary / Autonomic Complications - Myelitis‑Associated Neurogenic Bladder
 > 
 > |Code|Description|
 > |---|---|
-> |**[[N31.9]]**|Neuromuscular dysfunction of bladder, unspecified (due to myelitis) – code [[G04.82]] as principal if bladder dysfunction is the presenting symptom|
+> |**[[N31.9]]**|Neuromuscular dysfunction of bladder, unspecified (due to myelitis) - code [[G04.82]] as principal if bladder dysfunction is the presenting symptom|
 > |**[[N31.0]]**|Uninhibited neuropathic bladder, not elsewhere classified|
 > |**[[N31.1]]**|Reflex neuropathic bladder|
 > |**[[N31.2]]**|Flaccid neuropathic bladder|
@@ -150,26 +150,26 @@ _____
 > 
 > |CPT Code|Description|
 > |---|---|
-> |**[[72141]]**|Magnetic resonance imaging (MRI) of spinal canal, without contrast material – cervical (initial screening for myelitis)|
-> |**[[72142]]**|MRI of spinal canal, without contrast followed by contrast – cervical (evaluate blood‑brain barrier disruption)|
-> |**[[72146]]**|MRI of spinal canal, without contrast – thoracic (common for transverse myelitis)|
-> |**[[72147]]**|MRI of spinal canal, without contrast followed by contrast – thoracic|
-> |**[[72148]]**|MRI of spinal canal, without contrast – lumbar (less common in myelitis unless conus involvement)|
-> |**[[72149]]**|MRI of spinal canal, without contrast followed by contrast – lumbar|
+> |**[[72141]]**|Magnetic resonance imaging (MRI) of spinal canal, without contrast material - cervical (initial screening for myelitis)|
+> |**[[72142]]**|MRI of spinal canal, without contrast followed by contrast - cervical (evaluate blood‑brain barrier disruption)|
+> |**[[72146]]**|MRI of spinal canal, without contrast - thoracic (common for transverse myelitis)|
+> |**[[72147]]**|MRI of spinal canal, without contrast followed by contrast - thoracic|
+> |**[[72148]]**|MRI of spinal canal, without contrast - lumbar (less common in myelitis unless conus involvement)|
+> |**[[72149]]**|MRI of spinal canal, without contrast followed by contrast - lumbar|
 > |**[[62270]]**|Spinal puncture, lumbar, diagnostic (CSF analysis for oligoclonal bands, IgG index, AQP4 antibodies, infection studies)|
-> |**[[95907]]**|Nerve conduction studies, 1–2 studies (to assess for peripheral nerve overlap, rule out Guillain‑Barré)|
+> |**[[95907]]**|Nerve conduction studies, 1-2 studies (to assess for peripheral nerve overlap, rule out Guillain‑Barré)|
 > |**[[95869]]**|Needle electromyography (EMG) of thoracic paraspinal muscles (detects denervation from anterior horn cell involvement)|
-> |**[[95870]]**|Needle EMG of 1–2 muscles of lower extremity (evaluate extent of motor unit loss)|
-> |**[[95938]]**|Somatosensory evoked potentials (SSEPs) – lower extremities (assess dorsal column function in myelitis)|
-> |**[[95939]]**|SSEPs – upper and lower limbs, combined|
-> |**[[97110]]**|Therapeutic procedure, 15 min – therapeutic exercise to develop strength and endurance (post‑myelitis rehabilitation)|
-> |**[[97535]]**|Self‑care/home management training, 15 min – for neurogenic bowel/bladder management|
-> |**[[97530]]**|Therapeutic activities, direct patient contact, 15 min – balance and gait retraining|
+> |**[[95870]]**|Needle EMG of 1-2 muscles of lower extremity (evaluate extent of motor unit loss)|
+> |**[[95938]]**|Somatosensory evoked potentials (SSEPs) - lower extremities (assess dorsal column function in myelitis)|
+> |**[[95939]]**|SSEPs - upper and lower limbs, combined|
+> |**[[97110]]**|Therapeutic procedure, 15 min - therapeutic exercise to develop strength and endurance (post‑myelitis rehabilitation)|
+> |**[[97535]]**|Self‑care/home management training, 15 min - for neurogenic bowel/bladder management|
+> |**[[97530]]**|Therapeutic activities, direct patient contact, 15 min - balance and gait retraining|
 > 
 > ---
 > 
 > > ⚠️ **Coding Note:** 
-> > For inpatient profee coding, **site specificity** is critical: specify the cord level (**cervical, thoracic, lumbar, or conus**) in the documentation. The **ICD‑10‑CM codes** for **myelitis** (**[[G04.82]], [[G04.89]], [[G37.3]]**) do **not** have laterality or site sub‑classifications, but accurate localization affects medical necessity for MRI (**CPT [[72141]] vs [[72146]]**). **Sequencing logic:** If the **myelitis** is due to a known underlying condition (**e.g., systemic lupus, NMOSD, sarcoidosis, herpes zoster**), code the underlying disease **first** as principal diagnosis, then **[[G04.82]]** or the specific **myelitis** code as secondary. **Exception**: **acute flaccid myeliti**s due to **enterovirus** – code **[[G04.82]]** principal, then **[[B97.11]]** for the organism. **Undercoding alert:** Many inpatient claims miss the specific code **[[G04.82]]** for “**other myelitis**” and default to **[[G04.91]]** (**unspecified**). Documentation phrases like **“idiopathic transverse myelitis,” “postinfectious myelitis,” “longitudinally extensive myelitis”** should trigger a query for specificity and avoid unspecified code. **Payer considerations:** For **[[neuromyelitis]]** optica‑associated **myelitis**, prior authorization for **eculizumab** or **rituximab** often requires the specific code **[[G36.0]]** and demonstration of AQP4‑IgG positivity. **Type/subtype specificity:** Acute **[[transverse myelitis]]** due to multiple sclerosis requires **[[G37.3]]**; if MS is not yet diagnosed but suspected, code **[[G04.82]]** and add **[[G35.A]]** only after McDonald criteria are met. For genetic testing (e**.g., to rule out hereditary myelopathies**), confirm that the **myelitis** is truly inflammatory – do not order genetic panels under a **myelitis** code unless demyelinating etiology is excluded.
+> > For inpatient profee coding, **site specificity** is critical: specify the cord level (**cervical, thoracic, lumbar, or conus**) in the documentation. The **ICD‑10‑CM codes** for **myelitis** (**[[G04.82]], [[G04.89]], [[G37.3]]**) do **not** have laterality or site sub‑classifications, but accurate localization affects medical necessity for MRI (**CPT [[72141]] vs [[72146]]**). **Sequencing logic:** If the **myelitis** is due to a known underlying condition (**e.g., systemic lupus, NMOSD, sarcoidosis, herpes zoster**), code the underlying disease **first** as principal diagnosis, then **[[G04.82]]** or the specific **myelitis** code as secondary. **Exception**: **acute flaccid myeliti**s due to **enterovirus** - code **[[G04.82]]** principal, then **[[B97.11]]** for the organism. **Undercoding alert:** Many inpatient claims miss the specific code **[[G04.82]]** for “**other myelitis**” and default to **[[G04.91]]** (**unspecified**). Documentation phrases like **“idiopathic transverse myelitis,” “postinfectious myelitis,” “longitudinally extensive myelitis”** should trigger a query for specificity and avoid unspecified code. **Payer considerations:** For **[[neuromyelitis]]** optica‑associated **myelitis**, prior authorization for **eculizumab** or **rituximab** often requires the specific code **[[G36.0]]** and demonstration of AQP4‑IgG positivity. **Type/subtype specificity:** Acute **[[transverse myelitis]]** due to multiple sclerosis requires **[[G37.3]]**; if MS is not yet diagnosed but suspected, code **[[G04.82]]** and add **[[G35.A]]** only after McDonald criteria are met. For genetic testing (e**.g., to rule out hereditary myelopathies**), confirm that the **myelitis** is truly inflammatory - do not order genetic panels under a **myelitis** code unless demyelinating etiology is excluded.
 
 _____
 

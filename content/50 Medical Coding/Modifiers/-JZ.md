@@ -227,9 +227,9 @@ To support **[[-JZ]]** on a claim, the medical record should contain:
 2. CMS — *Discarded Drugs (JW/JZ)*: https://www.cms.gov/medicare/payment/part-b-drugs/discarded-drugs
 3. CMS — *JW and JZ Modifier FAQs*: https://www.cms.gov/medicare/medicare-fee-for-service-payment/hospitaloutpatientpps/downloads/jw-modifier-faqs.pdf
 4. CGS Medicare — *Billing and Coding: JW and JZ Modifier Guidelines* (June 2023): https://www.cgsmedicare.com/parta/pubs/news/2023/06/cope141092.html
-5. Novitas Solutions — *Drugs and Biologicals Part B – Using the JW and JZ Modifiers*: https://www.novitas-solutions.com/webcenter/portal/MedicareJH/pagebyid?contentId=00142500
+5. Novitas Solutions — *Drugs and Biologicals Part B - Using the JW and JZ Modifiers*: https://www.novitas-solutions.com/webcenter/portal/MedicareJH/pagebyid?contentId=00142500
 6. AAPC — *Master Modifiers JW and JZ Rules* (June 2023): https://www.aapc.com/blog/88325-master-modifiers-jw-and-jz-rules/
-7. Retina Today — *How to Implement the –JZ Modifier* (Oct. 2023): https://retinatoday.com/articles/2023-oct/how-to-implement-the-jz-modifier
+7. Retina Today — *How to Implement the -JZ Modifier* (Oct. 2023): https://retinatoday.com/articles/2023-oct/how-to-implement-the-jz-modifier
 8. Avalere Health — *New JZ Claims Modifier Applies to NOC Billing* (June 2023): https://advisory.avalerehealth.com/insights/wastage-update-new-jz-claims-modifier-applies-to-noc-billing
 9. BST Quarterly — *Using Modifiers to Untangle Billing for Waste* (June 2024): https://www.bstquarterly.com/article/using-modifiers-to-untangle-billing-for-waste/
 10. Oncology News Central — *No Modifier JZ on Single Dose Drug Codes? Prepare for Denials* (Jan. 2023): https://www.oncologynewscentral.com/article/no-modifier-jz-on-single-dose-drug-codes-prepare-for-denials

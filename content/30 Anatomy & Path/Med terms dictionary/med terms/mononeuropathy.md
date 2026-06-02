@@ -48,7 +48,7 @@ definition: Damage or dysfunction affecting a single peripheral nerve or nerve g
 > - **Mononeuropathic** - adjective form — clinical collocations: "mononeuropathic pattern," "mononeuropathic presentation," "mononeuropathic deficit"
 > - **Focal Neuropathy** - lay and clinical term; used interchangeably especially in diabetes literature — e.g., "diabetic focal neuropathy"
 > - **Peripheral Mononeuropathy** - full descriptive form emphasizing location outside the central nervous system
-> - **Entrapment Neuropathy** - clinical descriptor synonym — subset caused by mechanical compression at anatomical tunnels; coded under G56–G57
+> - **Entrapment Neuropathy** - clinical descriptor synonym — subset caused by mechanical compression at anatomical tunnels; coded under G56-G57
 > - **Carpal Tunnel Syndrome|Carpal Tunnel Syndrome** - median nerve compression at the wrist; G56.0x
 > - **Tarsal Tunnel Syndrome|Tarsal Tunnel Syndrome** - posterior tibial nerve compression at the ankle; G57.5x
 > - **Mononeuritis Multiplex - multifocal variant** — sequential or simultaneous involvement of ≥2 noncontiguous nerves; [[G58.7]]
@@ -166,7 +166,7 @@ definition: Damage or dysfunction affecting a single peripheral nerve or nerve g
 > 
 > | Code      | Description                                             |
 > | --------- | ------------------------------------------------------- |
-> | **[[G59.0]]** | Diabetic mononeuropathy (code first E08–E13 with .41)   |
+> | **[[G59.0]]** | Diabetic mononeuropathy (code first E08-E13 with .41)   |
 > | **[[G59.8]]** | Other mononeuropathies in diseases classified elsewhere |
 > 
 > **Cranial Nerve Mononeuropathies (G52 — Single Cranial Nerve)**
@@ -208,15 +208,15 @@ definition: Damage or dysfunction affecting a single peripheral nerve or nerve g
 > | **[[95861]]** | Needle electromyography; two extremities, with or without related paraspinal areas                      |
 > | **[[95863]]** | Needle electromyography; three extremities, with or without related paraspinal areas                    |
 > | **[[95864]]** | Needle electromyography; four extremities, with or without related paraspinal areas                     |
-> | **[[95907]]** | Nerve conduction studies; 1–2 studies                                                                   |
-> | **[[95908]]** | Nerve conduction studies; 3–4 studies                                                                   |
-> | **[[95909]]** | Nerve conduction studies; 5–6 studies                                                                   |
-> | **[[95910]]** | Nerve conduction studies; 7–8 studies                                                                   |
-> | **[[95911]]** | Nerve conduction studies; 9–10 studies                                                                  |
-> | **[[95912]]** | Nerve conduction studies; 11–12 studies                                                                 |
+> | **[[95907]]** | Nerve conduction studies; 1-2 studies                                                                   |
+> | **[[95908]]** | Nerve conduction studies; 3-4 studies                                                                   |
+> | **[[95909]]** | Nerve conduction studies; 5-6 studies                                                                   |
+> | **[[95910]]** | Nerve conduction studies; 7-8 studies                                                                   |
+> | **[[95911]]** | Nerve conduction studies; 9-10 studies                                                                  |
+> | **[[95912]]** | Nerve conduction studies; 11-12 studies                                                                 |
 > | **[[95913]]** | Nerve conduction studies; 13 or more studies                                                            |
 > 
-> ⚠️ **Coding Note**: All **G56** and **G57** codes require laterality specification — **the 5th digit identifies right (1), left (2), or bilateral (3) involvement**; unspecified codes (**ending in 0**) should be avoided when documentation supports specificity. When **[[mononeuropathy]]** is secondary to an underlying disease (**e.g., [[diabetes]]**), code the underlying condition first (**e.g., [[E11.41]] for Type 2 diabetes with diabetic mononeuropathy**), followed by **[[G59.0]]**. An undercoding alert applies to **[[G58.7]]** (**mononeuritis multiplex**), which is commonly missed when documentation uses vague phrases like "**multifocal neuropathy**," "**asymmetric nerve involvement**," or "**sequential nerve palsies**" — these should trigger a query for clarification. When electrodiagnostic studies (**EMG/NCS**) are performed on the same date of service as surgical **decompression**, **modifier [[-25]]** should be appended to the **E/M code** and **modifier [[-59]]** may be needed for the diagnostic study if performed in a distinct session. For **nerve conduction studies**, code selection (**[[95907]]–[[95913]]**) is based strictly on the total number of individual studies performed, not the number of nerves tested — each study type (**motor, sensory, F-wave, H-reflex**) counts separately.
+> ⚠️ **Coding Note**: All **G56** and **G57** codes require laterality specification — **the 5th digit identifies right (1), left (2), or bilateral (3) involvement**; unspecified codes (**ending in 0**) should be avoided when documentation supports specificity. When **[[mononeuropathy]]** is secondary to an underlying disease (**e.g., [[diabetes]]**), code the underlying condition first (**e.g., [[E11.41]] for Type 2 diabetes with diabetic mononeuropathy**), followed by **[[G59.0]]**. An undercoding alert applies to **[[G58.7]]** (**mononeuritis multiplex**), which is commonly missed when documentation uses vague phrases like "**multifocal neuropathy**," "**asymmetric nerve involvement**," or "**sequential nerve palsies**" — these should trigger a query for clarification. When electrodiagnostic studies (**EMG/NCS**) are performed on the same date of service as surgical **decompression**, **modifier [[-25]]** should be appended to the **E/M code** and **modifier [[-59]]** may be needed for the diagnostic study if performed in a distinct session. For **nerve conduction studies**, code selection (**[[95907]]-[[95913]]**) is based strictly on the total number of individual studies performed, not the number of nerves tested — each study type (**motor, sensory, F-wave, H-reflex**) counts separately.
 ---
 > [!tip]- DERIVATIONS of [[mononeuropathy]]
 > ```dataview

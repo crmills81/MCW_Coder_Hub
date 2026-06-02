@@ -251,7 +251,6 @@ The ciliary body consists of several specialized structures:
 ### Diagnostic Procedures
 - **[[92002]]-[[92014]]** - Ophthalmologic medical examination and evaluation (includes ciliary body assessment)
 - **[[76510]]-[[76529]]** - Ophthalmic ultrasound (can visualize ciliary body tumors, detachment)
-- **[[92225]]-[[92228]]** - Ophthalmoscopy (extended, may visualize ciliary body area)
 
 ### Surgical Procedures on Ciliary Body
 

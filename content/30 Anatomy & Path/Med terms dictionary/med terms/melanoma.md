@@ -53,7 +53,7 @@ _____
 > - **Acral lentiginous melanoma** _(subtype on palms, soles, and subungual areas; not sun-related; coded under C43.6x or C43.7x depending on site)_
 > - **Amelanotic melanoma** _(pigment-poor or non-pigmented variant; frequently missed on clinical exam due to absent dark coloration; high misdiagnosis rate)_
 > - **Desmoplastic melanoma** _(rare, fibrotic, neurotropic subtype; high local recurrence; perineural invasion common; often appears scar-like)_
-> - **Ocular melanoma|Uveal melanoma** _(melanoma of the uveal tract — iris, ciliary body, choroid; coded separately under C69.3x–C69.4x — NOT under C43)_
+> - **Ocular melanoma|Uveal melanoma** _(melanoma of the uveal tract — iris, ciliary body, choroid; coded separately under C69.3x-C69.4x — NOT under C43)_
 > - **Mucosal melanoma]]** _(arises in mucous membranes — nasal, oral, anorectal, genitourinary; coded to the specific mucosal site — NOT under C43)_
 > - **Melanoma in situ** _(pre-invasive melanoma confined to epidermis; EXCLUDED from C43 — coded under D03.x; Clark Level I)_
 
@@ -68,7 +68,7 @@ _____
 > - **Melanoma in situ** — the non-invasive precursor form of [[cutaneous]] **melanoma**; confined to the epidermis; coded under D03.x (EXCLUDES from C43); Clark Level I
 > - **Lentigo maligna** — a form of **melanoma** in situ on sun-damaged skin; coded [[D03.4]] (face/neck); transforms into lentigo maligna **melanoma** when dermal invasion occurs
 > - **BRAF mutation** — the most common molecular driver of **melanoma** (~50% of cutaneous melanomas carry V600E mutation); target of BRAF inhibitors (vemurafenib, dabrafenib) used in systemic therapy
-> - **Clark level** — histological staging system describing depth of **melanoma** invasion into skin layers (I–V); used alongside Breslow thickness
+> - **Clark level** — histological staging system describing depth of **melanoma** invasion into skin layers (I-V); used alongside Breslow thickness
 > - **Breslow thickness** — the most important prognostic factor in primary **melanoma**; measured in millimeters from granular layer to deepest tumor cell; drives surgical margin and sentinel lymph node biopsy decisions
 > - **Sentinel lymph node biopsy** — key staging procedure for **melanoma** >0.8 mm Breslow thickness; determines regional nodal involvement without full lymph node dissection
 > - **Basal cell carcinoma** — most common skin cancer; arises from basal keratinocytes (NOT melanocytes); rarely metastasizes; clinically distinguished from **melanoma** by pearly/translucent appearance and rolled borders
@@ -171,17 +171,17 @@ _____
 > |**[[11104]]**|Punch biopsy of skin (including simple closure), single lesion — preferred for full-thickness melanocytic assessment|
 > |**[[11106]]**|Incisional biopsy of skin (including simple closure), single lesion — used for larger pigmented lesions where excisional biopsy is not feasible|
 > |**[[11600]]**|Excision, malignant lesion including margins, trunk/arms/legs; excised diameter ≤0.5 cm|
-> |**[[11601]]**|Excision, malignant lesion including margins, trunk/arms/legs; excised diameter 0.6–1.0 cm|
-> |**[[11602]]**|Excision, malignant lesion including margins, trunk/arms/legs; excised diameter 1.1–2.0 cm|
-> |**[[11603]]**|Excision, malignant lesion including margins, trunk/arms/legs; excised diameter 2.1–3.0 cm|
-> |**[[11604]]**|Excision, malignant lesion including margins, trunk/arms/legs; excised diameter 3.1–4.0 cm|
-> |**[[11605]]**|Excision, malignant lesion including margins, trunk/arms/legs; excised diameter 4.1–5.0 cm|
+> |**[[11601]]**|Excision, malignant lesion including margins, trunk/arms/legs; excised diameter 0.6-1.0 cm|
+> |**[[11602]]**|Excision, malignant lesion including margins, trunk/arms/legs; excised diameter 1.1-2.0 cm|
+> |**[[11603]]**|Excision, malignant lesion including margins, trunk/arms/legs; excised diameter 2.1-3.0 cm|
+> |**[[11604]]**|Excision, malignant lesion including margins, trunk/arms/legs; excised diameter 3.1-4.0 cm|
+> |**[[11605]]**|Excision, malignant lesion including margins, trunk/arms/legs; excised diameter 4.1-5.0 cm|
 > |**[[11606]]**|Excision, malignant lesion including margins, trunk/arms/legs; excised diameter >5.0 cm|
 > |**[[11640]]**|Excision, malignant lesion including margins, face/ears/eyelids/nose/lips; excised diameter ≤0.5 cm|
-> |**[[11641]]**|Excision, malignant lesion including margins, face/ears/eyelids/nose/lips; excised diameter 0.6–1.0 cm|
-> |**[[11642]]**|Excision, malignant lesion including margins, face/ears/eyelids/nose/lips; excised diameter 1.1–2.0 cm|
-> |**[[11643]]**|Excision, malignant lesion including margins, face/ears/eyelids/nose/lips; excised diameter 2.1–3.0 cm|
-> |**[[11644]]**|Excision, malignant lesion including margins, face/ears/eyelids/nose/lips; excised diameter 3.1–4.0 cm|
+> |**[[11641]]**|Excision, malignant lesion including margins, face/ears/eyelids/nose/lips; excised diameter 0.6-1.0 cm|
+> |**[[11642]]**|Excision, malignant lesion including margins, face/ears/eyelids/nose/lips; excised diameter 1.1-2.0 cm|
+> |**[[11643]]**|Excision, malignant lesion including margins, face/ears/eyelids/nose/lips; excised diameter 2.1-3.0 cm|
+> |**[[11644]]**|Excision, malignant lesion including margins, face/ears/eyelids/nose/lips; excised diameter 3.1-4.0 cm|
 > |**[[11646]]**|Excision, malignant lesion including margins, face/ears/eyelids/nose/lips; excised diameter >4.0 cm|
 > |**[[17311]]**|Mohs micrographic surgery, head/neck/hands/feet/genitalia; first stage, up to 5 tissue blocks|
 > |**[[17312]]**|Mohs micrographic surgery, head/neck/hands/feet/genitalia; each additional stage, up to 5 tissue blocks (add-on)|
@@ -192,7 +192,7 @@ _____
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** **Melanoma ICD-10-CM codes** under **C43** require **site-specificity and laterality** — never report the parent code **C43** alone as it is not billable; always assign the most specific 4th, 5th, or 7th character code available (**e.g., [[C43.112]] for right lower eyelid**). When melanoma has metastasized, sequence the **primary site C43.x first**, followed by the appropriate secondary malignancy code (**C77.x, C78.x, or C79.x**); however, if the patient is being treated **only** for the metastatic site, the secondary code may be sequenced first per **ICD-10-CM sequencing guidelines**. A critical **undercoding alert**: inpatient profee coders frequently miss capturing **C43.52 (skin of breast)** and **C43.51 (anal skin)** — watch for documentation phrases such as "**perianal pigmented lesion**," "**trunk melanoma**," or "**chest wall skin lesion resected**" as triggers to query for precise site confirmation. For **CPT excision** code selection (**[[11600]]–[[11646]]**), code selection is driven by the **excised specimen diameter** (including margins), **NOT** the clinical lesion size — always pull the pathology report for the final excised diameter before coding. **Sentinel lymph node biopsy** (**[[38900]] as add-on + [[38500]] for the open excision**) requires separate documentation of the sentinel node mapping procedure; report **[[38900]]** in addition to the primary excision code. Modifier **[[-59]]** may be required when biopsy (**[[11102]]–[[11106]]**) and definitive excision are performed on the same date by the same provider if payer policy flags the combination.
+> > ⚠️ **Coding Note:** **Melanoma ICD-10-CM codes** under **C43** require **site-specificity and laterality** — never report the parent code **C43** alone as it is not billable; always assign the most specific 4th, 5th, or 7th character code available (**e.g., [[C43.112]] for right lower eyelid**). When melanoma has metastasized, sequence the **primary site C43.x first**, followed by the appropriate secondary malignancy code (**C77.x, C78.x, or C79.x**); however, if the patient is being treated **only** for the metastatic site, the secondary code may be sequenced first per **ICD-10-CM sequencing guidelines**. A critical **undercoding alert**: inpatient profee coders frequently miss capturing **C43.52 (skin of breast)** and **C43.51 (anal skin)** — watch for documentation phrases such as "**perianal pigmented lesion**," "**trunk melanoma**," or "**chest wall skin lesion resected**" as triggers to query for precise site confirmation. For **CPT excision** code selection (**[[11600]]-[[11646]]**), code selection is driven by the **excised specimen diameter** (including margins), **NOT** the clinical lesion size — always pull the pathology report for the final excised diameter before coding. **Sentinel lymph node biopsy** (**[[38900]] as add-on + [[38500]] for the open excision**) requires separate documentation of the sentinel node mapping procedure; report **[[38900]]** in addition to the primary excision code. Modifier **[[-59]]** may be required when biopsy (**[[11102]]-[[11106]]**) and definitive excision are performed on the same date by the same provider if payer policy flags the combination.
 
 _____
 

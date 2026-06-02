@@ -46,7 +46,7 @@ _____
 >
 > - **Supraglottic** _(adjective form — used in clinical collocations: "supraglottic edema," "supraglottic laryngitis," "supraglottic airway")_
 > - **[[Epiglottitis]]** _(lay and clinical synonym; terms are often used interchangeably, though epiglottitis is technically a subset — coded separately under [[J05.10]] / [[J05.11]])_
-> - **Supraglottic [[laryngitis]]** _(clinical synonym used in documentation; maps to [[J04.30]]–[[J04.31]] depending on obstruction status)_
+> - **Supraglottic [[laryngitis]]** _(clinical synonym used in documentation; maps to [[J04.30]]-[[J04.31]] depending on obstruction status)_
 > - **Acute supraglottitis** _(the most common clinical descriptor; emphasis on acute onset and rapid progression)_
 > - **Supraglottic inflammation** _(broader clinical descriptor encompassing infectious and non-infectious etiologies)_
 > - **Supraglottitis without obstruction** _(billable code for uncomplicated supraglottitis; airway is patent — [[J04.30]])_

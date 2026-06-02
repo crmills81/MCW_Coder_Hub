@@ -28,7 +28,7 @@ definition: Visual examination of the interior of the eye, including the retina,
 ---
 
 >[!Note] DEFINITION of [[ophthalmoscopy]]
->**[[ophthalmoscopy]]** is **a diagnostic procedure that allows direct visualization of the fundus of the eye – the retina, optic nerve head (disc), macula, fovea, and retinal vasculature.** It is distinguished from **slit-lamp examination** (**which views the anterior segment**) and **[[fundus photography]]** (**which captures a static image rather than a real‑time dynamic exam**). The underlying mechanism uses a light source and lenses to overcome the eye’s own refractive power, enabling the examiner to see through the pupil. **Ophthalmoscopy** is almost always **pathological** in the sense that it is performed to detect or monitor disease; however, it can be **physiological** as a screening tool in asymptomatic patients (**e.g., for hypertensive or diabetic retinopathy**). Clinically relevant subtypes encountered in coding include **direct ophthalmoscopy** (**portable, upright image, narrow field**) and **indirect ophthalmoscopy** (**head‑mounted or handheld, wide field, inverted image, often with scleral depression; CPT [[92225]]‑[[92226]]**). The most common diagnostic codes linked to **ophthalmoscopy** are for **diabetic retinopathy** (**[[E11.319]]**), hypertensive **retinopathy** (**[[H35.033]]**), and glaucoma (**[[H40.11]]**). **Ophthalmoscopy** is often confused with **fundus photography** (**[[92250]]**), which documents findings but does not replace dynamic examination for optic disc elevation or venous pulsations.
+>**[[ophthalmoscopy]]** is **a diagnostic procedure that allows direct visualization of the fundus of the eye - the retina, optic nerve head (disc), macula, fovea, and retinal vasculature.** It is distinguished from **slit-lamp examination** (**which views the anterior segment**) and **[[fundus photography]]** (**which captures a static image rather than a real‑time dynamic exam**). The underlying mechanism uses a light source and lenses to overcome the eye’s own refractive power, enabling the examiner to see through the pupil. **Ophthalmoscopy** is almost always **pathological** in the sense that it is performed to detect or monitor disease; however, it can be **physiological** as a screening tool in asymptomatic patients (**e.g., for hypertensive or diabetic retinopathy**). Clinically relevant subtypes encountered in coding include **direct ophthalmoscopy** (**portable, upright image, narrow field**) and **indirect ophthalmoscopy** (**head‑mounted or handheld, wide field, inverted image, often with scleral depression**). The most common diagnostic codes linked to **ophthalmoscopy** are for **diabetic retinopathy** (**[[E11.319]]**), hypertensive **retinopathy** (**[[H35.033]]**), and glaucoma (**[[H40.11]]**). **Ophthalmoscopy** is often confused with **fundus photography** (**[[92250]]**), which documents findings but does not replace dynamic examination for optic disc elevation or venous pulsations.
 
 _____
 
@@ -50,10 +50,10 @@ _____
 > - **Ophthalmoscopic** _(adjective form — “ophthalmoscopic findings,” “ophthalmoscopic examination,” “ophthalmoscopic grading of retinopathy”)_
 > - **[[Fundoscopy]]** _(lay and clinical synonym; more common in some countries; derived from Latin fundus = “bottom” of the eye)_
 > - **Direct ophthalmoscopy** _(handheld instrument, upright image, magnification ~15×, narrow field of view; used for routine screening)_
-> - **Indirect ophthalmoscopy** _(condensing lens + head‑mounted light source, wide field, inverted image; essential for peripheral retinal exam and retinal detachment evaluation; CPT [[92225]]‑[[92226]])_
+> - **Indirect ophthalmoscopy** _(condensing lens + head‑mounted light source, wide field, inverted image; essential for peripheral retinal exam and retinal detachment evaluation;_
 > - **PanOptic ophthalmoscopy** _(wide‑field direct ophthalmoscope with larger viewing area, intermediate between direct and indirect)_
 > - **Monocular ophthalmoscopy** _(standard technique using one eye of the examiner)_
-> - **Binocular indirect ophthalmoscopy (BIO)** _(two eyepieces, stereoscopic view, gold standard for peripheral retina; coded under [[92225]] if extended)_
+> - **Binocular indirect ophthalmoscopy (BIO)** _(two eyepieces, stereoscopic view, gold standard for peripheral retina; coded under [[92201]] if extended)_
 > - **Slit‑lamp indirect ophthalmoscopy** _(indirect method using a slit lamp and condensing lens; allows higher magnification and stability)_
 > - **Red reflex examination** _(simplified form using an ophthalmoscope set to a large aperture to assess for cataracts, retinoblastoma, or media opacities)_
 
@@ -74,7 +74,7 @@ _____
 > - **[[retinal detachment]]** — rhegmatogenous, tractional, or exudative; indirect ophthalmoscopy with scleral depression is the gold standard for diagnosis; ICD‑10‑CM [[H33.0]]‑[[H33.5]].
 > - **[[Papilledema]]** — swelling of the optic disc due to increased intracranial pressure; emergency finding on ophthalmoscopy; ICD‑10‑CM [[H47.13]] (bilateral). Requires immediate neuroimaging.
 > - **[[Retinoblastoma]]** — childhood intraocular malignancy; leukocoria (white reflex) on ophthalmoscopy is a key sign; ICD‑10‑CM [[C69.21]] (right), [[C69.22]] (left).
-> - **Ophthalmoscopy, extended, with drawing** — diagnostic procedure CPT [[92225]] (unilateral or bilateral) and [[92226]] (with medical decision making); documented by drawing or annotation.
+
 
 _____
 
@@ -83,7 +83,7 @@ _____
 > 
 > ### 🏥 ICD-10-CM CODES (Indications / Findings for Ophthalmoscopy)
 > 
-> #### Diabetic Retinopathy (E11.31x – Severity and Laterality Required)
+> #### Diabetic Retinopathy (E11.31x - Severity and Laterality Required)
 > 
 > |Code|Description|
 > |---|---|
@@ -98,7 +98,7 @@ _____
 > |**[[E11.351]]**|Type 2 diabetes mellitus with proliferative diabetic retinopathy, right eye|
 > |**[[E11.352]]**|Type 2 diabetes mellitus with proliferative diabetic retinopathy, left eye|
 > 
-> #### Hypertensive and Other Retinopathies (H35.0 – H35.03)
+> #### Hypertensive and Other Retinopathies (H35.0 - H35.03)
 > 
 > |Code|Description|
 > |---|---|
@@ -109,7 +109,7 @@ _____
 > |**[[H35.011]]**|Nonproliferative retinopathy, right eye (e.g., retinal vascular tortuosity)|
 > |**[[H35.012]]**|Nonproliferative retinopathy, left eye|
 > 
-> #### Glaucoma Suspect and Glaucoma (H40.0 – H40.1)
+> #### Glaucoma Suspect and Glaucoma (H40.0 - H40.1)
 > 
 > |Code|Description|
 > |---|---|
@@ -147,7 +147,7 @@ _____
 > |**[[H35.33]]**|Exudative age‑related macular degeneration, right eye|
 > |**[[H35.34]]**|Exudative age‑related macular degeneration, left eye|
 > 
-> #### Encounter for Eye Examination (Z01.0 – Z01.01) – for screening without disease
+> #### Encounter for Eye Examination (Z01.0 - Z01.01) - for screening without disease
 > 
 > |Code|Description|
 > |---|---|
@@ -160,24 +160,23 @@ _____
 > 
 > |CPT Code|Description|
 > |---|---|
-> |**[[92225]]**|Ophthalmoscopy, extended, with drawing (e.g., retinal drawing, optic disc documentation); unilateral or bilateral – use for detailed indirect ophthalmoscopy with scleral depression|
-> |**[[92226]]**|Ophthalmoscopy, extended, with medical decision making; unilateral or bilateral – includes interpretation and report for complex findings|
+
 > |**[[92002]]**|Ophthalmological services: medical examination and evaluation with initiation of diagnostic and treatment program; intermediate, new patient (includes direct ophthalmoscopy)|
 > |**[[92004]]**|Ophthalmological services: comprehensive, new patient, 1 or more visits (includes direct and indirect ophthalmoscopy)|
 > |**[[92012]]**|Ophthalmological services: intermediate, established patient (includes ophthalmoscopy)|
 > |**[[92014]]**|Ophthalmological services: comprehensive, established patient, 1 or more visits (includes ophthalmoscopy)|
-> |**[[92250]]**|Fundus photography with interpretation and report (non‑mydriatic or mydriatic) – adjunct to ophthalmoscopy|
-> |**[[92134]]**|Optical coherence tomography (OCT) of retina, unilateral or bilateral – for cross‑sectional imaging (often performed with ophthalmoscopy)|
-> |**[[92235]]**|Fluorescein angiography (FA) with interpretation and report, unilateral or bilateral – performed after abnormal ophthalmoscopy|
-> |**[[92201]]**|Ophthalmoscopy, extended, with retinal drawing and scleral depression (older code; 92225 is now preferred) – retained for historical reference but not generally billed|
-> |**[[99203]]**|Office or other outpatient visit for evaluation and management of a new patient, level 3 – includes ophthalmoscopy as part of comprehensive exam|
-> |**[[99213]]**|Office or other outpatient visit for evaluation and management of an established patient, level 3 – includes routine direct ophthalmoscopy|
-> |**[[99172]]**|Visual function screening, automated or semi‑automated bilateral ocular testing (e.g., visual field) – adjunct to ophthalmoscopy for glaucoma suspects|
+> |**[[92250]]**|Fundus photography with interpretation and report (non‑mydriatic or mydriatic) - adjunct to ophthalmoscopy|
+> |**[[92134]]**|Optical coherence tomography (OCT) of retina, unilateral or bilateral - for cross‑sectional imaging (often performed with ophthalmoscopy)|
+> |**[[92235]]**|Fluorescein angiography (FA) with interpretation and report, unilateral or bilateral - performed after abnormal ophthalmoscopy|
+> |**[[92201]]**|Ophthalmoscopy, extended, with retinal drawing and scleral depression (older code; 92225 is now preferred) - retained for historical reference but not generally billed|
+> |**[[99203]]**|Office or other outpatient visit for evaluation and management of a new patient, level 3 - includes ophthalmoscopy as part of comprehensive exam|
+> |**[[99213]]**|Office or other outpatient visit for evaluation and management of an established patient, level 3 - includes routine direct ophthalmoscopy|
+> |**[[99172]]**|Visual function screening, automated or semi‑automated bilateral ocular testing (e.g., visual field) - adjunct to ophthalmoscopy for glaucoma suspects|
 > 
 > ---
 > 
 > > ⚠️ **Coding Note:** 
-> > For **inpatient profee coding**, **ophthalmoscopy** does not have a site‑specificity or laterality requirement in the **CPT** codes themselves (**[[92225]] and [[92226]] are inherently unilateral or bilateral**). However, the **ICD‑10‑CM diagnosis codes** almost always require laterality (**e.g., [[E11.321]] right eye vs [[E11.322]] left eye**) – ensure the documentation specifies which eye(s) were examined. **Sequencing logic:** When **ophthalmoscopy** is performed to evaluate a known condition (e.g., diabetic retinopathy), code the underlying condition first (E11.31x), then the encounter code (**[[Z01.00]] or [[Z01.01]]**) only if the examination is the primary reason for encounter and no active treatment is provided. For a screening exam, code **[[Z01.00]]** as principal diagnosis. **Undercoding alert:** On inpatient claims, physicians often document “**fundoscopic exam”** but fail to specify **extended** vs **limited** **ophthalmoscopy**. If scleral depression or a drawing is performed, use **[[92225]]** rather than the basic E/M code. Documentation trigger phrases: “**indirect ophthalmoscopy with scleral depression**,” “**peripheral retinal exam with drawing**,” “**retinal detachment evaluation**” should prompt use of **[[92225]]** or **[[92226]]**. **Payer considerations:** Medicare and commercial payers may require modifier **[[-RT]]** or **[[-LT]]** for unilateral procedures on certain diagnosis codes (**e.g., [[H35.031]] vs [[H35.032]]**). For bilateral **ophthalmoscopy**, append modifier **[[-50]]** to **[[92225]]** and submit with bilateral diagnosis codes. **Prior authorization** is rarely required for office‑based **ophthalmoscopy**, but for inpatient hospital settings, ensure that the procedure is separately billable (**many E/M visits include basic ophthalmoscopy as part of the exam; only extended or indirect with scleral depression qualifies for additional reimbursement**). **Type/subtype specificity:** Use **[[92225]]** for the first extended ophthalmoscopy on the same patient on a given day; if medical decision making is also documented (**e.g., plan for laser or surgery**), use **[[92226]**]. Do not report both on the same day.
+> > For **inpatient profee coding**, **ophthalmoscopy** does not have a site‑specificity or laterality requirement in the **CPT** codes themselves. However, the **ICD‑10‑CM diagnosis codes** almost always require laterality (**e.g., [[E11.321]] right eye vs [[E11.322]] left eye**) - ensure the documentation specifies which eye(s) were examined. **Sequencing logic:** When **ophthalmoscopy** is performed to evaluate a known condition (e.g., diabetic retinopathy), code the underlying condition first (E11.31x), then the encounter code (**[[Z01.00]] or [[Z01.01]]**) only if the examination is the primary reason for encounter and no active treatment is provided. For a screening exam, code **[[Z01.00]]** as principal diagnosis. **Undercoding alert:** On inpatient claims, physicians often document “**fundoscopic exam”** but fail to specify **extended** vs **limited** **ophthalmoscopy**. If scleral depression or a drawing is performed, use **[[92201]]** rather than the basic E/M code. Documentation trigger phrases: “**indirect ophthalmoscopy with scleral depression**,” “**peripheral retinal exam with drawing**,” “**retinal detachment evaluation**”**.  **Payer considerations:** Medicare and commercial payers may require modifier **[[-RT]]** or **[[-LT]]** for unilateral procedures on certain diagnosis codes (**e.g., [[H35.031]] vs [[H35.032]]**). For bilateral **ophthalmoscopy**, append modifier **[[-50]]** to **[[92201]]** and submit with bilateral diagnosis codes. **Prior authorization** is rarely required for office‑based **ophthalmoscopy**, but for inpatient hospital settings, ensure that the procedure is separately billable (**many E/M visits include basic ophthalmoscopy as part of the exam; only extended or indirect with scleral depression qualifies for additional reimbursement**). 
 
 _____
 
@@ -202,4 +201,4 @@ _____
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]
-[[Appendix D Suffix forms]]
+[[Appendix D Suffix forms]]92201

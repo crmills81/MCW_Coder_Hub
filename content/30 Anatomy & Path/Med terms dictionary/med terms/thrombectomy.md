@@ -39,7 +39,7 @@ _____
 >|**[[arter-]] / [[ven-]]**|Greek _ἀρτηρία_ / Latin _vena_|"**artery**" / "**vein**" — optional anatomic infix specifying vessel type (as in **arteriothrombectomy**, **venothrombectomy**)|
 >|**[[-ectomy]]**|Greek _ἐκτομή_ (ektomḗ), from _ἐκ_ (ek, "out") + _τομή_ (tomḗ, "a cutting")|Noun-forming surgical suffix — "**surgical removal / excision of**"|
 >
-> The word entered English in the **mid-19th century** (attested c. 1850s–1870s) as *thrombectomy* (**noun**), borrowed via modern medical Latin from the Greek roots *θρόμβος* + *ἐκτομή* — literally **"cutting out of a clot."** The adjective form *thrombectomic* (also mid-to-late 19th c.) describes the procedural context (e.g., "thrombectomic extraction"). The root *[[thromb-]]* ("**clot, lump**") connects **[[thrombectomy]]** to the entire **[[-thromb-]] family**: ***[[thrombus]]*** (**clot → a solid mass of coagulated blood**), ***[[thrombosis]]*** (**clotting condition → pathological formation of a thrombus**), ***[[thrombolysis]]*** (**clot dissolution → enzymatic breakdown of clot**), ***[[thrombocytopenia]]*** (**clot-cell deficiency → low platelet count**), and ***[[thrombophlebitis]]*** (**clot + vein inflammation → inflamed vein with clot**). The suffix *[[-ectomy]]* is among the most productive surgical suffixes in medical terminology — it appears in ***[[appendectomy]]***, ***[[cholecystectomy]]***, ***[[mastectomy]]***, ***[[nephrectomy]]***, and ***[[hysterectomy]]***.
+> The word entered English in the **mid-19th century** (attested c. 1850s-1870s) as *thrombectomy* (**noun**), borrowed via modern medical Latin from the Greek roots *θρόμβος* + *ἐκτομή* — literally **"cutting out of a clot."** The adjective form *thrombectomic* (also mid-to-late 19th c.) describes the procedural context (e.g., "thrombectomic extraction"). The root *[[thromb-]]* ("**clot, lump**") connects **[[thrombectomy]]** to the entire **[[-thromb-]] family**: ***[[thrombus]]*** (**clot → a solid mass of coagulated blood**), ***[[thrombosis]]*** (**clotting condition → pathological formation of a thrombus**), ***[[thrombolysis]]*** (**clot dissolution → enzymatic breakdown of clot**), ***[[thrombocytopenia]]*** (**clot-cell deficiency → low platelet count**), and ***[[thrombophlebitis]]*** (**clot + vein inflammation → inflamed vein with clot**). The suffix *[[-ectomy]]* is among the most productive surgical suffixes in medical terminology — it appears in ***[[appendectomy]]***, ***[[cholecystectomy]]***, ***[[mastectomy]]***, ***[[nephrectomy]]***, and ***[[hysterectomy]]***.
 
 _____
 
@@ -48,8 +48,8 @@ _____
 > - **THROMBECTOMIC** _(adjective form — clinical collocations include "thrombectomic procedure," "thrombectomic device," "thrombectomic intervention")_
 > - **CLOT REMOVAL / CLOT EXTRACTION** _(lay and clinical term; commonly used in patient education and ED documentation — especially in stroke alerts, trauma settings)_
 > - **MECHANICAL THROMBECTOMY (MT)** _(define briefly — percutaneous catheter-based clot extraction using stent-retriever or aspiration catheter; the dominant modern approach in acute ischemic stroke)_
-> - **PERCUTANEOUS MECHANICAL THROMBECTOMY (PMT)** _(clinical synonym used in interventional radiology and endovascular contexts — coded under CPT [[37184]]–[[37188]])_
-> - **DIRECT THROMBECTOMY** _(open surgical clot extraction via arteriotomy/venotomy; often with Fogarty balloon catheter — coded under CPT [[34001]]–[[34490]] series)_
+> - **PERCUTANEOUS MECHANICAL THROMBECTOMY (PMT)** _(clinical synonym used in interventional radiology and endovascular contexts — coded under CPT [[37184]]-[[37188]])_
+> - **DIRECT THROMBECTOMY** _(open surgical clot extraction via arteriotomy/venotomy; often with Fogarty balloon catheter — coded under CPT [[34001]]-[[34490]] series)_
 > - **ASPIRATION THROMBECTOMY / ADAPT TECHNIQUE** _(suction-based clot extraction using large-bore aspiration catheter — common in neurointerventional stroke procedures)_
 > - **STENT-RETRIEVER THROMBECTOMY** _(etiology/technique subtype — uses a deployable stent to engage and withdraw the thrombus)_
 > - **CATHETER-DIRECTED THROMBECTOMY** _(technique subtype — combines mechanical clot maceration with catheter-delivered thrombolytic; often used in iliofemoral DVT)_
@@ -62,18 +62,18 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[embolectomy]]** — the closest related procedure; removes an *embolus* (clot that migrated from a distant origin such as the heart or aortic arch) rather than an in-situ thrombus. Same procedural techniques often serve both indications, and both are captured under the CPT [[34001]]–[[34490]] open series and [[37184]]–[[37188]] percutaneous series.
+> - **[[embolectomy]]** — the closest related procedure; removes an *embolus* (clot that migrated from a distant origin such as the heart or aortic arch) rather than an in-situ thrombus. Same procedural techniques often serve both indications, and both are captured under the CPT [[34001]]-[[34490]] open series and [[37184]]-[[37188]] percutaneous series.
 > - **[[thrombolysis]]** — shares the *[[thromb-]]* root; the *chemical/pharmacologic* dissolution of clot using fibrinolytic agents (alteplase, tenecteplase, urokinase) rather than physical extraction; often used as an adjunct to or alternative to thrombectomy.
 > - **[[thrombosis]]** — the underlying pathological process being treated; formation of a thrombus within a vascular lumen, the condition that necessitates [[thrombectomy]].
 > - **[[embolism]]** — complex overlapping condition; often the indication for embolectomy rather than thrombectomy, but in practice stroke and PE protocols treat both under similar endovascular workflows.
 > - **Fogarty catheter** — the classic surgical mechanism/device; a balloon-tipped [[embolectomy]]/[[thrombectomy]] [[catheter]] introduced via [[arteriotomy]] and withdrawn to extract clot mechanically.
 > - **stent retriever** — modern endovascular device class (e.g., Solitaire, Trevo) deployed intracranially or peripherally to capture and retrieve thrombus.
 > - **aspiration thrombectomy** — suction-based clot-extraction technique that often complements stent-retriever thrombectomy (combined "SWIM" or "Solumbra" technique).
-> - **acute ischemic stroke** — the highest-volume indication for mechanical thrombectomy; ICD-10-CM codes I63.0xx–I63.9, with large-vessel occlusion subtypes (I63.3x, I63.4x, I63.5x) driving thrombectomy eligibility.
-> - **acute limb ischemia** — peripheral vascular indication; ICD-10-CM code range I74.0x (arterial embolism/thrombosis of abdominal aorta), I74.1x (thoracic aorta), I74.2x–I74.3x (upper/lower extremity arteries).
+> - **acute ischemic stroke** — the highest-volume indication for mechanical thrombectomy; ICD-10-CM codes I63.0xx-I63.9, with large-vessel occlusion subtypes (I63.3x, I63.4x, I63.5x) driving thrombectomy eligibility.
+> - **acute limb ischemia** — peripheral vascular indication; ICD-10-CM code range I74.0x (arterial embolism/thrombosis of abdominal aorta), I74.1x (thoracic aorta), I74.2x-I74.3x (upper/lower extremity arteries).
 > - **phlegmasia cerulea dolens** — severe venous indication; massive iliofemoral DVT with limb-threatening venous congestion — ICD-10-CM I82.4xx/I82.6xx family.
 > - **massive pulmonary embolism** — cardiopulmonary indication for surgical pulmonary embolectomy/thrombectomy; ICD-10-CM I26.0x (with acute cor pulmonale).
-> - **acute myocardial infarction** — coronary indication for aspiration or mechanical thrombectomy during primary PCI; ICD-10-CM I21.0x–I21.4x (STEMI) and I21.Ax (MI with documented coronary thrombosis).
+> - **acute myocardial infarction** — coronary indication for aspiration or mechanical thrombectomy during primary PCI; ICD-10-CM I21.0x-I21.4x (STEMI) and I21.Ax (MI with documented coronary thrombosis).
 > - **deep vein thrombosis** — venous thrombectomy indication; ICD-10-CM I82.4xx (acute DVT of lower extremity), I82.5xx (chronic DVT), I82.6xx (upper extremity DVT).
 > - **heparin-induced thrombocytopenia** — prothrombotic disease entity that predisposes to extensive thrombosis requiring thrombectomy; ICD-10-CM D75.82.
 > - **digital subtraction angiography]** — primary diagnostic/imaging modality used intra-procedurally to localize the thrombus and confirm revascularization post-[[thrombectomy]]; CPT [[75625]], [[75710]], [[75716]].
