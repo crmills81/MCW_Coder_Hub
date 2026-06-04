@@ -56,7 +56,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
 > - **[[Aphasia]]** — language disorder (comprehension/expression), not motor; often co-occurs with dysarthria post-stroke
-> - **[[Apraxia]] of speech** — motor planning disorder; distinct from dysarthria
+> - **[[apraxia]] of speech** — motor planning disorder; distinct from dysarthria
 > - **[[Dysphagia]]** — difficulty swallowing; shares the same motor neuron pathways, frequently co-occurring
 > - **[[Anarthria]]** — complete inability to articulate speech
 > - **[[Dysphonia]]** — impaired voice/phonation, often a component of dysarthria

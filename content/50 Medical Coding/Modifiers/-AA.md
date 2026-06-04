@@ -34,7 +34,7 @@ related_modifiers:
   - "[[-QX]]"
   - "[[-QZ]]"
   - "[[-QY]]"
-  - "[[-AD]]"
+  - "[[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]"
 date_created: 2026-02-23
 date_modified: 2026-02-23
 note_type: modifier-reference
@@ -70,8 +70,8 @@ This modifier is the highest-level anesthesia payment modifier and results in re
 ## When NOT to Use
 - When the anesthesiologist is **medically directing 2-4 concurrent cases** — use **[[-QK]]** instead.
 - When the **anesthesiologist** is **medically directing one CRNA** — use **[[-QY]]** instead.
-- When the anesthesiologist is **medically supervising more than 4 concurrent cases** — use **[[-AD]]** instead.
-- **Never** report [[-AA]] on the same claim line as [[-QK]], [[-QX]], [[-QY]], [[-QZ]], or [[-AD]] — these modifiers are mutually exclusive.
+- When the anesthesiologist is **medically supervising more than 4 concurrent cases** — use **[[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]** instead.
+- **Never** report [[-AA]] on the same claim line as [[-QK]], [[-QX]], [[-QY]], [[-QZ]], or [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] — these modifiers are mutually exclusive.
 
 ## Reimbursement
 - Billed at **100% of the anesthesia fee schedule allowable**.
@@ -84,7 +84,7 @@ This modifier is the highest-level anesthesia payment modifier and results in re
 | **[[-AA]]** | **Anesthesiologist** | Personally performed, full case          | **100%**                    |
 | **[[-QK]]** | **Anesthesiologist** | Medically directing 2-4 concurrent cases | **50%**                     |
 | **[[-QY]]** | **Anesthesiologist** | Medically directing 1 CRNA               | **50%**                     |
-| **[[-AD]]** | **Anesthesiologist** | Supervising 5+ concurrent cases          | **Limited base units only** |
+| **[[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]** | **Anesthesiologist** | Supervising 5+ concurrent cases          | **Limited base units only** |
 | **[[-QX]]** | **CRNA / AA**        | Medically directed by a physician        | **50%**                     |
 | **[[-QZ]]** | **CRNA**             | Without medical direction by a physician | **100% CRNA rate**          |
 
@@ -99,4 +99,4 @@ This modifier is the highest-level anesthesia payment modifier and results in re
 - [[-QX]]
 - [[-QZ]]
 - [[-QY]]
-- [[-AD]]
+- [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]

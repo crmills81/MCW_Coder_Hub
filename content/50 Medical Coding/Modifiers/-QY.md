@@ -61,7 +61,7 @@ HCPCS Level II Modifiers
 ```
 
 **Parent Category**: Anesthesia Modifiers <sup>7</sup>  
-**Related Modifiers**: [[-AA]], [[-QK]], [[-QX]], [[-QZ]], [[-AD]] (Supervision >4 cases)  
+**Related Modifiers**: [[-AA]], [[-QK]], [[-QX]], [[-QZ]], [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] (Supervision >4 cases)  
 **Primary Code Dependency**: Must be appended to a valid Anesthesia CPT® code (e.g., 00100, 00300)
 
 ---
@@ -97,7 +97,7 @@ HCPCS Level II Modifiers
 ### ❌ Excludes / Bundled Per NCCI
 - Personal performance of anesthesia (use [[-AA]] if anesthesiologist does it all) <sup>3</sup>
 - Medical direction of 2-4 CRNAs (use [[-QK]]) <sup>3</sup>
-- Medical supervision of >4 concurrent procedures (use [[-AD]]) <sup>3</sup>
+- Medical supervision of >4 concurrent procedures (use [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]) <sup>3</sup>
 - CRNA services without medical direction (CRNA uses [[-QZ]]) <sup>3</sup>
 - Services not meeting Tefra medical direction criteria (may be denied) <sup>6</sup>
 
@@ -151,7 +151,7 @@ Modifier [[-QY]] does not directly impact MS-DRG assignment, as DRGs are based o
 | **[[-QK]]**   | **Medical direction of 2-4 CRNAs**                      | ❌ Do not use with [[-QY]]                                 |
 | **[[-QX]]**   | **CRNA service with medical direction**                 | ✅ Used by CRNA when anesthesiologist bills [[-QY]]        |
 | **[[-QZ]]**   | **CRNA service without medical direction**              | ❌ Mutually exclusive with [[-QY]] relationship            |
-| **[[-AD]]**   | **Medical supervision >4 procedures**                   | ❌ Do not use with [[-QY]]                                 |
+| **[[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]**   | **Medical supervision >4 procedures**                   | ❌ Do not use with [[-QY]]                                 |
 | **[[-47]]**   | **Anesthesia by Surgeon**                               | ❌ Mutually exclusive                                     |
 | **[[-23]]**   | **Unusual Anesthesia**                                  | ✅ Can be used with [[-QY]] if unusual circumstances exist |
 
@@ -226,7 +226,7 @@ To support modifier [[-QY]] and mitigate audit risk, anesthesia documentation sh
 | HCPCS Modifier | [[-QK]] | Medical direction of two, three, or four CRNAs |
 | HCPCS Modifier | [[-QX]] | CRNA service with medical direction by a physician |
 | HCPCS Modifier | [[-QZ]] | CRNA service without medical direction by a physician |
-| HCPCS Modifier | [[-AD]] | Medical supervision by a physician; more than four concurrent anesthesia procedures |
+| HCPCS Modifier | [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] | Medical supervision by a physician; more than four concurrent anesthesia procedures |
 | CPT® | [[00100]]-[[01999]] | Anesthesia Procedure Codes |
 | CMS Form | CMS-1500 | Professional claim form where [[-QY]] is reported |
 

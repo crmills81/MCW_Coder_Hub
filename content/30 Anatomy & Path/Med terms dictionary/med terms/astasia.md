@@ -51,7 +51,7 @@ _____
 >
 > - **[[abasia]]** — the inability to walk; highly correlated with astasia. A patient may theoretically have abasia without [[astasia]] (**can stand but not walk**), but they rarely have astasia without abasia.
 > - **[[Ataxia]]** — **[[R27.0]]**; a lack of voluntary muscle coordination (**e.g., cerebellar ataxia**). An ataxic patient may have severe difficulty standing (**astasia**), but ataxia refers to the broader discoordination.
-> - **[[Apraxia]]** — **[[R48.2]]**; the neurological inability to execute purposeful movements despite normal strength. "Gait apraxia" can lead to difficulty initiating walking or standing.
+> - **[[apraxia]]** — **[[R48.2]]**; the neurological inability to execute purposeful movements despite normal strength. "Gait apraxia" can lead to difficulty initiating walking or standing.
 > - **[[Conversion disorder]]** — **[[F44.4]]**; a psychiatric condition where psychological stress manifests as physical neurological symptoms; the classic cause of functional [[astasia-abasia]].
 > - **[[Orthostatic hypotension]]** — **[[I95.1]]**; a sudden drop in blood pressure upon standing causing presyncope; must be clinically differentiated from astasia, as the etiology is cardiovascular, not coordinative.
 > - **[[Asthenia]]** — **[[R53.1]]**; true clinical weakness or loss of strength, which **astasia** explicitly excludes.

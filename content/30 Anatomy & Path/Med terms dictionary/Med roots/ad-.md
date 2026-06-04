@@ -48,7 +48,7 @@ _____
 >
 | [[ad-]] | toward |    to    |        -         |
 |:-------:|:------:|:-------:|:----------------:|
-| [[-ad]] | YES |       |        -         |
+| [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] | YES |       |        -         |
 | [[ob-]] |  YES   | against | very, thoroughly |
 _____
 >[!tip]+ DERIVATIONS of [[ad-]]

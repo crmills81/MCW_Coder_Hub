@@ -53,7 +53,7 @@ _____
 >
 > - **[[astasia]]** — the inability to stand; almost always co-occurs with abasia.
 > - **[[Ataxia]]** — **[[R27.0]]**; a lack of voluntary muscle coordination (**e.g., cerebellar ataxia**). A patient with severe truncal ataxia may present with abasia due to the inability to balance.
-> - **[[Apraxia]] of gait** — **[[R48.2]]**; a neurological condition where the patient loses the brain's "programming" for walking despite normal strength; legs feel "glued to the floor."
+> - **[[apraxia]] of gait** — **[[R48.2]]**; a neurological condition where the patient loses the brain's "programming" for walking despite normal strength; legs feel "glued to the floor."
 > - **[[Conversion disorder]]** — **[[F44.4]]** (with abnormal movement); the psychiatric condition where psychological distress is converted into physical neurological symptoms; the classic etiology for astasia-abasia.
 > - **[[paraplegia]]** — **[[G82.20]]**; complete paralysis of the lower half of the body. This is distinctly different from [[abasia]], as paraplegia involves true structural weakness and loss of motor function, even when supine.
 > - **[[Asthenia]]** — **[[R53.1]]**; true clinical weakness or loss of strength, which **abasia** explicitly rules out.

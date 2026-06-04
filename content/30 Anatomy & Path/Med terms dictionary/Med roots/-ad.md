@@ -1,7 +1,6 @@
 ---
 tags:
   - medroot
-  - medterm
 aliases:
   - -ads
   - -ally
@@ -18,8 +17,8 @@ definition:
   - indicates direction toward a part of the body
   - toward
 ---
->[!Note] DEFINITION of [[-ad]]
->**Forms adverbs**: indicates direction toward a part of the body, toward; The suffix **-ad** means "**toward**," "**in the direction of,**" or "**near to**" a specified anatomical structure or region. It is a directional/positional suffix used to construct adverbs and adjectives that describe movement toward or proximity to a particular anatomical landmark. It is most commonly encountered in **anatomical terminology to indicate spatial orientation or direction of movement relative to a body part, plane, or structure**. Unlike purely adjectival suffixes (such as **[[-al]]** or [[-ac]]), **[[-ad]]** often functions adverbially — meaning it describes _direction of movement_ rather than simply _association_ with a structure.
+>[!Note] DEFINITION of [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]
+>**Forms adverbs**: indicates direction toward a part of the body, toward; The suffix **-ad** means "**toward**," "**in the direction of,**" or "**near to**" a specified anatomical structure or region. It is a directional/positional suffix used to construct adverbs and adjectives that describe movement toward or proximity to a particular anatomical landmark. It is most commonly encountered in **anatomical terminology to indicate spatial orientation or direction of movement relative to a body part, plane, or structure**. Unlike purely adjectival suffixes (such as **[[-al]]** or [[-ac]]), **[[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]** often functions adverbially — meaning it describes _direction of movement_ rather than simply _association_ with a structure.
 >
 In gross anatomy and surgical operative reporting, **-ad** constructions help precisely describe the trajectory of [[dissection]], the location of pathology, or the orientation of anatomical structures relative to one another. This has direct relevance in operative **note documentation and inpatient coding**, where anatomical precision in the health record supports accurate ICD-10-PCS root operation and body part selection.
 >
@@ -29,7 +28,7 @@ _____
 >[!info]+ ETYMOLOGY of -ad
 >#latin From **Latin** _ad_ — a preposition and prefix meaning "**to**," "**toward**," "**near**," or "**at**." One of the most productive prepositions in Latin, used extensively in the formation of both classical Latin and modern medical/anatomical terminology. The same Latin root underlies the prefix **ad-** (which assimilates to _[[ac-]]_, _[[af-]]_, _[[ag-]]_, _[[al-]]_, _[[an-]]_, _[[ap-]]_, _[[ar-]]_, _[[as-]]_, _[[at-]]_ depending on the following consonant). As a suffix in anatomical adverbs, **-ad** was systematized in modern **anatomical nomenclature** to produce consistent directional descriptors.
 _____
->[!example]+ RELATED TERMS to [[-ad]]
+>[!example]+ RELATED TERMS to [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]
 >
 >- **[[Cephalad]]** — toward the head (**superior direction; common in ENT/head and neck operative notes**)
 >- **Caudad** — toward the tail or feet (**inferior direction**)
@@ -49,7 +48,7 @@ _____
 >
 
 _____
->[!tip]- DERIVATIONS of [[-ad]]
+>[!tip]- DERIVATIONS of [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

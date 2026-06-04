@@ -34,7 +34,7 @@ related_modifiers:
   - "[[-QK]]"
   - "[[-QX]]"
   - "[[-QY]]"
-  - "[[-AD]]"
+  - "[[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]"
 date_created: 2026-02-23
 date_modified: 2026-02-23
 note_type: modifier-reference
@@ -68,9 +68,9 @@ The **CRNA** personally performed and fully managed the entire **anesthesia** se
 
 ## When NOT to Use
 - When the CRNA is working **under the medical direction** of a physician anesthesiologist — use **[[-QX]]** instead.
-- When the CRNA is working under **medical supervision** (physician is present but not meeting medical direction standards) — payer policy varies; many require [[-QX]] with [[-AD]] on the physician's side in supervision scenarios.
+- When the CRNA is working under **medical supervision** (physician is present but not meeting medical direction standards) — payer policy varies; many require [[-QX]] with [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] on the physician's side in supervision scenarios.
 - When an **anesthesiologist personally performed** the case — use **-AA** instead.
-- **Never** report [[-QZ]] on the same claim line as [[-AA]], [[-QK]], -QX, [[-QY]], or [[-AD]] — these are mutually exclusive.
+- **Never** report [[-QZ]] on the same claim line as [[-AA]], [[-QK]], -QX, [[-QY]], or [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] — these are mutually exclusive.
 
 ## Reimbursement
 - **CRNA** bills [[-QZ]]: **100% of the applicable CRNA anesthesia fee schedule allowable**.
@@ -92,7 +92,7 @@ The **CRNA** personally performed and fully managed the entire **anesthesia** se
 | [[-AA]] | Anesthesiologist | Personally performed, full case | 100% |
 | [[-QK]] | Anesthesiologist | Medically directing 2-4 concurrent cases | 50% |
 | [[-QY]] | Anesthesiologist | Medically directing 1 CRNA | 50% |
-| [[-AD]] | Anesthesiologist | Supervising 5+ concurrent cases | Limited base units only |
+| [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] | Anesthesiologist | Supervising 5+ concurrent cases | Limited base units only |
 | [[-QX]] | CRNA / AA | Medically directed by a physician | 50% |
 | [[-QZ]] | CRNA | Without medical direction by a physician | 100% CRNA rate |
 
@@ -108,5 +108,5 @@ The **CRNA** personally performed and fully managed the entire **anesthesia** se
 - [[-QK]]
 - [[-QX]]
 - [[-QY]]
-- [[-AD]]
+- [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]
 

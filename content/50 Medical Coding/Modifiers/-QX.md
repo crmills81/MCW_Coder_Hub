@@ -1,12 +1,4 @@
 ---
-title: "-QX"
-aliases:
-  - Modifier QX
-  - QX
-  - Modifier -QX
-  - QX Modifier
-  - CRNA With Medical Direction
-  - Qualified Nonphysician Anesthetist Medically Directed
 tags:
   - modifier
   - anesthesia
@@ -16,13 +8,21 @@ tags:
   - medical-direction
   - anesthesia-payment-modifier
   - nonphysician-anesthetist
+title: -QX
+aliases:
+  - Modifier QX
+  - QX
+  - Modifier -QX
+  - QX Modifier
+  - CRNA With Medical Direction
+  - Qualified Nonphysician Anesthetist Medically Directed
 modifier_code: QX
 modifier_type: HCPCS Level II
 full_name: "Qualified Nonphysician Anesthetist Service: With Medical Direction by a Physician"
-short_definition: "The CRNA or anesthesiologist assistant (AA) provided anesthesia services under the medical direction of a physician anesthesiologist."
+short_definition: The CRNA or anesthesiologist assistant (AA) provided anesthesia services under the medical direction of a physician anesthesiologist.
 reported_by: CRNA or Anesthesiologist Assistant (AA)
 use_by_anesthesiologist: false
-paired_with: "QK (anesthesiologist reports QK on their own claim) or QY (when directing only 1 CRNA)"
+paired_with: QK (anesthesiologist reports QK on their own claim) or QY (when directing only 1 CRNA)
 reimbursement_rate: 50% of applicable fee schedule rate
 mutually_exclusive_with:
   - AA
@@ -37,7 +37,7 @@ related_modifiers:
   - "[[-QK]]"
   - "[[-QZ]]"
   - "[[-QY]]"
-  - "[[-AD]]"
+  - "[[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]"
 date_created: 2026-02-23
 date_modified: 2026-02-23
 note_type: modifier-reference
@@ -85,7 +85,7 @@ Both the anesthesiologist (billing QK or QY) and the CRNA/AA (billing QX) each r
 | [[-AA]] | Anesthesiologist | Personally performed, full case | 100% |
 | [[-QK]] | Anesthesiologist | Medically directing 2-4 concurrent cases | 50% |
 | [[-QY]] | Anesthesiologist | Medically directing 1 CRNA | 50% |
-| [[-AD]] | Anesthesiologist | Supervising 5+ concurrent cases | Limited base units only |
+| [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] | Anesthesiologist | Supervising 5+ concurrent cases | Limited base units only |
 | -QX | CRNA / AA | Medically directed by a physician | 50% |
 | [[-QZ]] | CRNA | Without medical direction by a physician | 100% CRNA rate |
 
@@ -101,4 +101,4 @@ Both the anesthesiologist (billing QK or QY) and the CRNA/AA (billing QX) each r
 - [[-QK]]
 - [[-QZ]]
 - [[-QY]]
-- [[-AD]]
+- [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]

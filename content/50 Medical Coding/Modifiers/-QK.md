@@ -1,12 +1,4 @@
 ---
-title: "-QK"
-aliases:
-  - Modifier QK
-  - Modifier -QK
-  - QK
-  - QK Modifier
-  - Medical Direction 2-4 Concurrent Procedures
-  - Anesthesiologist Medical Direction
 tags:
   - modifier
   - anesthesia
@@ -15,10 +7,18 @@ tags:
   - medical-direction
   - concurrent-cases
   - anesthesia-payment-modifier
+title: -QK
+aliases:
+  - Modifier QK
+  - Modifier -QK
+  - QK
+  - QK Modifier
+  - Medical Direction 2-4 Concurrent Procedures
+  - Anesthesiologist Medical Direction
 modifier_code: QK
 modifier_type: HCPCS Level II
 full_name: Medical Direction of Two, Three, or Four Concurrent Anesthesia Procedures Involving Qualified Individuals
-short_definition: "The anesthesiologist is medically directing two, three, or four concurrent anesthesia procedures being performed by qualified individuals (CRNAs, AAs, residents, or combinations)."
+short_definition: The anesthesiologist is medically directing two, three, or four concurrent anesthesia procedures being performed by qualified individuals (CRNAs, AAs, residents, or combinations).
 reported_by: Physician Anesthesiologist (MD/DO) only
 use_by_crna: false
 concurrent_case_limit: 2 to 4
@@ -101,7 +101,7 @@ All seven of the following must be performed and documented by the anesthesiolog
 | [[-AA]] | Anesthesiologist | Personally performed, full case | 100% |
 | -QK | Anesthesiologist | Medically directing 2-4 concurrent cases | 50% |
 | [[-QY]] | Anesthesiologist | Medically directing 1 CRNA | 50% |
-| [[-AD]] | Anesthesiologist | Supervising 5+ concurrent cases | Limited base units only |
+| [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] | Anesthesiologist | Supervising 5+ concurrent cases | Limited base units only |
 | [[-QX]] | CRNA / AA | Medically directed by a physician | 50% |
 | [[-QZ]] | CRNA | Without medical direction by a physician | 100% CRNA rate |
 
@@ -117,4 +117,4 @@ All seven of the following must be performed and documented by the anesthesiolog
 - [[-QX]]
 - [[-QZ]]
 - [[-QY]]
-- [[-AD]]
+- [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]

@@ -1,7 +1,8 @@
 ---
 tags:
   - medterm
-  - medroot
+  - otolaryngology
+  - urology
 aliases:
   - abscesses
 roots:
@@ -13,10 +14,7 @@ forms:
   - suffix
   - combining
 alphabet: A
-definition:
-  - pocket of pus that collects in tissues
-  - organs
-  - or spaces inside the body
+definition: pocket of pus that collects in tissues, organs, or spaces inside the body
 ---
 >[!Note] DEFINITION of [[abscess]]
 >An **abscess** is a localized collection of purulent material (**pus**) buried in tissues, organs, or confined spaces. It is typically t**he result of the body's defensive immune response to a foreign body or infectious agent** (**bacteria, parasites**). The immune system sends white blood cells to the infected area, which accumulate and combine with damaged tissue and bacteria to form liquid pus. The body attempts to wall off this infection with a capsule (**pyogenic membrane**) to prevent it from spreading to healthy tissue.

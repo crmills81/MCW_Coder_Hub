@@ -54,7 +54,7 @@ _____
 > - **[[astasia]]** — the isolated inability to stand.
 > - **[[abasia]]** — the isolated inability to walk.
 > - **[[Ataxia]]** — **[[R27.0]]**; a lack of voluntary muscle coordination. A patient with severe truncal ataxia may present with symptoms resembling astasia-abasia due to profound cerebellar dysfunction.
-> - **[[Apraxia]] of gait** — **[[R48.2]]**; a neurological condition where the patient loses the higher-level cortical "programming" for walking despite normal strength; legs may feel "magnetized to the floor."
+> - **[[apraxia]] of gait** — **[[R48.2]]**; a neurological condition where the patient loses the higher-level cortical "programming" for walking despite normal strength; legs may feel "magnetized to the floor."
 > - **[[Conversion disorder]]** — **[[F44.4]]** (with abnormal movement); the psychiatric condition where psychological distress is converted into physical neurological symptoms; the classic driver of functional astasia-abasia.
 > - **[[paraplegia]]** — **[[G82.20]]**; complete paralysis of the lower half of the body. Distinctly different from astasia-abasia, as paraplegia involves true structural weakness/loss of motor function, even when supine.
 > - **[[Orthostatic hypotension]]** — **[[I95.1]]**; a sudden drop in blood pressure upon standing causing presyncope or syncope; must be clinically differentiated from astasia.

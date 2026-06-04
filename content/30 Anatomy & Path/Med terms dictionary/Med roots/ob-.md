@@ -28,7 +28,7 @@ _____
 >|    [[ob-]]    | against | toward | very | thoroughly |           -            |     -     |
 |:-------------:|:-------:|:------:|:----:|:----------:|:----------------------:|:---------:|
 |    [[ad-]]    |    -    |  YES   |  -   |     -      |           to           |     -     |
-|    [[-ad]]    |    -    |  YES   |  -   |     -      |           -            |     -     |
+|    [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]    |    -    |  YES   |  -   |     -      |           -            |     -     |
 |   [[ana-]]    |   YES   |   -    |  -   |     -      |           up           |   back    |
 |   [[anti-]]   |   YES   |   -    |  -   |     -      | opposed to, preventing | relieving |
 |   [[con-]]    |    -    |   -    | YES  |    YES     |     together, with     |     -     |

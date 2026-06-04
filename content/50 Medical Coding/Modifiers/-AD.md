@@ -16,13 +16,6 @@ code: -AD
 code_type: HCPCS Level II Modifier
 category: Anesthesia Modifiers
 global_period: Follows Primary Procedure
-wRVU: N/A (Adjusts Primary Procedure)
-peRVU: N/A
-mpRVU: N/A
-total_RVU: N/A
-assistant_surgeon_payable: N/A (Anesthesia Supervision)
-ncci_modifier_indicator: N/A (Applied to Anesthesia Code)
-separate_procedure: false
 ms_drg_primary: Follows Primary Procedure
 last_updated: 2026-03-14
 ---
@@ -41,7 +34,7 @@ last_updated: 2026-03-14
 
 ## 📋 Code Description & Clinical Context
 
-**Modifier [[-AD]]** is a **HCPCS Level II** modifier used to identify when an **anesthesiologist** is medically supervising **more than four concurrent anesthesia procedures** <sup>1</sup>. This modifier indicates a level of oversight that exceeds the standard medical direction limits (**which cap at four concurrent procedures under Tefra regulations**). It is used when the anesthesiologist is responsible for more than four cases simultaneously, often in large surgical centers or trauma situations <sup>3</sup>.
+**Modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]** is a **HCPCS Level II** modifier used to identify when an **anesthesiologist** is medically supervising **more than four concurrent anesthesia procedures** <sup>1</sup>. This modifier indicates a level of oversight that exceeds the standard medical direction limits (**which cap at four concurrent procedures under Tefra regulations**). It is used when the anesthesiologist is responsible for more than four cases simultaneously, often in large surgical centers or trauma situations <sup>3</sup>.
 
 **Key Usage Indications**:
 - An **anesthesiologist** is medically supervising more than four concurrent **anesthesia** procedures
@@ -50,7 +43,7 @@ last_updated: 2026-03-14
 - Documentation supports the medical supervision relationship
 
 > [!NOTE] Medical Supervision vs. Direction
-> Medical **direction** (modifiers [[-QY]], [[-QK]]) is limited to four concurrent procedures. Medical **supervision** (modifier [[-AD]]) applies when the number exceeds four. Reimbursement rates and requirements differ significantly between direction and supervision <sup>6</sup>.
+> Medical **direction** (modifiers [[-QY]], [[-QK]]) is limited to four concurrent procedures. Medical **supervision** (modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]) applies when the number exceeds four. Reimbursement rates and requirements differ significantly between direction and supervision <sup>6</sup>.
 
 ---
 
@@ -78,8 +71,8 @@ HCPCS Level II Modifiers
 |-----------|------|-------|
 | **Base Rate** | 100% | Based on the allowed amount for the Anesthesia CPT® code <sup>4</sup> |
 | **Supervision Rate** | Varies | Typically reduced compared to medical direction rates <sup>4</sup> |
-| **Concurrency Limit** | >4 Cases | Defines the threshold for using [[-AD]] vs [[-QK]] <sup>6</sup> |
-| **Final [[-AD]] Rate** | **Varies** | Depends on payer policy for supervision >4 cases <sup>4</sup> |
+| **Concurrency Limit** | >4 Cases | Defines the threshold for using [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] vs [[-QK]] <sup>6</sup> |
+| **Final [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] Rate** | **Varies** | Depends on payer policy for supervision >4 cases <sup>4</sup> |
 | **Global Period** | Same as Primary | Anesthesia services are paid per unit/time; no global period in surgical sense <sup>2</sup> |
 
 **Assistant Surgeon Payable**: N/A (Anesthesia Supervision)  
@@ -106,13 +99,13 @@ HCPCS Level II Modifiers
 - CRNA services without physician involvement (CRNA uses [[-QZ]]) <sup>3</sup>
 
 > [!IMPORTANT] Tefra Regulations Critical Note
-> Modifier [[-AD]] indicates supervision beyond the standard Tefra limit of four concurrent procedures. Some payers may not reimburse for supervision beyond four cases, or may require additional documentation justifying the need for such concurrency <sup>6</sup>.
+> Modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] indicates supervision beyond the standard Tefra limit of four concurrent procedures. Some payers may not reimburse for supervision beyond four cases, or may require additional documentation justifying the need for such concurrency <sup>6</sup>.
 
 ---
 
 ## 🏥 MS-DRG Assignment (Inpatient Facility)
 
-Modifier [[-AD]] does not directly impact MS-DRG assignment, as DRGs are based on the primary surgical procedure and diagnoses. It affects physician reimbursement under Medicare Part B.
+Modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] does not directly impact MS-DRG assignment, as DRGs are based on the primary surgical procedure and diagnoses. It affects physician reimbursement under Medicare Part B.
 
 | Scenario | Impact | Description |
 |----------|--------|-------------|
@@ -121,13 +114,13 @@ Modifier [[-AD]] does not directly impact MS-DRG assignment, as DRGs are based o
 | Inpatient Status | Part B Billing | Anesthesia services billed on CMS-1500/837P <sup>8</sup> |
 
 > [!Note] 
-> Facility reimbursement (**Part A**) is not affected by modifier [[-AD]]; this modifier is for professional fee billing only <sup>8</sup>.
+> Facility reimbursement (**Part A**) is not affected by modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]; this modifier is for professional fee billing only <sup>8</sup>.
 
 ---
 
 ## 🏷️ Common ICD-10-CM Diagnosis Codes
 
-*Modifier [[-AD]] does not change diagnosis coding requirements. Diagnosis codes must support the medical necessity of the **primary surgical procedure** and anesthesia.*
+*Modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] does not change diagnosis coding requirements. Diagnosis codes must support the medical necessity of the **primary surgical procedure** and anesthesia.*
 
 ### Primary Diagnosis Options (Dependent on Procedure)
 | ICD-10-CM Code | Description | HCC Status* |
@@ -138,7 +131,7 @@ Modifier [[-AD]] does not directly impact MS-DRG assignment, as DRGs are based o
 | [[Z40.01]] | Encounter for prophylactic surgery for malignant neoplasm | ✅ HCC (History of Cancer) |
 | [[I10]] | Essential (primary) hypertension | ✅ HCC (Cardiovascular) |
 
-\* *HCC Status*: Hierarchical Condition Category mapping for Medicare Advantage risk adjustment. Diagnosis codes determine HCC status, not the modifier. Modifier [[-AD]] has no impact on risk adjustment scores <sup>9</sup><sup>10</sup>.
+\* *HCC Status*: Hierarchical Condition Category mapping for Medicare Advantage risk adjustment. Diagnosis codes determine HCC status, not the modifier. Modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] has no impact on risk adjustment scores <sup>9</sup><sup>10</sup>.
 
 ### Supporting/Comorbid Codes (Document When Applicable)
 - [[N18.30]] Chronic kidney disease, stage 3 unspecified (HCC applicable)
@@ -149,18 +142,18 @@ Modifier [[-AD]] does not directly impact MS-DRG assignment, as DRGs are based o
 
 ## ✏️ Modifiers Guidance
 
-| Modifier | Use Case for [[-AD]] | Payable? |
+| Modifier | Use Case for [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] | Payable? |
 |----------|------------------------|----------|
-| [[-AA]] | Anesthesia performed personally by anesthesiologist | ❌ Do not use with [[-AD]] |
-| [[-QK]] | Medical direction of 2-4 CRNAs | ❌ Do not use with [[-AD]] |
-| [[-QY]] | Anesthesiologist directing one CRNA | ❌ Do not use with [[-AD]] |
+| [[-AA]] | Anesthesia performed personally by anesthesiologist | ❌ Do not use with [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] |
+| [[-QK]] | Medical direction of 2-4 CRNAs | ❌ Do not use with [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] |
+| [[-QY]] | Anesthesiologist directing one CRNA | ❌ Do not use with [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] |
 | [[-QX]] | CRNA service with medical direction | ⚠️ CRNA may use [[-QX]] or [[-QZ]] depending on relationship |
 | [[-QZ]] | CRNA service without medical direction | ✅ May be used by CRNA if supervision exceeds direction limits |
 | [[-47]] | Anesthesia by Surgeon | ❌ Mutually exclusive |
-| [[-23]] | Unusual Anesthesia | ✅ Can be used with [[-AD]] if unusual circumstances exist |
+| [[-23]] | Unusual Anesthesia | ✅ Can be used with [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] if unusual circumstances exist |
 
-> [!CAUTION] Modifier [[-AD]] vs [[-QK]]
-> Do not use modifier [[-AD]] if the anesthesiologist is directing four or fewer CRNAs. Use [[-QK]] for 2-4 CRNAs. [[-AD]] is strictly for >4 concurrent procedures <sup>3</sup>.
+> [!CAUTION] Modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] vs [[-QK]]
+> Do not use modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] if the anesthesiologist is directing four or fewer CRNAs. Use [[-QK]] for 2-4 CRNAs. [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] is strictly for >4 concurrent procedures <sup>3</sup>.
 
 ---
 
@@ -169,32 +162,32 @@ Modifier [[-AD]] does not directly impact MS-DRG assignment, as DRGs are based o
 ### ✅ Example 1: Anesthesiologist Supervising Five Cases
 > **Scenario**: Anesthesiologist medically supervises five concurrent anesthesia cases in a high-volume ASC.  
 > **Report**:  
-> - Anesthesiologist: [[00402]]-[[-AD]] (for each case)  
+> - Anesthesiologist: [[00402]]-[[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] (for each case)  
 > - Diagnosis: [[M17.11]]  
 > **Rationale**: >4 concurrent procedures; correct modifier for supervision <sup>11</sup>.
 
 ### ❌ Example 2: Anesthesiologist Directing Three CRNAs
-> **Scenario**: Anesthesiologist directs three CRNAs. Bills [[-AD]].  
-> **Report**: [[00402]]-[[-AD]]  
-> **Rationale**: **Incorrect**. For 2-4 CRNAs, modifier [[-QK]] must be used. [[-AD]] is for >4 cases <sup>3</sup>.
+> **Scenario**: Anesthesiologist directs three CRNAs. Bills [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]].  
+> **Report**: [[00402]]-[[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]  
+> **Rationale**: **Incorrect**. For 2-4 CRNAs, modifier [[-QK]] must be used. [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] is for >4 cases <sup>3</sup>.
 
 ### ⚠️ Example 3: Personal Performance
-> **Scenario**: Anesthesiologist performs all anesthesia services personally. Bills [[-AD]].  
-> **Report**: [[00402]]-[[-AD]]  
+> **Scenario**: Anesthesiologist performs all anesthesia services personally. Bills [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]].  
+> **Report**: [[00402]]-[[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]  
 > **Rationale**: **Incorrect**. If personally performed, modifier [[-AA]] should be used for 100% reimbursement <sup>3</sup>.
 
 ### ✅ Example 4: Unusual Anesthesia with Supervision
 > **Scenario**: Patient has severe cardiac disease. Anesthesiologist supervises >4 cases including this one.  
 > **Report**:  
-> - Anesthesiologist: [[00402]]-[[-AD]]-[[-23]]  
+> - Anesthesiologist: [[00402]]-[[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]-[[-23]]  
 > - Diagnosis: [[I10]], [[M17.11]]  
-> **Rationale**: Modifier [[-23]] indicates unusual anesthesia; [[-AD]] indicates supervision relationship <sup>11</sup>.
+> **Rationale**: Modifier [[-23]] indicates unusual anesthesia; [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] indicates supervision relationship <sup>11</sup>.
 
 ---
 
 ## 🔍 Documentation Essentials for Support
 
-To support modifier [[-AD]] and mitigate audit risk, anesthesia documentation should include:
+To support modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] and mitigate audit risk, anesthesia documentation should include:
 
 1. **Concurrency Count**: Document the number of concurrent procedures being supervised (must be >4) <sup>6</sup>.
 2. **Supervision Tasks**: Document oversight activities (availability, monitoring, post-op care).
@@ -212,9 +205,9 @@ To support modifier [[-AD]] and mitigate audit risk, anesthesia documentation sh
 
 | Pitfall | Consequence | Prevention |
 |---------|-------------|------------|
-| Using [[-AD]] for ≤4 CRNAs | Claim denial or recoupment | Use [[-QK]] for 2-4 CRNAs <sup>3</sup> |
+| Using [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] for ≤4 CRNAs | Claim denial or recoupment | Use [[-QK]] for 2-4 CRNAs <sup>3</sup> |
 | Failing to meet supervision criteria | Payment denial | Ensure supervision requirements are documented <sup>6</sup> |
-| Using [[-AD]] for personal performance | Underpayment | Use [[-AA]] if anesthesiologist performs all services <sup>3</sup> |
+| Using [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] for personal performance | Underpayment | Use [[-AA]] if anesthesiologist performs all services <sup>3</sup> |
 | Inadequate concurrency documentation | Audit failure | Document exact number of concurrent cases <sup>11</sup> |
 | Inadequate time documentation | Payment reduction | Document exact anesthesia time units <sup>11</sup> |
 
@@ -222,7 +215,7 @@ To support modifier [[-AD]] and mitigate audit risk, anesthesia documentation sh
 
 ## 🔗 Related Codes & Crosswalks
 
-| Code Type | Code | Relationship to [[-AD]] |
+| Code Type | Code | Relationship to [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] |
 |-----------|------|---------------------------|
 | HCPCS Modifier | [[-AA]] | Anesthesia services performed personally by anesthesiologist |
 | HCPCS Modifier | [[-QK]] | Medical direction of two, three, or four CRNAs |
@@ -230,7 +223,7 @@ To support modifier [[-AD]] and mitigate audit risk, anesthesia documentation sh
 | HCPCS Modifier | [[-QX]] | CRNA service with medical direction by a physician |
 | HCPCS Modifier | [[-QZ]] | CRNA service without medical direction by a physician |
 | CPT® | [[00100]]-[[01999]] | Anesthesia Procedure Codes |
-| CMS Form | CMS-1500 | Professional claim form where [[-AD]] is reported |
+| CMS Form | CMS-1500 | Professional claim form where [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] is reported |
 
 ---
 

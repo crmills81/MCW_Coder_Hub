@@ -18,8 +18,7 @@ forms:
   - noun
   - adjective
 alphabet: C
-definition:
-  - Inflammation of both the choroid and retina of the eye; a form of posterior uveitis
+definition: Inflammation of both the choroid and retina of the eye; a form of posterior uveitis
 ---
 >[!Note] DEFINITION of [[chorioretinitis]]
 >**Chorioretinitis** is the simultaneous **inflammation of the choroid** (the thin, vascular, pigmented middle layer of the eye that supplies the outer retina with blood and oxygen) **and the retina** (the light-sensitive neuroepithelial layer lining the posterior eye). It is classified as a form of **posterior uveitis** — uveitis that affects the back segment of the eye — and is distinguished from **[[choroiditis]] alone** (choroid inflamed, retina spared) and **retinitis alone** (retina inflamed, choroid spared). Because the choroid and retina are anatomically adjacent and share [[vascular]] supply, inflammation in one layer almost always propagates to the other. [[chorioretinitis]] is a **vision-threatening condition**: active lesions can cause **scotomas, photopsia, and permanent visual field loss**, particularly when the **macula or optic nerve** is involved. The most common infectious cause worldwide is **[[toxoplasmosis]]** (*Toxoplasma gondii*), with other causes including **CMV** (especially in immunocompromised patients), **[[syphilis]]**, **[[tuberculosis]]**, **[[histoplasmosis]]**, **[[sarcoidosis]]**, and **[[West Nile virus]]**. The classic toxoplasmic lesion appears as a **focal white [[retinitis]] adjacent to a pigmented chorioretinal scar** — often described as "a satellite lesion" — with overlying vitreous haze producing the "**headlight in fog**" sign on fundoscopy.
@@ -73,7 +72,7 @@ _____
 _____
 
 > [!example]+ #### CODING CORNER
-> <br>
+> 
 > 
 > ### 🏥 ICD-10-CM CODES
 > 
@@ -158,8 +157,6 @@ _____
 > |---|---|
 > |**[[92004]]**|Ophthalmological services, new patient; comprehensive, one or more visits, with initiation of diagnostic and treatment program|
 > |**[[92014]]**|Ophthalmological services, established patient; comprehensive, one or more visits|
-
-
 > |**[[92134]]**|Scanning computerized ophthalmic diagnostic imaging, posterior segment (OCT); retina|
 > |**[[92235]]**|Fluorescein angiography (includes multiframe imaging) with interpretation and report, unilateral or bilateral|
 > |**[[92240]]**|Indocyanine-green angiography (ICG), with interpretation and report, unilateral or bilateral|
@@ -171,6 +168,7 @@ _____
 > 
 > > ⚠️ **Coding Note:** Laterality is **mandatory** for all H30.0x and H30.1x codes — unspecified eye codes (H30.X09, H30.X19) should only be used when the operative/imaging report truly does not document the eye. For **infectious chorioretinitis**, ICD-10-CM instructs you to code the **underlying organism first** (e.g., [[B58.01]] for toxoplasmosis, [[A52.71]] for syphilis) with H32 as the ocular manifestation when applicable — follow the "use additional code" / "code first" notes in the Tabular. On inpatient profee claims, **B58.01 (Toxoplasma chorioretinitis)** in an HIV-positive patient is a strong **MCC/AIDS-defining illness** — always ensure the HIV disease ([[B20]]) is coded, not just the HIV status (Z21). **[[67028]] (intravitreal injection)** is frequently billed alongside [[92014]] for anti-VEGF or steroid management of posterior uveitis complications; confirm the injection drug with a HCPCS **J-code** (e.g., **J0178** for aflibercept, **J2778** for ranibizumab). OCT ([[92134]]) and fluorescein angiography ([[92235]]) are the two primary diagnostic imaging CPTs for monitoring lesion activity and response to treatment.
 > 
+
 _____
 >[!tip]- DERIVATIONS of [[chorioretinitis]]
 >```dataview

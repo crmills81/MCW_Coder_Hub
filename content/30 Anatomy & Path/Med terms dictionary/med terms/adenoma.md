@@ -12,8 +12,7 @@ forms:
   - noun
   - suffix
 alphabet: A
-definition:
-  - A benign tumor that arises in or resembles glandular tissue.
+definition: A benign tumor that arises in or resembles glandular tissue.
 ---
 >[!Note] DEFINITION of [[adenoma]]
 >The term **adenoma** refers to a **benign neoplasm** (**non-cancerous tumor**) of **epithelial** tissue with **glandular** origin, or one that exhibits glandular characteristics. **Adenomas** can grow from many glandular organs, including the **colon**, **pituitary gland**, **thyroid**, **adrenal glands**, and **prostate**. Although they are benign and do not metastasize, they can cause significant clinical issues by compressing surrounding structures (**mass effect**) or by overproducing hormones (**e.g., a functioning pituitary adenoma causing acromegaly or Cushing's disease**). Critically, some adenomas — particularly **adenomatous polyps** in the colon — are considered **precancerous** and have a high potential to transform into malignant **adenocarcinomas** if left unremoved.

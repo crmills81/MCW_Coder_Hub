@@ -1,7 +1,6 @@
 ---
 tags:
   - medterm
-  - medroot
   - digestive_system
 aliases:
   - hyperchlorhydria
