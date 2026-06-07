@@ -3,7 +3,6 @@ tags:
   - medterm
   - ophthalmology
   - endocrinology
-  - medroot
 aliases:
   - DR
   - diabetic eye disease
@@ -21,7 +20,7 @@ definition: diabetes-related microvascular disease of the retina ranging from no
 ---
 > [!note] DEFINITION of [[diabetic retinopathy]]
 > 
-> **Diabetic retinopathy** is a **diabetes-related disorder in which chronic hyperglycemia damages the retinal microvasculature and neural tissue of the retina**. It is classically staged as no apparent [[retinopathy]], mild [[nonproliferative diabetic retinopathy (NPDR]]), moderate NPDR, severe NPDR, and [[proliferative diabetic retinopathy (PDR)]]. [[Macular edema]] may occur at any stage and is a major cause of vision loss in patients with diabetic retinal disease.
+> **Diabetic retinopathy** is a **diabetes-related disorder in which chronic hyperglycemia damages the retinal microvasculature and neural tissue of the retina**. It is classically staged as no apparent [[retinopathy]], mild [[nonproliferative diabetic retinopathy (NPDR]]), moderate NPDR, severe NPDR, and [[proliferative diabetic retinopathy (PDR)]]. [[macular edema]] may occur at any stage and is a major cause of vision loss in patients with diabetic retinal disease.
 _____
 
 > [!info]+ ETYMOLOGY of [[diabetic retinopathy]]

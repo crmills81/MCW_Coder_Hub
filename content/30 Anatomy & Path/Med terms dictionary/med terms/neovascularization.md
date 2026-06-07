@@ -128,7 +128,7 @@ _____
 > |**[[92250]]**|Fundus photography|
 > |**[[92228]]**|Remote imaging for detection of retinal disease, interpretation & report|
 > |**[[67028]]**|[[Intravitreal]] injection (e.g., anti-VEGF agents like Eylea, Lucentis)|
-> |**[[67210]]**|[[Photocoagulation]], focal; for focal macular edema|
+> |**[[67210]]**|[[photocoagulation]], focal; for focal macular edema|
 > |**[[67228]]**|Panretinal photocoagulation (PRP), laser; for PDR|
 > 
 > > 💡 **Coder's Tip:** When billing the dilated diabetic eye exam, payers often prefer **92002-92014** (ophthalmological service codes) over 99xxx E/M codes for retinopathy-specific monitoring visits. Always check individual payer policies.

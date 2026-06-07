@@ -74,8 +74,8 @@ _____
 > - **[[Acute kidney injury]] (AKI)** — rapid decline in kidney function, sometimes due to acute nephropathy (e.g., toxic nephropathy from contrast); code with [[N17.9]] or specific cause.
 > - **[[Proteinuria]]** — mechanism term; abnormal protein in urine ([[R80.9]]), a hallmark of glomerular nephropathies; persistent proteinuria >300 mg/day defines diabetic nephropathy.
 > - **[[Albuminuria]]** — more specific measure; ACR (albumin‑to‑creatinine ratio) used to stage diabetic kidney disease.
-> - **[[Glomerulosclerosis]]** — cellular mechanism term; scarring of glomeruli, final common pathway of many nephropathies (diabetic, hypertensive, IgA).
-> - **[[Diabetic nephropathy]]** — disease entity using this term; microvascular complication of diabetes; code [[E11.21]] (type 2) or [[E10.21]] (type 1). Leading cause of ESRD.
+> - **[[glomerulosclerosis]]** — cellular mechanism term; scarring of glomeruli, final common pathway of many nephropathies (diabetic, hypertensive, IgA).
+> - **[[diabetic nephropathy]]** — disease entity using this term; microvascular complication of diabetes; code [[E11.21]] (type 2) or [[E10.21]] (type 1). Leading cause of ESRD.
 > - **Hypertensive nephropathy** — disease entity; also called hypertensive renal disease; code [[I12.9]]. Overlaps with benign nephrosclerosis.
 > - **Polycystic kidney disease** — genetic disease often called cystic nephropathy; code [[Q61.2]] (autosomal dominant) or [[Q61.3]] (autosomal recessive).
 > - **[[Lupus nephritis]]** — immune complex nephropathy in SLE; code [[M32.14]] (lupus nephritis) - note this is nephritis, but often referred to as lupus nephropathy.

@@ -67,7 +67,7 @@ _____
 > - **[[coagulation]]** — the specific chemical and cellular mechanism comprising secondary **hemostasis** (**the cascade that forms fibrin**).
 > - **[[Fibrinolysis]]** — the physiological mechanism that opposes and follows **hemostasis**, breaking down the clot to restore normal vessel patency once healing occurs.
 > - **[[Coagulopathy]]** — a disease entity representing an impairment in the body's hemostatic mechanism, leading to excessive bleeding (**e.g., [[D68.9]]**).
-> - **[[Thrombophilia]]** — a disease entity representing a hyperactive hemostatic system, predisposing the patient to abnormal clotting (**e.g., [[D68.59]]**).
+> - **[[thrombophilia]]** — a disease entity representing a hyperactive hemostatic system, predisposing the patient to abnormal clotting (**e.g., [[D68.59]]**).
 > - **Hemostat** — primary diagnostic/surgical tool; a specialized clamping instrument used by surgeons to mechanically grasp vessels and achieve surgical **[[hemostasis]]**.
 
 _____
