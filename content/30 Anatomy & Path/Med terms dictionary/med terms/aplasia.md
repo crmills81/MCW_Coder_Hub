@@ -18,8 +18,7 @@ forms:
   - noun
   - adjective
 alphabet: A
-definition:
-  - Failure of an organ, tissue, or cell line to develop or form; complete absence of growth or production
+definition: Failure of an organ, tissue, or cell line to develop or form; complete absence of growth or production
 ---
 >[!Note] DEFINITION of [[aplasia]]
 >**Aplasia** (from Greek *a-* + *plasis*) is the **complete failure of an organ, tissue, or cell line to develop, form, or regenerate** — either congenitally (**structural aplasia, a developmental arrest**) or acquired (**functional aplasia, a failure of ongoing cell production**). It sits at the most severe end of the **-plasia spectrum**: where **hypoplasia** is *under*-development (**some cells form, but not enough**) and **dysplasia** is *disordered* development, aplasia represents *no* meaningful formation at all. In clinical medicine, the two most critical and commonly encountered forms are **aplastic anemia** (D61.x) — bone marrow failure affecting all three cell lines (**[[pancytopenia]]**) — and **pure red cell aplasia (PRCA)** (D60.x) — selective failure of erythroid precursor production while WBC and platelet lines are preserved. Other organ-level examples include **thymic aplasia** (DiGeorge syndrome), **vaginal aplasia** (Mayer-Rokitansky-Küster-Hauser syndrome), and **radial aplasia** (congenital absence of the radius). **Aplasia** is distinct from **agenesis** — a subtle but real distinction: agenesis refers to failure of an organ to develop due to absence of the primordial tissue itself, while [[aplasia]] implies the primordial tissue was present but failed to develop into the mature structure.
