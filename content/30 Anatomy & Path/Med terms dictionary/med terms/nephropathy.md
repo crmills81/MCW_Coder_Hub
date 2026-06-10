@@ -69,7 +69,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
 > - **[[Nephritis]]** — inflammation of the kidney (often immune‑mediated, presenting with hematuria, RBC casts, hypertension). Distinguish from nephropathy, which is a broader term covering non‑inflammatory damage.
-> - **[[Nephrosis]]** — same‑root sibling term; degenerative kidney disease with minimal inflammation, classically presenting with nephrotic syndrome (heavy proteinuria, edema). Nephropathy may include nephrosis as a subtype (e.g., membranous nephropathy).
+> - **[[nephrosis]]** — same‑root sibling term; degenerative kidney disease with minimal inflammation, classically presenting with nephrotic syndrome (heavy proteinuria, edema). Nephropathy may include nephrosis as a subtype (e.g., membranous nephropathy).
 > - **[[Chronic kidney disease]] (CKD)** — closely related clinical entity; functional staging of kidney damage (N18.1‑N18.6) that often accompanies nephropathy. Code nephropathy first as etiology, then CKD stage.
 > - **[[Acute kidney injury]] (AKI)** — rapid decline in kidney function, sometimes due to acute nephropathy (e.g., toxic nephropathy from contrast); code with [[N17.9]] or specific cause.
 > - **[[Proteinuria]]** — mechanism term; abnormal protein in urine ([[R80.9]]), a hallmark of glomerular nephropathies; persistent proteinuria >300 mg/day defines diabetic nephropathy.
