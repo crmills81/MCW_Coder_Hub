@@ -456,7 +456,7 @@ If sepsis documented:
 - **[[I95.9]]** - Hypotension
 - **[[R57.9]]** - Shock, unspecified
 - **[[D65]]** - Disseminated intravascular coagulation (DIC)
-- **[[E87.2]]** - Acidosis (metabolic/lactic)
+- **E87.2x** - Acidosis (metabolic/lactic)
 - **[[G93.41]]** - Metabolic encephalopathy (septic encephalopathy)
 - **[[R41.0]]** - Disorientation/confusion
 - **[[R50.81]]** - Fever presenting with conditions classified elsewhere

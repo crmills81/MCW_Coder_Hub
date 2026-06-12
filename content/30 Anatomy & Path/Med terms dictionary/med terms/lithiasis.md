@@ -205,7 +205,7 @@ Lithiasis refers to the pathological formation of mineral and acid salt concreti
 **Medical coding professional reference**
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

@@ -65,7 +65,7 @@ _____
 > - **Uremic encephalopathy** — metabolic encephalopathy from nitrogenous toxin accumulation; G93.41
 > - **Asterixis** — "flapping tremor" — the classic neurological sign of metabolic encephalopathy in uremia; [[R25.1]]
 > - **Hyperkalemia** — dangerous co-complication of uremia/AKI; [[E87.5]]; requires urgent treatment alongside uremia
-> - **[[Metabolic acidosis]]** — uremia disrupts acid-base [[homeostasis]]; [[E87.2]]; commonly coded alongside CKD/AKI
+> - **[[Metabolic acidosis]]** — uremia disrupts acid-base [[homeostasis]]; E87.2x; commonly coded alongside CKD/AKI
 > - **Uremic [[pruritus]]** — severe generalized itching from uremic toxin skin deposition; L29.8 + N18.x
 > - **[[urinalysis]]** — foundational diagnostic tool; proteinuria, hematuria, and casts on UA guide renal failure workup
 > - **[[ureter-]]** — shares the ur- root; connects to the urinary system root family
@@ -115,7 +115,7 @@ _____
 > |[[I32]]|Pericarditis in diseases classified elsewhere _(uremic pericarditis — sequence N18.x/N19 first)_|
 > |[[G93.41]]|Metabolic encephalopathy _(uremic encephalopathy — sequence N18.x/N19 first)_|
 > |[[E87.5]]|Hyperkalemia _(critical co-complication of AKI/uremia requiring independent coding)_|
-> |[[E87.2]]|Metabolic acidosis _(acidosis complicating uremia/renal failure)_|
+> | E87.2x |Metabolic acidosis _(acidosis complicating uremia/renal failure)_|
 > |[[D63.1]]|Anemia in chronic kidney disease _(anemia of CKD — use with N18.x)_|
 > |[[L29.8]]|Other pruritus _(uremic pruritus — coded as symptom + N18.x)_|
 > |[[P96.0]]|Congenital renal failure _(uremia of newborn — Excludes1 from N17-N19 adult codes)_|
@@ -144,9 +144,10 @@ _____
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** **N19 (Unspecified kidney failure / Uremia NOS)** should be the **code of last resort** — ICD-10-CM has robust Excludes1 notes directing coders to N17.x (**AKI**) or N18.x (**CKD**) when the acuity and chronicity are known. On inpatient profee, query the provider if documentation says "**uremia**," "**renal failure**," or "**kidney failure**" without specifying acute vs. chronic vs. acute-on-chronic — that distinction drives **DRG** and **MCC/CC** assignment significantly. **N18.6 (ESRD)** is an **MCC** and should be coded whenever the patient is on dialysis — even if admitted for another reason; Z99.2 (**[[dialysis]] statu**s) is separately codeable as a secondary. **R39.2 (prerenal uremia/[[azotemia]])** is an Excludes1 from N17-N19 — if the provider documents "**prerenal azotemia**" or "prerenal ARF that corrected with fluids," use R39.2, NOT N17.9, as true kidney failure was not present. For [[dialysis]] CPT coding, **90935/90937 are for acute dialysis** (AKI patients expected to recover); **90960-90966 are for ESRD monthly management** — these are mutually exclusive billing pathways based on whether **ESRD** is established. **D63.1 (anemia in CKD)** should always be evaluated alongside N18.x — [[anemia]] of **CKD** is a high-yield, frequently missed secondary code on nephrology and hospitalist inpatient claims.
+> > ⚠️ **Coding Note:** **N19 (Unspecified kidney failure / Uremia NOS)** should be the **code of last resort** — **ICD-10-CM has robust Excludes1 notes** directing coders to N17.x (**AKI**) or N18.x (**CKD**) when the acuity and chronicity are known. On inpatient profee, query the provider if documentation says "**uremia**," "**renal failure**," or "**kidney failure**" without specifying acute vs. chronic vs. acute-on-chronic — that distinction drives **DRG** and **MCC/CC** assignment significantly. **[[N18.6 ]](ESRD)** is an **MCC** and should be coded whenever the patient is on dialysis — even if admitted for another reason; **[[Z99.2]]** (**[[dialysis]] status**) is separately codeable as a secondary. **R39.2 (prerenal uremia/[[azotemia]])** is an **Excludes1** from N17-N19 — if the provider documents "**prerenal azotemia**" or "prerenal ARF that corrected with fluids," use **[[R39.2]], NOT [[N17.9]]**, as true kidney failure was not present. For [[dialysis]] CPT coding, **[[90935]]/[[90937]] are for acute dialysis** (AKI patients expected to recover); **[[90960]]-[[90966]] are for ESRD monthly management** — these are mutually exclusive billing pathways based on whether **ESRD** is established. **[[D63.1]] (anemia in CKD)** should always be evaluated alongside N18.x — [[anemia]] of **CKD** is a high-yield, frequently missed secondary code on nephrology and hospitalist inpatient claims.
 > 
-_____
+
+____
 >[!tip]- DERIVATIONS of [[uremia]]
 >```dataview
 >TABLE definition AS Definition
@@ -154,12 +155,14 @@ _____
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
 >SORT file.name ASC
 >```
+
+
 _____
 >[!faq]- Query functionality
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE length(filter(definition, (word) => econtains([[uremia]].definition, word))) > 0 AND file.name != [[uremia]].file.name
 >```
 
 [[Med roots dictionary]]

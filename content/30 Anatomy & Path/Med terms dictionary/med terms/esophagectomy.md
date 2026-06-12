@@ -106,7 +106,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]
@@ -260,8 +260,8 @@ _____
 > | **Wound Infection** | Redness, drainage, fever | T81.4XXA |
 > | **Stricture** | Dysphagia, narrowing | K22.2 |
 > 
-> 
-[[Med roots]]
+
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

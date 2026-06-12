@@ -165,7 +165,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[Diplegia]].definition, word))) > 0 AND file.name != [[Diplegia]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

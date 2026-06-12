@@ -63,7 +63,7 @@ _____
 
 > [!example]+ **Related Terms and Concepts**
 > - **[[Strabismus]] / [[heterotropia]]:** Misalignment of the eyes; often the underlying cause of [[binocular]] diplopia.
-> - **[[Esotropia]] / [[exotropia]]:** Inward or outward deviation of an eye relative to the fellow eye.
+> - **[[esotropia]] / [[exotropia]]:** Inward or outward deviation of an eye relative to the fellow eye.
 > - **[[Ophthalmoplegia]] / [[ophthalmoparesis]]:** Paralysis or weakness of extraocular muscles, a common cause of binocular diplopia.
 > - **Myasthenia gravis:** Autoimmune neuromuscular disorder where fluctuating diplopia and ptosis are hallmark features.
 > - **Graves’ disease / thyroid eye disease (TED):** Hyperthyroid‑associated orbital inflammation and extraocular muscle enlargement causing diplopia.[
@@ -107,7 +107,7 @@ _____
 
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

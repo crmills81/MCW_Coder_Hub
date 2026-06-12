@@ -229,7 +229,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[hemorrhage]].definition, word))) > 0 AND file.name != [[hemorrhage]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

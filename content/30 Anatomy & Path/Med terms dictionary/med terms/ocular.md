@@ -123,10 +123,10 @@ ocular
 > - **[[H49.201]]**: Sixth [abducens] nerve palsy, unspecified, right eye
 > - **[[H49.202]]**:... left eye
 > - **[[H49.203]]**:... bilateral
-> - **[[H50.001]]**: [[Esotropia]], unspecified, right eye
+> - **[[H50.001]]**: [[esotropia]], unspecified, right eye
 > - **[[H50.002]]**:... left eye
 > - **[[H50.003]]**:... bilateral
-> - **[[H50.101]]**: [[Exotropia]], unspecified, right eye
+> - **[[H50.101]]**: [[exotropia]], unspecified, right eye
 > - **[[H50.102]]**:... left eye
 > - **[[H50.103]]**:... bilateral
 > 
@@ -195,7 +195,7 @@ ocular
 > - **[[65810]]**: [[Goniotomy]]
 > - **[[65815]]**: [[Trabeculoplasty]] by laser surgery
 > - **[[65820]]**: Trabeculectomy ab externo
-> - **[[65825]]**: [[Trabeculectomy]] with aqueous shunt
+> - **[[65825]]**: [[trabeculectomy]] with aqueous shunt
 > - **[[66170]]**: [[Aqueous]] shunt to extraocular equatorial plate reservoir
 > - **[[66172]]**:... with graft
 > - **[[66174]]**:... with valve
@@ -357,7 +357,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

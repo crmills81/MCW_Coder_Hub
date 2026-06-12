@@ -78,15 +78,15 @@ _____
 
 **Complications:** Contrast [[nephropathy]] (rare, hydrate), allergy (1%), UTI (retrograde).[4]
 
-**Obsolescence Note:** IVP largely replaced by **CT urogram** (74178 CPT) for superior [[stone]]/tumor detection.[2]
+**Obsolescence Note:** IVP largely replaced by **CT urogram** ([[74178]] CPT) for superior [[stone]]/[[tumor]] detection.[2]
 
 **One-Sentence Summary**  
-**Pyelography** (Greek *[[pyelo-]][[-graphy]]* “pelvis imaging,” CPT 74400 IVP), opacifies renal pelvis/ureters via IV/retrograde/antegrade contrast for stones ([[N20.0]]), obstruction, or hematuria, with IVP protocol capturing nephrogram/pyelogram phases.[7][1][2][4]
+**Pyelography** (Greek *[[pyelo-]][[-graphy]]* “pelvis imaging,” CPT [[74400]] IVP), opacifies renal pelvis/ureters via IV/retrograde/antegrade contrast for stones ([[N20.0]]), obstruction, or [[hematuria]], with IVP protocol capturing nephrogram/[[pyelogram]] phases.[7][1][2][4]
 
 
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

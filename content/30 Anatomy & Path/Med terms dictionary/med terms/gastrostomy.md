@@ -128,7 +128,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[gastrostomy]].definition, word))) > 0 AND file.name != [[gastrostomy]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

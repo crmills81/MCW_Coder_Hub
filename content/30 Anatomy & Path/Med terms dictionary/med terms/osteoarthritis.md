@@ -77,7 +77,7 @@ _____
 > - **[[Osteoarthrosis]]** — shares the *[[oste-]]* and *[[arthr-]]* roots; the alternate, technically more accurate term for OA emphasizing its degenerative rather than inflammatory nature; used in ICD-11 and European literature but maps to the same M15-M19 range in ICD-10-CM
 > - **[[Chondromalacia]]** — softening and fibrillation of articular cartilage, particularly of the patella (M22.4x); may represent early or focal OA but is coded separately — distinguished by the absence of full-thickness cartilage loss, subchondral sclerosis, and osteophyte formation seen in established OA
 > - **[[Gout]]** — crystal-induced arthritis (M10.x) caused by monosodium urate deposition; mimics OA in joint distribution but is episodic, confirmed by synovial fluid crystal analysis, and treated fundamentally differently — distinguished by **[[hyperuricemia]]**, tophi, and polarized light microscopy findings
-> - **[[Osteophyte]]** — a bony spur or outgrowth at joint margins; the hallmark radiographic and pathological finding of OA, produced by subchondral bone remodeling in response to cartilage loss; not independently coded but documented as part of the OA diagnosis
+> - **[[osteophyte]]** — a bony spur or outgrowth at joint margins; the hallmark radiographic and pathological finding of OA, produced by subchondral bone remodeling in response to cartilage loss; not independently coded but documented as part of the OA diagnosis
 > - **Subchondral Sclerosis** — increased bone density immediately beneath the articular cartilage; a radiographic hallmark of OA resulting from increased mechanical stress on exposed bone after cartilage loss; contributes to joint pain and stiffness
 > - **[[Synovitis]]** — inflammation of the synovial membrane; present as a secondary feature in OA (M65.8x) and a primary feature in RA; in OA, synovitis is driven by cartilage debris and cytokines rather than autoimmune mechanisms — may warrant separate coding when clinically documented
 > - **Erosive osteoarthritis** — an aggressive inflammatory subtype of OA affecting the DIP and PIP joints (M15.4); characterized by central erosions on X-ray in addition to osteophytes; must be distinguished from RA and psoriatic arthritis (L40.5x) for accurate coding
@@ -217,7 +217,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[osteoarthritis]].definition, word))) > 0 AND file.name != [[osteoarthritis]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

@@ -33,7 +33,7 @@ definition: The branch of internal medicine concerned with the study of normal k
 >[!Note] DEFINITION of [[nephrology]]
 >**Nephrology** is the subspecialty of internal medicine — and, in children, of pediatric medicine — dedicated to the study and management of **kidney structure, function, and disease**, encompassing everything from **early-stage chronic kidney disease (CKD)** to **end-stage renal disease (ESRD)** requiring [[dialysis]] or kidney transplantation. It is distinct from **[[urology]]**, which is a surgical specialty addressing structural and **obstructive urinary tract conditions**; **[[nephrology]]** is a **medical (non-surgical)** specialty that manages the physiological, immunological, metabolic, and pharmacological aspects of kidney disease, though **nephrologists** do perform certain procedures such as **kidney biopsy**, **[[dialysis]]** access placement, and fistula management. The specialty is organized around several major disease categories: **glomerular disease** (**e.g., [[glomerulonephritis]], nephrotic syndrome**), tubulointerstitial disease, vascular kidney disease, inherited kidney disorders (**e.g., polycystic kidney disease**), **acute kidney injury (AKI)**, **CKD and ESRD**, and **fluid/electrolyte/acid-base disorders** — each with its own coding pathway. 
 >
->**Nephrology** overlaps significantly with **[[hypertension]] management**, as **[[hypertension]]** is both a cause and consequence of **CKD**, and many **nephrologists** subspecialize as **hypertension** specialists. In the inpatient profee setting, the **nephrologist** may be the admitting physician or a medicine consultant, and their documentation drives code selection across a wide range of diagnosis categories from **N00–N19 (kidney disease)**, **I12–I13 (hypertensive kidney disease)**, **E08–E13 (diabetic kidney disease)**, and **[[Z99.2]] (dialysis dependence)**.
+>**Nephrology** overlaps significantly with **[[hypertension]] management**, as **[[hypertension]]** is both a cause and consequence of **CKD**, and many **nephrologists** subspecialize as **hypertension** specialists. In the inpatient profee setting, the **nephrologist** may be the admitting physician or a medicine consultant, and their documentation drives code selection across a wide range of diagnosis categories from **N00-N19 (kidney disease)**, **I12-I13 (hypertensive kidney disease)**, **E08-E13 (diabetic kidney disease)**, and **[[Z99.2]] (dialysis dependence)**.
 ---
 
 >[!info]+ ETYMOLOGY of [[Nephrology]]
@@ -73,12 +73,12 @@ _____
 > - **[[Glomerulonephritis]]** — inflammation of the glomeruli; can be acute (N00.x), rapidly progressive (N01.x), chronic (N03.x), or isolated **[[proteinuria]]**/**[[hematuria]]** (N02.x); etiology-specific morphology code required at the 4th or 5th character
 > - **Hypertensive CKD** — **hypertension** with co-existing **CKD** is coded as a combined code from the I12.x or I13.x range — never code N18.x and I10 separately when both are documented as related
 > - **Diabetic Kidney Disease (DKD)** — the most common cause of **ESRD** in the U.S.; coded with the etiology-first diabetic combination code (**e.g., [[E11.65]] for Type 2 diabetes with [[hyperglycemia]]**) plus the stage-specific N18.x code
-> - **[[Nephrolithiasis]]** — **kidney stone disease**; shares coding territory between **nephrology** (**medical management**) and **[[urology]]** (**procedural intervention**); coded **[[N20.0]]–[[N20.9]]**
+> - **[[Nephrolithiasis]]** — **kidney stone disease**; shares coding territory between **nephrology** (**medical management**) and **[[urology]]** (**procedural intervention**); coded **[[N20.0]]-[[N20.9]]**
 > - **[[Proteinuria]]** — abnormal protein in urine; cardinal sign of glomerular disease; coded **[[R80.0]]** (**isolated orthostatic [[proteinuria]]**), **[[R80.1]]** (**persistent proteinuria NOS**), **[[R80.9]]** (unspecified); often a documentation trigger for CKD staging query
 > - **[[Hematuria]]** — blood in urine; coded **[[R31.0]]** (**gross**), **[[R31.21]]** (**asymptomatic microscopic**); crossover sign between **nephrology** and **[[urology]]** workup
 > - **[[Uremia]]** — toxic buildup of waste products from kidney failure; a complication of late-stage **CKD/ESRD**; coded under **[[N19]]** when kidney failure is unspecified or **[[N18.5]]/[[N18.6]]** when stage is documented
 > - **[[Renal Biopsy]]** — the primary diagnostic procedure performed by nephrologists; **CPT [[50200]]** (**[[percutaneous]]**) or **[[50205]]** (**open/surgical exposure**); drives morphology-specific ICD-10 code assignment
-> - **GFR / eGFR** — glomerular filtration rate; the laboratory measurement that drives **CKD** staging (**[[N18.1]]–[[N18.6]]**); documentation of GFR range without explicit stage assignment warrants a physician query
+> - **GFR / eGFR** — glomerular filtration rate; the laboratory measurement that drives **CKD** staging (**[[N18.1]]-[[N18.6]]**); documentation of GFR range without explicit stage assignment warrants a physician query
 > - **[[Urinalysis]]** — standard diagnostic tool in **nephrology**; **CPT [[81003]]** (**automated without microscopy**) or **[[81001]]** (**manual with microscopy**)
 
 _____
@@ -103,11 +103,11 @@ _____
 > |Code|Description|
 > |---|---|
 > |**[[N18.1]]**|CKD, Stage 1 — kidney damage with normal or increased GFR (≥90 mL/min)|
-> |**[[N18.2]]**|CKD, Stage 2 — mildly decreased GFR (60–89 mL/min)|
-> |**[[N18.30]]**|CKD, Stage 3, unspecified — moderate (GFR 30–59 mL/min)|
-> |**[[N18.31]]**|CKD, Stage 3a — moderately decreased GFR (45–59 mL/min)|
-> |**[[N18.32]]**|CKD, Stage 3b — moderately to severely decreased GFR (30–44 mL/min)|
-> |**[[N18.4]]**|CKD, Stage 4 — severely decreased GFR (15–29 mL/min)|
+> |**[[N18.2]]**|CKD, Stage 2 — mildly decreased GFR (60-89 mL/min)|
+> |**[[N18.30]]**|CKD, Stage 3, unspecified — moderate (GFR 30-59 mL/min)|
+> |**[[N18.31]]**|CKD, Stage 3a — moderately decreased GFR (45-59 mL/min)|
+> |**[[N18.32]]**|CKD, Stage 3b — moderately to severely decreased GFR (30-44 mL/min)|
+> |**[[N18.4]]**|CKD, Stage 4 — severely decreased GFR (15-29 mL/min)|
 > |**[[N18.5]]**|CKD, Stage 5 — kidney failure (GFR <15 mL/min, not yet on dialysis)|
 > |**[[N18.6]]**|End-stage renal disease (ESRD) — kidney failure requiring dialysis or transplant|
 > |**[[N18.9]]**|CKD, unspecified — use only when stage cannot be determined; query-worthy|
@@ -117,14 +117,14 @@ _____
 >
 > |Code|Description|
 > |---|---|
-> |**[[I12.9]]**|Hypertensive CKD with stage 1–4 or unspecified CKD — add N18.x code|
+> |**[[I12.9]]**|Hypertensive CKD with stage 1-4 or unspecified CKD — add N18.x code|
 > |**[[I12.31]]**|Hypertensive CKD with stage 5 CKD|
 > |**[[I12.32]]**|Hypertensive CKD with ESRD — add [[Z99.2]] for dialysis dependence|
-> |**[[I13.10]]**|Hypertensive heart and CKD without heart failure, with stage 1–4 or unspecified CKD|
+> |**[[I13.10]]**|Hypertensive heart and CKD without heart failure, with stage 1-4 or unspecified CKD|
 > |**[[I13.11]]**|Hypertensive heart and CKD without heart failure, with stage 5 or ESRD|
-> |**[[I13.2]]**|Hypertensive heart and CKD with heart failure and stage 1–4 or unspecified CKD|
+> |**[[I13.2]]**|Hypertensive heart and CKD with heart failure and stage 1-4 or unspecified CKD|
 >
-> #### Glomerular Disease — Acute, Chronic & Nephrotic (N00.x–N04.x)
+> #### Glomerular Disease — Acute, Chronic & Nephrotic (N00.x-N04.x)
 >
 > |Code|Description|
 > |---|---|
@@ -144,7 +144,7 @@ _____
 > |**[[N04.9]]**|Nephrotic syndrome with unspecified morphologic changes|
 > |**[[N04.A]]**|Nephrotic syndrome with C3 glomerulonephritis|
 >
-> #### Tubulointerstitial & Renal Tubular Disorders (N10–N16, N25.x)
+> #### Tubulointerstitial & Renal Tubular Disorders (N10-N16, N25.x)
 >
 > |Code|Description|
 > |---|---|
@@ -220,23 +220,23 @@ _____
 > |---|---|
 > |**[[90951]]**|ESRD-related services per month; for patients younger than 2 years — full month|
 > |**[[90952]]**|ESRD-related services per month; for patients younger than 2 years — less than full month|
-> |**[[90953]]**|ESRD-related services per month; for patients 2–11 years — full month|
-> |**[[90954]]**|ESRD-related services per month; for patients 2–11 years — less than full month|
-> |**[[90955]]**|ESRD-related services per month; for patients 12–19 years — full month|
-> |**[[90956]]**|ESRD-related services per month; for patients 12–19 years — less than full month|
+> |**[[90953]]**|ESRD-related services per month; for patients 2-11 years — full month|
+> |**[[90954]]**|ESRD-related services per month; for patients 2-11 years — less than full month|
+> |**[[90955]]**|ESRD-related services per month; for patients 12-19 years — full month|
+> |**[[90956]]**|ESRD-related services per month; for patients 12-19 years — less than full month|
 > |**[[90957]]**|ESRD-related services per month; for patients 20 years and older — full month|
 > |**[[90958]]**|ESRD-related services per month; for patients 20 years and older — less than full month|
-> |**[[90959]]**|ESRD-related services per month; for patients 20 years and older — 2–3 face-to-face visits per month|
+> |**[[90959]]**|ESRD-related services per month; for patients 20 years and older — 2-3 face-to-face visits per month|
 > |**[[90960]]**|ESRD-related services per month; for patients 20 years and older — 1 face-to-face visit per month|
 > |**[[90961]]**|ESRD-related services per month; for patients 20 years and older — no face-to-face visits|
 > |**[[90962]]**|ESRD-related services per month; for patients 20 years and older — less than full month, additional visits|
 > |**[[90963]]**|ESRD-related services for home dialysis per full month; for patients younger than 2 years|
-> |**[[90964]]**|ESRD-related services for home dialysis per full month; for patients 2–11 years|
-> |**[[90965]]**|ESRD-related services for home dialysis per full month; for patients 12–19 years|
+> |**[[90964]]**|ESRD-related services for home dialysis per full month; for patients 2-11 years|
+> |**[[90965]]**|ESRD-related services for home dialysis per full month; for patients 12-19 years|
 > |**[[90966]]**|ESRD-related services for home dialysis per full month; for patients 20 years and older|
 > |**[[90967]]**|ESRD-related services for home dialysis per less than full month; for patients younger than 2 years|
-> |**[[90968]]**|ESRD-related services for home dialysis per less than full month; for patients 2–11 years|
-> |**[[90966]]**|ESRD-related services for home dialysis per less than full month; for patients 12–19 years|
+> |**[[90968]]**|ESRD-related services for home dialysis per less than full month; for patients 2-11 years|
+> |**[[90966]]**|ESRD-related services for home dialysis per less than full month; for patients 12-19 years|
 > |**[[90970]]**|ESRD-related services for home dialysis per less than full month; for patients 20 years and older|
 >
 > #### Dialysis Training
@@ -280,7 +280,7 @@ _____
 >
 > ---
 >
-> > ⚠️ **Coding Note:** CKD staging is the single most impactful and most undercoded diagnosis in inpatient nephrology profee — the official ICD-10-CM guidelines require **stage-specific coding** (N18.1–N18.6) whenever the stage is documented or can be clinically determined from documented eGFR values; **[[N18.9]]** (unspecified) should only be used as a last resort, and documented GFR values without an explicit stage should prompt a physician query. When **AKI is superimposed on CKD** (acute-on-chronic), code **both** the AKI ([[N17.9]] or more specific subtype) and the underlying CKD stage — the Official Guidelines specifically instruct coders to assign both; this is one of the most commonly missed combination coding scenarios on inpatient nephrology claims. The **hypertensive CKD combination codes** (I12.x, I13.x) take precedence over separately coding I10 + N18.x — if the provider documents hypertension and CKD together without explicitly linking them, ICD-10-CM guidelines presume a causal relationship and require the combined code; failure to use the I12/I13 range instead of I10 is an HCC compliance risk. For **ESRD patients on dialysis**, [[N18.6]] must always be accompanied by [[Z99.2]] (dependence on renal dialysis) — missing Z99.2 is a top payer edit flag on ESRD claims and can affect capitated ESRD payment. The ESRD monthly capitated CPT codes (90951–90970) are **mutually exclusive with individual dialysis session codes** (90935, 90937, 90945, 90947) — Medicare pays one or the other per month per patient per provider, not both; selecting the wrong code family is a significant nephrology billing error.
+> > ⚠️ **Coding Note:** CKD staging is the single most impactful and most undercoded diagnosis in inpatient nephrology profee — the official ICD-10-CM guidelines require **stage-specific coding** (N18.1-N18.6) whenever the stage is documented or can be clinically determined from documented eGFR values; **[[N18.9]]** (unspecified) should only be used as a last resort, and documented GFR values without an explicit stage should prompt a physician query. When **AKI is superimposed on CKD** (acute-on-chronic), code **both** the AKI ([[N17.9]] or more specific subtype) and the underlying CKD stage — the Official Guidelines specifically instruct coders to assign both; this is one of the most commonly missed combination coding scenarios on inpatient nephrology claims. The **hypertensive CKD combination codes** (I12.x, I13.x) take precedence over separately coding I10 + N18.x — if the provider documents hypertension and CKD together without explicitly linking them, ICD-10-CM guidelines presume a causal relationship and require the combined code; failure to use the I12/I13 range instead of I10 is an HCC compliance risk. For **ESRD patients on dialysis**, [[N18.6]] must always be accompanied by [[Z99.2]] (dependence on renal dialysis) — missing Z99.2 is a top payer edit flag on ESRD claims and can affect capitated ESRD payment. The ESRD monthly capitated CPT codes (90951-90970) are **mutually exclusive with individual dialysis session codes** (90935, 90937, 90945, 90947) — Medicare pays one or the other per month per patient per provider, not both; selecting the wrong code family is a significant nephrology billing error.
 
 _____
 
@@ -301,7 +301,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[Nephrology]].definition, word))) > 0 AND file.name != [[Nephrology]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

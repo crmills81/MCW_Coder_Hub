@@ -233,7 +233,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[herniation]].definition, word))) > 0 AND file.name != [[herniation]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

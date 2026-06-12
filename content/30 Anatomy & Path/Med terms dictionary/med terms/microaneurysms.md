@@ -80,7 +80,7 @@ ______
 > Category note: “Code also any associated hypertension (I10).”
 > Excludes2: diabetic retinal disorders ([[E08.311]] -[[E08.359]], [[E09.311]]-[[E09.359]], [[E10.311]]-[[E10.359]], [[E11.311]]-[[E11.359]], [[E13.311]]-[[E13.359]]).​
 > 
-> ## [[Diabetic retinopathy]] with [[microaneurysms]]
+> ## [[diabetic retinopathy]] with [[microaneurysms]]
 > 
 > In **diabetes with ophthalmic complications**, microaneurysms are inherent in NPDR and are not separately coded with H35.04X when you use the combination DM + [[retinopathy]] code.
 > 
@@ -97,7 +97,7 @@ ______
 > 
 > ## CPT® notes (contextual)
 > 
-> [[Microaneurysms]] themselves are **findings**, not procedures, so there is no dedicated CPT code for “**treatment of microaneurysms**” alone. They are usually managed within broader services such as:
+> [[microaneurysms]] themselves are **findings**, not procedures, so there is no dedicated CPT code for “**treatment of microaneurysms**” alone. They are usually managed within broader services such as:
 > 
 > - Comprehensive ophthalmological exam codes (e.g., [[92004]], [[92014]]) when documented as part of the **retinal exam**.
 >     
@@ -124,7 +124,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

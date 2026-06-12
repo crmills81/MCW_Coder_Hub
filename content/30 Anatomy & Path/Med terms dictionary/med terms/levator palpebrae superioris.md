@@ -112,16 +112,17 @@ _____
 
 >[!tip]- DERIVATIONS of [[levator palpebrae superioris]]
 >```dataview
->TABLE definition AS Definition 
->WHERE length(filter(roots, (word) => econtains([[levator palpebrae superioris]].roots, word))) > 0 AND file.name !=[[levator palpebrae superioris]].file.name
+>TABLE definition AS Definition
+>FROM #medterm 
+>WHERE length(filter(roots, (word) => econtains([[TERM]].roots, word))) > 0 AND file.name != [[TERM]].file.name
 >SORT file.name ASC
 >```
 ___
 >[!faq]- Query
 >```dataview
 >TABLE definition AS Definition
->FROM #medroot
->WHERE length(filter(definition, (word) => econtains([[levator palpebrae superioris]].definition, word))) > 0 AND file.name != [[levator palpebrae superioris]].file.name
+>FROM #medterm 
+>WHERE length(filter(definition, (word) => econtains([[TERM]].definition, word))) > 0 AND file.name != [[TERM]].file.name
 >```
 
 ---
@@ -129,7 +130,7 @@ ___
 ![[Pasted image 20260403210913.png]]
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

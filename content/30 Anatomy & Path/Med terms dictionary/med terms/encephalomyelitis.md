@@ -188,7 +188,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[encephalomyelitis]].definition, word))) > 0 AND file.name != [[encephalomyelitis]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

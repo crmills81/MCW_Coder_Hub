@@ -227,7 +227,7 @@ _____
 >
 > ---
 >
-> > ⚠️ **Coding Note:** **[[J18.9]] should be your absolute last resort** — interrogate every microbiology report, respiratory culture, blood culture, urinary antigen result, and respiratory panel before defaulting to unspecified. **Organism-specific pneumonia codes (J13, J14, J15.xx)** frequently drive higher-weighted DRGs and capture legitimate MCC/CC status. **[[J15.211]] (MSSA) and [[J15.212]] (MRSA) [[pneumonia]]** are MCCs and must never be missed when MRSA/MSSA is documented in culture results. **[[B59]] (PCP/PJP)** is coded in Chapter 1 — not the respiratory chapter — so it's frequently missed on immunocompromised patient charts; always check the ID consult. When pneumonia is documented as the **cause of [[sepsis]]**, sequence **[[A41.89]]** or the appropriate sepsis code first per the sepsis sequencing guidelines. **[[J69.0]] (aspiration pneumonia)** requires physician documentation of the aspiration event — you cannot infer it from tube-feeding or [[dysphagia]] alone. For inpatient profee, don't miss **additional codes for respiratory failure ([[J96.00]]-[[J96.91]])** when documented — these are almost always separately reportable and impact query justification.
+> > ⚠️ **Coding Note:** **[[J18.9]] should be your absolute last resort** — interrogate every microbiology report, respiratory culture, blood culture, urinary antigen result, and respiratory panel before defaulting to unspecified. **Organism-specific pneumonia codes (J13, J14, J15.xx)** frequently drive higher-weighted DRGs and capture legitimate MCC/CC status. **[[J15.211]] (MSSA) and [[J15.212]] (MRSA) [[pneumonia]]** are MCCs and must never be missed when MRSA/MSSA is documented in culture results. **[[B59]] (PCP/PJP)** is coded in Chapter 1 — not the respiratory chapter — so it's frequently missed on immunocompromised patient charts; always check the ID consult. When pneumonia is documented as the **cause of [[sepsis]]**, sequence **[[A41.89]]** or the appropriate sepsis code first per the sepsis sequencing guidelines. **[[J69.0]] (aspiration pneumonia)** requires physician documentation of the aspiration event — you cannot infer it from tube-feeding or [[dysphagia]] alone. For inpatient profee, don't miss **additional codes for respiratory failure ([[J69.0]]-[[J96.91]])** when documented — these are almost always separately reportable and impact query justification.
 >
 _____
 >[!tip]- DERIVATIONS of [[pneumonia]]
@@ -245,7 +245,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[pneumonia]].definition, word))) > 0 AND file.name != [[pneumonia]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

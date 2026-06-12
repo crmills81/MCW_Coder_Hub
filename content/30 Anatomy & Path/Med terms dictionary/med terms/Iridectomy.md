@@ -47,7 +47,7 @@ _____
 | **Iridocyclitis**   | *[[irid-]]* + *[[cycl-]]* + *[[-itis]]* | Inflammation of the iris and [[ciliary]] body.                  |                                    
 | **Corectomy**       | *[[30 Anatomy & Path/Med terms dictionary/Med roots/cor-]]* (pupil) + *[[-ectomy]]*      | A synonym for iridectomy (removal of part of the iris/pupil).   |                                    
 | **Aniridia**        | *[[an-]]* + *[[irid-]]* + *[[-ia]]*     | Congenital absence of the iris.                                 |                                    
-| **Rubeosis Iridis** | *[[rube-]]* + *[[irid-]]*               | [[Neovascularization]] (new blood vessels) of the iris.          |
+| **Rubeosis Iridis** | *[[rube-]]* + *[[irid-]]*               | [[neovascularization]] (new blood vessels) of the iris.          |
 
 >[!Note] CODING NOTES (CPT & ICD-10)
 >*For professional coding context:*
@@ -57,7 +57,7 @@ _____
 >*   **CPT [[66761]]**: [[iridotomy]]/[[Iridectomy]] by laser surgery (e.g., for glaucoma) (per session).
 >*   **CPT [[00147]]**: Anesthesia for [[Iridectomy]]
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

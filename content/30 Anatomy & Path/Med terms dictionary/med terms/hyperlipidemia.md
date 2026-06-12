@@ -110,7 +110,7 @@ _____
 >AND any(contains(definition, split(this.definition, " ")))
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

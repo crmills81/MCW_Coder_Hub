@@ -32,7 +32,7 @@ _____
 > 
 > |Term|Meaning|
 > |---|---|
-> |**[[Nephrosis]]**|Degenerative/non-inflammatory kidney disease|
+> |**[[nephrosis]]**|Degenerative/non-inflammatory kidney disease|
 > |**[[Nephrolithiasis]]**|Kidney stone disease|
 > |**[[Urolithiasis]]**|Urinary tract stone formation|
 > |**[[Urethral stenosis]]**|Narrowing of the urethra|

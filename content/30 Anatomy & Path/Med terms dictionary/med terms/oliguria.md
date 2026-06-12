@@ -485,7 +485,7 @@ last_updated: 2026-02-10
 
 **Dehydration/Volume Depletion:**
 - **[[E86.0]]** - Dehydration
-- **[[E86.1]]** - Hypovolemia
+- **[[50 Medical Coding/ICD-10 Codes/E86.1]]** - Hypovolemia
 - **[[E87.1]]** - Hypo-osmolality and hyponatremia
 
 **Heart Failure:**
@@ -515,7 +515,7 @@ last_updated: 2026-02-10
 
 **Electrolyte Imbalances (Complications):**
 - **[[E87.5]]** - Hyperkalemia
-- **[[E87.2]]** - Acidosis (metabolic)
+- **E87.2x** - Acidosis (metabolic)
 - **[[E87.70]]** - Fluid overload, unspecified
 
 **Post-operative:**

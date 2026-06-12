@@ -68,7 +68,7 @@ _____
 > - **Acute myocardial infarction** — **[[I21.3]]** (STEMI of unspecified site) / **[[I21.9]]** (**AMI unspecified**) / STEMI-specific codes; the most common underlying precipitant of cardiac arrest; when AMI causes **cardiac arres**t, AMI sequences first (**Code first** instruction under [[I46.2]]) followed by **[[I46.2]]**.
 > - **Targeted temperature management (TTM) / Therapeutic hypothermia** — No specific ICD-10-CM procedure code; inpatient reported via ICD-10-PCS **6A4Z0ZZ** (hypothermia); CPT **[[99291]]/[[99292]]** (**critical care**) covers the physician management time for TTM post-ROSC.
 > - **Sudden cardiac death** — **[[I46.1]]**; sudden cardiac death — heart stopped but did NOT respond to resuscitation (**patient did not achieve ROSC**); distinguished from cardiac arrest (**I46.2/I46.8/I46.9**) where **resuscitation** was attempted and ROSC was achieved or is ongoing; **[[I46.1]]** is the appropriate code only when the patient died and there was no ROSC.
-> - **Acute respiratory failure** — **[[J96.00]]** / **[[J96.01]]**; frequently accompanies or precedes cardiac arrest; when documented as a co-existing condition post-ROSC, code separately.
+> - **Acute respiratory failure** — **[[J69.0]]** / **[[J96.01]]**; frequently accompanies or precedes cardiac arrest; when documented as a co-existing condition post-ROSC, code separately.
 
 _____
 
@@ -103,7 +103,7 @@ _____
 > |---|---|
 > | **[[G93.1]]** | Anoxic brain damage, not elsewhere classified _(The critical post-cardiac arrest code — hypoxic-ischemic encephalopathy (HIE) from the ischemic interval; code additionally when the physician explicitly documents anoxic or hypoxic brain injury, post-cardiac arrest encephalopathy, or HIE; dramatically elevates DRG severity weight)_ |
 > | **[[R57.0]]** | Cardiogenic shock _(Excludes2 from I46 — may be coded additionally; use when cardiogenic shock is documented as a separate co-occurring condition post-ROSC)_ |
-> | **[[J96.00]]** | Acute respiratory failure, unspecified _(Code additionally when acute respiratory failure is documented as a post-arrest complication — commonly present after prolonged arrest or in the post-ROSC phase requiring mechanical ventilation)_ |
+> | **[[J69.0]]** | Acute respiratory failure, unspecified _(Code additionally when acute respiratory failure is documented as a post-arrest complication — commonly present after prolonged arrest or in the post-ROSC phase requiring mechanical ventilation)_ |
 > | **[[J96.01]]** | Acute respiratory failure with hypoxia _(Code additionally when respiratory failure with hypoxia is explicitly documented post-arrest)_ |
 > | **[[N17.9]]** | Acute kidney injury, unspecified _(Post-arrest AKI from ischemia-reperfusion injury; code additionally when physician documents AKI in the post-resuscitation period)_ |
 > | **[[E87.20]]** | Metabolic acidosis, unspecified _(Post-arrest lactic acidosis is near-universal; code additionally when physician documents metabolic acidosis or lactic acidosis as an active condition in the post-arrest workup)_ |
@@ -196,7 +196,7 @@ _____
 >AND any(contains(this.definition, definition))
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

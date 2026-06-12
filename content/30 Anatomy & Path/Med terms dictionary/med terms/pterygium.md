@@ -78,7 +78,7 @@ _____
 >     - Common lay term for pterygium, reflecting its association with intense sun and wind exposure.
 > - **Conjunctival degeneration / ocular surface disease:**
 >     - Broader category including [[pinguecula]], pterygium, and UV‑related conjunctival changes.
-> - **[[Astigmatism]]:**
+> - **[[astigmatism]]:**
 >     - Corneal distortion induced by a large or advancing pterygium can cause irregular astigmatism and blurred vision.
 > - **Pterygium excision:**
 >     - Surgical removal; often combined with conjunctival autograft or amniotic membrane to reduce recurrence risk.
@@ -116,7 +116,7 @@ _____
 A [[pterygium]] is a benign, wing‑shaped, [[vascular]] [[conjunctival]] overgrowth that extends onto the cornea—classically from the nasal side—strongly associated with chronic UV and environmental exposure and capable of causing irritation, dry eye symptoms, induced [[astigmatism]], and visual impairment when it enlarges.
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

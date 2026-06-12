@@ -209,7 +209,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[osteomyelitis]].definition, word))) > 0 AND file.name != [[osteomyelitis]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

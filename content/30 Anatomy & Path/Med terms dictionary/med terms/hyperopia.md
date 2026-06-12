@@ -49,9 +49,9 @@ _____
 > | [[Myopia]] | [[Nearsightedness]]; opposite of hyperopia — focal point falls *in front* of the retina  |
 > | [[Presbyopia]] | Age-related loss of near accommodation, compounding hyperopia in older patients  |
 > | [[Emmetropia]] | Normal vision; focal point falls *exactly* on the retina |
-> | [[Astigmatism]] | **Irregular corneal**/lens curvature causing distorted focus at all distances  |
-> | [[Amblyopia]] | "**Lazy eye**"; can develop from uncorrected **hyperopia** in childhood   |
-> | [[Esotropia]] | Inward eye turn; frequently associated with **hyperopia** in children  |
+> | [[astigmatism]] | **Irregular corneal**/lens curvature causing distorted focus at all distances  |
+> | [[amblyopia]] | "**Lazy eye**"; can develop from uncorrected **hyperopia** in childhood   |
+> | [[esotropia]] | Inward eye turn; frequently associated with **hyperopia** in children  |
 > | Accommodation | The eye's ability to adjust lens curvature to focus at varying distances |
 > | [[Cycloplegia]] | **Paralysis** of accommodation, used diagnostically to reveal total/latent hyperopia  |
 > | [[Anisometropia]] | Different refractive errors in each eye, often involving one hyperopic eye  |
@@ -72,7 +72,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

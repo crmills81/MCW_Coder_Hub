@@ -114,7 +114,7 @@ _____
 >
 > |Code|Description|
 > |---|---|
-> |[[J96.00]]|Acute respiratory failure, unspecified whether with hypoxia or hypercapnia _(when crisis causes respiratory failure)_|
+> |[[J69.0]]|Acute respiratory failure, unspecified whether with hypoxia or hypercapnia _(when crisis causes respiratory failure)_|
 > |[[J96.01]]|Acute respiratory failure with hypoxia|
 > |[[J96.02]]|Acute respiratory failure with hypercapnia|
 > |[[Z99.11]]|Dependence on respirator _(ventilator-dependent during crisis)_|
@@ -161,7 +161,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[myasthenia gravis]].definition, word))) > 0 AND file.name != [[myasthenia gravis]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

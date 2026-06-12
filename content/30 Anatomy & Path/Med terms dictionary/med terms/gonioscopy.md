@@ -39,7 +39,7 @@ _____
 > - **[[Iridocorneal]] angle** — the anatomic target
 > - **[[Synechiae]] (peripheral anterior)** — **PAS**; adhesions closing the angle, identified on gonioscopy
 > - **Angle recession** — traumatic tearing of the ciliary body; a key gonioscopic finding
-> - **[[Neovascularization]] of the angle (NVA)** — [[rubeosis iridis]] extending to the angle
+> - **[[neovascularization]] of the angle (NVA)** — [[rubeosis iridis]] extending to the angle
 > - **Shaffer grading system** — grades angle width 0-4
 > - **Goniotomy** — surgical procedure guided by gonioscopy
 > - **[[Trabeculoplasty]] (SLT/ALT)** — laser procedures targeting the trabecular meshwork
@@ -117,7 +117,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

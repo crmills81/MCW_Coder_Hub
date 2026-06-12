@@ -208,7 +208,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[Palsy]].definition, word))) > 0 AND file.name != [[Palsy]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

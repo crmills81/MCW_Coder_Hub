@@ -134,7 +134,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[nephrolithiasis]].definition, word))) > 0 AND file.name != [[nephrolithiasis]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

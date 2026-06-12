@@ -148,7 +148,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[paresthesia]].definition, word))) > 0 AND file.name != [[paresthesia]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

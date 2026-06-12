@@ -140,7 +140,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[hemostasis]].definition, word))) > 0 AND file.name != [[hemostasis]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

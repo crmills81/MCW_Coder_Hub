@@ -102,12 +102,12 @@ _____
 **Prognosis:** Excellent acute; chronic risks scarring (monitor **IOP, OCT**).[1]
 
 **One-Sentence Summary**  
-**[[iridocyclitis]]** ([[H20.9]], Greek *[[iris-]] kuklos [[-itis]]*), anterior uveitis inflaming iris/[[ciliary body]], presents with pain/[[photophobia]]/AC cells (SUN graded), managed via steroids/cycloplegics; idiopathic or **HLA-B27/JIA**-associated with synechiae/glaucoma risks.
+**[[iridocyclitis]]** ([[H20.9]], Greek *[[iris-]] kuklos [[-itis]]*), [[anterior uveitis]] inflaming iris/[[ciliary body]], presents with pain/[[photophobia]]/AC cells (SUN graded), managed via steroids/[[cycloplegics]]; idiopathic or **HLA-B27/JIA**-associated with synechiae/[[glaucoma]] risks.
 
 
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

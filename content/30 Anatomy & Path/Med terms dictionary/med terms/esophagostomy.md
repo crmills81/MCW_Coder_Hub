@@ -34,7 +34,7 @@ definition:
 >There are two main types: 
 >
 > - **Cervical Esophagostomy**: Created in the neck region; most common type. 
-> - **Temporary vs. Permanent**: Most esophagostomies are temporary and closed once the underlying condition resolves. Permanent **esophagostomy** is rare and typically reserved for cases where the lower esophagus/stomach cannot be used. The procedure can be performed open or percutaneously (**PEP - Percutaneous Endoscopic [[Esophagostomy]]**), though the latter is less common than PEG ([[gastrostomy]]).
+> - **Temporary vs. Permanent**: Most esophagostomies are temporary and closed once the underlying condition resolves. Permanent **esophagostomy** is rare and typically reserved for cases where the lower esophagus/stomach cannot be used. The procedure can be performed open or percutaneously (**PEP - Percutaneous Endoscopic [[esophagostomy]]**), though the latter is less common than PEG ([[gastrostomy]]).
 _____
 >[!info]+ ETYMOLOGY of [[esophagostomy]]
 >#greek 
@@ -183,7 +183,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

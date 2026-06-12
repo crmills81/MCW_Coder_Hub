@@ -69,7 +69,7 @@ _____
 > 
 > - **[[Ketosis]]** — the milder relative; ketone elevation *without* acidosis (fasting, ketogenic diet). Distinguish carefully — [[ketosis]] is not a billable acidotic emergency and must not be coded as ketoacidosis.
 > - **Hyperosmolar hyperglycemic state** _(HHS / HHNK)_ — the other major diabetic hyperglycemic emergency; extreme glucose elevation and dehydration but *minimal* ketones/acidosis (E11.0x); a key differential to DKA.
-> - **[[Metabolic acidosis]]** — the parent acid-base disturbance; ketoacidosis is a high-anion-gap form. Code [[E87.2]] only when acidosis is documented separately from the diabetic combination code.
+> - **[[Metabolic acidosis]]** — the parent acid-base disturbance; ketoacidosis is a high-anion-gap form. Code E87.2 only when acidosis is documented separately from the diabetic combination code.
 > - **Ketone bodies** — the mechanism; acetoacetate, beta-hydroxybutyrate, and acetone accumulate and drive the acidosis.
 > - **Insulin deficiency** — the root cause of DKA; absolute (type 1) or relative (type 2/stress) lack of insulin triggers lipolysis and ketogenesis.
 > - **Anion gap** — the calculated value that is *elevated* in ketoacidosis; a primary diagnostic and monitoring marker.
@@ -117,7 +117,7 @@ _____
 > |Code|Description|
 > |---|---|
 > |**[[E87.29]]**|Other acidosis (includes acidosis NOS; used for alcoholic/starvation ketoacidosis when not otherwise classified)|
-> |**[[E87.2]]**|Acidosis (metabolic/respiratory, unspecified)|
+> |**E87.2x**|Acidosis (metabolic/respiratory, unspecified)|
 > |**[[E88.818]]**|Other insulin resistance (contextual)|
 > |**[[R82.4]]**|Ketonuria (ketone bodies in urine — finding, not the acidotic diagnosis)|
 > |**[[E16.2]]**|Hypoglycemia, unspecified (contextual — may coexist in AKA)|

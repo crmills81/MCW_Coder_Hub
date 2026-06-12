@@ -62,7 +62,7 @@ _____
 > - **[[Sepsis]]** — **[[A41.9]]** (**unspecified organism**); the most common clinical trigger for lactic acidosis (Type A) — tissue hypoperfusion drives anaerobic metabolism and lactate overproduction; always query the physician for documentation of sepsis when lactic acidosis and infection are co-present.
 > - **Acute kidney injury (AKI)** — **[[N17.9]]**; renal failure impairs the kidneys' ability to excrete hydrogen ions and regenerate bicarbonate, directly causing uremic **metabolic acidosis**; code additionally when documented.
 > - **[[hypokalemia]]** — **[[E87.6]]**; a common metabolic consequence and co-contributor in renal tubular acidosis (**types 1 and 2 RTA cause potassium wasting**); code separately when documented.
-> - **Diabetic ketoacidosis** — **[[E10.10]]** (**Type 1 without coma**) / **[[E10.11]]** (**Type 1 with coma**); the most severe form of **ketoacidotic acidosis**; requires the diabetes code family only — see Excludes1 notation under [[E87.2]].
+> - **Diabetic ketoacidosis** — **[[E10.10]]** (**Type 1 without coma**) / **[[E10.11]]** (**Type 1 with coma**); the most severe form of **ketoacidotic acidosis**; requires the diabetes code family only — see Excludes1 notation under E87.2.
 
 _____
 
@@ -78,7 +78,7 @@ _____
 >
 > | Code | Description |
 > |---|---|
-> | **[[E87.2]]** | Acidosis, unspecified _(Use only when acidosis is documented but the type — metabolic vs. respiratory — and acuity cannot be further specified; last resort)_ |
+> | **E87.2x** | Acidosis, unspecified _(Use only when acidosis is documented but the type — metabolic vs. respiratory — and acuity cannot be further specified; last resort)_ |
 > | **[[E87.20]]** | Metabolic acidosis, unspecified _(Use when metabolic acidosis is documented but not specified as acute or chronic; appropriate for lactic acidosis when acuity is unspecified)_ |
 > | **[[E87.21]]** | Acute metabolic acidosis _(Use when the physician explicitly documents ACUTE metabolic acidosis, or when lactic acidosis or DKA-equivalent metabolic acidosis is documented as acute — note: do NOT report alongside DKA diabetes codes)_ |
 > | **[[E87.22]]** | Chronic metabolic acidosis _(FY2023 addition; use for chronically reduced serum bicarbonate in the setting of CKD, renal tubular acidosis on ongoing treatment, or documented chronic metabolic acidosis)_ |

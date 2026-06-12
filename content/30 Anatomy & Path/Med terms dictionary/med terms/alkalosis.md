@@ -56,7 +56,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 >
-> - **[[acidosis]]** — **[[E87.2]]** / **[[E87.20]]** / **[[E87.21]]** / **[[E87.22]]** / **[[E87.29]]**; the opposing acid-base disorder driving pH below 7.35 via acid accumulation or base loss; frequently coexists with alkalosis in mixed disorders.
+> - **[[acidosis]]** — **[[E87.20]]** / **[[E87.21]]** / **[[E87.22]]** / **[[E87.29]]**; the opposing acid-base disorder driving pH below 7.35 via acid accumulation or base loss; frequently coexists with alkalosis in mixed disorders.
 > - **Mixed disorder of acid-base balance** — **[[E87.4]]**; simultaneous acidotic and alkalotic processes (**e.g., metabolic alkalosis from diuretics + respiratory alkalosis from sepsis-driven hyperventilation**); physician must explicitly document the mixed disorder — never infer from ABG values alone without physician attestation.
 > - **[[hypokalemia]]** — **[[E87.6]]**; profoundly interconnected with metabolic **alkalosis** — **hypokalemia** drives renal H⁺ loss to spare K⁺, perpetuating **alkalosis**; and **alkalosis** itself shifts K⁺ intracellularly, worsening **hypokalemia**; always code separately as an additional diagnosis when documented.
 > - **Hypochloremia** — **[[E87.8]]** (**other disorders of electrolyte and fluid balance, NEC**); chloride depletion from vomiting, NG suctioning, or loop/thiazide diuretics is the central maintenance factor in chloride-responsive metabolic **alkalosis**; code additionally when documented.
@@ -254,7 +254,7 @@ _____
 >AND any(contains(this.definition, definition))
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

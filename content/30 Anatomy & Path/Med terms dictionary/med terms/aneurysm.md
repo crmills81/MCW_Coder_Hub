@@ -211,7 +211,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[aneurysm]].definition, word))) > 0 AND file.name != [[aneurysm]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

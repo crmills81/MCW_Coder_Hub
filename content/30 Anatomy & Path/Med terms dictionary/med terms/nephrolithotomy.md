@@ -90,11 +90,11 @@ _____
 **Outcomes:** [[stone]]-free rate 75-95% (complex cases lower); hospital stay 1-3 days.
 
 **One-Sentence Summary**  
-**Nephrolithotomy** (Greek *nephro[[-litho-]][[-tomy]]* “**kidney-stone-cut**”), primarily PCNL (CPT 50080 simple ≤2 cm / 50081 complex >2 cm), surgically extracts large renal [[calculi]] (**N20.0**) via percutaneous flank tract with lithotripsy/stenting for staghorn/**ESWL** failures.
+**Nephrolithotomy** (Greek *nephro[[-litho-]][[-tomy]]* “**kidney-stone-cut**”), primarily PCNL (CPT [[50080]] simple ≤2 cm / [[50081]] complex >2 cm), surgically extracts large renal [[calculi]] (**N20.0**) via percutaneous flank tract with lithotripsy/stenting for staghorn/**ESWL** failures.
 
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

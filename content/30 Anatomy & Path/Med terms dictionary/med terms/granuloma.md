@@ -173,7 +173,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[granuloma]].definition, word))) > 0 AND file.name != [[granuloma]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

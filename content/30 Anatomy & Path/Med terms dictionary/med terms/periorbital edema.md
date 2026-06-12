@@ -19,8 +19,7 @@ forms:
   - suffix
   - combined
 alphabet: P
-definition:
-  - swelling of the soft tissues surrounding the eye
+definition: swelling of the soft tissues surrounding the eye
 ---
 >[!Note] DEFINITION of [[periorbital edema]]
 >**Periorbital edema** refers to **the accumulation of excess fluid in the tissues surrounding the eye**, particularly affecting the eyelids and the area immediately around the orbit. This condition can be unilateral or bilateral and ranges from mild puffiness to severe swelling that may impair vision. 
@@ -846,7 +845,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

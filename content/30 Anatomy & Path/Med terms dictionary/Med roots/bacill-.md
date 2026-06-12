@@ -123,7 +123,7 @@ Lab results may specify **species**, which affects ICD‑10 coding for infectiou
 
 
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

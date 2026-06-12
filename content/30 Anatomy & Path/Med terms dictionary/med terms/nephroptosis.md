@@ -150,7 +150,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[nephroptosis]].definition, word))) > 0 AND file.name != [[nephroptosis]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

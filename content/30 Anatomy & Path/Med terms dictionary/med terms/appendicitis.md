@@ -179,6 +179,6 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[appendicitis]].definition, word))) > 0 AND file.name != [[appendicitis]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combinin

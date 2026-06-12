@@ -133,7 +133,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[hemophilia]].definition, word))) > 0 AND file.name != [[hemophilia]].file.name
 >```
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

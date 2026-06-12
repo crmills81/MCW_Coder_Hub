@@ -110,7 +110,7 @@ Representative etiologic categories:
 
 9 sources
 
-[[Med roots]]
+[[Med roots dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]
