@@ -53,7 +53,7 @@ _____
 > [[65430]] — Scraping of cornea for smear and/or culture 
 > [[65435]] — Removal of corneal [[epithelium]] (chemical or physical means), with or without chemocauterization 
 > [[65600]] — Multiple punctures of anterior cornea (e.g., for recurrent erosion or superficial keratitis)
->  [[65710]] — [[Keratoplasty]] (corneal transplant) — lamellar 
+>  [[65710]] — [[keratoplasty]] (corneal transplant) — lamellar 
 >  [[65730]] — Keratoplasty — penetrating, except in aphakia or pseudophakia 
 >  [[65750]] — Keratoplasty — penetrating, in [[aphakia]] 
 >  [[65755]] — Keratoplasty — penetrating, in [[pseudophakia]] 

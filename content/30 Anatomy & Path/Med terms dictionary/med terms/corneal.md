@@ -72,7 +72,7 @@ _____
 > - **[[Keratoconus]]** — progressive ectatic thinning and conical protrusion of the cornea; shares the *[[kerato-]]* root; the most common corneal ectatic disorder ([[H18.601]]-[[H18.609]])
 > - **[[Stroma]]** — the thick middle layer of the cornea comprising 90% of its thickness; site of scarring, infiltrates, and edema in most corneal disorders
 > - **Fuchs' endothelial dystrophy** — the most common corneal dystrophy; progressive endothelial cell loss causing corneal edema and visual blur; ([[H18.51]]); treated with DMEK or DSAEK corneal transplant
-> - **[[Keratoplasty]]** — surgical corneal transplantation; the definitive treatment for advanced corneal opacities, dystrophies, and keratoconus; includes PK (penetrating keratoplasty), DSAEK, and DMEK procedures
+> - **[[keratoplasty]]** — surgical corneal transplantation; the definitive treatment for advanced corneal opacities, dystrophies, and keratoconus; includes PK (penetrating keratoplasty), DSAEK, and DMEK procedures
 > - **Corneal topography** — computerized mapping of corneal surface curvature; the primary diagnostic tool for keratoconus, refractive planning, and monitoring corneal ectasia
 > - **[[Uveitis]]** — intraocular inflammation that frequently produces corneal keratic precipitates (KP) and band keratopathy as secondary corneal manifestations
 > - **Dry eye syndrome** — chronic insufficient tear film lubrication causing recurrent superficial corneal epithelial erosions and SPK; coded [[H04.121]]-[[H04.129]] (dry eye syndrome by laterality)
