@@ -87,7 +87,7 @@ _____
 ![[Pasted image 20260309022252.png]]
 
 
-[[Med roots]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

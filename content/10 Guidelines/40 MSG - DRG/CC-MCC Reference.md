@@ -79,9 +79,9 @@ CMS maintains a **CC Exclusion List** that pairs principal diagnoses with second
 
 | Principal Diagnosis      | Excluded CC/MCC                    | Reason                                   |
 | ------------------------ | ---------------------------------- | ---------------------------------------- |
-| **[[N18.6]] ESRD**       | **[[Z99.2]] Dialysis dependence**      | Redundant — ESRD implies dialysis        |
+| **[[N18.6]] ESRD**       | **[[50 Medical Coding/ICD-10 Codes/Z99.2]] Dialysis dependence**      | Redundant — ESRD implies dialysis        |
 | **[[I21.9]] AMI**        | **[[I25.10]] Coronary artery disease** | Integral relationship                    |
-| **[[J18.9]] Pneumonia**  | **[[J96.00]] Respiratory failure**     | May be excluded as expected complication |
+| **[[J18.9]] Pneumonia**  | **[[J69.0]] Respiratory failure**     | May be excluded as expected complication |
 | **[[K74.60]] Cirrhosis** | **[[K72.10]] Chronic hepatic failure** | Integral manifestation                   |
 | **[[A41.9]] Sepsis**     | **[[R65.10]] SIRS**                    | SIRS is definitional component of sepsis |
 
@@ -270,7 +270,7 @@ These MCCs appear across nearly all MDCs and DRGs. Capturing them when documente
 | **[[G82.20]]**   | Paraplegia, unspecified                     | MCC    | Thoracic SCI                           |
 | **[[G83.4]]**    | Cauda equina syndrome                       | CC/MCC | See [[G83.4]]; depends on presentation |
 | **[[G54.4]]**    | Lumbosacral root disorders                  | CC     | See [[G54.4]]                          |
-| **[[G35]]**      | Multiple sclerosis                          | CC     | Acute relapse in acute care            |
+| **[[G35.D]]**      | Multiple sclerosis                          | CC     | Acute relapse in acute care            |
 | **[[G12.21]]**   | Amyotrophic lateral sclerosis (ALS)         | MCC    | Progressive; high resource use         |
 | **[[R26.89]]**   | Other abnormalities of gait                 | Non-CC | Query for specific movement disorder   |
 | **[[M62.81]]**   | Muscle weakness, generalized                | Non-CC | Query for myopathy specificity         |
@@ -290,12 +290,12 @@ These MCCs appear across nearly all MDCs and DRGs. Capturing them when documente
 | Respiratory     | **[[J96.01]], [[J96.02]], [[J96.21]]** | **[[J44.1]], [[J95.821]]**            |
 | Renal           | **[[N17.9]], [[N18.6]]**               | **[[N18.4]], [[N18.5]], [[N13.6]]**   |
 | Cardiac         | **[[I50.21]], [[I50.23]], [[R57.0]]**  | **[[I48.0]], [[I50.32]], [[I10]]**    |
-| Neurologic      | **[[G93.41]], [[G82.50]], [[G82.20]]** | **[[G35]], [[G47.33]], [[F05]]**      |
+| Neurologic      | **[[G93.41]], [[G82.50]], [[G82.20]]** | **[[G35.D]], [[G47.33]], [[F05]]**      |
 | GI/Hepatic      | **[[K72.00]], [[K72.10]]**             | **[[K92.1]], [[K57.30]]**             |
 | Hematologic     | **[[D61.9]]**                          | **[[D62]], [[D63.1]], [[D50.0]]**     |
 | Metabolic       | **[[E43]], [[G93.41]]**                | **[[E44.0]], [[E87.1]], [[E86.0]]**   |
 | Skin/Wound      | **L89.xx3, L89.xx4, L89.xx0**          | **L89.xx2, L89.xx6**                  |
-| Musculoskeletal | **[[G82.50]], [[G12.21]]**             | **[[G83.4]], [[G35]], [[M62.81]]**    |
+| Musculoskeletal | **[[G82.50]], [[G12.21]]**             | **[[G83.4]], [[G35.D]], [[M62.81]]**    |
 
 ---
 
@@ -337,7 +337,6 @@ FOR EACH secondary diagnosis documented in the record:
 
 ## 🔗 Related Notes
 
-- [[MS-DRG_Overview]]
 - [[CDI Query Templates]]
 - [[MDC 11 - Urology]]
 - [[MDC 03 - ENT]]

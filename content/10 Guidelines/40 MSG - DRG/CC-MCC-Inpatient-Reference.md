@@ -23,13 +23,11 @@ aliases:
   - DRG severity
 category: DRG-Logic
 specialty: All
-cpt_range: N/A
 icd10_scope: Secondary diagnoses
 drg_impact: Severity level split (w/MCC, w/CC, w/o CC/MCC)
 cms_reference: IPPS Final Rule — MS-DRG Grouper; CMS HAC Reduction Program
 coding_clinic_key: true
 hcc_impact: Varies by condition
-cic_exam_topic: true
 last_updated: 2025
 ---
 
@@ -68,11 +66,11 @@ Base DRG w/o    →  Lower-weighted DRG  (e.g., DRG 872)
 The grouper evaluates the entire secondary diagnosis list and selects the **highest applicable severity level**. Only one level applies per encounter — MCC presence supersedes all CCs. Multiple CCs do **not** stack.
 
 > [!example] DRG Triplet Example — Septicemia
-> - [[DRG 870]] Septicemia or Severe Sepsis **w/ MCC**
-> - [[DRG 871]] Septicemia or Severe Sepsis **w/ CC** or Severe Sepsis w/ MV 96+ hrs
-> - [[DRG 872]] Septicemia or Severe Sepsis **w/o CC/MCC**
+> - **DRG 870** Septicemia or Severe Sepsis **w/ MCC**
+> - **DRG 871** Septicemia or Severe Sepsis **w/ CC** or Severe Sepsis w/ MV 96+ hrs
+> - **DRG 872** Septicemia or Severe Sepsis **w/o CC/MCC**
 >
-> A patient admitted with sepsis and documented acute kidney injury ([[N17.9]]) would group to DRG 870 because AKI is an MCC.
+> A patient admitted with sepsis and documented acute kidney injury (**[[N17.9]]**) would group to DRG 870 because AKI is an MCC.
 
 ---
 
@@ -99,7 +97,7 @@ CMS assigns CC/MCC status annually via the **IPPS Final Rule**. The lists are up
 CMS publishes a **CC Exclusion List** that defines diagnosis pairs where the secondary diagnosis does *not* receive CC/MCC credit, because it is either an expected manifestation, an integral part of, or clinically redundant with the principal diagnosis.
 
 > [!example] CC Exclusion in Practice
-> If the PDx is **pneumonia** ([[J18.9]]) and a secondary diagnosis is **respiratory failure** ([[J96.00]]), the respiratory failure may be excluded from CC credit because it is an expected complication of pneumonia in that pairing — not a truly independent comorbidity increasing the complexity beyond the base DRG.
+> If the PDx is **pneumonia** ([[J18.9]]) and a secondary diagnosis is **respiratory failure** ([[J69.0]]), the respiratory failure may be excluded from CC credit because it is an expected complication of pneumonia in that pairing — not a truly independent comorbidity increasing the complexity beyond the base DRG.
 
 > [!note] Coding Tip
 > CC exclusions are **pair-specific**. The same secondary diagnosis may be a valid CC or MCC when paired with a different PDx. Always let the grouper evaluate — do not assume exclusion without verification.
@@ -138,13 +136,13 @@ Selected HAC categories relevant to inpatient profee specialties:
 |---|---|---|
 | Sepsis, unspecified | [[A41.9]] | Requires two-code construct with source (e.g., [[A41.51]] for gram-neg) |
 | Severe sepsis w/o organ failure | [[R65.20]] | Must accompany underlying sepsis code |
-| Acute respiratory failure, unspecified | [[J96.00]] | Hypoxic vs hypercapnic specificity preferred |
+| Acute respiratory failure, unspecified | [[J69.0]] | Hypoxic vs hypercapnic specificity preferred |
 | Acute kidney injury, unspecified | [[N17.9]] | Stage/specificity improves accuracy |
 | ESRD | [[N18.6]] | Also qualifies for HCC — dual capture opportunity |
 | Intracranial hemorrhage | [[I62.9]] | Various subtypes are MCCs |
 | Aspiration pneumonia | [[J69.0]] | MCC — commonly seen in post-surgical/neuro patients |
 | Malnutrition, severe | [[E43]] | Query opportunity when BMI low, albumin reduced, intake documented poor |
-| Acute MI | [[I21.x]] | Various subtypes; important comorbidity across all specialties |
+| Acute MI | I21.x | Various subtypes; important comorbidity across all specialties |
 | Hepatic failure, unspecified | [[K72.90]] | |
 | Morbid obesity w/ alveolar hypoventilation | [[E66.01]] + [[G47.36]] | Combination frequently seen in PMR |
 
@@ -155,7 +153,7 @@ Selected HAC categories relevant to inpatient profee specialties:
 | UTI, unspecified | [[N39.0]] | Also HAC risk if catheter-associated |
 | Dysphagia, unspecified | [[R13.10]] | Common PMR and ENT CC; specify oropharyngeal vs esophageal |
 | Malnutrition, moderate | [[E44.0]] | Lower tier than E43 but still a CC |
-| CKD Stage 3 | [[N18.3]] | Stage 4 = CC; Stage 5 = CC; ESRD = MCC |
+| CKD Stage 3 | N18.3- | Stage 4 = CC; Stage 5 = CC; ESRD = MCC |
 | Obstructive sleep apnea | [[G47.33]] | Frequently documented, often missed as CC |
 | Hypertensive CKD, Stage 1-4 | [[I12.9]] | Combination code — captures both hypertension and CKD |
 | Hematuria | [[R31.9]] | Relevant in urology; specificity matters |
@@ -313,7 +311,7 @@ Selected HAC categories relevant to inpatient profee specialties:
 | Acute angle-closure glaucoma | [[H40.211]]-[[H40.219]] | CC | Requires IOP documentation; may be bilateral |
 | Vitreous hemorrhage | [[H43.10]]-[[H43.13]] | CC | Context-dependent |
 | Retinal detachment, total | [[H33.051]]-[[H33.059]] | CC | |
-| Blindness, both eyes | [[H54.0x]] | CC | Functional status implication |
+| Blindness, both eyes | H54.0x | CC | Functional status implication |
 
 > [!note] Important Ophthalmology CC/MCC Reality
 > Most individual ophthalmic ICD-10-CM codes do **not** carry CC or MCC designation in the MS-DRG grouper. The CC/MCC impact in ophthalmic inpatient encounters almost always comes from **systemic comorbidities** listed as secondary diagnoses.
@@ -389,18 +387,11 @@ For every inpatient encounter, ask:
 
 ## Related Notes
 
-- [[MS-DRG System Overview]]
-- [[POA Indicators — Inpatient Reference]]
-- [[HAC Reduction Program]]
-- [[Physician Query — Compliance and Templates]]
-- [[Sepsis Coding — Inpatient Reference]]
-- [[Malnutrition Coding — Inpatient Reference]]
-- [[Acute Kidney Injury — ICD-10 Reference]]
 - [[N17.9]] — Acute kidney injury, unspecified
 - [[A41.9]] — Sepsis, unspecified organism
 - [[E43]] — Unspecified severe protein-calorie malnutrition
 - [[J69.0]] — Pneumonitis due to solids and liquids (aspiration)
-- [[J96.00]] — Acute respiratory failure, unspecified
+- [[J69.0]] — Acute respiratory failure, unspecified
 - [[N18.6]] — End stage renal disease
 
 ---

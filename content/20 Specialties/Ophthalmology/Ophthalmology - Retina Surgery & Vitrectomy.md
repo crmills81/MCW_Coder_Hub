@@ -62,7 +62,7 @@ To bill 67113, you _must_ document one of the following conditions to justify "c
 
 ### **Re-Operation Modifiers (Critical for Retina)**
 
-Retina patients often require repeat surgeries. Choosing between **[[58]]** and **[[78]]** determines if you get paid 100% or ~70%.
+Retina patients often require repeat surgeries. Choosing between **[[-58]]** and **[[-78]]** determines if you get paid 100% or ~70%.
 
 | Scenario                                                                                                                 | Modifier | Payment | Global Period |
 | :----------------------------------------------------------------------------------------------------------------------- | :------- | :------ | :------------ |

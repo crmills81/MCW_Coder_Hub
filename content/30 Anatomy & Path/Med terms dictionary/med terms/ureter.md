@@ -32,10 +32,10 @@ _____
 >
 >|Term/Code|Description|Clinical/Coding Note|
 >|---|---|---|
->|**[[50 Medical Coding/ICD-10 Codes/N20.1]]**|Calculus of [[ureter]]|Specific ICD-10-CM code for a stone located in the [[ureter]] |
+>|**[[N20.1]]**|Calculus of [[ureter]]|Specific ICD-10-CM code for a stone located in the [[ureter]] |
 >|**[[N13.1]]**|[[hydronephrosis]] with ureteral stricture|Coding for obstruction caused by narrowing of the [[ureter]] |
 >|**[[N13.5]]**|Crossing vessel and stricture of [[ureter]] without [[hydronephrosis]]|Used when there is a stricture but no kidney swelling |
->|**[[ureterolithiasis]]**|Stone in the [[ureter]]|Clinical term for the condition coded by **[[50 Medical Coding/ICD-10 Codes/N20.1]]**.|
+>|**[[ureterolithiasis]]**|Stone in the [[ureter]]|Clinical term for the condition coded by **[[N20.1]]**.|
 >|**[[Hydroureter]]**|Dilation of the [[ureter]]|Accumulation of urine in the [[ureter]] due to obstruction (**[[N13.4]]**) |
 >|**[[ureteroscopy]]**|Scope of the ureter|Minimally invasive procedure to visualize or treat ureteral issues (CPT **5235x**).|
 >- **[[Ureteropelvic Junction (UPJ)]]**: The point where the [[ureter]] meets the kidney; a common site for congenital obstruction (**[[N13.0]]**).​
@@ -57,7 +57,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

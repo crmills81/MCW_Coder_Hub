@@ -668,7 +668,7 @@ last_reviewed: 2026-05-06
 > Common **CCs** and **MCCs** that elevate **DRG** in **PM&R** encounters:
 > - **Acute blood loss anemi**a ([[D62]]) → **CC**
 > - **Pressure ulcer Stage 3+** (L89.-) → **MCC**
-> - **[[Malnutrition]]** ([[E43]], E44.-) → **MCC/CC**
+> - **[[malnutrition]]** ([[E43]], E44.-) → **MCC/CC**
 > - **Respiratory failure** (J96.0-) → **MCC**
 > - **[[Sepsis]]** (A41.-) → **MCC**
 > - **[[hyponatremia]]** ([[E87.1]]) → **CC**

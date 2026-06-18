@@ -225,7 +225,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[tendon]].definition, word))) > 0 AND file.name != [[tendon]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

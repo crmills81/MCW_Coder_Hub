@@ -282,7 +282,7 @@ Not all inpatient settings use IPPS. Knowing which system applies is critical fo
 | **Complete ICD-10-PCS procedure coding**           | May qualify case for surgical DRG                |
 | **Correct POA assignment**                         | Determines HAC trigger; protects CC/MCC validity |
 | **Coding tracheostomy + MV ≥96 hrs**               | Triggers Pre-MDC DRG (RW 14-18+)                 |
-| **Avoiding "urosepsis" — code sepsis**             | Captures MCC [[A41.xx]] vs low-value UTI code    |
+| **Avoiding "urosepsis" — code sepsis**             | Captures MCC A41.xx vs low-value UTI code    |
 | **Specificity in diagnosis codes**                 | Determines CC vs MCC vs Non-CC tier              |
 | **Querying for AKI, malnutrition, encephalopathy** | Unlocks MCC opportunities via CDI                |
 

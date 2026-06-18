@@ -395,4 +395,3 @@ Patient undergoes 42826 (tonsillectomy, age 12+) on Day 1. Returns on Day 7 with
 - [[-78]] - Modifier 78, unplanned return to OR
 - [[-22]] - Modifier 22, increased procedural services
 - [[-62]] - Modifier 62, co-surgeons
-- [[-LT / -RT]] - Laterality modifiers

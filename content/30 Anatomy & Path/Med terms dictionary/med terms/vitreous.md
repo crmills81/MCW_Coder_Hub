@@ -154,4 +154,4 @@ _____
 
 ---
 
-[[Med roots]] | [[Appendix B Combining Forms]] | [[Appendix C Suffixes]]
+[[Med terms dictionary]] | [[Appendix B Combining Forms]] | [[Appendix C Suffixes]]

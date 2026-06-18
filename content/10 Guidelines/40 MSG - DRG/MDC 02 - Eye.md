@@ -257,7 +257,6 @@ See [[CDI Query Templates]] for query language.
 
 ## 🔗 Related Notes
 
-- [[MS-DRG_Overview]]
 - [[CC-MCC Reference]]
 - [[CDI Query Templates]]
 - [[MDC 03 - ENT]]

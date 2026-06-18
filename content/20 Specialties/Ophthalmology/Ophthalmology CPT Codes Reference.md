@@ -190,7 +190,7 @@ These ophthalmology-specific exam codes are an alternative to standard E/M codes
 | --------- | --------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | **[[66761]]** | [[Iridotomy]]/[[iridectomy]] by laser surgery — per session                       | Laser peripheral iridotomy (LPI) for angle closure glaucoma |
 | **[[66821]]** | Discission of secondary membranous cataract by laser surgery (YAG capsulotomy)    | Posterior capsular opacification post-cataract              |
-| **[[67210]]** | [[Photocoagulation]], retinal lesion (other than macular degeneration)            | Focal laser treatment                                       |
+| **[[67210]]** | [[photocoagulation]], retinal lesion (other than macular degeneration)            | Focal laser treatment                                       |
 | **[[67228]]** | Photocoagulation of retinal lesion, extensive — panretinal photocoagulation (PRP) | Proliferative diabetic retinopathy, retinal vein occlusion  |
 | **[[67229]]** | Photocoagulation, retinal lesion, new vessels                                     |                                                             |
 | **[[67145]]** | Prophylaxis of retinal detachment — cryotherapy or laser, 1 or more sessions      | Lattice degeneration treatment                              |

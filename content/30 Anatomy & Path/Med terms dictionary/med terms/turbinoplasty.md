@@ -118,8 +118,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[turbinoplasty]].definition, word))) > 0 AND file.name != [[turbinoplasty]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]
-[[Appendix D Suffix forms]]

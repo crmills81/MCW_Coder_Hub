@@ -69,9 +69,9 @@ definition:
 > - **[[Trachoma]]** — *Chlamydia trachomatis* conjunctival infection; active stage coded **[[A71.1]]**; WHO SAFE strategy (Surgery, Antibiotics, Facial cleanliness, Environmental improvement); trachomatous trichiasis is coded sequelae **[[B94.0]]** when active infection resolved with residual trichiasis; the leading cause of trichiasis globally; surgery (bilamellar tarsal rotation or equivalent) prevents corneal opacity progression
 > - **Ocular cicatricial pemphigoid (OCP)** — autoimmune subepithelial blistering disease causing progressive cicatrizing conjunctivitis, symblepharon, and trichiasis; coded **[[H10.811]]**-**[[H10.813]]**; requires systemic immunosuppression (dapsone, mycophenolate, rituximab) to control progression; trichiasis in OCP recurs if underlying disease not controlled
 > - **Corneal pannus** — fibrovascular ingrowth from the limbus onto the corneal surface from chronic trichiasis-related limbal stem cell stress; coded **[[H16.401]]**-**[[H16.403]]** (corneal neovascularization); sign of advanced, longstanding, inadequately treated trichiasis; requires treatment beyond trichiasis correction alone
-> - **[[Lagophthalmos]]** — incomplete eyelid closure; in the context of trichiasis, relevant when concurrent cicatricial disease (SJS, OCP) causes both lash misdirection AND lagophthalmos simultaneously; coded **[[H02.201]]**-**[[H02.213]]**; the combination of trichiasis AND lagophthalmos is particularly destructive — lashes abrade the cornea while the eyelid fails to protect it
-> - **Epilation conformer]]** — a prosthetic scleral conformer or contact lens placed after epilation or lid margin surgery to protect the cornea from residual lash fragments and maintain lid geometry during healing; not separately billable (included in CPT 67820/67825/67830 when used)
-> - **Hypertrichosis of eyelid** — excess eyelash growth (the opposite of trichiasis); coded **[[H02.861]]**-**[[H02.866]]** (right upper/lower, left upper/lower, right/left unspecified); associated with topical prostaglandin analogue use (latanoprost, bimatoprost) for glaucoma; not a cause of trichiasis but may coexist; do NOT confuse with trichiasis codes
+> - **[[Lagophthalmos]]** — incomplete eyelid closure; in the context of trichiasis, relevant when concurrent cicatricial disease (SJS, OCP) causes both lash misdirection AND lagophthalmos simultaneously; coded **[[H02.201]]**-**[[H02.213]]**; the combination of trichiasis AND [[lagophthalmos]] is particularly destructive — lashes abrade the cornea while the eyelid fails to protect it
+> - **Epilation conformer]]** — a prosthetic scleral conformer or contact lens placed after epilation or lid margin surgery to protect the cornea from residual lash fragments and maintain lid geometry during healing; not separately billable (included in CPT [[67820]]/[[67825]]/[[67830]] when used)
+> - **Hypertrichosis of eyelid** — excess eyelash growth (the opposite of [[trichiasis]]); coded **[[H02.861]]**-**[[H02.866]]** (right upper/lower, left upper/lower, right/left unspecified); associated with topical prostaglandin analogue use (latanoprost, bimatoprost) for [[glaucoma]]; not a cause of trichiasis but may coexist; do **NOT** confuse with trichiasis codes
 
 ---
 
@@ -79,7 +79,7 @@ definition:
 >
 > ## 📋 ICD-10-CM — Trichiasis Diagnosis Codes
 >
-> > **⚠️ CRITICAL CODING RULES FOR TRICHIASIS ICD-10-CM: (1) H02.05 is NOT billable — it is the parent subcategory. The full 6-character codes (H02.051-H02.056) are required for ALL trichiasis without entropion claims. H02.059 (unspecified) should be avoided — query laterality and eyelid (upper vs. lower) from the clinical note. (2) When trichiasis is CAUSED BY entropion, code the ENTROPION (H02.01x-H02.04x) — do NOT also code H02.05x; the entropion code encompasses the trichiasis. (3) H02.0 (Entropion and trichiasis of eyelid) is the parent CATEGORY — not billable, never used on a claim. (4) Congenital eyelid malformations are Excludes1 from H02 — distichiasis coded Q10.3, epiblepharon coded Q10.3; these are NOT the same as H02.05x.**
+> > **⚠️ CRITICAL CODING RULES FOR TRICHIASIS ICD-10-CM:** (1) H02.05 is **NOT** billable — it is the parent subcategory. The full 6-character codes (**[[H02.051]]-[[H02.056]]**) are required for ALL trichiasis without entropion claims. **[[H02.059]]** (unspecified) should be avoided — query laterality and eyelid (upper vs. lower) from the clinical note. (2) When **trichiasis** is **CAUSED** BY **entropion**, code the **ENTROPION** (H02.01x-H02.04x) — do **NOT** also code H02.05x; the entropion code encompasses the trichiasis. (3) H02.0 (**Entropion and trichiasis of eyelid**) is the parent CATEGORY — not billable, never used on a claim. (4) Congenital eyelid malformations are Excludes1 from H02 — **distichiasis** coded **Q10.3,** **epiblepharon** coded **Q10.3**; these are **NOT** the same as H02.05x.
 >
 > ### Trichiasis Without Entropion — Primary Billable Codes
 >
@@ -218,7 +218,7 @@ definition:
 >WHERE length(filter(definition, (word) => econtains(this.definition, word))) > 0 AND file.name != this.file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

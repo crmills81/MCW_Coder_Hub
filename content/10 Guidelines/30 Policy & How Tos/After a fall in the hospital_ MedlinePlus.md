@@ -2,7 +2,7 @@
 title: "After a fall in the hospital: MedlinePlus Medical Encyclopedia"
 source: "https://medlineplus.gov/ency/patientinstructions/000441.htm"
 author:
-published:
+published: 2026-04-24
 created: 2026-04-24
 description: "Falls can be a serious problem in the hospital. Factors that increase the risk of falls include:"
 tags:

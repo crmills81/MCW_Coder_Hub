@@ -235,7 +235,7 @@ definition:
 >WHERE length(filter(definition, (word) => econtains(this.definition, word))) > 0 AND file.name != this.file.name
 >```
 
-[[Med roots]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

@@ -22,7 +22,7 @@ expiration_date: "2025-09-30"
 *Medicare Severity Diagnosis Related Group Grouper Logic*
 
 > [!INFO] Document Scope
-> This manual defines the logic used by the CMS MS-DRG Grouper software to assign inpatient hospital claims to Medicare Severity Diagnosis Related Groups (MS-DRGs) for payment under the Inpatient Prospective Payment System (IPPS). [[1]]
+> This manual defines the logic used by the CMS MS-DRG Grouper software to assign inpatient hospital claims to Medicare Severity Diagnosis Related Groups (MS-DRGs) for payment under the Inpatient Prospective Payment System (IPPS). 
 
 ---
 
@@ -93,14 +93,14 @@ graph TD
 
 ## 📋 CC/MCC Designation Rules
 
-### Definition Framework [[24]]
+### Definition Framework 
 | Designation | Definition | Impact |
 |-------------|-----------|--------|
 | **MCC** | Major Complication/Comorbidity: Represents end-of-life, organ failure, advanced systemic decompensation, or conditions requiring ICU-level care | Highest payment weight; typically adds $8K-$20K reimbursement |
 | **CC** | Complication/Comorbidity: Chronic illness with exacerbation risk, post-procedure impact, or conditions requiring increased nursing/monitoring | Moderate payment weight; typically adds $3K-$8K reimbursement |
 | **Non-CC** | Conditions not meeting CC/MCC criteria or not present on admission | No additional payment adjustment |
 
-### The Nine Guiding Principles for CC/MCC Analysis [[6]]
+### The Nine Guiding Principles for CC/MCC Analysis 
 1. Represents end-of-life/near death or advanced systemic decompensation
 2. Denotes organ system instability or failure
 3. Involves chronic illness with susceptibility to exacerbations
@@ -111,7 +111,7 @@ graph TD
 8. Impedes patient cooperation or care management
 9. Recent change in best practice affecting resource use
 
-### FY 2025 CC/MCC List Updates [[22]][[24]]
+### FY 2025 CC/MCC List Updates 
 ```diff
 + ADDED TO MCC LIST (4 codes):
 + T36-T50 poisoning codes with specific intent + complication
@@ -185,7 +185,7 @@ Non-Operating Room (Non-OR) Procedures:
 | 455 | Combined Anterior/Posterior Spinal Fusion w/o CC/MCC | Streamlined spinal procedure logic |
 
 ### Title/Logic Modifications
-- **DRG 276**: Renamed to *"Cardiac Defibrillator Implant with MCC or Carotid Sinus Neurostimulator"* to include BAROSTIM™ system cases [[9]]
+- **DRG 276**: Renamed to *"Cardiac Defibrillator Implant with MCC or Carotid Sinus Neurostimulator"* to include BAROSTIM™ system cases 
 - **Cardiac Ablation Codes**: Refined list of ICD-10-PCS codes mapping to ablation DRGs for precision
 - **LAAC Procedure Codes**: Added 9 new ICD-10-PCS codes for left atrial appendage closure procedures
 
@@ -195,7 +195,7 @@ Non-Operating Room (Non-OR) Procedures:
 
 ### Step 1: Verify Principal Diagnosis Assignment
 ```markdown
-✅ Does the principal dx represent the condition established *after study* as chiefly responsible for admission? [[6]]
+✅ Does the principal dx represent the condition established *after study* as chiefly responsible for admission? 
 ✅ Is it sequenced per UHDDS guidelines?
 ✅ Does it map to a valid MDC?
 ```
@@ -234,10 +234,10 @@ Non-Operating Room (Non-OR) Procedures:
 ---
 
 ## 📚 Official Resources
-- [CMS MS-DRG Classifications Portal](https://www.cms.gov/medicare/payment/prospective-payment-systems/acute-inpatient-pps/ms-drg-classifications-and-software) [[2]]
-- [ICD-10 MS-DRG v42.0 Definitions Manual (Full Text)](https://www.cms.gov/icd10m/FY2025-NPRM-Version42-fullcode-cms) [[3]]
+- [CMS MS-DRG Classifications Portal](https://www.cms.gov/medicare/payment/prospective-payment-systems/acute-inpatient-pps/ms-drg-classifications-and-software) [
+- [ICD-10 MS-DRG v42.0 Definitions Manual (Full Text)](https://www.cms.gov/icd10m/FY2025-NPRM-Version42-fullcode-cms) 
 - [FY 2025 IPPS Final Rule (CMS-1808-F)](https://www.federalregister.gov/documents/2024/08/16/2024-17780/medicare-program-hospital-inpatient-prospective-payment-systems)
-- [CC/MCC Master Lists FY 2025](https://www.cms.gov/files/document/fy-2025-cc-mcc-lists.xlsx) [[24]]
+- [CC/MCC Master Lists FY 2025](https://www.cms.gov/files/document/fy-2025-cc-mcc-lists.xlsx) 
 
 > [!ABSTRACT] Bottom Line
 > The MS-DRG Definitions Manual v42.0 is the *source of truth* for inpatient payment logic. Mastery requires understanding: (1) MDC assignment via principal diagnosis, (2) surgical vs. medical DRG branching, (3) CC/MCC stratification rules, and (4) MCE pre-processing edits. Always validate against the official CMS software or a CMS-certified encoder.

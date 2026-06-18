@@ -71,7 +71,7 @@ _____
 > | Code | Description |
 > |---|---|
 > | **[[N18.6]]** | End stage renal disease _(The definitive code for ESRD)_ |
-> | **[[Z99.2]]** | Dependence on renal dialysis _(Mandatory secondary code to report alongside N18.6 for patients actively undergoing chronic dialysis)_ |
+> | **[[50 Medical Coding/ICD-10 Codes/Z99.2]]** | Dependence on renal dialysis _(Mandatory secondary code to report alongside N18.6 for patients actively undergoing chronic dialysis)_ |
 > | **[[N18.5]]** | Chronic kidney disease, stage 5 _(Use instead of N18.6 if the patient has profound kidney failure but is NOT on or requiring chronic dialysis, e.g., conservative/palliative management)_ |
 > | **[[Z94.0]]** | Kidney transplant status _(If the patient had ESRD but now has a functioning transplanted kidney, their CKD stage typically reverts to N18.3 or N18.4 based on the transplant's function, and N18.6 is no longer used unless the transplant has completely failed)_ |
 >
@@ -112,7 +112,7 @@ _____
 >
 > ---
 >
-> ⚠️ **Coding Note:** The most critical compliance and audit risk for **ESRD** is the failure to link systemic conditions and properly utilize the **[[Z99.2]]** dialysis dependence code. Per ICD-10-CM guidelines, hypertension and CKD are presumed to have a causal relationship. If a patient has HTN and ESRD, you must *never* code them as I10 and N18.6 separately; you must use the combination code **[[I12.0]]**, followed by **[[N18.6]]** to explicitly state the stage, followed by **[[Z99.2]]**. Additionally, for outpatient professional billing, the Monthly Capitation Payment (MCP) codes (like **[[90960]]**) require rigorous counting of face-to-face encounters. Billing the highest tier (4+ visits) without four distinct, documented encounters in that specific calendar month will result in immediate recoupment upon audit.
+> ⚠️ **Coding Note:** The most critical compliance and audit risk for **ESRD** is the failure to link systemic conditions and properly utilize the **[[50 Medical Coding/ICD-10 Codes/Z99.2]]** dialysis dependence code. Per ICD-10-CM guidelines, hypertension and CKD are presumed to have a causal relationship. If a patient has HTN and ESRD, you must *never* code them as I10 and N18.6 separately; you must use the combination code **[[I12.0]]**, followed by **[[N18.6]]** to explicitly state the stage, followed by **[[50 Medical Coding/ICD-10 Codes/Z99.2]]**. Additionally, for outpatient professional billing, the Monthly Capitation Payment (MCP) codes (like **[[90960]]**) require rigorous counting of face-to-face encounters. Billing the highest tier (4+ visits) without four distinct, documented encounters in that specific calendar month will result in immediate recoupment upon audit.
 
 _____
 >[!tip]- DERIVATIONS of [[end stage renal disease]]

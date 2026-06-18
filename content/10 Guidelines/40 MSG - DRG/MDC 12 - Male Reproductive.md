@@ -181,7 +181,6 @@ See [[CDI Query Templates]] for full query language.
 ## 🔗 Related Notes
 
 - [[MDC 11 - Urology]]
-- [[MS-DRG_Overview]]
 - [[CC-MCC Reference]]
 - [[CDI Query Templates]]
 - [[POA_Indicator_Guide]]

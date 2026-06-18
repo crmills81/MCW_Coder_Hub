@@ -272,8 +272,8 @@ This is a significant departure from old ICD-9 logic. You do **not** need the ph
 | **[[N18.31]]** | **CKD, Stage 3a**                                                      | Add when E11.23 is coded                                             |
 | **[[N18.32]]** | **CKD, Stage 3b**                                                      | Add when E11.24 is coded                                             |
 | **[[N18.4]]**  | **CKD, Stage 4**                                                       | Add when E11.25 is coded                                             |
-| **[[N18.5]]**  | **CKD, Stage 5**                                                       | Add when E11.26 is coded — add [[Z99.2]] if on dialysis              |
-| **[[Z99.2]]**  | Dependence on renal dialysis                                       | Add when patient is on hemodialysis or peritoneal dialysis           |
+| **[[N18.5]]**  | **CKD, Stage 5**                                                       | Add when E11.26 is coded — add [[50 Medical Coding/ICD-10 Codes/Z99.2]] if on dialysis              |
+| **[[50 Medical Coding/ICD-10 Codes/Z99.2]]**  | Dependence on renal dialysis                                       | Add when patient is on hemodialysis or peritoneal dialysis           |
 | **[[E87.65]]** | Hypomagnesemia                                                     | Commonly seen in T2DM — impacts glycemic control                     |
 | **[[R73.01]]** | Impaired fasting glucose                                           | Pre-diabetes (not DM)                                                |
 | **[[R73.09]]** | Other abnormal glucose                                             | Glucose intolerance NOS                                              |

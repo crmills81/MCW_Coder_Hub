@@ -82,17 +82,17 @@ status: complete
 > **Query Text:**
 > The patient was admitted with [clinical indicators: e.g., WBC 18.2, temp 38.9°C, HR 118, suspected UTI source, broad-spectrum antibiotics initiated on DOA]. Based on the clinical presentation, please clarify whether the patient's condition is best described as:
 >
-> ☐ Sepsis (infection + systemic response)
-> ☐ Severe Sepsis (sepsis + acute organ dysfunction — specify organ: _________)
-> ☐ Septic Shock (sepsis + vasopressor-refractory hypotension)
-> ☐ Systemic Inflammatory Response Syndrome (SIRS) without sepsis
-> ☐ Infection without SIRS criteria
-> ☐ Clinically undetermined
+>- [ ] Sepsis (infection + systemic response)
+>- [ ] Severe Sepsis (sepsis + acute organ dysfunction — specify organ: ________)
+>- [ ] Septic Shock (sepsis + vasopressor-refractory hypotension)
+>- [ ] Systemic Inflammatory Response Syndrome (SIRS) without sepsis
+>- [ ] Infection without SIRS criteria
+>- [ ] Clinically undetermined
 >
 > If sepsis is present, please identify the causative organism if known: _____________
 > If sepsis is present, please identify the source/site: _____________
 
-**DRG Impact:** [[A41.xx]] = MCC; [[R65.20]] Severe sepsis = MCC; [[R65.21]] Septic shock = MCC
+**DRG Impact:** A41.xx = MCC; [[R65.20]] Severe sepsis = MCC; [[R65.21]] Septic shock = MCC
 
 ---
 
@@ -104,9 +104,9 @@ status: complete
 > **Query Text:**
 > The term "urosepsis" was documented in the [note type, date]. ICD-10-CM does not recognize "urosepsis" as a standalone diagnosis. Based on the clinical presentation [list indicators], please clarify:
 >
-> ☐ Sepsis due to urinary tract infection — code to [[A41.9]] or organism-specific [[A41.xx]] + [[N39.0]]
-> ☐ Urinary tract infection with SIRS response — [[N39.0]] + [[R65.10]]/[[R65.11]]
-> ☐ Urinary tract infection without sepsis — [[N39.0]]
+> ☐ Sepsis due to urinary tract infection — code to **[[A41.9]]** or organism-specific A41.xx + **[[N39.0]]**
+> ☐ Urinary tract infection with SIRS response — **[[N39.0]] + [[R65.10]]/[[R65.11]]**
+> ☐ Urinary tract infection without sepsis — **[[N39.0]]**
 > ☐ Clinically undetermined
 
 ---
@@ -141,7 +141,7 @@ status: complete
 >
 > ☐ Acute Respiratory Failure with Hypoxia — [[J96.01]]
 > ☐ Acute Respiratory Failure with Hypercapnia — [[J96.02]]
-> ☐ Acute Respiratory Failure, unspecified — [[J96.00]]
+> ☐ Acute Respiratory Failure, unspecified — [[J69.0]]
 > ☐ Acute-on-Chronic Respiratory Failure with Hypoxia — [[J96.21]]
 > ☐ Acute-on-Chronic Respiratory Failure with Hypercapnia — [[J96.22]]
 > ☐ Chronic Respiratory Failure — [[J96.10]]-[[J96.12]]
@@ -289,7 +289,7 @@ status: complete
 > The patient received [X liters IV fluids]. BUN/Cr ratio was [Y]. Please clarify:
 >
 > ☐ Volume depletion / Dehydration — [[E86.0]] — CC
-> ☐ Hypovolemia — [[E86.1]] — CC
+> ☐ Hypovolemia — [[50 Medical Coding/ICD-10 Codes/E86.1]] — CC
 > ☐ IV fluids for maintenance, not for volume deficit
 > ☐ Clinically undetermined
 
@@ -448,7 +448,6 @@ status: complete
 
 ## 🔗 Related Notes
 
-- [[MS-DRG_Overview]]
 - [[CC-MCC Reference]]
 - [[MDC 11 - Urology]]
 - [[MDC 03 - ENT]]

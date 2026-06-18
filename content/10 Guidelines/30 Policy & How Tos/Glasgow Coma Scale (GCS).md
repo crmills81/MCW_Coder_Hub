@@ -6,14 +6,13 @@ tags:
   - glasgow-coma-scale
   - gcs
   - bedside-assessment
-  - inpatient-coding
   - emergency-medicine
   - icu
 notetype: clinical-reference
 title: Glasgow Coma Scale (GCS)
 created: 2026-04-21
 lastreviewed: 2026-04-21
-status: Active
+status: Active ✅
 ---
 
 # 🧠 Glasgow Coma Scale (GCS)
@@ -28,20 +27,20 @@ It produces a total score ranging from 3 (**deep coma or death**) to 15 (**fully
 
 The **GCS** is the sum of **three** subscores:
 
-- Eye Opening (**E**): 1-4  
-- Verbal Response (**V**): 1-5  
-- Motor Response (**M**): 1-6  
+<mark style="background:rgba(240, 200, 0, 0.2)">- Eye Opening (**E**): 1-4  </mark>
+<mark style="background:rgba(240, 200, 0, 0.2)">- Verbal Response (**V**): 1-5  </mark>
+<mark style="background:rgba(240, 200, 0, 0.2)">- Motor Response (**M**): 1-6  </mark>
 
 **Total GCS = E + V + M (range 3-15)**.
 
 ### Eye Opening (E)
 
-| Score | Description                      | Typical Clinical Cues                                  |
-|-------|----------------------------------|--------------------------------------------------------|
-| **4**     | Spontaneous                     | Eyes open without stimulation; patient is alert/awake. |
-| **3**     | To speech                       | Opens eyes when spoken to or called by name.          |
-| **2**     | To pain                         | Opens eyes only to painful stimulus.                  |
-| **1**     | None                            | No eye opening to voice or pain.                      |
+| Score | Description                                                 | Typical Clinical Cues                                         |
+| ----- | ----------------------------------------------------------- | ------------------------------------------------------------- |
+| **4** | <mark style="background:rgba(240, 200, 0, 0.2)">Spontaneous | Eyes open without stimulation; patient is alert/awake. |
+| **3** | <mark style="background:rgba(240, 200, 0, 0.2)">To speech   | Opens eyes when spoken to or called by name.           |
+| **2** | <mark style="background:rgba(240, 200, 0, 0.2)">To pain     | Opens eyes only to painful stimulus.                   |
+| **1** | <mark style="background:rgba(240, 200, 0, 0.2)">None       | No eye opening to voice or pain.                              |
 
 **Key points**:  
 - “**To speech**” does **not** require the patient to obey commands, just that eyes open to spoken voice.  

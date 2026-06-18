@@ -198,7 +198,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[Tetraplegia]].definition, word))) > 0 AND file.name != [[Tetraplegia]].file.name
 >```
 
-[[Med roots]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

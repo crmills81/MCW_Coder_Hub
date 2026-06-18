@@ -25,7 +25,7 @@ disclaimer: Simplified reference only. Always verify against official CMS CC/MCC
 
 > [!INFO] Document Purpose
 > This checklist provides a **condensed, specialty-focused reference** for CC (Complication/Comorbidity) and MCC (Major Complication/Comorbidity) designations under CMS MS-DRG v42.0.  
-> ⚠️ **Not exhaustive**: Always verify against the official [CMS FY 2025 CC/MCC Lists Excel file](https://www.cms.gov/files/document/fy-2025-cc-mcc-lists.xlsx) for final coding decisions. [[24]]
+> ⚠️ **Not exhaustive**: Always verify against the official [CMS FY 2025 CC/MCC Lists Excel file](https://www.cms.gov/files/document/fy-2025-cc-mcc-lists.xlsx) for final coding decisions. 
 
 ---
 
@@ -83,13 +83,13 @@ disclaimer: Simplified reference only. Always verify against official CMS CC/MCC
 
 | ICD-10-CM Code | Diagnosis                                   | CC/MCC    | Documentation Must Include                                        | POA Consideration                       |
 | -------------- | ------------------------------------------- | --------- | ----------------------------------------------------------------- | --------------------------------------- |
-| **[[J96.00]]**         | Acute respiratory failure, unspecified      | **[MCC]** | Type (hypoxemic/hypercapnic), ABG values, need for NIV/intubation | POA=Y if reason for admission           |
+| **[[J69.0]]**         | Acute respiratory failure, unspecified      | **[MCC]** | Type (hypoxemic/hypercapnic), ABG values, need for NIV/intubation | POA=Y if reason for admission           |
 | **[[J96.01]]**         | Acute respiratory failure with hypoxia      | **[MCC]** | PaO2 <60 mmHg or SpO2 <90% on room air, clinical context          | Document oxygen requirement             |
 | **[[J96.02]]**         | Acute respiratory failure with hypercapnia  | **[MCC]** | PaCO2 >50 mmHg, pH <7.35, clinical correlation                    | Link to COPD exacerbation if applicable |
 | **[[J44.1]]**          | COPD with acute exacerbation                | **[CC]**  | "Acute exacerbation" explicitly stated, change in sputum/dyspnea  | POA=Y if present at admission           |
 | **[[J18.9]]**          | Pneumonia, unspecified organism             | **[CC]**  | Lobar vs. bronchopneumonia, community vs. hospital-acquired       | HAP/VAP may trigger HAC review          |
 | **[[J69.0]]**          | Pneumonitis due to aspiration of food/vomit | **[MCC]** | Witnessed aspiration event, imaging findings, clinical course     | Often POA=N if post-procedure           |
-| **[[J80]]**            | Adult respiratory distress syndrome (ARDS)  | **[MCC]** | Berlin criteria: acute onset, bilateral infiltrates, P/F ratio    | Usually POA=N (complication)            |
+| **J80**            | Adult respiratory distress syndrome (ARDS)  | **[MCC]** | Berlin criteria: acute onset, bilateral infiltrates, P/F ratio    | Usually POA=N (complication)            |
 
 > [!QUERY TRIGGER] Respiratory  
 > *"Documentation states 'respiratory distress' without specification of failure. Per CMS guidelines, acute respiratory failure (J96.0-) is an MCC when requiring mechanical ventilation or non-invasive support. Please clarify: (1) Does patient meet criteria for acute respiratory failure? (2) If yes, is it hypoxemic, hypercapnic, or mixed? (3) Is it present on admission?"*
@@ -223,7 +223,7 @@ disclaimer: Simplified reference only. Always verify against official CMS CC/MCC
 | 20 | Delirium due to physiologic condition | F05 | **[CC]** | +$3K-$7K |
 
 > [!NOTE] DRG Impact Estimates  
-> Reimbursement adjustments vary by base DRG, geographic wage index, and hospital-specific factors. Figures above represent national average Medicare payment differentials for FY 2025. [[24]]
+> Reimbursement adjustments vary by base DRG, geographic wage index, and hospital-specific factors. Figures above represent national average Medicare payment differentials for FY 2025. [[-24]]
 
 ---
 
@@ -323,7 +323,7 @@ Common HACs affecting CC/MCC capture:
 ---
 
 ## 📚 Official Resources
-- [CMS FY 2025 CC/MCC Lists (Excel)](https://www.cms.gov/files/document/fy-2025-cc-mcc-lists.xlsx) [[24]]
+- [CMS FY 2025 CC/MCC Lists (Excel)](https://www.cms.gov/files/document/fy-2025-cc-mcc-lists.xlsx) [[-24]]
 - [CMS HAC List FY 2025](https://www.cms.gov/medicare/medicare-fee-for-service-payment/hospitalacquiredconditions/hospital-acquired_conditions_list)
 - [ICD-10-CM Code Tables FY 2025](https://www.cms.gov/icd10m/FY2025-Version42-fullcode-cms)
 - [AHA Coding Clinic for ICD-10-CM/PCS](https://www.ahacentraloffice.org/) — Official coding advice

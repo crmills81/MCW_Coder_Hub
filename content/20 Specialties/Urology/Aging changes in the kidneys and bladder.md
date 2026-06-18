@@ -2,7 +2,7 @@
 title: "Aging changes in the kidneys and bladder: MedlinePlus Medical Encyclopedia"
 source: https://medlineplus.gov/ency/article/004010.htm
 author: MedlinePlus
-published:
+published: 2026-04-27
 created: 2026-04-27
 description: The kidneys filter the blood and help remove wastes and extra fluid from the body. The kidneys also help control the body's chemical balance.
 tags:

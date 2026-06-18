@@ -24,8 +24,8 @@ applicable_to: All IRF patients regardless of payer
 *Inpatient Rehabilitation Facility Patient Assessment Instrument*
 
 > [!INFO] Document Scope
-> The IRF-PAI is the standardized assessment instrument used to collect patient data for **quality measure calculation** and **payment determination** under the IRF Prospective Payment System (PPS) and Quality Reporting Program (QRP). [[1]]  
-> **Effective Date**: October 1, 2024 for all patients discharged on or after this date. [[1]]
+> The IRF-PAI is the standardized assessment instrument used to collect patient data for **quality measure calculation** and **payment determination** under the IRF Prospective Payment System (PPS) and Quality Reporting Program (QRP).  
+> **Effective Date**: October 1, 2024 for all patients discharged on or after this date. 
 
 ---
 
@@ -58,7 +58,7 @@ applicable_to: All IRF patients regardless of payer
 ```
 
 > [!WARNING] Critical Distinction  
-> **IRF-PAI comorbidity sequencing differs from acute care MS-DRG logic**. Only comorbidities sequenced in the **first 10 positions** of Item I (Active Diagnoses) can impact CMG payment tier assignment. [[22]]
+> **IRF-PAI comorbidity sequencing differs from acute care MS-DRG logic**. Only comorbidities sequenced in the **first 10 positions** of Item I (Active Diagnoses) can impact CMG payment tier assignment.
 
 ---
 
@@ -100,7 +100,7 @@ graph LR
     E -->|Tier 3 | H[+ Lower CMG adjustment]
 ```
 
-### FY 2025 Comorbidity Tier Examples [[27]][[50]]
+### FY 2025 Comorbidity Tier Examples 
 | Tier | Clinical Examples | Representative ICD-10-CM Codes | Payment Impact |
 |------|------------------|-------------------------------|---------------|
 | **Tier 1** (Highest) | • Metastatic cancer<br>• End-stage renal disease on dialysis<br>• Severe malnutrition<br>• Advanced COPD with chronic respiratory failure | C79.51, N18.6, E43, J44.1 + J96.10 | +$2,500-$4,000 to base CMG |
@@ -108,9 +108,9 @@ graph LR
 | **Tier 3** | • Hypertension with heart/kidney disease<br>• Type 2 diabetes with complications<br>• Osteoporosis with current pathologic fracture | I13.9, E11.40, M80.08XA | +$400-$1,100 to base CMG |
 
 > [!TIP] Sequencing is Critical  
-> A comorbidity assigned to a payment tier **must be sequenced within the first 10 comorbidities** on the IRF-PAI to be reported and impact reimbursement. [[22]] Always place highest-tier qualifying conditions first.
+> A comorbidity assigned to a payment tier **must be sequenced within the first 10 comorbidities** on the IRF-PAI to be reported and impact reimbursement.  Always place highest-tier qualifying conditions first.
 
-### Documentation Requirements for Item I [[3]]
+### Documentation Requirements for Item I 
 ```markdown
 ✅ MUST DOCUMENT:
 • Diagnosis is ACTIVE (not historical) during the IRF stay
@@ -129,10 +129,10 @@ graph LR
 
 ## ⚙️ The 60% Rule & Presumptive Compliance
 
-### Regulatory Requirement [[53]][[55]]
+### Regulatory Requirement
 > At least **60% of an IRF's patients** must have one or more conditions from the **presumptive compliance list** to maintain Medicare certification as an IRF.
 
-### Presumptive Compliance List Highlights [[50]][[51]]
+### Presumptive Compliance List Highlights 
 ```icd10
 // Neurologic Conditions
 G81.90  Hemiplegia, unspecified
@@ -152,20 +152,20 @@ I50.9   Heart failure, unspecified
 J44.9   Chronic obstructive pulmonary disease, unspecified
 ```
 
-### Two Methods for 60% Rule Determination [[54]]
+### Two Methods for 60% Rule Determination 
 | Method | How It Works | Data Source |
 |--------|-------------|-------------|
 | **Presumptive Methodology** | Counts patients with ≥1 diagnosis code from the presumptive list on the IRF-PAI | IRF-PAI Item I (Active Diagnoses) |
 | **Medical Review Methodology** | Clinical review of medical records to determine if patient required intensive rehab services regardless of diagnosis code | Full medical record audit |
 
 > [!WARNING] Audit Risk  
-> MACs (Medicare Administrative Contractors) conduct compliance reviews. Facilities with presumptive compliance near 60% threshold should ensure **accurate, specific coding** of qualifying conditions in Item I. [[58]][[59]]
+> MACs (Medicare Administrative Contractors) conduct compliance reviews. Facilities with presumptive compliance near 60% threshold should ensure **accurate, specific coding** of qualifying conditions in Item I. 
 
 ---
 
 ## 📅 Assessment & Submission Timeline (v4.2)
 
-### Admission Assessment Schedule [[3]]
+### Admission Assessment Schedule 
 | Milestone | Timing Requirement | Notes |
 |-----------|-------------------|-------|
 | Assessment Reference Date (Item 13) | Day 3 of stay* | *If stay <3 days, use last day of stay |
@@ -173,7 +173,7 @@ J44.9   Chronic obstructive pulmonary disease, unspecified
 | Data Encoded By | Day 10 of stay | Entered into submission software |
 | Data Transmitted By | With discharge data (see below) | Admission + discharge sent together |
 
-### Discharge Assessment Schedule [[3]]
+### Discharge Assessment Schedule
 | Milestone | Timing Requirement | Notes |
 |-----------|-------------------|-------|
 | Discharge Date | Day patient leaves IRF | Counts as Day 1 of 27-day window |
@@ -260,7 +260,7 @@ IRF-PAI Strategy:
 
 | Pitfall | Risk | Solution |
 |---------|------|----------|
-| **Comorbidity sequenced > position 10** | Loss of CMG payment adjustment | Audit Item I sequencing; place qualifying comorbidities first [[22]] |
+| **Comorbidity sequenced > position 10** | Loss of CMG payment adjustment | Audit Item I sequencing; place qualifying comorbidities first [[-22]] |
 | **Using unspecified codes when specificity exists** | Denied presumptive compliance; lower CMG | Train providers on laterality/stage documentation; query for specificity |
 | **Coding historical conditions as active** | Audit findings; potential overpayment | Apply UHDDS guidelines: only code conditions affecting current stay |
 | **POA indicator errors on complications** | HAC payment adjustments; quality metric penalties | Review POA logic: complications developing during stay = POA=N |
@@ -276,12 +276,12 @@ IRF-PAI Strategy:
 ---
 
 ## 📚 Official Resources
-- [CMS IRF-PAI Manual v4.2 (Full PDF)](https://www.cms.gov/medicare/quality/inpatient-rehabilitation-facility/irf-pai-and-irf-qrp-manual) [[1]][[3]]
-- [IRF-PAI Change Table v4.2](https://www.cms.gov/medicare/quality/inpatient-rehabilitation-facility/irf-pai-and-irf-qrp-manual) [[1]]
-- [FY 2025 IRF PPS Final Rule (CMS-1804-F)](https://www.federalregister.gov/documents/2024/08/06/2024-16911) [[47]]
-- [Presumptive Compliance List (ICD-10-CM)](https://www.cms.gov/files/document/specifications-determining-irf-60-rule-compliance-updated-02-26-2026.pdf) [[51]]
-- [IRF QRP Technical Information](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/IRF-QualityReporting/Technical-Information.html) [[3]]
-- [iQIES Submission Portal](https://www.cms.gov/medicare/quality/initiatives-patient-assessment-instruments/nursinghomequalityinits/submit-data) [[3]]
+- [CMS IRF-PAI Manual v4.2 (Full PDF)](https://www.cms.gov/medicare/quality/inpatient-rehabilitation-facility/irf-pai-and-irf-qrp-manual)
+- [IRF-PAI Change Table v4.2](https://www.cms.gov/medicare/quality/inpatient-rehabilitation-facility/irf-pai-and-irf-qrp-manual) 
+- [FY 2025 IRF PPS Final Rule (CMS-1804-F)](https://www.federalregister.gov/documents/2024/08/06/2024-16911) 
+- [Presumptive Compliance List (ICD-10-CM)](https://www.cms.gov/files/document/specifications-determining-irf-60-rule-compliance-updated-02-26-2026.pdf) 
+- [IRF QRP Technical Information](https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/IRF-QualityReporting/Technical-Information.html) 
+- [iQIES Submission Portal](https://www.cms.gov/medicare/quality/initiatives-patient-assessment-instruments/nursinghomequalityinits/submit-data) 
 
 > [!ABSTRACT] Bottom Line  
 > IRF-PAI v4.2 coding requires mastery of: (1) **functional assessment logic** (GG section drives CMG), (2) **comorbidity tier rules** (Item I sequencing critical), (3) **60% rule compliance** (presumptive list accuracy), and (4) **quality measure alignment** (pressure ulcers, falls, functional improvement). Always validate against the official CMS manual and query providers when documentation lacks specificity for tier assignment or presumptive compliance.

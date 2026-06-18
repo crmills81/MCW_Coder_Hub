@@ -369,7 +369,7 @@ For full query language, see [[CDI Query Templates]].
 
 ## 🔗 Related Notes
 
-- [[MS-DRG_Overview]]
+
 - [[CC-MCC Reference]]
 - [[CDI Query Templates]]
 - [[MDC 12 - Male Reproductive]]

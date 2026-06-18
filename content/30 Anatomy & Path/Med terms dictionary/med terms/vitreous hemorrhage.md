@@ -84,7 +84,7 @@ _____
 
 <br>
 
-[[Med roots]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

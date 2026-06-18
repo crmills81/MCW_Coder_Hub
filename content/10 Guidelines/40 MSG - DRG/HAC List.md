@@ -141,7 +141,7 @@ HAC event may also be reported to HACRP quality database
 | **[[T81.71XA]]** | Complication of infusion — air embolism                             |
 
 > [!tip] Distinguish from Pulmonary Embolism
-> Iatrogenic air embolism ([[T80.0xxA]]) is distinct from thrombotic pulmonary embolism ([[I26.xx]]). PE from DVT is in HAC Category 10 (post-orthopedic only), not Category 2. Iatrogenic air embolism applies across all services.
+> Iatrogenic air embolism ([[T80.0XXA]]) is distinct from thrombotic pulmonary embolism (I26.xx. PE from DVT is in HAC Category 10 (post-orthopedic only), not Category 2. Iatrogenic air embolism applies across all services.
 
 ---
 
@@ -443,7 +443,7 @@ Beyond the individual claim-level payment adjustment, hospitals face the **HAC R
 | Code | POA | Rationale |
 |------|-----|-----------|
 | [[K63.5]] | Y | Polyp of colon — PDx |
-| [[0DBN0ZZ]] | Proc | Resection sigmoid colon, open |
+| 0DBN0ZZ | Proc | Resection sigmoid colon, open |
 | [[T81.500A]] | **N** | Foreign body (sponge) retained after surgery — by definition POA = N |
 
 **HAC Result:** HAC Category 1 triggered. Never-event. Does NOT qualify as CC/MCC. Mandatory reportable event at most institutions independent of HAC program.

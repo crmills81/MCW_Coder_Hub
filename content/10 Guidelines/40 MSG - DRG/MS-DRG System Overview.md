@@ -20,10 +20,10 @@ version: v42.0 (FY 2025)
 effective_date: 2024-10-01
 expiration_date: 2025-09-30
 related_notes:
-  - "[[CMS MS-DRG Definitions Manual v42.0]]"
-  - "[[ICD-10-CM Official Guidelines FY 2025]]"
-  - "[[ADL Data CC/MCC Checklist]]"
-  - "[[POA Reporting Quick Reference]]"
+  - "CMS MS-DRG Definitions Manual v42.0"
+  - "ICD-10-CM Official Guidelines FY 2025"
+  - "ADL Data CC/MCC Checklist"
+  - "POA Reporting Quick Reference"
 ---
 # 🏥 MS-DRG System: Complete Overview — FY 2025
 ### MS-DRG System: Complete Overview
@@ -60,7 +60,7 @@ timeline
 | No distinction between mild and severe cases | Stratifies each DRG into: **with MCC**, **with CC**, **without CC/MCC** |
 | Underpayment for complex patients | Higher payment weights for MCCs reflect resource intensity |
 | Overpayment for simple cases | Lower weights for "without CC/MCC" prevent windfalls |
-| Limited clinical granularity | Expanded code set (74,044 ICD-10-CM codes in FY2025) [[49]] |
+| Limited clinical granularity | Expanded code set (74,044 ICD-10-CM codes in FY2025)  |
 
 > [!TIP] Key Concept  
 > **MS-DRG = Medicare Severity**. The "MS" prefix denotes that payment is adjusted for patient severity via CC/MCC designation—not just the principal diagnosis.
@@ -194,15 +194,15 @@ graph TD
 
 | Term | Definition | Coding Implication |
 |------|-----------|-------------------|
-| **Principal Diagnosis** | Condition established *after study* as chiefly responsible for admission [[6]] | Must map to valid MDC; drives initial DRG branching |
-| **Other Diagnoses** | Conditions coexisting at admission or developing subsequently that affect care [[6]] | Must meet clinical significance criteria to qualify as CC/MCC |
-| **CC (Complication/Comorbidity)** | Secondary diagnosis that increases LOS by ≥1 day or requires additional resources [[24]] | Moderate payment weight increase |
-| **MCC (Major CC)** | Secondary diagnosis representing organ failure, end-of-life, or ICU-level care [[24]] | Highest payment weight increase |
-| **POA (Present on Admission)** | Indicator (Y/N/U/W/1) denoting whether condition existed at inpatient admission [[6]] | POA=N + HAC list = no CC/MCC payment adjustment |
-| **HAC (Hospital-Acquired Condition)** | Preventable complication CMS will not pay extra for if POA=N [[24]] | Stage 3/4 pressure ulcers, CAUTI, post-op PE/DVT, etc. |
-| **OR vs. Non-OR Procedure** | CMS designation determining if procedure drives surgical DRG assignment [[1]] | Only OR procedures typically trigger surgical DRG branching |
-| **MCE (Medicare Code Editor)** | Pre-grouper software that validates codes, POA, age/sex edits [[1]] | Claims failing MCE edits are rejected pre-payment |
-| **Geometric Mean LOS** | Statistical midpoint of length of stay for each DRG [[1]] | Used to calculate outlier payments for exceptionally long stays |
+| **Principal Diagnosis** | Condition established *after study* as chiefly responsible for admission  | Must map to valid MDC; drives initial DRG branching |
+| **Other Diagnoses** | Conditions coexisting at admission or developing subsequently that affect care  | Must meet clinical significance criteria to qualify as CC/MCC |
+| **CC (Complication/Comorbidity)** | Secondary diagnosis that increases LOS by ≥1 day or requires additional resources  | Moderate payment weight increase |
+| **MCC (Major CC)** | Secondary diagnosis representing organ failure, end-of-life, or ICU-level care  | Highest payment weight increase |
+| **POA (Present on Admission)** | Indicator (Y/N/U/W/1) denoting whether condition existed at inpatient admission | POA=N + HAC list = no CC/MCC payment adjustment |
+| **HAC (Hospital-Acquired Condition)** | Preventable complication CMS will not pay extra for if POA=N  | Stage 3/4 pressure ulcers, CAUTI, post-op PE/DVT, etc. |
+| **OR vs. Non-OR Procedure** | CMS designation determining if procedure drives surgical DRG assignment  | Only OR procedures typically trigger surgical DRG branching |
+| **MCE (Medicare Code Editor)** | Pre-grouper software that validates codes, POA, age/sex edits  | Claims failing MCE edits are rejected pre-payment |
+| **Geometric Mean LOS** | Statistical midpoint of length of stay for each DRG  | Used to calculate outlier payments for exceptionally long stays |
 
 ---
 
@@ -518,4 +518,4 @@ graph LR
 ---
 *Last synced: $(date)*  
 *Next review: FY 2026 IPPS Proposed Rule (expected July 2025)*  
-*Vault Status: ✅ Integrated with [[CMS MS-DRG Definitions Manual v42.0]] and [[ADL Data CC/MCC Checklist]]*
+*Vault Status: ✅ Integrated with CMS MS-DRG Definitions Manual v42.0 and ADL Data CC/MCC Checklist*

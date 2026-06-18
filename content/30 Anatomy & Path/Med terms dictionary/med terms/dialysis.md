@@ -75,7 +75,7 @@ _____
 > |---|---|
 > | **[[N18.6]]** | End stage renal disease _(Use for chronic, irreversible failure requiring ongoing RRT)_ |
 > | **[[N17.9]]** | Acute kidney failure, unspecified _(Use for acute, potentially reversible failure requiring temporary dialysis)_ |
-> | **[[Z99.2]]** | Dependence on renal dialysis _(Mandatory secondary code for any patient receiving chronic/ESRD dialysis; do not use for acute AKI dialysis)_ |
+> | **[[50 Medical Coding/ICD-10 Codes/Z99.2]]** | Dependence on renal dialysis _(Mandatory secondary code for any patient receiving chronic/ESRD dialysis; do not use for acute AKI dialysis)_ |
 > | **[[Z49.01]]** | Encounter for fitting and adjustment of extracorporeal dialysis [[catheter]] _(Use for access maintenance visits)_ |
 > | **[[Z49.31]]** | Encounter for adequacy testing for hemodialysis _(Used for specific outpatient testing encounters)_ |
 >
@@ -116,7 +116,7 @@ _____
 >
 > ---
 >
-> ⚠️ **Coding Note:** A critical documentation requirement for outpatient ESRD billing is tracking the number of face-to-face visits. Providers cannot bill the high-level **Monthly Capitation Payment (MCP)** code (**[[90960]]**) without explicit documentation of 4 or more distinct encounters during that calendar month. For inpatient settings, **[[90935]]** and **[[90937]]** include all E&M services related to the patient's renal disease for that day; you cannot bill a separate daily hospital E&M (e.g., **[[99232]]**) unless the E&M addresses a completely separate, non-renal issue (which requires modifier **[[-25]]**). Always remember the ICD-10 pairing rule: If coding **[[N18.6]]** (**ESRD**), you are required by guidelines to also report **[[Z99.2]]** to specify the patient's dependence on the artificial kidney. 
+> ⚠️ **Coding Note:** A critical documentation requirement for outpatient ESRD billing is tracking the number of face-to-face visits. Providers cannot bill the high-level **Monthly Capitation Payment (MCP)** code (**[[90960]]**) without explicit documentation of 4 or more distinct encounters during that calendar month. For inpatient settings, **[[90935]]** and **[[90937]]** include all E&M services related to the patient's renal disease for that day; you cannot bill a separate daily hospital E&M (e.g., **[[99232]]**) unless the E&M addresses a completely separate, non-renal issue (which requires modifier **[[-25]]**). Always remember the ICD-10 pairing rule: If coding **[[N18.6]]** (**ESRD**), you are required by guidelines to also report **[[50 Medical Coding/ICD-10 Codes/Z99.2]]** to specify the patient's dependence on the artificial kidney. 
 
 _____
 >[!tip]- DERIVATIONS of [[dialysis]]

@@ -155,7 +155,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[visceroptosis]].definition, word))) > 0 AND file.name != [[visceroptosis]].file.name
 >```
 
-[[Med roots]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

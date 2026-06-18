@@ -67,7 +67,7 @@ This reference index covers the major **CPT code families in Urology** — organ
 | ------------- | ------------------------------------------------------------------------------------------- | ------- | ---------- |
 | [[50220]]     | Nephrectomy, open, simple                                                                   | 090     | ~16.0      |
 | [[50225]]     | Nephrectomy, open, complicated (prior surgery)                                              | 090     | ~19.0      |
-| **[[50 Medical Coding/CPT Codes/50230]]** | **Radical nephrectomy, open, with regional lymphadenectomy and/or vena caval thrombectomy** | **090** | **~23.81** |
+| **[[50230]]** | **Radical nephrectomy, open, with regional lymphadenectomy and/or vena caval thrombectomy** | **090** | **~23.81** |
 | [[50234]]     | Radical nephrectomy with total ureterectomy, transperitoneal, with LND                      | 090     | ~24.0      |
 | [[50236]]     | Radical nephrectomy with total ureterectomy                                                 | 090     | ~22.0      |
 | [[50240]]     | Partial nephrectomy, open                                                                   | 090     | ~20.0      |

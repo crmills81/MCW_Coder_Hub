@@ -159,7 +159,7 @@ MDCs are the **first-level sort** — 25 broad body system / etiology categories
 | **—**      | Pre-MDC                                    | High-cost procedures assigned before MDC (ECMO, Transplants, Tracheostomy) |
 
 > [!tip] Pre-MDC DRGs
-> Procedures like tracheostomy with mechanical ventilation ([[0BH17EZ]], [[0BH18EZ]]) and organ transplants are assigned to **Pre-MDC DRGs** (DRG 001-017) *before* MDC assignment. These are among the highest-weighted DRGs in the system. Do not miss a qualifying PCS code for tracheostomy in your ENT/ICU cases.
+> Procedures like tracheostomy with mechanical ventilation (0BH17EZ, 0BH18EZ) and organ transplants are assigned to **Pre-MDC DRGs** (DRG 001-017) *before* MDC assignment. These are among the highest-weighted DRGs in the system. Do not miss a qualifying PCS code for tracheostomy in your ENT/ICU cases.
 
 ---
 
@@ -179,7 +179,7 @@ This is the most **actionable** area for coders and CDI professionals.
 
 1. **CMS publishes the CC/MCC designation list** annually — each ICD-10-CM diagnosis code is classified as MCC, CC, or Non-CC.
 2. Secondary diagnoses are evaluated against this list.
-3. **CC Exclusion List**: Some diagnosis pairs are excluded — a CC/MCC is suppressed if it is too closely related to (or part of) the principal diagnosis. Example: Coding [[N18.6]] (ESRD) as a CC when [[Z99.2]] (dependence on renal dialysis) is the principal would typically be excluded.
+3. **CC Exclusion List**: Some diagnosis pairs are excluded — a CC/MCC is suppressed if it is too closely related to (or part of) the principal diagnosis. Example: Coding [[N18.6]] (ESRD) as a CC when [[50 Medical Coding/ICD-10 Codes/Z99.2]] (dependence on renal dialysis) is the principal would typically be excluded.
 4. **POA Indicator**: A diagnosis present on admission may still qualify as a CC/MCC — but if it is a **Hospital-Acquired Condition (HAC)**, it is excluded from CC/MCC logic.
 5. The **highest-severity qualifying secondary diagnosis** determines the DRG tier.
 
@@ -190,7 +190,7 @@ This is the most **actionable** area for coders and CDI professionals.
 
 | MCC Code   | Description                            | Notes                                                           |
 | ---------- | -------------------------------------- | --------------------------------------------------------------- |
-| **[[J96.00]]** | Acute respiratory failure, unspecified | Extremely high-value MCC                                        |
+| **[[J69.0]]** | Acute respiratory failure, unspecified | Extremely high-value MCC                                        |
 | **[[J96.01]]** | Acute respiratory failure w/ hypoxia   | Preferred specificity over J96.00                               |
 | **[[N17.9]]**  | Acute kidney injury (AKI)              | Ubiquitous MCC; requires documentation of AKI distinct from CKD |
 | **[[D69.6]]**  | Thrombocytopenia, unspecified          | Common secondary finding                                        |
@@ -277,7 +277,7 @@ Within each MDC, the grouper first asks: **Is there a qualifying OR procedure?**
 - Assigned when an ICD-10-PCS procedure code maps to a **CMS-defined OR procedure** for that MDC
 - OR procedures are CMS-designated, not necessarily literally performed in an operating room
 - Generally carry **higher relative weights** than medical DRGs in the same MDC
-- Example: [[0VT04ZZ]] (Resection of prostate, open) → surgical DRG pathway in MDC 12
+- Example: 0VT04ZZ (Resection of prostate, open) → surgical DRG pathway in MDC 12
 
 ### Medical DRGs
 - No qualifying OR procedure coded
@@ -344,7 +344,7 @@ Urology spans two MDCs: kidney/urinary tract (11) and male reproductive (12).
 
 **Key MCCs/CCs to capture in Urology:**
 - [[N17.9]] — AKI (especially post-op or in obstruction cases)
-- [[N18.3]], [[N18.4]], [[N18.5]] — CKD stages (CCs/MCCs depending on stage)
+- [[N18.30]], [[N18.4]], [[N18.5]] — CKD stages (CCs/MCCs depending on stage)
 - [[R33.9]] — Urinary retention (context-dependent)
 - T83.xxx — Complications of genitourinary prosthetics/devices (CC/MCC depending on specificity)
 - [[A41.51]] — Sepsis due to Escherichia coli (MCC — common in urosepsis)
@@ -398,7 +398,7 @@ Ophthalmology inpatient cases are less common (most ophthalmic procedures are ou
 **Key MCCs/CCs for Ophthalmology:**
 - [[H44.001]] — Purulent endophthalmitis (complex, MCC-eligible secondary if sepsis present)
 - [[E11.3511]] — T2DM with proliferative diabetic retinopathy — highly specific; CC
-- [[H40.033x]] — Angle-closure glaucoma, chronic — see [[H40.033]]
+- [[H40.033]] — Angle-closure glaucoma, chronic — see [[H40.033]]
 - [[H30.101]] — Unspecified chorioretinal inflammation — see [[H30.101]]
 - [[Z79.01]] — Long-term use of anticoagulants — CC; impacts surgical planning and documentation
 
@@ -436,7 +436,7 @@ PM&R cases fall under **CMS-certified Inpatient Rehabilitation Facilities (IRFs)
 | ----------------------------------------------------------------------------- | ---------------------------------------------------- |
 | Clinical indicators of AKI (creatinine trending up) but no AKI documentation  | **Establish [[N17.9]] as secondary dx (MCC)**        |
 | Sepsis criteria met (SIRS + infection source) but only "infection" documented | **Establish A41.xx (MCC)**                           |
-| "Acute-on-chronic" respiratory failure mentioned in notes inconsistently      | **Establish [[J96.00]] or [[J96.01]] (MCC)**         |
+| "Acute-on-chronic" respiratory failure mentioned in notes inconsistently      | **Establish [[J69.0]] or [[J96.01]] (MCC)**         |
 | Metabolic encephalopathy signs without clear documentation                    | **Establish [[G93.41]] (MCC)**                       |
 | Malnutrition indicators (albumin, BMI, weight loss)                           | **Establish [[E43]] or [[E44.0]] (CC/MCC)**          |
 | Pressure injuries noted in wound care notes                                   | **Establish stage → CC/MCC**                         |

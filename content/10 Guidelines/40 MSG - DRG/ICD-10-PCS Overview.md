@@ -101,7 +101,7 @@ Example:        0      T      T    0   0    Z     Z
 Surg System ion Right
 ```
 
-**Decoded:** [[0TT00ZZ]] = Resection of right kidney, open approach, no device, no qualifier
+**Decoded:** 0TT00ZZ = Resection of right kidney, open approach, no device, no qualifier
 
 ### Character Position Reference
 
@@ -211,7 +211,7 @@ The **Root Operation (Character 3)** defines the *objective* of the procedure. T
 | **Fragmentation** | F | Breaking solid matter in a body part into pieces; no removal of fragments | ESWL; lithotripsy |
 
 > [!warning] Excision vs Resection — The Most Common Error
-> **Excision** = partial removal (some of the body part remains). **Resection** = total removal (entire named body part gone). The distinction matters for DRG qualification — Resection of the prostate ([[0VT00ZZ]]) often triggers a surgical DRG; Excision may not. Always verify the operative note: was the **entire** body part removed?
+> **Excision** = partial removal (some of the body part remains). **Resection** = total removal (entire named body part gone). The distinction matters for DRG qualification — Resection of the prostate (0VT00ZZ) often triggers a surgical DRG; Excision may not. Always verify the operative note: was the **entire** body part removed?
 
 #### Group 2 — Procedures That Put In, Put Back, or Move Tissue
 
@@ -233,7 +233,7 @@ The **Root Operation (Character 3)** defines the *objective* of the procedure. T
 
 | Root Op | Value | Definition | Example |
 |---------|-------|-----------|---------|
-| **Bypass** | 1 | Altering the route of passage of contents; includes diverted passage | Urinary diversion; tracheostomy [[0B110F4]] |
+| **Bypass** | 1 | Altering the route of passage of contents; includes diverted passage | Urinary diversion; tracheostomy 0B110F4 |
 | **Dilation** | 7 | Expanding an orifice or lumen | Urethral dilation; balloon dilation |
 | **Occlusion** | L | Completely closing the orifice or lumen | Tubal ligation |
 | **Restriction** | V | Partially closing an orifice or lumen | Cerclage; banding |
@@ -284,7 +284,7 @@ The **Approach (Character 5)** defines the surgical access method. This is the s
 | **X** | External | Procedures performed directly on skin or mucous membrane; procedures performed indirectly by application of external force | Closed reduction; external fixation |
 
 > [!tip] Robotic = Percutaneous Endoscopic (Value 4)
-> Robotic-assisted procedures (da Vinci, etc.) use the **percutaneous endoscopic approach (4)** — not a unique approach code. The robotic component is captured in **Section 8** (Other Procedures) as a separate code: [[8E0W4CZ]] (Robotic Assisted Procedure, trunk region). Always code both the primary PCS procedure AND the robotic assistance code when documented.
+> Robotic-assisted procedures (da Vinci, etc.) use the **percutaneous endoscopic approach (4)** — not a unique approach code. The robotic component is captured in **Section 8** (Other Procedures) as a separate code: 8E0W4CZ (Robotic Assisted Procedure, trunk region). Always code both the primary PCS procedure AND the robotic assistance code when documented.
 
 > [!warning] Endoscopic Approach Changes the Code Entirely
 > Laparoscopic cystectomy vs open cystectomy differ only in Character 5, but they may result in different DRG qualification. CMS's OR procedure list designates certain approaches as qualifying OR procedures while others do not. Always verify the approach against the operative report — never default to "open" when laparoscopic was performed.
@@ -394,15 +394,15 @@ Not every ICD-10-PCS code qualifies as an **OR (Operating Room) procedure** for 
 
 ### Common Non-OR Procedures (Do NOT trigger surgical DRG)
 
-- Insertion of urinary catheter ([[0TH97XZ]])
-- Endotracheal intubation ([[0BH17EZ]])
+- Insertion of urinary catheter (0TH97XZ)
+- Endotracheal intubation (0BH17EZ)
 - Insertion of peripheral IV catheter
 - Most monitoring device insertions
 - Irrigation/instillation procedures
 - Diagnostic imaging-guided injections
 
 > [!warning] Foley ≠ OR Procedure
-> Insertion of a urinary catheter ([[0TH97XZ]]) is **not** an OR procedure and will not trigger a surgical DRG — even though it is a coded PCS procedure. This is a common misconception. Only invasive procedures on the CMS OR list change the DRG pathway.
+> Insertion of a urinary catheter (0TH97XZ) is **not** an OR procedure and will not trigger a surgical DRG — even though it is a coded PCS procedure. This is a common misconception. Only invasive procedures on the CMS OR list change the DRG pathway.
 
 ---
 

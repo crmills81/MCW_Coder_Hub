@@ -306,7 +306,6 @@ See [[CDI Query Templates]] for compliant query language.
 
 ## 🔗 Related Notes
 
-- [[MS-DRG_Overview]]
 - [[CC-MCC Reference]]
 - [[CDI Query Templates]]
 - [[MDC 02 - Eye]]

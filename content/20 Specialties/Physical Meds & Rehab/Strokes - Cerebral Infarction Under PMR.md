@@ -6,7 +6,6 @@ tags:
   - neurology
   - stroke
   - cerebral-infarction
-  - inpatient-profee
   - documentation-integrity
 title: "Strokes: Cerebral Infarction Under PM&R"
 aliases:

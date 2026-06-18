@@ -136,7 +136,7 @@ _____
 > |**[[Z79.4]]**|Long-term (current) use of insulin|
 > |**[[Z79.84]]**|Long-term (current) use of oral hypoglycemic drugs|
 > |**[[Z79.85]]**|Long-term (current) use of injectable non-insulin antidiabetic drugs|
-> |**[[Z99.2]]**|Dependence on renal dialysis|
+> |**[[50 Medical Coding/ICD-10 Codes/Z99.2]]**|Dependence on renal dialysis|
 > |**N08**|Glomerular disorders in diseases classified elsewhere (code-first the underlying disease; **not** used for the diabetic combination codes above)|
 > 
 > ---

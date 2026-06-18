@@ -7,7 +7,6 @@ tags:
   - tbi
   - nontraumatic-brain-injury
   - icd-10-cm
-  - inpatient-coding
   - emergency-medicine
   - cdi
 notetype: clinical-and-coding-overview
