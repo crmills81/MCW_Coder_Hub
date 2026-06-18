@@ -15,6 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: 'google', 
       tagId: 'G-ERKZQHRW7W',
+    },
     analytics: {
       provider: 'google', 
       tagId: 'G-TNPW6HR6',
