@@ -14,10 +14,6 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: 'google', 
-      tagId: 'G-ERKZQHRW7W',
-    },
-    analytics: {
-      provider: 'google', 
       tagId: 'G-TNPW6HR6',
     },
     locale: "en-US",
