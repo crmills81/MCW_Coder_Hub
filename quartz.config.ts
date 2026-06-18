@@ -9,12 +9,15 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Crystal's Coder Hub",
-    pageTitleSuffix: "",
+    pageTitleSuffix: "⚕️",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: 'google', 
       tagId: 'G-ERKZQHRW7W',
+    analytics: {
+      provider: 'google', 
+      tagId: 'G-TNPW6HR6',
     },
     locale: "en-US",
     baseUrl: "crmills81.github.io/MCW_Coder_Hub",
