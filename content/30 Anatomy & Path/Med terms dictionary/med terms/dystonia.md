@@ -67,7 +67,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 >
-> - **[[Tremor]]** — rhythmic, oscillatory involuntary movement without sustained posturing; distinguished from dystonia by regularity and absence of co-contraction; see [[G25.0]], [[G25.1]], [[G25.2]]
+> - **[[Tremor]]** — rhythmic, oscillatory involuntary movement without sustained posturing; distinguished from dystonia by regularity and absence of co-contraction; see [[50 Medical Coding/ICD-10 Codes/G25.0]], [[G25.1]], [[G25.2]]
 > - **[[Chorea]]** — random, flowing, non-repetitive involuntary movements; distinct from dystonia by its unpredictable, dance-like quality without fixed posturing; [[G25.5]]
 > - **[[Athetosis]]** — slow, writhing distal extremity movements often coexisting with chorea (choreoathetosis); frequently seen in cerebral palsy
 > - **[[Spasticity]]** — velocity-dependent upper motor neuron-mediated muscle resistance; distinct from dystonia by mechanism (UMN lesion vs. basal ganglia dysregulation)

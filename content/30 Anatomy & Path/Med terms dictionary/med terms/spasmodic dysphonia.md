@@ -75,7 +75,7 @@ _____
 > - **Laryngeal EMG** — electromyography of the laryngeal muscles; used to guide Botox injection placement and to differentiate SD from VCP; CPT **[[95865]]**
 > - **[[Cervical dystonia]] / [[Spasmodic torticollis]]** — **[[G24.3]]**; related focal dystonia of the neck muscles; same disease category; some patients have both
 > - **[[Blepharospasm]]** — **[[G24.5]]**; focal dystonia of the eyelid; another related focal dystonia; may co-occur with SD in Meige syndrome
-> - **Essential tremor of voice** — rhythmic voice oscillation distinct from SD; can coexist; classified under **[[G25.0]]**
+> - **Essential tremor of voice** — rhythmic voice oscillation distinct from SD; can coexist; classified under **[[50 Medical Coding/ICD-10 Codes/G25.0]]**
 > - **Voice therapy** — adjunct treatment; less effective as monotherapy for SD than for MTD; CPT **[[92507]]**; used to maximize Botox outcomes
 > - **[[Phonosurgery]]** — surgical options for SD refractory to Botox; selective laryngeal adductor denervation-reinnervation (SLAD-R); not widely adopted
 > - **Recurrent laryngeal nerve (RLN)** — the peripheral nerve targeted by **[[chemodenervation]]**; motor supply to thyroarytenoid and posterior cricoarytenoid muscles
@@ -104,7 +104,7 @@ _____
 > |---|---|
 > | **[[R49.1]]** | Aphonia _(complete voice loss; severe or undertreated SD or post-Botox temporary [[aphonia]])_ |
 > | **[[R49.8]]** | Other voice and resonance disorders _(vocal tremor component, when separately documented)_ |
-> | **[[G25.0]]** | Essential [[tremor]] _(when vocal tremor co-occurs with SD as a distinct documented condition)_ |
+> | **[[50 Medical Coding/ICD-10 Codes/G25.0]]** | Essential [[tremor]] _(when vocal tremor co-occurs with SD as a distinct documented condition)_ |
 > | **[[G24.5]]** | Blepharospasm _(when SD co-occurs with [[blepharospasm]] as part of Meige syndrome)_ |
 > | **[[G24.3]]** | [[Spasmodic torticollis]] _(when SD co-occurs with cervical dystonia; both may be coded)_ |
 > | **[[F44.4]]** | Conversion disorder with abnormal movement _(important exclusion; psychogenic voice disorder excluded from R49.0 per ICD-10-CM)_ |

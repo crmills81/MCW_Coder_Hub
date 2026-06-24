@@ -87,7 +87,7 @@ _____
 
 _____
 
-> [!example]+ #### CODING CORNER 
+> [!Example]+ #### CODING CORNER 
 > 
 > 
 > ### 🏥 ICD-10-CM CODES

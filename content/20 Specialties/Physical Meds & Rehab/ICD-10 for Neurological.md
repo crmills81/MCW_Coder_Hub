@@ -35,7 +35,7 @@
 | :--- | :--- |
 | **G20.-** | Parkinson's disease |
 | **[[G24.9]]** | Dystonia, unspecified |
-| **[[G25.0]]** | Essential tremor |
+| **[[50 Medical Coding/ICD-10 Codes/G25.0]]** | Essential tremor |
 
 ### Spinal Cord Disorders
 | Code | Description |

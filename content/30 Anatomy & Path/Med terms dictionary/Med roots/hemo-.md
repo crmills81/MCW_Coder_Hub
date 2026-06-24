@@ -66,7 +66,7 @@ _____
 > - **[[hemarthrosis]]** *(blood in a joint space; [[M25.00]]-[[M25.07]] by site; seen in hemophilia and traumatic joint injuries)*
 > - **[[hemoperitoneum]]** *(blood in the peritoneal cavity; [[K66.1]]; post-surgical or traumatic; high acuity inpatient diagnosis)*
 > - **[[hemopneumothorax]]** *(combined blood and air in the pleural space; [[J94.2]] / [[S27.2XXA]]; trauma-associated)*
-> - **[[hemodialysis]]** *(extracorporeal blood purification for renal failure; [[Z99.2]] dependence on renal dialysis; paired with [[N18.6]] ESRD in urology inpatient accounts)*
+> - **[[hemodialysis]]** *(extracorporeal blood purification for renal failure; [[50 Medical Coding/ICD-10 Codes/Z99.2]] dependence on renal dialysis; paired with [[N18.6]] ESRD in urology inpatient accounts)*
 
 _____
 

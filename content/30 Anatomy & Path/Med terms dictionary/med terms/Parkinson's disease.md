@@ -54,7 +54,7 @@ _____
 >
 > - **Secondary parkinsonism** — **[[G21.9]]** (unspecified) or **[[G21.11]]** (neuroleptic-induced); drug-induced, vascular, or post-encephalitic motor symptoms mimicking PD, but caused by a specific external insult rather than idiopathic neurodegeneration.
 > - **Dementia with Lewy bodies (DLB)** — **[[G31.83]]**; a related synucleinopathy where dementia and visual hallucinations develop *before* or concurrently with parkinsonian motor symptoms, whereas in PD, motor symptoms typically precede dementia by many years.
-> - **Essential tremor** — **[[G25.0]]**; a very common movement disorder characterized by an *action* or postural tremor (worsening when trying to use the hands), distinct from the *resting* tremor of PD.
+> - **Essential tremor** — **[[50 Medical Coding/ICD-10 Codes/G25.0]]**; a very common movement disorder characterized by an *action* or postural tremor (worsening when trying to use the hands), distinct from the *resting* tremor of PD.
 > - **[[Bradykinesia]]** — The neurological symptom of generalized movement slowness; a mandatory diagnostic criteria for diagnosing true Parkinson's disease.
 > - **[[Dyskinesia]]** — Involuntary, erratic, writhing movements of the face, arms, legs, or trunk. In PD, it is almost entirely a complication of long-term Levodopa medication usage, not a symptom of the disease itself.
 > - **Deep Brain Stimulation (DBS)** — A neurosurgical treatment for advanced PD involving implanted electrodes that modulate the abnormal basal ganglia signals to drastically reduce **tremor**, **rigidity**, and **dyskinesia**.

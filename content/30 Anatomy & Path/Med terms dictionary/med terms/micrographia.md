@@ -54,7 +54,7 @@ _____
 > - **Progressive micrographia** _(defines the hallmark feature — letters that become progressively smaller across the writing sample; most specific to hypokinetic disorders)_
 > - **Hypokinetic micrographia** _(etiologic subtype — due to reduced amplitude of movement from basal ganglia dysfunction; seen in PD, PSP, MSA, drug-induced parkinsonism)_
 > - **Fatigue-related micrographia** _(etiologic subtype — from motor fatigue or deconditioning; may occur in elderly without neurodegenerative disease, or in myasthenia gravis)_
-> - **Essential tremor-associated micrographia** _(etiologic subtype — small handwriting secondary to tremor interference rather than true hypokinesia; [[G25.0]])_
+> - **Essential tremor-associated micrographia** _(etiologic subtype — small handwriting secondary to tremor interference rather than true hypokinesia; [[50 Medical Coding/ICD-10 Codes/G25.0]])_
 > - **Consistent micrographia** _(subtype — uniformly small handwriting throughout, without progressive reduction; less specific for parkinsonism)_
 > - **Progressive micrographia with decrement** _(descriptive clinical term — emphasizes the characteristic size reduction over the course of writing; most parkinsonian form)_
 > - **Drug-induced micrographia** _(etiologic subtype — caused by antipsychotics, antiemetics, or other dopamine-blocking agents; [[G21.0]] range)_
@@ -72,7 +72,7 @@ _____
 > - **Progressive supranuclear palsy** — atypical parkinsonian syndrome with prominent axial rigidity, vertical gaze palsy, and early postural instability; **micrographia** is common but less prominent than in PD (**[[G23.1]]**)
 > - **Multiple system [[atrophy]]** — atypical parkinsonian syndrome with autonomic failure and cerebellar or pyramidal features; **micrographia** occurs in the parkinsonian subtype (MSA-P) (**[[G90.3]]**)
 > - **Corticobasal degeneration** — rare **[[neurodegenerative]]** disorder with asymmetric rigidity, **[[apraxia]]**, alien limb, and **[[myoclonus]]**; **micrographia** is often unilateral and profound (**[[G31.85]]**)
-> - **[[Essential tremor]]** — action tremor disorder that can cause handwriting changes; however, handwriting is tremulous and irregular rather than small and precise as in true **micrographia** (**[[G25.0]]**)
+> - **[[Essential tremor]]** — action tremor disorder that can cause handwriting changes; however, handwriting is tremulous and irregular rather than small and precise as in true **micrographia** (**[[50 Medical Coding/ICD-10 Codes/G25.0]]**)
 > - **[[Agraphia]]** — loss of the ability to write due to brain injury affecting language areas (**dominant parietal or frontal lobe**); distinguished from **micrographia** by the presence of spelling errors, letter substitutions, and linguistic deficits rather than motor size reduction (**[[R48.8]]**)
 > - **Handwriting analysis** — clinical and research method for evaluating motor function; includes assessment of letter size, speed, pressure, fluency, and consistency; used diagnostically in movement disorder clinics to detect and quantify **micrographia**
 
@@ -117,7 +117,7 @@ _____
 > 
 > |Code|Description|
 > |---|---|
-> |**[[G25.0]]**|Essential tremor (can cause small, tremulous handwriting)|
+> |**[[50 Medical Coding/ICD-10 Codes/G25.0]]**|Essential tremor (can cause small, tremulous handwriting)|
 > |**[[G25.1]]**|Drug-induced tremor|
 > |**[[G25.2]]**|Other specified forms of tremor|
 > |**[[G25.81]]**|Restless legs syndrome|

@@ -1,7 +1,6 @@
 ---
 tags:
   - medterm
-  - medroot
 aliases:
   - tachylalia
 roots:
@@ -26,7 +25,7 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
+>WHERE length(filter(roots, (word) => econtains([[tachyphasia]].roots, word))) > 0 AND file.name != [[tachyphasia]].file.name
 >SORT file.name ASC
 >```
 _____
@@ -34,7 +33,7 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE length(filter(definition, (word) => econtains([[tachyphasia]].definition, word))) > 0 AND file.name != [[tachyphasia]].file.name
 >```
 
 [[Med terms dictionary]]

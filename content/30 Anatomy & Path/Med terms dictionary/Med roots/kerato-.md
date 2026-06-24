@@ -46,7 +46,7 @@ _____
 >|**[[Keratitis]]**|kerato- + -itis|Inflammation of the cornea ​|
 >|**[[Keratoconjunctivitis]]**|kerato- + [[conjunctiv-]] + [[-itis]]|Inflammation of cornea AND conjunctiva ​|
 >|**[[Keratoconus]]**|kerato- + Latin _conus_ ("cone")|Progressive thinning causing cone-shaped corneal bulge |
->|**[[Keratoplasty]]**|kerato- + [[-plasty]]|Surgical reconstruction of the cornea; corneal transplant ​|
+>|**[[keratoplasty]]**|kerato- + [[-plasty]]|Surgical reconstruction of the cornea; corneal transplant ​|
 >|**[[Keratometry]]**|kerato- + [[-metry]]  |Measurement of corneal curvature ​|
 >|**[[Keratopathy]]**|kerato- + [[-pathy]] |Any disease or damage to the cornea ​|
 >|**[[Keratotomy]]**|kerato- + [[-tomy]] |Surgical incision of the cornea YouTube​|
