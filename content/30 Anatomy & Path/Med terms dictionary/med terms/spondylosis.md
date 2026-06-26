@@ -22,13 +22,12 @@ roots:
 forms:
   - noun
 alphabet: S
-definition:
-  - Degenerative condition of the vertebral column characterized by osteoarthritic changes including bone spurs, disc degeneration, and narrowing of the intervertebral spaces
+definition: Degenerative condition of the vertebral column characterized by osteoarthritic changes including bone spurs, disc degeneration, and narrowing of the intervertebral spaces
 ---
->[!Note] DEFINITION of [[30 Anatomy & Path/Med terms dictionary/med terms/spondylosis]]
->**Spondylosis** is a **chronic, degenerative condition of the vertebral column** characterized by age-related breakdown of the spinal structures, including **intervertebral disc degeneration, osteophyte (bone spur) formation on the vertebral bodies, facet joint arthropathy, and narrowing of the neural foramina and spinal canal**. In the narrow clinical sense, **spondylosis** is synonymous with **spinal osteoarthritis** — the most common cause of axial spine pain in adults over 40. The degenerative process primarily affects the **vertebral bodies**, **neural foramina**, and **facet joints (facet syndrome)**; when severe, it can cause pressure on the **spinal cord ([[myelopathy]])** or **nerve roots ([[radiculopathy]])**, producing sensory or motor disturbances such as pain, paresthesia, muscle weakness, and in advanced cases, loss of bladder or bowel control. [[30 Anatomy & Path/Med terms dictionary/med terms/spondylosis]] is classified by spinal region — **cervical**, **thoracic**, **lumbar**, and **lumbosacral** — and further stratified in ICD-10-CM by the **presence or absence of myelopathy or radiculopathy**, which is the single most critical distinction for accurate code assignment. As a **chronic condition** under ICD-10-CM (**12+ months duration**), **spondylosis** can function as a **CC (Complication/Comorbidity)** in the inpatient MS-DRG setting when coded at the highest level of specificity with site and neurological involvement documented. According to the Cleveland Clinic, **spondylosis** is present in more than **90% of people aged 60 and older**, making it one of the most frequently coded musculoskeletal conditions in both the inpatient and outpatient settings.
+>[!Note] DEFINITION of [[spondylosis]]
+>**Spondylosis** is a **chronic, degenerative condition of the vertebral column** characterized by age-related breakdown of the spinal structures, including **intervertebral disc degeneration, osteophyte (bone spur) formation on the vertebral bodies, facet joint arthropathy, and narrowing of the neural foramina and spinal canal**. In the narrow clinical sense, **spondylosis** is synonymous with **spinal osteoarthritis** — the most common cause of axial spine pain in adults over 40. The degenerative process primarily affects the **vertebral bodies**, **neural foramina**, and **facet joints (facet syndrome)**; when severe, it can cause pressure on the **spinal cord ([[myelopathy]])** or **nerve roots ([[radiculopathy]])**, producing sensory or motor disturbances such as pain, paresthesia, muscle weakness, and in advanced cases, loss of bladder or bowel control. [[spondylosis]] is classified by spinal region — **cervical**, **thoracic**, **lumbar**, and **lumbosacral** — and further stratified in ICD-10-CM by the **presence or absence of myelopathy or radiculopathy**, which is the single most critical distinction for accurate code assignment. As a chronic condition under ICD-10-CM (**12+ months duration**), **spondylosis** can function as a CC (Complication/Comorbidity) in the inpatient MS-DRG setting when coded at the highest level of specificity with site and neurological involvement documented. According to the Cleveland Clinic, **spondylosis** is present in more than **90% of people aged 60 and older**, making it one of the most frequently coded musculoskeletal conditions in both the inpatient and outpatient settings.
 _____
->[!info]+ ETYMOLOGY of [[30 Anatomy & Path/Med terms dictionary/med terms/spondylosis]]
+>[!info]+ ETYMOLOGY of [[spondylosis]]
 >#greek
 >
 >|Component|Origin|Meaning|
@@ -43,15 +42,15 @@ _____
 >
 > | Term | Context |
 > |---|---|
-> | **Cervical spondylosis** | Spondylosis of the cervical (neck) spine; most common region; ICD-10 M47.81x / M47.12 / M47.22 |
+> | **[[cervical spondylosis]]** | Spondylosis of the cervical (neck) spine; most common region; ICD-10 M47.81x / [[M47.12]] / [[M47.22]] |
 > | **Lumbar spondylosis** | Spondylosis of the lumbar (low back) spine; [[M47.816]] / [[M47.16]] / [[M47.26]] |
-> | **Thoracic spondylosis** | Spondylosis of the mid/upper back; [[M47.814]] / M47.14 / [[M47.24]] |
+> | **Thoracic spondylosis** | Spondylosis of the mid/upper back; [[M47.814]] / [[M47.14]] / [[M47.24]] |
 > | **Lumbosacral spondylosis** | Spondylosis spanning the lumbar-sacral junction; [[M47.817]] / [[M47.27]] |
 > | **Spinal osteoarthritis** | Clinical synonym; degenerative arthritis of the spine |
-> | **Degenerative disc disease (DDD)** | Overlapping condition; disc component of [[30 Anatomy & Path/Med terms dictionary/med terms/spondylosis]]; may be coded separately |
+> | **Degenerative disc disease (DDD)** | Overlapping condition; disc component of [[spondylosis]]; may be coded separately |
 > | **Cervical spondylotic myelopathy (CSM)** | Spondylosis with spinal cord compression; [[M47.12]] (cervical with [[myelopathy]]) |
 > | **Cervical [[radiculopathy]]** | Nerve root compression from cervical spondylosis; [[M47.22]] |
-> | **Spondyloarthropathy** | Broader category including inflammatory spine joint disease |
+> | **[[Spondyloarthropathy]]** | Broader category including inflammatory spine joint disease |
 > | **Facet syndrome / Facet arthropathy** | Degenerative arthritis of the posterior facet joints; associated with spondylosis |
 > | **Osteophytosis / Bone spurs** | Hallmark radiographic finding in spondylosis |
 > | **Foraminal [[stenosis]]** | Narrowing of neural foramen from spondylotic changes |
@@ -66,9 +65,9 @@ _____
 > - **[[osteophyte]]** — bone spur; the primary structural product of spondylotic degeneration along vertebral endplates
 > - **Intervertebral disc degeneration** — disc height loss and annular tears; accompanies and accelerates spondylosis
 > - **[[Spinal stenosis]]** — narrowing of the spinal canal secondary to spondylotic changes; coded M48.0x (distinct from M47)
-> - **Facet arthropathy** — degenerative arthritis of the posterior [[zygapophyseal]] joints; anatomically part of spondylosis
+> - **Facet [[arthropathy]]** — degenerative arthritis of the posterior [[zygapophyseal]] joints; anatomically part of spondylosis
 > - **[[Disc herniation]]** — may be caused or worsened by spondylotic changes; coded separately (M51.1x / M50.1x)
-> - **[[Cervical myelopathy]]** — most clinically serious complication of cervical spondylosis; causes progressive upper motor neuron signs
+> - **Cervical [[myelopathy]]** — most clinically serious complication of cervical spondylosis; causes progressive upper motor neuron signs
 > - **[[Ankylosing spondylitis]]** — **M45.x**; inflammatory [[spondyloarthropathy]]; distinct from degenerative spondylosis — do not confuse
 > - **[[Spondylolisthesis]]** — forward vertebral slippage; may coexist with spondylosis but coded separately (M43.1x)
 > - **[[osteoarthritis]]** — the underlying pathological mechanism of spondylosis; systemic degenerative joint disease
@@ -214,7 +213,7 @@ _____
 > | **[[22612]]** | Arthrodesis, posterior or posterolateral technique, single level; lumbar |
 > | **[[22630]]** | Arthrodesis, posterior interbody technique, single interspace; lumbar _(PLIF/TLIF)_ |
 > | **[[22633]]** | Arthrodesis, combined posterior or posterolateral and posterior interbody technique; lumbar _(add-on)_ |
-> | **[[63030]]** | [[Laminotomy]] with decompression of nerve root; lumbar, single level |
+> | **[[63030]]** | [[laminotomy]] with decompression of nerve root; lumbar, single level |
 > | **[[63035]]** | Laminotomy with decompression of nerve root; each additional level _(add-on)_ |
 >
 > #### **Modifiers Commonly Used**
@@ -232,10 +231,10 @@ _____
 >
 > ---
 >
-> ⚠️ **Coding Note:** The most critical distinction in spondylosis **ICD-10-CM** coding is the **three-way split: myelopathy vs. radiculopathy vs. neither**. This is not optional — documentation must be reviewed carefully for any mention of spinal cord dysfunction (**myelopathy → M47.1x**) or nerve root compression symptoms (radiculopathy → M47.2x) before defaulting to M47.81x (**without myelopathy or radiculopathy**). **Myelopathy codes (M47.1x) carry higher MS-DRG weight** and are MCC-level in some DRG groupings — never assume; always query the physician if documentation is ambiguous. **Do not confuse spondylosis (M47) with ankylosing spondylitis (M45.x)** — they are completely different disease processes (**degenerative vs. inflammatory**); a spondylitis code requires inflammatory etiology. **Spinal stenosis (M48.0x)** may be coded concurrently with [[30 Anatomy & Path/Med terms dictionary/med terms/spondylosis]] when it is separately documented as a distinct condition, as stenosis is a sequela/complication of spondylosis rather than synonymous with it. For **facet joint injections**, verify imaging guidance is documented — CPT [[64490]]-[[64495]] include image guidance; if performed without imaging, a different code set applies. **Unspecified site codes** ([[M47.819]], [[M47.899]], [[M47.9]]) should be a last resort — always review radiology reports and operative/procedure notes for the specific spinal region, as site-specific codes carry greater clinical and financial specificity.
+> ⚠️ **Coding Note:** The most critical distinction in spondylosis **ICD-10-CM** coding is the **three-way split: myelopathy vs. radiculopathy vs. neither**. This is not optional — documentation must be reviewed carefully for any mention of spinal cord dysfunction (**myelopathy → M47.1x**) or nerve root compression symptoms (radiculopathy → M47.2x) before defaulting to M47.81x (**without myelopathy or radiculopathy**). **Myelopathy codes (M47.1x) carry higher MS-DRG weight** and are MCC-level in some DRG groupings — never assume; always query the physician if documentation is ambiguous. **Do not confuse spondylosis (M47) with ankylosing [[spondylitis]] (M45.x)** — they are completely different disease processes (**degenerative vs. inflammatory**); a spondylitis code requires inflammatory etiology. **Spinal stenosis (M48.0x)** may be coded concurrently with **[[spondylosis]]** when it is separately documented as a distinct condition, as stenosis is a sequela/complication of spondylosis rather than synonymous with it. For **facet joint injections**, verify imaging guidance is documented — **CPT [[64490]]-[[64495]]** include image guidance; if performed without imaging, a different code set applies. **Unspecified site codes** (**[[M47.819]], [[M47.899]], [[M47.9]]**) should be a last resort — always review radiology reports and operative/procedure notes for the specific spinal region, as site-specific codes carry greater clinical and financial specificity.
 
 _____
->[!tip]- DERIVATIONS of [[30 Anatomy & Path/Med terms dictionary/med terms/spondylosis]]
+>[!tip]- DERIVATIONS of [[spondylosis]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 

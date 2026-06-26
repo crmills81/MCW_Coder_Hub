@@ -21,8 +21,7 @@ forms:
   - suffix
   - combining
 alphabet: D
-definition:
-  - impaired voice production
+definition: impaired voice production
 ---
 >[!Note] DEFINITION of [[dysphonia]]
 >**[[Dysphonia]]** e**ncompasses voice disorders affecting vocal quality, pitch, loudness, or effort due to abnormalities in vocal cord vibration, muscle tension, neural control, or structural lesions;** presentations range from mild hoarseness (**rough/raspy voice**) to severe breathiness, strain, voice breaks, or complete [[aphonia]] (**voice loss**); etiologies include inflammation (**[[laryngitis]], [[GERD]]), structural lesions (nodules, [[polyps]], cysts**), neurological disorders (**[[spasmodic dysphonia]], [[vocal cord paralysis]])**, functional disorders (**muscle tension [[dysphonia]]**), and [[neoplasms]]; impacts communication, professional voice users (**teachers, singers**), and quality of life. 

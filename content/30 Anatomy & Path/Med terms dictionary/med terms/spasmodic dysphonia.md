@@ -64,7 +64,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 >
 > - **[[Focal dystonia]]** — the neurological category to which SD belongs; task-specific, body-region-limited movement disorder; SD is one of many focal dystonias (e.g., [[blepharospasm]], cervical dystonia)
-> - **[[Basal ganglia]]** — the deep brain structure implicated as the origin of aberrant motor signaling in SD; same region implicated in Parkinson disease and other movement disorders
+> - **[[basal ganglia]]** — the deep brain structure implicated as the origin of aberrant motor signaling in SD; same region implicated in Parkinson disease and other movement disorders
 > - **[[Botulinum toxin (Botox)]]** — gold-standard treatment; injected into the [[thyroarytenoid]] (ADSD) or posterior [[cricoarytenoid]] (ABSD) muscles via percutaneous EMG-guided or laryngoscopic approach
 > - **[[Chemodenervation]]** — the pharmacological mechanism of Botox treatment; temporary muscle-weakening via acetylcholine blockade at the neuromuscular junction
 > - **[[Dysphonia]]** — the umbrella symptom and ICD-10-CM code for spasmodic dysphonia; **[[R49.0]]**; also coded for all other forms of impaired voice

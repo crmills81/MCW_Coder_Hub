@@ -87,7 +87,7 @@ _____
 > - **Degenerative disc disease (DDD)** — chronic progressive degeneration of the intervertebral disc that predisposes to **herniation**; coded M50.3x (**cervical**) or M51.3x (**thoracolumbar/lumbar**); distinguish from acute herniation because treatment pathways and coding differ
 > - **Herniorrhaphy** — surgical repair of a hernia by suture closure of the fascial defect; shares the *[[herni-]]* root; the foundational procedure for abdominal wall **herniation** prior to the era of mesh repair
 > - **[[Hernioplasty]]** — surgical repair of a hernia augmented with mesh prosthesis; now the dominant technique for inguinal and incisional hernia repair; improved recurrence rates compared to **herniorrhaphy** alone
-> - **[[Discectomy]]** — surgical removal of herniated disc material; the definitive procedure for disc **herniation** with nerve **compression**; **CPT** codes **[[63030]]** (**lumbar, initial**) / **[[63042]]** (**lumbar, reoperative**) / **[[63020]]** (**cervical**)
+> - **[[discectomy]]** — surgical removal of herniated disc material; the definitive procedure for disc **herniation** with nerve **compression**; **CPT** codes **[[63030]]** (**lumbar, initial**) / **[[63042]]** (**lumbar, reoperative**) / **[[63020]]** (**cervical**)
 > - **MRI spine** — the gold standard imaging modality for diagnosis of disc **herniation**; directly visualizes disc material, annular tears, nerve root **compression**, and cord signal changes; **CPT [[72148]]** (**lumbar without contrast**) / **[[72141]]** (**cervical without contrast**)
 
 _____

@@ -73,7 +73,7 @@ _____
 > - **[[Spasticity]]** — velocity-dependent upper motor neuron-mediated muscle resistance; distinct from dystonia by mechanism (UMN lesion vs. basal ganglia dysregulation)
 > - **[[Dyskinesia]]** — broader term for any involuntary abnormal movement; includes dystonia, chorea, and tardive movements; [[G24.01]] for tardive dyskinesia
 > - **[[Torticollis]]** — clinical descriptor for abnormal head-neck posture; when neurogenic and sustained, it is synonymous with cervical dystonia; coded [[G24.3]] when idiopathic
-> - **[[Basal Ganglia]]** — primary neuroanatomic site of dysfunction in dystonia; disrupted inhibitory circuits lead to co-contraction of opposing muscle groups
+> - **[[basal ganglia]]** — primary neuroanatomic site of dysfunction in dystonia; disrupted inhibitory circuits lead to co-contraction of opposing muscle groups
 > - **[[Botulinum Toxin]]** — first-line therapeutic agent for focal dystonias; acts by inhibiting presynaptic acetylcholine release at the neuromuscular junction; see CPT [[64612]], [[64615]]
 > - **DYT1 Gene** — most common genetic cause of early-onset generalized torsion dystonia (TOR1A mutation); coded under [[G24.1]]
 > - **Deep Brain Stimulation** — neurosurgical treatment for medically refractory generalized dystonia; targets the globus pallidus internus (GPi); see CPT [[61886]]

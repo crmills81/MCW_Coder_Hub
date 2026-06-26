@@ -77,7 +77,7 @@ _____
 > | **[[G20.A2]]** | Parkinson's disease without dyskinesia, with fluctuations _(Use when the patient has predictable or unpredictable "wearing off" of their medication effectiveness)_ |
 > | **[[G20.B1]]** | Parkinson's disease with dyskinesia, without mention of fluctuations _(Use when the patient experiences Levodopa-induced writhing movements, but no wearing-off)_ |
 > | **[[G20.B2]]** | Parkinson's disease with dyskinesia, with fluctuations _(The highest complexity code; indicates advanced, difficult-to-manage disease)_ |
-> | **[[G20.C1]]** | **Parkinsonism**, unspecified _(Use as a last resort if "parkinsonism" is charted without specifying whether it is idiopathic PD or a secondary variant)_ |
+> | **[[G20.C]]** | **Parkinsonism**, unspecified _(Use as a last resort if "parkinsonism" is charted without specifying whether it is idiopathic PD or a secondary variant)_ |
 >
 > #### **Common Manifestations & Complications**
 > > ⚠️ **Instructional Note**: **Parkinson's** is frequently accompanied by **dementia** or swallowing disorders. When **dementia** is present, ICD-10 requires the underlying physiological condition (the PD) to be coded first.
