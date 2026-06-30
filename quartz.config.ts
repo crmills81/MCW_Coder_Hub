@@ -29,7 +29,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Google Sans",
+        header: "Inter",
         body: "Inter",
         code: "Google Sans Code",
       },
@@ -39,7 +39,7 @@ const config: QuartzConfig = {
           lightgray: "#FDF7FC",
           gray: "#b8b8b8",
           darkgray: "#000000",
-          dark: "#674EA7",
+          dark: "#000000",
           secondary: "#780A75",
           tertiary: "#D129CB",
           highlight: "rgba(242, 230, 242, 0.44)",
