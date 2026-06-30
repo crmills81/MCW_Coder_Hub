@@ -74,7 +74,7 @@ _____
 > - **Foraminal stenosis** — neural foramen narrowing by osteophytes; the structural cause of spondylotic radiculopathy
 > - **Physical therapy** — primary non-surgical treatment modality for spondylosis symptom management
 > - **Epidural steroid injection (ESI)** — interventional pain management for spondylosis with radiculopathy; CPT [[62321]]-[[62323]]
-> - **[[Laminectomy]]** — surgical decompression for severe spondylotic myelopathy or stenosis
+> - **[[laminectomy]]** — surgical decompression for severe spondylotic myelopathy or stenosis
 > - **Anterior cervical discectomy and fusion (ACDF)** — most common surgical intervention for cervical spondylotic [[myelopathy]]/[[radiculopathy]]
 
 _____
@@ -206,7 +206,7 @@ _____
 >
 > | CPT Code | Description |
 > |---|---|
-> | **[[63047]]** | [[Laminectomy]], facetectomy, and foraminotomy, lumbar, single level |
+> | **[[63047]]** | [[laminectomy]], facetectomy, and foraminotomy, lumbar, single level |
 > | **[[63048]]** | Laminectomy, facetectomy, and foraminotomy; each additional segment _(add-on)_ |
 > | **[[22551]]** | [[arthrodesis]], anterior interbody, cervical below C2; first interspace _(ACDF)_ |
 > | **[[22552]]** | Arthrodesis, anterior interbody, cervical below C2; each additional interspace _(add-on)_ |

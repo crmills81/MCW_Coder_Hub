@@ -76,7 +76,7 @@ Every code you assign begins with a clinical term. If you can break down the wor
 
 - **[[Arthroscopy]]** - visual examination of a joint
 - **[[Cholecystectomy]]** - removal of the gallbladder
-- **[[Laminectomy]]** - removal of part of the vertebral arch
+- **[[laminectomy]]** - removal of part of the vertebral arch
 - **[[Tenorrhaphy]]** - suturing of a tendon
 
 #### Critical Spelling Alert

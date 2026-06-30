@@ -86,7 +86,7 @@ definition: Bleeding into the brain parenchyma or cerebral hemispheres from a ru
 > - **Cerebral amyloid angiopathy** — age-related amyloid deposition in cortical and leptomeningeal vessels; primary risk factor for lobar ICH in the elderly; coded [[I68.0]]
 > - **[[Hematoma]]** — the organized clot that forms within the brain parenchyma after hemorrhage; expansion of the hematoma in the first hours is a key driver of neurological deterioration
 > - **[[Herniation]]** — downward or lateral displacement of brain tissue due to mass effect from the hemorrhage; a life-threatening complication driving emergent surgical intervention
-> - **[[Hydrocephalus]]** — obstruction of CSF flow by intraventricular blood (IVH extension); requires external ventricular drain (EVD) placement; coded [[G91.1]] (obstructive) or [[G91.3]] (post-traumatic NOS if traumatic origin)
+> - **[[hydrocephalus]]** — obstruction of CSF flow by intraventricular blood (IVH extension); requires external ventricular drain (EVD) placement; coded [[G91.1]] (obstructive) or [[G91.3]] (post-traumatic NOS if traumatic origin)
 > - **[[Cerebral edema]]** — perilesional swelling surrounding the hematoma; a secondary injury mechanism; coded [[G93.6]] when documented and managed separately
 > - **Arteriovenous malformation (AVM)** — congenital vascular tangle that can rupture and cause ICH; coded [[Q28.2]]; consider querying if ICH occurs in younger patients without hypertension
 > - **[[Coagulopathy]]** — anticoagulant-related ICH (warfarin, DOACs, heparin) is a growing etiology; code the underlying coagulopathy or adverse effect of anticoagulant additionally (e.g., [[T45.515A]] for warfarin adverse effect)

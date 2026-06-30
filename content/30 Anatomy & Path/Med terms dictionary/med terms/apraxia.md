@@ -73,7 +73,7 @@ _____
 > - **[[Agnosia]]** — shares the *[[a-]]* (alpha privative) prefix; inability to *recognize* sensory inputs despite intact sensory function — often coexists with [[apraxia]] in parietal lobe lesions; coded [[R48.1]]
 > - **[[ataxia]]** — shares the *[[a-]]* prefix and neurological motor domain; characterized by *incoordination* of voluntary movement due to cerebellar dysfunction — unlike [[apraxia]], [[ataxia]] involves sensorimotor coordination, not motor planning; coded [[R27.0]]
 > - **[[Stroke]] / [[Cerebral Infarction]]** — most common *acquired cause* of ideomotor and verbal [[apraxia]]; [[I63.9]] (unspecified) through site-specific codes; [[apraxia]] resulting from stroke is coded as an additional manifestation, sequenced after the underlying CVA code
-> - **[[Dementia]]** — underlying mechanism for ideational [[apraxia]] in advanced stages; codes such as [[F02.80]] (dementia in other diseases, without behavioral disturbance) are sequenced first with [[R48.2]] as additional
+> - **[[dementia]]** — underlying mechanism for ideational [[apraxia]] in advanced stages; codes such as [[F02.80]] (dementia in other diseases, without behavioral disturbance) are sequenced first with [[R48.2]] as additional
 > - **Traumatic Brain Injury (TBI)** — acquired cause of [[apraxia]]; sequencing follows TBI code first with manifestations additional; common inpatient profee scenario
 > - **Normal Pressure Hydrocephalus** — classic triad includes gait [[apraxia]] ([[G91.2]]); important to recognize the triad: gait [[apraxia]] + urinary incontinence + dementia
 > - **Developmental Coordination Disorder (DCD)** — the pediatric developmental analog to acquired [[apraxia]]; motor learning disorder coded [[F82]]; distinct from CAS (which is speech-specific)
@@ -125,7 +125,7 @@ _____
 > |Code|Description|
 > |---|---|
 > |**[[I63.9]]**|[[Cerebral infarction]], unspecified — most common acquired cause of [[apraxia]]; sequence first, [[R48.2]] additional|
-> |**[[F02.80]]**|[[Dementia]] in other diseases classified elsewhere, unspecified severity, without behavioral disturbance — sequence first for dementia-associated [[apraxia]]|
+> |**[[F02.80]]**|[[dementia]] in other diseases classified elsewhere, unspecified severity, without behavioral disturbance — sequence first for dementia-associated [[apraxia]]|
 > |**[[S09.90XA]]**|Unspecified injury of head, initial encounter — TBI as cause of acquired [[apraxia]]; sequence injury first|
 > 
 > ---

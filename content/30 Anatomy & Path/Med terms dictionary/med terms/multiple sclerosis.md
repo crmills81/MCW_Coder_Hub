@@ -41,19 +41,19 @@ _____
 >|**[[scler-]]**|Ancient Greek _σκληρός_ (sklērós)|"**Hard**" — referring to the hardened, gliotic scar tissue (**sclerotic plaques**) that form at sites of demyelination|
 >|**[[-osis]]**|Greek noun-forming suffix _-ωσις_ (-ōsis)|"**Condition of / abnormal process**" — denotes a pathological state or process, particularly one of degeneration or accumulation|
 >
-> The term *multiple sclerosis* was coined by French neurologist **Jean-Martin Charcot** in **1868**, who used it to describe the multiple hardened (**sclerotic**) plaques he observed on autopsy of patients who had suffered recurring episodes of neurological dysfunction. The descriptor *multiple* captured the hallmark dissemination of lesions throughout the white matter of the CNS — a feature now formalized as **dissemination in space (DIS)** in the 2018 McDonald diagnostic criteria. The combining form **[[scler-]]** (Greek: hard) gave rise to [[sclerosis]], [[arteriosclerosis]], [[atherosclerosis]], and amyotrophic lateral sclerosis (ALS) — all sharing the concept of pathological hardening of tissue. The term *disseminated sclerosis* was also used historically and persists as an alias under the ICD-10-CM G35.D descriptor.
+> The term *multiple sclerosis* was coined by French neurologist **Jean-Martin Charcot** in **1868**, who used it to describe the multiple hardened (**sclerotic**) plaques he observed on autopsy of patients who had suffered recurring episodes of neurological dysfunction. The descriptor *multiple* captured the hallmark dissemination of lesions throughout the white matter of the **CNS** — a feature now formalized as **dissemination in space (DIS)** in the 2018 McDonald diagnostic criteria. The combining form **[[scler-]]** (Greek: hard) gave rise to **[[sclerosis]], [[arteriosclerosis]], [[atherosclerosis]]**, and **[[amyotrophic lateral sclerosis]] (ALS)** — all sharing the concept of pathological hardening of tissue. The term *disseminated sclerosis* was also used historically and persists as an alias under the **ICD-10-CM [[G35.D]] descriptor**.
 _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 >
 > - **MS** *(universal clinical abbreviation)*
 > - **RRMS** *(relapsing-remitting MS — most common form; ~85% of initial diagnoses; characterized by discrete relapses followed by partial or complete recovery)*
-> - **PPMS** *(primary progressive MS — steady neurological decline from onset without early relapses; ~10-15% of cases; coded with activity status in G35.B0-B2)*
-> - **SPMS** *(secondary progressive MS — transition from RRMS to a progressive course, with or without ongoing relapses; coded G35.C0-C2)*
+> - **PPMS** *(primary progressive MS — steady neurological decline from onset without early relapses; ~10-15% of cases; coded with activity status in [[G35.B0]]-B2)*
+> - **SPMS** *(secondary progressive MS — transition from RRMS to a progressive course, with or without ongoing relapses; coded [[G35.C0]]-C2)*
 > - **Clinically Isolated Syndrome (CIS)** *(first demyelinating episode not yet meeting McDonald criteria for MS; coded [[G37.9]] in ICD-10-CM 2026)*
 > - **Radiologically Isolated Syndrome (RIS)** *(incidental MS-like MRI lesions without clinical symptoms)*
 > - **Disseminated sclerosis** *(historical alias; still listed as inclusion term under [[G35.D]])*
-> - **Generalized multiple sclerosis** *(older synonym; listed under G35.D)*
+> - **Generalized multiple sclerosis** *(older synonym; listed under [[G35.D]])*
 > - **Lhermitte's sign** *(electric shock sensation on neck flexion; classic MS symptom from cervical cord lesion)*
 > - **McDonald criteria** *(2018 diagnostic framework requiring dissemination in space (DIS) and time (DIT) via MRI and/or CSF)*
 > - **Uhthoff's phenomenon** *(transient worsening of symptoms with increased body temperature — heat sensitivity pathognomonic of MS)*
@@ -67,12 +67,12 @@ _____
 > - **Oligodendrocyte** — the CNS cell responsible for producing and maintaining myelin; destroyed in MS lesions
 > - **[[demyelination]]** — pathologic stripping of the myelin sheath from axons; the fundamental pathologic process in MS
 > - **[[Plaque]]** — focal area of demyelination and gliosis in the CNS; the histopathologic unit of MS; visible as hyperintense lesions on MRI T2/FLAIR
-> - **[[Gliosis]]** — reactive scarring by astrocytes at sites of demyelination; the "sclerosis" in multiple sclerosis
+> - **[[Gliosis]]** — reactive scarring by astrocytes at sites of [[demyelination]]; the "sclerosis" in multiple sclerosis
 > - **Relapse / Exacerbation / Attack** — episode of new or worsening neurological symptoms lasting >24 hours, attributable to a new or newly active CNS lesion
 > - **[[Remission]]** — period of stability or partial/complete recovery of function between relapses in RRMS
 > - **EDSS** (Expanded Disability Status Scale) — standard scoring tool for MS disability level; 0-10 scale; critical for treatment decisions and DMT selection
 > - **McDonald criteria** — 2018 diagnostic framework; requires DIS + DIT via clinical findings, MRI, and/or CSF oligoclonal bands
-> - **Oligoclonal bands (OCB)** — IgG bands found on CSF electrophoresis; present in ~85-90% of MS patients; supports diagnosis
+> - **Oligoclonal bands (OCB)** — IgG bands found on CSF [[electrophoresis]]; present in ~85-90% of MS patients; supports diagnosis
 > - **[[Optic neuritis]]** — inflammation of the optic nerve; common MS presentation and CIS manifestation; coded [[H46.11]]/[[H46.12]]
 > - **[[transverse myelitis]]** — inflammatory spinal cord lesion; common MS relapse presentation; may be coded separately
 > - **JC virus / PML** (Progressive Multifocal Leukoencephalopathy) — life-threatening brain infection caused by JC virus; risk associated with natalizumab therapy
@@ -80,7 +80,7 @@ _____
 > - **Ocrelizumab (Ocrevus)** — first FDA-approved treatment for PPMS; anti-CD20 B-cell depleting agent; given via IV infusion every 6 months
 > - **Natalizumab (Tysabri)** — anti-VLA-4 monoclonal antibody; IV infusion every 4 weeks; associated with PML risk via JC virus reactivation
 > - **Interferon beta (Avonex, Betaseron, Rebif)** — first-generation injectable DMTs; reduce relapse frequency in RRMS
-> - **Glatiramer acetate (Copaxone)** — synthetic polypeptide injectable; immunomodulatory; first-line RRMS therapy
+> - **Glatiramer acetate (Copaxone)** — synthetic polypeptide injectable; [[immunomodulatory]]; first-line RRMS therapy
 > - **Methylprednisolone** — high-dose IV corticosteroid; standard acute relapse treatment; shortens relapse duration (not long-term disability)
 > - **Plasmapheresis / PLEX** — therapeutic plasma exchange; used for severe steroid-refractory relapses
 >
@@ -93,7 +93,7 @@ _____
 >
 > #### **Multiple Sclerosis — Category G35**
 > *(Under Chapter 6: Diseases of the Nervous System; Block G35-G37: Demyelinating diseases of the CNS)*
-> *(⚠️ FY2026 UPDATE: G35 is now a PARENT CODE — it is NO LONGER BILLABLE as of October 1, 2025. You MUST use a subcategory.)*
+> *(**⚠️ FY2026 UPDATE: G35 is now a PARENT CODE — it is NO LONGER BILLABLE as of October 1, 2025. You MUST use a subcategory.**)*
 >
 > ##### Relapsing-Remitting MS
 >
@@ -198,11 +198,11 @@ _____
 > |CPT Code|Description|
 > |---|---|
 > |**[[96365]]**|IV infusion, therapeutic/prophylactic/diagnostic; initial, up to 1 hour *(natalizumab/Tysabri, ocrelizumab/Ocrevus, ofatumumab — initial hour)*|
-> |**[[96366]]**|IV infusion, each additional hour *(add-on to 96365 — ocrelizumab infusion typically ~3.5 hours)*|
+> |**[[96366]]**|IV infusion, each additional hour *(add-on to [[96365]] — ocrelizumab infusion typically ~3.5 hours)*|
 > |**[[96367]]**|IV infusion, additional sequential drug, up to 1 hour *(if second drug infused sequentially same encounter)*|
 > |**[[96368]]**|IV infusion, concurrent, each additional drug *(concurrent second drug infusion)*|
 > |**[[96413]]**|Chemotherapy administration, IV infusion, up to 1 hour *(cyclophosphamide — used off-label for aggressive MS/HSCT prep)*|
-> |**[[96415]]**|Chemotherapy administration, IV infusion, each additional hour *(add-on to 96413)*|
+> |**[[96415]]**|Chemotherapy administration, IV infusion, each additional hour *(add-on to [[96413]])*|
 >
 > #### Acute Relapse Treatment — IV Steroids
 >
@@ -250,7 +250,7 @@ _____
 >AND any(contains(this.definition, definition))
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

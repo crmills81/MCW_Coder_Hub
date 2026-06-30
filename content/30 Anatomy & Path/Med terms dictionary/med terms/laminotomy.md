@@ -60,7 +60,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Laminectomy]]** — complete removal of the vertebral lamina; more extensive than laminotomy and more likely to require fusion for stability; coded separately under CPT [[63005]], [[63012]], [[63015]]–[[63017]], [[63047]]
+> - **[[laminectomy]]** — complete removal of the vertebral lamina; more extensive than laminotomy and more likely to require fusion for stability; coded separately under CPT [[63005]], [[63012]], [[63015]]–[[63017]], [[63047]]
 > - **[[Foraminotomy]]** — surgical enlargement of the neural foramen to decompress an exiting nerve root; often performed concurrently with laminotomy and bundled within CPT [[63020]] and [[63030]] — do not separately code when performed as part of the decompression
 > - **[[discectomy]]** — removal of herniated intervertebral disc material; bundled within laminotomy CPT codes when performed at the same interspace — excision of the disc is included in codes [[63020]] and [[63030]]
 > - **[[Facetectomy]]** — partial or complete removal of the facet joint to improve decompression access; also bundled within CPT [[63020]] and [[63030]] per AMA CPT descriptor

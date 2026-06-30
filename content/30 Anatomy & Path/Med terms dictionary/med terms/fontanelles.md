@@ -67,7 +67,7 @@ _____
 > - **[[Lambda]]** — the junction of the sagittal and lambdoid sutures; location of the posterior fontanelle; another key cranial landmark
 > - **[[Pterion]]** — the H-shaped junction of four bones (**frontal, parietal, temporal, sphenoid**) at the site of the sphenoidal fontanelle; clinically important due to underlying middle meningeal artery
 > - **[[Asterion]]** — meeting point of parietal, occipital, and mastoid portions of temporal bone; site of the mastoid (posterolateral) fontanelle; surgical landmark for posterior cranial fossa access
-> - **[[Hydrocephalus]]** — excess CSF accumulation causing elevated ICP, which manifests as a bulging, tense fontanelle; a key reason fontanelle assessment is performed at every well-child visit
+> - **[[hydrocephalus]]** — excess CSF accumulation causing elevated ICP, which manifests as a bulging, tense fontanelle; a key reason fontanelle assessment is performed at every well-child visit
 > - **[[Meningitis]]** — infectious/inflammatory condition causing elevated ICP and bulging fontanelle in infants; critical differential when fontanelle is tense and accompanied by fever
 > - **Cleidocranial [[dysostosis]]** — congenital disorder causing delayed or absent fontanelle closure (sometimes persisting into adulthood); associated with absent or hypoplastic clavicles; **[[Q74.0]]**
 > - **[[Rickets]]** — metabolic bone disease (vitamin D deficiency) associated with widened sutures and delayed fontanelle closure; **[[E55.0]]**
