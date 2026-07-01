@@ -72,7 +72,7 @@ _____
 > - **[[Meningitis]]** — bacterial or viral infection of the **meninges**; a common acquired cause of communicating hydrocephalus (**[[G91.0]]**) due to **CSF** pathway **[[inflammation]]** and scarring of arachnoid granulations
 > - **[[Subarachnoid hemorrhage]]** — bleeding into the subarachnoid space; a major precipitating cause of both communicating (**[[G91.0]]**) and post-traumatic hydrocephalus (**[[G91.3]]**) through clot obstruction and granulation **[[fibrosis]]**
 > - **Choroid plexus** — the CSF-producing epithelial structure lining the ventricles; overproduction by **choroid plexus papilloma** is a rare cause of **hydrocephalus**
-> - **[[Spina bifida]]** — congenital neural tube defect frequently associated with **hydrocephalus**, particularly **Arnold-Chiari Type II malformation**; **NOTE**: when spina bifida is documented **WITH** hydrocephalus, code from Q05.x — not G91 (excluded per **ICD-10-CM tabular**)
+> - **[[spina bifida]]** — congenital neural tube defect frequently associated with **hydrocephalus**, particularly **Arnold-Chiari Type II malformation**; **NOTE**: when spina bifida is documented **WITH** hydrocephalus, code from Q05.x — not G91 (excluded per **ICD-10-CM tabular**)
 > - **Arnold-Chiari malformation** — congenital hindbrain **[[herniation]]**; when documented **WITH** hydrocephalus, code from Q07.x — **NOT** G91 (**excluded per ICD-10-CM tabular**)
 > - **Congenital hydrocephalus** — **hydrocephalus** present at or before birth; excluded from G91; coded under Q03.x per **ICD-10-CM instructions**
 > - **Cerebral edema** — fluid accumulation within brain tissue **[[parenchyma]]** rather than ventricles; distinct mechanism and management from **hydrocephalus**; coded **[[G93.6]]**

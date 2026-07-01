@@ -76,7 +76,7 @@ _____
 > - **[[Tremor]]** — distinguished from [[ataxia]]; tremor (ICD-10-CM [[R25.1]]) is involuntary oscillatory movement, whereas [[ataxia]] is a coordination failure — though *intention tremor* is a cerebellar sign that often coexists with [[ataxia]]
 > - **[[Nystagmus]]** — involuntary repetitive eye movements; a common cerebellar/vestibular sign that frequently accompanies [[ataxia]], especially in spinocerebellar [[ataxia]] and MS
 > - **[[Dysarthria]]** — slurred, scanning, or explosive speech resulting from cerebellar dysfunction; a key symptom of cerebellar [[ataxia]]; coded separately as [[R47.81]]
-> - **[[Proprioception]]** — the sensory mechanism whose loss underlies sensory [[ataxia]]; carried via dorsal column–medial lemniscal pathways; its disruption is central to diagnosing sensory vs. cerebellar ataxia
+> - **[[proprioception]]** — the sensory mechanism whose loss underlies sensory [[ataxia]]; carried via dorsal column–medial lemniscal pathways; its disruption is central to diagnosing sensory vs. cerebellar ataxia
 > - **Romberg sign** — a bedside test distinguishing sensory ataxia (worsens with eyes closed) from cerebellar ataxia (present with eyes open); a critical clinical differentiator
 > - **[[Cerebellum]]** — the primary neural structure whose dysfunction produces cerebellar ataxia; controls timing, coordination, and fine-tuning of voluntary movements
 > - **Friedreich ataxia** — most common hereditary [[ataxia]]; autosomal recessive; onset typically before age 25; coded [[G11.11]]; the only hereditary [[ataxia]] with an FDA-approved disease-modifying treatment (omaveloxolone/Skyclarys)
