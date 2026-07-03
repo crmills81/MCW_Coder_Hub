@@ -109,7 +109,7 @@ The **larynx** is a complex musculocartilaginous structure located in the anteri
 2. **Phonation** — produces voice through controlled vibration of the true vocal cords
 3. **Respiration** — maintains a patent airway and regulates airflow during breathing and Valsalva maneuvers
 
-From a coding and surgical standpoint, precise knowledge of laryngeal anatomy is essential because **ICD-10-CM, ICD-10-PCS, and CPT codes are highly site-specific** within the larynx. A malignancy of the glottis ([[C32.0]]) is coded and staged entirely differently from a supraglottic malignancy ([[C32.1]]), and surgical approach, reconstruction, and DRG assignment all follow accordingly.
+From a coding and surgical standpoint, [[C32.9]]wledge of laryngeal anatomy is essential because **ICD-10-CM, ICD-10-PCS, and CPT codes are highly site-specific** within the larynx. A malignancy of the glottis ([[C32.0]]) is coded and staged entirely differently from a supraglottic malignancy ([[C32.1]]), and surgical approach, reconstruction, and DRG assignment all follow accordingly.
 
 ---
 
@@ -152,7 +152,7 @@ The [[supraglottis]] encompasses all laryngeal structures **above the level of t
 
 **ICD-10-CM Coding:**
 - [[C32.1]] — Malignant [[neoplasm]] of supraglottis
-- [[J04.30]] / [[J04.31]] — [[Supraglottitis]] without/with obstruction
+- [[J04.30]] / [[J04.31]] — [[supraglottitis]] without/with obstruction
 - [[J38.4]] — [[Edema]] of larynx (can affect [[supraglottis]])
 
 ---

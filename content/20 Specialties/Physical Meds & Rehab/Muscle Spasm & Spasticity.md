@@ -68,7 +68,7 @@ Spasticity and muscle spasm arise most commonly in the inpatient PMR setting fol
 - **Traumatic brain injury (TBI)** — any severity, from concussion sequelae to diffuse axonal injury
 - **Nontraumatic brain injury (nTBI)** — anoxic, hypoxic, toxic, or metabolic etiologies
 - **Spinal cord injury (SCI)** — traumatic or nontraumatic
-- **Multiple sclerosis ([[G35]])** and other demyelinating diseases
+- **Multiple sclerosis ([[G35.D]])** and other demyelinating diseases
 - **Cerebral palsy ([[G80.0]]-[[G80.9]])** — occasionally seen in adult PMR admissions
 
 > [!tip] Why This Matters for Inpatient Abstraction
@@ -112,10 +112,10 @@ Spasticity and muscle spasm arise most commonly in the inpatient PMR setting fol
 | **Acute SCI** (spinal shock phase)               | Initially flaccid even with UMN-level lesion | Decreased                               | Areflexia                                                                | Evolves to spastic over days to weeks | **[[G81.00]]-[[G81.04]] initially → reassess** |
 
 > [!example] Why This Matters for Coding
-> **Stroke** and **TBI** produce **UMN lesions → spastic paralysis**. If a physician documents only "**hemiplegia**" post-**[[stroke]]** without specifying type, a CDI query is warranted. Spastic (G81.1x) and flaccid (G81.0x) codes are both CC — but accurate specificity is required for clinical integrity and quality metrics.
+> **[[Stroke]]** and **TBI** produce **UMN lesions → spastic paralysis**. If a physician documents only "**[[hemiplegia]]**" post-**[[stroke]]** without specifying type, a CDI query is warranted. Spastic (G81.1x) and flaccid (G81.0x) codes are both CC — but accurate specificity is required for clinical integrity and quality metrics.
 
 > [!caution] Spinal Shock Exception
-> In acute **SCI**, the **first hours to days** may present as **flaccid** **[[paralysis]]** due to **spinal shock**, even when the lesion is at a **UMN** level. Once **spinal shock** resolves (**days to weeks**), the tone typically converts to **spasticity**. Code what is documented at the time of encounter — and query when tone changes are clinically documented but not updated in the coding diagnoses.
+> In acute **SCI**, the **first hours to days** may present as **flaccid** **[[paralysis]]** due to **spinal shock**, even when the lesion is at a **UMN** level. Once **spinal shock** resolves (**days to weeks**), the tone typically converts to **[[spasticity]]**. Code what is documented at the time of encounter — and query when tone changes are clinically documented but not updated in the coding diagnoses.
 
 ---
 
@@ -291,12 +291,12 @@ The **I69 category** contains dedicated hemiplegia subcodes (**the x5x pattern**
 
 | Stroke Type                                | I69 Subgroup | Hemiplegia Code Pattern | Example: Right Dominant |
 | ------------------------------------------ | ------------ | ----------------------- | ----------------------- |
-| **Nontraumatic subarachnoid hemorrhage**       | I69.0        | I69.05x                 | **I69.051**             |
-| **Nontraumatic intracerebral hemorrhage**      | I69.1        | I69.15x                 | **I69.151**             |
-| **Other nontraumatic intracranial hemorrhage** | I69.2        | I69.25x                 | **I69.251**             |
-| **Cerebral infarction (ischemic stroke)**      | I69.3        | I69.35x                 | **I69.351**             |
-| **Other cerebrovascular disease**              | I69.8        | I69.85x                 | **I69.851**             |
-| **Unspecified cerebrovascular disease**        | I69.9        | I69.95x                 | **I69.951**             |
+| **Nontraumatic subarachnoid hemorrhage**       | I69.0        | I69.05x                 | **[[I69.051]]**             |
+| **Nontraumatic intracerebral hemorrhage**      | I69.1        | I69.15x                 | **[[I69.151]]**             |
+| **Other nontraumatic intracranial hemorrhage** | I69.2        | I69.25x                 | **[[I69.251]]**             |
+| **Cerebral infarction (ischemic stroke)**      | I69.3        | I69.35x                 | **[[I69.351]]**             |
+| **Other cerebrovascular disease**              | I69.8        | I69.85x                 | **[[I69.851]]**             |
+| **Unspecified cerebrovascular disease**        | I69.9        | I69.95x                 | **[[I69.951]]**             |
 
 **I69 Side Qualifiers (6th character):**
 
@@ -323,21 +323,21 @@ The **I69 category** contains dedicated hemiplegia subcodes (**the x5x pattern**
 ### Traumatic Brain Injury — S06
 
 > [!note] 7th Character "S" = Sequela
-> When coding **TBI-related neurological deficits** in a **PMR** or **rehabilitation** context, the TBI code carries the **7th character "S"** (sequela). The active deficit (**[[paralysis]], [[spasticity]], cognitive impairment**) is coded separately as an additional diagnosis.
+> When coding **TBI-related neurological deficits** in a **PMR** or **rehabilitation** context, the TBI code carries the **7th character "D"** (subsequent encounter). The active deficit (**[[paralysis]], [[spasticity]], cognitive impairment**) is coded separately as an additional diagnosis.
 
 **Key S06 Codes — Sequela (7th Character S)**
 
 | Code         | Description                                        |
 | ------------ | -------------------------------------------------- |
-| **[[S06.0XXS]]** | Concussion, sequela                                |
-| **[[S06.1X0S]]** | Traumatic cerebral edema, no LOC, sequela          |
-| **[[S06.2X0S]]** | Diffuse TBI, no LOC, sequela                       |
-| **[[S06.2X1S]]** | Diffuse TBI, LOC 30 minutes or less, sequela       |
-| **[[S06.2X9S]]** | Diffuse TBI, LOC unspecified duration, sequela     |
-| **[[S06.3X0S]]** | Focal TBI, no LOC, sequela                         |
-| **[[S06.4X0S]]** | Epidural hemorrhage, no LOC, sequela               |
-| **[[S06.5X0S]]** | Traumatic subdural hemorrhage, no LOC, sequela     |
-| **[[S06.6X0S]]** | Traumatic subarachnoid hemorrhage, no LOC, sequela |
+| **[[S06.0XAD]]** | Concussion with LOC status unknown, subsequent encounter  |
+| **[[S06.1X0D]]** | Traumatic cerebral edema, no LOC, subsequent encounter      |
+| **[[S06.2X0D]]** | Diffuse TBI, no LOC, subsequent encounter                   |
+| **[[S06.2X1D]]** | Diffuse TBI, LOC 30 minutes or less, subsequent encounter     |
+| **[[S06.2X9D]]** | Diffuse TBI, LOC unspecified duration, subsequent encounter |
+| **[[S06.3X0D]]** | Focal TBI, no LOC, subsequent encounter                 |
+| **[[S06.4X0D]]** | Epidural hemorrhage, no LOC, subsequent encounter    |
+| **[[S06.5X0D]]** | Traumatic subdural hemorrhage, no LOC, subsequent encounter |
+| **[[S06.6X0D]]** | Traumatic subarachnoid hemorrhage, no LOC, subsequent encounter |
 
 > [!tip] G81.x IS Valid with TBI
 > Because G81's Excludes1 only restricts use alongside **I69 stroke sequela codes**, G81.x codes are **valid as additional diagnoses** paired with TBI S06.xxxS codes. This means the spastic vs. flaccid distinction CAN be captured for TBI-related hemiplegia, unlike stroke sequelae.
@@ -434,10 +434,10 @@ ADD: [additional PMR diagnoses as applicable]
 
 | Scenario                       | PDX                                  | Key Additional Diagnoses                                            |
 | ------------------------------ | ------------------------------------ | ------------------------------------------------------------------- |
-| **Post-stroke IRF (hemiplegia)**   | I69.351 (or applicable I69.x5x code) | R25.2 if spasm documented, M62.4x if contracture, dysphagia I69.3x1 |
+| **Post-stroke IRF (hemiplegia)**   | [[I69.351]] (or applicable I69.x5x code) | [[R25.2]] if spasm documented, M62.4x if contracture, dysphagia I69.3x1 |
 | **Post-TBI IRF (hemiplegia)**      | S06.xxxS                             | G81.1x, R25.2, cognitive deficits F07.81                            |
-| **Post-anoxic injury IRF**         | G93.1                                | G81.x, R25.2, behavioral codes                                      |
-| **SCI + spastic paraplegia IRF**   | G82.21 or G82.22 + etiology code     | R25.2, N31.9 neurogenic bladder, L89.x pressure injuries            |
+| **Post-anoxic injury IRF**         | [[G93.1]]                                | G81.x, R25.2, behavioral codes                                      |
+| **SCI + spastic paraplegia IRF**   | [[G82.21]] or [[G82.22]] + etiology code     | R25.2, [[N31.9]] neurogenic bladder, L89.x pressure injuries            |
 | **SCI + spastic quadriplegia IRF** | G82.5x + etiology code               | R25.2, N31.9, respiratory complications, pressure injuries          |
 
 ---
@@ -459,7 +459,7 @@ ADD: [additional PMR diagnoses as applicable]
 | **[[G92.9]]**             | Toxic encephalopathy, unspecified         | MCC    |
 | **[[G93.40]]**            | Encephalopathy, unspecified               | CC     |
 | **[[G93.41]]**            | Metabolic encephalopathy                  | CC     |
-| **[[M62.41]]-[[M62.48]]** | Contracture of muscle (site-specific)     | CC     |
+| **M62.41x-[[M62.48]]** | Contracture of muscle (site-specific)     | CC     |
 | **[[R25.2]]**             | Cramp and spasm                           | Non-CC |
 
 > [!tip] DRG Impact Summary
@@ -514,7 +514,7 @@ ADD: [additional PMR diagnoses as applicable]
 | Role           | Code           | Description                  | Rationale                                                             |
 | -------------- | -------------- | ---------------------------- | --------------------------------------------------------------------- |
 | **PDX**        | **[[J18.9]]**  | Pneumonia, unspecified       | Reason for this acute admission                                       |
-| **Additional** | **S06.2X0S**   | Diffuse TBI, no LOC, sequela | TBI history with sequela character                                    |
+| **Additional** | **[[S06.2X0S]]**   | Diffuse TBI, no LOC, sequela | TBI history with sequela character                                    |
 | **Additional** | **[[G82.50]]** | Quadriplegia, unspecified    | No C-level specified — query if available                             |
 | **Additional** | **[[R25.2]]**  | Cramp and spasm              | Separately documented spasticity burden; G82 has no spastic qualifier |
 
@@ -547,7 +547,7 @@ ADD: [additional PMR diagnoses as applicable]
 | Additional | **[[R25.2]]**  | Cramp and spasm            | Documented muscle spasm — appropriate standalone here |
 
 > [!note] 
-> No **G81/G82/G83 codes** are appropriate in this scenario. **R25.2** is the correct spasm code in a purely **musculoskeletal** context.
+> No **G81/G82/G83 codes** are appropriate in this scenario. **[[R25.2]]** is the correct spasm code in a purely **musculoskeletal** context.
 
 ---
 
@@ -557,11 +557,11 @@ ADD: [additional PMR diagnoses as applicable]
 
 | Phase                           | PDX                                               | Additional                            | Rationale                                             |
 | ------------------------------- | ------------------------------------------------- | ------------------------------------- | ----------------------------------------------------- |
-| Days 1-10 (spinal shock)        | **S24.111A (T6 complete SCI, initial encounter)** | **[[G82.21]] (paraplegia, complete)** | Flaccid phase — G82 has no tone qualifier             |
-| Day 12+ (spasticity documented) | **[[S24.111A]]**                                  | **[[G82.21]], [[R25.2]]**             | Add **[[R25.2]]** once physician documents spasticity |
+| Days 1-10 (spinal shock)        | **S24.112A (T6 complete SCI, initial encounter)** | **[[G82.21]] (paraplegia, complete)** | Flaccid phase — G82 has no tone qualifier             |
+| Day 12+ (spasticity documented) | **[[S24.112A]]**                                  | **[[G82.21]], [[R25.2]]**             | Add **[[R25.2]]** once physician documents spasticity |
 
 > [!warning] 
-> G82 cannot capture tone type —  Only **R25.2** can signal the transition from flaccid to spastic in these patients. Document the change in your query follow-up.
+> **G82 cannot capture tone type** —  Only **R25.2** can signal the transition from flaccid to spastic in these patients. Document the change in your query follow-up.
 
 ---
 
@@ -612,16 +612,17 @@ ADD: [additional PMR diagnoses as applicable]
 | Code             | Description                                                                                 | Context                  |
 | ---------------- | ------------------------------------------------------------------------------------------- | ------------------------ |
 | **[[Z45.49]]**   | Encounter for adjustment/management of other implanted nervous system device                | **Pump titration visit** |
-| **[[T85.615A]]** | Infection and inflammatory reaction due to intrathecal infusion catheter, initial encounter | **Pump complication**    |
+| **[[T85.735A]]** | Infection and inflammatory reaction due to intrathecal infusion catheter, initial encounter | **Pump complication**    |
 | **[[Z96.89]]**   | Presence of other specified functional implants                                             | **Pump status code**     |
 
 ---
 
 ## Related Notes
+<small>(STILL NEED TO CREATE THESE)</small>
 
-- [[Stroke Residuals Coding — G81, R47, R13]]
-- [[Z Codes in PMR — Aftercare, Dependency, History]]
-- [[Amputation Status Codes in PMR]]
-- [[CC MCC Reference — PMR Specialty]]
-- [[Functional Dependency Z Codes]]
-- [[Facial Fractures — OTO Coding Reference]]
+- Stroke Residuals Coding — G81, R47, R13
+- Z Codes in PMR — Aftercare, Dependency, History
+- Amputation Status Codes in PMR
+- CC MCC Reference — PMR Specialty
+- Functional Dependency Z Codes
+- Facial Fractures — OTO Coding Reference
