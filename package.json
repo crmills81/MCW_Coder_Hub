@@ -4,12 +4,12 @@
   "private": true,
   "version": "5.0.0",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "Crystal <crmills81@gmail.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://crmills81.github.io/MCW_Coder_Hub/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/crmills81/MCW_Coder_Hub.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
