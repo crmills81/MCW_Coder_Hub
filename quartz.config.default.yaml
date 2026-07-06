@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
       provider: google, 
-      tagId: 'G-TNPW6HR6',
+      tagId: G-TNPW6HR6,
   locale: en-US
   baseUrl: crmills81.github.io/MCW_Coder_Hub
   ignorePatterns:
