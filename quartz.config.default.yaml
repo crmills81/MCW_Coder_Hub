@@ -35,13 +35,13 @@ configuration:
       darkMode:
         light: "#161618"
         lightgray: "#393639"
-          gray: "#646464"
-          darkgray: "#fdf2f7"
-          dark: "#f7dae8"
-          secondary: "#f549e4"
-          tertiary: "#9905b0"
-          highlight: "rgba(248,154,195, 0.15)"
-          textHighlight: "#fce0ed"
+        gray: "#646464"
+        darkgray: "#fdf2f7"
+        dark: "#f7dae8"
+        secondary: "#f549e4"
+        tertiary: "#9905b0"
+        highlight: "rgba(248,154,195, 0.15)"
+        textHighlight: "#fce0ed"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
