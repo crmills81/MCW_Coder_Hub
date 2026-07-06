@@ -1,0 +1,43 @@
+---
+tags:
+  - medroot
+  - medterm
+aliases: [Koni]
+roots:
+  - koni
+forms:
+  - combining
+  - prefix
+"alphabet:": K
+definition:
+  - dust
+---
+>[!Note] DEFINITION of [[koni]]
+>dust
+>*see also: [[coni-]]*
+_____
+>[!info]+ ETYMOLOGY of [[koni]]
+>#greek konis
+_____
+>[!example]+ RELATED TERMS to [[koni]]
+>
+_____
+>[!tip]- DERIVATIONS of [[koni]]
+>```dataview
+>TABLE definition AS Definition 
+>WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
+>SORT file.name ASC
+>```
+___
+>[!faq]- Query
+>```dataview
+>TABLE definition AS Definition
+>FROM #medroot
+>WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>```
+
+[[Med roots dictionary]]
+[[Appendix A Prefixes]]
+[[Appendix B Combining Forms]]
+[[Appendix C Suffixes]]
+[[Appendix D Suffix forms]]
