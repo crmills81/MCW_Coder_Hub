@@ -5,41 +5,43 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+      provider: 'google', 
+      tagId: 'G-TNPW6HR6',
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: crmills81.github.io/MCW_Coder_Hub
   ignorePatterns:
     - private
     - templates
     - .obsidian
+    - "content/30 Anatomy & Path/Med terms dictionary/Med roots",
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Inter
+      body: Inter
+      code: Google Sans Code
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+          light: "#FEFAFD",
+          lightgray: "#FDF7FC",
+          gray: "#b8b8b8",
+          darkgray: "#000000",
+          dark: "#000000",
+          secondary: "#780A75",
+          tertiary: "#D129CB",
+          highlight: "rgba(242, 230, 242, 0.44)",
+          textHighlight: "#f7c8df",
       darkMode:
         light: "#161618"
         lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+          gray: "#646464",
+          darkgray: "#fdf2f7",
+          dark: "#f7dae8",
+          secondary: "#f549e4",
+          tertiary: "#9905b0",
+          highlight: "rgba(248,154,195, 0.15)",
+          textHighlight: "#fce0ed","
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
