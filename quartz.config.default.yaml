@@ -13,7 +13,7 @@ configuration:
     - private
     - templates
     - .obsidian
-    - "content/30 Anatomy & Path/Med terms dictionary/Med roots",
+    - "content/30 Anatomy & Path/Med terms dictionary/Med roots"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
