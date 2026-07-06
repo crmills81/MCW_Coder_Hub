@@ -5,7 +5,8 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+      provider: 'google', 
+      tagId: 'G-TNPW6HR6',
   locale: en-US
   baseUrl: crmills81.github.io/MCW_Coder_Hub
   ignorePatterns:
