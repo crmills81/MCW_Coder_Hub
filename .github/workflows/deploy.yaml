@@ -14,7 +14,7 @@ jobs:
   deploy-v5:
     if: ${{ github.repository == 'crmills81/MCW_Coder_Hub' }}
     runs-on: ubuntu-latest
-    name: GitHub Actions
+    name: Deploy v5 to GitHub Actions
     steps:
       - uses: actions/checkout@v6
         with:
