@@ -64,13 +64,13 @@ _____
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 > 
 > - **Malnourished / Malnourishment** _(adjective/noun forms — clinical collocations: "malnourished patient," "malnourished elderly," "malnourished post-surgical patient")_
-> - **Protein-Calorie Malnutrition (PCM)** _(legacy clinical synonym; used interchangeably with PEM in ICD-10-CM code descriptions E40–E46; the preferred ICD term in US coding)_
+> - **Protein-Calorie Malnutrition (PCM)** _(legacy clinical synonym; used interchangeably with PEM in ICD-10-CM code descriptions E40-E46; the preferred ICD term in US coding)_
 > - **Protein-Energy Malnutrition (PEM) / Protein-Energy Undernutrition (PEU)** _(current WHO/ASPEN preferred term; encompasses the spectrum from mild to severe deficiency of both protein and calories)_
 > - **Kwashiorkor** _(severe protein deficiency with edema, hypoalbuminemia, skin/hair depigmentation, and distended abdomen; coded [[E40]]; MCC in ICD-10-CM; protein intake deficient but caloric intake may be adequate)_
 > - **Nutritional Marasmus** _(severe total caloric and protein deficiency; hallmark finding is profound muscle wasting ("skin and bones"), no edema; coded [[E41]]; MCC; most common severe form seen in US inpatient settings)_
 > - **Marasmic Kwashiorkor** _(mixed/intermediate severe form with features of both kwashiorkor and marasmus; coded [[E42]]; MCC; rarely diagnosed in the US — requires detailed provider documentation)_
 > - **Starvation Edema** _(clinical synonym for severe malnutrition with generalized edema not due to kwashiorkor — indexed to [[E43]] in ICD-10-CM; MCC)_
-> - **Moderate Malnutrition** _(ASPEN Stage 1/GLIM Stage 1 malnutrition; coded [[E44.0]]; CC; weight loss 5–10% in <6 months or 10–20% in >6 months by GLIM criteria)_
+> - **Moderate Malnutrition** _(ASPEN Stage 1/GLIM Stage 1 malnutrition; coded [[E44.0]]; CC; weight loss 5-10% in <6 months or 10-20% in >6 months by GLIM criteria)_
 > - **Mild Malnutrition** _(coded [[E44.1]]; CC; documentation of mild nutritional deficiency without meeting moderate or severe criteria)_
 > - **Retarded Development Following PCM** _(coded [[E45]]; CC; growth failure or developmental delay directly attributed to prior or ongoing malnutrition — used predominantly in pediatric coding)_
 > - **Failure to Thrive (FTT)** _(related but distinct — adult FTT coded [[R62.7]]; child FTT (>28 days) coded [[R62.51]]; newborn FTT coded [[P92.6]]; may coexist with and prompt a query for malnutrition)_
@@ -85,7 +85,7 @@ _____
 > - **[[Cachexia]]** — inflammatory-driven wasting syndrome ([[R64]]); distinct from malnutrition in that it is driven by cytokines (TNF-α, IL-1, IL-6) causing obligatory catabolism resistant to nutritional repletion; frequently comorbid with [[E43]]
 > - **[[Sarcopenia]]** — age-related progressive loss of skeletal muscle mass and strength (M62.84); distinct from malnutrition but shares muscle wasting as a feature; can coexist and should be coded additionally when documented
 > - **[[Hypoalbuminemia]]** — low serum albumin ([[E88.09]]); a biochemical marker associated with malnutrition but NOT a proxy for coding malnutrition — provider must explicitly document malnutrition as a diagnosis; albumin is also affected by [[inflammation]] (negative acute-phase reactant)
-> - **[[Dysphagia]]** — difficulty swallowing ([[R13.10]]–[[R13.19]]); a common cause of malnutrition in inpatient settings; coded separately and sequenced based on clinical context; dysphagia documentation should trigger a malnutrition query
+> - **[[Dysphagia]]** — difficulty swallowing ([[R13.10]]-[[R13.19]]); a common cause of malnutrition in inpatient settings; coded separately and sequenced based on clinical context; dysphagia documentation should trigger a malnutrition query
 > - **[[Malabsorption]]** — impaired nutrient absorption at the intestinal level ([[K90.9]] unspecified); etiologic cause of malnutrition distinct from inadequate intake; includes celiac disease, short bowel syndrome, Crohn's disease
 > - **Refeeding Syndrome** — dangerous electrolyte shifts ([[hypokalemia]], [[hypomagnesemia]], [[hypophosphatemia]]) occurring when nutrition is reintroduced too rapidly after prolonged starvation/[[malnutrition]]; closely monitored when treating [[E41]] or [[E43]]
 > - **ASPEN Criteria** — American Society for Parenteral and Enteral Nutrition diagnostic criteria for malnutrition; requires ≥2 of 6 characteristics: insufficient energy intake, weight loss, muscle loss, fat loss, fluid accumulation, or reduced grip strength; the documentation standard for inpatient coding support

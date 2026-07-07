@@ -10,7 +10,7 @@ tags:
 modifier_code: GT
 modifier_type: HCPCS Level II Modifier
 modifier_title: Via Interactive Audio and Video Telecommunications Systems
-short_description: Appended to a CPT or HCPCS code to indicate that the service was delivered via real-time, two-way, interactive audio and video telecommunications. For Medicare professional claims, GT was retired in 2017 and replaced by POS 02/10. As of 2025–2026, GT is required ONLY on institutional claims for Critical Access Hospital (CAH) Method II distant-site billing.
+short_description: Appended to a CPT or HCPCS code to indicate that the service was delivered via real-time, two-way, interactive audio and video telecommunications. For Medicare professional claims, GT was retired in 2017 and replaced by POS 02/10. As of 2025-2026, GT is required ONLY on institutional claims for Critical Access Hospital (CAH) Method II distant-site billing.
 category: Telehealth / Telemedicine Billing
 subcategory: Synchronous (Real-Time) Interactive Audio-Video
 applies_to:
@@ -50,7 +50,7 @@ note_type: modifier-reference
 
 ## 🔬 Modifier **[[-GT]]** vs. Other Telehealth Modifiers
 
-| Modifier | Full Name | Interaction Type | Medicare Professional Use (2025–2026) | Medicare Institutional Use |
+| Modifier | Full Name | Interaction Type | Medicare Professional Use (2025-2026) | Medicare Institutional Use |
 |---|---|---|---|---|
 | **[[-GT]]** | Via Interactive Audio and Video Telecommunications Systems | Synchronous (Live Audio + Video) | ⚠️ Retired — POS 02/10 replaces it | ✅ Required for CAH Method II |
 | **[[-95]]** | Synchronous Telemedicine Service Rendered Via Real-Time Interactive Audio and Video | Synchronous (Live Audio + Video) | ⚠️ AMA standard modifier; **not recognized by Medicare** for professional claims | ❌ Not used on institutional |
@@ -59,7 +59,7 @@ note_type: modifier-reference
 | **[[-FQ]]** | Service Furnished Using Audio-Only Communication Technology | Synchronous (Audio-Only) | ✅ FQHC/RHC audio-only visits | ❌ Not standard |
 
 > [!tip] Clinical Pearl
-> The most common **[[-GT]]** confusion in 2025–2026 is coding staff continuing to append **[[-GT]]** to Medicare professional claims out of habit — this was correct pre-2018, but CMS retired it for professional billing. The current correct workflow for a standard Medicare synchronous telehealth visit is: **correct CPT code + POS 02 or POS 10 — no telehealth modifier needed on the CMS-1500**. **[[-GT]]** is alive and required **only** on the professional service line of a **CAH Method II UB-04 institutional claim**. Know your claim type before choosing your modifier.
+> The most common **[[-GT]]** confusion in 2025-2026 is coding staff continuing to append **[[-GT]]** to Medicare professional claims out of habit — this was correct pre-2018, but CMS retired it for professional billing. The current correct workflow for a standard Medicare synchronous telehealth visit is: **correct CPT code + POS 02 or POS 10 — no telehealth modifier needed on the CMS-1500**. **[[-GT]]** is alive and required **only** on the professional service line of a **CAH Method II UB-04 institutional claim**. Know your claim type before choosing your modifier.
 
 ---
 
@@ -133,7 +133,7 @@ note_type: modifier-reference
 | **PDx** | [[I10]] | Essential (primary) hypertension — primary reason for visit |
 
 > [!warning]
-> **Do not assume this billing pattern is correct for Medicare.** The GT modifier on a CMS-1500 is a commercial/Medicaid payer-specific practice in 2025–2026. For Medicare, POS 02 or POS 10 is sufficient — no modifier is needed on the professional claim. Mixing up these workflows across payers is one of the most common audit triggers in telehealth billing.
+> **Do not assume this billing pattern is correct for Medicare.** The GT modifier on a CMS-1500 is a commercial/Medicaid payer-specific practice in 2025-2026. For Medicare, POS 02 or POS 10 is sufficient — no modifier is needed on the professional claim. Mixing up these workflows across payers is one of the most common audit triggers in telehealth billing.
 
 ---
 

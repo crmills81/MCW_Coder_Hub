@@ -67,7 +67,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 >
 > - **[[Flaccid quadriplegia]]** — the opposite motor pattern from spastic quadriplegia; caused by lower motor neuron (LMN), anterior horn cell, or peripheral nerve damage resulting in absent reflexes, [[hypotonia]], and muscle atrophy; shares the G82.5x code range but is clinically and electrophysiologically distinct from the UMN pattern
-> - **[[Spastic paraplegia]]** — shares the *spast-* and *-plegia* roots with the same UMN mechanism but is limited to the lower two extremities; coded under [[G82.20]]–[[G82.22]] for acquired forms and [[G11.4]] for hereditary progressive type
+> - **[[Spastic paraplegia]]** — shares the *spast-* and *-plegia* roots with the same UMN mechanism but is limited to the lower two extremities; coded under [[G82.20]]-[[G82.22]] for acquired forms and [[G11.4]] for hereditary progressive type
 > - **[[Hypertonia]]** — increased resistance to passive muscle stretch; the cardinal physical finding of UMN lesion; may be coded separately as [[R25.8]] or subsumed under the primary paralysis code depending on payer and documentation context
 > - **[[Spasticity]]** — velocity-dependent form of hypertonia that is the defining feature of UMN lesions; clinically measured by the Modified Ashworth Scale (MAS); documentation of spasticity is the key trigger for baclofen pump and chemodenervation medical necessity
 > - **Clonus** — rhythmic involuntary muscle contractions elicited by sudden passive stretch; a hallmark sign of severe UMN dysfunction and a clinical trigger for escalating spasticity management interventions
@@ -77,7 +77,7 @@ _____
 > - **[[Multiple sclerosis]]** — demyelinating autoimmune disease ([[G35.D]]) that can produce spastic quadriplegia through bilateral cervical corticospinal tract plaques; a common acquired etiology in adults of working age
 > - **Hereditary spastic paraplegia** — progressive genetic disorder ([[G11.4]]) involving degeneration of corticospinal and spinocerebellar tracts; complicated phenotypes may present with upper limb involvement producing a quadriplegic functional picture
 > - **Cervical [[myelopathy]]** — acquired compressive or inflammatory injury to the cervical spinal cord producing ascending UMN signs in all four limbs; among the most common etiologies of acquired spastic quadriplegia in adults over 50
-> - **Modified Ashworth Scale** — primary validated clinical tool for grading spasticity severity (0–4+); MAS score documentation supports medical necessity for intrathecal baclofen therapy ([[62362]]) and chemodenervation procedures ([[64644]])
+> - **Modified Ashworth Scale** — primary validated clinical tool for grading spasticity severity (0-4+); MAS score documentation supports medical necessity for intrathecal baclofen therapy ([[62362]]) and chemodenervation procedures ([[64644]])
 
 _____
 
@@ -99,10 +99,10 @@ _____
 > |Code|Description|
 > |---|---|
 > |**[[G82.50]]**|Quadriplegia, unspecified — assign when level and completeness are undocumented; highest-frequency undercoding target; CDI query indicated when ASIA grading or imaging supports specificity|
-> |**[[G82.51]]**|Quadriplegia, C1–C4 complete — complete motor and sensory loss at high cervical level; ventilator dependency common; MCC weight in most DRG mapping|
-> |**[[G82.52]]**|Quadriplegia, C1–C4 incomplete — partial preservation of motor or sensory function below C4; ASIA grade B, C, or D; rehabilitation prognosis more favorable than complete form|
-> |**[[G82.53]]**|Quadriplegia, C5–C7 complete — complete paralysis at mid-to-lower cervical level; some proximal upper extremity function may be preserved depending on exact level|
-> |**[[G82.54]]**|Quadriplegia, C5–C7 incomplete — partial function below C5–C7; most functionally favorable acquired quadriplegia subtype; strongest candidate for intensive inpatient rehabilitation|
+> |**[[G82.51]]**|Quadriplegia, C1-C4 complete — complete motor and sensory loss at high cervical level; ventilator dependency common; MCC weight in most DRG mapping|
+> |**[[G82.52]]**|Quadriplegia, C1-C4 incomplete — partial preservation of motor or sensory function below C4; ASIA grade B, C, or D; rehabilitation prognosis more favorable than complete form|
+> |**[[G82.53]]**|Quadriplegia, C5-C7 complete — complete paralysis at mid-to-lower cervical level; some proximal upper extremity function may be preserved depending on exact level|
+> |**[[G82.54]]**|Quadriplegia, C5-C7 incomplete — partial function below C5-C7; most functionally favorable acquired quadriplegia subtype; strongest candidate for intensive inpatient rehabilitation|
 >
 > #### Hereditary and Progressive Forms | Genetic/Degenerative Spastic Quadriplegia
 >
@@ -128,9 +128,9 @@ _____
 > |**[[62361]]**|Implantation or replacement of device for intrathecal or epidural drug infusion; non-programmable pump — fixed-rate alternative to programmable baclofen pump; less common in spastic quadriplegia|
 > |**[[62350]]**|Implantation, revision, or repositioning of tunneled intrathecal or epidural catheter for long-term medication administration; without laminectomy — companion catheter placement or revision procedure for baclofen pump|
 > |**[[62351]]**|Implantation, revision, or repositioning of tunneled intrathecal or epidural catheter; with laminectomy — used when spinal access for catheter placement or revision requires laminectomy|
-> |**[[64644]]**|Chemodenervation of one extremity; 1–4 muscles — botulinum toxin injection for focal limb spasticity; most frequently billed spasticity management procedure in quadriplegia|
+> |**[[64644]]**|Chemodenervation of one extremity; 1-4 muscles — botulinum toxin injection for focal limb spasticity; most frequently billed spasticity management procedure in quadriplegia|
 > |**[[64645]]**|Chemodenervation of one extremity; each additional extremity — add-on code reported with [[64644]] for each additional limb treated in the same session; up to three additional units may apply in quadriplegia|
-> |**[[64646]]**|Chemodenervation of trunk muscle(s); 1–5 muscles — used when truncal spasticity or adductor scissoring patterns require injection alongside limb chemodenervation|
+> |**[[64646]]**|Chemodenervation of trunk muscle(s); 1-5 muscles — used when truncal spasticity or adductor scissoring patterns require injection alongside limb chemodenervation|
 > |**[[63185]]**|Laminectomy with rhizotomy; 1 or 2 segments — selective dorsal rhizotomy (SDR) for refractory spasticity; predominantly performed in spastic quadriplegic CP patients|
 > |**[[63190]]**|Laminectomy with rhizotomy; more than 2 segments — extended SDR for multilevel involvement; higher-complexity variant of [[63185]]|
 > |**[[97110]]**|Therapeutic exercises, each 15 minutes — ROM maintenance, strengthening, and endurance work in the context of [[spasticity]] management and functional preservation|

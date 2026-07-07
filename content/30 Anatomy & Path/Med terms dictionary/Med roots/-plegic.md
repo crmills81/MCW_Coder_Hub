@@ -28,7 +28,7 @@ definition: An adjective-forming suffix derived from the Greek root pleg- (to st
 ---
 
 >[!Note] DEFINITION of [[-plegic]]
->**[[-plegic]]** is an adjective-forming suffix meaning "**pertaining to**, characterized by, or affected with complete **paralysis**," constructed from the Greek combining root **[[pleg-]]** (*plēgḗ*, "**blow, stroke**") and the adjectival suffix **[[-ic]]** (*-ikos*, "**pertaining to**"). It is the adjective form of the noun suffix **[[-plegia]]** — the relationship mirrors that of *[[-ia]]* (noun) vs. *[[-ic]]* (adjective) throughout Greek-derived medical terminology, exactly as *[[-phasia]]* (noun) relates to *[[-phasic]]* (adjective) or *[[-plegia]]* (noun) relates to *[[-plegic]]* (adjective). In clinical practice, **[[-plegic]]** is used in two distinct ways: (1) as a **patient descriptor** — "the patient is hemiplegic," "**a paraplegic individual**," "**tetraplegic presentation**" — and (2) as a **modifier within a compound adjective** — "**hemiplegic gait**," "**diplegic posturing**," "**paraplegic rehabilitation**." It is critically distinguished from **[[-paretic]]** (the adjective form of [[-paresis]]), which describes *partial* weakness rather than **complete paralysis** — the same noun vs. adjective relationship exists: **[[paresis]] → paretic, [[plegia]] → plegic**. For **ICD-10-CM coding** purposes, **[[-plegic]]** appears most often in documentation that must be reconciled with G81.–, G82.–, G83.–, and G80.– codes, and recognizing it in provider notes is an essential trigger for assigning the correct **[[paralysis]]** code rather than defaulting to a nonspecific weakness code.
+>**[[-plegic]]** is an adjective-forming suffix meaning "**pertaining to**, characterized by, or affected with complete **paralysis**," constructed from the Greek combining root **[[pleg-]]** (*plēgḗ*, "**blow, stroke**") and the adjectival suffix **[[-ic]]** (*-ikos*, "**pertaining to**"). It is the adjective form of the noun suffix **[[-plegia]]** — the relationship mirrors that of *[[-ia]]* (noun) vs. *[[-ic]]* (adjective) throughout Greek-derived medical terminology, exactly as *[[-phasia]]* (noun) relates to *[[-phasic]]* (adjective) or *[[-plegia]]* (noun) relates to *[[-plegic]]* (adjective). In clinical practice, **[[-plegic]]** is used in two distinct ways: (1) as a **patient descriptor** — "the patient is hemiplegic," "**a paraplegic individual**," "**tetraplegic presentation**" — and (2) as a **modifier within a compound adjective** — "**hemiplegic gait**," "**diplegic posturing**," "**paraplegic rehabilitation**." It is critically distinguished from **[[-paretic]]** (the adjective form of [[-paresis]]), which describes *partial* weakness rather than **complete paralysis** — the same noun vs. adjective relationship exists: **[[paresis]] → paretic, [[plegia]] → plegic**. For **ICD-10-CM coding** purposes, **[[-plegic]]** appears most often in documentation that must be reconciled with G81.-, G82.-, G83.-, and G80.- codes, and recognizing it in provider notes is an essential trigger for assigning the correct **[[paralysis]]** code rather than defaulting to a nonspecific weakness code.
 
 _____
 
@@ -48,13 +48,13 @@ _____
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 >
 > - **paralytic** _(lay and clinical adjective synonym; "paralytic condition," "paralytic ileus" — note: "paralytic" is broader and not always interchangeable with [[-plegic]]; "paralytic ileus" refers to bowel dysmotility, not limb paralysis)_
-> - **[[hemiplegic]]** _([[hemi-]] + plegic; "pertaining to one-sided paralysis"; clinical collocations: "hemiplegic migraine," "hemiplegic gait," "hemiplegic posture"; [[G81.0]]–[[G81.94]])_
-> - **[[paraplegic]]** _([[para-]] + plegic; "pertaining to bilateral lower extremity paralysis"; clinical collocations: "paraplegic patient," "paraplegic rehabilitation," "paraplegic transfers"; [[G82.20]]–[[G82.22]])_
-> - **[[tetraplegic]]** _([[tetra-]] + plegic; "pertaining to four-limb paralysis"; preferred over quadriplegic in formal medical literature as both elements are Greek; [[G82.50]]–[[G82.54]])_
-> - **[[quadriplegic]]** _([[quadri-]] + plegic; clinical synonym for tetraplegic; technically Latin-Greek hybrid but widely accepted; [[G82.50]]–[[G82.54]])_
+> - **[[hemiplegic]]** _([[hemi-]] + plegic; "pertaining to one-sided paralysis"; clinical collocations: "hemiplegic migraine," "hemiplegic gait," "hemiplegic posture"; [[G81.0]]-[[G81.94]])_
+> - **[[paraplegic]]** _([[para-]] + plegic; "pertaining to bilateral lower extremity paralysis"; clinical collocations: "paraplegic patient," "paraplegic rehabilitation," "paraplegic transfers"; [[G82.20]]-[[G82.22]])_
+> - **[[tetraplegic]]** _([[tetra-]] + plegic; "pertaining to four-limb paralysis"; preferred over quadriplegic in formal medical literature as both elements are Greek; [[G82.50]]-[[G82.54]])_
+> - **[[quadriplegic]]** _([[quadri-]] + plegic; clinical synonym for tetraplegic; technically Latin-Greek hybrid but widely accepted; [[G82.50]]-[[G82.54]])_
 > - **[[diplegic]]** _([[di-]] + plegic; "pertaining to bilateral symmetrical paralysis"; most common in cerebral palsy documentation — "diplegic CP," "diplegic posturing"; [[G80.1]], [[G83.0]])_
-> - **[[monoplegic]]** _([[mono-]] + plegic; "pertaining to single-limb paralysis"; [[G83.10]]–[[G83.34]]; requires laterality and dominant/nondominant documentation)_
-> - **[[ophtalmoplegic]]** _([[ophthalmo-]] + plegic; "pertaining to extraocular muscle [[paralysis]]"; clinical collocations: "ophthalmoplegic migraine," "ophthalmoplegic presentation"; H49.–)_
+> - **[[monoplegic]]** _([[mono-]] + plegic; "pertaining to single-limb paralysis"; [[G83.10]]-[[G83.34]]; requires laterality and dominant/nondominant documentation)_
+> - **[[ophtalmoplegic]]** _([[ophthalmo-]] + plegic; "pertaining to extraocular muscle [[paralysis]]"; clinical collocations: "ophthalmoplegic migraine," "ophthalmoplegic presentation"; H49.-)_
 > - **[[-paretic]]** _(adjective form of [[-paresis]]; the partial-weakness counterpart to [[-plegic]]; "paretic limb," "paretic gait" — critical to distinguish from [[-plegic]] in documentation for correct code assignment)_
 
 _____
@@ -65,13 +65,13 @@ _____
 > - **[[pleg-]]** — the shared Greek combining root ("to strike") underlying -plegic, -plegia, and -plexy — see dedicated note
 > - **[[-ic]]** — the adjectival suffix component of -plegic; one of the most productive suffixes in medical terminology; connects -plegic to all -ic adjective forms throughout medicine
 > - **[[-paretic]]** — the adjectival form of [[-paresis]]; denotes *partial* weakness; "paretic" in documentation should not be coded the same as "plegic" — paresis codes (G81.9x group) typically carry lower DRG weight than plegia codes
-> - **[[hemiplegic]]** — the most clinically common [[-plegic]] form; describes a patient or condition involving ipsilateral arm and leg paralysis; [[G81.0]]–[[[G81.94]]]; dominant/nondominant documentation required
-> - **[[paraplegic]]** — describes a patient or condition with bilateral lower limb paralysis; [[G82.20]]–[[G82.22]]; completeness documentation required
-> - **[[tetraplegic]] / [[quadriplegic]]** — describes a patient or condition with all four limbs paralyzed; [[G82.50]]–[[G82.54]]; cervical level and completeness required
+> - **[[hemiplegic]]** — the most clinically common [[-plegic]] form; describes a patient or condition involving ipsilateral arm and leg paralysis; [[G81.0]]-[[[G81.94]]]; dominant/nondominant documentation required
+> - **[[paraplegic]]** — describes a patient or condition with bilateral lower limb paralysis; [[G82.20]]-[[G82.22]]; completeness documentation required
+> - **[[tetraplegic]] / [[quadriplegic]]** — describes a patient or condition with all four limbs paralyzed; [[G82.50]]-[[G82.54]]; cervical level and completeness required
 > - **[[diplegic]]** — describes symmetrical bilateral paralysis; most common in [[cerebral palsy]] documentation; [[G80.1]], [[G83.0]]
-> - **[[monoplegic]]** — describes single-limb paralysis; [[G83.10]]–[[G83.34]]; all laterality and dominance fields required
-> - **[[ophthalmoplegic]]** — describes paralysis of extraocular muscles; used in "ophthalmoplegic migraine" (now reclassified in ICHD-3 as cranial neuralgia) and extraocular palsy documentation; H49.–
-> - **[[hemiplegic migraine]]** — a specific named migraine subtype where the [[-plegic]] adjective form appears in the diagnosis name itself; [[G43.401]]–[[G43.919]] range depending on intractability and status migrainosus
+> - **[[monoplegic]]** — describes single-limb paralysis; [[G83.10]]-[[G83.34]]; all laterality and dominance fields required
+> - **[[ophthalmoplegic]]** — describes paralysis of extraocular muscles; used in "ophthalmoplegic migraine" (now reclassified in ICHD-3 as cranial neuralgia) and extraocular palsy documentation; H49.-
+> - **[[hemiplegic migraine]]** — a specific named migraine subtype where the [[-plegic]] adjective form appears in the diagnosis name itself; [[G43.401]]-[[G43.919]] range depending on intractability and status migrainosus
 > - **diplegic [[cerebral palsy]]** — the named disease entity in which "diplegic" appears as the adjectival modifier;[[ G80.1]]; most common CP motor pattern in premature infants
 > - **upper motor neuron lesion** — the neurological mechanism producing spastic [[-plegic]] states (**spastic hemiplegic, spastic diplegic**); characterized by **[[hyperreflexia]]**, increased tone, Babinski sign
 > - **lower motor neuron lesion** — the mechanism producing flaccid [[-plegic]] states (**flaccid [[hemiplegia]]**); characterized by **[[hypotonia]]**, **[[hyporeflexia]]**, muscle **[[atrophy]]**, fasciculations
@@ -83,7 +83,7 @@ _____
 >
 > ### 🏥 ICD-10-CM CODES
 >
-> #### Hemiplegic Forms (G81.– | Dominant/Nondominant Laterality Required)
+> #### Hemiplegic Forms (G81.- | Dominant/Nondominant Laterality Required)
 >
 > |Code|Description|
 > |---|---|
@@ -103,7 +103,7 @@ _____
 > |**[[G81.93]]**|Hemiplegia, unspecified, affecting right nondominant side|
 > |**[[G81.94]]**|Hemiplegia, unspecified, affecting left nondominant side|
 >
-> #### Paraplegic & Tetraplegic/Quadriplegic Forms (G82.– | Level & Completeness Required)
+> #### Paraplegic & Tetraplegic/Quadriplegic Forms (G82.- | Level & Completeness Required)
 >
 > |Code|Description|
 > |---|---|
@@ -111,12 +111,12 @@ _____
 > |**[[G82.21]]**|Paraplegia, complete|
 > |**[[G82.22]]**|Paraplegia, incomplete|
 > |**[[G82.50]]**|Quadriplegia, unspecified|
-> |**[[G82.51]]**|Quadriplegia, C1–C4 complete|
-> |**[[G82.52]]**|Quadriplegia, C1–C4 incomplete|
-> |**[[G82.53]]**|Quadriplegia, C5–C7 complete|
-> |**[[G82.54]]**|Quadriplegia, C5–C7 incomplete|
+> |**[[G82.51]]**|Quadriplegia, C1-C4 complete|
+> |**[[G82.52]]**|Quadriplegia, C1-C4 incomplete|
+> |**[[G82.53]]**|Quadriplegia, C5-C7 complete|
+> |**[[G82.54]]**|Quadriplegia, C5-C7 incomplete|
 >
-> #### Diplegic & Monoplegic Forms (G83.–)
+> #### Diplegic & Monoplegic Forms (G83.-)
 >
 > |Code|Description|
 > |---|---|
@@ -141,7 +141,7 @@ _____
 > |**[[G83.89]]**|Other specified paralytic syndromes|
 > |**[[G83.9]]**|Paralytic syndrome, unspecified|
 >
-> #### Diplegic & Plegic Cerebral Palsy Forms (G80.–)
+> #### Diplegic & Plegic Cerebral Palsy Forms (G80.-)
 >
 > |Code|Description|
 > |---|---|
@@ -151,7 +151,7 @@ _____
 > |**[[G80.8]]**|Other cerebral palsy|
 > |**[[G80.9]]**|Cerebral palsy, unspecified|
 >
-> #### Hemiplegic Migraine (G43.– | -plegic in Named Diagnosis)
+> #### Hemiplegic Migraine (G43.- | -plegic in Named Diagnosis)
 >
 > |Code|Description|
 > |---|---|
@@ -171,19 +171,19 @@ _____
 > |**[[95863]]**|Needle EMG, three extremities with related paraspinal muscles|
 > |**[[95864]]**|Needle EMG, four extremities with related paraspinal muscles (tetraplegic/quadriplegic workup)|
 > |**[[95870]]**|Needle EMG, limited study of specific muscles|
-> |**[[95907]]**|Nerve conduction studies (NCS), 1–2 studies|
-> |**[[95908]]**|NCS, 3–4 studies|
-> |**[[95909]]**|NCS, 5–6 studies|
-> |**[[95910]]**|NCS, 7–8 studies|
-> |**[[95911]]**|NCS, 9–10 studies|
-> |**[[95912]]**|NCS, 11–12 studies|
+> |**[[95907]]**|Nerve conduction studies (NCS), 1-2 studies|
+> |**[[95908]]**|NCS, 3-4 studies|
+> |**[[95909]]**|NCS, 5-6 studies|
+> |**[[95910]]**|NCS, 7-8 studies|
+> |**[[95911]]**|NCS, 9-10 studies|
+> |**[[95912]]**|NCS, 11-12 studies|
 > |**[[95913]]**|NCS, 13 or more studies|
 >
 > ---
 >
-> > ⚠️ **Coding Note:** The adjective form **-plegic** is the form most likely to appear in physician documentation — providers write "**the patient is hemiplegic**" or "**paraplegic status**" far more often than they write the noun form "**[[hemiplegia]]**" — which means **chart abstractors and profee coders must be trained to recognize -plegic adjective language as a direct code trigger** for the **G81.–/G82.–/G83.– families**, not just the noun forms. The single most impactful documentation gap tied to -plegic language is **missing dominant vs. nondominant side** for hemiplegic and monoplegic patients — when a provider writes "**the patient is hemiplegic on the right**" without specifying dominant/nondominant, that is a valid CDI query opportunity because it affects both code specificity and **CC/MCC** capture on inpatient claims. Sequencing: when -plegic status is a sequela or manifestation of a prior **[[stroke]]**, assign the appropriate sequela code (I69.–) as the principal or first-listed code before the G81.– code; when it is an active acute condition, sequence the etiology first per the etiology-manifestation convention. 
+> > ⚠️ **Coding Note:** The adjective form **-plegic** is the form most likely to appear in physician documentation — providers write "**the patient is hemiplegic**" or "**paraplegic status**" far more often than they write the noun form "**[[hemiplegia]]**" — which means **chart abstractors and profee coders must be trained to recognize -plegic adjective language as a direct code trigger** for the **G81.-/G82.-/G83.- families**, not just the noun forms. The single most impactful documentation gap tied to -plegic language is **missing dominant vs. nondominant side** for hemiplegic and monoplegic patients — when a provider writes "**the patient is hemiplegic on the right**" without specifying dominant/nondominant, that is a valid CDI query opportunity because it affects both code specificity and **CC/MCC** capture on inpatient claims. Sequencing: when -plegic status is a sequela or manifestation of a prior **[[stroke]]**, assign the appropriate sequela code (I69.-) as the principal or first-listed code before the G81.- code; when it is an active acute condition, sequence the etiology first per the etiology-manifestation convention. 
 > > 
-> > **Undercoding alert:** Provider notes reading "**diplegic posturing**," "**hemiplegic gait**," or "**paraplegic transfers**" in the **H&P** or therapy notes are frequently not carried forward to the problem list or discharge summary — flag these for physician attestation as they represent codeable diagnoses that directly affect **DRG** weight. For **hemiplegic migraine** (G43.4–), always capture intractability status and presence/absence of status migrainosus to reach the most specific billable code.
+> > **Undercoding alert:** Provider notes reading "**diplegic posturing**," "**hemiplegic gait**," or "**paraplegic transfers**" in the **H&P** or therapy notes are frequently not carried forward to the problem list or discharge summary — flag these for physician attestation as they represent codeable diagnoses that directly affect **DRG** weight. For **hemiplegic migraine** (G43.4-), always capture intractability status and presence/absence of status migrainosus to reach the most specific billable code.
 
 _____
 
