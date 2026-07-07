@@ -4,7 +4,7 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-analytics:
+  analytics:
     provider: google
     tagId: G-TNPW6HR6
   locale: en-US
