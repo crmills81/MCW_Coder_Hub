@@ -19,7 +19,7 @@ configuration:
     typography:
       header: Google Sans
       body: Google Sans
-      code: Google Sans Code
+      code: Source Sans 3
     colors:
       lightMode:
           light: "#FEFAFD"
