@@ -201,17 +201,18 @@ plugins:
     options:
       links:
         GitHub: "https://github.com/crmills81/MCW_Coder_Hub"
-        My Etsy: "https://happycovergirlco.etsy.com"
-- source: github:quartz-community/recent-notes
-  enabled: true
-  options:
-    title: "Recent Notes"
-    limit: 5
-    showTags: false
-    hideFolderPages: true
-  layout:
-    position: left
-    priority: 55
+        My Etsy: "https://happycovergirlco.etsy.com/"
+        Coding Disclaimer: "/disclaimer"
+  - source: github:quartz-community/recent-notes
+    enabled: true
+    options:
+      title: "Recent Notes"
+      limit: 5
+      showTags: false
+      hideFolderPages: true
+    layout:
+      position: left
+      priority: 55
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
