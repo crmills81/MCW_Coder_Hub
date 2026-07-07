@@ -26,11 +26,11 @@ forms:
   - noun (as in "the lumbar")
 alphabet:
   - L
-definition: Pertaining to the lower back region of the spine,specifically the five vertebral segments (L1–L5) situated between the thoracic spine and the sacrum,characterized by large weight-bearing vertebrae and significant range of motion
+definition: Pertaining to the lower back region of the spine,specifically the five vertebral segments (L1-L5) situated between the thoracic spine and the sacrum,characterized by large weight-bearing vertebrae and significant range of motion
 ---
 
 >[!Note] DEFINITION of [[lumbar]]
->**[[lumbar]]** is **the anatomical adjective designating the region of the vertebral column consisting of five vertebrae (L1 through L5)**, located inferior to the thoracic spine and superior to the **sacrum** and **coccyx**. Unlike the **[[cervical]]** and **[[thoracic]]** regions, the lumbar spine bears the greatest compressive load of the axial skeleton, making it the most common site for **degenerative disc disease, [[herniation]], and [[stenosis]]**. The lumbar vertebrae are the largest and most robust in the spine, lacking costal facets (**distinguishing them from [[thoracic]] vertebrae**) and possessing a high degree of flexion-extension mobility. Clinically, "**[[lumbar]]**" encompasses both physiological curvature (**lordosis**) and a broad range of pathological conditions — from mechanical low back pain (**[[M54.50]]**) to radiculopathy (**[[M54.16]]**) and **[[spondylolisthesis]]** (**[[M43.16]]**). It is commonly confused with **[[lumbosacral]]**, which specifically involves the junction of **L5** and **S1** and carries its own distinct **ICD-10-CM codes**; pure [[lumbar]] codes do not extend into the sacral segments.
+>**[[Lumbar]]** is **the anatomical adjective designating the region of the vertebral column consisting of five vertebrae (L1 through L5)**, located inferior to the thoracic spine and superior to the **sacrum** and **coccyx**. Unlike the **[[cervical]]** and **[[thoracic]]** regions, the lumbar spine bears the greatest compressive load of the axial skeleton, making it the most common site for **degenerative disc disease, [[herniation]], and [[stenosis]]**. The lumbar vertebrae are the largest and most robust in the spine, lacking costal facets (**distinguishing them from [[thoracic]] vertebrae**) and possessing a high degree of flexion-extension mobility. Clinically, "**[[lumbar]]**" encompasses both physiological curvature (**lordosis**) and a broad range of pathological conditions — from mechanical low back pain (**[[M54.50]]**) to radiculopathy (**[[M54.16]]**) and **[[spondylolisthesis]]** (**[[M43.16]]**). It is commonly confused with **[[lumbosacral]]**, which specifically involves the junction of **L5** and **S1** and carries its own distinct **ICD-10-CM codes**; pure [[lumbar]] codes do not extend into the sacral segments.
 
 _____
 
@@ -51,8 +51,8 @@ _____
 > - **Lumbar region** _(anatomical positional adjective; appears in collocations such as "lumbar region pain," "lumbar region [[stenosis]]," and "[[lumbar]] region disc herniation")_
 > - **Low back** _(lay term commonly used by patients and in documentation triggers; coded under M54.5x range depending on specificity)_
 > - **L-spine** _(clinical abbreviation used heavily in operative and radiology reports; signals lumbar-specific pathology)_
-> - **Lumbosacral** _(adjacent anatomical region involving L5–S1 junction; carries distinct ICD-10-CM codes — e.g., [[M54.17]] for lumbosacral radiculopathy — and should not be conflated with pure lumbar codes)_
-> - **[[Lumbago]]** _(lay and historical clinical term for low back pain; now coded specifically under [[M54.50]]–[[M54.59]] by site and acuity)_
+> - **Lumbosacral** _(adjacent anatomical region involving L5-S1 junction; carries distinct ICD-10-CM codes — e.g., [[M54.17]] for lumbosacral radiculopathy — and should not be conflated with pure lumbar codes)_
+> - **[[Lumbago]]** _(lay and historical clinical term for low back pain; now coded specifically under [[M54.50]]-[[M54.59]] by site and acuity)_
 > - **Lumbar lordosis** _(the normal inward curvature of the lumbar spine; loss of [[lordosis]] or [[hyperlordosis]] each carry clinical and coding implications; [[M40.46]] for lumbar lordosis)_
 > - **Lumbar [[radiculopathy]]** _(nerve root compression or irritation at a lumbar level producing radiating leg pain/sciatica; coded as [[M54.16]] for lumbar, [[M54.17]] for lumbosacral)_
 > - **Lumbar stenosis** _(narrowing of the lumbar spinal canal; [[M48.061]] right side, [[M48.062]] left side, [[M48.069]] unspecified)_
@@ -65,16 +65,16 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 >
-> - **[[Cervical]]** — the opposite end of the spinal column; designates the seven C1–C7 vertebrae of the neck; distinguished from lumbar by smaller vertebral bodies, presence of transverse foramina, and greater rotational mobility
+> - **[[Cervical]]** — the opposite end of the spinal column; designates the seven C1-C7 vertebrae of the neck; distinguished from lumbar by smaller vertebral bodies, presence of transverse foramina, and greater rotational mobility
 > - **[[Thoracic]]** — the 12-vertebra mid-spine region articulating with the rib cage; distinguished from lumbar by costal facets and limited flexion-extension
-> - **[[Sacral]]** — the region immediately inferior to lumbar (S1–S5); fused into the sacrum in adults; lumbar-sacral junction (L5–S1) is the single most common site for disc pathology
-> - **[[Lumbosacral]]** — designates pathology specifically at or spanning the L5–S1 junction; has distinct ICD-10-CM codes from pure lumbar codes and must not be used interchangeably
+> - **[[Sacral]]** — the region immediately inferior to lumbar (S1-S5); fused into the sacrum in adults; lumbar-sacral junction (L5-S1) is the single most common site for disc pathology
+> - **[[Lumbosacral]]** — designates pathology specifically at or spanning the L5-S1 junction; has distinct ICD-10-CM codes from pure lumbar codes and must not be used interchangeably
 > - **[[Lumbago]]** — historical and lay term for lumbar back pain; now replaced in coding by site-specific M54.5x codes; "[[lumbago]]" in documentation should prompt specificity query
 > - **[[Radiculopathy]]** — nerve root irritation or compression; when at lumbar levels, coded as [[M54.16]] (lumbar) or [[M54.17]] (lumbosacral); key distinguishing feature from [[myelopathy]] is that radiculopathy affects nerve roots, not the spinal cord itself
-> - **[[Myelopathy]]** — spinal cord dysfunction; lumbar myelopathy is less common than cervical due to cord termination at L1–L2; lumbar disc degeneration with myelopathy coded as [[M51.06]]
+> - **[[Myelopathy]]** — spinal cord dysfunction; lumbar myelopathy is less common than cervical due to cord termination at L1-L2; lumbar disc degeneration with myelopathy coded as [[M51.06]]
 > - **[[Stenosis]]** — narrowing of the lumbar spinal canal or neural foramina; produces neurogenic claudication; coded under M48.06x with laterality
 > - **[[Spondylosis]]** — degenerative osteoarthritis of the lumbar facet joints and discs; the umbrella term under M47.8x for lumbar degenerative changes
-> - **[[Spondylolisthesis]]** — vertebral slippage, most common at L4–L5 and L5–S1; coded [[M43.16]] for lumbar; distinguish from [[spondylolysis]] ([[M43.06]]) which is a stress fracture of the pars interarticularis
+> - **[[Spondylolisthesis]]** — vertebral slippage, most common at L4-L5 and L5-S1; coded [[M43.16]] for lumbar; distinguish from [[spondylolysis]] ([[M43.06]]) which is a stress fracture of the pars interarticularis
 > - **[[Lordosis]]** — the normal or pathological inward curve of the lumbar spine; [[hyperlordosis]] or [[hypolordosis]] both clinically relevant; coded [[M40.46]] for acquired lumbar lordosis
 > - **[[discectomy]]** — surgical removal of lumbar disc material; primary CPT code [[63030]] (laminotomy with decompression, 1 interspace, lumbar)
 > - **[[laminectomy]]** — surgical removal of the lamina for [[decompression]]; coded [[63047]] when performed with facetectomy
@@ -169,7 +169,7 @@ _____
 > |**[[72148]]**|MRI lumbar spine without contrast|
 > |**[[72149]]**|MRI lumbar spine with contrast|
 > |**[[72158]]**|MRI lumbar spine without and with contrast|
-> |**[[72100]]**|X-ray lumbar spine, 2–3 views|
+> |**[[72100]]**|X-ray lumbar spine, 2-3 views|
 > |**[[72110]]**|X-ray lumbar spine, minimum 4 views|
 > |**[[97110]]**|Therapeutic exercises, lumbar stabilization; each 15 minutes|
 > |**[[97530]]**|Therapeutic activities, lumbar functional restoration; each 15 minutes|

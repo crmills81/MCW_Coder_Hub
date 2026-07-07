@@ -54,7 +54,7 @@ _____
 > - **Mandibular Retrognathia / Micrognathia** _(clinical descriptor — abnormal posterior positioning or underdevelopment of the mandible; Angle Class II malocclusion; associated with obstructive sleep apnea; corrected surgically with mandibular advancement)_
 > - **Mandibular Tori (Torus Mandibularis)** _(benign bony exostosis on the lingual surface of the mandible; coded [[M27.0]]; removed surgically with CPT [[21031]])_
 > - **Mandibular Condyle** _(the superior articular head of the mandibular condylar process that articulates with the temporal bone at the TMJ; fractures coded S02.61x-series by laterality)_
-> - **Mandibular Ramus** _(vertical posterior portion of the mandible connecting body to condyle; fractures coded in S02.65x–S02.66x series by laterality and displacement)_
+> - **Mandibular Ramus** _(vertical posterior portion of the mandible connecting body to condyle; fractures coded in S02.65x-S02.66x series by laterality and displacement)_
 > - **Gonial Angle / Angle of the Mandible** _(the junction of the body and ramus; masseteric attachment point; fractures coded [[S02.651A]], [[S02.652A]], etc. by laterality and encounter)_
 > - **Mandibular Symphysis** _(midline bony fusion of the two embryonic mandibular halves; in adult anatomy it appears as the mental protuberance/chin; fractures of symphysis/parasymphysis coded in the S02.6x series)_
 > - **Mental Foramen** _(bilateral foramina on the anterior mandibular body through which the mental nerve and vessels exit; landmark for inferior alveolar nerve block anesthesia)_
@@ -65,11 +65,11 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
 > - **[[Mandible]]** — the noun form; the single midline lower jawbone; only freely movable bone of the adult skull; articulates bilaterally at the TMJ with the temporal bones
-> - **[[Maxilla]]** — the paired upper jaw bones fused to the skull; the maxillary counterpart to the mandible; maxillary fractures classified by LeFort type; corrected surgically with maxillary osteotomies ([[21141]]–[[21147]])
+> - **[[Maxilla]]** — the paired upper jaw bones fused to the skull; the maxillary counterpart to the mandible; maxillary fractures classified by LeFort type; corrected surgically with maxillary osteotomies ([[21141]]-[[21147]])
 > - **Temporomandibular Joint (TMJ)** — the synovial joint between the mandibular condyle and temporal bone; site of TMD; disorders coded M26.60x - M26.69x; key distinction from mandibular pathology is involvement of the articular disc and joint capsule rather than the bone itself
 > - **Temporomandibular Disorder (TMD)]]** — the clinical syndrome of TMJ pain, clicking, and dysfunction; coded M26.60x (unspecified), M26.62x ([[arthralgia]]), M26.69x (other); distinct from mandibular fracture or [[osteoarthritis]]
-> - **[[Malocclusion]]** — misalignment of upper and lower teeth due to [[maxillomandibular]] discrepancy; Angle Class I (normal), Class II (mandibular retrognathia), Class III (mandibular prognathism); coded [[M26.211]]–[[M26.213]] by type
-> - **[[Mandibulectomy]]** — surgical removal of all or part of the mandible; segmental ([[21044]] for malignant tumor, [[21046]]–[[21047]] for benign [[tumor]]/[[cyst]]); total/composite resection for malignancy (with or without neck [[dissection]])
+> - **[[Malocclusion]]** — misalignment of upper and lower teeth due to [[maxillomandibular]] discrepancy; Angle Class I (normal), Class II (mandibular retrognathia), Class III (mandibular prognathism); coded [[M26.211]]-[[M26.213]] by type
+> - **[[Mandibulectomy]]** — surgical removal of all or part of the mandible; segmental ([[21044]] for malignant tumor, [[21046]]-[[21047]] for benign [[tumor]]/[[cyst]]); total/composite resection for malignancy (with or without neck [[dissection]])
 > - **[[Trismus]]** — restricted mouth opening due to masticatory [[muscle spasm]] or scarring; frequently a symptom of mandibular fracture, [[pericoronitis]], or post-radiation [[fibrosis]]; coded [[M26.69]] or [[R25.2]] depending on documentation
 > - **[[Osteonecrosis]] of the Jaw (ONJ) / MRONJ** — medication-related [[osteonecrosis]] of the jaw (mandible > maxilla); associated with bisphosphonates and antiresorptive drugs; coded [[M87.180]] (right mandible), [[M87.181]] (left mandible), [[M87.188]] (other bone); major complication in oncology/[[osteoporosis]] patients
 > - **Inferior Alveolar Nerve (IAN)** — the primary sensory nerve of the mandible running through the mandibular canal (CN V3 branch); at risk in BSSO ([[21196]]), third molar extractions, and fractures; injury coded S04.3x series
@@ -110,7 +110,7 @@ _____
 > |**[[S02.67XA]]**|Fracture of alveolus of mandible, initial encounter for closed fracture|
 > |**[[S02.69XA]]**|Fracture of mandible of other specified site, initial encounter for closed fracture|
 > 
-> #### Diseases & Disorders of the Jaws (M26–M27 Series)
+> #### Diseases & Disorders of the Jaws (M26-M27 Series)
 > 
 > |Code|Description|
 > |---|---|
@@ -173,7 +173,7 @@ _____
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** Mandibular fracture coding (S02.6x series) requires **maximum specificity** — you must capture anatomical site (**condylar, subcondylar, coronoid, ramus, angle, body, [[symphysis]], alveolus**), laterality (**right, left, unspecified**), and encounter type (**A = initial, D = subsequent, S = sequela**); never submit the parent S02.6 without all required characters, and never use S codes without a 7th character. For inpatient profee, **fracture site and open vs. closed status** impact DRG assignment significantly — an open mandibular fracture (B 7th character) carries higher resource intensity than closed and should trigger documentation review of surgical operative reports. A frequently missed undercoding scenario: when the surgeon documents **"bilateral sagittal split osteotomy"** or **"BSSO,"** the correct code is **[[21196]]** — do not confuse with **[[21193]]** (IVRO, no internal fixation) or **[[21195]]** (IVRO with graft); the key differentiator is internal rigid fixation (**plates/screws = [[21196]]**). For orthognathic cases combining maxillary AND mandibular osteotomies, both **[[21196]]** and the appropriate LeFort code (**[[21141]]–[[21147]]**) are reported together; confirm modifier usage (**[[-51]] for multiple procedures or facility-specific billing rules**). MRONJ (**[[M87.180]]–[[M87.181]]**) requires an additional external cause code (T45.1x series) to identify the causative drug (**bisphosphonate, denosumab, etc.**) — this combination is scrutinized on oncology and osteoporosis inpatient accounts.
+> > ⚠️ **Coding Note:** Mandibular fracture coding (S02.6x series) requires **maximum specificity** — you must capture anatomical site (**condylar, subcondylar, coronoid, ramus, angle, body, [[symphysis]], alveolus**), laterality (**right, left, unspecified**), and encounter type (**A = initial, D = subsequent, S = sequela**); never submit the parent S02.6 without all required characters, and never use S codes without a 7th character. For inpatient profee, **fracture site and open vs. closed status** impact DRG assignment significantly — an open mandibular fracture (B 7th character) carries higher resource intensity than closed and should trigger documentation review of surgical operative reports. A frequently missed undercoding scenario: when the surgeon documents **"bilateral sagittal split osteotomy"** or **"BSSO,"** the correct code is **[[21196]]** — do not confuse with **[[21193]]** (IVRO, no internal fixation) or **[[21195]]** (IVRO with graft); the key differentiator is internal rigid fixation (**plates/screws = [[21196]]**). For orthognathic cases combining maxillary AND mandibular osteotomies, both **[[21196]]** and the appropriate LeFort code (**[[21141]]-[[21147]]**) are reported together; confirm modifier usage (**[[-51]] for multiple procedures or facility-specific billing rules**). MRONJ (**[[M87.180]]-[[M87.181]]**) requires an additional external cause code (T45.1x series) to identify the causative drug (**bisphosphonate, denosumab, etc.**) — this combination is scrutinized on oncology and osteoporosis inpatient accounts.
 
 _____
 

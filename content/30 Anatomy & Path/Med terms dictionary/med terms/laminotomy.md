@@ -29,7 +29,7 @@ definition: Surgical incision into or partial removal of a vertebral lamina to d
 ---
 
 >[!Note] DEFINITION of [[laminotomy]]
->**Laminotomy** is a s**pinal decompression procedure in which a surgeon removes only a portion of the vertebral lamina** — the bony posterior arch of a vertebral body — to relieve pressure on compressed nerve roots or the spinal cord, preserving the majority of the posterior spinal architecture. Unlike a **[[laminectomy]]**, which involves complete removal of the lamina and can destabilize the spine, a **[[laminotomy]]** is a spine-preserving approach that maintains more structural integrity and reduces the risk of postoperative instability or **[[kyphosis]]**. The underlying pathological mechanism driving the need for laminotomy is typically mechanical compression caused by a herniated intervertebral disc (**[[M51.16]]–[[M51.17]]**), **[[spinal stenosis]]** (**[[M48.061]]–[[M48.062]]**), or osteophytic overgrowth that narrows the **spinal canal** or **foramina**, producing **[[radiculopathy]]** or **[[myelopathy]]**. The procedure may be performed unilaterally (**[[hemilaminotomy]]**) or bilaterally, at one or multiple interspaces, and via open or minimally invasive/endoscopic approaches. Clinically, **[[laminotomy]]** is most frequently performed at the lumbar level for **herniated nucleus pulposus** with radiculopathy (**[[M51.16]], [[M51.17]]**) and at the cervical level for **cervical disc disease with myelopathy** (**[[M50.021]]–[[M50.023]]**); it is commonly confused with **[[foraminotomy]]**, which specifically enlarges the **neural foramen**, whereas **laminotomy** targets the lamina itself — though both may be performed together as part of the same **[[decompression]]** procedure.
+>**Laminotomy** is a s**pinal decompression procedure in which a surgeon removes only a portion of the vertebral lamina** — the bony posterior arch of a vertebral body — to relieve pressure on compressed nerve roots or the spinal cord, preserving the majority of the posterior spinal architecture. Unlike a **[[laminectomy]]**, which involves complete removal of the lamina and can destabilize the spine, a **[[laminotomy]]** is a spine-preserving approach that maintains more structural integrity and reduces the risk of postoperative instability or **[[kyphosis]]**. The underlying pathological mechanism driving the need for laminotomy is typically mechanical compression caused by a herniated intervertebral disc (**[[M51.16]]-[[M51.17]]**), **[[spinal stenosis]]** (**[[M48.061]]-[[M48.062]]**), or osteophytic overgrowth that narrows the **spinal canal** or **foramina**, producing **[[radiculopathy]]** or **[[myelopathy]]**. The procedure may be performed unilaterally (**[[hemilaminotomy]]**) or bilaterally, at one or multiple interspaces, and via open or minimally invasive/endoscopic approaches. Clinically, **[[laminotomy]]** is most frequently performed at the lumbar level for **herniated nucleus pulposus** with radiculopathy (**[[M51.16]], [[M51.17]]**) and at the cervical level for **cervical disc disease with myelopathy** (**[[M50.021]]-[[M50.023]]**); it is commonly confused with **[[foraminotomy]]**, which specifically enlarges the **neural foramen**, whereas **laminotomy** targets the lamina itself — though both may be performed together as part of the same **[[decompression]]** procedure.
 
 _____
 
@@ -49,7 +49,7 @@ _____
 > 
 > - **[[Hemilaminectomy]]** _(clinical synonym for unilateral partial lamina removal; used interchangeably with laminotomy in operative reports — particularly in cervical and lumbar decompression documentation)_
 > - **Partial laminectomy** _(lay and clinical term; emphasizes that less bone is removed than in a complete laminectomy; frequently appears in patient-facing documentation and operative summaries)_
-> - **Interlaminar decompression** _(clinical descriptor used in minimally invasive spine surgery context; coded under the same CPT range [[63020]]–[[63044]] depending on level and interspace count)_
+> - **Interlaminar decompression** _(clinical descriptor used in minimally invasive spine surgery context; coded under the same CPT range [[63020]]-[[63044]] depending on level and interspace count)_
 > - **[[Microdecompression]]** _(surgical synonym when performed via microscope or tubular retractor system; same CPT codes apply — open vs. endoscopic approach does not change the primary code)_
 > - **Laminectomy|Open decompression** _(broader term that may encompass laminotomy; note key distinction — laminectomy implies complete lamina removal while laminotomy implies partial; [[[[M96.1]]]] postlaminectomy syndrome applies to both)_
 > - **Discectomy with laminotomy** _(combined procedure designation when herniated disc excision accompanies the lamina removal; CPT [[63030]] or [[63020]] bundles both components — do not separately code the discectomy)_
@@ -60,14 +60,14 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[laminectomy]]** — complete removal of the vertebral lamina; more extensive than laminotomy and more likely to require fusion for stability; coded separately under CPT [[63005]], [[63012]], [[63015]]–[[63017]], [[63047]]
+> - **[[laminectomy]]** — complete removal of the vertebral lamina; more extensive than laminotomy and more likely to require fusion for stability; coded separately under CPT [[63005]], [[63012]], [[63015]]-[[63017]], [[63047]]
 > - **[[Foraminotomy]]** — surgical enlargement of the neural foramen to decompress an exiting nerve root; often performed concurrently with laminotomy and bundled within CPT [[63020]] and [[63030]] — do not separately code when performed as part of the decompression
 > - **[[discectomy]]** — removal of herniated intervertebral disc material; bundled within laminotomy CPT codes when performed at the same interspace — excision of the disc is included in codes [[63020]] and [[63030]]
 > - **[[Facetectomy]]** — partial or complete removal of the facet joint to improve decompression access; also bundled within CPT [[63020]] and [[63030]] per AMA CPT descriptor
-> - **[[Spinal stenosis]]** — narrowing of the spinal canal or foramina; primary diagnosis driving laminotomy in many cases ([[M48.021]]–[[M48.022]] cervical, [[M48.061]]–[[M48.062]] lumbar)
+> - **[[Spinal stenosis]]** — narrowing of the spinal canal or foramina; primary diagnosis driving laminotomy in many cases ([[M48.021]]-[[M48.022]] cervical, [[M48.061]]-[[M48.062]] lumbar)
 > - **[[Radiculopathy]]** — nerve root compression syndrome; most common presenting diagnosis requiring laminotomy ([[M54.12]] cervical, [[M54.16]] lumbar, [[M54.17]] lumbosacral)
-> - **[[Myelopathy]]** — spinal cord compression syndrome; may drive the need for cervical laminotomy; coded as [[M50.001]]–[[M50.003]] cervical disc disease with myelopathy
-> - **Herniated nucleus pulposus** — disc herniation causing neural compression; primary pathological driver of laminotomy with discectomy ([[M51.16]] lumbar, [[M51.17]] lumbosacral, [[M50.021]]–[[M50.023]] cervical)
+> - **[[Myelopathy]]** — spinal cord compression syndrome; may drive the need for cervical laminotomy; coded as [[M50.001]]-[[M50.003]] cervical disc disease with myelopathy
+> - **Herniated nucleus pulposus** — disc herniation causing neural compression; primary pathological driver of laminotomy with discectomy ([[M51.16]] lumbar, [[M51.17]] lumbosacral, [[M50.021]]-[[M50.023]] cervical)
 > - **Postlaminectomy syndrome** — failed back surgery syndrome following decompressive spine surgery; ICD-10-CM [[M96.1]] — applies to both laminotomy and laminectomy sequelae
 > - **[[Spondylosis]]** — degenerative vertebral disease with osteophyte formation that may narrow the canal and necessitate laminotomy; relevant codes include [[M47.812]] cervical, [[M47.816]] lumbar
 > - **[[Spondylolisthesis]]** — vertebral slippage that may be present alongside or worsened by decompressive [[laminotomy]] without fusion; coded [[M43.16]] lumbar, [[M43.17]] lumbosacral
@@ -84,9 +84,9 @@ _____
 > 
 > |Code|Description|
 > |---|---|
-> |**[[M50.021]]**|Cervical disc disorder with myelopathy, high cervical region (C2–C3)|
-> |**[[M50.022]]**|Cervical disc disorder with myelopathy, mid-cervical region (C3–C5)|
-> |**[[M50.023]]**|Cervical disc disorder with myelopathy, cervicothoracic region (C7–T1)|
+> |**[[M50.021]]**|Cervical disc disorder with myelopathy, high cervical region (C2-C3)|
+> |**[[M50.022]]**|Cervical disc disorder with myelopathy, mid-cervical region (C3-C5)|
+> |**[[M50.023]]**|Cervical disc disorder with myelopathy, cervicothoracic region (C7-T1)|
 > |**[[M50.121]]**|Cervical disc derangement with radiculopathy, high cervical region|
 > |**[[M50.122]]**|Cervical disc derangement with radiculopathy, mid-cervical region|
 > |**[[M50.123]]**|Cervical disc derangement with radiculopathy, cervicothoracic region|

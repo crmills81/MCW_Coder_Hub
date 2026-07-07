@@ -44,13 +44,13 @@ note_type: modifier-reference
 **Asynchronous telemedicine** differs from synchronous telemedicine (**real-time audio/video, reported with Modifier [[-95]] or Modifier [[-GT]]**) in that the provider and patient are **not present simultaneously**. The provider reviews the transmitted data and makes a clinical decision — this model is particularly common in **dermatology, radiology, and ophthalmology**, where visual data can be evaluated independently of a live encounter.
 
 > [!warning] ⚠️ Medicare Limitation — Critical to Know
-> For **Medicare**, Modifier **[[-GQ]]** is **not a general-use telehealth modifier**. As of 2025–2026, **CMS** limits **[[-GQ]]** reimbursement to services furnished under **Federal telemedicine demonstration projects in Alaska and Hawaii** only. For all other Medicare telehealth, use Modifier **[[-95]]** (synchronous audio/video) or Modifier **[[-93]]** (audio-only). Verify Medicaid and commercial payer policies independently — coverage varies significantly.
+> For **Medicare**, Modifier **[[-GQ]]** is **not a general-use telehealth modifier**. As of 2025-2026, **CMS** limits **[[-GQ]]** reimbursement to services furnished under **Federal telemedicine demonstration projects in Alaska and Hawaii** only. For all other Medicare telehealth, use Modifier **[[-95]]** (synchronous audio/video) or Modifier **[[-93]]** (audio-only). Verify Medicaid and commercial payer policies independently — coverage varies significantly.
 
 ---
 
 ## 🔬 Modifier vs. Other Telehealth Modifiers
 
-| Modifier | Full Name | Interaction Type | CMS Medicare Use (2025–2026) | Common Specialties |
+| Modifier | Full Name | Interaction Type | CMS Medicare Use (2025-2026) | Common Specialties |
 |---|---|---|---|---|
 | **[[-GQ]]** | Via an Asynchronous Telecommunications System | Asynchronous (Store-and-Forward) | ⚠️ Limited — AK/HI Federal Demo Projects only | Dermatology, Radiology, Ophthalmology |
 | **[[-95]]** | Synchronous Telemedicine Service Rendered Via Real-Time Interactive Audio and Video Telecommunications System | Synchronous (Live Audio + Video) | ✅ Primary Medicare telehealth modifier | All specialties |

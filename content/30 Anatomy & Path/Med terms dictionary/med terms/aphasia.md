@@ -54,7 +54,7 @@ _____
 > | Code      | Description                                      |
 > |-----------|--------------------------------------------------|
 > | **[[R47.01]]** | Aphasia (unspecified).                          |
-> | **[[I69.320]]** | Aphasia post [[cerebral infarction]] ([[stroke]]).[10] |
+> | **[[50 Medical Coding/ICD-10 Codes/I69.320]]** | Aphasia post [[cerebral infarction]] ([[stroke]]).[10] |
 > | **[[G11.4]]** | **PPA** (frontotemporal dementia variant).          |
 
 
@@ -88,7 +88,7 @@ _____
 > **Management:** Speech-language pathology, constraint-induced therapy, apps (Constant Therapy).[4]
 > 
 > **One-Sentence Summary**  
-> **Aphasia** ([[R47.01]]/[[I69.320]], Greek *[[a-]] [[-phasia]]* "without speech"), disrupts language post-stroke (Broca's telegraphic/Wernicke's fluent/global/PPA), spares cognition; speech therapy yields 30-50% recovery.[1][2][3]
+> **Aphasia** ([[R47.01]]/[[50 Medical Coding/ICD-10 Codes/I69.320]], Greek *[[a-]] [[-phasia]]* "without speech"), disrupts language post-stroke (Broca's telegraphic/Wernicke's fluent/global/PPA), spares cognition; speech therapy yields 30-50% recovery.[1][2][3]
 >
 _____
 

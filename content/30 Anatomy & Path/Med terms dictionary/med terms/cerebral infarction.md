@@ -222,7 +222,7 @@ definition: Death of brain tissue resulting from insufficient blood supply due t
 > | **[[I69.315]]** | Cognitive social or emotional deficit following cerebral infarction |
 > | **[[I69.318]]** | Other symptoms and signs involving cognitive functions following cerebral infarction |
 > | **[[I69.319]]** | Unspecified symptoms and signs involving cognitive functions following cerebral infarction |
-> | **[[I69.320]]** | Aphasia following cerebral infarction |
+> | **[[50 Medical Coding/ICD-10 Codes/I69.320]]** | Aphasia following cerebral infarction |
 > | **[[I69.321]]** | Dysphasia following cerebral infarction |
 > | **[[I69.322]]** | Dysarthria following cerebral infarction |
 > | **[[I69.323]]** | Fluency disorder following cerebral infarction |

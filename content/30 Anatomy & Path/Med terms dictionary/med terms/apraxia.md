@@ -88,7 +88,7 @@ _____
 > 
 > ### 🏥 ICD-10-CM CODES
 > 
-> #### Apraxia NOS | Symbolic Dysfunction Category (R48.–)
+> #### Apraxia NOS | Symbolic Dysfunction Category (R48.-)
 > 
 > |Code|Description|
 > |---|---|
