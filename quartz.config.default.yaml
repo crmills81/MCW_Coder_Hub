@@ -8,7 +8,7 @@ configuration:
     provider: google
     tagId: G-TNPW6HR6
   locale: en-US
-  baseUrl: crmills81.github.io/MCW_Coder_Hub
+  baseUrl: codingmcw.happycovergirlco.com
   ignorePatterns:
     - private
     - templates
