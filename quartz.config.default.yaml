@@ -4,9 +4,9 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics:
-      provider: google, 
-      tagId: G-TNPW6HR6,
+analytics:
+    provider: google
+    tagId: G-TNPW6HR6
   locale: en-US
   baseUrl: crmills81.github.io/MCW_Coder_Hub
   ignorePatterns:
@@ -102,7 +102,7 @@ plugins:
   - source: github:quartz-community/fonts
     enabled: true
   - source: github:quartz-community/remove-draft
-    enabled: true
+    enabled: false
   - source: github:quartz-community/explicit-publish
     enabled: false
   - source: github:quartz-community/alias-redirects
@@ -199,10 +199,10 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: "https://github.com/crmills81/MCW_Coder_Hub"
+        My Etsy: "https://happycovergirlco.etsy.com"
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
