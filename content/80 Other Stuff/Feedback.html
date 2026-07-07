@@ -1,0 +1,4864 @@
+<!DOCTYPE html>
+<!-- saved from url=(0335)https://scorpion.caveon.com/feedback/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJTRUkiLCJzdWIiOiI4YzUzODU0MC03MGFmLTRkM2UtODU2My1iMzI0NDVkZTA4MjEiLCJpYXQiOjE3NzgzNTY4NTUsImJsb2NrX2lkeCI6LTF9.HkhXbFNJSvqLR3g4CIFuOBgFoxU8Lah9F8iFePCDraQ?navigation_color=%233C6683&button_color=%235384A3&background_color=%23DEDEDE&font=&button_style= -->
+<html oncontextmenu="return false;" style="direction: ltr;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Feedback</title>
+      <meta name="robots" content="noindex,nofollow">
+      <link rel="stylesheet" href="./Feedback_files/katex.min.css">
+  <style>
+    @font-face {
+        font-family: 'Adobe Clean';
+        src: url("https://caveon-public.s3.us-west-2.amazonaws.com/fonts/AdobeClean-Regular.otf") format('opentype');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    .adobe-clean {
+        font-family: 'Adobe Clean';
+    }
+    .arial {
+        font-family: Arial, sans-serif;
+    }
+    .courier-new {
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .georgia {
+        font-family: Georgia, serif;
+    }
+    .times-new-roman {
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .verdana {
+        font-family: Verdana, Geneva, sans-serif;
+    }
+
+    .rounded {
+        border-radius: 100px !important;
+    }
+
+    input, label, select, textarea, button, fieldset, legend, datalist, output, option, optgroup {
+        font-family: inherit !important;
+    }
+</style><style>
+  html {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: #dedede;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    color: rgba(0, 0, 0, 0.87);
+    width: 100%;
+    max-width: 1200px;
+    margin: 50px 0px;
+    box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.2), 0px 2px 2px 0px rgba(0,0,0,0.14), 0px 3px 1px -2px rgba(0,0,0,0.12);
+    position: relative;
+    background: white;
+
+    /* disable select */
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    /* end disable select */
+  }
+  img {
+    max-width:100%;
+    max-height:100%;
+  }
+
+  .feedbackWrapper {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin-top: -50px;
+  }
+
+  .feedbackHeader {
+    width: 100%;
+    max-width: 1200px;
+    height: 50px;
+    position: fixed;
+    border-bottom: 1px solid rgb(204, 204, 204);
+    background: white;
+    z-index: 4;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    padding: 0px 10px;
+    box-sizing: border-box;
+  }
+
+  .feedbackBody {
+    margin: 30px 10px 0px 10px;
+  }
+
+  .scroll {
+    width: 100%;
+    height: calc(100% - 50px);
+    margin-top: 50px;
+    overflow-y: scroll;
+  }
+
+  .notVisible {
+    display: none;
+  }
+
+  .neverVisible {
+    display: none !important;
+  }
+
+  .prettyButton {
+    background-color: #5384a3;
+    border: 0;
+    border-radius: 2px;
+    box-shadow: rgba(0, 0, 0, 0.117647) 0px 1px 6px, rgba(0, 0, 0, 0.117647) 0px 1px 4px;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 500;
+    height: 36px;
+    line-height: 36px;
+    margin: 0px;
+    min-width: 88px;
+    outline: none;
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    transform: translate(0px, 0px);
+    transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;
+    margin: 10px 0px;
+  }
+
+  .prettyButton:hover {
+    background-color: rgba(83, 132, 163, 0.93);
+  }
+
+  .container {
+    box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.2), 0px 2px 2px 0px rgba(0,0,0,0.14), 0px 3px 1px -2px rgba(0,0,0,0.12);
+    padding: 10px 10px 10px 40px;
+    position: relative;
+  }
+
+  .questionNumber {
+    position: absolute;
+    top: 25px;
+    left: 18px;
+  }
+
+  .row {
+    padding: 5px 8px;
+    border-bottom: 1px solid rgb(240, 240, 240);
+    max-width: 100%;
+  }
+
+  .row:last-child {
+    border-bottom: none;
+  }
+
+  .row>ul {
+    margin: 0px;
+    padding: 5px 0px 5px 18px;
+  }
+
+  .subrow {
+    display: flex;
+    border-bottom: 1px solid rgb(240, 240, 240);
+    padding: 10px 8px;
+  }
+
+  .subrow>div,
+  .subrow>small {
+    flex: 1;
+    overflow: auto;
+    margin-right: 15px;
+  }
+
+  .subrow>textarea {
+    width: 100%;
+    height: 200px;
+    resize: none;
+    border: none;
+    font-size: 14px;
+  }
+
+  .build {
+    position: relative;
+    padding: 10px 10px 10px 0px;
+  }
+
+  .build:first-child {
+    border: none;
+  }
+
+  .build>div {
+    padding: 15px;
+    box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.2), 0px 2px 2px 0px rgba(0,0,0,0.14), 0px 3px 1px -2px rgba(0,0,0,0.12);
+    border-radius: 4px;
+    margin: 0px 20px 10px 0px;
+  }
+
+  .markdown>p {
+    margin: 0;
+  }
+
+  .lessPadding {
+    padding: 5px 8px;
+  }
+
+  .box {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+    border: 1px solid rgb(240, 240, 240);
+  }
+
+  .checked {
+    background: rgb(168, 168, 168);
+    color: white;
+    font-size: 12px;
+    text-align: center;
+  }
+
+  .markdown h1,
+  .markdown h2,
+  .markdown h3,
+  .markdown h4,
+  .markdown h5,
+  .markdown h6 {
+    margin-bottom:15px;
+    background: none;
+    color: #000;
+    text-align: left;
+    padding: 0;
+    margin: 0 0 15px;
+  }
+
+  .markdown h1 {
+    font-size:2em;
+  }
+
+  .markdown h2 {
+    font-size: 1.75em;
+  }
+
+  .markdown h3 {
+    font-size: 1.5em;
+  }
+
+  .markdown h4 {
+    font-size: 1em;
+  }
+
+  .markdown h5 {
+    font-size: 1.9em;
+  }
+
+  .markdown ul,
+  .markdown ol {
+    margin:10px 0 10px 20px;
+    list-style: disc;
+  }
+
+  .markdown ul li {
+    list-style: disc;
+    padding-bottom:5px;
+  }
+
+  .markdown ol li {
+    list-style: decimal;
+    padding-bottom:5px;
+  }
+
+  .markdown p {
+    margin: 0 0 10px 0;
+    line-height:150%;
+  }
+
+  .markdown img {
+    max-width:100%;
+  }
+
+  .markdown table {
+    border-collapse: collapse;
+    border:1px solid #ddd;
+  }
+
+  .markdown table th,
+  .markdown table td {
+    padding:4px;
+    border: 1px solid #ddd;
+  }
+
+  .markdown blockquote {
+    border-left: 3px solid #ccc;
+    padding: 10px 20px 5px;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+
+  .markdown .audioBlock,
+  .markdown .videoBlock {
+    margin:15px 0;
+  }
+
+  .markdown pre {
+    font-size: 14px;
+    background: #eee;
+    padding: 5px 10px;
+    border-radius: 4px;
+    overflow: auto;
+    margin-bottom: 15px;
+  }
+
+  .markdown .clickToZoom {
+    cursor: zoom-in;
+  }
+
+  .markdown hr{
+    border-top: 1px dashed #ddd;
+    border-bottom:none;
+    margin: 25px 0;
+  }
+  </style><script>
+    document.addEventListener('DOMContentLoaded', function contentLoaded() {
+      function setLinksTargetBlank(element) {
+        var links = element.getElementsByTagName('a');
+        for (var i = 0; i < links.length; i++) {
+          links[i].setAttribute('target', 'blank');
+        }
+      }
+
+      function render() {
+        var mdElements = document.querySelectorAll('.markdown');
+        for (var i = 0; i < mdElements.length; i++) {
+          var element = mdElements[i];
+          element.innerHTML = cavMarkdown.render(element.innerHTML);
+          setLinksTargetBlank(element);
+        }
+      }
+
+      render();
+    });
+  </script></head>
+  
+  
+  
+  <body class="None">
+   <div class="feedbackWrapper">
+    <div class="feedbackHeader">
+      Your average score is&nbsp;28.26 / 100
+    </div>
+    <div class="scroll">
+    <div class="feedbackBody" style="direction: ltr;">
+      
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("df640a6d-3355-443e-b5be-c7dc0626dfb5").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("df640a6d-3355-443e-b5be-c7dc0626dfb5_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("df640a6d-3355-443e-b5be-c7dc0626dfb5_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="df640a6d-3355-443e-b5be-c7dc0626dfb5" class="container">
+  <span class="questionNumber">1.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>what is the MAR documents in an inpatient record?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Medication Administration Route</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Medication Administration Recovery</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Medication Administration Reconciliation</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Medication Administration Record</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>0%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>The MAR stands for Medication Administration Record.<br>
+In the inpatient setting, the MAR is the document (often electronic) where nurses record every medication that is given to the patient.</p>
+<p>It shows:<br>
+•	What medication was given<br>
+•	When it was given (date and time)<br>
+•	How it was given (route, like oral or IV)<br>
+•	How much was given (dose)<br>
+•	Who gave it (nurse initials or electronic signature)</p>
+<p>The MAR helps ensure that patients receive the right medication, at the right time, in the right dose, and prevents medication errors.</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="df640a6d-3355-443e-b5be-c7dc0626dfb5_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="df640a6d-3355-443e-b5be-c7dc0626dfb5_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("646abe83-551c-4d62-b352-4d41e12a3dd0").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("646abe83-551c-4d62-b352-4d41e12a3dd0_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("646abe83-551c-4d62-b352-4d41e12a3dd0_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="646abe83-551c-4d62-b352-4d41e12a3dd0" class="container">
+  <span class="questionNumber">2.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>In order to be a valid entry into the inpatient medical record, what is required of the author?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Signature, date and time</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Signature and date</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Credentials, and date</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Credentials and time</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>100%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>For an entry to be considered valid in the inpatient medical record, it must meet accepted standards of medical documentation.<br>
+According to CMS documentation requirements (including the Medicare Program Integrity Manual, Ch. 3 and longstanding medical record standards):</p>
+<ol>
+<li>
+<p>Signature<br>
+The entry must be authenticated by the author with:<br>
+A handwritten signature,<br>
+Electronic signature, or<br>
+A legally acceptable attestation.</p>
+</li>
+<li>
+<p>Date<br>
+CMS requires that all medical record entries be dated to establish the sequence of care.</p>
+</li>
+<li>
+<p>Time<br>
+In inpatient records, especially in hospitals, the time of the entry is required for accurate clinical chronology and order validation (e.g., orders, progress notes, medication documentation).</p>
+</li>
+</ol>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="646abe83-551c-4d62-b352-4d41e12a3dd0_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="646abe83-551c-4d62-b352-4d41e12a3dd0_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("29bdbe06-27b3-4df0-9160-59275b1d3276").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("29bdbe06-27b3-4df0-9160-59275b1d3276_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("29bdbe06-27b3-4df0-9160-59275b1d3276_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="29bdbe06-27b3-4df0-9160-59275b1d3276" class="container">
+  <span class="questionNumber">3.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>What classification of drugs ends in the suffix -pril?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Anti-viral</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Beta Blocker</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>H2 antagonist</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>ACE inhibitor</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>0%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>The suffix – pril indicates the medication is an ace inhibitor.  The suffix for an antiviral is –vir.   Beta blockers end in –olol , while the suffix –itidine identifies an H2 antagonist.</p>
+<p>Reference:  http://www.pharmacy-tech-study.com/drugsuffix.html</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="29bdbe06-27b3-4df0-9160-59275b1d3276_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="29bdbe06-27b3-4df0-9160-59275b1d3276_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("9c3e402e-9de4-4639-8c21-841164389295").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("9c3e402e-9de4-4639-8c21-841164389295_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("9c3e402e-9de4-4639-8c21-841164389295_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="9c3e402e-9de4-4639-8c21-841164389295" class="container">
+  <span class="questionNumber">4.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>Which of the following diseases is a malignancy of the lymphatic system?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Cystic Fibrosis</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Martin-Bell Syndrome</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Hodgkin's disease</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Leukemia</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>0%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>The correct answer is Hodgkin's disease.  Hodgkin's disease is a type of lymphoma.  The first sign of Hodgkin's disease is often an enlarged lymph node. The disease can spread to nearby lymph nodes. Leukemia is a cancer of the blood cells usually affecting the white blood cells, while Cystic Fibrosis and Martin-Bell Syndrome are genetic disorders.</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="9c3e402e-9de4-4639-8c21-841164389295_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="9c3e402e-9de4-4639-8c21-841164389295_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("2962be7c-5ccd-48fb-9aae-a6b63f488217").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("2962be7c-5ccd-48fb-9aae-a6b63f488217_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("2962be7c-5ccd-48fb-9aae-a6b63f488217_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="2962be7c-5ccd-48fb-9aae-a6b63f488217" class="container">
+  <span class="questionNumber">5.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>Which procedure code describes this bedside procedure?</p>
+<p>Diagnosis: Hypotension with sepsis</p>
+<p>Consent: Emergent</p>
+<p>Procedure: Left femoral arterial line placement for infusion treatment with antibiotics and vasopressors.</p>
+<p>Description: The left groin was cleansed and draped in a sterile fashion. An 18 gauge needle was then advanced into the left femoral artery. Good blood flow was obtained. Using a Seldinger technique, a catheter was advanced over the wire into the left femoral artery. It was sewn in place with 2-0 silk. Good waveform was seen on the monitor. No immediate complications were noted with this procedure.</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>03HY03Z</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>04HL33Z</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>03HY33Z</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>04HY03Z</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>0%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>04HL33Z<br>
+In this procedure the physician punctures the femoral artery and threads a catheter into the femoral artery for infusion treatment with antibiotics and vasopressors. Even though a good waveform of arterial pressures was seen on the monitor, the intent of the procedure was to provide a device to infuse drugs. Therefore, assign character 3 for Infusion Device as the 6th character. This code is indexed to the root operation "Insertion." It is indexed - Medical Surgical Section - Lower Arteries - Insertion - Femoral Artery, Left - Percutaneous Approach - Infusion Device - No Qualifier.<br>
+Section(0)	Medical and Surgical<br>
+Body System(4)	Lower Arteries<br>
+Operation(H)	Insertion<br>
+Body Part(L)	Femoral Artery, Left<br>
+Approach(3)	Percutaneous<br>
+Device(3)	Infusion Device<br>
+Qualifier(Z)	No Qualifier</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="2962be7c-5ccd-48fb-9aae-a6b63f488217_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="2962be7c-5ccd-48fb-9aae-a6b63f488217_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("7bc61dd5-3b88-41e6-b49f-d95219387f95").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("7bc61dd5-3b88-41e6-b49f-d95219387f95_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("7bc61dd5-3b88-41e6-b49f-d95219387f95_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="7bc61dd5-3b88-41e6-b49f-d95219387f95" class="container">
+  <span class="questionNumber">6.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>What POA indicator would you use for the following scenario?</p>
+<p>A 45 year old female presents to the ER with shortness of breath, cough and a high fever.  The ER doctor gets a chest x-ray which indicates pneumonia so he admits the patient.  Shortly after admission the patient deteriorates and develops sepsis.  In his discharge summary the doctor indicates the patient’s diagnoses as sepsis secondary to pneumonia, organism unknown.  A query of the physician indicates it is unknown if the patient was septic prior to admission.  What POA indicator would you assign for sepsis?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Y</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>W</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>U</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>N</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>0%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>It is required by CMS that all hospitals submit the POA indicator for all primary and secondary diagnosis that are present upon admission to the hospital.  This POA indicator helps to determine reimbursement for existing conditions and helps track hospital acquired conditions.</p>
+<p>POA W means that the provider was unable to determine whether the condition was present on admission or not.</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="7bc61dd5-3b88-41e6-b49f-d95219387f95_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="7bc61dd5-3b88-41e6-b49f-d95219387f95_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("f07bcc1f-b129-4e07-b02b-66ccf0324280").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("f07bcc1f-b129-4e07-b02b-66ccf0324280_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("f07bcc1f-b129-4e07-b02b-66ccf0324280_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="f07bcc1f-b129-4e07-b02b-66ccf0324280" class="container">
+  <span class="questionNumber">7.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>A patient is admitted with neck pain following a collision with another softball player at a community baseball field. The diagnosis at the time of discharge is right internal carotid artery dissection likely secondary to trauma.  What diagnoses are coded for this injury?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>I72.0, W51.XXXA, Y93.64, Y92.320</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>I77.71, W51.XXXA, Y93.64, Y92.320</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>I77.71, W51.XXXA, Y93.64, Y92.328</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>I77.71</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>100%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>I77.71, W51.XXXA, Y93.64, Y92.320<br>
+Use code I77.71, Dissection of carotid artery to specify the site and type of injury. Also assign code W51.XXXA, Striking against or struck accidentally by another person, Y93.64, activity - softball, Y92.320 – place – baseball field. Follow ICD-10-CM Coding guideline II.H – “If the diagnosis documented at the time of discharge is qualified as “probable”; “suspected;” “questionable”, etc, code the condition as if it existed or was established. Becuase this is identified as likely secondary to trauma, code the appropriate external causes of injury codes.</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="f07bcc1f-b129-4e07-b02b-66ccf0324280_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="f07bcc1f-b129-4e07-b02b-66ccf0324280_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("35641e6e-b4ee-4dd9-baba-cddda6739bf0").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("35641e6e-b4ee-4dd9-baba-cddda6739bf0_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("35641e6e-b4ee-4dd9-baba-cddda6739bf0_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="35641e6e-b4ee-4dd9-baba-cddda6739bf0" class="container">
+  <span class="questionNumber">8.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>What is the correct CMS definition for POA indicator W?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Clinically undetermined. Provider unable to clinically determine whether the condition was present at the time of inpatient admission.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Documentation insufficient to determine if condition was present at the time of inpatient admission.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Exempt from POA Reporting.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Diagnosis was not present at time of admission.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>100%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>Clinically undetermined. Provider unable to clinically determine whether the condition was present at the time of inpatient admission.<br>
+It is required by CMS that all hospitals submit the POA indicator for all primary and secondary diagnosis that are present upon admission to the hospital. This POA indicator helps to determine reimbursement for existing conditions and helps track hospital acquired conditions.</p>
+<p>Resource:</p>
+<p>https://www.cms.gov/medicare/medicare-fee-for-service-payment/hospitalacqcond/coding</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="35641e6e-b4ee-4dd9-baba-cddda6739bf0_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="35641e6e-b4ee-4dd9-baba-cddda6739bf0_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("34d135a3-edb7-4635-aeb0-942bb944e4ff").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("34d135a3-edb7-4635-aeb0-942bb944e4ff_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("34d135a3-edb7-4635-aeb0-942bb944e4ff_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="34d135a3-edb7-4635-aeb0-942bb944e4ff" class="container">
+  <span class="questionNumber">9.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>A hospital utilization review committee is evaluating whether Condition Code 44 has been correctly applied when changing a patient’s status from inpatient to outpatient.</p>
+<p>Based on the attached Excerpt of Medicare Claims Processing Manual 50.3 - When an Inpatient Admission May Be Changed to Outpatient Status, which of the following statements is true?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Medicare will not pay for any Part B services furnished to an inpatient when Part A payment is denied for lack of medical necessity.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Condition Code 44 may be used after discharge when the UR committee determines the inpatient admission was not medically necessary.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Condition Code 44 can be used only if the physician changes the patient’s status before discharge, and it is reported on the outpatient claim.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Condition Code 44 may be applied based solely on the physician’s documentation without UR committee involvement.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>100%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>Correct answer: Condition Code 44 can be used only if the physician changes the patient’s status before discharge, and it is reported on the outpatient claim.</p>
+<p>Condition Code 44 is a Medicare specific rule used when a hospital decides that a patient who was initially admitted as an inpatient should actually be billed as an outpatient instead. For Condition Code 44 to be applied correctly, two things must happen before the patient leaves the hospital:</p>
+<ol>
+<li>The utilization review (UR) committee must agree that the inpatient admission was not medically necessary, and</li>
+<li>The physician responsible for the case must formally change the patient’s status to outpatient.<br>
+Because Medicare requires these steps to occur before discharge, Condition Code 44 cannot be used after the patient has gone home. Once the status is changed, the hospital must bill the stay as outpatient and report Condition Code 44 on the outpatient claim.</li>
+</ol>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="34d135a3-edb7-4635-aeb0-942bb944e4ff_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="34d135a3-edb7-4635-aeb0-942bb944e4ff_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("ea1c731d-6610-4041-a75e-31aba1ad44f1").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("ea1c731d-6610-4041-a75e-31aba1ad44f1_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("ea1c731d-6610-4041-a75e-31aba1ad44f1_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="ea1c731d-6610-4041-a75e-31aba1ad44f1" class="container">
+  <span class="questionNumber">10.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>A patient with end stage liver cancer is admitted to Hospice for end-of-life care. Which service would treatment be covered under?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Medicare Part D</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Medicare Part C</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Medicare Part B</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Medicare Part A</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>0%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>Medicare Part A generally covers: Hospital care, Skilled nursing facility care, Nursing home care (as long as custodial care isn't the only care you need), Hospice, and Home health services. Reference: http://www.medicare.gov/what-medicare-covers/part-a/what-part-a-covers.html.</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="ea1c731d-6610-4041-a75e-31aba1ad44f1_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="ea1c731d-6610-4041-a75e-31aba1ad44f1_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("56a1dace-7135-4daa-b8cd-7e7ea260795b").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("56a1dace-7135-4daa-b8cd-7e7ea260795b_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("56a1dace-7135-4daa-b8cd-7e7ea260795b_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="56a1dace-7135-4daa-b8cd-7e7ea260795b" class="container">
+  <span class="questionNumber">11.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>Under the OPPS, which term refers to an item that will not receive separate payment because it is considered an integral part of another service that is paid under the OPPS?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Combining</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Status Indicator</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Packaging/Bundling</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Non-covered service</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>0%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>Packaging and bundling are two critical features of the OPPS. Within each APC, payment for dependent, ancillary, supportive, and adjunctive items and services is packaged or bundled into payment for the primary independent service. Separate payments are not made for packaged or bundled services, which are considered an integral part of another service that is paid under the OPPS.</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="56a1dace-7135-4daa-b8cd-7e7ea260795b_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="56a1dace-7135-4daa-b8cd-7e7ea260795b_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("e15aaeb0-2ace-42e4-819f-bb4ba1206ea4").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("e15aaeb0-2ace-42e4-819f-bb4ba1206ea4_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("e15aaeb0-2ace-42e4-819f-bb4ba1206ea4_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="e15aaeb0-2ace-42e4-819f-bb4ba1206ea4" class="container">
+  <span class="questionNumber">12.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>Under APCs what does status indicator C indicate?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Significant procedure, discounted</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Significant procedure, non-discounted</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Ancillary service</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Inpatient only procedure</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>100%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>Under the APC system, a list of status indicators or payment indicators is assigned to every HCPCS /CPT® code. The indicators identify how a service is paid when covered by Medicare. The status indicator C identifies the service as an inpatient procedure; therefore, the service is not paid under the OPPS system.</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="e15aaeb0-2ace-42e4-819f-bb4ba1206ea4_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="e15aaeb0-2ace-42e4-819f-bb4ba1206ea4_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("ae637784-e75d-43b5-9adf-a1aee0a5e4df").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("ae637784-e75d-43b5-9adf-a1aee0a5e4df_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("ae637784-e75d-43b5-9adf-a1aee0a5e4df_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="ae637784-e75d-43b5-9adf-a1aee0a5e4df" class="container">
+  <span class="questionNumber">13.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>The minimum data set (MDS) is used by nursing facilities for which of the following purposes?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>As a tool to standardize assessments and management of care</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>To certify a skilled nursing facility (SNF) under Medicare</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>To test a healthcare providers skills prior to treating a patient</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>To report misuse of Medicare and Medicaid funds</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>100%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>The Minimum Data Set (MDS) is a standardized assessment tool used in nursing facilities (long-term care and skilled nursing facilities).<br>
+It helps staff evaluate:</p>
+<p>•	A resident’s physical and mental health<br>
+•	Their ability to perform daily activities<br>
+•	What care or services they need<br>
+•	How much assistance is required</p>
+<p>The MDS creates a consistent, structured way for facilities to assess patients so that care plans are accurate and individualized.<br>
+It also helps determine Medicare and Medicaid payment through the Patient-Driven Payment Model (PDPM).</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="ae637784-e75d-43b5-9adf-a1aee0a5e4df_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="ae637784-e75d-43b5-9adf-a1aee0a5e4df_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("a6ec1fc9-73ba-4d69-aeeb-9f1be79d8055").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("a6ec1fc9-73ba-4d69-aeeb-9f1be79d8055_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("a6ec1fc9-73ba-4d69-aeeb-9f1be79d8055_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="a6ec1fc9-73ba-4d69-aeeb-9f1be79d8055" class="container">
+  <span class="questionNumber">14.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>A 74 year-old Medicare patient is seen in the outpatient cardiac catheterization department of the hospital for atypical chest pain. The left heart catheterization reveals that the patient has 3-vessel coronary artery disease. The patient returns to the hospital two days later with a Non-STEMI and is taken to the operating room for a 3-vessel CABG.  Under what Medicare rule will the left heart catheterization technical component be bundled into the inpatient stay?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Readmission Reduction Program</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Hospital Issued Notices of Non-Coverage</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Three day payment window</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Two Midnight rule</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>0%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>According to CMS, Medicare’s 3-day payment window applies to outpatient services furnished by hospitals and hospitals’ wholly owned or wholly operated Part B entities who furnish services to Medicare beneficiaries. The statute requires that hospitals bundle the technical component of all outpatient diagnostic services and non-diagnostic services when furnished to a Medicare beneficiary in the 3 days preceding an inpatient admission.</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="a6ec1fc9-73ba-4d69-aeeb-9f1be79d8055_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="a6ec1fc9-73ba-4d69-aeeb-9f1be79d8055_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("2245524c-d694-405a-96b9-0d62692e8d14").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("2245524c-d694-405a-96b9-0d62692e8d14_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("2245524c-d694-405a-96b9-0d62692e8d14_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="2245524c-d694-405a-96b9-0d62692e8d14" class="container">
+  <span class="questionNumber">15.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>What is CoP and what does it have to do with hospitals?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Conditions of Procedure, a quality measure metric which hospitals are required to report to CMS</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Conditions of Participation that hospitals can follow and does not affect their participation in Medicare and Medicaid programs.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Conditions of Procedure, a flow chart report which hospitals are required to track for commercial payers</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Conditions of Participation which hospitals are required to follow in order to participate in Medicare and Medicaid programs.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>0%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>These are federal rules created by CMS that hospitals must follow if they want to be part of the Medicare and Medicaid programs.<br>
+They cover important areas like:</p>
+<p>Patient rights<br>
+Quality and safety standards<br>
+Nursing services<br>
+Medical record requirements<br>
+Infection control<br>
+Emergency services</p>
+<p>If a hospital does not meet the Conditions of Participation, it risks losing the ability to receive Medicare and Medicaid payment — which is critical for most hospitals.</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="2245524c-d694-405a-96b9-0d62692e8d14_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="2245524c-d694-405a-96b9-0d62692e8d14_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("73865d1a-983c-4723-8ccf-4ad74461a8d4").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("73865d1a-983c-4723-8ccf-4ad74461a8d4_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("73865d1a-983c-4723-8ccf-4ad74461a8d4_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="73865d1a-983c-4723-8ccf-4ad74461a8d4" class="container">
+  <span class="questionNumber">16.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>If a patient is admitted for surgery, when does The Joint Commission require that a history and physical be available for review in the patient's medical record?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>No more than 30 days after surgery, or within 24 hours after admission, but, prior to the surgery.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Within 7 days after the surgery.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>No more than 30 days prior to  surgery, or within 24 hours after admission, but, prior to the surgery.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Within 30 days after the surgery.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>100%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>The Joint Commission's Standard RC.02.01.03 states that the patient's medical history and physical is recorded in the medical record within 30 days prior to inpatient admission or within 24 hours after admission but prior to surgery. An update is required within 24 hours after the patient physically arrives for admission/registration but prior to surgery or a procedure requiring anesthesia services when the H&amp;P is over 24 hours old.</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="73865d1a-983c-4723-8ccf-4ad74461a8d4_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="73865d1a-983c-4723-8ccf-4ad74461a8d4_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("ba1a2a3c-bd2e-4f02-b561-f2a82d5ccfb7").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("ba1a2a3c-bd2e-4f02-b561-f2a82d5ccfb7_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("ba1a2a3c-bd2e-4f02-b561-f2a82d5ccfb7_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="ba1a2a3c-bd2e-4f02-b561-f2a82d5ccfb7" class="container">
+  <span class="questionNumber">17.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>The inpatient admission certification form must be signed by whom?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>The Nurse Practitioner (NP) acting as the family physician</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>The Physician Assistant (PA) working as the Hospitalist</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>The admitting or attending physician</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>A consulting specialist</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Any of the above</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>0%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>Authorization to sign the certification: The certification or recertification may be signed only by one of the following:</p>
+<p>(1) A physician who is a doctor of medicine or osteopathy.<br>
+(2) A dentist in the circumstances specified in 42 CFR 424.13(d).<br>
+(3) A doctor of podiatric medicine if his or her certification is consistent with the functions he or she is authorized to perform under state law.</p>
+<p>Certifications and re-certifications must be signed by the physician responsible for the case, or by another physician who has knowledge of the case and who is authorized to do so by the responsible physician or by the hospital’s medical staff (or by the dentist as provided in 42 CFR 424.11). Medicare considers only the following physicians, podiatrists or dentists to have sufficient knowledge of the case to serve as the certifying physician: the admitting physician of record (“attending”) or a physician on call for him or her; a surgeon responsible for a major surgical procedure on the beneficiary or a surgeon on call for him or her; a dentist functioning as the admitting physician of record or as the surgeon responsible for a major dental procedure; and, in the specific case of a non-physician non-dentist admitting practitioner who is licensed by the state and has been granted privileges by the facility, a physician member of the hospital staff (such as a physician member of the utilization review committee) who has reviewed the case and who also enters into the record a complete certification statement that specifically contains all of the content elements discussed above. The admitting physician of record may be an emergency department physician or hospitalist. Medicare does not require the certifying physician to have inpatient admission privileges at the hospital.</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="ba1a2a3c-bd2e-4f02-b561-f2a82d5ccfb7_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="ba1a2a3c-bd2e-4f02-b561-f2a82d5ccfb7_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("9c1bbe29-284a-45a5-aad3-c9111efa8d3e").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("9c1bbe29-284a-45a5-aad3-c9111efa8d3e_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("9c1bbe29-284a-45a5-aad3-c9111efa8d3e_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="9c1bbe29-284a-45a5-aad3-c9111efa8d3e" class="container">
+  <span class="questionNumber">18.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>Your hospital uses an EHR for all documentation of all services, including coding and billing.  Your town is hit with a tornado and your hospital is badly damaged including the servers, network connections and computers.  How do you provide medical records for patients transferred to other facilities for their care?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>You wait until your server has dried out and been restored then send the records later</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Fill out downtime forms with patient information</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>You obtain copies from your disaster recovery server</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>You don’t need to, the receiving hospital will create their own record</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>0%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>You obtain copies from your disaster recovery server<br>
+Because HIPAA requires records to be secure and protected you have to have a downtime process in place for facilities with EHR’s and you have a disaster recovery plan in place.  This may include a disaster recovery company that houses your data and provides you with backup equipment in times of a disaster or you have off-site storage to get copies of needed medical information.</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="9c1bbe29-284a-45a5-aad3-c9111efa8d3e_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="9c1bbe29-284a-45a5-aad3-c9111efa8d3e_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("5efd603c-44f5-446f-85d1-0b1c8b484054").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("5efd603c-44f5-446f-85d1-0b1c8b484054_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("5efd603c-44f5-446f-85d1-0b1c8b484054_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="5efd603c-44f5-446f-85d1-0b1c8b484054" class="container">
+  <span class="questionNumber">19.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>An external audit notes a trend of incorrectly coding cardiac catheterization procedures.  After the auditor issues a report, what are the next steps the coding department should take?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>None.  Once the report is issued, the work is complete.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Review the results with coding staff along with the auditor’s recommendations</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Review results with staff and educate as needed; correct and rebill claims as allowed; continue to monitor for improvement.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Implement recommended changes immediately.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>100%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>After an external audit identifies coding errors—such as incorrect cardiac catheterization coding—the appropriate post-audit workflow must follow standard coding compliance and revenue integrity processes. These steps ensure correction of past errors, prevention of future recurrence, and compliance with CMS requirements.<br>
+The correct next steps include:</p>
+<ol>
+<li>Review Findings With Coding Staff<br>
+Auditors' results should be shared with coders to explain:<br>
+•	What was coded incorrectly<br>
+•	Why it was incorrect<br>
+•	What the correct reporting should have been<br>
+This aligns with best practices outlined by AHIMA and OIG compliance guidance.</li>
+<li>Provide Education and Corrective Action<br>
+Coding education and focused training help prevent recurrence.<br>
+Both AHIMA and OIG Compliance Program Guidance emphasize education after audit findings.</li>
+<li>Correct and Rebill Claims (If Allowed)<br>
+If the audit reveals that incorrect coding resulted in inaccurate claims, the facility must:<br>
+•	Correct claims when permissible<br>
+•	Submit corrected bills or rebills per CMS guidelines (e.g., timely filing, Medicare reopening rules under 42 CFR §405.980)</li>
+<li>Continue Monitoring<br>
+Ongoing monitoring is required to confirm:<br>
+•	Corrective actions were effective<br>
+•	Error trends are decreasing<br>
+This supports a functional internal compliance program, as recommended by OIG.<br>
+Why the Other Options Are Incorrect<br>
+•	“None. Once the report is issued, the work is complete.”<br>
+Incorrect—audits require follow-up actions and corrective measures.<br>
+•	“Implement recommended changes immediately.”<br>
+Too narrow. Implementation without education, claim correction, or monitoring is incomplete.<br>
+•	“Review the results with coding staff along with the auditor’s recommendations.”<br>
+Incomplete. This step is necessary, but does not include education, claim correction, or monitoring—all required in a compliant post-audit process.</li>
+</ol>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="5efd603c-44f5-446f-85d1-0b1c8b484054_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="5efd603c-44f5-446f-85d1-0b1c8b484054_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("f302c195-c69f-43ec-aa4d-9f7bfd007ce7").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("f302c195-c69f-43ec-aa4d-9f7bfd007ce7_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("f302c195-c69f-43ec-aa4d-9f7bfd007ce7_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="f302c195-c69f-43ec-aa4d-9f7bfd007ce7" class="container">
+  <span class="questionNumber">20.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>Which of the following describes conduct that may constitute a violation of the False Claims Act?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Filing a claim that contains an honest error despite reasonable review.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Submitting a claim with no intent to verify information but assuming it is correct.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Deliberate ignorance of whether the information on a claim is true or false.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Unknowingly submitting incorrect information on a claim.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>0%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>Correct Answer: Deliberate ignorance of whether the information on a claim is true or false<br>
+Feedback/Rationale<br>
+Under the False Claims Act (31 U.S.C. §3729), the term “knowingly” includes three types of conduct:</p>
+<ol>
+<li>Actual knowledge of falsity</li>
+<li>Deliberate ignorance of the truth or falsity</li>
+<li>Reckless disregard of the truth or falsity<br>
+This means the FCA does not require intent to defraud—the government only needs to show one of the three levels of knowledge.<br>
+•	Deliberate ignorance is explicitly included in the FCA’s definition of “knowingly.”<br>
+•	It is considered a form of willful blindness and is actionable under the statute.</li>
+</ol>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="f302c195-c69f-43ec-aa4d-9f7bfd007ce7_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="f302c195-c69f-43ec-aa4d-9f7bfd007ce7_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("fcee581a-a0f1-4fa7-b00d-0d669507cb05").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("fcee581a-a0f1-4fa7-b00d-0d669507cb05_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("fcee581a-a0f1-4fa7-b00d-0d669507cb05_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="fcee581a-a0f1-4fa7-b00d-0d669507cb05" class="container">
+  <span class="questionNumber">21.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>Which of the following describes a violation of HIPAA's privacy rule?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>The doctor’s office calling central scheduling to schedule Mr. Tom’s tendon release.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>The attending physician asking the nurse to give Mr. Brown his pain medication.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>A nurse and an orderly at a state hospital discussed the HIV/AIDS status of a patient in earshot of other patients.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>The hospital receptionist stating, "Yes Ms. Roland is in room 511 B. I will transfer you."</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>100%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>nurse and an orderly at a state hospital discussed the HIV/AIDS status of a patient in earshot of other patients.<br>
+Discussing a patient's diagnosis or any information in public areas is considered a violation of the Privacy Rule. https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/permitted-uses/index.html</p>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="fcee581a-a0f1-4fa7-b00d-0d669507cb05_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="fcee581a-a0f1-4fa7-b00d-0d669507cb05_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("63521b93-b436-44b9-9668-b3a7ce877ae2").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("63521b93-b436-44b9-9668-b3a7ce877ae2_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("63521b93-b436-44b9-9668-b3a7ce877ae2_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="63521b93-b436-44b9-9668-b3a7ce877ae2" class="container">
+  <span class="questionNumber">22.</span>
+  <div>
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>Which of the following actions may a Medicare Administrative Contractor (MAC) impose as a result of a complex medical review?</p>
+</div>
+    </div>
+    <div>
+      <div class="subrow lessPadding">
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Response</small>
+        <small class="toggleFeedback">Feedback</small>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Initiating criminal litigation against the provider.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Suspending the provider from Medicare without further review.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box"></div>
+          
+          <span class="markdown"><p>Referring the provider for federal prosecution.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box"></div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div style="display: flex;">
+          
+          <div class="box checked">✓</div>
+          
+          <span class="markdown"><p>Issuing provider education, notification, or feedback.</p>
+</span>
+        </div>
+        <div class="toggleCorrect">
+            
+            <div class="box checked">✓</div>
+            
+        </div>
+        <div class="toggleFeedback">
+          
+          <span class="markdown"></span>
+          
+        </div>
+      </div>
+      
+    </div>
+    <div class="row">
+      <small>Score</small>
+      <div>100%</div>
+    </div>
+    <div class="row toggleFeedback" style="border-top: 1px solid rgb(240, 240, 240);">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>Correct Answer:  Issuing provider education, notification, or feedback<br>
+Feedback/Rationale<br>
+Following a complex medical review, a MAC may take administrative actions based on the findings. Provider notification/education is a standard, allowable MAC corrective action and is directly tied to complex medical review results.<br>
+Common corrective actions include:</p>
+<ol>
+<li>
+<p>Provider notification / education / feedback<br>
+MACs routinely issue:<br>
+•	Review results<br>
+•	Education on documentation/coding<br>
+•	Corrective action feedback<br>
+(Part of MAC medical review process per CMS Program Integrity Manual, Ch. 3.)</p>
+</li>
+<li>
+<p>Prepayment or post payment review<br>
+MACs may place the provider on targeted reviews if error trends persist.</p>
+</li>
+<li>
+<p>Time<br>
+In inpatient records, especially in hospitals, the time of the entry is required for accurate clinical chronology and order validation (e.g., orders, progress notes, medication documentation).</p>
+</li>
+</ol>
+</div>
+      
+    </div>
+  </div>
+  <div>
+    <button class="prettyButton None " id="63521b93-b436-44b9-9668-b3a7ce877ae2_toggleCorrectBtn" style="background-color: #5384A3">
+      <span class="toggleCorrect notVisible">Show Correct Answer</span>
+      <span class="toggleCorrect">Hide Correct Answer</span>
+    </button>
+    <button class="prettyButton None" id="63521b93-b436-44b9-9668-b3a7ce877ae2_toggleFeedbackBtn" style="background-color: #5384A3">
+      <span class="toggleFeedback notVisible">Show Feedback</span>
+      <span class="toggleFeedback">Hide Feedback</span>
+    </button>
+  </div>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("f443f5a3-9783-4685-b988-dc670a9a986a").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("f443f5a3-9783-4685-b988-dc670a9a986a_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("f443f5a3-9783-4685-b988-dc670a9a986a_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="f443f5a3-9783-4685-b988-dc670a9a986a" class="container">
+  <span class="questionNumber">23.</span>
+  <div>
+
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>Report the diagnosis codes in the proper sequence according to UHDDS and Official Coding Guidelines.</p>
+<p>What is the principal diagnoses?</p>
+<p>[Blank 1]</p>
+<p>What additional diagnosis code is reported? (For this case, one additional ICD-10-CM code is required)</p>
+<p>[Blank 2]<br>
+Report the ICD-10-PCS procedure codes according to UHDDS and Official Coding Guidelines.</p>
+<p>What ICD-10-PCS coding is reported for this case? (For this case, two ICD-10-PCS codes are required)</p>
+<p>[Blank 3] [Blank 4]</p>
+</div>
+    </div>
+
+    <div>
+      <div class="subrow lessPadding">
+        <small>Question</small>
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Responses</small>
+      </div>
+      
+      <div class="subrow">
+        <div>Blank 1</div>
+        <div>K43.0</div>
+        <div class="toggleCorrect">
+          <ul>
+            
+            <li class="markdown"><p>K43.2</p>
+</li>
+            
+            <li class="markdown"><p>K432</p>
+</li>
+            
+          </ul>
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div>Blank 2</div>
+        <div>K56.50</div>
+        <div class="toggleCorrect">
+          <ul>
+            
+            <li class="markdown"><p>K66.0</p>
+</li>
+            
+            <li class="markdown"><p>K660</p>
+</li>
+            
+          </ul>
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div>Blank 3</div>
+        <div>0DQ80ZZ</div>
+        <div class="toggleCorrect">
+          <ul>
+            
+            <li class="markdown"><p>0WUF0JZ</p>
+</li>
+            
+            <li class="markdown"><p>0DN80ZZ</p>
+</li>
+            
+          </ul>
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div>Blank 4</div>
+        <div>0WQFXZ2</div>
+        <div class="toggleCorrect">
+          <ul>
+            
+            <li class="markdown"><p>0WUF0JZ</p>
+</li>
+            
+            <li class="markdown"><p>0DN80ZZ</p>
+</li>
+            
+          </ul>
+        </div>
+      </div>
+      
+    </div>
+
+    <div class="row">
+      <small>Score</small>
+      <div>0%</div>
+    </div>
+
+    <div class="toggleCorrect  row">
+      <small>Correct Response</small>
+      <div class="markdown"></div>
+    </div>
+
+    <div class="toggleFeedback  row">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>PATIENT: SMITH, TERLESA</p>
+<p>AGE: 34 Y SEX: FEMALE</p>
+<p>DATE OF OPERATION: 5/08/20XX</p>
+<p>PREOPERATIVE DIAGNOSIS: INCISIONAL HERNIA OF SMALL BOWEL AT SITE OF PREVIOUS COLOSTOMY, NO RESIDUAL COMPLICATIONS</p>
+<p>PROCEDURES: EXPLORATORY LAPAROTOMY, AND REPAIR INCISIONAL PARACOLOSTOMY HERNIA WITH MESH.</p>
+<p>POSTOPERATIVE DIAGNOSIS: INCISIONAL HERNIA OF SMALL BOWEL AT SITE OF PREVIOUS COLOSTOMY, NO RESIDUAL COMPLICATIONS</p>
+<p>SURGEON: EVELYN JONES, M.D.</p>
+<p>ANESTHESIA: GENERAL, ENDOTRACHEAL.</p>
+<p>ANESTHESIOLOGIST: RICK THOMPSON, M.D.</p>
+<p>ESTIMATE BLOOD LOSS: APPROXIMATELY 50 ML.</p>
+<p>IV FLUIDS: 1200 ML CRYSTALLOID.</p>
+<p>URINE OUTPUT: 250 ML.</p>
+<p>COMPLICATIONS: NONE.</p>
+<p>FINDINGS: Incisional hernia containing multiple small bowel loops. Multiple adhesions of the small bowel.</p>
+<p>PROCEDURE: The patient was taken to the operating room and laid down supine on the OR table. General anesthesia was initiated by way of endotracheal intubation. The area over the abdomen was scrubbed, prepped and draped in the usual sterile surgical fashion.</p>
+<p>A previous scar mark was then used to make an incision over midline abdomen. The incision was carried down through the subcutaneous tissue using electrocautery while establishing simultaneous hemostasis. Then a rigid portion of the belly was opened up in the midline fascia and this was used to extend down towards until we could visualize all the adhesions to the small bowel which were taken down sharply with Metzenbaum scissors.</p>
+<p>Once extensive lysis of adhesions was done we could see the hernia containing small bowel loops in the hernia site which was reduced. The defect was visualized and the posterior rectus sheath was then detached on the medial edge and flaps were then developed both from each medial edge laterally. Once adequate flaps were developed, a Prolene mesh was then used and placed superficial to the posterior rectus sheath and deep to the rectus muscle. An aperture was fashioned in the mesh using a key hole incision.</p>
+<p>The posterior rectus sheath was then closed using a continuous 2-0 Vicryl suture. The anterior rectus sheath was then closed with multiple interrupted figure-of-eight 1-Prolene sutures. Irrigation and aspiration were carried out. JP drains were placed and brought through a separate stab wound incision from the wound. Multiple skin staples were used. The wound was dressed and sterile dressings were applied on top.</p>
+<p>The patient was extubated and transferred to PACU in stable condition. All instrument, sponge, and needle counts were correct and verified x 2 at the end of the operation.</p>
+<p>EVELYN JONES, M.D.</p>
+<p>Electronically signed by EVELYN JONES, MD 5/8/20XX</p>
+<p>Using the documentation provided, determine the applicable diagnosis codes and procedure codes when procedures are performed. Make sure to sequence the principal diagnosis first when reporting the diagnosis codes.</p>
+<p>RATIONALE:<br>
+Principal Diagnosis: K43.2<br>
+Additional Diagnosis:  K66.0<br>
+Procedures:  0WUF0JZ, 0DN80ZZ</p>
+<p>The patient was admitted with an incisional hernia around the colostomy site. Therefore, the admitting and principal diagnosis are the same, K43.2. Adhesions were noted in the small bowel and documented as extensive requiring lysis.  Therefore, K66.0 is added as an additional diagnosis.</p>
+<p>The hernia repair was done with mesh and with lysis of abdominal adhesions to the small bowel, the codes are; 0WUF0JZ, 0DN80ZZ</p>
+<p>Mesh Repair of Hernia<br>
+Section (0)              Medical and Surgical<br>
+Body System (W)     Anatomical Regions, General<br>
+Root Operation (U)   Supplemental<br>
+Body Part (F)           Abdominal Wall<br>
+Approach (0)           Open<br>
+Device (J)                Synthetic Substitute<br>
+Qualifier (Z)             No Qualifier</p>
+<p>Release of Adhesions<br>
+Section (0)              Medical And Surgical<br>
+Body System (D)      Gastrointestinal System<br>
+Root Operation (N)   Release<br>
+Body Part (8)           Small Intestine<br>
+Approach (0)           Open<br>
+Device (Z)               No Device<br>
+Qualifier (Z)             No Qualifier</p>
+</div>
+      
+    </div>
+
+  </div>
+  <button class="prettyButton None " id="f443f5a3-9783-4685-b988-dc670a9a986a_toggleCorrectBtn" style="background-color: #5384A3">
+    <span class="toggleCorrect notVisible">Show Correct Answer</span>
+    <span class="toggleCorrect">Hide Correct Answer</span>
+  </button>
+  <button class="prettyButton None" id="f443f5a3-9783-4685-b988-dc670a9a986a_toggleFeedbackBtn" style="background-color: #5384A3">
+    <span class="toggleFeedback notVisible">Show Feedback</span>
+    <span class="toggleFeedback">Hide Feedback</span>
+  </button>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("eef53925-92f5-4a6e-8e0e-4b3e2228667c").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("eef53925-92f5-4a6e-8e0e-4b3e2228667c_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("eef53925-92f5-4a6e-8e0e-4b3e2228667c_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="eef53925-92f5-4a6e-8e0e-4b3e2228667c" class="container">
+  <span class="questionNumber">24.</span>
+  <div>
+
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>Report the diagnosis codes in the proper sequence according to UHDDS and Official Coding Guidelines.</p>
+<p>What is the principal diagnoses?</p>
+<p>[Blank 1]</p>
+<p>What additional diagnosis codes are reported? (For this case, 14 additional ICD-10-CM codes are required)</p>
+<p>[Blank 2] [Blank 3] [Blank 4] [Blank 5] [Blank 6] [Blank 7] [Blank 8] [Blank 9] [Blank 10] [Blank 11] [Blank 12] [Blank 13] [Blank 14] [Blank 15]</p>
+</div>
+    </div>
+
+    <div>
+      <div class="subrow lessPadding">
+        <small>Question</small>
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Responses</small>
+      </div>
+      
+      <div class="subrow">
+        <div>Blank 1</div>
+        <div>J44.1</div>
+        <div class="toggleCorrect">
+          <ul>
+            
+            <li class="markdown"><p>J44.1</p>
+</li>
+            
+            <li class="markdown"><p>J441</p>
+</li>
+            
+          </ul>
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div>Blank 2</div>
+        <div>I71.40</div>
+        <div class="toggleCorrect">
+          <ul>
+            
+            <li class="markdown"><p>I71.43</p>
+</li>
+            
+            <li class="markdown"><p>I50.32</p>
+</li>
+            
+            <li class="markdown"><p>N18.6</p>
+</li>
+            
+            <li class="markdown"><p>Z99.2</p>
+</li>
+            
+            <li class="markdown"><p>I25.10</p>
+</li>
+            
+            <li class="markdown"><p>I25.2</p>
+</li>
+            
+            <li class="markdown"><p>I48.20</p>
+</li>
+            
+            <li class="markdown"><p>E78.5</p>
+</li>
+            
+            <li class="markdown"><p>I72.3</p>
+</li>
+            
+            <li class="markdown"><p>Z95.810</p>
+</li>
+            
+            <li class="markdown"><p>Z91.199</p>
+</li>
+            
+            <li class="markdown"><p>M1A.9XX0</p>
+</li>
+            
+            <li class="markdown"><p>Z79.01</p>
+</li>
+            
+            <li class="markdown"><p>Z87.891</p>
+</li>
+            
+            <li class="markdown"><p>I7143</p>
+</li>
+            
+            <li class="markdown"><p>I5032</p>
+</li>
+            
+            <li class="markdown"><p>N186</p>
+</li>
+            
+            <li class="markdown"><p>Z992</p>
+</li>
+            
+            <li class="markdown"><p>I2510</p>
+</li>
+            
+            <li class="markdown"><p>I252</p>
+</li>
+            
+            <li class="markdown"><p>I4820</p>
+</li>
+            
+            <li class="markdown"><p>E785</p>
+</li>
+            
+            <li class="markdown"><p>I723</p>
+</li>
+            
+            <li class="markdown"><p>Z95810</p>
+</li>
+            
+            <li class="markdown"><p>Z91199</p>
+</li>
+            
+            <li class="markdown"><p>M1A9XX0</p>
+</li>
+            
+            <li class="markdown"><p>Z7901</p>
+</li>
+            
+            <li class="markdown"><p>Z87891</p>
+</li>
+            
+          </ul>
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div>Blank 3</div>
+        <div>Z91.19</div>
+        <div class="toggleCorrect">
+          <ul>
+            
+            <li class="markdown"><p>I71.43</p>
+</li>
+            
+            <li class="markdown"><p>I50.32</p>
+</li>
+            
+            <li class="markdown"><p>N18.6</p>
+</li>
+            
+            <li class="markdown"><p>Z99.2</p>
+</li>
+            
+            <li class="markdown"><p>I25.10</p>
+</li>
+            
+            <li class="markdown"><p>I25.2</p>
+</li>
+            
+            <li class="markdown"><p>I48.20</p>
+</li>
+            
+            <li class="markdown"><p>E78.5</p>
+</li>
+            
+            <li class="markdown"><p>I72.3</p>
+</li>
+            
+            <li class="markdown"><p>Z95.810</p>
+</li>
+            
+            <li class="markdown"><p>Z91.199</p>
+</li>
+            
+            <li class="markdown"><p>M1A.9XX0</p>
+</li>
+            
+            <li class="markdown"><p>Z79.01</p>
+</li>
+            
+            <li class="markdown"><p>Z87.891</p>
+</li>
+            
+            <li class="markdown"><p>I7143</p>
+</li>
+            
+            <li class="markdown"><p>I5032</p>
+</li>
+            
+            <li class="markdown"><p>N186</p>
+</li>
+            
+            <li class="markdown"><p>Z992</p>
+</li>
+            
+            <li class="markdown"><p>I2510</p>
+</li>
+            
+            <li class="markdown"><p>I252</p>
+</li>
+            
+            <li class="markdown"><p>I4820</p>
+</li>
+            
+            <li class="markdown"><p>E785</p>
+</li>
+            
+            <li class="markdown"><p>I723</p>
+</li>
+            
+            <li class="markdown"><p>Z95810</p>
+</li>
+            
+            <li class="markdown"><p>Z91199</p>
+</li>
+            
+            <li class="markdown"><p>M1A9XX0</p>
+</li>
+            
+            <li class="markdown"><p>Z7901</p>
+</li>
+            
+            <li class="markdown"><p>Z87891</p>
+</li>
+            
+          </ul>
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div>Blank 4</div>
+        <div>I87.8</div>
+        <div class="toggleCorrect">
+          <ul>
+            
+            <li class="markdown"><p>I71.43</p>
+</li>
+            
+            <li class="markdown"><p>I50.32</p>
+</li>
+            
+            <li class="markdown"><p>N18.6</p>
+</li>
+            
+            <li class="markdown"><p>Z99.2</p>
+</li>
+            
+            <li class="markdown"><p>I25.10</p>
+</li>
+            
+            <li class="markdown"><p>I25.2</p>
+</li>
+            
+            <li class="markdown"><p>I48.20</p>
+</li>
+            
+            <li class="markdown"><p>E78.5</p>
+</li>
+            
+            <li class="markdown"><p>I72.3</p>
+</li>
+            
+            <li class="markdown"><p>Z95.810</p>
+</li>
+            
+            <li class="markdown"><p>Z91.199</p>
+</li>
+            
+            <li class="markdown"><p>M1A.9XX0</p>
+</li>
+            
+            <li class="markdown"><p>Z79.01</p>
+</li>
+            
+            <li class="markdown"><p>Z87.891</p>
+</li>
+            
+            <li class="markdown"><p>J44.1</p>
+</li>
+            
+            <li class="markdown"><p>I7143</p>
+</li>
+            
+            <li class="markdown"><p>I5032</p>
+</li>
+            
+            <li class="markdown"><p>N186</p>
+</li>
+            
+            <li class="markdown"><p>Z992</p>
+</li>
+            
+            <li class="markdown"><p>I2510</p>
+</li>
+            
+            <li class="markdown"><p>I252</p>
+</li>
+            
+            <li class="markdown"><p>I4820</p>
+</li>
+            
+            <li class="markdown"><p>E785</p>
+</li>
+            
+            <li class="markdown"><p>I723</p>
+</li>
+            
+            <li class="markdown"><p>Z95810</p>
+</li>
+            
+            <li class="markdown"><p>Z91199</p>
+</li>
+            
+            <li class="markdown"><p>M1A9XX0</p>
+</li>
+            
+            <li class="markdown"><p>Z7901</p>
+</li>
+            
+            <li class="markdown"><p>Z87891</p>
+</li>
+            
+            <li class="markdown"><p>J441</p>
+</li>
+            
+          </ul>
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div>Blank 5</div>
+        <div>M79.81</div>
+        <div class="toggleCorrect">
+          <ul>
+            
+            <li class="markdown"><p>I71.43</p>
+</li>
+            
+            <li class="markdown"><p>I50.32</p>
+</li>
+            
+            <li class="markdown"><p>N18.6</p>
+</li>
+            
+            <li class="markdown"><p>Z99.2</p>
+</li>
+            
+            <li class="markdown"><p>I25.10</p>
+</li>
+            
+            <li class="markdown"><p>I25.2</p>
+</li>
+            
+            <li class="markdown"><p>I48.20</p>
+</li>
+            
+            <li class="markdown"><p>E78.5</p>
+</li>
+            
+            <li class="markdown"><p>I72.3</p>
+</li>
+            
+            <li class="markdown"><p>Z95.810</p>
+</li>
+            
+            <li class="markdown"><p>Z91.199</p>
+</li>
+            
+            <li class="markdown"><p>M1A.9XX0</p>
+</li>
+            
+            <li class="markdown"><p>Z79.01</p>
+</li>
+            
+            <li class="markdown"><p>Z87.891</p>
+</li>
+            
+            <li class="markdown"><p>I7143</p>
+</li>
+            
+            <li class="markdown"><p>I5032</p>
+</li>
+            
+            <li class="markdown"><p>N186</p>
+</li>
+            
+            <li class="markdown"><p>Z992</p>
+</li>
+            
+            <li class="markdown"><p>I2510</p>
+</li>
+            
+            <li class="markdown"><p>I252</p>
+</li>
+            
+            <li class="markdown"><p>I4820</p>
+</li>
+            
+            <li class="markdown"><p>E785</p>
+</li>
+            
+            <li class="markdown"><p>I723</p>
+</li>
+            
+            <li class="markdown"><p>Z95810</p>
+</li>
+            
+            <li class="markdown"><p>Z91199</p>
+</li>
+            
+            <li class="markdown"><p>M1A9XX0</p>
+</li>
+            
+            <li class="markdown"><p>Z7901</p>
+</li>
+            
+            <li class="markdown"><p>Z87891</p>
+</li>
+            
+          </ul>
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div>Blank 6</div>
+        <div>Z99.2</div>
+        <div class="toggleCorrect">
+          <ul>
+            
+            <li class="markdown"><p>I71.43</p>
+</li>
+            
+            <li class="markdown"><p>I50.32</p>
+</li>
+            
+            <li class="markdown"><p>N18.6</p>
+</li>
+            
+            <li class="markdown"><p>Z99.2</p>
+</li>
+            
+            <li class="markdown"><p>I25.10</p>
+</li>
+            
+            <li class="markdown"><p>I25.2</p>
+</li>
+            
+            <li class="markdown"><p>I48.20</p>
+</li>
+            
+            <li class="markdown"><p>E78.5</p>
+</li>
+            
+            <li class="markdown"><p>I72.3</p>
+</li>
+            
+            <li class="markdown"><p>Z95.810</p>
+</li>
+            
+            <li class="markdown"><p>Z91.199</p>
+</li>
+            
+            <li class="markdown"><p>M1A.9XX0</p>
+</li>
+            
+            <li class="markdown"><p>Z79.01</p>
+</li>
+            
+            <li class="markdown"><p>Z87.891</p>
+</li>
+            
+            <li class="markdown"><p>I7143</p>
+</li>
+            
+            <li class="markdown"><p>I5032</p>
+</li>
+            
+            <li class="markdown"><p>N186</p>
+</li>
+            
+            <li class="markdown"><p>Z992</p>
+</li>
+            
+            <li class="markdown"><p>I2510</p>
+</li>
+            
+            <li class="markdown"><p>I252</p>
+</li>
+            
+            <li class="markdown"><p>I4820</p>
+</li>
+            
+            <li class="markdown"><p>E785</p>
+</li>
+            
+            <li class="markdown"><p>I723</p>
+</li>
+            
+            <li class="markdown"><p>Z95810</p>
+</li>
+            
+            <li class="markdown"><p>Z91199</p>
+</li>
+            
+            <li class="markdown"><p>Z7901</p>
+</li>
+            
+            <li class="markdown"><p>Z87891</p>
+</li>
+            
+            <li class="markdown"><p>M1A9XX0</p>
+</li>
+            
+          </ul>
+        </div>
+      </div>
+      
+    </div>
+
+    <div class="row">
+      <small>Score</small>
+      <div>13%</div>
+    </div>
+
+    <div class="toggleCorrect  row">
+      <small>Correct Response</small>
+      <div class="markdown"></div>
+    </div>
+
+    <div class="toggleFeedback  row">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>Inpatient admission<br>
+Craig Smith<br>
+DOB: 5/16/1939<br>
+DOS: 6/18/20XX</p>
+<p>REASON FOR ADMISSION: Exacerbation of COPD.</p>
+<p>HISTORY OF PRESENT ILLNESS: The patient is a 74-year-old male who comes in tonight complaining of progressive shortness of breath over the past 4 days. He had upper respiratory tract symptoms a week ago with nasal discharge and cold-like symptoms. It progressed to shortness of breath over the past 4 days. I was called by a family member of his earlier tonight, and I advised him to come to the Emergency Department, which he did. In the ED, he was wheezy and had oxygen saturation of 92%. He received a nebulizer treatment. A chest x-ray was done, which I reviewed myself; it showed no evidence of infiltrates. He had a large heart. The patient was admitted to the 6th floor. I proceeded by doing ABGs on him. His pH was 7.46, pCO2 94, and bicarb 33.5 on 2 liters per nasal cannula.</p>
+<p>The patient had some cough with clear phlegm. No fever or chills now. He had some chills a week ago. The patient recently had an angiogram for his abdominal aortic aneurysm. He also had a stress test that apparently was positive for coronary artery disease (CAD). The patient is known to have chronic renal failure with a baseline creatinine of 2 to 2.2 with creatinine clearance of 32 mL per minute with a serum creatinine of 2.0 back in December. He does have severe congestive heart failure with ejection fraction less than 20%. The patient does admit that he has not been performing his nebulizer treatments as prescribed.</p>
+<p>PAST MEDICAL HISTORY:<br>
+1 - Chronic renal failure as mentioned, on chronic dialysis post PD catheter placement for peritoneal dialysis.<br>
+2 - Coronary artery disease, post two myocardial infarctions.<br>
+3 - Post AICD placement.<br>
+4 - Chronic Atrial fibrillation with rapid ventricular response, controlled.<br>
+5 - Congestive heart failure, chronic 2/2 diastolic dysfunction.<br>
+6 - Abdominal aortic aneurysm, which is infrarenal measuring 6.2 cm.<br>
+7 - Bilateral common iliac aneurysm, approximately 3.5 to 3.6 cm.<br>
+8 - Left internal iliac artery aneurysm, questionably coiled lately.<br>
+9 - COPD<br>
+10 - Chronic gout in his right first metatarsal phalangeal joint.<br>
+11 - History of diverticulitis.<br>
+12 - Hyperlipidemia.<br>
+13 - Status post cholecystectomy, inguinal hernia repair, appendectomy.</p>
+<p>ALLERGIES: No known drug allergies.</p>
+<p>MEDICATIONS:<br>
+1 - Nebulizer treatments at home.<br>
+2 - Bumex 2 mg in the morning and 1 mg in the evening.<br>
+3 - Coumadin 2 mg on Monday, 1 mg on other days.<br>
+4 - Digoxin 0.125 mg p.o. b.i.d.<br>
+5 - Potassium chloride 20 mEq p.o. b.i.d.<br>
+6 - Zocor 10 mg p.o. q h.s.<br>
+7 - Coreg 25 mg p.o. b.i.d.<br>
+8 - Allopurinol 100 mg p.o. daily.</p>
+<p>FAMILY HISTORY:<br>
+Mother died of pancreatitis. Father died at age 71. Otherwise, family history is noncontributory.</p>
+<p>SOCIAL HISTORY:<br>
+Lives here in town with his wife. She was not available today. He quit smoking 16 years ago.</p>
+<p>REVIEW OF SYSTEMS:<br>
+Constitutional: No fever, chills, or night sweats.<br>
+ENT: Resolved upper respiratory tract symptoms.<br>
+Respiratory: As mentioned.<br>
+Cardiovascular: Exertional dyspnea. No chest pain.<br>
+GI: Questionable dark stool but no diarrhea, nausea, or vomiting. He had some abdominal discomfort with coughing.<br>
+Musculoskeletal: History of chronic gout that seems to be controlled.<br>
+Skin: Trace edema.<br>
+Neuro: Negative.<br>
+Psychiatric: Negative.</p>
+<p>PHYSICAL EXAMINATION:<br>
+The patient was in mild respiratory distress. He was awake,<br>
+oriented times three without any focal neurological deficits. His heart rate is in the 70s range, blood pressure has been 120s/80s, saturations 92% when he came in, 98% on 2 liters per nasal cannula. Slightly increased jugular venous pressure. No cervical lymphadenopathy. Lungs: Good air entry bilaterally but expiratory wheezes bilaterally. No crackles. No sacral edema. Abdomen: Soft and nontender. He has PD catheter in the left lower quadrant. Small hematoma in the right inguinal area from his recent aortogram. Lower extremities: Very trace edema.</p>
+<p>LABORATORY<br>
+STUDIES: CBC tonight shows a white count of 8.6 thousand, hemoglobin 12.3, platelets 140,000, BUN 29, sodium 139, potassium 3.6, chloride 98, bicarb 31, creatinine 2.2, calcium 8.5. BNP 536 picogram/mL. INR 1.5 with a pro-time of 14.3. Digoxin 0.6. Troponin-I less than 0.04. His last uric acid level was 7.4.</p>
+<p>IMPRESSION:</p>
+<p>1 - Exacerbation of COPD with wheezes.<br>
+2 - Abdominal aortic aneurysm.<br>
+3 - Noncompliance with at home nebulizer treatments.</p>
+<p>PLAN:</p>
+<p>1 - Albuterol MDI 2 puffs t.i.d.<br>
+2 - Atrovent MDI 2 puffs t.i.d.<br>
+3 - Solu-Medrol 80 mg IV q 8 hours.<br>
+4 - Continue the current p.o. medications.<br>
+5 - Zithromax 500 mg IV daily.<br>
+6 - The patient is code level I.</p>
+<p>Discussed all of the above with the patient. He seems to understand and agrees with the plan. Will discuss further issues to his abdominal aortic aneurysm and further plans with his positive stress test when the rest of the family is available in the next couple of days.</p>
+<p>DISCHARGE SUMMARY</p>
+<p>DISCHARGE DIAGNOSIS: Exacerbation of COPD.</p>
+<p>The patient came in with wheezing. Oxygen saturations were 92%. He had no pulmonary edema. He had no infiltrates. Was given steroids, nebulizer therapy. He did well. His pO2 was 94 on 2 liters. We walked him the next day. He was doing much better without any major complaints. He was discharged in reasonable general condition.</p>
+<p>CODE LEVEL: I.</p>
+<p>DISCHARGE MEDICATIONS:<br>
+1-Albuterol inhaler two puffs three times a day p.r.n.<br>
+2-Allopurinol 100 mg p.o. daily.<br>
+3-Bumex 1 mg in the evening and 2 mg in the morning.<br>
+4-Coreg 25 mg p.o. b.i.d.<br>
+5-Digoxin 0.125 mg p.o. daily.<br>
+6-Atrovent three times a day.<br>
+7-Potassium chloride 20 mEq p.o. b.i.d.<br>
+8-Zocor 10 mg p.o. daily.<br>
+9-Coumadin 2 mg every Monday and 1 mg on other 6 days of the week.<br>
+10-Prednisone 10 mg—he will take six pills for three days, then five pills for 3 days. He will go down by 10 mg every 3 days until off.<br>
+11-+Zithromax 500 mg p.o. daily for 8 more days.</p>
+<p>DISCHARGE PLAN:<br>
+The patient will be scheduled in my clinic in 3 weeks with a basic metabolic panel, CBC, and Protime/INR.</p>
+<p>Discussed all of the above with the patient. He seems to understand. I gave him the plan. Issues related to his aneurysm and cardiac status will be discussed in the clinic.</p>
+<p>Kendall Kramer, MD<br>
+Electronically signed by KENDALL KRAMER, MD 6/18/20XX</p>
+<p>Using the documentation provided, determine the applicable diagnosis codes and procedure codes when procedures are performed. Make sure to sequence the principal diagnosis first when reporting the diagnosis codes.</p>
+<p>RATIONALE:<br>
+Principal Diagnosis:  J44.1<br>
+Additional Diagnoses:  I71.43, I50.32, N18.6, Z99.2, I25.10, I25.2, I48.20, E78.5, I72.3, Z95.810, Z91.199, M1A.9XX0, Z79.01, Z87.891</p>
+<p>Principal diagnosis is Chronic Obstructive Pulmonary Disease with (acute) Exacerbation J44.1. In the Alphabetic Index locate the main term Disease followed by subterm pulmonary, chronic obstructive, with exacerbation (acute) which directs you to J44.1.</p>
+<p>Additional Diagnoses are: N18.6 End Stage Renal Disease, I71.43 Infrarenal Abdominal Aortic Aneurysm, without rupture,  I72.3 Aneurysm Iliac Artery, I50.32 Congestive Heart Failure, Chronic w/ Diastolic Dysfunction, I25.10 Coronary Artery Disease, I48.20 Chronic Atrial Fibrillation, unspecified, E78.5 Hyperlipidemia, I25.2 History of Previous Myocardial Infarction, Z99.2 Dialysis Status, Z95.810 Presence of Automatic Implantable Cardioverter Defibrillator, Z79.01 Long term use of anticoagulants, Z91.199 Non-Compliant w/Medical Treatment (Aerosol treatment), M1A.9XX0 Chronic Gouty Arthritis Right Toe, with no mention of tophi Z87.891 History of Smoking.</p>
+</div>
+      
+    </div>
+
+  </div>
+  <button class="prettyButton None " id="eef53925-92f5-4a6e-8e0e-4b3e2228667c_toggleCorrectBtn" style="background-color: #5384A3">
+    <span class="toggleCorrect notVisible">Show Correct Answer</span>
+    <span class="toggleCorrect">Hide Correct Answer</span>
+  </button>
+  <button class="prettyButton None" id="eef53925-92f5-4a6e-8e0e-4b3e2228667c_toggleFeedbackBtn" style="background-color: #5384A3">
+    <span class="toggleFeedback notVisible">Show Feedback</span>
+    <span class="toggleFeedback">Hide Feedback</span>
+  </button>
+</div>
+            <br>
+            <br>
+          
+        
+          
+            <script>
+  document.addEventListener('DOMContentLoaded', function contentLoaded() {
+    function toggleVisible(classSelector) {
+      var thingsToToggle = document.getElementById("373ee577-0a5f-4e80-a9ea-ed8e626b71a5").querySelectorAll(classSelector);
+
+      for (var i = 0; i < thingsToToggle.length; i++) {
+        if (thingsToToggle[i].className.indexOf('notVisible') !== -1) {
+          thingsToToggle[i].className = thingsToToggle[i].className.replace('notVisible', '').trim();
+        } else {
+          thingsToToggle[i].className += ' notVisible';
+        }
+      }
+    }
+
+    document.getElementById("373ee577-0a5f-4e80-a9ea-ed8e626b71a5_toggleCorrectBtn").addEventListener('click', function showCorrectHandler() {
+      return toggleVisible('.toggleCorrect');
+    });
+
+    document.getElementById("373ee577-0a5f-4e80-a9ea-ed8e626b71a5_toggleFeedbackBtn").addEventListener('click', function showFeedbackHandler() {
+      return toggleVisible('.toggleFeedback');
+    });
+  });
+</script>
+<div id="373ee577-0a5f-4e80-a9ea-ed8e626b71a5" class="container">
+  <span class="questionNumber">25.</span>
+  <div>
+
+    <div class="row">
+      <small>Question</small>
+      <div class="markdown"><p>Report the diagnosis codes in the proper sequence according to UHDDS and Official Coding Guidelines.</p>
+<p>What is the principal diagnoses?</p>
+<p>[Blank 1]</p>
+<p>What additional diagnosis codes are reported? (For this case, 3 additional ICD-10-CM codes are required)</p>
+<p>[Blank 2] [Blank 3] [Blank 4]</p>
+<p>Report the ICD-10-PCS procedure codes according to UHDDS and Official Coding Guidelines.</p>
+<p>What ICD-10-PCS coding is reported for this case? (For this case, one ICD-10-PCS code is required)</p>
+<p>[Blank 5]</p>
+</div>
+    </div>
+
+    <div>
+      <div class="subrow lessPadding">
+        <small>Question</small>
+        <small>Your Response</small>
+        <small class="toggleCorrect">Correct Responses</small>
+      </div>
+      
+      <div class="subrow">
+        <div>Blank 1</div>
+        <div>K56.600</div>
+        <div class="toggleCorrect">
+          <ul>
+            
+            <li class="markdown"><p>K56.600</p>
+</li>
+            
+            <li class="markdown"><p>K56600</p>
+</li>
+            
+          </ul>
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div>Blank 2</div>
+        <div>Q79.3</div>
+        <div class="toggleCorrect">
+          <ul>
+            
+            <li class="markdown"><p>Q43.3</p>
+</li>
+            
+            <li class="markdown"><p>Z87.761</p>
+</li>
+            
+            <li class="markdown"><p>E86.0</p>
+</li>
+            
+            <li class="markdown"><p>Q433</p>
+</li>
+            
+            <li class="markdown"><p>Z87761</p>
+</li>
+            
+            <li class="markdown"><p>E860</p>
+</li>
+            
+          </ul>
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div>Blank 3</div>
+        <div>R14.0</div>
+        <div class="toggleCorrect">
+          <ul>
+            
+            <li class="markdown"><p>Q43.3</p>
+</li>
+            
+            <li class="markdown"><p>Z87.761</p>
+</li>
+            
+            <li class="markdown"><p>E86.0</p>
+</li>
+            
+            <li class="markdown"><p>Q433</p>
+</li>
+            
+            <li class="markdown"><p>Z87761</p>
+</li>
+            
+            <li class="markdown"><p>E860</p>
+</li>
+            
+          </ul>
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div>Blank 4</div>
+        <div>R14.1</div>
+        <div class="toggleCorrect">
+          <ul>
+            
+            <li class="markdown"><p>Q43.3</p>
+</li>
+            
+            <li class="markdown"><p>Z87.761</p>
+</li>
+            
+            <li class="markdown"><p>E86.0</p>
+</li>
+            
+            <li class="markdown"><p>Q433</p>
+</li>
+            
+            <li class="markdown"><p>Z87761</p>
+</li>
+            
+            <li class="markdown"><p>E660</p>
+</li>
+            
+          </ul>
+        </div>
+      </div>
+      
+      <div class="subrow">
+        <div>Blank 5</div>
+        <div>0DQA0ZZ</div>
+        <div class="toggleCorrect">
+          <ul>
+            
+            <li class="markdown"><p>0D9A70Z</p>
+</li>
+            
+          </ul>
+        </div>
+      </div>
+      
+    </div>
+
+    <div class="row">
+      <small>Score</small>
+      <div>20%</div>
+    </div>
+
+    <div class="toggleCorrect  row">
+      <small>Correct Response</small>
+      <div class="markdown"></div>
+    </div>
+
+    <div class="toggleFeedback  row">
+      <small>Feedback</small>
+      
+      <div class="markdown"><p>GENERAL HOSPITAL USA</p>
+<p>DISCHARGE SUMMARY</p>
+<p>Tina Smith<br>
+DOB: 06/04/1974</p>
+<p>Discharge Summary</p>
+<p>DISCHARGE DATE: 03/16/20XX</p>
+<p>Transfer summary dictated in anticipation of transfer to Local Hospital.</p>
+<p>DIAGNOSIS: High-grade partial small bowel obstruction</p>
+<p>PROCEDURES PERFORMED: Jejunostomy decompression and stabilization. Dr. Jong, a gastroenterologist inserted a jejunostomy tube through the nares into the section of small bowel that is not obstructed and attached the tube to drainage to achieve decompression of the small bowel.</p>
+<p>DISPOSITION: Stable</p>
+<p>DESTINATION: Local Hospital</p>
+<p>DISCHARGE MEDICATIONS: She will continue on her current medications, which include Zofran for nausea, and Nexium as a proton pump inhibitor. She has received Dilaudid for pain control.</p>
+<p>She has a jejunostomy tube to suction. She will be transferred to Local Hospital so that she can be placed under the care of Dr. Thomas and his colleagues. Confirmation of receiving physician is still pending.</p>
+<p>Kendall Kramer, MD<br>
+Electronically signed by KENDALL KRAMER, MD 3/16/20XX</p>
+<p>GENERAL HOSPITAL USA</p>
+<p>PRE-OP HISTORY AND PHYSICAL EXAMINATION</p>
+<p>Tina Smith<br>
+DOB: 6/4/1974</p>
+<p>ADMITTING DIAGNOSES: High-grade partial bowel obstruction</p>
+<p>HISTORY: The patient is a 38-year-old female who was born with a malrotation and gastroschisis. She had a successful closure of her gastroschisis. She had a partial small bowel obstruction treated in college non-operatively. At age 32, she presented to this hospital with small bowel obstruction, which did resolve but a CT scan did show a large cyst. She was taken to surgery where the cyst was removed as well as 1 fallopian tube. She underwent enterolysis at that time. Two months after surgery the cyst reoccurred. Interventional Radiology drained the cyst 5 more times over the next stretch. At age 34, she had surgery again for cyst removal. She also had an unexpected finding of a ruptured ovarian cyst at the time of surgery. The index cyst was removed and the ruptured ovarian cyst was dealt with. Apparently, there was an issue with bleeding at surgery. In the interim, she has had episodes of bloating when she is not careful with what she eats. These episodes have always resolved to this point.<br>
+Last p.m. at 6 to 7, she had grilled vegetables. Approximately an hour or hour and a half later, she had the onset of her usual bloating and abdominal pain. It continued to get worse. She has had nothing to eat today. She presented to the ER for evaluation.</p>
+<p>SOCIAL HISTORY: She does not drink or smoke.</p>
+<p>CURRENT MEDICATION: Erythromycin, vitamins, and Colace.</p>
+<p>ALLERGIES: NONE</p>
+<p>REVIEW OF SYMPTOMS: She wears lenses for visual correction. Her last Pap smear was October, last mammogram was in 20XX. There are no limits on her activities.</p>
+<p>FAMILY HISTORY: Her parents are both 64-year-old and alive and well. Her older sister is forty-one. Her younger brother is 35. There are no bleeding disorders, clotting disorders, or difficulty with anesthesia in the patient or the family.</p>
+<p>PHYSICAL EXAMINATION: Vital Signs: On presentation to the emergency room, her blood pressure is 125/69, pulse was 68, temperature 97.9, respirations 18, room air saturation 96%. General: She was initially evaluated in the emergency room by Dr. Scott and I was asked to come to see her after the CAT scan had been obtained. HEENT: Her skull is normocephalic and atraumatic. Neuro: She is grossly intact neurologically. Lymphatic: No cervical, supraclavicular, axillary, or inguinal lymphadenopathy. Respiratory: Her airway is clear and not encumbered. Her lungs are clear to auscultation. Neck: There is no thyroid enlargement. Vascular: There are no carotid or abdominal bruits. Cardiac: Exam shows S1, S2 to be normal with normal split of S2 without murmurs, rubs, or gallops. Abdomen: Has epigastric and hypogastric incisions, which are visible and no umbilicus. She is nontender with cough. There are essentially no bowel sounds present. (On a pain scale of 1-10) she is not tender with cough. Palpation in the left upper quadrant is 1, left mid-abdomen is 1, left lower quadrant is 1, epigastrium is 1-2, midline abdomen is 1, suprapubic is 1, right upper quadrant is 6, right mid-abdomen is 2, right lower quadrant is 1.</p>
+<p>STUDIES: On CT, her duodenum never crosses the midline, consistent with her prior diagnosis of a malrotation. She has loops of bowel in the right upper quadrant, which were quite thickened and edematous. There is no identifiable parrot’s beak. I could not identify any swirling of the vessels in the sagittal or coronal views. She has at least a high-grade partial bowel obstruction.</p>
+<p>LABORATORY DATA: Her laboratories reveal a lipase of 135; pregnancy test is negative; a urinalysis, which shows her dehydrated with a specific gravity of 1.025. Her glucose is 102, BUN is 10, and creatinine is 2. CRP is 7.0. White count is 10.7 with 78% segs, 17% lymphs.</p>
+<p>IMPRESSION: I do not feel that there is a surgical emergency at this point. This patient would very much like not be operated here unless absolutely necessary. She would like to return if possible to her surgeon in another city. I will be speaking to him later today.</p>
+<p>PLAN: She agrees to temporizing moves here at this point and hopefully they will lead to a resolution. She has not had a small-bowel follow-through for many years. If this does resolve, then a small-bowel follow-through, I feel will be necessary to further define the nature of the partial obstruction.</p>
+<p>Kendall Kramer, MD<br>
+Electronically signed by KENDALL KRAMER, MD 3/16/20XX</p>
+<p>GENERAL HOSPITAL USA<br>
+PROGRESS NOTES</p>
+<p>Tina Smith</p>
+<p>DOB: 6/4/1974</p>
+<p>PROGRESS NOTES:<br>
+03/16/20XX<br>
+Abd: no tenderness with cough, wave bowel sounds noted, tenderness to palpation approximately the same.<br>
+Impression:<br>
+1 - There is not a necessity to go immediately to surgery<br>
+2 - Patient would prefer to have her doctor at another hospital involved. She is considering requesting transfer to his care. I will try to contact him this morning.<br>
+3 - Will try to enema clear out colon in anticipation of surgery.<br>
+4 - Nutrition is adequate but may need TPN<br>
+5 – Patient is exhibiting dehydration as shown by specific gravity of 1.025 on urinalysis. Administer 1 L of NS IV to rehydrate patient prior to discharge</p>
+<p>BP: 112/76 P: 68 R: 16 O2: 97% Pain 9/10</p>
+<p>Kendall Kramer, MD</p>
+<p>Electronically signed by KENDALL KRAMER, MD 3/16/20XX<br>
+Include widgets</p>
+<p>RATIONALE:<br>
+Principal Diagnosis: K56.600 The documentation indicates the patient is admitted due to a high-grade partial small bowel obstruction.</p>
+<p>Additional Diagnoses:<br>
+Z87.761 History of gastroschisis which was surgically corrected as an infant.  Gastroschisis is a birth defect. Here the MD says this defect was surgically corrected. In the ICD-10-CM Alphabetic Index, look for History/personal/congenital malformation/digestive system (corrected) NEC referring to Z87.761.</p>
+<p>E86.0 Dehydration</p>
+<p>Q43.3 is the code for congenital malrotation of the intestines. In the ICD-10-CM Alphabetic Index, look for malrotation/intestine referring to Q43.3.</p>
+<p>Procedure 0D9A70Z is reported for the nasogastric tube to suction.</p>
+<p>Section (0)              Medical And Surgical<br>
+Body System (D)      Gastrointestinal System<br>
+Root Operation (9)    Drainage<br>
+Body Part (A)           Jejunum<br>
+Approach (7)           Via Natural or Artificial Opening<br>
+Device (0)               Drainage Device<br>
+Qualifier(Z)             No Qualifier</p>
+</div>
+      
+    </div>
+
+  </div>
+  <button class="prettyButton None " id="373ee577-0a5f-4e80-a9ea-ed8e626b71a5_toggleCorrectBtn" style="background-color: #5384A3">
+    <span class="toggleCorrect notVisible">Show Correct Answer</span>
+    <span class="toggleCorrect">Hide Correct Answer</span>
+  </button>
+  <button class="prettyButton None" id="373ee577-0a5f-4e80-a9ea-ed8e626b71a5_toggleFeedbackBtn" style="background-color: #5384A3">
+    <span class="toggleFeedback notVisible">Show Feedback</span>
+    <span class="toggleFeedback">Hide Feedback</span>
+  </button>
+</div>
+            <br>
+            <br>
+          
+        
+      
+    </div>
+    </div>
+   </div>
+  
+  <script type="text/javascript" src="./Feedback_files/caveon.markdown.min.js.download"></script>
+</body></html>
