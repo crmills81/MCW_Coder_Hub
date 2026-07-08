@@ -66,7 +66,7 @@ plugins:
       enableCheckbox: true
     order: 30
   - source: github:quartz-community/github-flavored-markdown
-    enabled: true
+    enabled: true         
     order: 40
   - source: github:quartz-community/table-of-contents
     enabled: true
@@ -102,6 +102,13 @@ plugins:
     order: 92
   - source: github:quartz-community/fonts
     enabled: true
+    options:
+      title: "Inter"
+      header: "Inter"
+      body: "Inter"
+      code: "IBM Plex Mono"
+      interface: "Inter"
+      fontOrigin: googleFonts
   - source: github:quartz-community/remove-draft
     enabled: false
   - source: github:quartz-community/explicit-publish
@@ -163,7 +170,7 @@ plugins:
   - source: github:quartz-community/tag-list
     enabled: false
     layout:
-      position: beforeBodya
+      position: beforeBody
       priority: 30
   - source: github:quartz-community/page-title
     enabled: true
