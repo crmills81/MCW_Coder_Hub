@@ -73,7 +73,7 @@ plugins:
     order: 50
     layout:
       position: right
-      priority: 30
+      priority: 35
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -148,7 +148,7 @@ plugins:
     enabled: true
     layout:
       position: right
-      priority: 10
+      priority: 5
       group: toolbar
       groupOptions:
         grow: true
@@ -214,7 +214,7 @@ plugins:
     enabled: true
     options:
       title: "Recent Notes"
-      limit: 3
+      limit: 4
       showTags: false
       hideFolderPages: true
     layout:
