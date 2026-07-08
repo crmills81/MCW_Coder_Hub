@@ -153,7 +153,7 @@ _____
 > 
 > - **Post-surgical [[dysphagia]]** after **[[laryngectomy]]**, pharyngeal reconstruction, or neck dissection
 > - **Zenker's diverticulum** → pharyngoesophageal phase; surgical options include CPT **[[43130]]** (**[[diverticulectomy]]**) or **[[43180]]** (**cricopharyngeal** **[[myotomy]]** + **[[diverticulectomy]]**)
-> - **Vocal cord paralysis ([[J38.00]]–[[J38.02]])** can impair laryngeal closure during swallow → aspiration risk
+> - **Vocal cord paralysis ([[J38.00]]-[[J38.02]])** can impair laryngeal closure during swallow → aspiration risk
 > - **Post-radiation dysphagia (late effect)** in head/neck cancer patients — severe and often progressive
 > ---
 > 

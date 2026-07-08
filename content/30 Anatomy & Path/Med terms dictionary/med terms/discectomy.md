@@ -50,7 +50,7 @@ _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 >
-> - **Diskectomy** _(alternate American English spelling — "disk" and "disc" are both accepted; the AMA CPT book uses "discectomy" in current descriptors for [[63020]]–[[63078]]; both spellings appear in operative reports and should be recognized as equivalent for code assignment)_
+> - **Diskectomy** _(alternate American English spelling — "disk" and "disc" are both accepted; the AMA CPT book uses "discectomy" in current descriptors for [[63020]]-[[63078]]; both spellings appear in operative reports and should be recognized as equivalent for code assignment)_
 > - **[[Microdiscectomy]]** _(minimally invasive posterior lumbar discectomy performed under magnification via operating microscope or surgical loupes; the most common inpatient discectomy encounter; coded as laminotomy with disc excision, [[63030]] — "micro" technique does not alter CPT selection)_
 > - **[[Nucleotomy]]** _(selective removal of the nucleus pulposus only, with or without removal of annular fragments; percutaneous nucleotomy refers to minimally invasive needle-based variants; standard open [[nucleotomy]] is included within [[laminotomy]]/discectomy CPT codes)_
 > - **Partial discectomy** _(removal of the herniated disc fragment only, rather than total disc removal; the standard posterior lumbar technique; documentation of "partial" vs. "complete" disc removal does not change CPT selection for [[63030]])_

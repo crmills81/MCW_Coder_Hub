@@ -68,7 +68,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
 > - **[[Aphasia]]** — the complete or severe loss of language function; in ICD-10-CM, aphasia ([[R47.01]]) and [[dysphasia]] ([[R47.02]]) are mutually exclusive — use one or the other, never both on the same claim
-> - **[[Dysphagia]]** — the most clinically dangerous look-alike term; dysphagia (dys- + phagein → "difficult swallowing") is a *swallowing disorder*, coded [[R13.10]]–[[R13.19]] — entirely unrelated to [[dysphasia]] (language) despite phonetic similarity; a documentation query is warranted whenever these terms appear ambiguously in the same note
+> - **[[Dysphagia]]** — the most clinically dangerous look-alike term; dysphagia (dys- + phagein → "difficult swallowing") is a *swallowing disorder*, coded [[R13.10]]-[[R13.19]] — entirely unrelated to [[dysphasia]] (language) despite phonetic similarity; a documentation query is warranted whenever these terms appear ambiguously in the same note
 > - **[[Dysarthria]]** — a motor speech disorder (impaired articulation from neuromuscular dysfunction) that can coexist with [[dysphasia]] but is pathophysiologically distinct; coded [[R47.81]]; preserved language content with impaired motor execution
 > - **[[Paraphasia]]** — a specific manifestation of [[dysphasia]]/aphasia in which the patient substitutes incorrect words, sounds, or neologisms; a symptom component of Wernicke/receptive [[dysphasia]] — not separately coded in ICD-10-CM
 > - **[[Anomia]]** — difficulty naming objects or finding words (word-retrieval failure); the most common residual symptom in recovery from [[dysphasia]]; present across all aphasia subtypes to varying degrees
