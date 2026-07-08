@@ -1,38 +1,4 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-// Loosen up the left sidebar spacing
-.sidebar.left {
-  padding-right: 1rem;
-
-  .explorer-content {
-    li {
-      margin-bottom: 0.35rem;
-    }
-  }
-
-  h1, h2, h3 {
-    margin-top: 1.5rem;
-    margin-bottom: 0.75rem;
-  }
-}
-
-// Give Recent Notes items more room to breathe
-.recent-notes {
-  li {
-    margin-bottom: 1rem;
-  }
-
-  .recent-note-title {
-    line-height: 1.4;
-  }
-
-  .recent-note-date {
-    margin-top: 0.15rem;
-  }
-}
-
-// Add space between the site title and the search bar
-.page-title {
-  margin-bottom: 1rem;
-}
+$sidePanelWidth: 320px;
