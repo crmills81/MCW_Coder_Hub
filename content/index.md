@@ -1,6 +1,6 @@
 ---
 title: 🌟 Yay, MEDICAL CODING!!! 🌟
-last_updated: 2026-04-12
+last_updated: 2026-07-08
 ---
 
 # 💉 Medical Coding Dashboard
@@ -66,10 +66,10 @@ My medical coding hub is for the specialties that I code for my employer. These 
 ---
 
 ## 🔗 Cross‑Links
-- [[CIC Study Notes]]
+- [[00 Anatomy and Physiology 2e Book by Openstax]]
 - [[Audit Checklists]]
 - [[CMS Medicare Guidelines]]
 
 <br>
 
-🚑 <font color="#7f7f7f">  Some ICD-10 CM codes may be the root code without the "**suffix**" end characters. **ALWAYS** verify codes and guidelines with current code books, encoder tools, and payer policies before use.  </font> 🏥
+🚑 <font color="#7f7f7f">  Some ICD-10 CM codes may be the root code without the "**suffix**" end characters. **ALWAYS** verify codes and guidelines with current code books, encoder tools, and payer policies before use. Please see coding disclaimer for more information or to get contact information to contact me if you'd like to inform me on my many mistakes lolol! </font> 🏥
