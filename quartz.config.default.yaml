@@ -214,7 +214,7 @@ plugins:
     enabled: true
     options:
       title: "Recent Notes"
-      limit: 8
+      limit: 15
       showTags: false
       hideFolderPages: true
     layout:
