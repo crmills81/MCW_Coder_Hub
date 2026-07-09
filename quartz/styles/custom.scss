@@ -12,7 +12,7 @@ a.internal.broken {
     text-decoration: none;
   }
 }
-//recent notes
+// recent notes
 .recent-notes {
   max-height: 280px;
   overflow-y: auto;
@@ -30,5 +30,25 @@ a.internal.broken {
 
   &::-webkit-scrollbar-track {
     background: transparent;
+  }
+
+  li {
+    font-size: 0.9rem;
+  }
+
+  a {
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+
+  .recent-note-title,
+  .tag-link {
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+
+  p,
+  .recent-note-date {
+    font-size: 0.75rem;
   }
 }
