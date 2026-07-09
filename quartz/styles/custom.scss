@@ -12,3 +12,23 @@ a.internal.broken {
     text-decoration: none;
   }
 }
+//recent notes
+.recent-notes {
+  max-height: 280px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-right: 0.5rem;
+
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: var(--gray);
+    border-radius: var(--radius-full, 9999px);
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+}
