@@ -54,12 +54,6 @@ a.internal.broken {
 }
 @media (max-width: 800px) {
   .recent-notes {
-    display: none;
-  }
-
-  .sidebar.left .recent-notes,
-  .hamburger-menu .recent-notes,
-  nav .recent-notes {
-    display: block;
+    display: none !important;
   }
 }
