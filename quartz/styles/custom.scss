@@ -52,3 +52,14 @@ a.internal.broken {
     font-size: 0.75rem;
   }
 }
+@media (max-width: 800px) {
+  .recent-notes {
+    display: none;
+  }
+
+  .sidebar.left .recent-notes,
+  .hamburger-menu .recent-notes,
+  nav .recent-notes {
+    display: block;
+  }
+}
