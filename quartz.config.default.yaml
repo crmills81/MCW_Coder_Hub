@@ -214,7 +214,7 @@ plugins:
     enabled: true
     options:
       title: "Recent Notes"
-      limit: 4
+      limit: 8
       showTags: false
       hideFolderPages: true
     layout:
@@ -238,7 +238,8 @@ plugins:
       includeAll: false
       includedProperties:
         - code
-        - description
+        - code_title
+        - status
       excludedProperties: []
       hidePropertiesView: false
       delimiters: ---
