@@ -1,8 +1,6 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
-//sidebar size
-$sidePanelWidth: 320px;
 //stop clickable broken links
 a.internal.broken {
   pointer-events: none;
