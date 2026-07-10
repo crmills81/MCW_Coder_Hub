@@ -3,7 +3,7 @@ tags:
   - medterm
   - pmr
   - orthopedics
-  - ICD-10-CM-M81
+  - M81
 aliases:
 - Osteoporosis
 - Osteoporotic
@@ -16,6 +16,7 @@ aliases:
 - Age-Related Osteoporosis
 - age-related bone loss
 - Postmenopausal Osteoporosis
+- M81.0
 - Senile Osteoporosis
 roots:
   - osteo-
@@ -31,7 +32,7 @@ definition: A systemic skeletal disease characterized by low bone mineral densit
 ---
 
 >[!Note] DEFINITION of [[osteoporosis]]
->**Osteoporosis** is a metabolic bone disease defined by reduced bone mineral density and disrupted trabecular architecture, resulting in an increased propensity for fragility fractures. Unlike **[[osteopetrosis]]**, which features excessively dense but brittle bones, **osteoporosis** involves a net loss of bone mass, primarily driven by an imbalance in **bone remodeling**—where **osteoclast**-mediated bone resorption outpaces **osteoblast**-mediated bone formation. The condition can be primary (**postmenopausal, age-related) or secondary to medications (glucocorticoids, aromatase inhibitors**), endocrine disorders (**[[hyperparathyroidism]], Cushing’s**), or prolonged immobilization. It is clinically distinguished from **[[osteomalacia]]**, a defect in mineralization causing soft bones, and from **[[osteopenia]]**, which represents a milder reduction in bone density (**T-score -1.0 to -2.5**) that precedes **osteoporosis** but does not itself confer the same fracture risk. The most clinically relevant forms include **M81.0 - age-related/postmenopausal osteoporosis** (**[[M81.0]]**), **M80.0- osteoporosis with current pathological fracture** (M80.0-), and **M81.8 - drug-induced or secondary osteoporosis** (**[[M81.8]]**). In summary, while **osteopenia** is a warning sign, **[[osteoporosis]]** defines the threshold at which bone strength is sufficiently compromised to cause pathologic fractures with minimal trauma.
+>**[[Osteoporosis]]** is a metabolic bone disease defined by reduced bone mineral density and disrupted trabecular architecture, resulting in an increased propensity for fragility fractures. Unlike **[[osteopetrosis]]**, which features excessively dense but brittle bones, **osteoporosis** involves a net loss of bone mass, primarily driven by an imbalance in **bone remodeling**—where **osteoclast**-mediated bone resorption outpaces **osteoblast**-mediated bone formation. The condition can be primary (**postmenopausal, age-related) or secondary to medications (glucocorticoids, aromatase inhibitors**), endocrine disorders (**[[hyperparathyroidism]], Cushing’s**), or prolonged immobilization. It is clinically distinguished from **[[osteomalacia]]**, a defect in mineralization causing soft bones, and from **[[osteopenia]]**, which represents a milder reduction in bone density (**T-score -1.0 to -2.5**) that precedes **osteoporosis** but does not itself confer the same fracture risk. The most clinically relevant forms include **M81.0 - age-related/postmenopausal osteoporosis** (**[[M81.0]]**), **M80.0- osteoporosis with current pathological fracture** (M80.0-), and **M81.8 - drug-induced or secondary osteoporosis** (**[[M81.8]]**). In summary, while **osteopenia** is a warning sign, **[[osteoporosis]]** defines the threshold at which bone strength is sufficiently compromised to cause pathologic fractures with minimal trauma.
 
 _____
 
@@ -93,8 +94,8 @@ _____
 > |Code|Description|
 > |---|---|
 > |**[[M81.0]]**|Age-related osteoporosis (includes postmenopausal, senile)|
-> |**[[M81.8]]**|Other osteoporosis (drug-induced, disuse, secondary)|
-> |**[[M81.9]]**|Osteoporosis, unspecified|
+> |**[[M81.6]]**|Localized osteoporosis[Lequesne])|
+> |**[[M81.8]]**|Other osteoporosis without current pathological fracture|
 > 
 > #### Osteoporosis with Current Pathological Fracture (M80.- — Site/Laterality & Encounter Required)
 > 
