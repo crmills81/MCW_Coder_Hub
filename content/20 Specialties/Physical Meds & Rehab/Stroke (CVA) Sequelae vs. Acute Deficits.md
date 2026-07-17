@@ -36,7 +36,7 @@ When coding [[hemiplegia]] or [[hemiparesis]], you need the affected side and wh
 
 ### Aphasia
 Loss of ability to understand or express speech. 
-* **Code:** [[50 Medical Coding/ICD-10 Codes/I69.320]] ([[Aphasia]] following [[cerebral infarction]])
+* **Code:** [[I69.320]] ([[Aphasia]] following [[cerebral infarction]])
 * **Coding Tip:** Do not assign an additional code from R47.- (**Speech and language symptoms**) when using the I69 [[aphasia]] code.
 
 ### Dysphagia

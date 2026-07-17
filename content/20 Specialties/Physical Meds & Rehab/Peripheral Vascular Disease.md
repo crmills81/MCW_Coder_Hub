@@ -10,9 +10,8 @@ tags:
   - HCC
   - inpatient
   - PMR
-  - CIC-prep
   - amputee
-title: Peripheral Vascular Disease – Inpatient Coding Reference
+title: Peripheral Vascular Disease - Inpatient Coding Reference
 specialty: Physical Medicine and Rehabilitation / Vascular / General Inpatient
 topic: PVD, PAD, Atherosclerosis ICD-10-CM Coding
 created: 2026-05-07
@@ -20,10 +19,10 @@ status: Active ✅
 primary_dx_categories: I70, I73, I96
 ms_drg_note: PVD with gangrene codes are MCCs and HCC-108 — highest capture priority in amputee population
 hcc_map: HCC-108 HCC-39
-coder_note: Inpatient profee reference – MCW Inpatient Abstraction Team
+coder_note: Inpatient profee reference - MCW Inpatient Abstraction Team
 ---
 
-# Peripheral Vascular Disease – Inpatient Coding Reference
+# Peripheral Vascular Disease - Inpatient Coding Reference
 
 ---
 
@@ -46,13 +45,13 @@ coder_note: Inpatient profee reference – MCW Inpatient Abstraction Team
 
 ---
 
-## 📋 I70 – Atherosclerosis
+## 📋 I70 - Atherosclerosis
 
 > I70 is the core category for atherosclerosis/PAD. Parent code I70 is **not billable**; I70.0 and I70.1 (aorta) are billable. For extremity atherosclerosis, code to the full 6-character level.
 
 ---
 
-### I70.0 and I70.1 – Aortic Atherosclerosis
+### I70.0 and I70.1 - Aortic Atherosclerosis
 
 | Code      | Description                     | CC/MCC | HCC         |
 | --------- | ------------------------------- | ------ | ----------- |
@@ -61,7 +60,7 @@ coder_note: Inpatient profee reference – MCW Inpatient Abstraction Team
 
 ---
 
-### I70.2 – Atherosclerosis of Native Arteries of Extremities
+### I70.2 - Atherosclerosis of Native Arteries of Extremities
 
 > The I70.2x subcategory covers **native (non-bypass)** arteries. This is the most commonly coded PVD category in inpatient PMR.
 
@@ -154,7 +153,7 @@ coder_note: Inpatient profee reference – MCW Inpatient Abstraction Team
 
 ---
 
-### I70.3 – Atherosclerosis of Unspecified Bypass Graft
+### I70.3 - Atherosclerosis of Unspecified Bypass Graft
 
 > Use when documentation states a bypass graft is involved but does not specify the graft type (autologous vein, non-biological, etc.)
 
@@ -168,7 +167,7 @@ coder_note: Inpatient profee reference – MCW Inpatient Abstraction Team
 
 ---
 
-### I70.4 – Atherosclerosis of Autologous Vein Bypass Graft
+### I70.4 - Atherosclerosis of Autologous Vein Bypass Graft
 
 > Autologous vein graft = patient's own vein (usually saphenous vein) used as a bypass conduit.
 
@@ -182,7 +181,7 @@ coder_note: Inpatient profee reference – MCW Inpatient Abstraction Team
 
 ---
 
-### I70.5 – Atherosclerosis of Non-Biological Bypass Graft
+### I70.5 - Atherosclerosis of Non-Biological Bypass Graft
 
 > Non-biological graft = synthetic graft material (PTFE, Dacron).
 
@@ -195,7 +194,7 @@ coder_note: Inpatient profee reference – MCW Inpatient Abstraction Team
 
 ---
 
-### I70.6 – Atherosclerosis of Non-Autologous Biological Bypass Graft
+### I70.6 - Atherosclerosis of Non-Autologous Biological Bypass Graft
 
 > Processed biological graft material (human umbilical vein, bovine grafts).
 
@@ -208,7 +207,7 @@ coder_note: Inpatient profee reference – MCW Inpatient Abstraction Team
 
 ---
 
-### I70.7 – Atherosclerosis of Other Bypass Graft
+### I70.7 - Atherosclerosis of Other Bypass Graft
 
 > For bypass grafts not fitting the above categories.
 
@@ -221,7 +220,7 @@ coder_note: Inpatient profee reference – MCW Inpatient Abstraction Team
 
 ---
 
-### I70.9 – General/Other Atherosclerosis
+### I70.9 - General/Other Atherosclerosis
 
 | Code           | Description                                    | CC/MCC | HCC     |
 | -------------- | ---------------------------------------------- | ------ | ------- |
@@ -229,11 +228,11 @@ coder_note: Inpatient profee reference – MCW Inpatient Abstraction Team
 | **[[I70.91]]** | Generalized atherosclerosis                    | —      | **HCC 108** |
 | **[[I70.92]]** | Chronic total occlusion of artery of extremity | CC     | **HCC 108** |
 
-> **[[I70.92]]** — Chronic total occlusion (CTO) is used as an additional code when the vessel is 100% occluded chronically. This is distinct from acute occlusion. It pairs with an I70.2x–I70.7x code to show complete obstruction on top of the atherosclerosis.
+> **[[I70.92]]** — Chronic total occlusion (CTO) is used as an additional code when the vessel is 100% occluded chronically. This is distinct from acute occlusion. It pairs with an I70.2x-I70.7x code to show complete obstruction on top of the atherosclerosis.
 
 ---
 
-## 📋 I73 – Other Peripheral Vascular Diseases
+## 📋 I73 - Other Peripheral Vascular Diseases
 
 | Code           | Description                                    | CC/MCC | HCC     |
 | -------------- | ---------------------------------------------- | ------ | ------- |
@@ -248,7 +247,7 @@ coder_note: Inpatient profee reference – MCW Inpatient Abstraction Team
 
 ---
 
-## 📋 I96 – Gangrene (NEC)
+## 📋 I96 - Gangrene (NEC)
 
 | Code        | Description                        | CC/MCC | HCC        |
 | ----------- | ---------------------------------- | ------ | ---------- |
@@ -258,11 +257,11 @@ coder_note: Inpatient profee reference – MCW Inpatient Abstraction Team
 
 ---
 
-## 🧠 HCC Mapping Summary – PVD (CMS-HCC v28)
+## 🧠 HCC Mapping Summary - PVD (CMS-HCC v28)
 
 | HCC         | Condition Group                                      | Key Codes                     | Notes                                                            |
 | ----------- | ---------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------- |
-| **HCC 108** | Vascular disease                                     | **I70.2xx–I70.7xx, I73.1, I73.9** | Core PVD HCC — all atherosclerosis of extremities                |
+| **HCC 108** | Vascular disease                                     | **I70.2xx-I70.7xx, I73.1, I73.9** | Core PVD HCC — all atherosclerosis of extremities                |
 | **HCC 39**  | Bone/joint/muscle infections/necrosis incl. gangrene | **[[I96]], [[M86.9]]**            | Only when gangrene not captured in DM/atherosclerosis combo code |
 
 ---
@@ -321,7 +320,7 @@ A 78-year-old male with a history of atherosclerosis of the native arteries of t
 
 ---
 
-## ⚠️ Common Coding Pitfalls – PVD
+## ⚠️ Common Coding Pitfalls - PVD
 
 1. **Using I73.9 (PVD unspecified) when atherosclerosis is documented** — If the chart says "peripheral arterial disease" or "peripheral atherosclerosis," you have enough to code to the I70.2x family. Query for laterality and severity before defaulting to I73.9.
 

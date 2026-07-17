@@ -1,4 +1,3 @@
-# Clinical Classification and Coding Methodology: Traumatic vs. Non-Traumatic Spinal Cord Injuries
 
 ## 1. Introduction to Spinal Cord Injury (SCI) Terminology
 
@@ -60,10 +59,10 @@ The financial and regulatory management of spinal surgeries is governed by the "
 
 | CPT Code | Global Period |
 | -------- | ------------- |
-| 63030    | 090           |
-| 63047    | 090           |
-| 63056    | 090           |
-| 63081    | 090           |
+| **[[63030]]**    | 090           |
+| **[[63047]]**    | 090           |
+| **[[63056]]**    | 090           |
+| **[[63081]]**    | 090           |
 
 Following the surgical intervention, the focus of the HIM strategist shifts to the selection of Evaluation and Management levels for post-operative and non-surgical encounters.
 
@@ -73,7 +72,7 @@ Practitioners may select the appropriate level of service for spinal encounters 
 
 ### MDM Level Determination for SCI
 
-Selecting high-level E/M codes (e.g., [[99205]], **99215**, **99223**) requires meeting two of the three MDM elements:
+Selecting high-level E/M codes (e.g., [[99205]], [[99215]], [[99223]]) requires meeting two of the three MDM elements:
 
 - **Problem Complexity:** Requires a condition that "poses a threat to life or bodily function," such as acute [[paralysis]].
 - **Data Complexity:** The use of an **Independent Historian** (Category 2 Data) is vital in traumatic cases. If a patient cannot provide a history due to a traumatic brain injury (TBI), confusion, or intubation, and the physician obtains history from a surrogate, this fulfills the requirement.

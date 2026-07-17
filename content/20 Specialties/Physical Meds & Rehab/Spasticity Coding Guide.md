@@ -40,7 +40,7 @@ Spasticity is the most common presentation of CP.
 * **Spastic Quadriplegic CP ([[G80.0]])**
 * **Spastic Diplegic CP ([[G80.1]])**
 * **Spastic Hemiplegic CP ([[G80.2]])**
-* **Type 1 Excludes:** Hereditary spastic paraplegia ([[50 Medical Coding/ICD-10 Codes/G11.4]]) cannot be coded with G80.-.
+* **Type 1 Excludes:** Hereditary spastic paraplegia ([[G11.4]]) cannot be coded with G80.-.
 
 ## 4. Inpatient vs. Profee Considerations
 When navigating the inpatient facility side compared to professional fee coding, the sequencing and weight of spasticity codes shift:
@@ -55,30 +55,30 @@ When spasticity is documented, these are the typical procedural treatments and c
 Used for targeted muscle relaxation. Code selection is driven by the body area and the number of muscles injected, not the number of injections or units of drug (the drug itself is billed with a HCPCS code like **J0585**).
 
 * **Extremities (Arms/Legs):**
-  * **64642**: Chemodenervation of one extremity; 1-4 muscle(s)
-  * +**64643**: Each additional extremity, 1-4 muscle(s) *(Add-on code)*
-  * **64644**: Chemodenervation of one extremity; 5 or more muscle(s)
-  * +**64645**: Each additional extremity, 5 or more muscle(s) *(Add-on code)*
+  * **[[64642]]**: Chemodenervation of one extremity; 1-4 muscle(s)
+  * +**[[64643]]**: Each additional extremity, 1-4 muscle(s) *(Add-on code)*
+  * **[[64644]]**: Chemodenervation of one extremity; 5 or more muscle(s)
+  * +**[[64645]]**: Each additional extremity, 5 or more muscle(s) *(Add-on code)*
 * **Trunk & Neck:**
-  * **64646**: Chemodenervation of trunk muscle(s); 1-5 muscle(s)
-  * **64647**: Chemodenervation of trunk muscle(s); 6 or more muscle(s)
-  * **64616**: Chemodenervation of neck muscle(s) (excluding larynx)
+  * **[[64646]]**: Chemodenervation of trunk muscle(s); 1-5 muscle(s)
+  * **[[64647]]**: Chemodenervation of trunk muscle(s); 6 or more muscle(s)
+  * **[[64616]]**: Chemodenervation of neck muscle(s) (excluding larynx)
 * **Needle Guidance (Crucial to capture if documented):**
-  * +**95873**: Electrical stimulation guidance
-  * +**95874**: Needle electromyography (EMG) guidance
-  * **76942**: Ultrasound guidance for needle placement
+  * +**[[95873]]**: Electrical stimulation guidance
+  * +**[[95874]]**: Needle electromyography (EMG) guidance
+  * **[[76942]]**: Ultrasound guidance for needle placement
 
 ### Intrathecal Baclofen (ITB) Therapy
 For severe, **systemic spasticity**, a pump delivers baclofen directly into the cerebrospinal fluid. 
 
 * **Pump Analysis & Refills (High volume in the outpatient clinic):**
-  * **62367**: Electronic analysis of programmable pump; *without* reprogramming or refill
-  * **62368**: Electronic analysis; *with* reprogramming
-  * **62369**: Electronic analysis; *with* reprogramming and refill
-  * **62370**: Electronic analysis; *with* reprogramming and refill (specifically requiring the skill of a physician or qualified healthcare professional)
+  * **[[62367]]**: Electronic analysis of programmable pump; *without* reprogramming or refill
+  * **[[62368]]**: Electronic analysis; *with* reprogramming
+  * **[[62369]]**: Electronic analysis; *with* reprogramming and refill
+  * **[[62370]]**: Electronic analysis; *with* reprogramming and refill (specifically requiring the skill of a physician or qualified healthcare professional)
 * **Implantation (Surgical/Facility):**
-  * **62362**: Implantation or replacement of a programmable intrathecal pump
-  * **62350**: Implantation, revision, or repositioning of the intrathecal catheter
+  * **[[62362]]**: Implantation or replacement of a programmable intrathecal pump
+  * **[[62350]]**: Implantation, revision, or repositioning of the intrathecal catheter
 
 ### Neurotoxin HCPCS J-Codes (Chemodenervation Drugs)
 When billing for the drug supply alongside the administration (**CPT**) codes, use the specific J-code for the brand administered. Always verify the exact number of units wasted versus administered, and append the [[-JW]] (drug wasted) or [[-JZ]] (zero drug wasted) modifiers as required by the payer.
@@ -120,15 +120,15 @@ If the **spasticity** is localized to a specific "**pattern**" of [[paralysis]] 
 | Pattern | ICD-10 Code | Notes |
 |---|---|---|
 | Spastic Hemiplegia | G81.1- | Requires a 5th/6th character for side (right/left) and dominance. |
-| Spastic Paraplegia | G82.2- | Often used for spinal cord injury or hereditary spastic paraplegia ([[50 Medical Coding/ICD-10 Codes/G11.4]]). |
+| Spastic Paraplegia | G82.2- | Often used for spinal cord injury or hereditary spastic paraplegia ([[G11.4]]). |
 | Spastic Quadriplegia | G82.5- | Used for spasticity affecting all four limbs (non-congenital). |
 
 3. **Avoiding the "Symptom" Trap**
 You may see [[R25.2]] (Cramp and spasm) or [[M62.838]] (Other muscle spasm) in the index, but for a professional coder, these are usually sub-optimal:
- * **R25**.2 (**Cramp and spasm**): This is a Chapter 18 "Symptom" code. It’s generally used for general muscle cramps or when the clinical documentation is very thin.
- * **M62.838** (**Other muscle spasm**): This is a Chapter 13 "**Musculoskeletal**" code. It is best reserved for spasms related to local issues like back strain or "**charley horses**," rather than the **upper motor neuron (UMN)** involvement seen in true spasticity.
+ * **[[R25.2]]** (**Cramp and spasm**): This is a Chapter 18 "Symptom" code. It’s generally used for general muscle cramps or when the clinical documentation is very thin.
+ * **[[M62.838]]** (**Other muscle spasm**): This is a Chapter 13 "**Musculoskeletal**" code. It is best reserved for spasms related to local issues like back strain or "**charley horses**," rather than the **upper motor neuron (UMN)** involvement seen in true spasticity.
 
-Quick Checklist for Your Charts:
+**Quick Checklist for Your Charts:**
  * Is a cause known? If it's due to a **Traumatic Brain Injury (TBI)**, code the sequela of the **TBI** (S06.-) first, followed by the spasticity code.
  * Is it a pattern? If it’s strictly one side, G81.1- is your friend.
  * Is it "**just**" spasticity? Use [[G25.82]].
@@ -137,24 +137,27 @@ Since there is no documentation of a **stroke** or **Cerebral Palsy (CP**), and 
 
 The mention of [[ileus]] is a significant clinical clue. In many neurological cases, spasticity and [[ileus]] (specifically paralytic ileus) coexist because they are both symptoms of disrupted nerve signaling—one affecting the skeletal muscles and the other affecting the smooth muscles of the gut.
 
-1. The Spasticity Code: **G25.82**
+1. **The Spasticity Code: [[G25.82]]**
 As long as the spasticity is documented as a neurological finding and not just a minor "muscle cramp," [[G25.82]] (**Spasticity**) remains the most accurate choice.
  * Why not [[R25.2]]? **R25.2** (Cramp and spasm) is a symptom code. **G25.82** is a more specific "Movement Disorder" code that better reflects the complexity of neurological spasticity.
  * Check for **Myelopathy**: If the record mentions "[[myelopathy]]" or "spinal cord compression," you would likely move to a G95.- code, which often includes [[spasticity]] as an inherent component.
-1. The [[Ileus]] Code: [[K56.0]] vs. [[K56.7]]
+
+1. **The [[Ileus]] Code: [[K56.0]] vs. [[K56.7]]**
 
 The "best" code for ileus depends on how the provider describes it:
  * [[K56.0]] (**Paralytic ileus**): Use this if the ileus is caused by a lack of muscle contraction (very common in neurological patients). Interestingly, the ICD-10 index also points "Spastic ileus" to this same code.
  * [[K56.7]] (**Ileus, unspecified**): Use this only if the provider simply writes "ileus" without further clarification.
 
-1. Searching for a "Connecting" Diagnosis
+3. **Searching for a "Connecting" Diagnosis**
 
 Since these two conditions are often linked, you may want to do a "Ctrl+F" or a deep dive in the record for the following terms. If found, they might provide a more "complete" diagnostic picture:
  * **Spinal Cord Injury (SCI)** or Lesion: Patients with chronic spinal issues often have both spasticity and "Neurogenic Bowel" (which can manifest as [[ileus]]).
- * Hereditary Spastic Paraplegia ([[50 Medical Coding/ICD-10 Codes/G11.4]]): A rarer condition that causes progressive limb stiffness.
+ * Hereditary Spastic Paraplegia ([[G11.4]]): A rarer condition that causes progressive limb stiffness.
  * Autonomic Dysreflexia ([[G90.4]]): If the ileus is part of a larger autonomic storm.
- * 
-Coding Summary Table
+ 
+ ---
+ 
+#### Coding Summary Table
 
 | Condition | Preferred ICD-10 Code | Note |
 |---|---|---|
@@ -164,6 +167,8 @@ Coding Summary Table
 
 > Pro Tip: If the patient is receiving treatment for both (e.g., a Baclofen pump for [[spasticity]] and a bowel regimen for ileus), coding both [[G25.82]] and [[K56.0]] accurately reflects the increased **Medical Decision Making (MDM**) and complexity of the case.
 > 
+
+##### Sources:
 
 <sup>CMS ICD-10-CM Official Guidelines for Coding and Reporting FY 2025</sup>
 <sup>CMS-HCC Risk Adjustment Model V28 Summary</sup>

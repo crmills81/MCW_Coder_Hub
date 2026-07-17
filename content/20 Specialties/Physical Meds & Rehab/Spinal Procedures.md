@@ -1,4 +1,14 @@
-**Tags:** #coding/procedures #spine #injections #pmr
+---
+tags:
+- spinal_surgeries
+- coding
+- procedures
+- spine
+- injections
+- pmr
+- cervical
+---
+
 
 ## Overview
 **PM&R** physicians commonly perform spinal interventions for pain management. Proper coding requires understanding anatomy levels and guidance requirements.

@@ -265,15 +265,15 @@ last_reviewed: 2026-05-06
 ## ⚠️ Common Coding Pitfalls
 
 > [!warning] Pitfalls to Avoid
-
-| Pitfall                                               | Correct Approach                                                                   |
-| ----------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| **Using Z89 for congenital limb absence**                 | Use Q71-Q73 instead                                                                |
-| **Using Z89 during acute traumatic amputation encounter** | Use S-code injury codes with 7th char A; Z89 applies after healing                 |
-| **Missing laterality**                                    | Always specify right, left, or bilateral                                           |
-| **Missing level of amputation**                           | Below knee (BK), above knee (AK), transmetatarsal — document and code specifically |
-| **Forgetting underlying etiology**                        | Always code diabetes, PAD, trauma etiology as additional dx                        |
-| **Using unspecified Z89.9 when level is documented**      | Code the most specific level available                                             |
+> | Pitfall                                               | Correct Approach                                                                   |
+> | ----------------------------------------------------- | ---------------------------------------------------------------------------------- |
+> | **Using Z89 for congenital limb absence**                 | Use Q71-Q73 instead                                                                |
+> | **Using Z89 during acute traumatic amputation encounter** | Use S-code injury codes with 7th char A; Z89 applies after healing                 |
+> | **Missing laterality**                                    | Always specify right, left, or bilateral                                           |
+> | **Missing level of amputation**                           | Below knee (BK), above knee (AK), transmetatarsal — document and code specifically |
+> | **Forgetting underlying etiology**                        | Always code diabetes, PAD, trauma etiology as additional dx                        |
+> | **Using unspecified Z89.9 when level is documented**      | Code the most specific level available                                             |
+> 
 
 ---
 

@@ -86,7 +86,7 @@ Spasticity and muscle spasm arise most commonly in the inpatient PMR setting fol
 | **[[Muscle spasm]]** | Sudden, involuntary, often painful contraction                            | Reflex arc overactivation; local or central origin | [[R25.2]]                                                      |
 | **[[Spasticity]]**   | Velocity-dependent increase in muscle tone (UMN sign)                     | Loss of descending inhibition from UMN lesion      | Captured via G81.1x qualifier; no standalone code              |
 | **Flaccidity**       | Loss of muscle tone; reduced or absent reflexes                           | LMN lesion or acute UMN disruption (spinal shock)  | Captured via G81.0x qualifier                                  |
-| **Rigidity**         | Constant resistance to passive movement (lead-pipe or cogwheel)           | Basal ganglia dysfunction (e.g., Parkinson's)      | [[G20]], G21.x — not a PMR spasticity code                     |
+| **Rigidity**         | Constant resistance to passive movement (lead-pipe or cogwheel)           | Basal ganglia dysfunction (e.g., Parkinson's)      | G20.x, G21.x — not a PMR spasticity code                     |
 | **[[Contracture]]**  | Fixed shortening of muscle/tendon due to chronic spasticity or immobility | Downstream sequela of unresolved spasticity        | [[M62.40]]-[[M62.48]]                                          |
 | **Clonus**           | Rhythmic oscillating contractions in response to sustained stretch        | UMN lesion; associated with spasticity             | Documented but coded through underlying dx; no standalone code |
 
