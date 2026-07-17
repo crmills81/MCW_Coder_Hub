@@ -30,7 +30,7 @@ aliases:
 # Medicare Consults — Coding & Billing Guide
 
 > [!warning] **Critical Rule**
-> Medicare **does not recognize consultation CPT codes (99241-99255)**. These codes were eliminated from the Medicare Physician Fee Schedule effective **January 1, 2010** (CMS Transmittal 1875). Billing consult codes to Medicare will result in **claim denial**.
+> **Medicare** **does not recognize consultation CPT codes ([[99241]]-[[99255]])**. These codes were eliminated from the Medicare Physician Fee Schedule effective **January 1, 2010** (CMS Transmittal 1875). Billing consult codes to Medicare will result in **claim denial**.
 
 ---
 
@@ -72,7 +72,7 @@ Prior to **2010**, physicians used consultation codes (**[[99241]]**-**[[99245]]
 | Patient discharged same day consulting physician provided service | **[[99234]]-[[99236]]** (Observation or Inpatient Care, Admission and Discharge Same Date) |
 
 > [!important] **One Initial Hospital Care Code Per Admission Per Physician**
-> Each physician/physician group may only bill **one initial hospital care code ([[99221]]-[[99223]])** per patient per hospital admission, per specialty. After the first day, subsequent hospital care codes ([[99231]]-[[99233]]) are used for each additional encounter.
+> Each physician/physician group may only bill **one initial hospital care code ([[99221]]-[[99223]])** per patient per hospital admission, per specialty. After the first day, subsequent hospital care codes (**[[99231]]-[[99233]]**) are used for each additional encounter.
 
 ---
 
@@ -170,12 +170,12 @@ When a physician and an NPP (**Nurse Practitioner or Physician Assistant**) **bo
 
 - When a Urologist is asked to consult on [[hematuria]], BPH, kidney mass, etc., bill the appropriate **initial hospital care ([[99221]]-[[99223]])** or **new patient office E/M ([[99202]]-[[99205]])** based on setting
 - Urologists frequently perform **procedures** at the time of or following the consult — bill procedure codes **separately** if not bundled (**check NCCI edits**)
-- Common bundling issues: [[cystoscopy]] ([[52000]]) with E/M — use **]]** on the E/M if a separately identifiable E/M was performed on the same day as a procedure
-- **Modifier -25** = Significant, Separately Identifiable E/M Service by the Same Physician on the Same Day as a Procedure
+- Common bundling issues: [[cystoscopy]] (**[[52000]]**) with E/M — use **]]** on the E/M if a separately identifiable E/M was performed on the same day as a procedure
+- **Modifier [[-25]]** = Significant, Separately Identifiable E/M Service by the Same Physician on the Same Day as a Procedure
 
 ### 7b. Ophthalmology Consults
 
-- Ophthalmologists have the **unique option** to use either standard E/M codes ([[99202]]-[[99215]]) **or** Eye Visit codes ([[92002]]-[[92014]]) for office visits — **not both on the same date**
+- Ophthalmologists have the **unique option** to use either standard E/M codes (**[[99202]]-[[99215]]**) **or** Eye Visit codes (**[[92002]]-[[92014]]**) for office visits — **not both on the same date**
 - For **inpatient consults**, [[Ophthalmology]] uses the same **[[99221]]-[[99223]] / [[99231]]-[[99233]]** codes as all other specialties — Eye codes are **outpatient only**
 - When performing an inpatient consult for acute angle-closure [[glaucoma]], post-op complications, or trauma, bill initial hospital care under the Ophthalmologist's NPI
 - **Modifier -25** is critical when a procedure (e.g., foreign body removal, I&D of [[chalazion]], [[YAG laser]]) is performed same day as an E/M
@@ -184,7 +184,7 @@ When a physician and an NPP (**Nurse Practitioner or Physician Assistant**) **bo
 
 - ENT consults are commonly requested for airway management, [[epistaxis]], head/neck masses, **sinusitis**, and hearing/balance evaluation
 - Inpatient ENT consults bill **[[99221]]-[[99223]]** for initial encounter; **[[99231]]-[[99233]]** for subsequent
-- Flexible [[nasolaryngoscopy]] ([[31575]]) is frequently performed at the bedside during inpatient consults — bill with **Modifier -25** on the E/M if it meets the criteria for a separate service
+- Flexible [[nasolaryngoscopy]] ([[31575]]) is frequently performed at the bedside during inpatient consults — bill with **Modifier [[-25]]** on the E/M if it meets the criteria for a separate service
 - Post-procedural care globally included in some procedures — confirm global period before billing a separate E/M
 
 ---
@@ -192,7 +192,7 @@ When a physician and an NPP (**Nurse Practitioner or Physician Assistant**) **bo
 ## 8. Non-Medicare Payers — Important Distinction
 
 > [!caution] **Check Each Payer's Policy**
-> Not all payers follow Medicare's lead. Many **commercial payers still accept and prefer** consultation codes ([[99241]]-[[99255]]). Always verify the payer's current policy before choosing between consult codes and E/M codes.
+> Not all payers follow Medicare's lead. Many **commercial payers still accept and prefer** consultation codes (**[[99241]]-[[99255]]**). Always verify the payer's current policy before choosing between consult codes and E/M codes.
 
 | Payer Type | Consult Codes (99241-99255) |
 |---|---|
@@ -235,7 +235,7 @@ When **multiple physicians** bill initial hospital care ([[99221]]-[[99223]]) fo
 | Denial Reason             | Likely Cause                                                           | Resolution                                             |
 | ------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------ |
 | **CO-4 / CO-B7**          | Consult code billed to Medicare                                        | Recode to appropriate E/M; resubmit                    |
-| **CO-97 / NCCI Bundling** | E/M bundled with procedure, no Modifier -25                            | Add Modifier -**25** to E/M if separately identifiable |
+| **CO-97 / NCCI Bundling** | E/M bundled with procedure, no Modifier [[-25]]                        | Add Modifier **[[-25]]** to E/M if separately identifiable |
 | **CO-18 / Duplicate**     | Two physicians in same specialty billed initial hospital care same day | Confirm correct code; ensure different specialties     |
 | **CO-50**                 | Not medically necessary                                                | Strengthen documentation to support MDM level billed   |
 | **CO-4**                  | Invalid/missing modifier                                               | Review modifier usage; add AI if applicable            |
@@ -246,7 +246,7 @@ When **multiple physicians** bill initial hospital care ([[99221]]-[[99223]]) fo
 
 Medicare expanded telehealth coverage significantly post-COVID. As of current policy:
 
-- Outpatient telehealth consult → bill **[[99202]]-[[99215]]** with **Place of Service 02** (telehealth, non-originating site) or **POS 10** (telehealth, patient home) and **Modifier -95**
+- Outpatient telehealth consult → bill **[[99202]]-[[99215]]** with **Place of Service 02** (telehealth, non-originating site) or **POS 10** (telehealth, patient home) and **Modifier [[-95]]**
 - Inpatient telehealth is more restrictive — verify current CMS telehealth code list annually, as these change with each MPFS final rule
 - Audio-only visits are covered with specific modifiers under certain circumstances — verify annually
 
@@ -254,7 +254,7 @@ Medicare expanded telehealth coverage significantly post-COVID. As of current po
 
 ## 13. Quick Reference Summary
 
-```
+```markdown
 MEDICARE CONSULT CODING — QUICK LOOKUP
 
 SETTING          | FIRST ENCOUNTER     | SUBSEQUENT

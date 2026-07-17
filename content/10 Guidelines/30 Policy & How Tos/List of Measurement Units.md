@@ -42,76 +42,76 @@ This system includes two types of units important in clinical medicine. The _ba
 
 ### SOME SI DERIVED UNITS
 
-|Quantity|Name of Derived Unit|Symbol|
-|---|---|---|
-|Area|square meter|m2|
-|Volume|cubic meter|m3|
-|Speed, velocity|meter per second|m/s|
-|Acceleration|meter per second squared|m/s2|
-|Mass density|kilogram per cubic meter|kg/m3|
-|Concentration of a substance|mole per cubic meter|mol/m3|
-|Specific volume|cubic meter per kilogram|m3 /kg|
-|Luminescence|candela per square meter|cd/m2|
-|Body mass index|kilogram per meter squared|kg/m2|
+| Quantity                     | Name of Derived Unit       | Symbol |
+| ---------------------------- | -------------------------- | ------ |
+| **Area**                         | square meter               | m2     |
+| **Volume**                       | cubic meter                | m3     |
+| **Speed, velocity**              | meter per second           | m/s    |
+| **Acceleration**                 | meter per second squared   | m/s2   |
+| **Mass density**                 | kilogram per cubic meter   | kg/m3  |
+| **Concentration of a substance** | mole per cubic meter       | mol/m3 |
+| **Specific volume**              | cubic meter per kilogram   | m3 /kg |
+| **Luminescence**                 | candela per square meter   | cd/m2  |
+| **Body mass index**              | kilogram per meter squared | kg/m2  |
 
 ### SI DERIVED UNITS WITH SPECIAL NAMES
 
-|Quantity|Name|Symbol|Expressed in Terms of Other Units|
-|---|---|---|---|
-|Frequency|hertz|Hz|s−1|
-|Force|newton|N|kg·m·s−2 or kg·m/s2|
-|Pressure|pascal|Pa|N·m−2 or N/m2|
-|Energy, work, amount of heat|joule|J|kg·m2· s−2 or N·m|
-|Power|watt|W|J·s or J/s|
-|Quantity of electricity|coulomb|C|A·s|
-|Electromotive force|volt|V|W/A|
-|Capacitance|farad|F|C/V|
-|Electrical resistance|ohm|Ω|V/a|
-|Conductance|siemens|S|A/V|
-|Inductance|henry|H|Wφ/A|
-|Illuminance|lux|lx|ln/m2|
-|Absorbed (radiation) dose|gray|Gy|J/kg|
-|Dose equivalent (radiation)|sievert|Sv|J/kg|
-|Activity (radiation)|becquerel|Bq|s−1|
+| Quantity                     | Name      | Symbol | Expressed in Terms of Other Units |
+| ---------------------------- | --------- | ------ | --------------------------------- |
+| **Frequency**                    | hertz     | Hz     | s−1                               |
+| **Force**                        | newton    | N      | kg·m·s−2 or kg·m/s2               |
+| **Pressure**                     | pascal    | Pa     | N·m−2 or N/m2                     |
+| **Energy, work, amount of heat** | joule     | J      | kg·m2· s−2 or N·m                 |
+| **Power**                        | watt      | W      | J·s or J/s                        |
+| **Quantity of electricity**      | coulomb   | C      | A·s                               |
+| **Electromotive force**          | volt      | V      | W/A                               |
+| **Capacitance**                  | farad     | F      | C/V                               |
+| **Electrical resistance**        | ohm       | Ω      | V/a                               |
+| **Conductance**                  | siemens   | S      | A/V                               |
+| **Inductance**                   | henry     | H      | Wφ/A                              |
+| **Illuminance**                  | lux       | lx     | ln/m2                             |
+| **Absorbed (radiation) dose**    | gray      | Gy     | J/kg                              |
+| **Dose equivalent (radiation)**  | sievert   | Sv     | J/kg                              |
+| **Activity (radiation)**         | becquerel | Bq     | s−1                               |
 
 ### PREFIXES AND MULTIPLES USED IN SI
 
-|Prefix|Symbol|Power|Multiple or Portion of a Multiple|
-|---|---|---|---|
-|tera|T|1012|1,000,000,000,000.|
-|giga|G|109|1,000,000,000.|
-|mega|M|106|1,000,000.|
-|kilo|k|103|1,000.|
-|hecto|h|102|100.|
-|deca|da|101|10.|
-|unity|||1|
-|deci|d|10−1|0.1|
-|centi|c|10−2|0.01|
-|milli|m|10−3|0.001|
-|micro|μ|10−6|0.000001|
-|nano|n|10−9|0.000000001|
-|pico|p|10 −12|0.000000000001|
-|femto|f|10−15|0.000000000000001|
-|atto|a|10−18|0.000000000000000001|
+| Prefix | Symbol | Power  | Multiple or Portion of a Multiple |
+| ------ | ------ | ------ | --------------------------------- |
+| **tera**   | **T**      | 1012   | 1,000,000,000,000.                |
+| **giga**   | **G**      | 109    | 1,000,000,000.                    |
+| **mega**   | **M**      | 106    | 1,000,000.                        |
+| **kilo**   | **k**      | 103    | 1,000.                            |
+| **hecto**  | **h**      | 102    | 100.                              |
+| **deca**   | **da**     | 101    | 10.                               |
+| **unity**  |        |        | 1                                 |
+| **deci**   | **d**      | 10−1   | 0.1                               |
+| **centi**  | **c**      | 10−2   | 0.01                              |
+| **milli**  | **m**      | 10−3   | 0.001                             |
+| **micro**  | **μ**      | 10−6   | 0.000001                          |
+| **nano**   | **n**      | 10−9   | 0.000000001                       |
+| **pico**   | **p**      | 10 −12 | 0.000000000001                    |
+| **femto**  | **f**      | 10−15  | 0.000000000000001                 |
+| **atto**   | **a**      | 10−18  | 0.000000000000000001              |
 
 # Metric System
 
 ### MASSES
 
-|Mass|   |Grams|
-|---|---|---|
-|1 Kilogram|=|1000.0|
-|1 Hectogram|=|100.0|
-|1 Decagram (Dekagram)|=|10.0|
-|1 gram|=|1.0|
-|1 decigram|=|0.1|
-|1 centigram|=|0.01|
-|1 milligram|=|0.001|
-|1 microgram|=|10−6|
-|1 nanogram|=|10−9|
-|1 picogram|=|10−12|
-|1 femtogram|=|10−15|
-|1 attogram|=|10−18|
+| Mass                  |     | Grams  |
+| --------------------- | --- | ------ |
+| **1 Kilogram**            | =   | 1000.0 |
+| **1 Hectogram**           | =   | 100.0  |
+| **1 Decagram (Dekagram)** | =   | 10.0   |
+| **1 gram**                | =   | 1.0    |
+| **1 decigram**            | =   | 0.1    |
+| **1 centigram**           | =   | 0.01   |
+| **1 milligram**           | =   | 0.001  |
+| **1 microgram**           | =   | 10−6   |
+| **1 nanogram**            | =   | 10−9   |
+| **1 picogram**            | =   | 10−12  |
+| **1 femtogram**           | =   | 10−15  |
+| **1 attogram**            | =   | 10−18  |
 
 Arabic numbers are used with masses and measures, as 10 g, or 3 ml. Portions of masses and measures are usually expressed decimally, e.g., 10−1 indicates 0.1; 10−6 = 0.000001. SEE: [Appendix 7-1: Scientific Notation Appendix](https://www.tabers.com/tabersonline/view/Tabers-Dictionary/729045/all/Units_of_Measurement__Including_SI_Units_#0)  
 .
@@ -124,14 +124,14 @@ Arabic numerals are used with masses and measures, as 10 g, or 3 mL. Portions of
 
 ### LENGTH
 
-|Millimeters (mm)|Centimeters (cm)|Inches (in)|Feet (ft)|Yards (yd)|Meters (m)|
-|---|---|---|---|---|---|
-|1.0|0.1|0.03937|0.00328|0.0011|0.001|
-|10.0|1.0|0.3937|0.03281|0.0109|0.01|
-|25.4|2.54|1.0|0.0833|0.0278|0.0254|
-|304.8|30.48|12.0|1.0|0.333|0.3048|
-|914.40|91.44|36.0|3.0|1.0|0.9144|
-|1000.0|100.0|39.37|3.2808|1.0936|1.0|
+| Millimeters (mm) | Centimeters (cm) | Inches (in) | Feet (ft) | Yards (yd) | Meters (m) |
+| ---------------- | ---------------- | ----------- | --------- | ---------- | ---------- |
+| 1.0              | **0.1**              | **0.03937**     | **0.00328**   | 0.0011     | 0.001      |
+| 10.0             | **1.0**              | **0.3937**      | **0.03281**   | 0.0109     | 0.01       |
+| 25.4             | **2.54**             | **1.0**         | **0.0833**    | 0.0278     | 0.0254     |
+| 304.8            | **30.48**            | **12.0**        | **1.0**       | 0.333      | 0.3048     |
+| 914.40           | **91.44**            | **36.0**        | **3.0**       | 1.0        | 0.9144     |
+| 1000.0           | **100.0**            | **39.37**       | **3.2808**    | 1.0936     | 1.0        |
 
 - 1 μm = 1 micrometer = 0.001 millimeter. 1 mm = 100 μm.
 - 1 km = 1 kilometer = 1000 meters = 0.62137 statute mile.

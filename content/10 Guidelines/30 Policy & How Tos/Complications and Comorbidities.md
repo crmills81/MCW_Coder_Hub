@@ -1,3 +1,16 @@
+---
+tags:
+  - inpatient-coding
+  - cc-mcc
+  - ms-drg
+  - pmr
+  - urology
+  - ent
+  - ophthalmology
+  - complications-comorbidities
+---
+
+
 # 🏥 Inpatient Medical Coding: CC/MCC by Specialty
 *PMR • Urology • Otolaryngology • Ophthalmology*
 
@@ -19,10 +32,12 @@
 - **Clinical validation**: Provider documentation must support the diagnosis; coders cannot assign based on clinical criteria alone [6]
 - **Query when unclear**: Use clinical validation queries to bridge gaps between documentation and coding requirements [6]
 
-### FY 2025 Updates
-- CMS added **4 ICD-10-CM codes to MCC list** and **29 codes to CC list** for FY 2025 [52]
-- Total ICD-10-CM codes increased from 73,674 to 74,044 [49]
-- All changes effective **October 1, 2024** [50]
+### FY 2026 Updates
+- CMS added **20 new ICD-10-CM codes to the MCC list** and **111 new codes to the CC list** for FY 2026 (Tables 6I/6J) [52]
+- FY 2026 ICD-10-CM overall: **487 new diagnosis codes, 38 revised, 28 deleted** — a net increase over FY 2025's 252 new codes [49]
+- MS-DRG Grouper updated to **v43.0**, effective **October 1, 2025**; a mid-year update (**v43.1**, 80 new ICD-10-PCS codes) took effect **April 1, 2026** [50]
+- CMS **deleted MS-DRGs 077–079** (Hypertensive Encephalopathy), **294–295** (Deep Vein Thrombophlebitis), and **509** (low-volume arthroscopy) as part of the FY 2026 low-volume DRG consolidation — none fall within PMR/Urology/ENT/Ophthalmology ranges, but coders should scrub old DRG references from CDI tools [50]
+- Largest volume of new codes: **Chapter 12 (Skin)** — 112 new non-pressure chronic ulcer codes by site/severity — and **Chapter 7 (Eye)** — 17 new codes including 9 site-specific eyelid/blepharitis codes (replacing general H01.8) and new Demodex-related and neovascular secondary glaucoma codes [49]
 
 ### The Nine Guiding Principles for CC/MCC Analysis 
 1. Represents end-of-life/near death or advanced systemic decompensation
@@ -76,6 +91,9 @@ Inpatient Rehabilitation Facilities use **two parallel coding systems**:
 > [!WARNING] IRF-Specific Pitfall
 > A comorbidity assigned to a payment tier **must be sequenced within the first 10 comorbidities** on the IRF-PAI to be reported and impact reimbursement [12].
 
+> [!NOTE] FY 2026 Update — Non-Pressure Chronic Ulcers
+> Don't confuse **pressure ulcers** (L89.-, coded above) with **non-pressure chronic ulcers** (L97/L98), which got **112 new site- and severity-specific codes** for FY 2026 — new anatomical subcategories now exist for sites like the flank, abdomen, chest, neck, groin, and upper limb that previously had no dedicated code. PMR patients with diabetic, venous, or arterial ulcers may now qualify for more specific — and potentially higher-weighted — CC/MCC codes than the "unspecified site" defaults used in prior years [49].
+
 ---
 
 ## 🚽 Urology Inpatient Coding
@@ -107,7 +125,8 @@ Inpatient Rehabilitation Facilities use **two parallel coding systems**:
 └─────────────────────────────────────────┘
 ```
 
-### Urology-Specific CC/MCC Examples 
+### Urology-Specific CC/MCC Examples
+> [!WARNING] Dollar figures below are illustrative national averages and shift with each year's IPPS Final Rule (relative weights + wage index). Verify current amounts against your facility's active Pricer before using in appeals or CDI education. 
 | Procedure/Condition                     | DRG w/ MCC   | DRG w/ CC    | DRG w/o CC/MCC | Common MCC/CC Triggers                           |
 | --------------------------------------- | ------------ | ------------ | -------------- | ------------------------------------------------ |
 | **Minor bladder procedures**                | 662: $22,278 | 663: $11,062 | 664: $7,618    | Sepsis, acute renal failure, severe malnutrition |
@@ -139,7 +158,10 @@ I50.9  Heart failure, unspecified (chronic)
 - **[[Hematuria]]**: Specify cause (**post-procedural, neoplasm, infection**) to avoid unspecified codes
 
 > [!NOTE] Reimbursement Impact
-> Adding a single MCC can increase MS-DRG reimbursement by **$5,000-$15,000+** depending on the base DRG [20][24].
+> Adding a single MCC can increase MS-DRG reimbursement by **$5,000-$15,000+** depending on the base DRG, though exact impact depends on the wage index and current relative weights — verify against the active Pricer rather than relying on fixed dollar figures [20][24].
+
+> [!NOTE] FY 2026 Genitourinary Additions
+> New Chapter 14 (N00-N99) codes for FY 2026 cover **immune complex membranoproliferative glomerulonephritis (IC-MPGN)**, **hereditary/APOL1-mediated nephropathy**, and genetic susceptibility/family history indicators for kidney disease. Watch for these on complex nephrology-comanaged urology admissions — they add specificity beyond the existing N18.4/N18.5 CKD staging codes already in your reference table [49].
 
 ---
 
@@ -236,6 +258,19 @@ H53.121 Subjective visual disturbance, right eye
 E11.319 Type 2 diabetes mellitus with unspecified diabetic retinopathy
 ```
 
+### FY 2026 Ophthalmology Chapter Updates
+```markdown
+✅ 9 new site-specific eyelid inflammation codes REPLACE the general H01.8 code
+✅ New Demodex blepharitis codes — pair with new acariasis code B88.0- when
+   Demodex mites are the documented cause (responsible for 70%+ of blepharitis cases)
+✅ New codes for neovascular secondary angle closure glaucoma (severe secondary
+   glaucoma subtype — document underlying cause, e.g., ischemic retinopathy)
+✅ New thyroid eye disease codes — useful for orbital involvement tied to
+   Graves' disease when systemic thyroid status also drives CC/MCC capture
+```
+> [!TIP] Inpatient Relevance
+> Most of these new codes describe outpatient-managed eye disease and won't independently drive CC/MCC status on an inpatient claim. They matter most when the eye condition is the *reason* a systemic complication (orbital cellulitis with sepsis, post-op endophthalmitis, etc.) is being treated — code the systemic complication with full specificity, and use the new eye-chapter codes to complete the clinical picture [49].
+
 ### Academy of Ophthalmology Resources 
 - **ICD-10-CM for Ophthalmology: The Complete Reference** (updated annually)
 - **Subspecialty decision trees**: Anterior uveitis, AMD, diabetes, etc. [88]
@@ -267,11 +302,12 @@ E11.319 Type 2 diabetes mellitus with unspecified diabetic retinopathy
 ---
 
 ## 📚 Key References for Your Vault
-- [[CMS MS-DRG Definitions Manual v42.0]] - Official DRG/CC/MCC logic
-- [[ICD-10-CM Official Guidelines FY 2025]] - Coding rules & POA guidance
+- [[CMS MS-DRG Definitions Manual v43.0]] - Official DRG/CC/MCC logic (v43.1 mid-year update effective 4/1/2026)
+- [[ICD-10-CM Official Guidelines FY 2026]] - Coding rules & POA guidance, effective 10/1/2025
 - [[IRF-PAI Manual v4.2]] - PMR-specific assessment & comorbidity rules
 - [[AAO ICD-10-CM for Ophthalmology]] - Eye-specific coding guidance
 - [[ADL Data CC/MCC Checklist]] - Abbreviated CMS list of qualifying diagnoses [69]
+- [[CMS Table 6I 6J FY2026]] - Official additions/deletions to MCC and CC lists
 
 > [!ABSTRACT] Bottom Line
 > CC/MCC capture is **documentation-driven, not coder-driven**. Your role is to:
@@ -289,5 +325,6 @@ E11.319 Type 2 diabetes mellitus with unspecified diabetic retinopathy
 
 
 ---
-*Last updated: $(date)*  
-*Tags: #inpatient-coding #cc-mcc #ms-drg #pmr #urology #ent #ophthalmology #obsidian-vault*
+<small>
+*Last updated: 2026-07-17 — reviewed for FY 2026 ICD-10-CM (effective 10/1/2025) and MS-DRG v43.0/v43.1*
+</small>

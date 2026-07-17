@@ -1,22 +1,20 @@
-# What are the key differences between HCPCS Level I and II codes I should know
-
-HCPCS coding is divided into two distinct levels with critical differences in structure, purpose, and maintenance. Here's a concise breakdown of the key distinctions:
+**HCPCS coding** is divided into two distinct levels with critical differences in structure, purpose, and maintenance. Here's a concise breakdown of the key distinctions:
 
 ### 1. **Code Structure and Format**
 
 | Feature | HCPCS Level I (CPT®) | HCPCS Level II |
 | :-- | :-- | :-- |
 | **Format** | 5-digit numeric codes | Alphanumeric: 1 letter + 4 digits |
-| **Examples** | 99213 (office visit) | A0425 (ambulance mileage) |
-|  | 10060 (abscess drainage) | J0120 (tetracycline injection) |
+| **Examples** | [[99213]] (office visit) | A0425 (ambulance mileage) |
+|  | [[10060]] (abscess drainage) | J0120 (tetracycline injection) |
 
 ### 2. **Purpose and Scope**
 
 - **Level I (CPT®)**:
-Focuses on **medical services and procedures** performed by physicians and healthcare professionals (e.g., surgeries, evaluations, diagnostic tests)[^1][^2][^5].
+Focuses on **medical services and procedures** performed by physicians and healthcare professionals (e.g., surgeries, evaluations, diagnostic tests).
 *Example:* Radiology interpretations or surgical procedures.
 - **Level II**:
-Covers **products, supplies, and non-physician services** not in CPT®, including[^3][^4][^6]:
+Covers **products, supplies, and non-physician services** not in CPT®, including:
     - Durable medical equipment (E-codes: walkers, hospital beds)
     - Ambulance services (A-codes)
     - Drugs administered (J-codes: chemotherapy)
@@ -27,28 +25,28 @@ Covers **products, supplies, and non-physician services** not in CPT®, includin
 
 | Aspect | Level I (CPT®) | Level II |
 | :-- | :-- | :-- |
-| **Maintainer** | American Medical Association (AMA) | Centers for Medicare \& Medicaid Services (CMS) |
+| **Maintainer** | American Medical Association (AMA) | Centers for Medicare & Medicaid Services (CMS) |
 | **Updates** | Annual revisions by AMA | Quarterly updates by CMS |
-| **Modifiers** | Numeric (e.g., -25) | Alphanumeric (e.g., -LT for left side) |
+| **Modifiers** | Numeric (e.g., [[-25]]) | Alphanumeric (e.g., [[-LT]] for left side) |
 
 ### 4. **Billing Context**
 
-- **Level I** answers: **"What was done?"** (e.g., a surgery or exam)[^3][^5].
-- **Level II** answers: **"What was used?"** (e.g., a drug or medical device)[^3][^4].
-- Both require **ICD-10-CM codes** to justify *why* the service/item was needed[^3][^6].
+- **Level I** answers: **"What was done?"** (e.g., a surgery or exam).
+- **Level II** answers: **"What was used?"** (e.g., a drug or medical device).
+- Both require **ICD-10-CM codes** to justify *why* the service/item was neede.
 
 
 ### 5. **Coverage and Payer Adoption**
 
-- **Level I (CPT®)** is universally adopted by public/private insurers[^1][^2].
-- **Level II** originated for Medicare but is now used by many (not all) commercial insurers[^3][^4].
+- **Level I (CPT®)** is universally adopted by public/private insurers.
+- **Level II** originated for Medicare but is now used by many (not all) commercial insurers.
 
 
 ### Practical Implications
 
-- **Coding accuracy**: Misassigning levels causes claim denials (e.g., using a Level II code for a physician service)[^5][^6].
-- **Documentation**: Level II often requires detailed supply/equipment records and prior authorizations[^2][^5].
-- **Specificity**: Level II’s alphanumeric structure categorizes services by type (e.g., "A" for transport, "J" for drugs)[^5][^6].
+- **Coding accuracy**: Misassigning levels causes claim denials (e.g., using a Level II code for a physician service).
+- **Documentation**: Level II often requires detailed supply/equipment records and prior authorizations.
+- **Specificity**: Level II’s alphanumeric structure categorizes services by type (e.g., "A" for transport, "J" for drugs).
 
 Understanding these distinctions ensures precise billing, reduces claim rejections, and maintains compliance with Medicare and commercial payer rules.
 <span style="display:none">[^10][^7][^8][^9]</span>

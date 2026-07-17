@@ -56,7 +56,7 @@ related_notes:
 ## 🧭 POA Assignment Decision Logic
 
 ### Step-by-Step Assignment Workflow
-```
+```markdown
 1️⃣ IDENTIFY THE DIAGNOSIS
    • Is it the principal diagnosis? → Almost always POA=Y (reason for admission)
    • Is it a secondary diagnosis? → Proceed to step 2
@@ -110,7 +110,9 @@ graph TD
 ## ⚠️ HAC Interaction: POA=N + HAC List = Payment Denial
 
 ### CMS Hospital-Acquired Conditions (HAC) List FY 2025
-> [!WARNING] If a diagnosis is **POA=N** AND appears on the HAC list, Medicare will **NOT pay** the higher DRG weight for that CC/MCC. The hospital absorbs the cost.
+> [!WARNING] 
+> If a diagnosis is **POA=N** AND appears on the HAC list, Medicare will **NOT pay** the higher DRG weight for that CC/MCC. The hospital absorbs the cost.
+> 
 
 | HAC Category | Representative ICD-10-CM Codes | POA Assignment Guidance |
 |-------------|-------------------------------|------------------------|
@@ -124,7 +126,7 @@ graph TD
 | **Foreign Object Retained After Surgery** | [[T81.521A]], [[T81.528A]] | By definition POA=N; triggers HAC review |
 
 > [!TIP] HAC Mitigation Strategy  
-> For conditions on the HAC list that are commonly present on admission (e.g., pressure ulcers in long-term care transfers):  
+> For conditions on the HAC list that are commonly present on admission (**e.g., pressure ulcers in long-term care transfers**):  
 > • Explicitly document "present on admission" in the H&P  
 > • Include wound staging/photos in admission assessment  
 > • Use POA=Y with clear rationale to avoid automatic HAC denial  
@@ -134,84 +136,83 @@ graph TD
 
 > [!example] ## 📋 Common Scenarios: POA Assignment Examples
 > 
-> ### Scenario 1: Chronic Condition with Acute Exacerbation
-> ```markdown
-> Patient admitted for acute exacerbation of COPD.
-> Documentation: "History of COPD; presents with increased dyspnea, purulent sputum x3 days."
+> ### **Scenario 1: Chronic Condition with Acute Exacerbation**
 > 
-> Diagnoses:
+> Patient admitted for acute exacerbation of COPD.
+> **Documentation**: "History of COPD; presents with increased dyspnea, purulent sputum x3 days."
+> 
+> **Diagnoses**:
 > • [[J44.1]] COPD with acute exacerbation → POA=Y (exacerbation began pre-admission)
 > • [[I10]] Essential hypertension → POA=Y (chronic, documented in H&P)
 > • [[E11.9]] Type 2 diabetes mellitus → POA=Y (chronic, managed outpatient)
 > 
-> Rationale: Chronic conditions and their acute exacerbations that prompted admission are POA=Y.
-> ```
+> **Rationale**: Chronic conditions and their acute exacerbations that prompted admission are POA=Y.
 > 
-> ### Scenario 2: Post-Procedural Complication
-> ```markdown
+> 
+> ### **Scenario 2: Post-Procedural Complication**
+> 
 > Patient undergoes laparoscopic cholecystectomy on hospital day 2.
 > On day 4, develops fever, leukocytosis; CT shows intra-abdominal abscess.
 > 
-> Diagnoses:
+> **Diagnoses**:
 > • [[K80.20]] Calculus of gallbladder without cholecystitis → POA=Y (reason for surgery)
 > • [[T81.4XXA]] Infection following procedure, initial encounter → POA=N (developed post-op)
 > • [[A41.9]] Sepsis, unspecified organism → POA=N (secondary to post-op infection)
 > 
-> Payment Impact: 
+> **Payment Impact**: 
 > • [[T81.4XXA]] is a CC but POA=N; not on HAC list → still eligible for CC payment adjustment
 > • [[A41.9]] is an MCC but POA=N; not on HAC list → still eligible for MCC payment adjustment
-> ```
 > 
-> ### Scenario 3: Pressure Ulcer Developed During Stay
-> ```markdown
+> 
+> ### **Scenario 3: Pressure Ulcer Developed During Stay**
+> 
 > Patient admitted for stroke rehabilitation.
-> Admission skin assessment: intact skin, Braden score 16 (moderate risk).
-> Hospital day 7: Stage 3 sacral pressure ulcer noted.
+> **Admission skin assessment**: intact skin, Braden score 16 (moderate risk).
+> **Hospital day 7**: Stage 3 sacral pressure ulcer noted.
 > 
-> Diagnoses:
+> **Diagnoses**:
 > • [[I69.351]] Hemiplegia following cerebral infarction → POA=Y
 > • [[L89.153]] Pressure ulcer of sacral region, stage 3 → POA=N (developed during stay)
 > 
-> Payment Impact:
+> **Payment Impact**:
 > • [[L89.153]] is an MCC AND on HAC list
 > • POA=N + HAC list = NO CC/MCC payment adjustment for this diagnosis
 > • Hospital absorbs cost of complication
 > 
-> Documentation Best Practice: 
+> **Documentation Best Practice**: 
 > • Admission skin assessment with photos/staging prevents ambiguity
 > • Daily skin checks with documentation support POA=N assignment
-> ```
 > 
-> ### Scenario 4: Uncertain Timing — Query Required
-> ```markdown
+> 
+> ### **Scenario 4: Uncertain Timing — Query Required**
+> 
 > Patient admitted for pneumonia.
-> Day 3: Acute kidney injury noted (creatinine rise from 1.0 to 2.4).
-> Documentation: "AKI" in progress note; no timing specified.
+> **Day 3**: Acute kidney injury noted (creatinine rise from 1.0 to 2.4).
+> **Documentation**: "AKI" in progress note; no timing specified.
 > 
-> Initial Assignment: [[N17.9]] Acute kidney failure, unspecified → POA=U
+> **Initial Assignment**: [[N17.9]] Acute kidney failure, unspecified → POA=U
 > 
-> Query to Provider:
+> **Query to Provider**:
 > "Clinical indicators show creatinine elevation on hospital day 3. 
 > Per CMS guidelines, POA assignment requires determination of whether AKI was present at admission or developed during stay. 
-> Please clarify: Was acute kidney injury present on admission (POA=Y) or did it develop during hospitalization (POA=N)?"
+> **Please clarify**: Was acute kidney injury present on admission (POA=Y) or did it develop during hospitalization (POA=N)?"
 > 
-> Provider Response: "AKI developed secondary to IV contrast administered day 2."
-> Final Assignment: [[N17.9]] → POA=N
+> **Provider Response**: "AKI developed secondary to IV contrast administered day 2."
+> **Final Assignment**: [[N17.9]] → POA=N
 > 
-> Payment Impact: [[N17.9]] is an MCC; POA=N but not on HAC list → still eligible for MCC payment adjustment.
-> ```
+> **Payment Impact**: [[N17.9]] is an MCC; POA=N but not on HAC list → still eligible for MCC payment adjustment.
 > 
-> ### Scenario 5: Exempt Code Assignment
-> ```markdown
+> 
+> ### **Scenario 5: Exempt Code Assignment**
+> 
 > Patient admitted for hip fracture after mechanical fall at home.
 > 
-> Diagnoses:
+> **Diagnoses**:
 > • [[S72.001A]] Fracture of unspecified part of neck of right femur, initial encounter → POA=Y
 > • [[W01.0XXA]] Fall on same level from slipping, tripping, stumbling, initial encounter → POA=1 (exempt)
 > • [[Y92.010]] Bedroom as place of occurrence → POA=1 (exempt)
 > 
-> Rationale: External cause codes (V00-Y99) are exempt from POA reporting per CMS guidelines. Assign POA=1 regardless of timing.
-> ```
+> **Rationale**: External cause codes (V00-Y99) are exempt from POA reporting per CMS guidelines. Assign POA=1 regardless of timing.
 > 
 
 ---
@@ -219,34 +220,33 @@ graph TD
 
 > [!info] ## 🎯 Specialty-Specific POA Considerations
 > 
-> ### PMR / Inpatient Rehabilitation
-> ```markdown
+> ### **PMR / Inpatient Rehabilitation**
+> 
 > • Comorbidities sequenced in IRF-PAI Item I must have accurate POA to support CMG assignment
 > • Complications developing during rehab stay (e.g., pressure ulcers, UTI) = POA=N
 > • Document "present on admission" explicitly for conditions impacting functional prognosis
 > • POA errors can affect both payment (CMG) and quality metrics (IRF QRP)
-> ```
 > 
-> ### Urology
-> ```markdown
+> 
+> ### **Urology**
+> 
 > • Post-procedural urinary retention: If develops after catheter removal = POA=N
-> • Hematuria: Specify if post-procedural ([[N02.9]]) vs. neoplasm-related ([[C64.9]]) for accurate POA
+> • **Hematuria**: Specify if post-procedural ([[N02.9]]) vs. neoplasm-related ([[C64.9]]) for accurate POA
 > • CAUTI ([[T83.511A]]): POA=N by definition if catheter-associated; ensure documentation supports timing
-> ```
 > 
-> ### Otolaryngology
-> ```markdown
+> 
+> ### **Otolaryngology**
+> 
 > • Post-tonsillectomy hemorrhage: Typically POA=N; document timing relative to procedure
 > • Airway edema post-op: POA=N if developing after extubation; link to procedure in documentation
 > • Aspiration pneumonia ([[J69.0]]): POA=N if occurring during hospitalization; POA=Y if reason for admission
-> ```
 > 
-> ### Ophthalmology (Rare Inpatient Cases)
-> ```markdown
+> 
+> ### **Ophthalmology (Rare Inpatient Cases)**
+> 
 > • Endophthalmitis post-cataract surgery: [[H44.001]] + [[T81.4XXA]] → POA=N for both
 > • Orbital cellulitis with sepsis: [[H05.011]] may be POA=Y if reason for admission; [[A41.9]] sepsis POA depends on timing
 > • Focus POA documentation on systemic complications (sepsis, AKI) rather than ocular diagnosis itself
-> ```
 > 
 
 ---
@@ -289,39 +289,39 @@ graph TD
 > [!warning] ## ⚙️ POA Logic in MS-DRG Grouper: Technical Details
 > 
 > ### How POA Affects CC/MCC Eligibility
-> ```markdown
-> CMS Grouper Logic for Secondary Diagnoses:
+> 
+> **CMS Grouper Logic for Secondary Diagnoses:**
 > 
 > IF diagnosis code is designated as CC or MCC in FY2025 CC/MCC list
-> AND POA indicator = Y
+> **AND** POA indicator = Y
 > → Diagnosis counts toward CC/MCC stratification → Higher DRG weight
 > 
 > IF diagnosis code is designated as CC or MCC
-> AND POA indicator = N
-> AND code is NOT on HAC list
+> **AND** POA indicator = N
+> **AND** code is NOT on HAC list
 > → Diagnosis STILL counts toward CC/MCC stratification → Higher DRG weight
 > 
 > IF diagnosis code is designated as CC or MCC
-> AND POA indicator = N
-> AND code IS on HAC list
+> **AND** POA indicator = N
+> **AND** code IS on HAC list
 > → Diagnosis DOES NOT count toward CC/MCC stratification → Base DRG weight only
 > 
 > IF POA indicator = U or W
 > → Treated as POA=N for payment purposes → Apply HAC logic above
-> ```
+> 
 > 
 > ### MCE (Medicare Code Editor) POA Edits
-> ```markdown
+> 
 > Pre-grouper validation rules that reject claims with POA errors:
 > 
-> ❌ Edit 1: POA indicator missing for non-exempt diagnosis code
-> ❌ Edit 2: POA=1 assigned to non-exempt code
-> ❌ Edit 3: POA=Y assigned to diagnosis that logically cannot be present on admission (e.g., postprocedural complication without pre-existing condition)
-> ❌ Edit 4: POA=N assigned to principal diagnosis (rare; only if principal dx clearly developed post-admission)
-> ❌ Edit 5: Inconsistent POA across related codes (e.g., sepsis POA=Y but source infection POA=N without rationale)
+> ❌ **Edit 1**: POA indicator missing for non-exempt diagnosis code
+> ❌ **Edit 2**: POA=1 assigned to non-exempt code
+> ❌ **Edit 3**: POA=Y assigned to diagnosis that logically cannot be present on admission (e.g., postprocedural complication without pre-existing condition)
+> ❌ **Edit 4**: POA=N assigned to principal diagnosis (rare; only if principal dx clearly developed post-admission)
+> ❌ **Edit 5**: Inconsistent POA across related codes (e.g., sepsis POA=Y but source infection POA=N without rationale)
 > 
-> Resolution: Correct POA assignment or provide clinical justification in claim notes.
-> ```
+> **Resolution**: Correct POA assignment or provide clinical justification in claim notes.
+> 
 > 
 
 ---
@@ -436,36 +436,6 @@ graph TD
 ✅ Update POA policies annually with CMS guidance changes
 ✅ Train new clinicians on POA requirements during onboarding
 ```
-
----
-
-## 🔗 Integration with Your Obsidian Vault
-
-### Recommended Wikilinks to Billable Codes Only
-When referencing diagnoses in your notes, wikilink only reportable ICD-10-CM codes:
-- ✅ `[[A41.9]]` for sepsis
-- ✅ `[[J96.00]]` for acute respiratory failure
-- ✅ `[[N17.9]]` for acute kidney failure
-- ✅ `[[L89.153]]` for stage 3 sacral pressure ulcer
-- ✅ `[[T81.4XXA]]` for postprocedural infection
-- ❌ Do NOT wikilink non-billable concepts: MCC, CC, POA, HAC, DRG, MDC, etc.
-
-### Cross-Reference These Vault Notes
-- `CMS MS-DRG Definitions Manual v42.0` — Grouper logic and CC/MCC rules
-- `ICD-10-CM Official Guidelines FY 2025` — Section III (additional diagnoses) and Appendix I (POA guidelines)
-- `ADL Data CC/MCC Checklist` — Quick lookup of CC/MCC designation and documentation requirements
-- `Clinical Validation Query Templates` — Standardized language for POA clarification queries
-
-### Callout Styles for Visual Scanning
-```markdown
-> [!INFO] General guidance or definitions
-> [!TIP] Practical workflow advice  
-> [!WARNING] Compliance risks or common errors
-> [!QUERY] When to trigger a clinical validation query
-> [!EXAMPLE] Concrete scenario with correct POA assignment
-> [!ABSTRACT] Bottom-line summary for quick review
-```
-
 ---
 
 ## 📚 Official Resources
@@ -484,43 +454,42 @@ When referencing diagnoses in your notes, wikilink only reportable ICD-10-CM cod
 
 > [!success] ## 🎯 Quick Reference: POA Assignment Rules Summary
 > 
-> ```
-> ✅ ALWAYS POA=Y:
+> 
+> ✅ **ALWAYS POA=Y:**
 > • Principal diagnosis (unless clearly developed post-admission)
 > • Chronic conditions documented in H&P
 > • Acute exacerbations that prompted admission
 > • Conditions with clinical evidence of pre-admission onset
 > 
-> ✅ ALWAYS POA=N:
+> ✅ **ALWAYS POA=N:**
 > • Post-procedural complications (infection, hemorrhage, dehiscence)
 > • Conditions developing after inpatient admission order
 > • Hospital-acquired infections (HAP, CAUTI, CLABSI)
 > • In-hospital falls with injury
 > 
-> ✅ ALWAYS POA=1 (Exempt):
+> ✅ **ALWAYS POA=1 (Exempt):**
 > • External cause codes (V00-Y99)
 > • Z codes for circumstances when not principal diagnosis
 > • Factors influencing health status (Z77-Z99)
 > • Screening codes (Z12-Z13)
 > 
-> ✅ QUERY FOR CLARIFICATION:
+> ✅ **QUERY FOR CLARIFICATION:**
 > • Timing ambiguous in documentation
 > • Severity unspecified when CC/MCC depends on it
 > • Relationship between conditions unclear
 > • Provider uses "rule out," "possible," or "vs." at discharge
 > 
-> ✅ DOCUMENT DEFENSIBLY:
+> ✅ **DOCUMENT DEFENSIBLY:**
 > • Explicitly state "present on admission" for HAC-listed conditions
 > • Link complications to procedures with timing
 > • Retain query responses in medical record
 > • Update POA assignments based on provider clarification
-> ```
 > 
 
 ---
 
 > [!ABSTRACT] Bottom Line  
-> POA reporting is a **documentation-driven compliance requirement** with direct payment impact. Accurate assignment requires:  
+> **POA reporting** is a **documentation-driven compliance requirement** with direct payment impact. Accurate assignment requires:  
 > 1️⃣ Understanding the five POA values and their payment consequences  
 > 2️⃣ Reviewing clinical documentation for timing evidence  
 > 3️⃣ Applying HAC logic when POA=N  

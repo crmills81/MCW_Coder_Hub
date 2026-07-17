@@ -15,11 +15,11 @@ title: Diabetes Mellitus - Inpatient Coding Reference
 specialty: Physical Medicine and Rehabilitation / General Inpatient
 topic: Diabetes Mellitus ICD-10-CM Coding
 created: 2026-05-07
-status: Active ✅
 primary_dx_categories: E10, E11, E13
 ms_drg_note: DM coding drives CC/MCC capture and HCC risk adjustment — critical secondary diagnosis in amputee and PMR populations
 hcc_categories: HCC-35 HCC-36 HCC-17 HCC-18 HCC-19
 coder_note: Inpatient profee reference - MCW Inpatient Abstraction Team
+status: Active ✅
 ---
 
 # Diabetes Mellitus - Inpatient Coding Reference
@@ -272,8 +272,8 @@ This is a significant departure from old ICD-9 logic. You do **not** need the ph
 | **[[N18.31]]** | **CKD, Stage 3a**                                                      | Add when E11.23 is coded                                             |
 | **[[N18.32]]** | **CKD, Stage 3b**                                                      | Add when E11.24 is coded                                             |
 | **[[N18.4]]**  | **CKD, Stage 4**                                                       | Add when E11.25 is coded                                             |
-| **[[N18.5]]**  | **CKD, Stage 5**                                                       | Add when E11.26 is coded — add [[50 Medical Coding/ICD-10 Codes/Z99.2]] if on dialysis              |
-| **[[50 Medical Coding/ICD-10 Codes/Z99.2]]**  | Dependence on renal dialysis                                       | Add when patient is on hemodialysis or peritoneal dialysis           |
+| **[[N18.5]]**  | **CKD, Stage 5**                                                       | Add when E11.26 is coded — add [[Z99.2]] if on dialysis              |
+| **[[Z99.2]]**  | Dependence on renal dialysis                                       | Add when patient is on hemodialysis or peritoneal dialysis           |
 | **[[E87.65]]** | Hypomagnesemia                                                     | Commonly seen in T2DM — impacts glycemic control                     |
 | **[[R73.01]]** | Impaired fasting glucose                                           | Pre-diabetes (not DM)                                                |
 | **[[R73.09]]** | Other abnormal glucose                                             | Glucose intolerance NOS                                              |
@@ -303,7 +303,7 @@ This is a significant departure from old ICD-9 logic. You do **not** need the ph
 **Clinical Story:**
 A 69-year-old male with T2DM on insulin admitted to PMR following right below-knee amputation secondary to gangrenous diabetic foot disease. He also has documented diabetic polyneuropathy affecting bilateral lower extremities and CKD Stage 3b. PMR physician documents management of DM, adjustment of insulin regimen, and monitoring of renal function.
 
-**DM-Related Codes (all additional diagnoses under Z47.81 principal):**
+**DM-Related Codes (all additional diagnoses under [[Z47.81]] principal):**
 - [[E11.52]] — T2DM with diabetic peripheral angiopathy **with gangrene** *(the etiology of the amputation — gang code even post-amputation)*
 - [[E11.42]] — T2DM with diabetic polyneuropathy *(documented, affecting rehab tolerance and sensation)*
 - [[E11.24]] — T2DM with diabetic CKD, stage 3b *(combination code)*

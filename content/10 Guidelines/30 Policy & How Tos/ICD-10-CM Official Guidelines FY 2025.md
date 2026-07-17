@@ -27,13 +27,13 @@ approved_by:
 *Approved by the Cooperating Parties: AHA, AHIMA, CMS, NCHS*
 
 > [!INFO] Authority & Scope
-> These guidelines are official under HIPAA and must be followed for all healthcare settings when assigning ICD-10-CM diagnosis codes. They complement—but do not override—the conventions and instructions in the ICD-10-CM Tabular List and Alphabetic Index. [[12]]
+> These guidelines are official under **HIPAA** and must be followed for all healthcare settings when assigning **ICD-10-CM diagnosis codes**. They complement—but do not override—the conventions and instructions in the **ICD-10-CM Tabular List and Alphabetic Index**. <sup>12</sup>
 
 ---
 
 ## 📚 Document Structure
 
-```
+```markdown
 Section I: Conventions, General Guidelines & Chapter-Specific Guidelines
 ├── A. Conventions for ICD-10-CM
 │   ├── Alphabetic Index vs. Tabular List usage
@@ -76,13 +76,13 @@ Appendix I: Present on Admission (POA) Reporting Guidelines
 ### 2. Excludes Notes: Critical Distinction 
 | Type | Meaning | Can Codes Be Used Together? |
 |------|---------|----------------------------|
-| **Excludes1** | "NOT CODED HERE!" - Mutually exclusive conditions | ❌ No (unless unrelated per provider documentation) |
-| **Excludes2** | "Not included here" - Condition is separate but may coexist | ✅ Yes, if both documented |
+| **Excludes1** | "**NOT CODED HERE!**" - Mutually exclusive conditions | ❌ No (unless unrelated per provider documentation) |
+| **Excludes2** | "**Not included here**" - Condition is separate but may coexist | ✅ Yes, if both documented |
 
 > [!EXAMPLE] Excludes1 Application  
-> [[F45.8]] (Other somatoform disorders) Excludes1: [[G47.63]] (Sleep related teeth grinding)  
-> → Do NOT report both for teeth grinding alone.  
-> → MAY report both if patient has psychogenic dysmenorrhea ([[F45.8]]) AND sleep bruxism ([[G47.63]]) as unrelated conditions.
+> **[[F45.8]]** (Other somatoform disorders) **Excludes1**: **[[G47.63]]** (Sleep related teeth grinding)  
+> → Do **NOT** report both for teeth grinding alone.  
+> → **MAY** report both if patient has psychogenic [[dysmenorrhea]] (**[[F45.8]]**) AND sleep bruxism (**[[G47.63]]**) as unrelated conditions.
 
 ### 3. "With" / "In" Presumption Rule
 ```markdown
@@ -100,14 +100,14 @@ EXCEPTIONS:
 ```
 
 > [!TIP] Query Trigger  
-> If documentation is ambiguous about relationship between conditions linked by "with" in the classification, query for clarification—but default to coding as related if no conflict exists.
+> If documentation is ambiguous about relationship between conditions linked by "**with**" in the classification, query for clarification—but default to coding as related if no conflict exists.
 
 ### 4. Placeholder "X" and 7th Characters
-```icd10
-// Example: Poisoning by aspirin, accidental, initial encounter
+```markdown
+Example: Poisoning by aspirin, accidental, initial encounter
 T39.011A → Requires 7th character "A" for initial encounter
 
-// If code has fewer than 6 characters before 7th char:
+If code has fewer than 6 characters before 7th char:
 T36.0X5A → "X" fills 5th character position to allow 7th char in 7th position
 ```
 
@@ -129,11 +129,11 @@ T36.0X5A → "X" fills 5th character position to allow 7th char in 7th position
 ```
 
 ### Signs/Symptoms vs. Definitive Diagnosis
-| Scenario | Coding Approach |
-|----------|----------------|
-| Definitive diagnosis established | Code the diagnosis; do NOT code associated routine signs/symptoms |
-| No definitive diagnosis after study | Code sign/symptom as principal/first-listed |
-| Sign/symptom NOT routinely associated with dx | Code both if clinically significant |
+| Scenario                                          | Coding Approach                                                       |
+| ------------------------------------------------- | --------------------------------------------------------------------- |
+| **Definitive diagnosis established**              | Code the diagnosis; do **NOT** code associated routine signs/symptoms |
+| **No definitive diagnosis after study**           | Code sign/symptom as principal/first-listed                           |
+| **Sign/symptom NOT routinely associated with dx** | Code both if clinically significant                                   |
 
 ### Acute + Chronic Same Condition
 ```markdown
@@ -174,7 +174,7 @@ Old cerebral infarction with residual aphasia
 
 ## 🎯 Section I.C: Chapter-Specific Highlights (Specialty Focus)
 
-### Chapter 1: Infectious Diseases (A00-B99) — Sepsis Guidelines [[12]]
+### Chapter 1: Infectious Diseases (A00-B99) — Sepsis Guidelines 
 ```markdown
 SEPSIS CODING SEQUENCE:
 1. Code underlying systemic infection FIRST (e.g., A41.9 Sepsis)
@@ -274,16 +274,16 @@ Patient admitted for chemotherapy for breast cancer
 ## 🏥 Sections II-III: Inpatient Diagnosis Selection
 
 ### Principal Diagnosis Definition (Section II)
-> *"That condition established after study to be chiefly responsible for occasioning the admission of the patient to the hospital for care."* [[12]]
+> *"That condition established after study to be chiefly responsible for occasioning the admission of the patient to the hospital for care."* 
 
 #### Key Application Rules
-| Scenario | Principal Dx Guidance |
-|----------|----------------------|
-| Symptom → Confirmed diagnosis during stay | Code confirmed diagnosis |
-| Two equally valid dx | Sequence based on circumstances of admission |
-| Uncertain diagnosis at discharge | Code as if condition exists (inpatient only) |
-| Complication of care | Code complication as principal IF it is reason for admission |
-| Observation → Admission | Code reason for observation as principal if it becomes reason for admission |
+| Scenario                                  | Principal Dx Guidance                                                       |
+| ----------------------------------------- | --------------------------------------------------------------------------- |
+| **Symptom → Confirmed diagnosis during stay** | Code confirmed diagnosis                                                    |
+| **Two equally valid dx**                      | Sequence based on circumstances of admission                                |
+| **Uncertain diagnosis at discharge**          | Code as if condition exists (inpatient only)                                |
+| **Complication of care**                      | Code complication as principal IF it is reason for admission                |
+| **Observation → Admission**                   | Code reason for observation as principal if it becomes reason for admission |
 
 ### Additional Diagnoses Criteria (Section III)
 Code ALL conditions that:
@@ -328,13 +328,13 @@ For outpatient encounters:
 ## 📋 Appendix I: POA Reporting Guidelines
 
 ### POA Indicator Assignment Logic
-| Condition Status | POA Value | Notes |
-|-----------------|-----------|-------|
-| Clearly present at admission | Y | Most common |
-| Clearly developed after admission | N | May trigger HAC payment adjustment |
-| Documentation insufficient | U | Treated as "N" for payment |
-| Clinically undeterminable | W | Query provider |
-| Exempt code (e.g., external cause) | 1 | Per CMS exempt list |
+| Condition Status                   | POA Value | Notes                              |
+| ---------------------------------- | --------- | ---------------------------------- |
+| Clearly present at admission       | **Y**         | Most common                        |
+| Clearly developed after admission  | **N**         | May trigger HAC payment adjustment |
+| Documentation insufficient         | **U**         | Treated as "**N**" for payment     |
+| Clinically undeterminable          | **W**         | Query provider                     |
+| Exempt code (e.g., external cause) | **1**         | Per CMS exempt list                |
 
 ### HAC (Hospital-Acquired Condition) Impact
 ```markdown
@@ -350,7 +350,7 @@ Common HACs affecting CC/MCC:
 ```
 
 > [!TIP] POA Best Practice  
-> Document "present on admission" status explicitly in H&P or progress notes when clinically relevant. Reduces query burden and supports accurate POA assignment.
+> Document "**present on admission**" status explicitly in **H&P** or progress notes when clinically relevant. Reduces query burden and supports accurate **POA** assignment.
 
 ---
 
