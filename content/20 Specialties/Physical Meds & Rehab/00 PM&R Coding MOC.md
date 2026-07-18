@@ -16,7 +16,7 @@
 - [[Therapy Modifiers]]
 - [[The 8 Minute Rule]]
 - [[NCCI Edits for Rehab]]
-- [[Modifier -25 vs 59]]
+- [[Modifier -25 vs -59]]
 
 ## Procedures
 - [[Injections & Blocks]]

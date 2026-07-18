@@ -67,7 +67,7 @@ My medical coding hub is for the specialties that I code for my employer. These 
 
 ## 🔗 Cross‑Links
 - [[00 Anatomy and Physiology 2e Book by Openstax]]
-- [[Audit Checklists]]
+- [[Audit Triggers in PM&R]]
 - [[CMS Medicare Guidelines]]
 
 <br>
