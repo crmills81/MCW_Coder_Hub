@@ -23,4 +23,4 @@ National Correct Coding Initiative (NCCI) edits prevent payment for inappropriat
 > You cannot bill 97124 (Massage) and 97140 (Manual Therapy) for the same body part on the same day. They are mutually exclusive.
 
 [[00 PM&R Coding MOC]]
-[[Modifier 25 vs 59]]
+[[Modifier -25 vs -59]]
