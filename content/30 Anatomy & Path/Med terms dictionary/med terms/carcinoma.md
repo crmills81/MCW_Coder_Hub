@@ -1,6 +1,10 @@
 ---
 tags:
   - medterm
+  - oncology
+  - urology
+  - ophthalmology
+  - otolaryngology
 aliases:
   - Carcinoma
   - cancer
@@ -14,8 +18,7 @@ forms:
   - suffix
   - noun
 alphabet: C
-definition:
-  - A malignant tumor that begins in the epithelial tissue of the skin or in tissues that line or cover internal organs.
+definition: A malignant tumor that begins in the epithelial tissue of the skin or in tissues that line or cover internal organs.
 ---
 >[!Note] DEFINITION of [[carcinoma]]
 >The term **carcinoma** refers to the most common type of **cancer** ([[malignant neoplasm]]), which arises from **epithelial cells** that form the lining of internal organs and the outer surfaces of the body. Carcinomas are capable of aggressive local invasion and distant **[[metastasis]]**, frequently spreading through the lymphatic system before entering the bloodstream. Major subtypes include **[[adenocarcinoma]]** (**arising in glandular tissue**), **squamous cell carcinoma** (**arising in squamous epithelium**), **basal cell carcinoma** (**affecting the basal layer of the epidermis**), and **transitional cell carcinoma** (**affecting the urinary tract**). 

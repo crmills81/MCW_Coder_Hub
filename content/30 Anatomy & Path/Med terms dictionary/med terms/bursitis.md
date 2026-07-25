@@ -3,6 +3,7 @@ tags:
   - medterm
   - musculoskeletal
   - orthopedics
+  - pmr
 aliases:
   - Bursitis
   - Bursal

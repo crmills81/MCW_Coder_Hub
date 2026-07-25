@@ -1,7 +1,10 @@
 ---
 tags:
   - medterm
-  - medroot
+  - pmr
+  - urology
+  - ophthalmology
+  - otolaryn
 aliases:
   - cellulitis
   - Cellulitis
@@ -15,11 +18,10 @@ forms:
   - combining
   - noun
 alphabet: C
-definition:
-  - bacterial skin infection
+definition: bacterial skin infection
 ---
 >[!Note] DEFINITION of [[cellulitis]]
->[[cellulitis]] is an **acute, spreading bacterial infection affecting the deep dermis and [[subcutaneous]] tissues**. Unlike an [[abscess]], which is a contained, walled-off collection of [[pus]], cellulitis is a diffuse inflammation that spreads laterally through tissue planes, often facilitated by bacterial [[enzymes]] that break down cellular barriers. It is clinically characterized by the four cardinal signs of inflammation: [[erythema]] (**redness**), [[edema]] (**swelling**), calor (**warmth**), and tenderness to palpation] While frequently unilateral, if left untreated, the infection can ascend via lymphatic vessels to the lymph nodes ([[lymphangitis]]) or enter the bloodstream, leading to [[bacteremia]] or life-threatening [[sepsis]].
+>[[Cellulitis]] is an **acute, spreading bacterial infection affecting the deep dermis and [[subcutaneous]] tissues**. Unlike an [[abscess]], which is a contained, walled-off collection of [[pus]], cellulitis is a diffuse inflammation that spreads laterally through tissue planes, often facilitated by bacterial [[enzymes]] that break down cellular barriers. It is clinically characterized by the four cardinal signs of inflammation: [[erythema]] (**redness**), [[edema]] (**swelling**), calor (**warmth**), and tenderness to palpation] While frequently unilateral, if left untreated, the infection can ascend via lymphatic vessels to the lymph nodes ([[lymphangitis]]) or enter the bloodstream, leading to [[bacteremia]] or life-threatening [[sepsis]].
 >
 > #### Related Terms & Synonyms
 >- **Erysipelas:** A specific subtype of superficial cellulitis involving the upper dermis and superficial lymphatics. It is distinguished clinically by **well-demarcated, raised borders** (**unlike the indistinct borders of cellulitis**) and is almost exclusively caused by Group A *Streptococcus*.

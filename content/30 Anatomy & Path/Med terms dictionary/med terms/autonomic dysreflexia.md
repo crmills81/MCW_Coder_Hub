@@ -27,7 +27,7 @@ definition: a syndrome associated with damage to the spinal cord above the mid t
 ---
 
 ## Overview
-**Autonomic dysreflexia (AD)** is a syndrome associated with damage to the spinal cord above the mid thoracic level characterized by a marked increase in the sympathetic response to minor **stimuli** such as **bladder or rectal distention**, with manifestations including hypertension, tachycardia (**or reflex bradycardia**), fever, flushing, and **hyperhidrosis**. It is a life-threatening condition where extreme hypertension may be associated with stroke. Typically occurs in patients with spinal cord injury at **T6 or above**.
+**[[Autonomic dysreflexia]] (AD)** is a syndrome associated with damage to the spinal cord above the mid thoracic level characterized by a marked increase in the sympathetic response to minor **stimuli** such as **bladder or rectal distention**, with manifestations including hypertension, tachycardia (**or reflex bradycardia**), fever, flushing, and **hyperhidrosis**. It is a life-threatening condition where extreme hypertension may be associated with stroke. Typically occurs in patients with spinal cord injury at **T6 or above**.
 
 ## Diagnosis Codes
 - [[G90.4]] - Autonomic dysreflexia
@@ -36,7 +36,7 @@ definition: a syndrome associated with damage to the spinal cord above the mid t
 Use additional code to identify the cause, such as: fecal impaction (**[[K56.41]]**), pressure ulcer (**pressure area**) (L89.-), urinary tract infection (**[[N39.0]]**):
 - **[[K56.41]]** - Fecal impaction
 - **[[N39.0]]** - Urinary tract infection, site not specified
-- **[[L89]]** - Pressure ulcer (use specific billable subcode based on site/stage)
+- **L89-** - Pressure ulcer (use specific billable subcode based on site/stage)
 
 ### Excludes1
 - Dysfunction of the autonomic nervous system due to alcohol (**[[G31.2]]**)

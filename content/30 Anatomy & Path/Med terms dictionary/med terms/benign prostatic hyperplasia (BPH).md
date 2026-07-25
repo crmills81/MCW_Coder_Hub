@@ -9,6 +9,7 @@ aliases:
   - BPH
   - benign prostatic hyperplasia
   - Benign prostatic hyperplasia
+  - Benign prostatic hyperplasia (BPH)
 roots:
   - pro-
   - -tic
@@ -21,11 +22,10 @@ forms:
   - suffix
   - noun
 alphabet: B
-definition:
-  - noncancerous enlargement of the prostate gland
+definition: noncancerous enlargement of the prostate gland
 ---
 >[!Note] DEFINITION of [[benign prostatic hyperplasia (BPH)]]
->[[benign prostatic hyperplasia (BPH)]] is a histological diagnosis characterized by the proliferation of **[[epithelial]]** and **stromal cells** in the **[[periurethral]]** and transition zones of the prostate. As the gland enlarges, it compresses the prostatic urethra, leading to **lower urinary tract symptoms (LUTS)** such as frequency, urgency, [[nocturia]], and a weak urinary stream. While not a precursor to prostate cancer, it affects nearly 90% of men by their eighties and is primarily driven by hormonal changes involving **dihydrotestosterone (DHT)** during the aging process.
+>[[Benign prostatic hyperplasia (BPH)]] is a histological diagnosis characterized by the proliferation of **[[epithelial]]** and **stromal cells** in the **[[periurethral]]** and transition zones of the prostate. As the gland enlarges, it compresses the prostatic urethra, leading to **lower urinary tract symptoms (LUTS)** such as frequency, urgency, [[nocturia]], and a weak urinary stream. While not a precursor to prostate cancer, it affects nearly 90% of men by their eighties and is primarily driven by hormonal changes involving **dihydrotestosterone (DHT)** during the aging process.
 _____
 >[!info]+ ETYMOLOGY of [[benign prostatic hyperplasia (BPH)]]
 >#latin The term is derived from three distinct linguistic roots that describe its nature and location:

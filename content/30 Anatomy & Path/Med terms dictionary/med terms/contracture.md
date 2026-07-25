@@ -69,7 +69,7 @@ _____
 > - **[[stroke]]** —[[ ]]hemiplegia with UMN [[spasticity]] → flexion contractures of upper limb, equinus at ankle
 > - **Spinal cord injury (SCI)** — below-level [[spasticity]] and immobility → hip, knee, ankle contractures
 > - **Hypertrophic scar** — **[[L91.0]]**; scar tissue that may cause dermatogenic contracture
-> - **[[Fascia]]** — primary tissue in fibromatotic contractures (Dupuytren)
+> - **[[fascia]]** — primary tissue in fibromatotic contractures (Dupuytren)
 > - **Range of motion (ROM)** — the primary clinical measure affected by contracture
 > - **Physical therapy / Occupational therapy** — primary non-surgical intervention
 > - **Serial casting** — progressive splinting technique to stretch contracture

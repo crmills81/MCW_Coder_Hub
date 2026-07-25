@@ -85,7 +85,7 @@ _____
 > - **Argyll Robertson pupil** (**[[H57.01]]**) — another light-near dissociation pupil; key distinction: Argyll Robertson is bilateral, **MIOTIC**, and caused by pretectal/dorsal midbrain syphilitic lesion — not **ciliary ganglion** damage
 > - **Dorsal root ganglion** — sensory ganglion implicated in the **[[areflexia]]** component of **Holmes-Adie syndrome**; shares vulnerability with the **[[ciliary ganglion]]** in **[[autoimmune]]** and postviral processes
 > - **Pilocarpine** — **muscarinic** agonist used diagnostically; 0.0625%-0.1% confirms **denervation** supersensitivity in tonic pupil; 1% tests for pharmacological blockade (**no response to 1% = pharmacological cause**)
-> - **[[Autonomic neuropathy]]** — broader diagnostic category; bilateral or new-onset tonic pupils should prompt workup for **systemic autonomic neuropathy** (**diabetic, paraneoplastic, amyloid**)
+> - **[[autonomic neuropathy]]** — broader diagnostic category; bilateral or new-onset tonic pupils should prompt workup for **systemic autonomic neuropathy** (**diabetic, paraneoplastic, amyloid**)
 
 _____
 
