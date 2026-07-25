@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: google
-    tagId: G-TNPW6HR6
+    tagId: G-ERKZQHRW7W
   locale: en-US
   baseUrl: codingmcw.happycovergirlco.com
   ignorePatterns:
