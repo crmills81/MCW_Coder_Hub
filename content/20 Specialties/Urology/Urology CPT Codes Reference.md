@@ -61,7 +61,7 @@ This reference index covers the major **CPT code families in Urology** — organ
 
 ---
 
-## 🧑🏾‍⚕️ Kidney — Excision (Nephrectomy Family)
+## 🧑 Kidney — Excision (Nephrectomy Family)
 
 | CPT           | Description                                                                                 | Global  | wRVU       |
 | ------------- | ------------------------------------------------------------------------------------------- | ------- | ---------- |

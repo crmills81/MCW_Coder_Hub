@@ -19,7 +19,7 @@
 - [[Teaching Physician Rules]]
 - [[NCCI Edits for Inpatient]]
 
-## 🧑🏾‍⚕️Services
+## 🧑 Services
 - [[Initial Hospital Care]]
 - [[Subsequent Hospital Care]]
 - [[Discharge Services]]
