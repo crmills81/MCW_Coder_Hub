@@ -6,7 +6,7 @@ last_updated: 2026-07-08
 # 💉 Medical Coding Dashboard
 >
 ## 🎯 Purpose
-My medical coding hub is for the specialties that I code for my employer. These specialties are **[[Ophthalmology]]**, **[[Urology]]**, **[[Physical Medicine & Rehabilitation]],** and **[[Otolaryngology]]**. Bare with me if you're someone other than me, the creator, visiting. This is a constantly growing environment so fixing the broken links will happen slowly but will eventually happen. Anyone who's also a coder already knows this might take a long time lolol... 🤓👍🏽
+My medical coding hub is for the specialties that I code for my employer. These specialties are **[[Ophthalmology]]**, **[[Urology]]**, **[[Physical Medicine & Rehabilitation]],** and **[[Otolaryngology]]**. Bare with me if you're someone other than me, the creator, visiting. This is a constantly growing environment so fixing the broken links will happen slowly but will eventually happen. Anyone who's also a coder already knows this might take a long time lolol... 🤓👍
 
 ---
 
