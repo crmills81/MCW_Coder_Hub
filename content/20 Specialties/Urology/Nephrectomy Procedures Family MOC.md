@@ -1,12 +1,4 @@
 ---
-title: Nephrectomy Procedures Family MOC
-aliases:
-  - Nephrectomy CPT MOC
-  - Nephrectomy Family Index
-  - Kidney Removal CPT Index
-  - Open Nephrectomy MOC
-  - Laparoscopic Nephrectomy MOC
-  - Nephrectomy Code Family
 tags:
   - CPT
   - MOC
@@ -23,6 +15,14 @@ tags:
   - renal-cell-carcinoma
   - MDC11
   - index
+title: Nephrectomy Procedures Family MOC
+aliases:
+  - Nephrectomy CPT MOC
+  - Nephrectomy Family Index
+  - Kidney Removal CPT Index
+  - Open Nephrectomy MOC
+  - Laparoscopic Nephrectomy MOC
+  - Nephrectomy Code Family
 note_type: MOC
 specialty: Urology
 section: Surgery — Urinary System (CPT 50220-50548)
@@ -34,7 +34,7 @@ related_notes:
   - "[[CPT 50220]] - Open simple nephrectomy"
   - "[[CPT 50230]] - Open radical nephrectomy with lymphadenectomy"
   - "[[CPT 50546]] - Laparoscopic radical nephrectomy with lymphadenectomy"
-  - "[[📋 Urology CPT Codes Reference]]"
+  - "[[Urology CPT Codes Reference]]"
   - "[[50 Medical Coding/Modifiers/Global Surgical Package MOC]]"
   - "[[Procedure Status & Complexity Modifiers]]"
 ---
@@ -313,7 +313,7 @@ Always code the specific renal malignancy and all documented comorbidities for c
 - [[50220]] - Open simple nephrectomy
 - [[50 Medical Coding/CPT Codes/50230]] - Open radical nephrectomy with LND and/or IVC thrombectomy
 - [[50546]] - Laparoscopic radical nephrectomy with regional LND
-- [[📋 Urology CPT Codes Reference]]
+- [[Urology CPT Codes Reference]]
 - [[50 Medical Coding/Modifiers/Global Surgical Package MOC]]
 - [[Procedure Status & Complexity Modifiers]]
 - [[-22]] - Modifier 22, increased procedural services

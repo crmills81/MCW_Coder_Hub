@@ -65,4 +65,4 @@ Critical care services are for patients who are critically ill or injured.
 
 [[00 Inpatient ProFee Coding MOC]]
 [[Inpatient E/M Codes]]
-[[Modifier 25 vs 57]]
+[[Modifier -25 vs -57]]

@@ -33,7 +33,7 @@ related_notes:
   - "[[Otolaryngology Practice Coding Scenarios]]"
   - "[[50 Medical Coding/Modifiers/Global Surgical Package MOC]]"
   - "[[Procedure Status & Complexity Modifiers]]"
-  - "[[📋 Urology CPT Codes Reference]]"
+  - "[[Urology CPT Codes Reference]]"
 ---
 
 # 📋Otolaryngology CPT Codes Reference
@@ -689,7 +689,7 @@ FESS codes are **additive** — each anatomic sinus opened and treated is separa
 - [[Otolaryngology Practice Coding Scenarios]]
 - [[50 Medical Coding/Modifiers/Global Surgical Package MOC]]
 - [[Procedure Status & Complexity Modifiers]]
-- [[📋 Urology CPT Codes Reference]]
+- [[Urology CPT Codes Reference]]
 - [[H20 Iridocyclitis Family MOC]]
 - [[-25]] - Modifier 25
 - [[-50]] - Modifier 50, bilateral procedures

@@ -24,7 +24,7 @@ specialty:
   - Plastic Surgery
   - Emergency Medicine
   - Facial Plastic Surgery
-global_period: "090"
+"global_period:": "090"
 bilateral: "0"
 assistant_modifier: ""
 multiple_procedure_reduction: "2"
@@ -36,7 +36,7 @@ updated: 2026-03-21
 ---
 
 
-# 👩🏾‍⚕️CPT Code 21315: Documentation & Billing Guide
+# 🧬CPT Code 21315: Documentation & Billing Guide
 ## Osteotomy, Maxilla, LeFort I; Single Piece or in Combination
 
 **Last Updated:** February 2026  
@@ -46,26 +46,26 @@ updated: 2026-03-21
 
 ## QUICK REFERENCE
 
-| Element | Details |
+| Element                                       | Details |
 |---------|---------|
-| **Code** | 21315 |
-| **Code Type** | Surgical Procedure - Maxillofacial Surgery |
-| **Procedure Type** | LeFort I Osteotomy (maxillary surgery) |
-| **Global Period** | **<font color="#ff0000">090 days</font>** (major surgical procedure) |
-| **Work RVU (2025)** | 8.30 RVU |
+| **Code**                                      | 21315 |
+| **Code Type**                                 | Surgical Procedure - Maxillofacial Surgery |
+| **Procedure Type**                            | LeFort I Osteotomy (maxillary surgery) |
+| **Global Period**                             | **<font color="#ff0000">090 days</font>** (major surgical procedure) |
+| **Work RVU (2025)**                           | 8.30 RVU |
 | **Practice Expense RVU (2025, Non-Facility)** | 4.78 RVU |
-| **Practice Expense RVU (2025, Facility)** | 3.25 RVU |
-| **Malpractice RVU (2025)** | 1.00 RVU |
-| **Total RVU (2025, Non-Facility)** | 14.08 RVU |
-| **Total RVU (2025, Facility)** | 12.55 RVU |
-| **2025 Medicare Fee (Non-Facility)** | ~$455.24 (14.08 RVU × $32.3465 CF × GPCI) |
-| **2025 Medicare Fee (Facility)** | ~$405.91 (12.55 RVU × $32.3465 CF × GPCI) |
-| **Conversion Factor (2025)** | $32.3465 |
-| **Estimated Commercial Insurance** | $1,200 - 2,000 |
-| **Global Period Includes** | Pre-operative visits, surgery, post-operative visits (90 days) |
-| **Common Place of Service** | Hospital inpatient (21), Hospital outpatient (22), ASC (24) |
-| **Specialty** | Oral & Maxillofacial Surgery, [[Otolaryngology]], Plastic Surgery |
-| **Bilateral Status** | Unilateral code; use -RT/-LT for side-specific or -50 for bilateral |
+| **Practice Expense RVU (2025, Facility)**     | 3.25 RVU |
+| **Malpractice RVU (2025)**                    | 1.00 RVU |
+| **Total RVU (2025, Non-Facility)**            | 14.08 RVU |
+| **Total RVU (2025, Facility)**                | 12.55 RVU |
+| **2025 Medicare Fee (Non-Facility)**          | ~$455.24 (14.08 RVU × $32.3465 CF × GPCI) |
+| **2025 Medicare Fee (Facility)**              | ~$405.91 (12.55 RVU × $32.3465 CF × GPCI) |
+| **Conversion Factor (2025)**                  | $32.3465 |
+| **Estimated Commercial Insurance**            | $1,200 - 2,000 |
+| **Global Period Includes**                    | Pre-operative visits, surgery, post-operative visits (90 days) |
+| **Common Place of Service**                   | Hospital inpatient (21), Hospital outpatient (22), ASC (24) |
+| **Specialty**                                 | Oral & Maxillofacial Surgery, [[Otolaryngology]], Plastic Surgery |
+| **Bilateral Status**                          | Unilateral code; use -RT/-LT for side-specific or -50 for bilateral |
 
 ---
 
@@ -243,7 +243,7 @@ CPT [[21315]] represents a **[[LeFort I maxillary osteotomy]]** with or without 
 - Post-operative radiographs related to the surgery
 
 **✗ NOT Included (Can bill separately with appropriate modifier):**
-- Unrelated E/M during global period (use [[modifier -24]])
+- Unrelated E/M during global period (use modifier [[-24]])
 - Unrelated procedures during global period (use modifier [[-24]] or [[-59]])
 - Services outside the scope of the surgical package
 
@@ -702,7 +702,7 @@ Patient positioned supine, prepped and draped in routine sterile fashion. Genera
 
 ### Assistant at Surgery & Co-Surgery
 
-**Assistant at Surgery ([[Modifier -80]], [[-81]], [[-82]]):**
+**Assistant at Surgery (Modifier [[-80]], [[-81]], [[-82]]):**
 - Assistant can be billed separately using appropriate modifier
 - Typical payment: 16-20% of primary surgeon fee
 - Example: If 21315 pays $455, assistant at surgery (modifier [[-80]]) pays ~$73 - $91

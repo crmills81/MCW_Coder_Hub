@@ -21,8 +21,7 @@ roots:
 forms:
   - noun
 alphabet: P
-definition:
-  - An acute inflammatory infection of the lung parenchyma caused by bacterial, viral, fungal, or other organisms, resulting in consolidation of alveolar spaces and impaired gas exchange
+definition: An acute inflammatory infection of the lung parenchyma caused by bacterial, viral, fungal, or other organisms, resulting in consolidation of alveolar spaces and impaired gas exchange
 ---
 >[!Note] DEFINITION of [[pneumonia]]
 >**Pneumonia** is an acute **infection and inflammation of the lung parenchyma** — specifically the **alveoli, bronchioles, and interstitium** — caused by a wide range of pathogens including **bacteria, viruses, fungi, and atypical organisms**. The infectious process triggers an immune response that results in **alveolar consolidation**, where the normally air-filled spaces fill with fluid, pus, cellular debris, and fibrin, critically impairing **gas exchange**. Clinically, pneumonia presents with **fever, chills, productive cough, pleuritic chest pain, tachypnea, and hypoxia**, though presentation varies by pathogen and host immune status. It is classified by acquisition setting — **community-acquired (CAP)**, **hospital-acquired (HAP)**, and **ventilator-associated (VAP)** — each carrying distinct pathogen profiles and treatment algorithms. Radiographically, pneumonia manifests as **lobar or segmental consolidation, interstitial infiltrates, or diffuse bilateral opacities** depending on etiology. As an inpatient profee coder, pneumonia is one of the **highest-impact diagnosis codes** you'll encounter — the causative organism dramatically changes your DRG assignment and CC/MCC status. **Pneumonia due to *Pseudomonas* ([[J15.1]])**, **Staphylococcal pneumonia ([[J15.20]]-[[J15.29]])**, and **pneumonia in immunocompromised hosts** frequently qualify as MCCs or drive complex DRGs. Always interrogate the microbiology and culture reports, the ID or pulm consult, and the H&P for organism specificity — **[[J18.9]] is your last resort**, not your default.
@@ -245,7 +244,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[pneumonia]].definition, word))) > 0 AND file.name != [[pneumonia]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

@@ -50,5 +50,5 @@ Modifiers provide additional information about services rendered. Critical for i
 > Excessive use of modifier 59 is an audit trigger. Use X-modifiers when appropriate for Medicare.
 
 [[00 Inpatient ProFee Coding MOC]]
-[[Modifier 25 vs 57]]
+[[Modifier -25 vs -57]]
 [[NCCI Edits for Inpatient]]

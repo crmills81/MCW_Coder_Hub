@@ -20,7 +20,7 @@ Professional Fee (ProFee) coding refers to physician services billed on the CMS-
 - Discharge services
 - Prolonged services
 
-## 👩🏾‍⚕️Provider Types
+## 🩻Provider Types
 - **Attending Physician:** Primary managing provider
 - **Consulting Physician:** Provides specialty input
 - **Hospitalist:** Manages inpatient care

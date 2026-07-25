@@ -7,7 +7,6 @@ tags:
   - anterior-segment
   - posterior-segment
   - ocular-inflammation
-  - ICD-10-CM
   - eye-disease
 title: Uveitis and Iridocyclitis - Clinical Overview
 aliases:

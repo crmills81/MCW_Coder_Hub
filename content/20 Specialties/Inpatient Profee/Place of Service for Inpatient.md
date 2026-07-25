@@ -1,4 +1,4 @@
-#### 👩🏾‍⚕️ Place of Service for Inpatient
+### 🧬  Place of Service for Inpatient
 
 **Tags:** #coding/pos #inpatient #medicare
 
