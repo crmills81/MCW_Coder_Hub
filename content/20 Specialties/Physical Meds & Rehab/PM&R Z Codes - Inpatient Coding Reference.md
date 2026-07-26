@@ -13,7 +13,7 @@ tags:
   - ICD-10-CM
   - CPT
   - inpatient
-title: PM&R Z Codes — Inpatient Coding Reference
+title: PM&R Z Codes - Inpatient Coding Reference
 specialty: Physical Medicine and Rehabilitation
 category: Z Codes
 note_type: coding_reference
@@ -89,66 +89,10 @@ icd10cm_codes:
   - Z99.11
   - Z99.12
   - Z99.89
-cpt_reference:
-  - 97110
-  - 97112
-  - 97116
-  - 97129
-  - 97130
-  - 97150
-  - 97151
-  - 97152
-  - 97153
-  - 97154
-  - 97155
-  - 97156
-  - 97157
-  - 97158
-  - 97161
-  - 97162
-  - 97163
-  - 97164
-  - 97165
-  - 97166
-  - 97167
-  - 97168
-  - 97530
-  - 97535
-  - 97537
-  - 97542
-  - 97545
-  - 97546
-  - 97750
-  - 97755
-  - 97760
-  - 97761
-  - 97763
-  - 97802
-  - 97803
-  - 92521
-  - 92522
-  - 92523
-  - 92524
-  - 92507
-  - 92508
-  - 97010
-  - 97012
-  - 97014
-  - 97016
-  - 97018
-  - 97022
-  - 97024
-  - 97026
-  - 97028
-  - 97032
-  - 97033
-  - 97034
-  - 97035
-  - 97036
-  - 97039
+cpt_reference: 97110, 97112, 97116, 97129, 97130, 97150, 97151, 97152, 97153, 97154, 97155, 97156, 97157, 97158, 97161, 97162, 97163, 97164, 97165, 97166, 97167, 97168, 97530, 97535, 97537, 97542, 97545, 97546, 97750, 97755, 97760, 97761, 97763, 97802, 97803, 92521, 92522, 92523, 92524, 92507, 92508, 97010, 97012, 97014, 97016, 97018, 97022, 97024, 97026, 97028, 97032, 97033, 97034, 97035, 97036, 97039
 ms_drg_relevant: true
 date_created: 2026-05-06
-last_reviewed: 2026-05-06
+last_reviewed: 2026-07-25
 ---
 
 # 🏋️ PM&R Z Codes — Inpatient Coding Reference
@@ -768,7 +712,7 @@ last_reviewed: 2026-05-06
 - [[Z89 Amputation Status Codes]]
 - [[Z93 Artificial Opening Status Codes]]
 - [[Z94 Transplant Status Codes]]
-- [[CC MCC Table — PM&R]]
+- [[CC MCC Table - PM&R]]
 - [[Facial Fractures — Otolaryngology Inpatient Coding Reference]]
 
 ---

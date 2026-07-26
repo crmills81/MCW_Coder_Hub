@@ -38,8 +38,8 @@ related_icd10:
   - H30.9x - Unspecified chorioretinal inflammation
   - H44.11x - Sympathetic uveitis
 related_notes:
-  - "[[20 Specialties/Ophthalmology/Ophthalmology CPT Codes Reference]]"
-  - "[[50 Medical Coding/Modifiers/Global Surgical Package MOC]]"
+  - "20 Specialties/Ophthalmology/Ophthalmology CPT Codes Reference"
+  - "50 Medical Coding/Modifiers/Global Surgical Package MOC"
 source: StatPearls / EyeWiki / EyeGuru / Ophthalmology Management / Mayo Clinic / Review of Ophthalmology
 ---
 

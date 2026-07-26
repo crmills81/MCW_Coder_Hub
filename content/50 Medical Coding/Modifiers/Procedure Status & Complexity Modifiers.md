@@ -12,7 +12,6 @@ tags:
   - anesthesia
   - surgical
   - NCCI
-  - index
 title: Procedure Status & Complexity Modifiers
 aliases:
   - Procedure Complexity Modifiers

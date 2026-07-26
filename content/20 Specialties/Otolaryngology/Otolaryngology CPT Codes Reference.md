@@ -24,16 +24,15 @@ aliases:
   - ENT CPT Codes
 note_type: MOC
 specialty: Otolaryngology
-chapter_range: Surgery — Ear (69000-69979); Surgery — Nose (30000-30999); Surgery — Larynx/Trachea/Pharynx/Mouth (31000-31899, 42000-42999)
-mdc: MDC 03 — Diseases and Disorders of the Ear, Nose, Mouth and Throat
-status: active
+chapter_range: Surgery - Ear (69000-69979); Surgery - Nose (30000-30999); Surgery - Larynx/Trachea/Pharynx/Mouth (31000-31899, 42000-42999)
+mdc: MDC 03 - Diseases and Disorders of the Ear, Nose, Mouth and Throat
 date_created: 2026-02-23
-date_modified: 2026-02-23
+date_modified: 2026-07-25
 related_notes:
-  - "[[Otolaryngology Practice Coding Scenarios]]"
-  - "[[50 Medical Coding/Modifiers/Global Surgical Package MOC]]"
-  - "[[Procedure Status & Complexity Modifiers]]"
-  - "[[Urology CPT Codes Reference]]"
+  - Otolaryngology Practice Coding Scenarios
+  - 50 Medical Coding/Modifiers/Global Surgical Package MOC
+  - Procedure Status & Complexity Modifiers
+  - Urology CPT Codes Reference
 ---
 
 # 📋Otolaryngology CPT Codes Reference

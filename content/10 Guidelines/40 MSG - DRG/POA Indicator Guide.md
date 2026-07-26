@@ -7,7 +7,7 @@ tags:
   - coding-fundamentals
   - drg
   - compliance
-title: POA Indicator Guide — Present on Admission Assignment Logic
+title: POA Indicator Guide - Present on Admission Assignment Logic
 aliases:
   - POA
   - Present on Admission
@@ -27,7 +27,7 @@ related_systems:
 status: complete
 ---
 
-# 🏥 POA Indicator Guide — Present on Admission Assignment Logic
+# 🏥 POA Indicator Guide - Present on Admission Assignment Logic
 
 > [!abstract] One-Line Definition
 > A **Present on Admission (POA) indicator** is a one-character flag assigned to every secondary ICD-10-CM diagnosis code on a Medicare inpatient claim that identifies whether the condition was present at the time of the inpatient admission — a determination that directly controls whether that diagnosis can qualify as a CC or MCC and whether a Hospital-Acquired Condition (HAC) is triggered.

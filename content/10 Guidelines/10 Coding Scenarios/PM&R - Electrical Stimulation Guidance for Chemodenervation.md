@@ -8,7 +8,7 @@ global_period: N/A - add-on code
 bilateral_indicator: N/A - defined per extremity
 ---
 
-# CPT 95873 — Electrical Stimulation Guidance for Chemodenervation [Add-On]
+# CPT 95873 - Electrical Stimulation Guidance for Chemodenervation [Add-On]
 
 > [!summary] Quick Reference
 > **Add-on code.** Reports electrical stimulation used to localize the target muscle(s) during a chemodenervation procedure. Always billed with a primary [[chemodenervation]] code ([[64642]], [[64643]], [[64644]], [[64645]], or the head/neck/limb [[dystonia]] codes).

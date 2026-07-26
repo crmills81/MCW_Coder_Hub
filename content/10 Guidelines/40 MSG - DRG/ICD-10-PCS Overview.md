@@ -7,7 +7,7 @@ tags:
   - coding-fundamentals
   - drg
   - or-procedures
-title: ICD-10-PCS Overview — Inpatient Procedure Coding System
+title: ICD-10-PCS Overview - Inpatient Procedure Coding System
 aliases:
   - PCS
   - ICD-10-PCS
@@ -27,7 +27,7 @@ related_systems:
 status: complete
 ---
 
-# 🔪 ICD-10-PCS Overview — Inpatient Procedure Coding System
+# 🔪 ICD-10-PCS Overview - Inpatient Procedure Coding System
 
 > [!abstract] One-Line Definition
 > **ICD-10-PCS** (International Classification of Diseases, 10th Revision, Procedure Coding System) is the federally mandated system for coding **inpatient procedures** in the United States — a 7-character alphanumeric code built from a standardized table structure that describes every component of a procedure independently and precisely.

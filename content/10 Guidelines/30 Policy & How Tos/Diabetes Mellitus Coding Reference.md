@@ -19,7 +19,6 @@ primary_dx_categories: E10, E11, E13
 ms_drg_note: DM coding drives CC/MCC capture and HCC risk adjustment — critical secondary diagnosis in amputee and PMR populations
 hcc_categories: HCC-35 HCC-36 HCC-17 HCC-18 HCC-19
 coder_note: Inpatient profee reference - MCW Inpatient Abstraction Team
-status: Active ✅
 ---
 
 # Diabetes Mellitus - Inpatient Coding Reference

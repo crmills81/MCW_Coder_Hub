@@ -9,7 +9,7 @@ tags:
   - sinus
   - inpatient
   - reimbursement
-title: MDC 03 — Ear, Nose, Mouth & Throat (ENT / Otolaryngology)
+title: MDC 03 - Ear, Nose, Mouth & Throat (ENT / Otolaryngology)
 aliases:
   - MDC 03
   - MDC03
@@ -30,7 +30,7 @@ related:
 status: complete
 ---
 
-# 👂 MDC 03 — Ear, Nose, Mouth & Throat (ENT / Otolaryngology)
+# 👂 MDC 03 - Ear, Nose, Mouth & Throat (ENT / Otolaryngology)
 
 > [!abstract] MDC 03 Scope
 > MDC 03 covers diseases and disorders of the **ear, nose, mouth, throat, and larynx** — the full head and neck region excluding the brain, eyes, and spine. Principal diagnosis must fall within ICD-10-CM chapters covering ENT structures (**C00-C14, C30-C32, H60-H95, J00-J06, J30-J39, K00-K14, S00-S09 ENT-specific**). Oral surgery and maxillofacial procedures frequently appear here as well.

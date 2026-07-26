@@ -69,7 +69,7 @@ HCPCS Level II Modifiers
 
 **Parent Category**: Teaching Physician Modifiers <sup>6</sup>  
 **Related Modifiers**: [[-GC]] (Standard Teaching Physician), **-GR** (**VA Medical Center**), [[-QX]] (Anesthesia Direction)  
-**Primary Code Dependency**: Must be appended to a valid E/M CPT® code (e.g., [[99213]], [[99214]])
+**Primary Code Dependency**: Must be appended to a valid E/M CPT® code (e.g., [[99213]], [[50 Medical Coding/CPT Codes/99214]])
 
 ---
 
@@ -103,7 +103,7 @@ HCPCS Level II Modifiers
 
 ### ❌ Excludes / Bundled Per NCCI
 - Services performed by the teaching physician personally (no modifier needed or use [[-GC]]) <sup>3</sup>
-- High complexity E/M services (e.g., [[99214]], [[99215]]) generally do not qualify for PCE <sup>3</sup>
+- High complexity E/M services (e.g., [[50 Medical Coding/CPT Codes/99214]], [[99215]]) generally do not qualify for PCE <sup>3</sup>
 - Critical care services (e.g., [[99291]]) <sup>3</sup>
 - Surgical procedures (PCE applies primarily to E/M) <sup>3</sup>
 - Services in hospital outpatient departments (**PCE generally limited to clinics**) <sup>3</sup>
@@ -232,7 +232,7 @@ To support modifier [[-GE]] and mitigate audit risk, medical documentation shoul
 | HCPCS Modifier | **GR**              | This service was performed in part by a resident in a department of veterans affairs medical center |
 | HCPCS Modifier | **[[-25]]**              | Significant, Separately Identifiable Evaluation and Management Service                              |
 | CPT®           | **[[99202]]-[[99213]]** | Office or Other Outpatient Services (Typical PCE codes)                                             |
-| CPT®           | **[[99214]]-[[99215]]** | Higher Level E/M (Generally not PCE eligible)                                                       |
+| CPT®           | **[[50 Medical Coding/CPT Codes/99214]]-[[99215]]** | Higher Level E/M (Generally not PCE eligible)                                                       |
 | CMS Form       | **CMS-1500**            | Professional claim form where [[-GE]] is reported                                                    |
 | CMS Pub        | **Pub 100-04 Ch 12**    | Medicare Claims Processing Manual (Teaching Physicians)                                             |
 

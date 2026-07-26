@@ -23,15 +23,15 @@ aliases:
   - Urologic CPT Codes
 note_type: MOC
 specialty: Urology
-chapter_range: Surgery — Urinary System (CPT 50010-53899)
-mdc: MDC 11 — Diseases and Disorders of the Kidney and Urinary Tract
+chapter_range: Surgery - Urinary System (CPT 50010-53899)
+mdc: MDC 11 - Diseases and Disorders of the Kidney and Urinary Tract
 status: active
 date_created: 2026-02-23
 date_modified: 2026-07-24
 related_notes:
   - "CPT 50230 - Radical nephrectomy open with lymphadenectomy"
-  - "[[50 Medical Coding/Modifiers/Global Surgical Package MOC]]"
-  - "[[Procedure Status & Complexity Modifiers]]"
+  - "50 Medical Coding/Modifiers/Global Surgical Package MOC"
+  - "Procedure Status & Complexity Modifiers"
 ---
 
 # 📋Urology CPT Codes Reference

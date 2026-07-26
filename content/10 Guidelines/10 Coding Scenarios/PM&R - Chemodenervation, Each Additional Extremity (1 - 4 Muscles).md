@@ -8,7 +8,7 @@ global_period: N/A - add-on code
 bilateral_indicator: N/A - defined per extremity
 ---
 
-# CPT 64643 — Chemodenervation, Each Additional Extremity (1-4 Muscles) [Add-On]
+# CPT 64643 - Chemodenervation, Each Additional Extremity (1-4 Muscles) [Add-On]
 
 > [!summary] Quick Reference
 > **Add-on code.** Reports chemodenervation of a **second (or subsequent) extremity**, 1-4 muscles, same session. Must always be billed with a primary [[chemodenervation]] code — never stands alone.

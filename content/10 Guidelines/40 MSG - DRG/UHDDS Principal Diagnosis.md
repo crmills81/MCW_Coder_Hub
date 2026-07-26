@@ -7,7 +7,7 @@ tags:
   - inpatient
   - coding-fundamentals
   - drg
-title: UHDDS Principal Diagnosis — Sequencing Rules & Application Guide
+title: UHDDS Principal Diagnosis - Sequencing Rules & Application Guide
 aliases:
   - UHDDS
   - Principal Diagnosis

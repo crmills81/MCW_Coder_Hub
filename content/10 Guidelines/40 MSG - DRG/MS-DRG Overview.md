@@ -8,7 +8,7 @@ tags:
   - cc-mcc
   - pcs
   - coding-fundamentals
-title: MS-DRG — Medicare Severity Diagnosis Related Groups
+title: MS-DRG - Medicare Severity Diagnosis Related Groups
 aliases:
   - DRG
   - MS-DRG
@@ -29,7 +29,7 @@ related_systems:
 status: complete
 ---
 
-# 🏥 MS-DRG — Medicare Severity Diagnosis Related Groups
+# 🏥 MS-DRG - Medicare Severity Diagnosis Related Groups
 
 > [!abstract] One-Line Definition
 > An **MS-DRG** (Medicare Severity Diagnosis Related Group) is a patient classification system used by CMS to group inpatient hospital stays into clinically coherent, resource-similar categories for the purpose of **standardized prospective payment** under the Inpatient Prospective Payment System (IPPS).

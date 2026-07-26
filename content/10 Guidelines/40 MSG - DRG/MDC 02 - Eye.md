@@ -8,7 +8,7 @@ tags:
   - glaucoma
   - inpatient
   - reimbursement
-title: MDC 02 — Eye (Ophthalmology)
+title: MDC 02 - Eye (Ophthalmology)
 aliases:
   - MDC 02
   - MDC02
@@ -28,7 +28,7 @@ related:
 status: complete
 ---
 
-# 👁️ MDC 02 — Eye (Ophthalmology)
+# 👁️ MDC 02 -- Eye (Ophthalmology)
 
 > [!abstract] MDC 02 Scope
 > **MDC 02** covers diseases and disorders of the **eye and ocular adnexa** — the **[[globe]]**, **orbit**, **eyelid**, lacrimal apparatus, **conjunctiva**, cornea, lens, **[[vitreous]]**, retina, and optic nerve. Principal diagnosis must fall within the **ICD-10-CM** eye chapter (**H00-H59**) or selected **[[neoplasm]]**/trauma codes mapped to **MDC 02**.

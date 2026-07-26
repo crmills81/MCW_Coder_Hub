@@ -7,9 +7,9 @@ tags:
   - limb-loss
   - prosthetics
   - inpatient
-title: Z89 — Amputation Status Codes
+title: Z89 - Amputation Status Codes
 specialty: Physical Medicine and Rehabilitation
-category: Z Codes — Status
+category: Z Codes - Status
 note_type: coding_reference
 icd10cm_codes:
   - Z89.011
@@ -87,25 +87,25 @@ icd10cm_codes:
   - Z89.9
 ms_drg_relevant: true
 date_created: 2026-05-06
-last_reviewed: 2026-05-06
+last_reviewed: 2026-07-25
 ---
 
-# 🦾 Z89 — Acquired Absence of Limb (Amputation Status)
+# 🦾 Z89 - Acquired Absence of Limb (Amputation Status)
 
 > [!tip] Quick Orientation
-> **Z89** codes document **acquired absence of a limb** — meaning the limb was surgically amputated or traumatically lost. These are **status codes**, always secondary, never PDX. They pair directly with **[[Z47.81]]** (**post-amputation aftercare**) in IRF admissions and with prosthetic **CPT** codes in **PM&R** encounters. Congenital absence of limb is coded separately under Q71-Q73 — do not use Z89 for congenital limb deficiency.
+> **Z89** codes document **acquired absence of a limb** - meaning the limb was surgically amputated or traumatically lost. These are **status codes**, always secondary, never PDX. They pair directly with **[[Z47.81]]** (**post-amputation aftercare**) in IRF admissions and with prosthetic **CPT** codes in **PM&R** encounters. Congenital absence of limb is coded separately under Q71-Q73 - do not use Z89 for congenital limb deficiency.
 
 ---
 
 ## 📑 Table of Contents
 
 1. [[#🧭 Z89 Code Fundamentals|Z89 Code Fundamentals]]
-2. [[#🖐️ Upper Extremity Amputations — Finger Level|Upper Extremity — Finger Level (Z89.0)]]
-3. [[#✋ Upper Extremity Amputations — Hand and Wrist Level|Upper Extremity — Hand and Wrist (Z89.1)]]
-4. [[#💪 Upper Extremity Amputations — Above Wrist|Upper Extremity — Above Wrist (Z89.2)]]
-5. [[#🦶 Lower Extremity Amputations — Toe Level|Lower Extremity — Toe Level (Z89.4)]]
-6. [[#🦵 Lower Extremity Amputations — Foot and Ankle Level|Lower Extremity — Foot and Ankle (Z89.5)]]
-7. [[#🦿 Lower Extremity Amputations — Above Ankle|Lower Extremity — Above Ankle (Z89.6)]]
+2. [[#🖐️ Upper Extremity Amputations - Finger Level|Upper Extremity - Finger Level (Z89.0)]]
+3. [[#✋ Upper Extremity Amputations - Hand and Wrist Level (Z89.1)]]
+4. [[#💪 Upper Extremity Amputations - Above Wrist (Z89.2)]]
+5. [[#🦶 Lower Extremity Amputations - Toe Level|Lower Extremity - Toe Level (Z89.4)]]
+6. [[#🦵 Lower Extremity Amputations - Foot and Ankle Level|Lower Extremity - Foot and Ankle (Z89.5)]]
+7. [[#🦿 Lower Extremity Amputations - Above Ankle|Lower Extremity - Above Ankle (Z89.6)]]
 8. [[#⚠️ Common Coding Pitfalls|Common Coding Pitfalls]]
 9. [[#🔗 Essential Code Pairings|Essential Code Pairings]]
 10. [[#📌 Coding Scenarios|Coding Scenarios]]
@@ -116,11 +116,11 @@ last_reviewed: 2026-05-06
 ## 🧭 Z89 Code Fundamentals
 
 > [!warning] Critical Rules
-> - Z89 codes are **always secondary** — never PDX
-> - Use only for **acquired** absence — not congenital
+> - Z89 codes are **always secondary** - never PDX
+> - Use only for **acquired** absence - not congenital
 > - Code the **underlying cause** of amputation as additional dx when relevant (e.g., diabetes, PAD, trauma)
-> - Laterality is **required** — right, left, or bilateral/unspecified
-> - Level of **amputation** must match documentation — **partial vs. complete, foot vs. ankle vs. below knee vs. above knee**
+> - Laterality is **required** - right, left, or bilateral/unspecified
+> - Level of **amputation** must match documentation - **partial vs. complete, foot vs. ankle vs. below knee vs. above knee**
 
 | Concept                       | Rule                                                      |
 | ----------------------------- | --------------------------------------------------------- |
@@ -132,7 +132,7 @@ last_reviewed: 2026-05-06
 
 ---
 
-## 🖐️ Upper Extremity Amputations — Finger Level (Z89.0)
+## 🖐️ Upper Extremity Amputations - Finger Level (Z89.0)
 
 | Code        | Description                                   |
 | ----------- | --------------------------------------------- |
@@ -150,11 +150,11 @@ last_reviewed: 2026-05-06
 | **[[Z89.129]]** | Acquired absence of wrist, unspecified        |
 
 > [!tip] Finger-Level Coding
-> **Individual finger codes** exist for thumb and index finger specifically. For middle, ring, and little finger absence, use Z89.02- (**other finger**) codes. Multiple finger absence on same hand — code each absent finger separately.
+> **Individual finger codes** exist for thumb and index finger specifically. For middle, ring, and little finger absence, use Z89.02- (**other finger**) codes. Multiple finger absence on same hand - code each absent finger separately.
 
 ---
 
-## ✋ Upper Extremity Amputations — Hand and Wrist Level (Z89.1)
+## ✋ Upper Extremity Amputations - Hand and Wrist Level (Z89.1)
 
 | Code        | Description                               |
 | ----------- | ----------------------------------------- |
@@ -173,7 +173,7 @@ last_reviewed: 2026-05-06
 
 ---
 
-## 💪 Upper Extremity Amputations — Above Wrist (Z89.2)
+## 💪 Upper Extremity Amputations - Above Wrist (Z89.2)
 
 | Code        | Description                                                   |
 | ----------- | ------------------------------------------------------------- |
@@ -195,7 +195,7 @@ last_reviewed: 2026-05-06
 
 ---
 
-## 🦶 Lower Extremity Amputations — Toe Level (Z89.4)
+## 🦶 Lower Extremity Amputations - Toe Level (Z89.4)
 
 | Code        | Description                                |
 | ----------- | ------------------------------------------ |
@@ -212,15 +212,15 @@ last_reviewed: 2026-05-06
 | **[[Z89.442]]** | Acquired absence of left ankle             |
 | **[[Z89.449]]** | Acquired absence of ankle, unspecified     |
 
-> [!tip] Toe Amputation — Diabetic Context
+> [!tip] Toe Amputation - Diabetic Context
 > **Toe amputations** are extremely common in diabetic patients with peripheral vascular disease. Always code the underlying etiology:
-> - **[[E11.51]]** — Type 2 DM with diabetic peripheral angiopathy without gangrene
-> - **[[E11.52]]** — Type 2 DM with diabetic peripheral angiopathy with gangrene
-> - I70.- — Atherosclerosis of native arteries of extremities
+> - **[[E11.51]]** - Type 2 DM with diabetic peripheral angiopathy without gangrene
+> - **[[E11.52]]** - Type 2 DM with diabetic peripheral angiopathy with gangrene
+> - I70.- - Atherosclerosis of native arteries of extremities
 
 ---
 
-## 🦵 Lower Extremity Amputations — Foot and Ankle Level (Z89.5)
+## 🦵 Lower Extremity Amputations - Foot and Ankle Level (Z89.5)
 
 | Code        | Description                                     |
 | ----------- | ----------------------------------------------- |
@@ -239,7 +239,7 @@ last_reviewed: 2026-05-06
 
 ---
 
-## 🦿 Lower Extremity Amputations — Above Ankle (Z89.6)
+## 🦿 Lower Extremity Amputations - Above Ankle (Z89.6)
 
 | Code        | Description                                      |
 | ----------- | ------------------------------------------------ |
@@ -270,7 +270,7 @@ last_reviewed: 2026-05-06
 > | **Using Z89 for congenital limb absence**                 | Use Q71-Q73 instead                                                                |
 > | **Using Z89 during acute traumatic amputation encounter** | Use S-code injury codes with 7th char A; Z89 applies after healing                 |
 > | **Missing laterality**                                    | Always specify right, left, or bilateral                                           |
-> | **Missing level of amputation**                           | Below knee (BK), above knee (AK), transmetatarsal — document and code specifically |
+> | **Missing level of amputation**                           | Below knee (BK), above knee (AK), transmetatarsal - document and code specifically |
 > | **Forgetting underlying etiology**                        | Always code diabetes, PAD, trauma etiology as additional dx                        |
 > | **Using unspecified Z89.9 when level is documented**      | Code the most specific level available                                             |
 > 
@@ -296,30 +296,30 @@ last_reviewed: 2026-05-06
 
 ### Scenario 1: Right BKA, Diabetic, IRF Prosthetic Rehab
 - **PDX:** [[Z47.81]]
-- **Secondary:** [[Z89.511]] — Acquired absence right leg below knee
-- **Secondary:** [[E11.52]] — Type 2 DM with peripheral angiopathy with gangrene
-- **Secondary:** [[Z74.09]] — Reduced mobility
-- **CPT:** [[97761]] — Prosthetic training
+- **Secondary:** [[Z89.511]] - Acquired absence right leg below knee
+- **Secondary:** [[E11.52]] - Type 2 DM with peripheral angiopathy with gangrene
+- **Secondary:** [[Z74.09]] - Reduced mobility
+- **CPT:** [[97761]] - Prosthetic training
 
 ### Scenario 2: Bilateral AKA, Traumatic, Acute Care
-- **PDX:** [[S78.011A]] — Complete traumatic amputation at right hip joint, initial
-- **Secondary:** [[S78.012A]] — Complete traumatic amputation at left hip joint, initial
-- **Note:** Z89 not used during acute traumatic encounter — applies after healing
+- **PDX:** [[S78.011A]] - Complete traumatic amputation at right hip joint, initial
+- **Secondary:** [[S78.012A]] - Complete traumatic amputation at left hip joint, initial
+- **Note:** Z89 not used during acute traumatic encounter - applies after healing
 
 ### Scenario 3: Left Great Toe Amputation, Established, Wound Care Visit
 - **PDX:** [[Z47.81]] or [[Z48.00]] depending on what's being done
-- **Secondary:** [[Z89.412]] — Acquired absence left great toe
-- **Secondary:** [[E11.51]] — Type 2 DM with peripheral angiopathy w/o gangrene
+- **Secondary:** [[Z89.412]] - Acquired absence left great toe
+- **Secondary:** [[E11.51]] - Type 2 DM with peripheral angiopathy w/o gangrene
 
 ---
 
 ## 🔍 Related Notes (Link When Built)
 
-- [[PM&R Z Codes — Inpatient Coding Reference]]
+- [[PM&R Z Codes - Inpatient Coding Reference]]
 - [[Z93 Artificial Opening Status Codes]]
 - [[Z94 Transplant Status Codes]]
-- [[CC MCC Table — PM&R]]
-- [[Spinal Cord Injury Coding — G82 and S-Codes]]
+- [[CC MCC Table - PM&R]]
+- [[Spinal Cord Injury Coding - G82 and S-Codes]]
 
 ---
 

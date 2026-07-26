@@ -7,7 +7,7 @@ tags:
   - drg
   - payment-methodology
   - coding-fundamentals
-title: IPPS Payment Overview — Inpatient Prospective Payment System
+title: IPPS Payment Overview - Inpatient Prospective Payment System
 aliases:
   - IPPS
   - Inpatient Prospective Payment System
@@ -29,7 +29,7 @@ related_systems:
 status: complete
 ---
 
-# 💵 IPPS Payment Overview — Inpatient Prospective Payment System
+# 💵 IPPS Payment Overview - Inpatient Prospective Payment System
 
 > [!abstract] One-Line Definition
 > The **Inpatient Prospective Payment System (IPPS)** is the CMS payment model under which Medicare pays acute care hospitals a **fixed, predetermined amount** per inpatient stay based on the assigned MS-DRG — regardless of the hospital's actual costs for that case.

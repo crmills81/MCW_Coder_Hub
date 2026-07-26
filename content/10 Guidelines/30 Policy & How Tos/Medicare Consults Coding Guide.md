@@ -11,7 +11,7 @@ tags:
   - urology
   - ophthalmology
   - otolaryngology
-title: Medicare Consults — Coding & Billing Guide
+title: Medicare Consults - Coding & Billing Guide
 specialty:
   - Urology
   - Ophthalmology
@@ -27,7 +27,7 @@ aliases:
   - Consult E/M
 ---
 
-# Medicare Consults — Coding & Billing Guide
+# Medicare Consults - Coding & Billing Guide
 
 > [!warning] **Critical Rule**
 > **Medicare** **does not recognize consultation CPT codes ([[99241]]-[[99255]])**. These codes were eliminated from the Medicare Physician Fee Schedule effective **January 1, 2010** (CMS Transmittal 1875). Billing consult codes to Medicare will result in **claim denial**.

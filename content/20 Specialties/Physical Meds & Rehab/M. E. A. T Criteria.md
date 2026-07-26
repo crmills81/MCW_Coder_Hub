@@ -8,7 +8,7 @@ tags:
   - inpatient
   - cms-hcc-v28
   - pmr
-title: MEAT Criteria — Paralysis Documentation for Inpatient Coding
+title: MEAT Criteria - Paralysis Documentation for Inpatient Coding
 aliases:
   - MEAT criteria
   - Monitor Evaluate Assess Treat
@@ -24,7 +24,7 @@ date_created: 2026-04-22
 last_reviewed: 2026-05-07
 ---
 
-# MEAT Criteria — Paralysis Documentation for Inpatient Coding
+# MEAT Criteria - Paralysis Documentation for Inpatient Coding
 
 ## Overview
 

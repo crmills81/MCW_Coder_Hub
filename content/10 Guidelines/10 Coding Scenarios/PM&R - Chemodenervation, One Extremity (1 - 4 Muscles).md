@@ -8,7 +8,7 @@ global_period: 000
 bilateral_indicator: N/A - defined per extremity
 ---
 
-# CPT 64642 — Chemodenervation, One Extremity (1-4 Muscles)
+# CPT 64642 - Chemodenervation, One Extremity (1-4 Muscles)
 
 > [!summary] Quick Reference
 > **[[chemodenervation|Chemodenervation]]** (e.g., onabotulinumtoxinA, abobotulinumtoxinA) of **1 extremity, 1-4 muscles**. Base code — reported once per session regardless of how many muscles (1-4) are injected in that first extremity.

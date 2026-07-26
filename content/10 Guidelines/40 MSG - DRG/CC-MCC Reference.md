@@ -1,12 +1,30 @@
 ---
-title: CC/MCC Reference — Complication & Comorbidity Designation Guide
-aliases: [CC MCC, Complication Comorbidity, CC/MCC List, MCC Reference, CC Reference]
-tags: [cc-mcc, drg, inpatient, reimbursement, severity, coding-fundamentals]
+title: CC/MCC Reference - Complication & Comorbidity Designation Guide
+aliases:
+  - CC MCC
+  - Complication Comorbidity
+  - CC/MCC List
+  - MCC Reference
+  - CC Reference
+tags:
+  - cc-mcc
+  - drg
+  - inpatient
+  - reimbursement
+  - severity
+  - coding-fundamentals
 specialty: All Inpatient
 code_type: DRG Reference
 system: CMS MS-DRG
 updated: 2025-05-05
-related: [MS-DRG_Overview, CDI_Query_Templates, MDC_11_Urology, MDC_03_ENT, MDC_02_Eye, HAC_List, POA_Indicator_Guide]
+related:
+  - MS-DRG_Overview
+  - CDI_Query_Templates
+  - MDC_11_Urology
+  - MDC_03_ENT
+  - MDC_02_Eye
+  - HAC_List
+  - POA_Indicator_Guide
 status: complete
 ---
 

@@ -15,7 +15,7 @@ subcategory: Head and Neck
 date_created: 2026-03-10
 ---
 
-# Laryngeal Anatomy — Comprehensive Reference
+# Laryngeal Anatomy - Comprehensive Reference
 
 ![[Pasted image 20260316211523.png]]
 

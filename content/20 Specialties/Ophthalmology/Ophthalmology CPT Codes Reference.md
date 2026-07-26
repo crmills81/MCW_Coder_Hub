@@ -21,9 +21,8 @@ aliases:
   - Glaucoma CPT Codes
   - Ocular Surgery CPT Codes
 note_type: CPT-reference
-status: active
 date_created: 2026-02-23
-date_modified: 2026-04-12
+date_modified: 2026-07-25
 ncci_notes:
   - Fundus photography (92250) and OCT (92133, 92134) are generally mutually exclusive per NCCI for the same eye on the same date — use modifier XU or 59 only when both are medically necessary and documentable.
   - Extended ophthalmoscopy (92201, 92202) is included in posterior segment surgical procedures (67005-67229) when performed same-day.
@@ -36,10 +35,10 @@ key_modifiers_in_ophthalmology:
   - -79 (unrelated procedure during post-op period)
   - -55 (post-op management only)
 related_notes:
-  - "[[H20.051]] - Hypopyon, right eye"
-  - "[[Uveitis and Iridocyclitis - Clinical Overview]]"
-  - "[[50 Medical Coding/Modifiers/Global Surgical Package MOC]]"
-  - "[[Global Surgery Period Modifiers - Comparison & Reference]]"
+  - H20.051 - Hypopyon, right eye
+  - Uveitis and Iridocyclitis - Clinical Overview
+  - 50 Medical Coding/Modifiers/Global Surgical Package MOC
+  - Global Surgery Period Modifiers - Comparison & Reference
 source: AMA CPT 2025/2026, CMS MPFS, NCCI Policy Manual Chapter 11, ECBC Ophthalmology Billing Cheat Sheet, Review of Ophthalmology 2026 Update
 ---
 

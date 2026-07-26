@@ -14,7 +14,7 @@ tags:
   - physician-query
   - reimbursement
   - IPPS
-title: Complications and Comorbidities (CC/MCC) — Inpatient Profee Reference
+title: Complications and Comorbidities (CC/MCC) - Inpatient Profee Reference
 aliases:
   - CC MCC
   - Complication or Comorbidity

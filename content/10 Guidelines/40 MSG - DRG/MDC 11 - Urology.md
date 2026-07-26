@@ -8,7 +8,7 @@ tags:
   - inpatient
   - reimbursement
   - pcs
-title: MDC 11 — Kidney & Urinary Tract (Urology)
+title: MDC 11 - Kidney & Urinary Tract (Urology)
 aliases:
   - MDC 11
   - MDC11
@@ -29,10 +29,10 @@ related:
 status: complete
 ---
 
-# 🫘 MDC 11 — Kidney & Urinary Tract
+# 🫘 MDC 11 - Kidney & Urinary Tract
 
 > [!abstract] MDC 11 Scope
-> **MDC 11** covers diseases and disorders of the **kidney, ureter, bladder, and urethra** — the upper and lower urinary tract. It does **NOT** include the male or female reproductive organs (**MDC 12/13**) or renal **[[dialysis]]** as a primary procedure (**Pre-MDC**). Principal diagnosis must fall within the **renal/urinary ICD-10-CM chapter (N00-N39)** or related conditions mapped to MDC 11.
+> **MDC 11** covers diseases and disorders of the **kidney, ureter, bladder, and urethra** - the upper and lower urinary tract. It does **NOT** include the male or female reproductive organs (**MDC 12/13**) or renal **[[dialysis]]** as a primary procedure (**Pre-MDC**). Principal diagnosis must fall within the **renal/urinary ICD-10-CM chapter (N00-N39)** or related conditions mapped to MDC 11.
 
 ---
 

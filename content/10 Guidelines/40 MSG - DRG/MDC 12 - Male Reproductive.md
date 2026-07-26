@@ -8,7 +8,7 @@ tags:
   - testis
   - inpatient
   - reimbursement
-title: MDC 12 — Male Reproductive System
+title: MDC 12 - Male Reproductive System
 aliases:
   - MDC 12
   - MDC12
@@ -27,7 +27,7 @@ related:
 status: complete
 ---
 
-# 🔬 MDC 12 — Male Reproductive System
+# 🔬 MDC 12 - Male Reproductive System
 
 > [!abstract] MDC 12 Scope
 > **MDC 12** covers diseases and disorders of the **prostate, testes, epididymis, seminal vesicles, and penis**. The principal diagnosis must be a male reproductive system condition (ICD-10-CM: **N40-N53, C60-C63, D29.x**). MDC 12 is a companion MDC to [[MDC 11 - Urology]] — together they represent the full urology inpatient DRG landscape.

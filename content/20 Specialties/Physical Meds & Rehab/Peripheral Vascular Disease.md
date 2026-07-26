@@ -17,7 +17,7 @@ topic: PVD, PAD, Atherosclerosis ICD-10-CM Coding
 created: 2026-05-07
 status: Active ✅
 primary_dx_categories: I70, I73, I96
-ms_drg_note: PVD with gangrene codes are MCCs and HCC-108 — highest capture priority in amputee population
+ms_drg_note: PVD with gangrene codes are MCCs and HCC-108 - highest capture priority in amputee population
 hcc_map: HCC-108 HCC-39
 coder_note: Inpatient profee reference - MCW Inpatient Abstraction Team
 ---
