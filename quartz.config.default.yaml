@@ -17,8 +17,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Google Sans
-      body: Google Sans
+      header: Roboto
+      body: Roboto
       code: IBM Plex Mono
     colors:
       lightMode:
