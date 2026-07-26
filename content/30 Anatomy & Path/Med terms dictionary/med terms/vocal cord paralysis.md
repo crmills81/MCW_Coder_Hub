@@ -37,7 +37,7 @@ _____
 >
 >|Component|Origin|Meaning|
 >|---|---|---|
->|**[[vocal-]]** / **[[voc-]]**|Latin _vocalis_, from _vox_, _vocis_|"**Of the voice**," "**pertaining to the voice**" — from PIE root _\*wekʷ-_ meaning "to speak"; also underlying [[vocation]], [[invoke]], [[vocalize]]|
+>|**[[vocal-]]** / **[[voc-]]**|Latin _vocalis_, from _vox_, _vocis_|"**Of the voice**," "**pertaining to the voice**" — from PIE root _*wekʷ-_ meaning "to speak"; also underlying [[vocation]], [[invoke]], [[vocalize]]|
 >|**cord**|Latin _chorda_, from Greek _χορδή_ (_khordē_)|"**String, gut, chord**" — originally referring to intestinal string; applied anatomically to string-like structures including vocal folds; also underlying [[notochord]], [[chord]]|
 >|**[[para-]]**|Greek _παρά_ (_para_)|"**Beside, beyond, contrary to**" — in medical terminology, often indicates **abnormal** or **disordered** function, as in _paralysis_ (loss of function beside/beyond normal)|
 >|**[[-lysis]]**|Greek _λύσις_ (_lysis_), from _lyein_ ("to loosen, dissolve, release")|"**Loosening, dissolution, breaking down**" — in medical compounds, denotes **loss of function or disintegration**; also underlying [[electrolysis]], [[hemolysis]], [[analysis]]|

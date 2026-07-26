@@ -141,7 +141,7 @@ HCPCS Level II Modifiers
 | **[[M17.11]]**     | Unilateral primary osteoarthritis, right knee      | ❌ Not HCC              |
 | **[[F41.1]]**      | Generalized anxiety disorder                       | ❌ Not HCC              |
 
-\* *HCC Status*: Hierarchical Condition Category mapping for Medicare Advantage risk adjustment. Diagnosis codes determine HCC status, not the modifier. **Modifier [[-GE]]** has no impact on risk adjustment scores <sup>9</sup><sup>10</sup>.
+* *HCC Status*: Hierarchical Condition Category mapping for Medicare Advantage risk adjustment. Diagnosis codes determine HCC status, not the modifier. **Modifier [[-GE]]** has no impact on risk adjustment scores <sup>9</sup><sup>10</sup>.
 
 ### Supporting/Comorbid Codes (Document When Applicable)
 - [[N18.30]] Chronic kidney disease, stage 3 unspecified (HCC applicable)

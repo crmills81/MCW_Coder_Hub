@@ -32,7 +32,7 @@ _____
 >|Component|Origin|Meaning|
 >|---|---|---|
 >|**[[syn-]]**|Ancient Greek _σύν_ (_syn_)|"**Together**," "**with**," "**at the same time**" — denoting simultaneity or union|
->|**[[-kinesis]]**|Ancient Greek _κίνησις_ (_kinēsis_), from _kinein_ ("to move")|"**Movement**," "**motion**" — from PIE root _\*keie-_ meaning "to set in motion"; also underlying [[kinetic]], [[hyperkinesia]], [[akinesia]]|
+>|**[[-kinesis]]**|Ancient Greek _κίνησις_ (_kinēsis_), from _kinein_ ("to move")|"**Movement**," "**motion**" — from PIE root _*keie-_ meaning "to set in motion"; also underlying [[kinetic]], [[hyperkinesia]], [[akinesia]]|
 >
 > **Literally**: _"movement together"_ — precisely describing the simultaneous, unintended co-contraction of muscles that defines the condition. The component _kinēsis_ entered English as a standalone medical/scientific term in **1819**, meaning "physical movement" or "muscular action." The compound **synkinesis** itself entered the medical literature in the **late 19th century** to describe the neurological phenomenon of involuntary co-movement, and its alternate form **synkinesia** (with the suffix -_ia_ denoting an abnormal condition) is used interchangeably in European and older literature. The same root _kinein_ underlies **akinesia** (absence of movement), **dyskinesia** (abnormal movement), **bradykinesia** (slow movement), **hyperkinesia** (excessive movement), and the suffix **-kinesis** seen throughout neurology and cell biology.
 _____

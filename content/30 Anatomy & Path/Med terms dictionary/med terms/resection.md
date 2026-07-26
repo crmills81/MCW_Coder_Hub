@@ -36,7 +36,7 @@ _____
 >|Component|Origin|Meaning|
 >|---|---|---|
 >|**[[re-]]**|Latin _re-_|Intensive prefix — "**back**," "**again**," or used here as an **intensifier** in _resecare_|
->|**[[sect-]]**|Latin _sectus_, past participle of _secare_|"**To cut**" — from PIE root _\*sek-_ meaning "**to cut**"; also underlying [[section]], [[dissect]], [[bisect]]|
+>|**[[sect-]]**|Latin _sectus_, past participle of _secare_|"**To cut**" — from PIE root _*sek-_ meaning "**to cut**"; also underlying [[section]], [[dissect]], [[bisect]]|
 >|**[[-ion]]**|Latin _-io_, _-ionis_|Noun-forming suffix — "**act or process of**"; denotes the result or performance of an action|
 >
 > **Literally**: _"the act of cutting back or cutting away"_ — from Latin _resecare_, "**to cut off, cut loose, curtail**," from _re-_ (**intensive**) + _secare_ ("**to cut**"). The term entered English in the **1610s** with the general sense of "**action of cutting off or away**," and by **1775** the surgical sense of "**excision of a body part**" had become the primary surviving meaning. The same root _secare_ underlies **section**, **sector**, **dissection**, **intersection**, and the surgical suffix **-sect**.

@@ -54,8 +54,8 @@ _____
 > - **High ankle sprain** _(lay and clinical synonym for distal tibiofibular syndesmosis injury; distinguished from the more common lateral ankle sprain by its mechanism — external rotation rather than inversion)_
 > - **Fibrous joint** _(structural classification synonym; syndesmosis is one of three fibrous joint subtypes along with suture and [[gomphosis]])_
 > - **Ligamentous joint** _(descriptive synonym used in biomechanics and orthopedic literature; emphasizes the ligamentous tissue binding the bones)_
-> - **Distal tibiofibular syndesmosis\|Tibiofibular syndesmosis** _(the most clinically relevant syndesmosis; formed by the distal tibia and fibula, stabilized by four ligaments — most commonly injured in Weber B/C ankle fractures)_
-> - **Interosseous membrane\|Radioulnar interosseous membrane** _(proximal and distal radioulnar syndesmoses; fibrous interosseous membrane binding radius and ulna along their shafts — [[S59.001A]]-[[S59.099A]] for physeal injuries)_
+> - **Distal tibiofibular syndesmosis |Tibiofibular syndesmosis** _(the most clinically relevant syndesmosis; formed by the distal tibia and fibula, stabilized by four ligaments — most commonly injured in Weber B/C ankle fractures)_
+> - **Interosseous membrane |Radioulnar interosseous membrane** _(proximal and distal radioulnar syndesmoses; fibrous interosseous membrane binding radius and ulna along their shafts — [[S59.001A]]-[[S59.099A]] for physeal injuries)_
 > - **Tibiofibular ligament sprain** _(clinical injury term for disruption of the syndesmotic complex; coded to [[S93.431A]]-[[S93.439A]] by laterality and encounter type)_
 > - **Syndesmotic disruption** _(pathological term for complete or partial tear of the distal tibiofibular syndesmotic ligaments; associated with ankle fracture-dislocations requiring surgical stabilization — CPT [[27829]])_
 > - **[[Diastasis]]|Tibiofibular diastasis** _(widening of the mortise from syndesmotic rupture — the most severe form; may require open reduction and fixation)_
@@ -71,7 +71,7 @@ _____
 > - **Interosseous membrane** — the broad fibrous sheet that constitutes the radioulnar and tibiofibular syndesmoses along the shaft; provides rotational stability in both the forearm and leg
 > - **[[Diastasis]]** — abnormal widening of a syndesmotic joint space, particularly the distal tibiofibular mortise; a key radiographic finding driving surgical intervention
 > - **[[Ligament]]** — the primary uniting tissue in syndesmosis; dense regular collagenous connective tissue binding bone to bone
-> - **Ankle fracture\|Weber B/C fracture** — fibular fracture classification most commonly associated with syndesmotic disruption; Weber C fractures nearly always involve complete syndesmotic injury requiring fixation
+> - **Ankle fracture |Weber B/C fracture** — fibular fracture classification most commonly associated with syndesmotic disruption; Weber C fractures nearly always involve complete syndesmotic injury requiring fixation
 > - **Suture** — sibling fibrous joint subtype; bones joined edge-to-edge with minimal fibrous tissue (e.g., cranial sutures); no interosseous ligament component
 > - **[[Gomphosis]]** — sibling fibrous joint subtype; peg-in-socket articulation (tooth in alveolus); all three fibrous joint subtypes (suture, gomphosis, syndesmosis) fall under [[synarthrosis]]
 > - **[[arthrodesis]]** — surgical creation of a permanent bony union at a joint; when applied to the syndesmosis (e.g., tibiofibular fusion in chronic instability), coded to CPT [[27829]] acutely or [[27870]] for ankle arthrodesis

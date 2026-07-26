@@ -42,7 +42,7 @@ _____
 >|---|---|---|
 >|**[[syring-]]** / **syrinx**|Greek _syrinx_ (SEER-inks)|"**tube**," "**pipe**," "**channel**" — directional/structural root describing a hollow tubular cavity|
 >|**[[myel-]]**|Greek _myelos_ (MY-eh-los), from _myos_ (MY-os)|"**marrow**," "**spinal cord**," "**inner substance**"|
->|**[[-ia]]**|Greek _-ia_ (ee-ah)|Noun-forming suffix — "**condition of**" \| "**state of**" \| "**disease characterized by**"|
+>|**[[-ia]]**|Greek _-ia_ (ee-ah)|Noun-forming suffix — "**condition of**"  | "**state of**"  | "**disease characterized by**"|
 >
 > The word entered English in the **1870s** as *syringomyelia* (**noun**), coined in New Latin from Greek ***syrinx*** ("pipe, tube") + ***myelos*** ("marrow, spinal cord") + ***-ia*** (condition) — literally **"a tube-like condition of the spinal cord."** The root *syrinx* ("**pipe or tube**") connects Syringomyelia to the entire **[[syring- root family]]**: ***[[syringosubarachnoid]]*** (**syrinx + subarachnoid space → shunt procedure**), ***[[syringobulbia]]*** (**syrinx extending into the brainstem/bulb**), and *[[syringe]]* (**tube used to inject or withdraw fluid**). The combining form *[[myel-]]* appears extensively in medical terminology: ***[[myelopathy]]***, ***[[myelitis]]***, ***[[myelomeningocele]]***, ***[[demyelination]]***, and ***[[myelography]]***.
 

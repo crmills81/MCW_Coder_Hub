@@ -123,15 +123,15 @@ Modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] does not direc
 *Modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] does not change diagnosis coding requirements. Diagnosis codes must support the medical necessity of the **primary surgical procedure** and anesthesia.*
 
 ### Primary Diagnosis Options (Dependent on Procedure)
-| ICD-10-CM Code | Description | HCC Status* |
-|----------------|-------------|-------------|
-| [[K80.20]] | Calculus of gallbladder without cholecystitis | ❌ Not HCC |
-| [[M17.11]] | Unilateral primary osteoarthritis, right knee | ❌ Not HCC |
-| [[C67.9]] | Malignant neoplasm of bladder | ✅ HCC (Cancer) |
-| [[Z40.01]] | Encounter for prophylactic surgery for malignant neoplasm | ✅ HCC (History of Cancer) |
-| [[I10]] | Essential (primary) hypertension | ✅ HCC (Cardiovascular) |
+| ICD-10-CM Code | Description                                               | HCC Status*               |
+| -------------- | --------------------------------------------------------- | ------------------------- |
+| **[[K80.20]]**     | Calculus of gallbladder without cholecystitis             | ❌ Not HCC                 |
+| **[[M17.11]]**     | Unilateral primary osteoarthritis, right knee             | ❌ Not HCC                 |
+| **[[C67.9]]**      | Malignant neoplasm of bladder                             | ✅ HCC (Cancer)            |
+| **[[Z40.01]]**     | Encounter for prophylactic surgery for malignant neoplasm | ✅ HCC (History of Cancer) |
+| **[[I10]]**        | Essential (primary) hypertension                          | ✅ HCC (Cardiovascular)    |
 
-\* *HCC Status*: Hierarchical Condition Category mapping for Medicare Advantage risk adjustment. Diagnosis codes determine HCC status, not the modifier. Modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] has no impact on risk adjustment scores <sup>9</sup><sup>10</sup>.
+ * *HCC Status*: Hierarchical Condition Category mapping for Medicare Advantage risk adjustment. Diagnosis codes determine HCC status, not the modifier. Modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] has no impact on risk adjustment scores <sup>9</sup><sup>10</sup>.
 
 ### Supporting/Comorbid Codes (Document When Applicable)
 - [[N18.30]] Chronic kidney disease, stage 3 unspecified (HCC applicable)
@@ -142,15 +142,15 @@ Modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] does not direc
 
 ## ✏️ Modifiers Guidance
 
-| Modifier | Use Case for [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] | Payable? |
-|----------|------------------------|----------|
-| [[-AA]] | Anesthesia performed personally by anesthesiologist | ❌ Do not use with [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] |
-| [[-QK]] | Medical direction of 2-4 CRNAs | ❌ Do not use with [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] |
-| [[-QY]] | Anesthesiologist directing one CRNA | ❌ Do not use with [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] |
-| [[-QX]] | CRNA service with medical direction | ⚠️ CRNA may use [[-QX]] or [[-QZ]] depending on relationship |
-| [[-QZ]] | CRNA service without medical direction | ✅ May be used by CRNA if supervision exceeds direction limits |
-| [[-47]] | Anesthesia by Surgeon | ❌ Mutually exclusive |
-| [[-23]] | Unusual Anesthesia | ✅ Can be used with [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] if unusual circumstances exist |
+| Modifier | Use Case for [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] | Payable?                                                                                                   |
+| -------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **[[-AA]]**  | Anesthesia performed personally by anesthesiologist                   | ❌ Do not use with [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]                                 |
+| **[[-QK]]**  | Medical direction of 2-4 CRNAs                                        | ❌ Do not use with [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]                                 |
+| **[[-QY]]**  | Anesthesiologist directing one CRNA                                   | ❌ Do not use with [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]                                 |
+| **[[-QX]]**  | CRNA service with medical direction                                   | ⚠️ CRNA may use [[-QX]] or [[-QZ]] depending on relationship                                               |
+| **[[-QZ]]**  | CRNA service without medical direction                                | ✅ May be used by CRNA if supervision exceeds direction limits                                              |
+| **[[-47]]**  | Anesthesia by Surgeon                                                 | ❌ Mutually exclusive                                                                                       |
+| **[[-23]]**  | Unusual Anesthesia                                                    | ✅ Can be used with [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] if unusual circumstances exist |
 
 > [!CAUTION] Modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] vs [[-QK]]
 > Do not use modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] if the anesthesiologist is directing four or fewer CRNAs. Use [[-QK]] for 2-4 CRNAs. [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] is strictly for >4 concurrent procedures <sup>3</sup>.
@@ -215,15 +215,15 @@ To support modifier [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] and
 
 ## 🔗 Related Codes & Crosswalks
 
-| Code Type | Code | Relationship to [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] |
-|-----------|------|---------------------------|
-| HCPCS Modifier | [[-AA]] | Anesthesia services performed personally by anesthesiologist |
-| HCPCS Modifier | [[-QK]] | Medical direction of two, three, or four CRNAs |
-| HCPCS Modifier | [[-QY]] | Anesthesiologist directing one certified registered nurse anesthetist |
-| HCPCS Modifier | [[-QX]] | CRNA service with medical direction by a physician |
-| HCPCS Modifier | [[-QZ]] | CRNA service without medical direction by a physician |
-| CPT® | [[00100]]-[[01999]] | Anesthesia Procedure Codes |
-| CMS Form | CMS-1500 | Professional claim form where [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] is reported |
+| Code Type      | Code                | Relationship to [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]]                           |
+| -------------- | ------------------- | -------------------------------------------------------------------------------------------------- |
+| **HCPCS Modifier** | **[[-AA]]**             | Anesthesia services performed personally by anesthesiologist                                       |
+| **HCPCS Modifier** | **[[-QK]]**             | Medical direction of two, three, or four CRNAs                                                     |
+| **HCPCS Modifier** | **[[-QY]]**             | Anesthesiologist directing one certified registered nurse anesthetist                              |
+| **HCPCS Modifier** | **[[-QX]]**             | CRNA service with medical direction by a physician                                                 |
+| **HCPCS Modifier** | **[[-QZ]]**             | CRNA service without medical direction by a physician                                              |
+| **CPT®**           | **[[00100]]-[[01999]]** | Anesthesia Procedure Codes                                                                         |
+| **CMS Form**       | **CMS-1500**            | Professional claim form where [[30 Anatomy & Path/Med terms dictionary/Med roots/-ad]] is reported |
 
 ---
 

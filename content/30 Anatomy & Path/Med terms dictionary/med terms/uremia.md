@@ -30,8 +30,8 @@ _____
 >
 >|Component|Origin|Meaning|
 >|---|---|---|
->|**ur-** / **uron-**|Greek _οὖρον_ (oûron)|"**Urine**" — from PIE \**ur-* ("water, to flow"); cognate with Latin *urina*|
->|**-emia** / **-haemia**|Greek _αἷμα_ (haîma), genitive _αἵματος_ (haímatos)|"**Blood**" — from PIE \**sei-* ("to drip"); the standard suffix denoting a blood condition|
+>|**ur-** / **uron-**|Greek _οὖρον_ (oûron)|"**Urine**" — from PIE **ur-* ("water, to flow"); cognate with Latin *urina*|
+>|**-emia** / **-haemia**|Greek _αἷμα_ (haîma), genitive _αἵματος_ (haímatos)|"**Blood**" — from PIE **sei-* ("to drip"); the standard suffix denoting a blood condition|
 >
 > The term *uremia* (also written *uraemia*) was coined in **1857** in Modern Latin, derived from a Latinized form of Greek *ouron* ("urine") + *haima* ("blood") — literally **"urine in the blood."** The adjectival form *uraemic* appeared slightly earlier, recorded by **1849**. The coinage is attributed to French physicians **Piorry and L'Héritier** (1840) who first described the clinical syndrome of terminal kidney failure. The suffix **-emia** (from *haima*, "blood") is one of the most productive in medical terminology: **anemia** (without blood), **bacteremia** (bacteria in blood), **hyperlipidemia** (excess lipid in blood), **hypoglycemia** (low glucose in blood), and **septicemia** (putrefaction in blood). The root **ur-** connects uremia to *[[urinalysis]]*, *[[ureter]]*, *[[ur-]]*, *[[ureteroscopy]]*, and *[[ureterolithiasis]]* — all sharing the PIE root for water/urine flow.
 _____

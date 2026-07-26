@@ -33,7 +33,7 @@ _____
 >|Component|Origin|Meaning|
 >|---|---|---|
 >|**[[a-]]** / **[[an-]]**|Ancient Greek _ἀ-_ / _ἀν-_ (alpha privative)|"**Without, lacking, absence of**" — denotes a complete absence or negation of the root concept; appears in [[apnea]], [[aphasia]], [[anesthesia]]|
->|**[[phon-]]** / **[[-phonia]]**|Ancient Greek _φωνή_ (_phōnē_)|"**Sound, voice**" — from PIE root _\*bʰeh₂-_ meaning "**to speak**"; underlying [[phonation]], [[dysphonia]], [[telephone]]|
+>|**[[phon-]]** / **[[-phonia]]**|Ancient Greek _φωνή_ (_phōnē_)|"**Sound, voice**" — from PIE root _*bʰeh₂-_ meaning "**to speak**"; underlying [[phonation]], [[dysphonia]], [[telephone]]|
 >|**[[-ia]]**|Greek and Latin _-ia_|Noun suffix — "**condition, state, or disease of**"|
 >
 > **Literally**: _"Condition of being without voice."_ The term entered medical English directly from the Greek _aphōnia_ ("**voicelessness**"), which itself is derived from _aphōnos_ (voiceless). The distinction between **aphonia** (**no voice**) and **aphasia** (**inability to comprehend or formulate language due to brain injury**) is a critical etymological and clinical divergence—**aphonia** is a mechanical/motor failure of the larynx, whereas aphasia is a cognitive/cortical failure of the brain. 

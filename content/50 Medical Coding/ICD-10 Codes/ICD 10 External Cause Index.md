@@ -6099,7 +6099,7 @@ Ictus
 - drug -see Table of Drugs and Chemicals
 - poison -see Table of Drugs and Chemicals
 
-\Rightarrow
+Rightarrow
 
 **Jammed (accidentally)**
 - between objects (moving) (stationary and moving) W23.0

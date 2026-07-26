@@ -124,7 +124,7 @@ CPT 2026
 
 **Surgery Guidelines 1004-6990**
 
-Copying, photographing, or sharing this CP\* book violates AMAs copyright law.
+Copying, photographing, or sharing this CP book violates AMAs copyright law.
 ▲ = Revised code ■ = New code ▶ = Contains new or revised text * = Duplicate PLA test
 
 CPT 2026

@@ -55,7 +55,7 @@ _____
 > - **Kinesthesia** *(lay and clinical synonym; specifically the conscious awareness of limb movement and velocity; closely associated in PT/OT settings and neurological exams — coded under [[R27.8]] when impaired)*
 > - **Muscle sense** *(historical lay term coined by Charles Bell in 1827; now largely replaced by "proprioception" in clinical documentation)*
 > - **Body position sense** *(clinical descriptor synonym used in neuro exam documentation; impairment coded under [[R20.2]] — diminished sensation — or [[R20.8]])*
-> - **Kinesthesia\|Kinesthetic sense** *(the dynamic/movement component of proprioception; tested via passive limb movement — loss supports sequencing an underlying peripheral neuropathy or posterior column lesion)*
+> - **Kinesthesia |Kinesthetic sense** *(the dynamic/movement component of proprioception; tested via passive limb movement — loss supports sequencing an underlying peripheral neuropathy or posterior column lesion)*
 > - **Somatosensory awareness** *(broader systemic form encompassing proprioception, tactile, and vibration sense; impairment may reflect dorsal column disease or cortical lesion)*
 > - **Vestibulo-proprioceptive integration** *(combined form involving both the vestibular apparatus and peripheral proprioceptors; disruption underlies many balance disorders — [[H83.09]], [[H81.399]])*
 > - **Neuromuscular control** *(functional/rehabilitative synonym; refers to the efferent motor response driven by proprioceptive afferent input; used in orthopaedic and sports medicine contexts)*

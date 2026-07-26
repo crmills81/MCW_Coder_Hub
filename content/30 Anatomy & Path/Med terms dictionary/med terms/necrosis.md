@@ -41,7 +41,7 @@ _____
 >|**[[necro-]]**|Greek _nekros_ (NEK-ros)|"**dead body**," "**corpse**" — combining form denoting death or dead tissue|
 >|**[[-osis]]**|Greek _-ōsis_ (OH-sis)|Noun-forming suffix — "**process of**," "**condition of**," "**abnormal state of**"|
 >
-> The word entered English in the **1660s** as *necrosis* (**noun**), borrowed from Late Latin *necrosis*, from Greek ***nekrōsis*** — literally **"a becoming dead, state of death,"** from *nekroun* ("to make dead"), from *nekros* ("**dead body**"), ultimately from the PIE root *\*nek-* ("**death**"). The first known use appears as early as 1583 in the meaning of tissue death. The root *nekros* ("**dead body**") connects **necrosis** to the entire **[[nekro- root family]]**: ***[[necropsy]]*** (nekros + [[-opsis]] → "viewing the dead"), ***[[necrophilia]]*** (nekros + philos → "attraction to the dead"), and ***[[necrotizing]]*** (the adjectival/verbal form meaning "**causing tissue death**"). The combining form *nekro-* is highly productive in medical terminology, appearing in ***[[necrotizing fasciitis]]***, ***[[necrobiosis]]***, ***[[necropsy]]***, and ***[[necrotomy]]***.
+> The word entered English in the **1660s** as *necrosis* (**noun**), borrowed from Late Latin *necrosis*, from Greek ***nekrōsis*** — literally **"a becoming dead, state of death,"** from *nekroun* ("to make dead"), from *nekros* ("**dead body**"), ultimately from the PIE root *nek-* ("**death**"). The first known use appears as early as 1583 in the meaning of tissue death. The root *nekros* ("**dead body**") connects **necrosis** to the entire **[[nekro- root family]]**: ***[[necropsy]]*** (nekros + [[-opsis]] → "viewing the dead"), ***[[necrophilia]]*** (nekros + philos → "attraction to the dead"), and ***[[necrotizing]]*** (the adjectival/verbal form meaning "**causing tissue death**"). The combining form *nekro-* is highly productive in medical terminology, appearing in ***[[necrotizing fasciitis]]***, ***[[necrobiosis]]***, ***[[necropsy]]***, and ***[[necrotomy]]***.
 
 _____
 
@@ -51,7 +51,7 @@ _____
 > - **Tissue death** _(lay term used by patients and in non-clinical documentation; coded to the underlying type/site-specific necrosis code)_
 > - **Cell death (pathological)** _(used in pathology reports; distinguish from apoptosis — necrosis is unregulated and inflammatory)_
 > - **Devitalized tissue** _(clinical synonym used in wound care and surgical settings; commonly triggers debridement codes [[11042]]-[[11047]] or [[97597]])_
-> - **[[Gangrene]]\|Gangrenous necrosis** _(macroscopic [[necrosis]] of a large tissue mass with or without bacterial superinfection; [[I96]] — dry, wet, or gas gangrene subtypes)_
+> - **[[Gangrene]]|Gangrenous necrosis** _(macroscopic [[necrosis]] of a large tissue mass with or without bacterial superinfection; [[I96]] — dry, wet, or gas gangrene subtypes)_
 > - **Coagulative necrosis** _(most common subtype; architecture preserved but cells dead; hallmark of ischemic infarction — heart, kidney, spleen)_
 > - **Liquefactive necrosis** _(tissue dissolves into liquid; characteristic of brain infarcts and bacterial abscesses; results from neutrophilic enzyme release)_
 > - **Caseous necrosis** _(cheese-like appearance; pathognomonic for granulomatous infections, especially tuberculosis — [[A15.9]])_
@@ -68,7 +68,7 @@ _____
 > - **[[Gangrene]]** — clinical manifestation of large-scale necrosis involving extremities or viscera; may be dry (ischemic), wet (infected), or gas (clostridial); coded separately under [[I96]] and site-specific gangrene codes
 > - **[[infarction]]** — localized necrosis caused specifically by ischemia (vascular [[occlusion]]); coagulative necrosis is the hallmark; myocardial infarction and cerebral infarction are the most common coding encounters
 > - **[[Ischemia]]** — the underlying mechanism driving most coagulative necrosis; [[reduction]] or cessation of blood flow that deprives tissue of oxygen and nutrients, leading to ATP depletion and cell death
-> - **[[Osteonecrosis]]\|Avascular necrosis (AVN)** — bone-specific necrosis due to disrupted vascular supply; risk factors include corticosteroid use, alcohol, sickle cell disease, trauma; ICD-10-CM codes: M87.0x-[[M87.9]]
+> - **[[Osteonecrosis]]|Avascular necrosis (AVN)** — bone-specific necrosis due to disrupted vascular supply; risk factors include corticosteroid use, alcohol, sickle cell disease, trauma; ICD-10-CM codes: M87.0x-[[M87.9]]
 > - **[[Necrotizing fasciitis]]** — rapidly spreading polymicrobial or monomicrobial necrosis of the fascia and subcutaneous tissue; surgical emergency requiring wide debridement; [[M72.6]]
 > - **[[Necrobiosis]]** — a milder, partial, or slow form of cell death without full tissue destruction; seen in necrobiosis lipoidica (diabetic skin condition) — [[L92.1]]
 > - **Caseous necrosis** — histological pattern pathognomonic of granulomatous disease, especially tuberculosis; central to TB diagnosis at histopathology

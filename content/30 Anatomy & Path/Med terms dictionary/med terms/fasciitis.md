@@ -47,7 +47,7 @@ _____
 >|Component|Origin|Meaning|
 >|---|---|---|
 >|**[[fasci-]]**|Latin *fascia* (FAH-see-ah), from *fasces* (FAH-kays)|"**band**," "**bundle**," "**bandage**," "**swathe**" — referring to the bandlike fibrous sheets encasing muscle and organs|
->|**[[-itis]]**|Greek *-ῖτις* (-itis), from *nosos* (disease) + adjectival suffix|Noun-forming suffix — "**inflammation of**" \| indicates an acute or chronic inflammatory process in the named tissue|
+>|**[[-itis]]**|Greek *-ῖτις* (-itis), from *nosos* (disease) + adjectival suffix|Noun-forming suffix — "**inflammation of**" | indicates an acute or chronic inflammatory process in the named tissue|
 >
 > The term *fasciitis* entered English medical usage in the **1890s** as a compound of **Latin** *fascia* ("band, bundle") and **Greek** *[[-itis]]* ("**[[inflammation]]**"), constructed on the same model as *arthritis*, *tendinitis*, and *bursitis*. The Latin root *fascia* (literally "**band**" or "**bundle**") derives from the same stem as *fasces* — the ancient Roman symbol of bound rods — capturing the banded, layered structure of fascial tissue. The root *[[fasci-]]* connects [[fasciitis]] to the broader **-fascia family**: ***[[fasciectomy]]*** (surgical excision of fascia), ***[[fasciotomy]]*** (incision of fascia to release pressure), ***[[fasciodesis]]*** (surgical fixation of fascia), and *[[fascioplasty]]* (repair of fascia). The suffix *[[-itis]]* is one of the most productive suffixes in medical terminology, appearing in ***[[appendicitis]]***, ***[[peritonitis]]***, ***[[osteomyelitis]]***, ***[[tenosynovitis]]***, and hundreds of other terms denoting tissue-specific [[inflammation]].
 

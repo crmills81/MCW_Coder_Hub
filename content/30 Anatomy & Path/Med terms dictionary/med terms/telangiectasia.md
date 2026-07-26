@@ -35,9 +35,9 @@ _____
 >|---|---|---|
 >|**[[telo-]]** / **telos**|Ancient Greek _τέλος_ (télos)|"**End**" — referring to the terminal (**end**) capillaries and smallest-caliber vessels at the distal end of the vascular tree|
 >|**[[angio-]]** / **angeion**|Ancient Greek _ἀγγεῖον_ (angeîon)|"**Vessel**" or "**container**" — specifically blood vessels; the root of *angiology* and *angiography*|
->|**[[-ectasia]]** / **-ektasis**|Ancient Greek _ἔκτασις_ (éktasis), from _ἐκ_ (ek, "**out**") + _τάσις_ (tásis, "stretching, tension")|"**A stretching out, extension, dilation**" — from the PIE root **\*ten-** ("**to stretch**"), the same root giving us *tension*, *tendon*, and *tone*|
+>|**[[-ectasia]]** / **-ektasis**|Ancient Greek _ἔκτασις_ (éktasis), from _ἐκ_ (ek, "**out**") + _τάσις_ (tásis, "stretching, tension")|"**A stretching out, extension, dilation**" — from the PIE root ** *ten-** ("**to stretch**"), the same root giving us *tension*, *tendon*, and *tone*|
 >
-> The term **telangiectasia** entered Modern Latin medical vocabulary in **1831**, coined from three Greek components meaning, together, **"a stretching out of the end vessels."** The etymological root *\*[[ten-]]* ("**to stretch**") is ancient and broad — it connects telangiectasia linguistically to *hypoTONY*, *tendon*, *tonic*, and *tension*. The related suffix **[[-ectasia]]** independently names other dilatory conditions throughout medicine: *bronchiectasia* (**dilated airways**), *lymphangiectasia* (**dilated lymph vessels**), and *rhinophyma*-associated nasal telangiectasias. The term first appeared in formal anatomical literature in the 1830s and remains unchanged in modern clinical use.
+> The term **telangiectasia** entered Modern Latin medical vocabulary in **1831**, coined from three Greek components meaning, together, **"a stretching out of the end vessels."** The etymological root * *[[ten-]]* ("**to stretch**") is ancient and broad — it connects telangiectasia linguistically to *hypoTONY*, *tendon*, *tonic*, and *tension*. The related suffix **[[-ectasia]]** independently names other dilatory conditions throughout medicine: *bronchiectasia* (**dilated airways**), *lymphangiectasia* (**dilated lymph vessels**), and *rhinophyma*-associated nasal telangiectasias. The term first appeared in formal anatomical literature in the 1830s and remains unchanged in modern clinical use.
 _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
@@ -58,7 +58,7 @@ _____
 >
 _____
 
-> [!danger]+ ### 🔗 RELATED TERMS
+> [!dang r]+ ### 🔗 RELATED TERMS
 >
 > - **Hereditary hemorrhagic telangiectasia (HHT)** — autosomal dominant disorder (mutations in *ENG* or *ACVRL1* genes); AVMs in lungs, brain, liver, GI tract; recurrent epistaxis is hallmark
 > - **Curaçao criteria** — 4-point diagnostic criteria for HHT: epistaxis + mucocutaneous telangiectasias + visceral AVM + positive family history; ≥3 = definite HHT

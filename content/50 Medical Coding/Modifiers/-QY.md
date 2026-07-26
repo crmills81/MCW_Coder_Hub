@@ -134,7 +134,7 @@ Modifier [[-QY]] does not directly impact MS-DRG assignment, as DRGs are based o
 | [[Z40.01]] | Encounter for prophylactic surgery for malignant neoplasm | ✅ HCC (History of Cancer) |
 | [[I10]] | Essential (primary) hypertension | ✅ HCC (Cardiovascular) |
 
-\* *HCC Status*: Hierarchical Condition Category mapping for Medicare Advantage risk adjustment. Diagnosis codes determine HCC status, not the modifier. Modifier [[-QY]] has no impact on risk adjustment scores <sup>9</sup><sup>10</sup>.
+* *HCC Status*: Hierarchical Condition Category mapping for Medicare Advantage risk adjustment. Diagnosis codes determine HCC status, not the modifier. Modifier [[-QY]] has no impact on risk adjustment scores <sup>9</sup><sup>10</sup>.
 
 ### Supporting/Comorbid Codes (Document When Applicable)
 - [[N18.30]] Chronic kidney disease, stage 3 unspecified (HCC applicable)

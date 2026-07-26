@@ -32,7 +32,7 @@ _____
 >|**[[ton-]]** / **tonos**|Ancient Greek _τόνος_ (tónos), from _τείνω_ (teinō)|"**Tone**," "**tension**," "**stretch**" — originally referring to the tension of a cord or string; medically adopted to mean the normal tension or pressure within a tissue or fluid system|
 >|**[[-y]]**|English abstract noun-forming suffix (via Latin _[[-ia]]_, Greek _-ία_)|Converts the combined form into a noun denoting a **state or condition**|
 >
-> The word *hypotonia* entered medical Latin in **1876**, built from *[[hypo-]]* + Greek *tonos* ("**tone**," from the PIE root **\*[[ten-]]**, "**to stretch**") + the abstract noun ending *[[-ia]]*. The PIE root *\*[[ten-]]* is the same ancestor that gives us *tendon*, *tension*, and *tonic*. Applied to the eye, **hypotony** literally means "**a state of diminished tension**" — an apt description of an eye whose aqueous pressure has fallen below the level needed to maintain normal structural tone.
+> The word *hypotonia* entered medical Latin in **1876**, built from *[[hypo-]]* + Greek *tonos* ("**tone**," from the PIE root ***[[ten-]]**, "**to stretch**") + the abstract noun ending *[[-ia]]*. The PIE root **[[ten-]]* is the same ancestor that gives us *tendon*, *tension*, and *tonic*. Applied to the eye, **hypotony** literally means "**a state of diminished tension**" — an apt description of an eye whose aqueous pressure has fallen below the level needed to maintain normal structural tone.
 _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS

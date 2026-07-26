@@ -50,7 +50,7 @@ _____
 > - **Fixed joint** _(lay and clinical synonym; used broadly in patient education and general anatomical description)_
 > - **Immovable joint** _(lay synonym; functionally descriptive term used in physical therapy and orthopedic documentation)_
 > - **Fibrous joint** _(clinical descriptor used when categorizing by tissue type rather than mobility — the majority of synarthroses are fibrous; coded by underlying anatomy)_
-> - **Suture\|Cranial suture** _(fibrous synarthrosis between flat skull bones; most classic example — [[M26.69]] for other specified disorders of jaw/skull joint)_
+> - **Suture |Cranial suture** _(fibrous synarthrosis between flat skull bones; most classic example — [[M26.69]] for other specified disorders of jaw/skull joint)_
 > - **[[Gomphosis]]** _(peg-in-socket synarthrosis; the articulation of a tooth root in the alveolar socket — [[K08.8]] Other specified disorders of teeth)_
 > - **[[Synchondrosis]]** _(cartilaginous synarthrosis; united by hyaline cartilage — includes growth plate joints and first sternocostal junction; can be implicated in conditions coded under [[M91.0]]-[[M93.9]])_
 > - **[[Synostosis]]** _(the most rigid form — bony fusion across what was once a joint space; e.g., premature cranial suture fusion — [[Q75.0]] Craniosynostosis)_
@@ -69,7 +69,7 @@ _____
 > - **[[Synostosis]]** — bony bridging/fusion across a joint; the structural end-stage of synarthrosis involving ossification of the interosseous space
 > - **Articular cartilage** — tissue type defining **[[synchondrosis]]** subtype of synarthrosis; also present in diarthroses as the gliding surface
 > - **Fibrous connective tissue** — primary uniting tissue in sutures and gomphoses; dense collagen bundles that bind opposing bone surfaces with minimal compliance
-> - **Joint ankylosis\|Spinal ankylosis** — progressive vertebral fusion converting mobile segments into a synarthrosis-like state; hallmark of advanced [[spondylarthropathies]] (**[[M45.0]]-[[M45.9]], [[M47.816]]**)
+> - **Joint ankylosis |Spinal ankylosis** — progressive vertebral fusion converting mobile segments into a synarthrosis-like state; hallmark of advanced [[spondylarthropathies]] (**[[M45.0]]-[[M45.9]], [[M47.816]]**)
 
 _____
 

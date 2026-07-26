@@ -149,7 +149,7 @@ Modifier [[-GP]] is used exclusively on **outpatient professional (Part B)** cla
 | **[[Z96.641]]** | **Presence of right artificial hip joint (post-THA PT)** | ❌ Not HCC |
 | **[[Z96.651]]** | **Presence of right artificial knee joint (post-TKA PT)** | ❌ Not HCC |
 
-\* *HCC Status*: Hierarchical Condition Category mapping for Medicare Advantage risk adjustment. The diagnosis — not the modifier — drives HCC assignment. Modifier [[-GP]] has no direct impact on risk scores <sup>13</sup><sup>14</sup>.
+* *HCC Status*: Hierarchical Condition Category mapping for Medicare Advantage risk adjustment. The diagnosis — not the modifier — drives HCC assignment. Modifier [[-GP]] has no direct impact on risk scores <sup>13</sup><sup>14</sup>.
 
 ### Supporting/Comorbid Codes (Document When Applicable)
 - [[R26.89]] Other abnormalities of gait and mobility (supports gait training [[97116]])

@@ -28,7 +28,7 @@ _____
 >
 >|Component|Origin|Meaning|
 >|---|---|---|
->|**[[mening-]]** / **meningo-**|Greek _μῆνῐγξ_ (mêninx), genitive _μήνιγγος_ (mēningos)|"**Membrane**" — specifically the membranes enclosing the brain; related to PIE \**mems-* ("**flesh, meat**")|
+>|**[[mening-]]** / **meningo-**|Greek _μῆνῐγξ_ (mêninx), genitive _μήνιγγος_ (mēningos)|"**Membrane**" — specifically the membranes enclosing the brain; related to PIE **mems-* ("**flesh, meat**")|
 >|**[[-itis]]**|Greek _-ῖτις_ ([[-itis]])|"**Inflammation of**" — the universal Greek-derived medical inflammation suffix|
 >
 > The singular *meninx* entered medical Latin via Greek, with first recorded use in English around **1545** (via French *meninges*, 1530s). The term *meningitis* itself was coined in the **early 19th century** as the -itis suffix convention for organ inflammations became standardized across European medical literature (a convention credited largely to French physician François Boissier de Sauvages in the 1700s). The root *mēninx* ("membrane") traces to PIE **mems-* — "flesh, meat" — the same root giving Greek *mēros* ("thigh," the fleshy part), Sanskrit *māṃsam* ("flesh"), and Latin *membrum* ("limb") → English "member" and "membrane." **Meningococcal** disease compounds *mening-* with Greek *kokkos* ("**berry**") — describing the berry-like appearance of *Neisseria meningitidis* in pairs under a microscope.

@@ -71,7 +71,7 @@ _____
 > |---|---|
 > |**[[G24.3]]**|Spasmodic torticollis *(Cervical dystonia)*|
 > |**[[G24.5]]**|Blepharospasm|
-> |**[[G43.709]]**|Chronic migraine without aura, not intractable, without status migrainosus *(Must be chronic, typically defined as $\ge$ 15 headache days per month)*|
+> |**[[G43.709]]**|Chronic migraine without aura, not intractable, without status migrainosus *(Must be chronic, typically defined as 15 headache days per month)*|
 > |**[[G81.10]]**|Spastic hemiplegia affecting unspecified side *(Use specific dominant/nondominant code if known; used for post-stroke spasticity)*|
 > |**[[L74.510]]**|Primary focal hyperhidrosis, axilla|
 > |**[[K22.0]]**|Achalasia of cardia *(Used when BoNT is injected into the lower esophageal sphincter via EGD)*|

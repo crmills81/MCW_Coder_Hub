@@ -30,7 +30,7 @@ _____
 >#latin
 >- **Origin**: Latin verb **_claudere_** — "**to shut, close, or make fast**"
 >- **Past participle stem**: **_clausus / clusus_** → gives the variant **[[-clus-]]** (as in *occlusion, exclusion, inclusion, conclusion*)
->- **Proto-Indo-European root**: ***\*klāu-*** — "hook, peg, nail" — the physical object used to fasten or shut a door
+>- **Proto-Indo-European root**: ****klāu-*** — "hook, peg, nail" — the physical object used to fasten or shut a door
 >- **Grammatical function in Latin**: Verb root combined with directional prefixes to create new verbs expressing *how* something is shut
 >- **Meaning evolution**:
 >    - **Classical Latin**: *claudere* = to close a door, gate, or passage; *occludere* = to shut against/block; *includere* = to shut in; *excludere* = to shut out

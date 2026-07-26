@@ -41,7 +41,7 @@ _____
 >|Component|Origin|Meaning|
 >|---|---|---|
 >|**[[fasci-]]**|Latin *fascia* (FAH-see-ah), from *fasces* (FAH-kays)|"**band**," "**bundle**," "**bandage**" — referring to the bandlike fibrous sheets encasing muscles and organs|
->|**[[-otomy]]**|Greek *-τομία* (-tomia), from *temnein* (TEM-nein), "to cut"|Noun-forming suffix — "**surgical incision of**" \| denotes a cutting procedure that does not involve removal of the target tissue (contrast: *-ectomy* = excision)|
+>|**[[-otomy]]**|Greek *-τομία* (-tomia), from *temnein* (TEM-nein), "to cut"|Noun-forming suffix — "**surgical incision of**" | denotes a cutting procedure that does not involve removal of the target tissue (contrast: *-ectomy* = excision)|
 >
 > The compound *fasciotomy* was constructed in the **early 20th century** from **Latin** *fascia* ("band, bundle") and **Greek** *-tomia* ("cutting into"), following the same word-formation model as *osteotomy*, *tenotomy*, and *neurotomy*. The Greek root *temnein* ("to cut") is one of the most productive stems in surgical nomenclature, forming the **[[-otomy]] family**: ***[[osteotomy]]*** (cutting of bone), ***[[tenotomy]]*** (incision of tendon), ***[[neurotomy]]*** (incision of nerve), ***[[arthrotomy]]*** (incision of joint), and *[[myotomy]]* (**incision** of muscle). The suffix *[[-otomy]]* is productively distinguished from *[[-ectomy]]* (Greek *ektomē*, "excision") throughout surgical terminology: ***[[appendectomy]]*** removes, but ***[[appendicotomy]]*** merely incises — the same logic separating *fasciotomy* (incise) from *[[fasciectomy]]* (**excise**). The Latin *fascia* root additionally connects [[fasciotomy]] to ***[[fasciitis]]***, ***[[fasciectomy]]***, ***[[fasciodesis]]***, and *[[fascioplasty]]*.
 

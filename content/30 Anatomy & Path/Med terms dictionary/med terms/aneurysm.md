@@ -46,7 +46,7 @@ _____
 >|Component|Origin|Meaning|
 >|---|---|---|
 >|**[[ana-]]** / **[[an-]]**|Greek _ἀνά_ (aná)|"**up**," "**upon**," "**throughout**," "**back**" — directional/intensifying prefix|
->|**[[eury-]]**|Greek _εὐρύς_ (eurús), from PIE _\*wer-_ ("wide, broad")|"**wide**," "**broad**," "**spacious**"|
+>|**[[eury-]]**|Greek _εὐρύς_ (eurús), from PIE _*wer-_ ("wide, broad")|"**wide**," "**broad**," "**spacious**"|
 >|**[[-isma]] / [[-ysm]]**|Greek _-ισμα_ (-isma) / _-υσμα_ (-usma)|Noun-forming suffix — "**result of an action**," "**condition produced by**"|
 >
 > The word entered English in the **early 1400s** (early 15c.) as *aneurysm* (**noun**), from Medieval Latin ***aneurisma***, from Greek ***ἀνεύρυσμα*** (*aneúrusma*) — "**a widening, a dilation**" — from the verb *ἀνευρύνειν* (*aneurúnein*), "**to widen out**," literally **"to widen up/open wide."** The adjectival form *aneurysmal* emerged in the 18th-19th centuries in clinical literature. The root *eurys* ("**wide**") connects **aneurysm** to the broader **[[eury-]] root family**: ***[[euryopia]]*** (**eury- + [[-opia]] → wide field of vision**), ***eurythermal*** (**eury- + thermal → tolerating wide temperature range**), and *Eurasia* (**[[eury-]] + Asia → "the wide continent"**). The prefix *[[ana-]]* is highly productive in medical terminology, appearing in ***anatomy***, ***[[anaphylaxis]]***, ***[[anastomosis]]***, and ***anabolism***.

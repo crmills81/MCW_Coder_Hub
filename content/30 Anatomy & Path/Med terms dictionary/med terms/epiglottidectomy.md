@@ -45,7 +45,7 @@ _____
 >|---|---|---|
 >|**[[epi-]]** / **(not applicable)**|[Greek] _ἐπί_ (epí) ([eh-pee])|"**upon**," "**over**," "**on**" — directional prefix indicating position above or on a surface|
 >|**[[glottid-]]**|[Greek] _γλωττίς_ (glōttís) ([gloh-tees]), from _γλῶττα_ (glōtta) ([gloh-tah]) "tongue"|"**mouth of the windpipe**," "**glottis**," "**tongue**" — combining form denoting the vocal aperture or the structure above it|
->|**[[-ectomy]]**|[Greek] _ἐκτομή_ (ektomē) ([ek-toh-may]), from _ἐκτέμνειν_ (ektemnein) ([ek-tem-nin]) "to cut out"|Noun-forming suffix — "**surgical excision of**" \| "**cutting out**"|
+>|**[[-ectomy]]**|[Greek] _ἐκτομή_ (ektomē) ([ek-toh-may]), from _ἐκτέμνειν_ (ektemnein) ([ek-tem-nin]) "to cut out"|Noun-forming suffix — "**surgical excision of**" | "**cutting out**"|
 >
 > The word entered English in the **1940s** as *epiglottidectomy* (**noun**), coined in New Latin from Greek ***ἐπί*** (epi-) + ***γλωττίς*** (glottis) + ***-ectomy*** — literally **"surgical excision of the epiglottis."** The earliest recorded surgical use dates to approximately 1949. The root *glott-* ("**tongue/windpipe opening**") connects [[epiglottidectomy]] to the entire **[[-glottis]] family**: ***[[epiglottis]]*** (**epi- + glottis → structure above the glottis**), ***[[glottis]]*** (**the vocal apparatus of the larynx**), and ***[[periglottic]]*** (**pertaining to the area around the glottis**). The **[[epi-]]** prefix is highly productive in medical terminology, appearing in ***[[epidermis]]***, ***[[epiglottis]]***, ***[[epinephrine]]***, ***[[epiphysis]]***, and ***[[epistaxis]]***.
 

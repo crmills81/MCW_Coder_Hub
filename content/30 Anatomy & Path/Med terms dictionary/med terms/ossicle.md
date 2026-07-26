@@ -39,7 +39,7 @@ definition:
 >
 >|Component|Origin|Meaning|
 >|---|---|---|
->|**[[oss-]]** / **[[ossi-]]**|Latin *os* (genitive *ossis*) — "**bone**"|The fundamental Latin root for all bone-related terminology; PIE root *\*ost-* — "**bone**" — cognate with Greek *ostéon* (giving *osteo-*, *osteology*, *osteoporosis*) and Sanskrit *ásthi*; Latin *os/ossis* gives *ossification*, *osseous*, *ossify*, *intraosseous*, *periosteum*|
+>|**[[oss-]]** / **[[ossi-]]**|Latin *os* (genitive *ossis*) — "**bone**"|The fundamental Latin root for all bone-related terminology; PIE root **ost-* — "**bone**" — cognate with Greek *ostéon* (giving *osteo-*, *osteology*, *osteoporosis*) and Sanskrit *ásthi*; Latin *os/ossis* gives *ossification*, *osseous*, *ossify*, *intraosseous*, *periosteum*|
 >|**[[-iculum]]** / **[[-icle]]**|Latin diminutive suffix *-iculum* / *-iculus* — "**small, little**"|Standard Latin diminutive; *ossiculum* = "**little bone**"; English reduced to *[[-icle]]*; same diminutive pattern in *auricle* (**little ear**), *ventricle* (**little belly**), *particle* (little part), *vesicle* (little blister), *fascicle* (little bundle)|
 >|**Malleus**|Latin *malleus* — "**a hammer**"|Named for its hammer-like shape; articulates with the tympanic membrane via its manubrium (**handle**) and with the incus via its head; cognate with English *maul*; root appears in *malleable*|
 >|**Incus**|Latin *incus* — "**an anvil**"; from *incudere* — "**to forge upon**"|Named for its anvil-like shape; the middle ossicle; connects malleus to stapes; gives the combining form *incudo-* used in *incudostapedial* (**joint between incus and stapes**)|

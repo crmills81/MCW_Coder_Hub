@@ -36,7 +36,7 @@ _____
 >|Component|Origin|Meaning|
 >|---|---|---|
 >|**[[intra-]]**|Latin _intra_ (IN-trah)|"**within**," "**inside**," "**interior to**" — positional/directional prefix denoting location inside a structure or space|
->|**[[ocul-]]**|Latin _oculus_ (OH-kyoo-lus), from Proto-Indo-European _\*okʷ-_ (to see)|"**eye**," "**the organ of sight**," "**globe**"|
+>|**[[ocul-]]**|Latin _oculus_ (OH-kyoo-lus), from Proto-Indo-European _*okʷ-_ (to see)|"**eye**," "**the organ of sight**," "**globe**"|
 >|**[[-ar]]**|Latin _-aris_ / _-arem_ (-ar-is)|Adjective-forming suffix — "**pertaining to**," "**of or relating to**"|
 >
 > The word entered English in the **1870s** as *intraocular* (**adjective**), formed directly from Latin components without passing through French — a pattern common in 19th-century scientific and medical Latin coinages. The combining root *ocul-* ("**eye**") connects **Intraocular** to the entire **[[ocul-]] root family**: ***[[30 Anatomy & Path/Med terms dictionary/Med roots/ocular]]*** (**ocul- + -ar → pertaining to the eye**), ***[[oculomotor]]*** (**ocul- + motor → eye-moving; as in CN III**), and ***[[ocularist]]*** (**one who fabricates ocular prostheses**). The **positional prefix** *[[intra-]]* is among the most productive prefixes in medical terminology, also appearing in ***[[intravitreal]]***, ***[[intracameral]]***, ***[[intrathecal]]***, ***[[intramuscular]]***, and ***[[intravenous]]***.
