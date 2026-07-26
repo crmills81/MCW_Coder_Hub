@@ -40,25 +40,25 @@ _____
 
 > [!success]+ ## Aliases & Related Terms
 > 
-> - **HTN** — standard clinical abbreviation
+> - **HTN** — standard clinical abbreviation
 >     
-> - **High blood pressure (HBP)** — lay/patient-facing term
+> - **High blood pressure (HBP)** — lay/patient-facing term
 >     
-> - **Essential hypertension** — primary HTN with no identifiable cause
+> - **Essential hypertension** — primary HTN with no identifiable cause
 >     
-> - **Secondary hypertension** — HTN driven by an underlying condition (renal, endocrine, drug-induced)
+> - **Secondary hypertension** — HTN driven by an underlying condition (renal, endocrine, drug-induced)
 >     
-> - **Malignant hypertension** — severe HTN with [[retinopathy]] and rapid organ failure; coined 1928 at the Mayo Clinic
+> - **Malignant hypertension** — severe HTN with [[retinopathy]] and rapid organ failure; coined 1928 at the Mayo Clinic
 >     
-> - **Resistant hypertension** — BP remaining uncontrolled on ≥3 antihypertensive agents
+> - **Resistant hypertension** — BP remaining uncontrolled on ≥3 antihypertensive agents
 >     
-> - **Hypertensive crisis** — umbrella term for urgency and emergency
+> - **Hypertensive crisis** — umbrella term for urgency and emergency
 >     
-> - **Hyperpiesia** — older term used by Sir Clifford Allbutt
+> - **Hyperpiesia** — older term used by Sir Clifford Allbutt
 >     
-> - **Renovascular hypertension** — secondary HTN from renal artery stenosis
+> - **Renovascular hypertension** — secondary HTN from renal artery stenosis
 >     
-> - **Isolated systolic hypertension (ISH)** — elevated systolic with normal diastolic; common in elderly patients
+> - **Isolated systolic hypertension (ISH)** — elevated systolic with normal diastolic; common in elderly patients
 >
 _____
 

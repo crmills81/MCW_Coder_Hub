@@ -25,7 +25,7 @@ LE subtotal: 150 units
 
 **Total onabotulinumtoxinA administered:** 350 units, reconstituted per standard dilution protocol.
 
-**No immediate complications.** Patient tolerated procedure well. Post-procedure neurovascular status intact distally. Continue PT/OT with expected improvement in tone over 3–7 days.
+**No immediate complications.** Patient tolerated procedure well. Post-procedure neurovascular status intact distally. Continue PT/OT with expected improvement in tone over 3-7 days.
 
 ---
 
@@ -45,8 +45,8 @@ LE subtotal: 150 units
 
 | Code | Description (paraphrased) | Units |
 |---|---|---|
-| `64642` | Chemodenervation of one extremity, 1–4 muscles (first extremity — RUE, 3 muscles) | 1 |
-| `64643` | Chemodenervation, each additional extremity, 1–4 muscles (add-on — RLE, 2 muscles) | 1 |
+| `64642` | Chemodenervation of one extremity, 1-4 muscles (first extremity — RUE, 3 muscles) | 1 |
+| `64643` | Chemodenervation, each additional extremity, 1-4 muscles (add-on — RLE, 2 muscles) | 1 |
 | `95873` | Electrical stimulation guidance for chemodenervation (add-on) | 2 |
 
 **Modifiers:**
@@ -86,7 +86,7 @@ For ongoing/repeat chemodenervation series (not the first-ever treatment), Medic
 `95873` is subject to a National Correct Coding Initiative edit against `64642`/`64643`. Medicare's edit pair requires the modifier you already identified (`59`/`XS`) on the second guidance unit to prevent auto-denial as an incidental/bundled service — this isn't optional under Medicare the way it might be negotiable with a commercial payer.
 
 ### 4. Prior authorization — does NOT apply here
-**Medicare's** PA demonstration program for botulinum toxin only triggers when a botulinum toxin J-code (**J0585–J0589**) is billed in conjunction with CPT [[64612]] or [[64615]] — the facial nerve/chronic migraine codes — performed in an ASC or hospital outpatient department. This encounter uses `64642`/`64643` (extremity codes), not `64612`/`64615`, and it's inpatient, not ASC/HOPD — so no PA requirement here. Worth noting in the vault as a common point of confusion, since coders sometimes assume all Botox codes carry the PA requirement.
+**Medicare's** PA demonstration program for botulinum toxin only triggers when a botulinum toxin J-code (**J0585-J0589**) is billed in conjunction with CPT [[64612]] or [[64615]] — the facial nerve/chronic migraine codes — performed in an ASC or hospital outpatient department. This encounter uses `64642`/`64643` (extremity codes), not `64612`/`64615`, and it's inpatient, not ASC/HOPD — so no PA requirement here. Worth noting in the vault as a common point of confusion, since coders sometimes assume all Botox codes carry the PA requirement.
 
 ### 5. Drug supply / JW modifier — still not on the pro fee claim
 Under Medicare Part A, the facility bills the drug (bundled into the inpatient DRG payment) — the [[-JW]] modifier, used to report a discarded portion of a single-use drug vial, matters when a J-code is being billed, but that's a facility-side concern for this inpatient encounter, not something that touches your professional fee claim.

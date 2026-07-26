@@ -1,0 +1,33 @@
+
+ Quartz v5.0.0  
+
+Cleaned output directory `public` in 1s
+Found 2798 input files from `content` in 69ms
+Parsing input files using 4 threads
+Γû▓ [WARNING] Using direct eval with a bundler is not recommended and may cause problems [direct-eval]
+
+    .quartz/plugins/note-properties/dist/index.js:3117:17:
+      3117 Γöé           return eval(str) || {};
+           Γò╡                  ~~~~
+
+  You can read more about direct eval and bundling here: https://esbuild.github.io/link/direct-eval
+
+LaTeX-incompatible input and strict mode is set to 'warn': % comment has no terminating newline; LaTeX would fail because of commenting the end of math mode (e.g. $) [commentAtEnd]
+LaTeX-incompatible input and strict mode is set to 'warn': % comment has no terminating newline; LaTeX would fail because of commenting the end of math mode (e.g. $) [commentAtEnd]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "ΓÇô" (8211) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': % comment has no terminating newline; LaTeX would fail because of commenting the end of math mode (e.g. $) [commentAtEnd]
+LaTeX-incompatible input and strict mode is set to 'warn': % comment has no terminating newline; LaTeX would fail because of commenting the end of math mode (e.g. $) [commentAtEnd]
+LaTeX-incompatible input and strict mode is set to 'warn': % comment has no terminating newline; LaTeX would fail because of commenting the end of math mode (e.g. $) [commentAtEnd]
+LaTeX-incompatible input and strict mode is set to 'warn': % comment has no terminating newline; LaTeX would fail because of commenting the end of math mode (e.g. $) [commentAtEnd]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "┬á" (160) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "┬á" (160) [unknownSymbol]
+Parsed 2798 Markdown files in 4m
+Filtered out 0 files in 18╬╝s
+Emitting files
+
+
+ ERROR 
+
+ Failed to emit from plugin `CustomOgImages`: lookupType: 7 - substFormat: 1 is not yet supported
+     at Array.forEach (<anonymous>)
+     at Array.forEach (<anonymous>)

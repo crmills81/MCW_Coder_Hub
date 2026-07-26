@@ -60,11 +60,11 @@ _____
 > 
 > - **Dysautonomic** _(adjective form — "dysautonomic crisis," "dysautonomic symptoms")_
 > - **[[Dysautonomia]]** _(most common clinical and lay synonym; used broadly across cardiology, neurology, and general medicine)_
-> - **Autonomic [[neuropathy]]** _(preferred term when the underlying mechanism is peripheral nerve degeneration, especially diabetic — coded to E08–E13 with .43, not G90)_
+> - **Autonomic [[neuropathy]]** _(preferred term when the underlying mechanism is peripheral nerve degeneration, especially diabetic — coded to E08-E13 with .43, not G90)_
 > - **Autonomic instability** _(descriptive term often used in critical care/TBI documentation for fluctuating heart rate, blood pressure, and temperature)_
 > - **[[G90.9]]** _(disorder of the autonomic nervous system, unspecified — default code when no further specificity is documented)_
 > - **Postural orthostatic tachycardia syndrome (POTS)** _(sympathetic overactivity form marked by excessive heart rate increase on standing; [[G90.A]])_
-> - **[[Autonomic dysreflexia]]** _(acute, spinal cord injury–related sympathetic overactivity; [[G90.4]])_
+> - **[[Autonomic dysreflexia]]** _(acute, spinal cord injury-related sympathetic overactivity; [[G90.4]])_
 > - **Diabetic autonomic neuropathy** _(etiologic subtype due to chronic hyperglycemic nerve damage; coded under [[E11.43]] and related diabetes categories)_
 > - **Neurogenic bladder** _(genitourinary/urologic subtype — loss of autonomic bladder control; [[N31.9]])_
 > - **Horner's syndrome** _(ophthalmologic subtype — sympathetic denervation of the eye causing ptosis, miosis, anhidrosis; [[G90.2]])_
@@ -85,7 +85,7 @@ _____
 > - **Diabetic autonomic neuropathy** — chronic [[hyperglycemia]]-related nerve damage manifesting as [[gastroparesis]], neurogenic bladder, and cardiovascular autonomic dysfunction; **[[E11.43]]**
 > - **Multi-system atrophy (Shy-Drager syndrome)** — neurodegenerative disease combining **[[G20.C|Parkinsonism unspecified]]**, **cerebellar [[ataxia]]**, and **severe autonomic failure**; **[[G90.3]]**
 > - **Familial [[dysautonomia]] (Riley-Day syndrome)** — hereditary sensory and **autonomic neuropathy** typically presenting in infancy; **[[G90.1]]**
-> - **Autonomic function testing** — the primary diagnostic tool for objectively evaluating **cardiovagal**, **vasomotor adrenergic**, and **sudomotor autonomic pathways**; CPT **[[95921]]**–**[[95924]]**
+> - **Autonomic function testing** — the primary diagnostic tool for objectively evaluating **cardiovagal**, **vasomotor adrenergic**, and **sudomotor autonomic pathways**; CPT **[[95921]]**-**[[95924]]**
 
 _____
 
@@ -160,11 +160,11 @@ _____
 > |**[[95922]]**|Testing of autonomic nervous system function; vasomotor adrenergic innervation (sympathetic adrenergic function), including beat-to-beat blood pressure and R-R interval changes during Valsalva maneuver and at least 5 minutes of passive tilt|
 > |**[[95923]]**|Testing of autonomic nervous system function; sudomotor, including 1 or more of the following: quantitative sudomotor axon reflex test (QSART), silastic sweat imprint, thermoregulatory sweat test, and changes in sympathetic skin potential|
 > |**[[95924]]**|Testing of autonomic nervous system function; combined parasympathetic and sympathetic adrenergic function testing with at least 5 minutes of passive tilt|
-> |**[[95999]]**|Unlisted neurological or neuromuscular diagnostic procedure (used for automated/portable autonomic testing devices that don't meet the beat-to-beat/tilt table criteria of [[95921]]–[[95924]])|
+> |**[[95999]]**|Unlisted neurological or neuromuscular diagnostic procedure (used for automated/portable autonomic testing devices that don't meet the beat-to-beat/tilt table criteria of [[95921]]-[[95924]])|
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** **CRPS I (G90.5-)** and its parent Idiopathic **Peripheral Autonomic Neuropathy (G90.0-)** both require a 4th/5th/6th character for laterality or subtype — **G90.0, G90.5, and G90.8** are non-billable parent categories and will reject on inpatient profee claims. When **[[autonomic dysfunction]]** is secondary to **[[diabetes]]** (**a very common inpatient scenario in your urology caseload — neurogenic bladder, erectile dysfunction**), sequence the diabetes code (**E08–E13 with .43**) first per **ICD-10-CM Excludes1/combination code convention**; do not additionally assign a standalone **G90 code** for the same diabetic manifestation. Watch inpatient documentation for "**generalized autonomic instability**," "**[[dysautonomia]]**," or "**[[neurogenic bladder]]**" without an underlying etiology stated — these trigger a physician query to determine whether the condition is primary (**[[G90.9]]**) or secondary to **[[diabetes]], spinal cord injury, or [[Parkinson's disease]]**, since the more specific combination code carries greater **CC/MCC weight** than **[[G90.9]]** alone. Note that **CPT [[95943]]** (automated autonomic testing) was deleted from the **CPT code set** effective 1/1/2022 and replaced by unlisted code **[[95999]]** — claims still reporting **[[95943]]** will deny. For **ophthalmology** documentation, **Horner's syndrome ([[G90.2]])** should prompt a query for the underlying cause (**carotid [[dissection]], apical lung [[tumor]], brainstem stroke**) if not already documented, since Horner's is rarely coded as an isolated finding on an inpatient stay.
+> > ⚠️ **Coding Note:** **CRPS I (G90.5-)** and its parent Idiopathic **Peripheral Autonomic Neuropathy (G90.0-)** both require a 4th/5th/6th character for laterality or subtype — **G90.0, G90.5, and G90.8** are non-billable parent categories and will reject on inpatient profee claims. When **[[autonomic dysfunction]]** is secondary to **[[diabetes]]** (**a very common inpatient scenario in your urology caseload — neurogenic bladder, erectile dysfunction**), sequence the diabetes code (**E08-E13 with .43**) first per **ICD-10-CM Excludes1/combination code convention**; do not additionally assign a standalone **G90 code** for the same diabetic manifestation. Watch inpatient documentation for "**generalized autonomic instability**," "**[[dysautonomia]]**," or "**[[neurogenic bladder]]**" without an underlying etiology stated — these trigger a physician query to determine whether the condition is primary (**[[G90.9]]**) or secondary to **[[diabetes]], spinal cord injury, or [[Parkinson's disease]]**, since the more specific combination code carries greater **CC/MCC weight** than **[[G90.9]]** alone. Note that **CPT [[95943]]** (automated autonomic testing) was deleted from the **CPT code set** effective 1/1/2022 and replaced by unlisted code **[[95999]]** — claims still reporting **[[95943]]** will deny. For **ophthalmology** documentation, **Horner's syndrome ([[G90.2]])** should prompt a query for the underlying cause (**carotid [[dissection]], apical lung [[tumor]], brainstem stroke**) if not already documented, since Horner's is rarely coded as an isolated finding on an inpatient stay.
 
 _____
 

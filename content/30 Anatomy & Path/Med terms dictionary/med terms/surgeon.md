@@ -165,13 +165,13 @@ _____
 > |**[[99233]]**|Subsequent hospital inpatient care, high medical decision making; same global period rules apply — not separately billable for routine post-op unless modifier [[-24]] or [[-79]] applies|
 > |**[[99238]]**|Hospital inpatient discharge management, 30 minutes or less; billed by surgeon on day of discharge if unrelated to the operative procedure or outside the global period|
 > |**[[99239]]**|Hospital inpatient discharge management, more than 30 minutes; same global period rules as [[99238]]|
-> |**[[99291]]**|Critical care, evaluation and management of the critically ill or critically injured patient, first 30–74 minutes; critical care is NOT bundled into the global package and is separately billable by the surgeon when documented criteria are met|
+> |**[[99291]]**|Critical care, evaluation and management of the critically ill or critically injured patient, first 30-74 minutes; critical care is NOT bundled into the global package and is separately billable by the surgeon when documented criteria are met|
 > |**[[99292]]**|Critical care, each additional 30 minutes (list separately in addition to [[99291]]); add-on code, append after primary critical care unit|
 > |**[[99024]]**|Postoperative follow-up visit, normally included in surgical package; used for tracking only — zero-dollar, no separate reimbursement; documents care within the global period|
 > |**[[22851]]**|Application of intervertebral biomechanical device; add-on code billed by the spine surgeon in addition to the primary spinal fusion CPT|
 > |**[[69990]]**|Microsurgical techniques, requiring use of operating microscope (add-on); billed by surgeon when operative microscope is used — not separately billable when the primary code already includes microscopy|
 > |**01990**|Physiological support for harvesting of organ(s) from brain-dead patient; billed by the anesthesiologist/surgeon managing the donor — relevant to transplant surgical teams|
-> |**[[99446]]**|Interprofessional telephone/Internet assessment and management, 5–10 minutes of medical consultative time; billed by the surgeon-consultant when providing advice to a requesting provider without seeing the patient|
+> |**[[99446]]**|Interprofessional telephone/Internet assessment and management, 5-10 minutes of medical consultative time; billed by the surgeon-consultant when providing advice to a requesting provider without seeing the patient|
 >
 > ---
 >

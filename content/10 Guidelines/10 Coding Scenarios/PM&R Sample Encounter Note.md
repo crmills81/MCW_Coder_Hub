@@ -22,8 +22,8 @@ Both extremities in this chart have muscle counts of 4 and 3 respectively, both 
 
 | Code          | Description                                                                                                      | Units                         |
 | ------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| **[[64642]]** | Chemodenervation of 1 extremity; 1–4 muscle(s) (report for left UE, primary/first extremity coded)               | 1                             |
-| **[[64643]]** | Chemodenervation of 1 extremity, each additional extremity; 1–4 muscle(s) (list separately, add-on) (left LE)    | 1                             |
+| **[[64642]]** | Chemodenervation of 1 extremity; 1-4 muscle(s) (report for left UE, primary/first extremity coded)               | 1                             |
+| **[[64643]]** | Chemodenervation of 1 extremity, each additional extremity; 1-4 muscle(s) (list separately, add-on) (left LE)    | 1                             |
 | **[[95873]]** | Electrical stimulation for guidance in conjunction with chemodenervation (add-on, if E-stim used instead of EMG) | —                             |
 | **[[95874]]** | Needle EMG for guidance in conjunction with chemodenervation (add-on)                                            | 1 per session, not per muscle |
 | **J0585**     | Botulinum toxin type A (Botox), per unit                                                                         | 200 units                     |

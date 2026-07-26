@@ -48,7 +48,7 @@ Stroke encounters often meet "**High**" complexity criteria (**[[99223]]**/**[[9
 **Instruction to Coders:** To credit **Category 2 Data**, verify:
 1. The physician's own written interpretation is present in the note (not just a reference to "reviewed imaging").
 2. The interpretation is used to guide the rehab plan (e.g., "MRI confirms left MCA territory [[infarction|infarct]], correlating with right [[hemiparesis]] and expressive [[aphasia]] — informs intensive PT/OT/SLP plan").
-3. The professional component (**e.g., CPT [[70551]]–[[70553]] for MRI brain**) was **not** separately billed by the same physician or group for that same image.
+3. The professional component (**e.g., CPT [[70551]]-[[70553]] for MRI brain**) was **not** separately billed by the same physician or group for that same image.
 
 Other valid **Category 2 sources** in **PM&R** include independent review of **EMG/NCS tracings**, swallow study (**VFSS**) imaging, or wound imaging — always subject to the same "own interpretation, not a re-bill" standard.
 
@@ -78,7 +78,7 @@ Total Time is an alternative to **MDM** for leveling encounters. Per 2024 revisi
 - Subsequent Hospital Care (**[[99233]]**): 50 minutes
 - Inpatient Consult (**[[99255]]**): 80 minutes
 
-**CMS FLAG:** CMS does not reimburse consultation codes (**[[99252]]–[[99255]]**). These must be crosswalked to the appropriate Initial (**[[99221]]–[[99223]]**) or Subsequent (**[[99231]]–[[99233]]**) Hospital Care codes.
+**CMS FLAG:** CMS does not reimburse consultation codes (**[[99252]]-[[99255]]**). These must be crosswalked to the appropriate Initial (**[[99221]]-[[99223]]**) or Subsequent (**[[99231]]-[[99233]]**) Hospital Care codes.
 
 *Prolonged Services and the "15-Minute Rule"*
 

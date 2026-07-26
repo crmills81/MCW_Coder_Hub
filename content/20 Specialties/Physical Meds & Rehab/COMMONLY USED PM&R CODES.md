@@ -2,94 +2,94 @@ For PM&R, when the condition is not documented as a sequela of stroke/CVA, you g
 
 
 Gait / Mobility
-R26.0 – Ataxic gait
-R26.1 – Paralytic gait
-R26.2 – Difficulty in walking, not elsewhere classified
-R26.81 – Unsteadiness on feet
-R26.89 – Other abnormalities of gait and mobility
-Z74.09 – Other reduced mobility
-Z99.3 – Dependence on wheelchair
+R26.0 - Ataxic gait
+R26.1 - Paralytic gait
+R26.2 - Difficulty in walking, not elsewhere classified
+R26.81 - Unsteadiness on feet
+R26.89 - Other abnormalities of gait and mobility
+Z74.09 - Other reduced mobility
+Z99.3 - Dependence on wheelchair
 Weakness / Debility
-R53.1 – Weakness
-R53.81 – Physical debility
-R53.83 – Other fatigue
-M62.81 – Muscle weakness (generalized)
-M62.838 – Other muscle spasm
-R29.898 – Other symptoms involving the musculoskeletal system
+R53.1 - Weakness
+R53.81 - Physical debility
+R53.83 - Other fatigue
+M62.81 - Muscle weakness (generalized)
+M62.838 - Other muscle spasm
+R29.898 - Other symptoms involving the musculoskeletal system
 Falls / Balance
-R29.6 – Repeated falls
-Z91.81 – History of falling
-R27.0 – Ataxia, unspecified
-R27.8 – Other lack of coordination
-R26.81 – Unsteadiness on feet
+R29.6 - Repeated falls
+Z91.81 - History of falling
+R27.0 - Ataxia, unspecified
+R27.8 - Other lack of coordination
+R26.81 - Unsteadiness on feet
 Cognitive Deficits
-R41.3 – Other amnesia (memory loss)
-R41.840 – Attention and concentration deficit
-R41.841 – Cognitive communication deficit
-R41.842 – Visuospatial deficit
-R41.843 – Psychomotor deficit
-R41.844 – Frontal lobe and executive function deficit
-R41.89 – Other symptoms involving cognitive functions and awareness
+R41.3 - Other amnesia (memory loss)
+R41.840 - Attention and concentration deficit
+R41.841 - Cognitive communication deficit
+R41.842 - Visuospatial deficit
+R41.843 - Psychomotor deficit
+R41.844 - Frontal lobe and executive function deficit
+R41.89 - Other symptoms involving cognitive functions and awareness
  
  
 Continued-
 Speech / Language / Swallow (Not linked to stroke)
-R47.01 – Aphasia
-R47.02 – Dysphasia
-R47.1 – Dysarthria and anarthria
-R47.81 – Slurred speech
-R47.89 – Other speech disturbances
-R48.2 – Apraxia
-R13.10 – Dysphagia, unspecified
-R13.11 – Dysphagia, oral phase
-R13.12 – Oropharyngeal dysphagia
-R13.13 – Pharyngeal dysphagia
-R13.14 – Pharyngoesophageal dysphagia
+R47.01 - Aphasia
+R47.02 - Dysphasia
+R47.1 - Dysarthria and anarthria
+R47.81 - Slurred speech
+R47.89 - Other speech disturbances
+R48.2 - Apraxia
+R13.10 - Dysphagia, unspecified
+R13.11 - Dysphagia, oral phase
+R13.12 - Oropharyngeal dysphagia
+R13.13 - Pharyngeal dysphagia
+R13.14 - Pharyngoesophageal dysphagia
 Neurologic Disorders
-G20.A1 – Parkinson disease without dyskinesia, without fluctuations
-G20.A2 – Parkinson disease without dyskinesia, with fluctuations
-G20.B1 – Parkinson disease with dyskinesia, without fluctuations
-G20.B2 – Parkinson disease with dyskinesia, with fluctuations
-G35 – Multiple sclerosis
-G62.9 – Polyneuropathy, unspecified
-G62.0 – Drug-induced polyneuropathy
-G62.1 – Alcoholic polyneuropathy
-G62.89 – Other specified polyneuropathies
-G12.21 – Amyotrophic lateral sclerosis
-G61.0 – Guillain-Barré syndrome
+G20.A1 - Parkinson disease without dyskinesia, without fluctuations
+G20.A2 - Parkinson disease without dyskinesia, with fluctuations
+G20.B1 - Parkinson disease with dyskinesia, without fluctuations
+G20.B2 - Parkinson disease with dyskinesia, with fluctuations
+G35 - Multiple sclerosis
+G62.9 - Polyneuropathy, unspecified
+G62.0 - Drug-induced polyneuropathy
+G62.1 - Alcoholic polyneuropathy
+G62.89 - Other specified polyneuropathies
+G12.21 - Amyotrophic lateral sclerosis
+G61.0 - Guillain-Barré syndrome
 Neurogenic Bowel / Bladder
-N31.9 – Neuromuscular dysfunction of bladder, unspecified
-N31.8 – Other neuromuscular dysfunction of bladder
-K59.2 – Neurogenic bowel, not elsewhere classified
-R32 – Urinary incontinence, unspecified
-R15.9 – Full incontinence of feces
+N31.9 - Neuromuscular dysfunction of bladder, unspecified
+N31.8 - Other neuromuscular dysfunction of bladder
+K59.2 - Neurogenic bowel, not elsewhere classified
+R32 - Urinary incontinence, unspecified
+R15.9 - Full incontinence of feces
 Pain Diagnoses
-G89.4 – Chronic pain syndrome
-G89.21 – Chronic pain due to trauma
-G89.28 – Other chronic postprocedural pain
-G89.29 – Other chronic pain
+G89.4 - Chronic pain syndrome
+G89.21 - Chronic pain due to trauma
+G89.28 - Other chronic postprocedural pain
+G89.29 - Other chronic pain
 Sequela
 Think of sequela as:
 "The problem that is left over after the original injury or disease is finished."
 .Sequela (Late Effects) A sequela is the residual effect (condition produced) after the acute phase of an illness or injury has terminated. There is no time limit on when a sequela code can be used. The residual may be apparent early, such as in cerebral infarction, or it may occur months or years later, such as that due to a previous injury. Examples of sequela include: scar formation resulting from a burn, deviated septum due to a nasal fracture, and infertility due to tubal occlusion from old tuberculosis. Coding of sequela generally requires two codes sequenced in the following order: the condition or nature of the sequela is sequenced first. The sequela code is sequenced second.
 " Attention and concentration deficit due to prior TBI."
 Codes:
-R41.840 – Attention and concentration deficit (Code Residual first)
-S06.9X9S – Unspecified intracranial injury with loss of consciousness of unspecified duration, sequela (Code TBI second)
+R41.840 - Attention and concentration deficit (Code Residual first)
+S06.9X9S - Unspecified intracranial injury with loss of consciousness of unspecified duration, sequela (Code TBI second)
 Why:
 The accident is over.
 You are treating the leftover problems (memory and attention issues).
 Traumatic Brain Injury (TBI) Sequela
 Used when the brain injury is old and the patient has lasting problems.
 Examples:
-S06.9X9S – Unspecified intracranial injury with loss of consciousness of unspecified duration, sequela
-S06.5X9S – Traumatic subdural hemorrhage, sequela
-S06.6X9S – Traumatic subarachnoid hemorrhage, sequela
+S06.9X9S - Unspecified intracranial injury with loss of consciousness of unspecified duration, sequela
+S06.5X9S - Traumatic subdural hemorrhage, sequela
+S06.6X9S - Traumatic subarachnoid hemorrhage, sequela
 Spinal Cord Injury Sequela
 For traumatic SCI:
-S14.-XS – Cervical spinal cord injury, sequela
-S24.-XS – Thoracic spinal cord injury, sequela
-S34.-XS – Lumbar spinal cord injury, sequela
+S14.-XS - Cervical spinal cord injury, sequela
+S24.-XS - Thoracic spinal cord injury, sequela
+S34.-XS - Lumbar spinal cord injury, sequela
 Use I69 only for residual deficits from a prior stroke: → Code I69.
 ✅ Examples:
 Right hemiparesis due to old CVA
@@ -189,21 +189,21 @@ IF the hemiplegia/paraplegia is documented as a sequela of a CVA, the I69.35x or
 The G81/G82 codes are for non-cerebrovascular causes (e.g., TBI, brain tumor, spinal cord injury, cerebral palsy, etc.).
  
 Hemiplegia (Non-cerebrovascular)
-G81.90 – Hemiplegia, unspecified affecting unspecified side
-G81.91 – Hemiplegia affecting right dominant side
-G81.92 – Hemiplegia affecting left dominant side
-G81.93 – Hemiplegia affecting right nondominant side
-G81.94 – Hemiplegia affecting left nondominant side
+G81.90 - Hemiplegia, unspecified affecting unspecified side
+G81.91 - Hemiplegia affecting right dominant side
+G81.92 - Hemiplegia affecting left dominant side
+G81.93 - Hemiplegia affecting right nondominant side
+G81.94 - Hemiplegia affecting left nondominant side
 Paraplegia
-G82.20 – Paraplegia, unspecified
-G82.21 – Complete paraplegia
-G82.22 – Incomplete paraplegia
+G82.20 - Paraplegia, unspecified
+G82.21 - Complete paraplegia
+G82.22 - Incomplete paraplegia
 Quadriplegia (Tetraplegia)
-G82.50 – Quadriplegia, unspecified
-G82.51 – Complete quadriplegia
-G82.52 – Incomplete quadriplegia
+G82.50 - Quadriplegia, unspecified
+G82.51 - Complete quadriplegia
+G82.52 - Incomplete quadriplegia
 Other Paralytic Syndromes
-G83.4 – Cauda equina syndrome
-G83.9 – Paralytic syndrome, unspecified
+G83.4 - Cauda equina syndrome
+G83.9 - Paralytic syndrome, unspecified
 Multiple Sclerosis
-G35 – Multiple sclerosis
+G35 - Multiple sclerosis

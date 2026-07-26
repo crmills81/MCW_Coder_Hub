@@ -36,7 +36,7 @@ tags:
 - CMS added **20 new ICD-10-CM codes to the MCC list** and **111 new codes to the CC list** for FY 2026 (Tables 6I/6J) 
 - FY 2026 ICD-10-CM overall: **487 new diagnosis codes, 38 revised, 28 deleted** — a net increase over FY 2025's 252 new codes 
 - MS-DRG Grouper updated to **v43.0**, effective **October 1, 2025**; a mid-year update (**v43.1**, 80 new ICD-10-PCS codes) took effect **April 1, 2026** 
-- CMS **deleted MS-DRGs 077–079** (Hypertensive Encephalopathy), **294–295** (Deep Vein Thrombophlebitis), and **509** (low-volume arthroscopy) as part of the FY 2026 low-volume DRG consolidation — none fall within PMR/Urology/ENT/Ophthalmology ranges, but coders should scrub old DRG references from CDI tools 
+- CMS **deleted MS-DRGs 077-079** (Hypertensive Encephalopathy), **294-295** (Deep Vein Thrombophlebitis), and **509** (low-volume arthroscopy) as part of the FY 2026 low-volume DRG consolidation — none fall within PMR/Urology/ENT/Ophthalmology ranges, but coders should scrub old DRG references from CDI tools 
 - Largest volume of new codes: **Chapter 12 (Skin)** — 112 new non-pressure chronic ulcer codes by site/severity — and **Chapter 7 (Eye)** — 17 new codes including 9 site-specific eyelid/blepharitis codes (replacing general H01.8) and new Demodex-related and neovascular secondary glaucoma codes 
 
 ### The Nine Guiding Principles for CC/MCC Analysis 

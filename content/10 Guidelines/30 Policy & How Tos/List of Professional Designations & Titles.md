@@ -2,17 +2,17 @@
 
 ## Professional Designations and Titles in the Health Sciences
 
-**AARCF** American Association for Respiratory Care Fellow  
-**ADN** Associate Degree in Nursing  
-**ANP** Adult Nurse Practitioner  
-**AOCN** American Oncology Certified Nurse  
-**ARNP** Advanced Registered Nurse Practitioner  
-**ARRT** American Registry of Radiologic Technologists  
-**ART** Accredited Record Technologist  
-**ASPO** American Society for Psychoprophylaxis in Obstetrics  
-**ATC** Athletic Trainer, Certified  
-**BA** Bachelor of Arts  
-**BC** Bachelor of Surgery  
+**AARCF** American Association for Respiratory Care Fellow  
+**ADN** Associate Degree in Nursing  
+**ANP** Adult Nurse Practitioner  
+**AOCN** American Oncology Certified Nurse  
+**ARNP** Advanced Registered Nurse Practitioner  
+**ARRT** American Registry of Radiologic Technologists
+**ART** Accredited Record Technologist
+**ASPO** American Society for Psychoprophylaxis in Obstetrics
+**ATC** Athletic Trainer, Certified
+**BA** Bachelor of Arts
+**BC** Bachelor of Surgery
 **BCh** Bachelor of Surgery  
 **BM** Bachelor of Medicine  
 **BMS** Bachelor of Medical Science  
