@@ -94,7 +94,7 @@ _____
 >
 > | CPT Code | Description |
 > |---|---|
-> | **[[99204]]** / **[[99214]]** | Office or other outpatient visit for the E/M of a new or established patient _(Moderate/High complexity E/M codes are typical due to the extensive neurological and psychiatric workup required to isolate functional vs. organic origins)_ |
+> | **[[99204]]** / **[[50 Medical Coding/CPT Codes/99214]]** | Office or other outpatient visit for the E/M of a new or established patient _(Moderate/High complexity E/M codes are typical due to the extensive neurological and psychiatric workup required to isolate functional vs. organic origins)_ |
 > | **[[99205]]** / **[[99215]]** | E/M of a patient requiring high level of medical decision making _(Often necessary when coordinating multidisciplinary care between neurology, psychiatry, and physical therapy)_ |
 >
 > #### **Physical Therapy & Rehabilitation**

@@ -83,7 +83,7 @@ Use additional code to identify the cause, such as: fecal impaction (**[[K56.41]
 - **[[99205]]** - New patient office visit, high MDM (60-74 min)
 - **[[99212]]** - Established patient office visit, straightforward MDM (10-19 min)
 - **[[99213]]** - Established patient office visit, low MDM (20-29 min)
-- **[[99214]]** - Established patient office visit, moderate MDM (30-39 min)
+- **[[50 Medical Coding/CPT Codes/99214]]** - Established patient office visit, moderate MDM (30-39 min)
 - **[[99215]]** - Established patient office visit, high MDM (40-54 min)
 - **[[99281]]** - ED visit, straightforward
 - **[[99282]]** - ED visit, low MDM

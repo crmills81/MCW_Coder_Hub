@@ -140,7 +140,7 @@ _____
 > | **[[-53]]** | Discontinued procedure — Append to **[[44360]]** or **[[44376]]** when the scope is advanced to an enteroscopy entry point but the procedure must be terminated prematurely due to extenuating clinical circumstances (**anesthesia was administered**); do NOT use -52 in this scenario for a diagnostic enteroscopy |
 > | **[[-52]]** | Reduced services — Append to a **therapeutic** enteroscopy code (e.g., **[[44366]]**) when the physician elects to reduce the service prior to full completion and **no anesthesia was involved**, per AMA CPT guidelines |
 > | **[[-59]]** | Distinct procedural service — Use when dilation of **multiple strictures** is performed during enteroscopy at separate, distinct small bowel sites (**report the dilation code with -59 for each additional stricture beyond the first**) |
-> | **[[-25]]** | Significant, separately identifiable E/M service — Append to **[[99213]]** or **[[99214]]** if the gastroenterologist performs a significant, separately documented E/M on the same day as an **enteroscopy** procedure |
+> | **[[-25]]** | Significant, separately identifiable E/M service — Append to **[[99213]]** or **[[50 Medical Coding/CPT Codes/99214]]** if the gastroenterologist performs a significant, separately documented E/M on the same day as an **enteroscopy** procedure |
 > | **[[-51]]** | Multiple procedures — May apply when enteroscopy is performed on the same day as a separate, distinct endoscopic procedure at a different anatomical site (**e.g., a same-day EGD and enteroscopy**); verify payer policy, as many GI payers follow the multiple endoscopy payment rule instead |
 >
 > ---

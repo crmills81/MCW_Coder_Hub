@@ -90,7 +90,7 @@ _____
 >
 > | CPT Code | Description |
 > |---|---|
-> | **[[99204]]** / **[[99214]]** | Office or other outpatient visit for the E/M of a new or established patient _(Moderate to high complexity E/M codes are common due to the extensive neurological workup required to differentiate organic vs. functional astasia)_ |
+> | **[[99204]]** / **[[50 Medical Coding/CPT Codes/99214]]** | Office or other outpatient visit for the E/M of a new or established patient _(Moderate to high complexity E/M codes are common due to the extensive neurological workup required to differentiate organic vs. functional astasia)_ |
 >
 > #### **Physical Therapy & Rehabilitation**
 >

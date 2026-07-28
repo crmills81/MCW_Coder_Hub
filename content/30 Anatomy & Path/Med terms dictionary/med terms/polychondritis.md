@@ -65,7 +65,7 @@ _____
 > - **[[11102]]**: Tangential biopsy of skin (e.g., for ear or nasal cartilage biopsy; full code is 11102, often with add-ons like +11103 for additional lesions).
 > - **[[31551]]**: [[laryngoplasty]]; for subglottic stenosis repair (common complication; full 5-character code).
 > - **[[31600]]**: [[tracheostomy]], planned (for airway management in severe cases; full 5-character code).
-> - **[[99214]]**: Office or other outpatient visit for evaluation and management (E/M code for ongoing care; level 4 established patient).
+> - **[[50 Medical Coding/CPT Codes/99214]]**: Office or other outpatient visit for evaluation and management (E/M code for ongoing care; level 4 established patient).
 > - **[[96365]]**: [[Intravenous]] infusion, for hydration, therapeutic, prophylactic, or diagnostic injection (e.g., for administering immunosuppressants like infliximab; full 5-character code).
 _____
 >[!tip]- DERIVATIONS of [[polychondritis]]

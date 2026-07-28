@@ -125,7 +125,7 @@ _____
 > |**[[95250]]**|Ambulatory continuous glucose monitoring (CGM); sensor placement, hook-up, calibration, training, printout — up to 72 hours|
 > |**[[95251]]**|Ambulatory CGM; physician interpretation and report|
 > |**[[99213]]**|Office/outpatient visit, established patient, low MDM (routine glucose check/normoglycemia confirmation)|
-> |**[[99214]]**|Office/outpatient visit, established patient, moderate MDM (DM management with glycemic target discussion)|
+> |**[[50 Medical Coding/CPT Codes/99214]]**|Office/outpatient visit, established patient, moderate MDM (DM management with glycemic target discussion)|
 > |**[[99215]]**|Office/outpatient visit, established patient, high MDM (complex DM management with normoglycemic goal titration)|
 > 
 > ---

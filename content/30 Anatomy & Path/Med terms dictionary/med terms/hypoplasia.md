@@ -176,7 +176,7 @@ _____
 > |**[[92132]]**|Scanning computerized ophthalmic diagnostic imaging, anterior segment; unilateral or bilateral — used in structural optic/anterior segment evaluation|
 > |**[[92133]]**|Scanning computerized ophthalmic diagnostic imaging, optic nerve; unilateral or bilateral — primary imaging for optic nerve hypoplasia|
 > |**[[99213]]**|Office/outpatient visit, established patient, moderate complexity — common E&M level for ongoing hypoplasia management|
-> |**[[99214]]**|Office/outpatient visit, established patient, moderate-high complexity|
+> |**[[50 Medical Coding/CPT Codes/99214]]**|Office/outpatient visit, established patient, moderate-high complexity|
 > |**[[21210]]**|Graft, bone; nasal, maxillary or malar areas (including obtaining graft) — used in midface/maxillary hypoplasia reconstruction|
 > |**[[21248]]**|Reconstruction of mandible or maxilla, endosteal implant (e.g., blade, cylinder); partial — used for mandibular hypoplasia correction|
 >

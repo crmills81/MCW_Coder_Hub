@@ -155,7 +155,7 @@ _____
 > | Modifier | Usage |
 > |---|---|
 > | **[[-91]]** | Repeat clinical diagnostic laboratory test — Append to **[[84132]]** for each repeat same-day serum potassium drawn to monitor response to replacement therapy (e.g., Q4H potassium checks during IV KCl infusion); do NOT use for equipment malfunction reruns |
-> | **[[-25]]** | Significant, separately identifiable E/M service — Append to **[[99213]]** / **[[99214]]** / **[[99223]]** when the physician performs a separately documented E/M on the same day as IV infusion initiation (**[[96365]]**) or an ECG (**[[93000]]**) |
+> | **[[-25]]** | Significant, separately identifiable E/M service — Append to **[[99213]]** / **[[50 Medical Coding/CPT Codes/99214]]** / **[[99223]]** when the physician performs a separately documented E/M on the same day as IV infusion initiation (**[[96365]]**) or an ECG (**[[93000]]**) |
 > | **[[-59]]** | Distinct procedural service — Append to **[[83735]]** (magnesium) when billed on the same date as other electrolyte labs to distinguish it as a separately indicated, clinically distinct order (magnesium is NOT bundled in BMP — this modifier is not typically needed for Mg but may be required by specific payers) |
 > | **[[-QW]]** | CLIA-waived test — Append to **[[84132]]** when point-of-care potassium testing is performed on a CLIA-waived handheld analyzer at the bedside rather than in a certified lab; required by most payers for waived test reimbursement |
 >

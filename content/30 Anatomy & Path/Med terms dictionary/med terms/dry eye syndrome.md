@@ -146,7 +146,7 @@ definition:
 > |**[[92012]]**|Ophthalmological services; established patient, intermediate *(follow-up DES visit)*|
 > |**[[92014]]**|Ophthalmological services; established patient, comprehensive *(full reassessment with diagnostic testing — most common DES return visit code)*|
 > |**[[99213]]**|Office visit, established patient, low-moderate complexity *(when E/M coding used instead of eye codes — straightforward DES Rx refill)*|
-> |**[[99214]]**|Office visit, established patient, moderate complexity *(when medical decision-making complexity warrants E/M over eye exam code)*|
+> |**[[50 Medical Coding/CPT Codes/99214]]**|Office visit, established patient, moderate complexity *(when medical decision-making complexity warrants E/M over eye exam code)*|
 >
 > ### Punctal Occlusion — Punctal Plug Insertion
 >
@@ -185,7 +185,7 @@ definition:
 > |**[[-E3]]**|Upper right eyelid punctum|
 > |**[[-E4]]**|Lower right eyelid punctum|
 > |**[[-59]]**|Distinct procedural service — e.g., **[[68761]]** (punctal plug) performed at distinct session from E/M; or **[[92285]]** (**photography**) distinct from exam on same day with appropriate documentation|
-> |**[[-25]]**|Significant, separately identifiable E/M on same day as procedure — append to **[[92012]]**/**[[92014]]** or **[[99213]]**/**[[99214]]** when a separately documented E/M is performed on the same day as **[[68761]]** punctal plug insertion; requires distinct documentation|
+> |**[[-25]]**|Significant, separately identifiable E/M on same day as procedure — append to **[[92012]]**/**[[92014]]** or **[[99213]]**/**[[50 Medical Coding/CPT Codes/99214]]** when a separately documented E/M is performed on the same day as **[[68761]]** punctal plug insertion; requires distinct documentation|
 > |**[[-52]]**|Reduced services — e.g., **[[65778]]** amniotic membrane placement initiated but unable to complete both eyes as planned|
 > |**[[-78]]**|Unplanned return to OR within global period — e.g., plug loss/replacement (**[[68761]]**) or amniotic membrane replacement (**[[65778]]**) within 10-day global of original placement|
 >

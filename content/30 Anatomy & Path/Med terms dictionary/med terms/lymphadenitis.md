@@ -144,7 +144,7 @@ definition:
 > |**[[38525]]**|Biopsy or excision of lymph node; deep axillary node(s) *(deep axillary dissection for diagnosis or treatment)*|
 > |**[[88305]]**|Level IV surgical pathology, gross and microscopic examination — lymph node biopsy *(always pair with 38500-38525; drives histopathologic diagnosis)*|
 > |**[[99213]]**|Office or other outpatient visit, established patient, moderate complexity *(E/M for lymphadenitis evaluation and management)*|
-> |**[[99214]]**|Office or other outpatient visit, established patient, moderate-high complexity *(E/M when multiple comorbidities or antibiotic management complexity documented)*|
+> |**[[50 Medical Coding/CPT Codes/99214]]**|Office or other outpatient visit, established patient, moderate-high complexity *(E/M when multiple comorbidities or antibiotic management complexity documented)*|
 > 
 > ---
 > 

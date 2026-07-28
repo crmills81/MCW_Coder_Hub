@@ -92,7 +92,7 @@ _____
 >
 > | CPT Code | Description |
 > |---|---|
-> | **[[99204]]** / **[[99214]]** | Office or other outpatient visit for the E/M of a new or established patient _(Moderate/High complexity E/M codes due to the extensive neuro/psych workup required to isolate functional vs. organic origins)_ |
+> | **[[99204]]** / **[[50 Medical Coding/CPT Codes/99214]]** | Office or other outpatient visit for the E/M of a new or established patient _(Moderate/High complexity E/M codes due to the extensive neuro/psych workup required to isolate functional vs. organic origins)_ |
 >
 > #### **Physical Therapy & Rehabilitation**
 >

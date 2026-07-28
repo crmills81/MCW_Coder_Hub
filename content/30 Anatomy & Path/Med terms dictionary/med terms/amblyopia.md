@@ -128,7 +128,7 @@ _____
 > | **[[-RT]]** | Right eye — Append to procedure codes when the service is performed on the right eye specifically (e.g., **[[92065]]-RT**) |
 > | **[[-LT]]** | Left eye — Append to procedure codes when the service is performed on the left eye specifically |
 > | **[[-50]]** | Bilateral procedure — Use when a procedure is performed on both eyes at the same session and the code does not inherently describe a bilateral service |
-> | **[[-25]]** | Significant, separately identifiable E/M service — Append to **[[99213]]** or **[[99214]]** if the provider performs a significant, separately documented medical decision-making E/M on the same day as an orthoptic training session (**[[92065]]**) |
+> | **[[-25]]** | Significant, separately identifiable E/M service — Append to **[[99213]]** or **[[50 Medical Coding/CPT Codes/99214]]** if the provider performs a significant, separately documented medical decision-making E/M on the same day as an orthoptic training session (**[[92065]]**) |
 >
 > ---
 >

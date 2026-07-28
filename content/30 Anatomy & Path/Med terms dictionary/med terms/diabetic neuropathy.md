@@ -174,7 +174,7 @@ _____
 > |**[[95913]]**|Nerve conduction studies; 13 or more studies (comprehensive bilateral upper and lower extremity panel)|
 > |**[[+95885]]**|Needle EMG, each extremity, with corresponding NCS; limited (1-4 muscles) — add-on to NCS code; do NOT report standalone|
 > |**[[+95886]]**|Needle EMG, each extremity, with corresponding NCS; complete (5 or more muscles) — add-on to NCS code|
-> |**[[99214]]**|Office/outpatient E/M, established patient, moderate MDM (routine diabetic neuropathy follow-up with medication management)|
+> |**[[50 Medical Coding/CPT Codes/99214]]**|Office/outpatient E/M, established patient, moderate MDM (routine diabetic neuropathy follow-up with medication management)|
 > |**[[99215]]**|Office/outpatient E/M, established patient, high MDM (complex neuropathy with autonomic involvement, medication change, or new complication)|
 > |**[[97110]]**|Therapeutic exercises (15 min); balance and strengthening for fall prevention in patients with sensory neuropathy|
 > |**[[97112]]**|Neuromuscular reeducation (15 min); gait and proprioception retraining in diabetic peripheral neuropathy|

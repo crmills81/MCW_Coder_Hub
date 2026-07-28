@@ -65,7 +65,7 @@ _____
 > _Cellulitis is primarily managed medically. Procedure codes are rarely used unless IV therapy or debridement is required._
 > 
 > - **[[99202]]-[[99215]]:** Office/Outpatient E/M visits.
->     - _Context:_ Code selection depends on Medical Decision Making (**MDM**). Prescription of oral antibiotics typically supports **Low Complexity ([[99213]])**, while decision to administer IV antibiotics or consideration of hospitalization supports **Moderate to High Complexity ([[99214]]/[[99215]])**.
+>     - _Context:_ Code selection depends on Medical Decision Making (**MDM**). Prescription of oral antibiotics typically supports **Low Complexity ([[99213]])**, while decision to administer IV antibiotics or consideration of hospitalization supports **Moderate to High Complexity ([[50 Medical Coding/CPT Codes/99214]]/[[99215]])**.
 > - **[[96374]]:** Therapeutic, prophylactic, or diagnostic injection... intravenous push, single or initial substance/drug.
 >     - _Usage:_ Used for the initial administration of IV antibiotics (e.g., Ceftriaxone) in an office or urgent care setting.
 > - **[[96360]]:** Intravenous infusion, hydration; initial, 31 minutes to 1 hour.

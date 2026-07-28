@@ -182,7 +182,7 @@ _____
 > |**[[99204]]**|Office/outpatient E/M, new patient, moderate MDM (typical for new headache disorder with imaging review)|
 > |**[[99205]]**|Office/outpatient E/M, new patient, high MDM (complex headache, neurological red flags, multi-system review)|
 > |**[[99213]]**|Office/outpatient E/M, established patient, low MDM (routine headache follow-up)|
-> |**[[99214]]**|Office/outpatient E/M, established patient, moderate MDM (headache management with medication adjustment)|
+> |**[[50 Medical Coding/CPT Codes/99214]]**|Office/outpatient E/M, established patient, moderate MDM (headache management with medication adjustment)|
 > |**[[99215]]**|Office/outpatient E/M, established patient, high MDM (refractory/chronic headache with complex management)|
 > |**[[70450]]**|CT head/brain without contrast (acute headache workup; rule out hemorrhage, mass, infarct)|
 > |**[[70551]]**|MRI brain without contrast (chronic/recurrent headache; rule out structural pathology)|

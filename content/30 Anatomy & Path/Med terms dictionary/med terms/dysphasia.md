@@ -143,7 +143,7 @@ _____
 > |**[[70553]]**|MRI brain with and without contrast — standard neuroimaging for acute or chronic dysphasia workup to identify lesion location and extent in language cortex|
 > |**[[70551]]**|MRI brain without contrast — used when contrast is contraindicated; still valuable for evaluating white matter, atrophy, or structural lesions associated with dysphasia|
 > |**[[99213]]**|Office/outpatient E/M, established patient, low complexity — follow-up neurology or SLP visit for ongoing dysphasia management|
-> |**[[99214]]**|Office/outpatient E/M, established patient, moderate complexity — neurology management with language reassessment and medication or therapy adjustment|
+> |**[[50 Medical Coding/CPT Codes/99214]]**|Office/outpatient E/M, established patient, moderate complexity — neurology management with language reassessment and medication or therapy adjustment|
 > 
 > ---
 > 

@@ -151,7 +151,7 @@ _____
 > |**[[95251]]**|Ambulatory CGM; physician interpretation and report|
 > |**[[99211]]**|Office visit, established patient, minimal complexity (nurse visit — e.g., glucose recheck)|
 > |**[[99213]]**|Office/outpatient visit, established patient, low MDM|
-> |**[[99214]]**|Office/outpatient visit, established patient, moderate MDM (common for DM management visit with hypoglycemic episode)|
+> |**[[50 Medical Coding/CPT Codes/99214]]**|Office/outpatient visit, established patient, moderate MDM (common for DM management visit with hypoglycemic episode)|
 > |**[[96372]]**|Therapeutic, prophylactic, or diagnostic injection; subcutaneous or intramuscular (e.g., glucagon injection)|
 > 
 > ---

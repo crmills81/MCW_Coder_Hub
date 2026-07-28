@@ -139,7 +139,7 @@ _____
 > |---|---|
 > | **[[-91]]** | Repeat clinical diagnostic laboratory test — Append to **[[82803]]** or **[[82805]]** when the same ABG is repeated on the same calendar day for serial monitoring of alkalosis treatment response (**do NOT use -91 for equipment repeat/malfunction — use [[-QW]]** or rerun under appropriate modifier in waived testing context) |
 > | **[[-59]]** | Distinct procedural service — Append to a separately identifiable laboratory code (e.g., urine **[[82435]]** for chloride) when it could be bundled with serum **[[82435]]** billed on the same date; distinguishes the separate clinical rationale for urine vs. serum chloride measurement |
-> | **[[-25]]** | Significant, separately identifiable E/M service — Append to **[[99213]]** / **[[99214]]** / **[[99223]]** when the physician performs a significant, separately documented E/M on the same day as a procedure such as IV infusion initiation (**[[96365]]**) or ventilator management (**[[94002]]**) |
+> | **[[-25]]** | Significant, separately identifiable E/M service — Append to **[[99213]]** / **[[50 Medical Coding/CPT Codes/99214]]** / **[[99223]]** when the physician performs a significant, separately documented E/M on the same day as a procedure such as IV infusion initiation (**[[96365]]**) or ventilator management (**[[94002]]**) |
 > | **[[-QW]]** | CLIA waived test — Append when point-of-care electrolyte or basic metabolic testing is performed on a CLIA-waived analyzer at the bedside in the context of alkalosis monitoring; verify specific payer QW policies |
 >
 > ---

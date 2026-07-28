@@ -146,7 +146,7 @@ _____
 > |**[[95251]]**|Ambulatory CGM; physician interpretation and report|
 > |**[[96372]]**|Therapeutic, prophylactic, or diagnostic injection; subcutaneous or intramuscular (glucagon or insulin injection administered in office)|
 > |**[[99213]]**|Office/outpatient visit, established patient, low MDM (routine insulin management follow-up)|
-> |**[[99214]]**|Office/outpatient visit, established patient, moderate MDM (insulin titration, hypoglycemia management)|
+> |**[[50 Medical Coding/CPT Codes/99214]]**|Office/outpatient visit, established patient, moderate MDM (insulin titration, hypoglycemia management)|
 > |**[[99291]]**|Critical care, first 30-74 minutes (severe insulin overdose / hypoglycemic coma — inpatient critical care)|
 > 
 > ---

@@ -182,7 +182,7 @@ _____
 > |**[[70487]]**|CT scan, maxillofacial area; with contrast material(s)|
 > |**[[70488]]**|CT scan, maxillofacial area; without contrast material, followed by contrast material(s) and further sections|
 > |**[[99213]]**|Office/outpatient visit, established patient, low to moderate complexity (sinusitis follow-up)|
-> |**[[99214]]**|Office/outpatient visit, established patient, moderate to high complexity (complicated sinusitis)|
+> |**[[50 Medical Coding/CPT Codes/99214]]**|Office/outpatient visit, established patient, moderate to high complexity (complicated sinusitis)|
 > 
 > ---
 > 

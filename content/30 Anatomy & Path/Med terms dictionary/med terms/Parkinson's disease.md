@@ -114,7 +114,7 @@ _____
 > | Modifier | Usage |
 > |---|---|
 > | **[[-50]]** | Bilateral procedure — Used if certain unlisted or specific neurological assessments/procedures are performed on both sides, though for DBS electrode placement, **[[61868]]** is the designated add-on code for the second array. |
-> | **[[-25]]** | Significant, separately identifiable E&M service — Append to an established patient visit (e.g., **[[99214]]**) if the neurologist performs a significant E&M on the same day they also actively reprogram a DBS neurostimulator. |
+> | **[[-25]]** | Significant, separately identifiable E&M service — Append to an established patient visit (e.g., **[[50 Medical Coding/CPT Codes/99214]]**) if the neurologist performs a significant E&M on the same day they also actively reprogram a DBS neurostimulator. |
 >
 > ---
 >

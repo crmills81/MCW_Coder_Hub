@@ -146,7 +146,7 @@ _____
 >
 > | Modifier | Usage |
 > |---|---|
-> | **[[-25]]** | Significant, separately identifiable E/M service — Append to **[[99213]]** / **[[99214]]** / **[[99223]]** when the physician performs a significant, separately documented E/M on the same day as a procedure (e.g., initiation of mechanical ventilation **[[94002]]** or IV infusion **[[96365]]**) |
+> | **[[-25]]** | Significant, separately identifiable E/M service — Append to **[[99213]]** / **[[50 Medical Coding/CPT Codes/99214]]** / **[[99223]]** when the physician performs a significant, separately documented E/M on the same day as a procedure (e.g., initiation of mechanical ventilation **[[94002]]** or IV infusion **[[96365]]**) |
 > | **[[-59]]** | Distinct procedural service — Append to a separately identifiable lab code (e.g., **[[83605]]** for lactate) when it might be bundled with a panel code by the payer, but clinical documentation supports its separate medical necessity |
 > | **[[-91]]** | Repeat clinical diagnostic laboratory test — Append when the same laboratory test (e.g., **[[82803]]** ABG or **[[83605]]** lactate) is repeated on the same day for serial monitoring of acidosis treatment response — do **NOT** use [[-91]] to rerun a test due to equipment malfunction (use **[[QW]]** or **[[-QW]]** for waived testing context) |
 >

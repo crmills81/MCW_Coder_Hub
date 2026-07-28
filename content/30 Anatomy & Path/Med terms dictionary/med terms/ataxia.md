@@ -143,7 +143,7 @@ _____
 > |CPT Code|Description|
 > |---|---|
 > |**[[99213]]**|Office or outpatient E/M visit, established patient — low complexity (initial ataxia symptom visit)|
-> |**[[99214]]**|Office or outpatient E/M visit, established patient — moderate complexity (ataxia workup, medication management)|
+> |**[[50 Medical Coding/CPT Codes/99214]]**|Office or outpatient E/M visit, established patient — moderate complexity (ataxia workup, medication management)|
 > |**[[99215]]**|Office or outpatient E/M visit, established patient — high complexity (new hereditary ataxia diagnosis, complex decision-making)|
 > |**[[70553]]**|MRI brain with and without contrast — primary neuroimaging for ataxia workup; detects cerebellar atrophy, lesions, MS plaques|
 > |**[[95923]]**|Nerve conduction study — used to evaluate sensory neuropathy as a cause of sensory ataxia|

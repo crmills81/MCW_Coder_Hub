@@ -161,7 +161,7 @@ _____
 >
 > | Modifier | Usage |
 > |---|---|
-> | **[[-25]]** | Significant, separately identifiable E/M service — Append to **[[99213]]** / **[[99214]]** when the physician performs a separately documented E/M on the same day as PFT testing (**[[94010]]**, **[[94729]]**) or a bronchoscopy/liver biopsy procedure |
+> | **[[-25]]** | Significant, separately identifiable E/M service — Append to **[[99213]]** / **[[50 Medical Coding/CPT Codes/99214]]** when the physician performs a separately documented E/M on the same day as PFT testing (**[[94010]]**, **[[94729]]**) or a bronchoscopy/liver biopsy procedure |
 > | **[[-59]]** | Distinct procedural service — Append to **[[94729]]** (DLCO) when billed alongside **[[94726]]** (plethysmography) to prevent bundling; also use to distinguish **[[31624]]** (BAL) from **[[31628]]** (transbronchial biopsy) when both are performed in the same bronchoscopy session |
 > | **[[-26]]** | Professional component — Append to PFT codes when the physician provides interpretation and report only, without performing the technical component (e.g., when PFTs are performed in a hospital PFT lab and the pulmonologist bills only for reading/interpretation) |
 > | **[[-TC]]** | Technical component — Append to PFT codes when the facility bills only for the equipment, technician, and supplies without the professional interpretation |
