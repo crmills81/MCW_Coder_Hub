@@ -77,7 +77,7 @@ _____
 > Binocular diplopia can arise from:
 > 
 > - Neurologic: stroke, [[TIA]], increased intracranial pressure, [[multiple sclerosis]], [[aneurysm]], brain tumor, head injury.
-> - [[Neuromuscular]]: myasthenia gravis, Guillain‑Barré (especially Miller‑Fisher variant), botulism.
+> - [[neuromuscular]]: myasthenia gravis, Guillain‑Barré (especially Miller‑Fisher variant), botulism.
 > - Endocrine/[[orbital]]: Graves’ disease, thyroid‑associated [[orbitopathy]].
 > - Miscellaneous: trauma, skull‑base tumors, cavernous sinus/sellar masses, diabetes‑related cranial nerve palsies.
 > 
