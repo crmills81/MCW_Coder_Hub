@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path.contains("50 Medical Coding")
+    order:
+      - file.name
+      - code
+      - file.mtime
+      - file.ctime
+    cardSize: 120
+    imageAspectRatio: 0.75
