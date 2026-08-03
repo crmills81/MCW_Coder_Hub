@@ -74,7 +74,7 @@ _____
 >
 > - **[[fascia]]** — the dense fibrous connective tissue that is the primary site of involvement; divided into superficial, deep, and visceral layers, each capable of independent or concurrent inflammation
 > - **[[fasciotomy]]** — surgical incision of the fascia to decompress a compartment or drain infection; primary surgical intervention in compartment syndrome and often required in necrotizing fasciitis
-> - **[[Fasciectomy]]** — surgical excision of fascia or fascial fibromatosis; used in Dupuytren's contracture (palmar fascial fibromatosis, [[M72.0]]) and recalcitrant plantar fasciitis
+> - **[[fasciectomy]]** — surgical excision of fascia or fascial fibromatosis; used in Dupuytren's contracture (palmar fascial fibromatosis, [[M72.0]]) and recalcitrant plantar fasciitis
 > - **[[Cellulitis]]** — superficial dermal/subcutaneous infection that may be clinically indistinguishable from early necrotizing fasciitis; key distinction is fascial plane involvement confirmed by imaging or surgical exploration
 > - **[[Myositis]]** — inflammation of muscle tissue; may coexist with fasciitis in pyomyositis or necrotizing soft tissue infection, but the primary inflammatory target differs
 > - **Compartment syndrome** — elevated intracompartmental pressure causing ischemic injury; shares fascial anatomy with fasciitis and is treated with the same fasciotomy procedure, but is mechanically (not inflammatorily) driven

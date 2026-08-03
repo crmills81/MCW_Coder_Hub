@@ -1,7 +1,8 @@
 ---
 tags:
   - medterm
-  - medroot
+  - urology
+  - N13
 aliases:
 roots:
   - hydr-
@@ -15,8 +16,7 @@ forms:
   - combining
   - noun
 alphabet: H
-definition:
-  - kidney enlargement from distension
+definition: kidney enlargement from distension
 ---
 >[!Note] DEFINITION of [[hydronephrosis]]
 >**This condition arises when urine cannot drain properly from the kidney, leading to pressure buildup in the renal collecting system; it may be unilateral or bilateral, acute or chronic, and graded by severity (mild to severe based on pelvic dilation).** Untreated, it risks renal damage, infection, or failure via tubular atrophy and fibrosis; common in adults from stones or tumors, and in fetuses from congenital anomalies like [[ureteropelvic junction obstruction]].

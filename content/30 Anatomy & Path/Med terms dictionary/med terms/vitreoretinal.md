@@ -1,7 +1,6 @@
 ---
 tags:
   - medterm
-  - medroot
   - ophthalmology
 aliases:
   - posterior segment
@@ -17,8 +16,7 @@ forms:
   - combining
   - compound suffix form
 alphabet: V
-definition:
-  - of or relating to the vitreous humor and the retina
+definition: of or relating to the vitreous humor and the retina
 ---
 >[!Note] DEFINITION of [[vitreoretinal]]
 >The **vitreoretinal interface** is where the clear, gel-like [[vitreous]] body (**which fills approximately 80% of the eye's interior**) makes direct contact with the light-sensitive retinal tissue lining the back of the eye. This interface is clinically critical because traction, inflammation, or degeneration here leads to some of [[ophthalmology]]'s most vision-threatening conditions, including[[ retinal detachment]], [[macular]] holes, and [[epiretinal]] membranes. The [[macula]] — the central retina responsible for sharp, detailed, and color vision — sits at the center of this zone and is a focal point for vitreoretinal disease. Vitreoretinal surgery (**a formal subspecialty**) addresses these conditions through procedures like [[vitrectomy]], laser [[photocoagulation]], and [[scleral]] buckling.

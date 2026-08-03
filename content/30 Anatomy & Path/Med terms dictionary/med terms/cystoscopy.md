@@ -1,7 +1,7 @@
 ---
 tags:
-  - medroot
   - medterm
+  - urology
 aliases:
   - cystoscope
   - Cystoscopy
@@ -13,9 +13,7 @@ forms:
   - noun
   - combining
 "alphabet:": C
-definition:
-  - an instrument for examining
-  - urinary tract
+definition: an instrument for examining,urinary tract
 ---
 >[!Note] DEFINITION of [[cystoscopy]]
 >**Endoscopic examination of the urinary bladder and urethra using a [[cystoscope]]**. The procedure uses flexible or rigid [[cystoscopes]], often with local anesthesia for flexible types and general for rigid, to inspect for issues like [[hematuria]], [[incontinence]], blockages, or tumors; it can also enable biopsies or treatments like stone removal. Fluid fills the bladder for better views, typically lasting 15-20 minutes, with possible post-procedure discomfort like burning urination.

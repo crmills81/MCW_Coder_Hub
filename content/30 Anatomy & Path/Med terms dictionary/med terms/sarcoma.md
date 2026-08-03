@@ -1,6 +1,7 @@
 ---
 tags:
   - medterm
+  - oncology
 aliases:
   - Sarcoma
   - soft tissue sarcoma

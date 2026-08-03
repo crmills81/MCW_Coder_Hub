@@ -107,7 +107,7 @@ _____
 >|**[[Anuria]]**|_[[an-]]_ (**without**) + _ur-_ + _-ia_|Complete absence of urine production |
 >|**[[Nocturia]]**|_[[noct/i-]]_ (**night**) + _ur-_ + _-ia_|Urination at night, interrupting sleep​|
 >|**[[Hematuria]]**|_[[hemat/o-]]_ (**blood**) + _ur-_ + _-ia_|Blood in urine ​|
->|**[[Pyuria]]**|_[[py/o-]]_ (**pus**) + _ur-_ + _-ia_|Pus/WBCs in urine; hallmark of UTI ​|
+>|**[[pyuria]]**|_[[py/o-]]_ (**pus**) + _ur-_ + _-ia_|Pus/WBCs in urine; hallmark of UTI ​|
 >|**[[Pneumaturia]]**|_[[pneumat/o-]]_ (**air/gas**) + _ur-_ + _-ia_|Air/gas in urine; may signal fistula ​|
 >|**[[Enuresis]]**|_[[en-]]_ (**in**) + _[[-uresis]]_ (**urination**)|Involuntary urination, esp. nocturnal bedwetting  ​|
 >|**[[Dysmenorrhea]]**|_[[dys-]]_ + _[[meno-]]_ (**menstruation**) + _[[-rrhea]]_|Painful menstruation — same _dys-_ prefix at work ​|

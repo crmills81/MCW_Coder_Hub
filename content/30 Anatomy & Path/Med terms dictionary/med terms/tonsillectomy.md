@@ -1,8 +1,9 @@
 ---
 tags:
   - medterm
-aliases: 
- - Tonsillectomy
+  - otolaryngology
+aliases:
+  - Tonsillectomy
 roots:
   - ton-
   - -ectomy
@@ -10,8 +11,7 @@ roots:
 forms:
   - noun
 "alphabet:": T
-definition:
-  - Removal of tonsils
+definition: Removal of tonsils
 ---
 >[!Note] DEFINITION of [[tonsillectomy]]
 >Surgical excision of the palatine tonsils from the **tonsillar fossa**. This procedure involves complete or partial removal of the tonsils—lymphoid tissues at the back of the throat—to alleviate chronic infections, **[[peritonsillar]] abscesses**, or **airway obstruction from [[hypertrophy]]**. Performed endoscopically or traditionally with tools like a snare or electrocautery, it carries risks like postoperative hemorrhage (most common in the first 24 hours or days 5-10), pain, dehydration, and transient [[trismus]] from pharyngeal muscle spasm or inflammation; recovery usually spans 7-14 days with dietary management and analgesics.
@@ -20,7 +20,7 @@ _____
 >#latin *tonsillae* (almond) + Greek *ektome* (excision)
 _____
 >[!example]+ RELATED TERMS to [[tonsillectomy]]
->[[Adenoidectomy]]
+>[[adenoidectomy]]
 >Pharyngitis
 >[[Peritonsillar]]
 _____

@@ -56,7 +56,7 @@ _____
 > - **Clonus** — sustained rhythmic muscular contractions from severe **hyperreflexia**; tested at ankle/wrist
 > - **Babinski sign** — pathological plantar reflex (**upgoing toe**); corticospinal tract sign co-occurring with **hyperreflexia**
 > - **[[Spasticity]]** — velocity-dependent increase in muscle tone; frequently accompanies **hyperreflexia** in UMN syndrome
-> - **[[Hyporeflexia]]** — diminished reflexes; the opposite finding; seen in LMN or peripheral nerve disease
+> - **[[hyporeflexia]]** — diminished reflexes; the opposite finding; seen in LMN or peripheral nerve disease
 > - **[[Areflexia]]** — complete absence of reflexes; acute spinal shock or peripheral [[neuropathy]]
 > - **Upper motor neuron (UMN) syndrome** — clinical cluster of **hyperreflexia**, **spasticity**, Babinski, weakness
 > - **[[Autonomic dysreflexia]]** — life-threatening autonomic reflex storm in SCI ≥T6; mapped to [[G90.4]]

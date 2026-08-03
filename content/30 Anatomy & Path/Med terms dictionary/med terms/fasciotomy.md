@@ -64,7 +64,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 >
-> - **[[Fasciectomy]]** — surgical excision of fascia (not just incision); the critical coding distinction from fasciotomy; used for Dupuytren's (palmar fasciectomy [[26121]], [[26123]], +[[26125]]) and recalcitrant plantar fasciitis ([[28060]], [[28062]]); never interchangeable with fasciotomy for CPT purposes
+> - **[[fasciectomy]]** — surgical excision of fascia (not just incision); the critical coding distinction from fasciotomy; used for Dupuytren's (palmar fasciectomy [[26121]], [[26123]], +[[26125]]) and recalcitrant plantar fasciitis ([[28060]], [[28062]]); never interchangeable with fasciotomy for CPT purposes
 > - **[[fascia]]** — the target tissue; dense fibrous connective tissue surrounding and compartmentalizing muscles, nerves, and vessels; the primary site of incision in fasciotomy
 > - **[[fasciitis]]** — inflammation of the fascia; may require fasciotomy as part of surgical management (especially in necrotizing fasciitis [[M72.6]]) but is pathologically distinct from compartment syndrome
 > - **[[Compartment syndrome]]** — the primary indication for urgent fasciotomy; defined by elevated intracompartmental pressure causing ischemic injury; coded as traumatic (T79.Axxx) or nontraumatic (M79.A11-M79.A9x)
