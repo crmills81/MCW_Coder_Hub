@@ -69,7 +69,7 @@ _____
 > - **Facial nerve palsy** — weakness or paralysis of the facial nerve from edema and compression within the narrow bony fallopian canal; the indication for intratemporal facial nerve decompression; [[G51.0]] ([[Bell palsy]]).
 > - **Neurolysis** — surgical or chemical freeing of a nerve from surrounding scar, fibrous adhesion, or entrapment; a mechanism that may accompany but is not identical to decompression.
 > - **Trophic** — adjective describing nerve or vascular inputs that sustain tissue viability; loss of trophic support is a downstream consequence of prolonged, unrelieved nerve compression.
-> - **Apoptosis** — programmed cell death that can result from prolonged ischemic compression if decompression is delayed beyond the reversible window (e.g., facial nerve fibrosis after 3–4 months of untreated compression).
+> - **Apoptosis** — programmed cell death that can result from prolonged ischemic compression if decompression is delayed beyond the reversible window (e.g., facial nerve fibrosis after 3-4 months of untreated compression).
 > - **Thyroid eye disease (Graves' ophthalmopathy)** — autoimmune orbital disease causing extraocular muscle and fat enlargement, the leading cause of ophthalmologic decompression surgery; [[E05.00]].
 > - **Obstructive [[uropathy]]** — the broader urologic disease category encompassing [[hydronephrosis]] and requiring decompression via nephrostomy or stent; N13.-family.
 > - **Electroneuronography (ENoG)** — key diagnostic tool used to determine candidacy and timing for facial nerve decompression based on percentage of nerve degeneration.

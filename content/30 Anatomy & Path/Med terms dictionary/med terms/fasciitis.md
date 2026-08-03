@@ -4,6 +4,7 @@ tags:
   - musculoskeletal
   - connective-tissue
   - soft-tissue
+  - pmr
 aliases:
   - Fasciitis
   - fasciitis
@@ -37,12 +38,12 @@ definition: Inflammation of the fascia,the dense fibrous connective tissue sheat
 ---
 
 >[!Note] DEFINITION of [[fasciitis]]
->**Fasciitis** is **inflammation of the [[fascia]]** — the **dense fibrous connective tissue that surrounds and separates muscles, organs, nerves, and blood vessels throughout the body** — caused **by infectious organisms, repetitive mechanical stress, autoimmune processes, or idiopathic mechanisms**. It is distinguished from **[[myositis]]** (**inflammation of muscle itself**) and **[[cellulitis]]** (**infection confined to the dermis and superficial subcutaneous tissue**) by its primary involvement of the fascial layer, though these processes frequently overlap in severe or advanced disease. The underlying pathological mechanism varies by subtype: in **plantar fasciitis**, repetitive microtrauma at the calcaneal enthesis triggers a degenerative rather than purely inflammatory response (**hence some authors prefer the term *fasciosis***), while in **necrotizing fasciitis**, bacterial toxins and host inflammatory mediators drive rapid enzymatic destruction of fascial planes with associated vascular thrombosis and tissue **ischemia**. **Fasciitis** may be physiological (**transient post-exercise fascial strain**) or pathological, with clinically relevant subtypes including **plantar fascial fibromatosis** (**[[M72.2]]**), **necrotizing fasciitis** (**[[M72.6]]**), **nodular/pseudosarcomatous fasciitis** ([[M72.4]]), diffuse eosinophilic fasciitis (**[[M35.4]]**), and other/NOS fibroblastic disorders (**[[M72.8]] / [[M72.9]]**). It is commonly confused with **[[compartment syndrome]]**, which shares fascial involvement but is defined by elevated intracompartmental pressure rather than primary **[[inflammation]]**, and with **[[cellulitis]]**, which lacks fascial plane extension.
+>**[[Fasciitis]]** is **inflammation of the [[fascia]]** — the **dense fibrous connective tissue that surrounds and separates muscles, organs, nerves, and blood vessels throughout the body** — caused **by infectious organisms, repetitive mechanical stress, autoimmune processes, or idiopathic mechanisms**. It is distinguished from **[[myositis]]** (**inflammation of muscle itself**) and **[[cellulitis]]** (**infection confined to the dermis and superficial subcutaneous tissue**) by its primary involvement of the fascial layer, though these processes frequently overlap in severe or advanced disease. The underlying pathological mechanism varies by subtype: in **plantar fasciitis**, repetitive microtrauma at the calcaneal enthesis triggers a degenerative rather than purely inflammatory response (**hence some authors prefer the term *fasciosis***), while in **necrotizing fasciitis**, bacterial toxins and host inflammatory mediators drive rapid enzymatic destruction of fascial planes with associated vascular thrombosis and tissue **[[ischemia]]**. **Fasciitis** may be physiological (**transient post-exercise fascial strain**) or pathological, with clinically relevant subtypes including **plantar fascial fibromatosis** (**[[M72.2]]**), **[[necrotizing fasciitis]]** (**[[M72.6]]**), **nodular/pseudosarcomatous fasciitis** (**[[M72.4]]**), diffuse eosinophilic fasciitis (**[[M35.4]]**), and other/NOS fibroblastic disorders (**[[M72.8]] / [[M72.9]]**). It is commonly confused with **[[compartment syndrome]]**, which shares fascial involvement but is defined by elevated intracompartmental pressure rather than primary **[[inflammation]]**, and with **[[cellulitis]]**, which lacks fascial plane extension.
 
 _____
 
 >[!info]+ ETYMOLOGY of [[fasciitis]]
->#latin / #greek
+>#latin | #greek
 >
 >|Component|Origin|Meaning|
 >|---|---|---|
@@ -57,7 +58,7 @@ _____
 >
 > - **Fascial inflammation** _(broad lay/clinical synonym; used loosely across all subtypes)_
 > - **Fasciosis** _(preferred by some authors for plantar fasciitis, emphasizing degenerative rather than inflammatory pathology; not a distinct ICD-10-CM code — still indexed to [[M72.2]])_
-> - **Necrotizing fasciitis** _(life-threatening polymicrobial or monomicrobial soft tissue infection with rapid fascial plane destruction; [[M72.6]]; also called "flesh-eating disease" in lay contexts)_
+> - **[[fasciitis|Necrotizing fasciitis]]** _(life-threatening polymicrobial or monomicrobial soft tissue infection with rapid fascial plane destruction; [[M72.6]]; also called "flesh-eating disease" in lay contexts)_
 > - **Plantar fasciitis** _(overuse-related enthesopathy of the plantar fascia at the calcaneal insertion; most common form encountered in outpatient musculoskeletal coding; indexed to [[M72.2]])_
 > - **Heel pain syndrome** _(lay and clinical synonym for plantar fasciitis; coded under [[M72.2]] when plantar fascia is the confirmed etiology)_
 > - **Diffuse eosinophilic fasciitis** _(autoimmune/inflammatory subtype with peripheral eosinophilia, skin induration, and orange-peel texture; a variant of systemic connective tissue disease; [[M35.4]])_
