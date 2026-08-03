@@ -152,6 +152,10 @@ plugins:
       group: toolbar
       groupOptions:
         grow: true
+    fieldPriority:
+      - title
+      - content
+      - tags      
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
@@ -214,7 +218,7 @@ plugins:
     enabled: true
     options:
       title: "Recent Notes"
-      limit: 15
+      limit: 20
       showTags: false
       hideFolderPages: true
     layout:
