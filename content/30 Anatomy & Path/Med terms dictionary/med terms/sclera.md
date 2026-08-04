@@ -46,7 +46,7 @@ _____
 > 
 > | Term | Specialty | Meaning |
 > |---|---|---|
-> | **[[Sclerosis]]** | General/Neuro/Cardio | Hardening or stiffening of tissue   |
+> | **[[sclerosis]]** | General/Neuro/Cardio | Hardening or stiffening of tissue   |
 > | **[[Multiple sclerosis (MS)]]** | Neurology | Demyelinating disease causing sclerotic plaques  |
 > | **[[Scleroderma]]** | Rheumatology | Autoimmune hardening and thickening of skin  |
 > | **[[atherosclerosis]]** | Cardiology | Hardening/plaquing of arterial walls   |

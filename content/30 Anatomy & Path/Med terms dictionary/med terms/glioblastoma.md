@@ -60,7 +60,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Meningioma]]** — a typically benign [[tumor]] of the meningeal lining rather than glial tissue; distinguished from [[glioblastoma]] by its extra-axial (outside brain [[parenchyma]]) origin and slower growth.
+> - **[[meningioma]]** — a typically benign [[tumor]] of the meningeal lining rather than glial tissue; distinguished from [[glioblastoma]] by its extra-axial (outside brain [[parenchyma]]) origin and slower growth.
 > - **[[Glioma]]** — shares the *[[gli/o-]]* root; the general category of tumors arising from glial cells, of which glioblastoma is the highest-grade form.
 > - **[[Astrocytoma]]** — lower-grade precursor lesion (WHO Grade 2-3) that may progress to secondary glioblastoma; distinguished by lower mitotic activity and absence of necrosis.
 > - **Secondary malignant neoplasm of brain** — metastatic brain lesion from a distant primary cancer, overlapping in presentation (headache, seizure, focal deficit) but coded as [[C79.31]] with the primary site coded first.

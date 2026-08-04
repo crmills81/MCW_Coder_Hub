@@ -22,7 +22,7 @@ definition:
 >
 _____
 >[!info]+ ETYMOLOGY of [[-arium]]
->#latin Derived from the Latin neuter suffix **[[-arium]]**, which is the singular form of **[[-aria]]**. It is closely related to the suffix **[[-ary]]**, which also indicates a place or connection. From Latin **-arium** (neuter form of [[-arius]]), meaning "**place for**" or "**pertaining to**." The suffix derives from the Latin adjective-forming ending that creates nouns indicating location, container, or association.
+>#latin Derived from the Latin neuter suffix** [[-arium]]**, which is the singular form of **[[-aria]]**. It is closely related to the suffix **[[-ary]]**, which also indicates a place or connection. From Latin **-arium** (neuter form of [[-arius]]), meaning "**place for**" or "**pertaining to**." The suffix derives from the Latin adjective-forming ending that creates nouns indicating location, container, or association.
 _____
 >[!example]+ RELATED TERMS to [[-arium]]
 >

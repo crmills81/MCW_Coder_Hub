@@ -60,7 +60,7 @@ _____
 > 
 > To support a diagnosis of blepharitis in an operative or encounter report, look for:
 > 
-> - **Physical Findings:** [[Erythema]] (**redness**) of the lid margins, "scurf" or "collarettes" (crusting) at the base of the lashes, or plugging of the Meibomian glands.
+> - **Physical Findings:** [[erythema]] (**redness**) of the lid margins, "scurf" or "collarettes" (crusting) at the base of the lashes, or plugging of the Meibomian glands.
 >     
 > - **Patient Symptoms:** Foreign body sensation ("**grittiness**"), itching ([[pruritus]]), or burning of the eyes.
 >     

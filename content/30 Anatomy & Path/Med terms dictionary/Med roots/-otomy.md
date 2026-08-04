@@ -57,7 +57,7 @@ In coding, recognizing **-otomy** helps confirm that the procedure performed was
 - **[[Phlebotomy]]** - Incision into a vein (commonly for blood withdrawal)  
 
 ### **Neurosurgery**
-- **[[Craniotomy]]** - Opening the skull  
+- **[[craniotomy]]** - Opening the skull  
 
 ### **Obstetrics / Gynecology**
 - **[[Episiotomy]]** - Incision of the perineum during childbirth  

@@ -24,7 +24,7 @@ Without, lacking, or absence of.
 The prefixes **a-** and **an-** indicate the absence, lack, or complete loss of something. They are commonly used in medical terminology to describe conditions where a normal function, substance, or structure is missing.
 
 ## Etymology
-- Greek **a-/an-** → “**not, without**”; [[a-]] / [[an-]] — the Greek alpha privative, one of the oldest and most productive prefixes in medical terminology. Parallel to Latin [[in-]] (**also meaning "not/without"**). The suffix use derives from Latin and Greek nominative noun endings
+- Greek **a-/an-** → “**not, without**”; [[a-]] / [[an-]] — the Greek alpha privative, one of the oldest and most productive prefixes in medical terminology. Parallel to Latin [[in-]] (**also meaning "not/without"**). The suffix use derives from Latin and Greek nominative noun endings
 
 ## Related Terms
 | Term       | Meaning             |

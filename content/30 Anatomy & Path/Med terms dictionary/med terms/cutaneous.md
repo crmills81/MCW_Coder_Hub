@@ -130,7 +130,7 @@ _____
 > 2. **Dermis:** The [[vascular]] inner layer. Contains nerve endings, hair follicles, sweat glands, and collagen.
 > 
 > ### Common Cutaneous Manifestation
-> - **[[Erythema]]:** Redness of the skin (capillary dilation).
+> - **[[erythema]]:** Redness of the skin (capillary dilation).
 > - **[[Cyanosis]]:** Bluish discoloration (lack of oxygen).
 > - **[[Jaundice]]:** Yellowing of the skin (liver dysfunction).
 > - **[[Pallor]]:** Paleness (anemia or shock).

@@ -60,7 +60,7 @@ _____
 > - **[[Infection]]** — the invasion and multiplication of **microorganisms**; often the primary trigger for **inflammation**, but distinct from the host's response.
 > - **Anti-inflammatory** — the opposite or mitigating agent; a property of a substance or treatment that reduces **inflammation** or swelling (**e.g., NSAIDs, corticosteroids**).
 > - **[[Edema]]** — swelling caused by excess fluid trapped in the body's tissues; a direct result of the increased **[[vascular]]** permeability occurring during **inflammation**.
-> - **[[Erythema]]** — redness of the skin or mucous membranes; the visible result of inflammatory **[[vasodilation]]**.
+> - **[[erythema]]** — redness of the skin or mucous membranes; the visible result of inflammatory **[[vasodilation]]**.
 > - **Cytokines** — the molecular signaling proteins (**such as interleukins and TNF-alpha**) that mediate and regulate the inflammatory response.
 > - **[[Arthritis]]** — a broad disease entity defined by **inflammation** of one or more joints, causing pain and stiffness (**e.g., [[M19.90]]**).
 > - **Dermatitis** — a disease entity defined by **[[inflammation]]** of the skin, characterized by itchy, erythematous rashes (**e.g., [[L23.9]]**).

@@ -34,7 +34,7 @@ icd10cm:
   - M72.6
   - M72.2
   - M35.4
-definition: Inflammation of the fascia,the dense fibrous connective tissue sheath that envelops muscles,organs,nerves,and blood vessels,resulting from infectious,mechanical,autoimmune,or idiopathic etiologies and ranging in severity from self-limiting plantar irritation to life-threatening necrotizing infection
+definition: Inflammation of the fascia, the dense fibrous connective tissue sheath that envelops muscles, organs, nerves, and blood vessels, resulting from infectious, mechanical, autoimmune, or idiopathic etiologies and ranging in severity from self-limiting plantar irritation to life-threatening necrotizing infection
 ---
 
 >[!Note] DEFINITION of [[fasciitis]]
@@ -83,7 +83,7 @@ _____
 > - **Dupuytren's contracture** — palmar fascial fibromatosis with progressive flexion contracture of the fingers; coded [[M72.0]]; related via shared fascial fibroblast pathology but clinically distinct from fasciitis
 > - **Necrotizing soft tissue infection (NSTI)** — umbrella term encompassing necrotizing fasciitis, myonecrosis, and gas gangrene; M72.6 is the primary ICD-10-CM entry point for the fasciitis component
 > - **Fournier's [[gangrene]]** — necrotizing fasciitis of the perineum and external genitalia; a urological emergency with its own code ([[N49.3]] in males, [[N76.89]] in females) distinct from M72.6; coded separately from general necrotizing fasciitis
-> - **[[Fibromatosis]]** — a spectrum of fibroblastic proliferative disorders sharing the M72 category with fasciitis; ranges from benign (plantar, palmar) to locally aggressive forms
+> - **[[fibromatosis]]** — a spectrum of fibroblastic proliferative disorders sharing the M72 category with fasciitis; ranges from benign (plantar, palmar) to locally aggressive forms
 > - **MRI soft tissue** — preferred imaging modality for evaluating fascial plane involvement, fluid tracking, and distinguishing superficial from deep infection prior to surgical planning
 
 _____

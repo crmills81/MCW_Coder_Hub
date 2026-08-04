@@ -65,7 +65,7 @@ _____
 > - **[[M72.5]] [[Fasciitis]], not elsewhere classified** — [[inflammation]] of [[fascia]]; may precede or coexist with the fibrotic changes that prompt fasciectomy
 > - **[[M72.6]] Necrotizing fasciitis** — a rapidly progressive infectious/inflammatory destruction of fascia requiring emergent fasciotomy and [[debridement]], not elective [[fasciectomy]]; distinguish carefully in documentation
 > - **[[Contracture]]** — the mechanism term describing the functional joint deformity fasciectomy aims to correct, driven by progressive fascial shortening and [[fibrosis]]
-> - **[[Fibromatosis]]** — the underlying pathologic process of benign fibrous tissue proliferation that produces the cords and nodules excised during fasciectomy
+> - **[[fibromatosis]]** — the underlying pathologic process of benign fibrous tissue proliferation that produces the cords and nodules excised during fasciectomy
 > - **[[M72.0]] Palmar fascial fibromatosis [Dupuytren]** — the classic disease entity treated with palmar fasciectomy; presents as flexion contracture of the ring/small fingers
 > - **[[M72.2]] Plantar fascial fibromatosis** — Ledderhose disease; the plantar counterpart to Dupuytren contracture, treated with plantar fasciectomy
 > - **[[M72.4]] Pseudosarcomatous fibromatosis** — a rapidly proliferating fibrous lesion that can mimic malignancy and may require excisional biopsy/[[fasciectomy]] for diagnosis
