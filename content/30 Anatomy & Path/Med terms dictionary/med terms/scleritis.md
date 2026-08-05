@@ -18,8 +18,7 @@ forms:
   - suffix
   - combining
 alphabet: S
-definition:
-  - a serious painful inflammatory condition of the sclera
+definition: a serious painful inflammatory condition of the sclera
 ---
 >[!Note] DEFINITION of [[scleritis]]
 >**Scleritis** is **a [[granulomatous]] or non-granulomatous inflammation involving the full thickness of the scleral tissue, which comprises the outer 5/6 of the fibrous tunic of the eye**. Unlike the more superficial and benign [[episcleritis]], scleritis involves the deep scleral vasculature and [[stroma]], producing intense [[ocular]] pain that characteristically worsens with eye movement and may radiate to the [[periorbital]] **region, temple, or jaw**. The condition is characterized by deep, violaceous (**bluish-red**) injection of the **scleral and episcleral vessels** that does not blanch with **topical phenylephrine** — a key clinical distinguishing feature from episcleritis. **Scleritis** is classified anatomically as anterior (**the most common, involving the anterior sclera) or posterior (involving the sclera behind the equator of the [[globe]]**). Anterior scleritis is further subdivided into diffuse, nodular, necrotizing with inflammation, and necrotizing without inflammation (**[[scleromalacia]] perforans**). The necrotizing forms carry the most serious prognosis, with risk of globe perforation. Approximately 50% of cases are associated with a systemic condition, most commonly rheumatoid arthritis, [[granulomatosis]] with [[polyangiitis]] (**formerly Wegener's**), [[systemic lupus erythematosus (SLE)]], relapsing [[polychondritis]], inflammatory bowel disease, and reactive arthritis. Infectious etiologies (**herpetic, tuberculous, syphilitic, fungal**) must also be considered, particularly in cases refractory to standard therapy.

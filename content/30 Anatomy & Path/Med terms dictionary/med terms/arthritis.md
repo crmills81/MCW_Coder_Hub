@@ -4,6 +4,7 @@ tags:
   - musculoskeletal
   - rheumatology
   - M00-M25
+  - pmr
 aliases:
   - Arthritis
   - Arthritic

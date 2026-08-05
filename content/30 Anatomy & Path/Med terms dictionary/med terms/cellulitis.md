@@ -27,7 +27,7 @@ definition: bacterial skin infection
 >- **Erysipelas:** A specific subtype of superficial cellulitis involving the upper dermis and superficial lymphatics. It is distinguished clinically by **well-demarcated, raised borders** (**unlike the indistinct borders of cellulitis**) and is almost exclusively caused by Group A *Streptococcus*.
 >- **[[lymphangitis]]:** Inflammation of the lymphatic vessels, often serving as a visible "*red streak*" tracking proximally from the infection site toward regional lymph nodes. This is a sign of worsening infection.
 >- **[[Phlegmon]]:** An archaic but descriptively useful term for spreading diffuse inflammation of soft or connective tissue that may lead to ulceration or [[abscess]] formation.
->- **[[Necrotizing Fasciitis]]:** A severe, life-threatening infection ("**flesh-eating disease**") that extends deeper than cellulitis into the [[fascia]]. **Red flags** distinguishing this from cellulitis include pain out of proportion to exam findings, rapid progression, and crepitus (gas under the skin).
+>- **[[necrotizing fasciitis]]:** A severe, life-threatening infection ("**flesh-eating disease**") that extends deeper than cellulitis into the [[fascia]]. **Red flags** distinguishing this from cellulitis include pain out of proportion to exam findings, rapid progression, and crepitus (gas under the skin).
 
 _____
 >[!info]+ ETYMOLOGY of [[cellulitis]]

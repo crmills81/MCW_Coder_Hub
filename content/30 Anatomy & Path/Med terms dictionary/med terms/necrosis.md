@@ -69,7 +69,7 @@ _____
 > - **[[infarction]]** — localized necrosis caused specifically by ischemia (vascular [[occlusion]]); coagulative necrosis is the hallmark; myocardial infarction and cerebral infarction are the most common coding encounters
 > - **[[Ischemia]]** — the underlying mechanism driving most coagulative necrosis; [[reduction]] or cessation of blood flow that deprives tissue of oxygen and nutrients, leading to ATP depletion and cell death
 > - **[[Osteonecrosis]]|Avascular necrosis (AVN)** — bone-specific necrosis due to disrupted vascular supply; risk factors include corticosteroid use, alcohol, sickle cell disease, trauma; ICD-10-CM codes: M87.0x-[[M87.9]]
-> - **[[Necrotizing fasciitis]]** — rapidly spreading polymicrobial or monomicrobial necrosis of the fascia and subcutaneous tissue; surgical emergency requiring wide debridement; [[M72.6]]
+> - **[[necrotizing fasciitis]]** — rapidly spreading polymicrobial or monomicrobial necrosis of the fascia and subcutaneous tissue; surgical emergency requiring wide debridement; [[M72.6]]
 > - **[[Necrobiosis]]** — a milder, partial, or slow form of cell death without full tissue destruction; seen in necrobiosis lipoidica (diabetic skin condition) — [[L92.1]]
 > - **Caseous necrosis** — histological pattern pathognomonic of granulomatous disease, especially tuberculosis; central to TB diagnosis at histopathology
 > - **Fibrinoid necrosis** — necrosis of vessel walls with deposition of fibrin and immune complexes; hallmark of malignant hypertension, lupus vasculitis, polyarteritis nodosa

@@ -1,6 +1,7 @@
 ---
 tags:
   - medterm
+  - urology
 aliases:
   - Nephritis
   - Kidney inflammation

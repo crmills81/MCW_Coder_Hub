@@ -58,7 +58,7 @@ definition:
 > |**Mortification**|Archaic clinical term — still occasionally used; from Latin "death of tissue"|
 > |**Sphacelus**|Historical Greek-derived synonym; obsolete in modern usage|
 > |**Ischemic limb necrosis**|Descriptive clinical term — maps to I70.26x ([[atherosclerosis]] with ** gangrene**) or I96|
-> |**[[Necrotizing fasciitis]]**|Overlapping but distinct — infection of fascial planes; **[[M72.6]]**; Fournier is a subtype|
+> |**[[necrotizing fasciitis]]**|Overlapping but distinct — infection of fascial planes; **[[M72.6]]**; Fournier is a subtype|
 > 
 
 ---
@@ -71,7 +71,7 @@ definition:
 > - **[[Atherosclerosis]]** — most common cause of dry ** gangrene** in adults; I70.26x (with ** gangrene**, laterality required)
 > - **Peripheral arterial disease (PAD)** — chronic arterial insufficiency; final stage = critical limb ischemia → ** gangrene**
 > - **[[Diabetes mellitus]]** — major risk factor; diabetic peripheral angiopathy with ** gangrene**: **[[E10.52]]** (T1DM), **[[E11.52]]** (T2DM)
-> - **[[Necrotizing fasciitis]]** — deep soft tissue infection spreading along fascial planes; **[[M72.6]]**; often precedes or accompanies wet ** gangrene**
+> - **[[necrotizing fasciitis]]** — deep soft tissue infection spreading along fascial planes; **[[M72.6]]**; often precedes or accompanies wet ** gangrene**
 > - **[[Sepsis]]** — systemic consequence of wet or gas ** gangrene**; code additionally (A41.x)
 > - **[[Amputation]]** — definitive surgical treatment for limb ** gangrene**; CPT [[27882]]-[[27899]] (lower extremity), [[24900]]-[[24931]] (upper extremity)
 > - **[[Debridement]]** — surgical removal of necrotic tissue; CPT [[11042]]-[[11047]] (skin/[[subcutaneous]]/muscle/bone); staged for non-healing wounds

@@ -68,7 +68,7 @@ _____
 > - **Plasma Cell Leukemia** — shares the *[[myelo-]]* and plasma cell lineage; a leukemic variant of myeloma with >20% circulating plasma cells; coded [[C90.10]]-[[C90.12]]; more aggressive prognosis than classic MM
 > - **Waldenström Macroglobulinemia** — closely related plasma cell neoplasm producing IgM paraprotein; arises from lymphoplasmacytic lymphoma (C88.0); distinguished from myeloma by absence of lytic bone lesions and CRAB criteria
 > - **MGUS** — Monoclonal Gammopathy of Undetermined Significance; precursor/pre-malignant plasma cell proliferation without end-organ damage; coded [[D47.2]]; annual progression risk to myeloma ~1%
-> - **[[Hypercalcemia]]** — cardinal CRAB feature of myeloma caused by osteoclast-mediated bone resorption; code additionally with [[E83.52]] (Hypercalcemia) when documented
+> - **[[hypercalcemia]]** — cardinal CRAB feature of myeloma caused by osteoclast-mediated bone resorption; code additionally with [[E83.52]] (Hypercalcemia) when documented
 > - **[[Osteolysis]]** — mechanism of bone destruction in myeloma; myeloma cells stimulate osteoclasts via RANK-L pathway, causing punched-out lytic lesions on skeletal survey
 > - **[[Amyloidosis]]** — complication of myeloma where misfolded immunoglobulin light chains deposit in tissues; systemic AL amyloidosis (E85.81) is a distinct but commonly co-occurring diagnosis
 > - **[[Myelofibrosis]]** — shares the *[[myelo-]]* root; a distinct myeloproliferative neoplasm (D47.4) involving bone marrow fibrosis — NOT a form of myeloma, but can be confused on marrow biopsy
