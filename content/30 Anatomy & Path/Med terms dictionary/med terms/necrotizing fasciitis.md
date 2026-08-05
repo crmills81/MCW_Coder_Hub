@@ -57,59 +57,59 @@ _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 > 
-> **Necrotizing** - (adjective form — "necrotizing fasciitis," "necrotizing soft tissue infection," "necrotizing wound infection")
+> - **Necrotizing** - (adjective form — "necrotizing fasciitis," "necrotizing soft tissue infection," "necrotizing wound infection")
 > 
-> **Flesh-eating disease** - (lay and public term; emergency and media context)
+> - **Flesh-eating disease** - (lay and public term; emergency and media context)
 > 
-> **Necrotizing soft tissue infection** - (clinical umbrella term; includes necrotizing fasciitis and related deep tissue infections; often coded under [[M72.6]])
+> - **Necrotizing soft tissue infection** - (clinical umbrella term; includes necrotizing fasciitis and related deep tissue infections; often coded under [[M72.6]])
 > 
-> **Synergistic gangrene** - (polymicrobial necrotizing infection of skin and fascia)
+> - **Synergistic gangrene** - (polymicrobial necrotizing infection of skin and fascia)
 > 
-> **Hemolytic streptococcal gangrene** - (historical term for rapidly spreading streptococcal necrotizing infection)
+> - **Hemolytic streptococcal gangrene** - (historical term for rapidly spreading streptococcal necrotizing infection)
 > 
-> **Meleney gangrene** - (progressive bacterial synergistic gangrene, classically postoperative)
+> - **Meleney gangrene** - (progressive bacterial synergistic gangrene, classically postoperative)
 > 
-> **Fournier gangren**e - (perineal/genital necrotizing fasciitis; follow index to [[N76.0]] when documented as Fournier gangrene)
+> - **Fournier gangren**e - (perineal/genital necrotizing fasciitis; follow index to [[N76.0]] when documented as Fournier gangrene)
 > 
-> **Type I polymicrobial necrotizing fasciitis** - (mixed aerobic and anaerobic infection; [[M72.6]] with organism codes)
+> - **Type I polymicrobial necrotizing fasciitis** - (mixed aerobic and anaerobic infection; [[M72.6]] with organism codes)
 > 
-> **Type II monomicrobial necrotizing fasciitis** - (often group A Streptococcus; [[M72.6]] with [[B95.0]])
+> - **Type II monomicrobial necrotizing fasciitis** - (often group A Streptococcus; [[M72.6]] with [[B95.0]])
 > 
-> **Marine necrotizing fasciitis** - (often associated with saltwater exposure and Vibrio species; [[M72.6]] with [[B96.89]])
+> - **Marine necrotizing fasciitis** - (often associated with saltwater exposure and Vibrio species; [[M72.6]] with [[B96.89]])
 > 
-> **Upper-extremity necrotizing fasciitis** - (arm, forearm, or hand involvement; [[M72.6]])
+> - **Upper-extremity necrotizing fasciitis** - (arm, forearm, or hand involvement; [[M72.6]])
 > 
-> **Lower-extremity necrotizing fasciitis** - (leg or foot involvement; [[M72.6]])
+> - **Lower-extremity necrotizing fasciitis** - (leg or foot involvement; [[M72.6]])
 > 
-> **Truncal necrotizing fasciitis** - (chest or abdominal wall involvement; [[M72.6]])
+> - **Truncal necrotizing fasciitis** - (chest or abdominal wall involvement; [[M72.6]])
 
 _____
 
 
 > [!danger]+ ### 🔗 RELATED TERMS
-> **[[cellulitis]]** — a more superficial infection of skin and dermis without the fascial [[necrosis]] and systemic [[toxicity]] that define [[necrotizing fasciitis]].
+> - **[[cellulitis]]** — a more superficial infection of skin and dermis without the fascial [[necrosis]] and systemic [[toxicity]] that define [[necrotizing fasciitis]].
 > 
-> **[[fasciitis]]** — [[inflammation]] of fascia that may be infectious or noninfectious but does not necessarily include necrosis.
+> - **[[fasciitis]]** — [[inflammation]] of fascia that may be infectious or noninfectious but does not necessarily include necrosis.
 > 
-> **gas gangrene** — clostridial [[myonecrosis]] with gas in tissue; coded as **[[A48.0]]** rather than **[[M72.6]]** when documented as gas gangrene.
+> - **gas gangrene** — clostridial [[myonecrosis]] with gas in tissue; coded as **[[A48.0]]** rather than **[[M72.6]]** when documented as gas gangrene.
 > 
-> **[[pyomyositis]]** — purulent infection primarily within skeletal muscle, often coded as **[[M60.009]]** when site is unspecified; differs because the primary compartment is muscle rather than fascia.
+> - **[[pyomyositis]]** — purulent infection primarily within skeletal muscle, often coded as **[[M60.009]]** when site is unspecified; differs because the primary compartment is muscle rather than fascia.
 > 
-> **[[sepsis]]** — systemic response to infection; may accompany necrotizing fasciitis and is coded with underlying infection codes such as **[[A40.0]]** or **[[A41.9]]** and severe sepsis codes **[[R65.20]]** or **[[R65.21]]** when present.
+> - **[[sepsis]]** — systemic response to infection; may accompany necrotizing fasciitis and is coded with underlying infection codes such as **[[A40.0]]** or **[[A41.9]]** and severe sepsis codes **[[R65.20]]** or **[[R65.21]]** when present.
 > 
-> **[[myonecrosis]]**— death of muscle tissue that can occur adjacent to necrotizing fasciitis but is not the primary diagnostic feature.
+> - **[[myonecrosis]]**— death of muscle tissue that can occur adjacent to necrotizing fasciitis but is not the primary diagnostic feature.
 > 
-> **[[thrombosis]]** — microvascular clotting that contributes to ischemic necrosis in necrotizing fasciitis.
+> - **[[thrombosis]]** — microvascular clotting that contributes to ischemic necrosis in necrotizing fasciitis.
 > 
-> **liquefactive necrosis** — the tissue-death pattern produced by bacterial enzymes and [[ischemia]].
+> - **liquefactive necrosis** — the tissue-death pattern produced by bacterial enzymes and [[ischemia]].
 > 
-> **[[Fournier gangrene]]** — perineal necrotizing fasciitis; coded as **[[N76.0]]** when indexed as Fournier gangrene.
+> - **[[Fournier gangrene]]** — perineal necrotizing fasciitis; coded as **[[N76.0]]** when indexed as Fournier gangrene.
 > 
-> **toxic shock syndrome** — toxin-mediated systemic syndrome that may accompany streptococcal necrotizing fasciitis; coded as **[[A48.3]]** with organism code as directed.
+> - **toxic shock syndrome** — toxin-mediated systemic syndrome that may accompany streptococcal necrotizing fasciitis; coded as **[[A48.3]]** with organism code as directed.
 > 
-> **wound culture** — key microbiologic diagnostic test for identifying aerobic and anaerobic pathogens; commonly reported with **[[87070]]** and **[[87075]]**.
+> -  **wound culture** — key microbiologic diagnostic test for identifying aerobic and anaerobic pathogens; commonly reported with **[[87070]]** and **[[87075]]**.
 > 
-> **blood culture** — systemic infection evaluation commonly reported with **[[87040]]**.
+> - **blood culture** — systemic infection evaluation commonly reported with **[[87040]]**.
 
 _____
 
