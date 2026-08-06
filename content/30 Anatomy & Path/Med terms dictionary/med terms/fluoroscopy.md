@@ -1,7 +1,6 @@
 ---
 tags:
   - medterm
-  - medroot
   - radiology
   - ophthalmology
 aliases:

@@ -67,7 +67,7 @@ _____
 > - **[[Nasal polyps]]** — benign mucosal growths arising from chronic inflammation; commonly associated with chronic rhinosinusitis, particularly CRSwNP ([[J33.0]]-[[J33.9]])
 > - **[[Deviated septum]]** — asymmetric nasal septum that may obstruct sinus ostia and predispose to unilateral sinusitis ([[J34.2]])
 > - **[[Mucocele]]** — mucus-filled cyst from obstructed sinus ostium; complication of chronic sinusitis; may cause bony expansion
-> - **[[Empyema]]** — in sinus context, purulent collection within a sinus cavity; more severe than simple acute sinusitis
+> - **[[empyema]]** — in sinus context, purulent collection within a sinus cavity; more severe than simple acute sinusitis
 > - **[[Osteomyelitis]]** — infection of bone; complication of frontal sinusitis (Pott's puffy tumor) or other severe sinusitis (M86.x)
 > - **Orbital cellulitis** — infection of orbital tissues; serious complication of ethmoidal sinusitis; medical emergency (H05.01x)
 > - **Cavernous sinus thrombosis** — thrombophlebitis of cavernous sinus; life-threatening complication of sphenoid or ethmoid sinusitis

@@ -1,7 +1,6 @@
 ---
 tags:
   - medterm
-  - medroot
   - urology
   - specialty/urology
 aliases:

@@ -64,7 +64,7 @@ _____
 >     
 > - **[[Glomerulonephritis]]:** Inflammation of the kidney's filtering units (glomeruli). This is typically an immune-mediated process (e.g., post-streptococcal) rather than a direct, acute bacterial invasion like colinephritis.
 >     
-> - **[[Bacteriuria]]:** The simple presence of bacteria in the urine, which can be asymptomatic and does not inherently imply kidney inflammation.
+> - **[[bacteriuria]]:** The simple presence of bacteria in the urine, which can be asymptomatic and does not inherently imply kidney inflammation.
 >     
 > - **[[Hydronephrosis]]:** Swelling of a kidney due to a build-up of urine (often from an obstruction like a stone). While it can predispose a patient to colinephritis by causing urinary stasis, it is a structural issue, not an infectious one.
 > 

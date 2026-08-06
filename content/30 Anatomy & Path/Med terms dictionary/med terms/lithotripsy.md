@@ -72,7 +72,7 @@ _____
 > - **[[stone|Choledocholithiasis]]** — presence of a calculus within the common bile duct; treated by ERCP mechanical [[lithotripsy]]; [[K80.50]], [[K80.51]]
 > - **[[stone|Cholelithiasis]]** — presence of gallstones within the gallbladder; may coexist with choledocholithiasis requiring ERCP [[lithotripsy]]
 > - **Calcified atherosclerotic plaque** — vascular entity treated by intravascular [[lithotripsy]]; e.g., [[I25.84]], [[I70.211]]
-> - **[[Lithotomy]]** — surgical incision and manual removal of an intact stone; contrasted with [[lithotripsy]]'s in-situ fragmentation approach
+> - **[[lithotomy]]** — surgical incision and manual removal of an intact stone; contrasted with [[lithotripsy]]'s in-situ fragmentation approach
 > - **Diagnostic ultrasonography/CT urography** — primary imaging tools used to localize and size a calculus prior to [[lithotripsy]]
 
 _____

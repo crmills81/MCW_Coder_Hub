@@ -59,7 +59,7 @@ _____
 > - **Starvation (fasting) ketoacidosis** _(etiologic subtype — prolonged caloric deprivation; usually mild)_
 > - **Euglycemic DKA** _(subtype — DKA with near-normal glucose; increasingly seen with SGLT2 inhibitors; easily missed)_
 > - **[[Ketosis]]** _(related but distinct — mild ketone elevation WITHOUT acidosis; benign, e.g., ketogenic diet/fasting; do not code as ketoacidosis)_
-> - **[[Ketonuria]] / [[ketonemia]]** _(laboratory findings — ketones in urine/blood; markers of, but not synonymous with, ketoacidosis)_
+> - **[[ketonuria]] / [[ketonemia]]** _(laboratory findings — ketones in urine/blood; markers of, but not synonymous with, ketoacidosis)_
 > - **[[Metabolic acidosis]]** _(the broader category of which ketoacidosis is a high-anion-gap subtype)_
 > - **DKA with coma** _(severity subtype — coded distinctly with the diabetes combination code's "with coma" variant)_
 

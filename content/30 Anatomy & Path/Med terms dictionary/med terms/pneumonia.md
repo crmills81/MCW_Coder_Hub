@@ -58,7 +58,7 @@ _____
 > - **Consolidation** — radiographic and pathologic filling of alveolar airspaces with exudate; hallmark finding in pneumonia
 > - **[[Pleuritis]] / Pleurisy** — inflammation of the pleural lining; common complication of pneumonia causing pleuritic chest pain
 > - **Parapneumonic effusion** — pleural effusion developing adjacent to a pneumonia; ranges from simple (exudate) to empyema
-> - **[[Empyema]]** — purulent infection of the pleural space; severe complication requiring drainage; coded separately as [[J86.0]] (with fistula) or [[J86.9]] (without)
+> - **[[empyema]]** — purulent infection of the pleural space; severe complication requiring drainage; coded separately as [[J86.0]] (with fistula) or [[J86.9]] (without)
 > - **Lung abscess** — necrotic cavity in lung parenchyma; complication of severe/necrotizing pneumonia; coded [[J85.1]] (**with pneumonia**)
 > - **[[Sepsis]]** — life-threatening organ dysfunction from dysregulated host response; pneumonia is the most common sepsis source
 > - **[[Respiratory failure]]** — impaired oxygenation/ventilation requiring supplemental O2 or mechanical ventilation; code additionally

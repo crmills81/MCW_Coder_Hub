@@ -1,6 +1,7 @@
 ---
 tags:
   - medterm
+  - urology
 aliases:
   - UTI
 roots:
@@ -14,8 +15,7 @@ forms:
   - combining
   - noun
 alphabet: U
-definition:
-  - infection of the urinary tract
+definition: infection of the urinary tract
 ---
 >[!Note] DEFINITION of [[urinary tract infection (UTI)]]
 >**A UTI typically causes urinary symptoms such as burning with urination, frequent urination/urgency, and sometimes cloudy or bloody urine**.  If the infection moves upward, it can involve the kidneys (kidney infection), which is more serious and can cause systemic symptoms like fever, chills, nausea/vomiting, and flank/back pain. 

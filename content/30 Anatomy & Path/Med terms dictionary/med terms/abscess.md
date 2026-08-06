@@ -52,7 +52,7 @@ _____
 > 
 > - **[[Pustule]]:** A small blister or pimple on the skin containing pus.
 > 
-> - **[[Empyema]]:** A collection of pus in a naturally existing anatomical cavity (e.g., the pleural space), distinct from an abscess which creates a new cavity.
+> - **[[empyema]]:** A collection of pus in a naturally existing anatomical cavity (e.g., the pleural space), distinct from an abscess which creates a new cavity.
 > 
 > - **[[cyst]]:** A sac-like pocket of membranous tissue (often confused with abscess, but a cyst is not necessarily infected/filled with pus unless it becomes an "infected cyst").
 >     

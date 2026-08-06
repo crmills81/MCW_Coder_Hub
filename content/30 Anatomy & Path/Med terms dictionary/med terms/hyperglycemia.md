@@ -1,7 +1,6 @@
 ---
 tags:
   - medterm
-  - medroot
   - endocrine
 aliases:
   - high blood sugar

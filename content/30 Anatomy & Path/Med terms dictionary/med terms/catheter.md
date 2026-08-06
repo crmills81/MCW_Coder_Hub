@@ -1,7 +1,8 @@
 ---
 tags:
   - medterm
-  - medroot
+  - urology
+  - cardiology
 aliases:
   - cath
   - catheters
@@ -25,8 +26,7 @@ forms:
   - combining
   - noun
 alphabet: C
-definition:
-  - a medical tube (soft/flexible or rigid) inserted into vessels, cavities, ducts, or organs
+definition: a medical tube (soft/flexible or rigid) inserted into vessels, cavities, ducts, or organs
 ---
 >[!Note] DEFINITION of [[catheter]]
 >A [[catheter]] is **a thin, flexible tube inserted into the body to drain fluids, deliver medications, measure pressures, or perform interventions**. A **catheter** is a thin tube made of medical‑grade materials (**latex, silicone, polyurethane, Teflon**) serving functions like urinary drainage (**Foley**), [[vascular]] access (**IV/central lines**), cardiac angiography/[[hemodynamics]] (diagnostic/PCI), [[gastrointestinal]] decompression (**NG tube**), or specialized uses (e.g., pigtail for [[abscess]]/[[pneumothorax]] drainage, Cobra/Sidewinder for angiography). Types vary by stiffness, tip (**straight/Cou dé**), coatings ([[hydrophilic]]/silicone), and indwelling status (**temporary/permanent**); inserted via natural orifices, [[percutaneous]] sites, or surgically, with risks including infection (CAUTI/ CLABSI), [[thrombosis]], [[embolism]], and trauma. **A catheter** is a **thin, flexible tube** inserted into the body to drain fluids, deliver medications, measure pressures, or perform interventions.

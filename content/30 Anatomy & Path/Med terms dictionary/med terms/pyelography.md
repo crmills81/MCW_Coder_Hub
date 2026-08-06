@@ -1,7 +1,6 @@
 ---
 tags:
   - medterm
-  - medroot
   - urology
   - specialty/urology
 aliases:
@@ -19,8 +18,7 @@ forms:
   - combining
   - noun
 alphabet: P
-definition:
-  - X-ray visualization of the kidneys’ renal pelvis and ureters
+definition: X-ray visualization of the kidneys’ renal pelvis and ureters
 ---
 >[!Note] DEFINITION of [[pyelography]]
 >[[pyelography]] is **radiographic imaging of the renal pelvis, [[ureter]]s, and urinary tract using injected contrast dye.** [[pyelography]] encompasses techniques to **opacify the upper urinary tract (renal pelvis, calyces, ureters) for fluoroscopic/radiographic assessment of anatomy, function, obstructions, stones, or tumors**; primary types include [[intravenous]] [[pyelogram]] (IVP: systemic contrast excretion), retrograde [[pyelogram]] (cystoscopic [[ureteral catheter]] injection), and antegrade pyelogram ([[percutaneous nephrostomy]] injection).
