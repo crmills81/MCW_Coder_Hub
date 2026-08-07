@@ -57,7 +57,7 @@ _____
 > - **[[Analgesia]]** — absence of pain; opposite state of **myalgia**.
 > - **[[neuralgia]]** — pain in the distribution of a nerve; distinguished from **myalgia** by its neuropathic, often electrical quality.
 > - **[[Arthralgia]]** — joint pain; differentiated by location over the joint line and findings on articular examination.
-> - **[[Myositis]]** — **[[inflammation]]** of muscle tissue, typically with elevated creatine kinase (CK) and objective weakness; pain may be a feature.
+> - **[[myositis]]** — **[[inflammation]]** of muscle tissue, typically with elevated creatine kinase (CK) and objective weakness; pain may be a feature.
 > - **[[Fibromyalgia]]** — chronic widespread pain syndrome with central sensitization, fatigue, and tender points; coded **[[M79.7]]**.
 > - **Myalgic encephalomyelitis / chronic fatigue syndrome (ME/CFS)** — multisystem illness with post‑exertional **malaise** and prominent **myalgia**; **ICD‑10‑CM [[G93.3]]**.
 > - **[[Myopathy]]** — primary muscle disease, often genetic or toxic; pain is variable; multiple **ICD‑10‑CM codes** under G71‑G72.

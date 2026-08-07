@@ -77,7 +77,7 @@ _____
 > - **[[fasciotomy]]** — surgical incision of the fascia to decompress a compartment or drain infection; primary surgical intervention in compartment syndrome and often required in necrotizing fasciitis
 > - **[[fasciectomy]]** — surgical excision of fascia or fascial fibromatosis; used in Dupuytren's contracture (palmar fascial fibromatosis, [[M72.0]]) and recalcitrant plantar fasciitis
 > - **[[Cellulitis]]** — superficial dermal/subcutaneous infection that may be clinically indistinguishable from early necrotizing fasciitis; key distinction is fascial plane involvement confirmed by imaging or surgical exploration
-> - **[[Myositis]]** — inflammation of muscle tissue; may coexist with fasciitis in pyomyositis or necrotizing soft tissue infection, but the primary inflammatory target differs
+> - **[[myositis]]** — inflammation of muscle tissue; may coexist with fasciitis in pyomyositis or necrotizing soft tissue infection, but the primary inflammatory target differs
 > - **Compartment syndrome** — elevated intracompartmental pressure causing ischemic injury; shares fascial anatomy with fasciitis and is treated with the same fasciotomy procedure, but is mechanically (not inflammatorily) driven
 > - **[[Enthesopathy]]** — pathology at the site where tendon or fascia inserts into bone; plantar fasciitis is the classic enthesopathy of the calcaneal insertion
 > - **Dupuytren's contracture** — palmar fascial fibromatosis with progressive flexion contracture of the fingers; coded [[M72.0]]; related via shared fascial fibroblast pathology but clinically distinct from fasciitis

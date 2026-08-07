@@ -67,7 +67,7 @@ _____
 > - **Proliferative vitreoretinopathy (PVR)** — a complication of retinal detachment where cellular proliferation on both sides of the retina and in the vitreous cavity creates contractile membranes, leading to redetachment and requiring complex surgical intervention.
 > - **[[Macular hole]]** — a full-thickness defect in the foveal center of the macula; while it involves retinal tissue loss and fluid changes, it is a localized defect rather than a broad separation of the retina from the RPE.
 > - **Choroidal effusion** — accumulation of fluid in the suprachoroidal space (between the choroid and sclera); distinguished from retinal detachment by its dome-shaped appearance on ultrasound and different anatomic location.
-> - **[[Pars plana vitrectomy]] (PPV)** — the primary surgical technique used to repair retinal detachments, involving the removal of the vitreous gel and tractional forces.
+> - **[[pars plana vitrectomy]] (PPV)** — the primary surgical technique used to repair retinal detachments, involving the removal of the vitreous gel and tractional forces.
 > - **Scleral buckle** — an extraocular surgical procedure involving the suturing of a silicone band around the sclera to indent the eye wall and close retinal breaks.
 > - **Pneumatic retinopexy** — an in-office or minor surgical procedure using an intravitreal gas bubble and laser/cryotherapy to reattach the retina, suitable only for specific superior retinal breaks.
 > - **Lattice degeneration** — a peripheral retinal thinning and vitreoretinal traction condition that predisposes the eye to retinal tears and subsequent rhegmatogenous detachment.

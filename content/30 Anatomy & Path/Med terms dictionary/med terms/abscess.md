@@ -136,7 +136,7 @@ ______
 > 
 > 1. Bacteria enter tissue (break in skin or via blood).
 > 2. Inflammatory response is triggered.
-> 3. [[Neutrophils]] die after engulfing bacteria, releasing enzymes that digest tissue.
+> 3. [[neutrophils]] die after engulfing bacteria, releasing enzymes that digest tissue.
 > 4. Liquefaction [[necrosis]] occurs (formation of pus).
 > 5. [[Fibroblasts]] form a wall (capsule) around the pus to contain it.
 > 

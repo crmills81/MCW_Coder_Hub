@@ -65,7 +65,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 >
-> - **[[Osteitis]]** — localized bone inflammation *without* marrow involvement; coded **[[M27.2]]** (**jaw**) or within **[[M86.9]]** when NOS; key distinction: **osteomyelitis** = marrow involvement, **osteitis** = cortical/periosteal only
+> - **[[osteitis]]** — localized bone inflammation *without* marrow involvement; coded **[[M27.2]]** (**jaw**) or within **[[M86.9]]** when NOS; key distinction: **osteomyelitis** = marrow involvement, **osteitis** = cortical/periosteal only
 > - **[[Sequestrum]]** — dead, avascular bone fragment that forms within chronic **osteomyelitis**; appears as a dense, separated fragment on X-ray/CT; surgical removal is called **[[sequestrectomy]]**
 > - **[[Involucrum]]** — reactive sheath of new periosteal bone that forms around the sequestrum in chronic **osteomyelitis**; represents the body's attempt to wall off dead bone
 > - **Brodie abscess** — a localized, walled-off subacute bone **[[abscess]]** form of **osteomyelitis** (usually *S. aureus*); presents as a lucent lesion with sclerotic margins on imaging; coded M86.2x
