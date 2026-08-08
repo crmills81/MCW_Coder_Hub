@@ -79,7 +79,7 @@ _____
 ## Related Terms
 
 - **[[Nephrolithiasis]]:** Kidney stones (presence).  
-- **[[Pyelolithotomy]]:** Incision into renal pelvis (subset).  
+- **[[pyelolithotomy]]:** Incision into renal pelvis (subset).  
 - **ESWL:** Extracorporeal shock wave [[lithotripsy]] (non-[[invasive]]).  
 - **[[ureteroscopy]] (URS):** Endoscopic for lower stones.  
 - **Staghorn Calculi:** Branching [[struvite]] stones ([[50081]]).  

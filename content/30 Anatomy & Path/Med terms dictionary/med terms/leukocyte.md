@@ -55,7 +55,7 @@ _____
 > - **[[Leukopenia]]** — abnormally decreased leukocyte count; coded under D72.81-
 > - **[[Neutropenia]]** — specific depletion of the neutrophil subtype of leukocyte; coded under D70
 > - **[[Leukemia]]** — malignant clonal proliferation of leukocyte precursors in the bone marrow, distinguished from reactive leukocytosis by clonality and blast presence
-> - **[[Pyuria]]** — the presence of leukocytes in urine, typically indicating urinary tract infection or inflammation; coded as **[[R82.81]]**
+> - **[[pyuria]]** — the presence of leukocytes in urine, typically indicating urinary tract infection or inflammation; coded as **[[R82.81]]**
 > - **Leukocyte esterase** — an enzyme produced by leukocytes and detected on urine dipstick testing as an indirect marker of pyuria
 > - **[[Hematopoiesis]]** — the bone marrow process by which pluripotent stem cells differentiate into leukocytes, erythrocytes, and thrombocytes
 > - **Differential count** — a laboratory test enumerating the relative percentages of each leukocyte subtype (neutrophils, lymphocytes, monocytes, eosinophils, basophils) within the total white blood cell count

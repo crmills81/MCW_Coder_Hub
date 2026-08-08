@@ -75,7 +75,7 @@ _____
 > - **[[Myofibroblast]]** — the proliferating cell type responsible for the excess collagen and contractile activity seen in fibromatosis.
 > - **Wnt/β-catenin signaling** — the molecular pathway most implicated in the pathogenesis of aggressive fibromatosis/desmoid tumor.
 > - **Familial adenomatous polyposis (Gardner syndrome)** — a genetic condition strongly associated with intra-abdominal desmoid tumors, requiring genetic counseling documentation; **[[D48.114]]**.
-> - **[[Plantar fasciitis]]** — an inflammatory (not proliferative) condition of the plantar fascia frequently confused with plantar fibromatosis; distinguished by absence of a discrete fibrous nodule.
+> - **[[plantar fasciitis]]** — an inflammatory (not proliferative) condition of the plantar fascia frequently confused with plantar fibromatosis; distinguished by absence of a discrete fibrous nodule.
 > - **[[necrotizing fasciitis]]** — an unrelated, life-threatening infectious soft tissue emergency that shares the M72 fibroblastic disorders category by classification only; **[[M72.6]]**.
 > - **MRI of soft tissue mass** — the primary diagnostic imaging modality used to characterize fibromatosis and distinguish it from sarcoma prior to biopsy.
 
