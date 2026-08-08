@@ -1,6 +1,5 @@
----
-
 ## 70000's
+
 <br>
 <small>
 | HCPCS Code |  Modifier  | Short Description | Proc Stat. | PCTC | Not Used for Medicare  | Work RVU | NA Flag for Trans Non-FAC PE RVU | Transitioned Non-FAC PE RVU | NA Flag for Fully IMP Non-FAC PE RVU | Fully Implemented Non-FAC PE RVU | NA Flag for Trans Facility PE RVU | Transitioned Facility PE RVU | NA Flag for Fully IMP FAC PE RVU | Fully Implemented Facility PE RVU | MP RVU | Non-FAC PE Used for OPPS PMT AMT | Facility PE Used for OPPS PMT AMT | Malpractice Used for OPPS PMT AMT | </small>
