@@ -1,5 +1,3 @@
-
----
 **The PFS is the primary method of payment for enrolled health care providers. Medicare uses the PFS when paying:**
 
 > Professional services of physicians and other health care providers in private practice
