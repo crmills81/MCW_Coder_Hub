@@ -1,8 +1,12 @@
 ---
 tags:
   - medterm
+  - otolaryngology
+  - ENT
+  - pmr
 aliases:
   - acromikria
+  - Acromicria
 roots:
   - acr-
   - acro-
@@ -75,7 +79,7 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
+>WHERE length(filter(roots, (word) => econtains([[acromicria]].roots, word))) > 0 AND file.name != [[acromicria]].file.name
 >SORT file.name ASC
 >```
 _____
@@ -88,7 +92,7 @@ _____
 >```
 
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

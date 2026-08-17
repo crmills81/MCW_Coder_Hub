@@ -32,7 +32,7 @@ definition:
 _____
 >[!info]+ ETYMOLOGY of [[Fournier gangrene]]
 >#eponym #greek 
->Named for **Jean Alfred Fournier** (1832–1914), a French dermatologist and venereologist who described idiopathic fulminant gangrene of the male genitalia in 1883. Unlike most terms in this dictionary, "Fournier" contributes no etymological root — it is a **surname eponym**, not a Greek or Latin combining form, so there is no prefix/suffix breakdown for that half of the term.
+>Named for **Jean Alfred Fournier** (1832-1914), a French dermatologist and venereologist who described idiopathic fulminant gangrene of the male genitalia in 1883. Unlike most terms in this dictionary, "Fournier" contributes no etymological root — it is a **surname eponym**, not a Greek or Latin combining form, so there is no prefix/suffix breakdown for that half of the term.
 >- **[[gangren-]]**: from Greek *gangraina* (γάγγραινα), "an eating sore that spreads," itself related to *grainein*, "**to gnaw**." Refers to tissue death from loss of blood supply, here accelerated by microvascular **[[thrombosis]]** rather than large-vessel **[[occlusion]]**.
 >- **[[necr-]]** + **[[-osis]]**: Greek *nekros* ("**corpse, dead body**") + *[[-osis]]* ("**abnormal condition**"), together denoting the death of tissue.
 >Clinically, "**Fournier gangrene**" is treated as a fully specified, single anatomic-site synonym for **necrotizing fasciitis of the perineum**, so coders should cross-reference **[[necrotizing fasciitis]]** for the parallel non-eponymous term used at other body sites.
@@ -82,7 +82,7 @@ _____
 > |**[[11004]]**|Debridement of skin, subcutaneous tissue, muscle, and fascia for necrotizing soft tissue infection; external genitalia and perineum|
 > |**[[11005]]**|...external genitalia, perineum, **and** abdominal wall|
 > |**[[11006]]**|...external genitalia, perineum, and abdominal wall, with or without fascial closure|
-> |**[[11008]]**|Removal of prosthetic mesh or other material at time of debridement *(add-on code, reported with [[11004]]–[[11006]])*|
+> |**[[11008]]**|Removal of prosthetic mesh or other material at time of debridement *(add-on code, reported with [[11004]]-[[11006]])*|
 > |**[[54520]]**|Orchiectomy, simple *(if testicular involvement/necrosis requires removal)*|
 > |**[[55175]]**|Scrotoplasty; simple *(reconstructive, staged after debridement)*|
 > |**[[55180]]**|Scrotoplasty; complicated|

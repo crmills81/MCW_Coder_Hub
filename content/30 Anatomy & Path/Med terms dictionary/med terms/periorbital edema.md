@@ -156,7 +156,7 @@ _____
 > - **[[E05.40]]**: Thyrotoxicosis factitia without crisis
 > - **[[E05.50]]**: Thyroid crisis or storm
 > - **[[E05.80]]**: Other thyrotoxicosis without crisis
-> - **[[E05.90]]**: [[Thyrotoxicosis]], unspecified without crisis
+> - **[[E05.90]]**: [[thyrotoxicosis]], unspecified without crisis
 > - **[[N04.0]]**: Minimal change disease with nephrotic syndrome
 > - **[[N04.1]]**: Focal and segmental glomerular lesions with nephrotic syndrome
 > - **[[N04.2]]**: Diffuse membranous glomerulonephritis with nephrotic syndrome

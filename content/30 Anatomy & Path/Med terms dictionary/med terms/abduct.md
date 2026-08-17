@@ -1,11 +1,13 @@
 ---
 tags:
   - medterm
+  - pmr
 aliases:
   - abduction
   - abductive
   - abducent
   - abductor
+  - Abduct
 roots:
   - ab-
   - duct-
@@ -15,7 +17,7 @@ forms:
 "definition:": To draw away from an axis or the median plane
 ---
 >[!note] Definition of [[abduct]]
->[[ab-]][[duct-]] - **To draw away from an axis or the median plane** (**To bring away**); In kinesiology and anatomy, to **abduct** is to move a body part, such as a limb, laterally away from the sagittal (**median**) plane of the body. For example, raising the arms horizontally to the sides is shoulder [[abduct|abduction]]. In the context of fingers or toes, abduction refers to spreading the digits away from the longitudinal axis of the hand or foot (**the middle finger or the second toe, respectively**). Clinically, assessing a patient's ability to abduct is fundamental in evaluating joint mobility, neuromuscular function, and structural integrity during orthopedic, neurological, and physical therapy examinations.
+>**[[ab-]][[duct-]]** - **To draw away from an axis or the median plane** (**To bring away**); In kinesiology and anatomy, to **abduct** is to move a body part, such as a limb, laterally away from the sagittal (**median**) plane of the body. For example, raising the arms horizontally to the sides is **shoulder [[abduct|abduction]]**. In the context of fingers or toes, abduction refers to spreading the digits away from the longitudinal axis of the hand or foot (**the middle finger or the second toe, respectively**). Clinically, assessing a patient's ability to abduct is fundamental in evaluating joint mobility, neuromuscular function, and structural integrity during orthopedic, neurological, and physical therapy examinations.
 
 ___
 >[!info]+ Etymology of [[abduct]]
@@ -79,7 +81,7 @@ _____
 > - **Valgus**: An outward angulation of the distal segment of a bone or joint, which can sometimes be confused with an abducted position, though valgus refers to a structural deformity rather than a dynamic movement.
 >
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

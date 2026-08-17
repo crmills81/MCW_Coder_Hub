@@ -100,7 +100,7 @@ _____
 > |**[[D70.8]]**|Other neutropenia|
 > |**[[D70.9]]**|Neutropenia, unspecified|
 >
-> #### Urine Leukocyte Findings (R82.7–R82.8)
+> #### Urine Leukocyte Findings (R82.7-R82.8)
 >
 > |Code|Description|
 > |---|---|
@@ -131,7 +131,7 @@ _____
 >
 > ---
 >
-> > ⚠️ **Coding Note:** These **[[leukocyte]]**-count codes carry no laterality requirement since they describe systemic blood findings rather than an anatomic site. Sequencing logic follows the abnormal-finding rule: if a definitive underlying cause is documented (**e.g., [[pneumonia]], [[sepsis]], chemotherapy-induced [[neutropenia]]**), code the underlying condition first and the leukocyte abnormality as a secondary or manifestation code only if it affects treatment; use the **D72/D70/R82 codes** as primary only when no cause is identified. A frequently undercoded entry is **[[D72.825]] (Bandemia)** — the documentation trigger phrase "**left shift**" or "**bands**" on a CBC differential should prompt a coder query to confirm whether bandemia is separately reportable. Payer edits commonly bundle **[[85025]]** with **[[85004]]/[[85027]]**, so never bill the automated **CBC-with-diff code** alongside a standalone differential on the same date without modifier justification. When **[[leukocytosis]]** appears in the context of a possible hematologic **[[malignancy]]**, specificity is critical — confirm whether the documentation supports a r**eactive leukemoid reaction** (**[[D72.823]]**) versus an actual **[[leukemia]]** diagnosis (**C91–C95 category**) before finalizing the code, since misclassifying a malignancy as a benign reactive process is a high-risk audit finding.
+> > ⚠️ **Coding Note:** These **[[leukocyte]]**-count codes carry no laterality requirement since they describe systemic blood findings rather than an anatomic site. Sequencing logic follows the abnormal-finding rule: if a definitive underlying cause is documented (**e.g., [[pneumonia]], [[sepsis]], chemotherapy-induced [[neutropenia]]**), code the underlying condition first and the leukocyte abnormality as a secondary or manifestation code only if it affects treatment; use the **D72/D70/R82 codes** as primary only when no cause is identified. A frequently undercoded entry is **[[D72.825]] (Bandemia)** — the documentation trigger phrase "**left shift**" or "**bands**" on a CBC differential should prompt a coder query to confirm whether bandemia is separately reportable. Payer edits commonly bundle **[[85025]]** with **[[85004]]/[[85027]]**, so never bill the automated **CBC-with-diff code** alongside a standalone differential on the same date without modifier justification. When **[[leukocytosis]]** appears in the context of a possible hematologic **[[malignancy]]**, specificity is critical — confirm whether the documentation supports a r**eactive leukemoid reaction** (**[[D72.823]]**) versus an actual **[[leukemia]]** diagnosis (**C91-C95 category**) before finalizing the code, since misclassifying a malignancy as a benign reactive process is a high-risk audit finding.
 
 _____
 

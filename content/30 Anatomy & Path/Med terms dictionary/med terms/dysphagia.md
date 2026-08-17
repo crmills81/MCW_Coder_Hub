@@ -194,7 +194,7 @@ _____
 > [!danger]+ ## Related Terms
 > 
 > - **[[odynophagia]]:** Painful swallowing (**different from [[dysphagia]]**).
-> - **[[Aspiration]]:** Food/liquid entering airway/lungs.
+> - **[[aspiration]]:** Food/liquid entering airway/lungs.
 > - **Achalasia:** Failure of lower esophageal sphincter to relax.
 > - **Zenker diverticulum:** Pouch in upper esophagus collecting food.
 > - **Eosinophilic esophagitis (EoE):** Allergic/immune esophageal inflammation.

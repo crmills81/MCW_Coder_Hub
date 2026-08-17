@@ -75,7 +75,7 @@ _____
 > |**[[E83.51]]**|Hypocalcemia _(opposite finding; include only if concurrently documented)_|
 > |**[[E83.59]]**|Other disorders of calcium metabolism|
 > 
-> #### Hyperparathyroidism (Common Etiologic Cause — E21.0–E21.3)
+> #### Hyperparathyroidism (Common Etiologic Cause — E21.0-E21.3)
 > 
 > |Code|Description|
 > |---|---|

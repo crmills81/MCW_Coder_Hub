@@ -1,7 +1,6 @@
 ---
 tags:
   - medterm
-  - medroot
   - ENT
   - otolaryngology
 aliases:
@@ -64,7 +63,7 @@ _____
 > - **[[Parathyroidectomy]]** — removal of one or more parathyroid glands, which are at high risk of inadvertent removal during **thyroidectomy**; if accidentally removed and reimplanted, add [[60521]] or [[60522]] for parathyroid **autotransplantation**; loss of all parathyroid tissue causes permanent [[hypoparathyroidism]] (**[[E20.0]]**)
 > - **Thyroid Lobectomy** — lesser, organ-preserving variant of thyroidectomy; total unilateral lobectomy (**[[60220]]**) preserves the contralateral lobe and avoids lifelong hormone replacement in many patients; preferred for low-risk papillary microcarcinoma ≤1 cm
 > - **[[Thyroiditis]]** — inflammatory condition of the thyroid; [[autoimmune]] form (**[[E06.3]] Hashimoto's**) is the leading cause of hypothyroidism and a common comorbidity documented in **thyroidectomy** patients; subacute ([[E06.1]]) may mimic malignancy on workup
-> - **[[Thyrotoxicosis]] / [[Hyperthyroidism]]** — excess thyroid hormone state; a primary surgical indication for **thyroidectomy** in Graves' disease (**[[E05.00]]-[[E05.01]]**) and toxic multinodular [[goiter]] (**[[E05.20]]-[[E05.21]]**); requires preoperative medical stabilization to prevent thyroid storm
+> - **[[thyrotoxicosis]] / [[hyperthyroidism]]** — excess thyroid hormone state; a primary surgical indication for **thyroidectomy** in Graves' disease (**[[E05.00]]-[[E05.01]]**) and toxic multinodular [[goiter]] (**[[E05.20]]-[[E05.21]]**); requires preoperative medical stabilization to prevent thyroid storm
 > - **[[Goiter]]** — enlargement of the thyroid gland, either diffuse (**[[E04.0]]**) or multinodular (**[[E04.2]]**); symptomatic goiter with [[dysphagia]], [[dyspnea]], or tracheal compression is a common benign surgical indication
 > - **Thyroid Nodule** — discrete lesion within the thyroid; indeterminate or suspicious cytology on FNA (**Bethesda category III-V**) drives surgical decision-making; coded [[E04.1]] nontoxic single nodule
 > - **Thyroid Carcinoma** — primary malignant indication for **thyroidectomy**; papillary (**[[C73]]**) is most common; follicular, medullary, and anaplastic variants all coded to [[C73]] in ICD-10-CM with additional histology detail captured via pathology documentation

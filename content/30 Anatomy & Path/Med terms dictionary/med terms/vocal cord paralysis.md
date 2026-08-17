@@ -71,7 +71,7 @@ _____
 > - **Superior laryngeal nerve (SLN)** — controls the [[cricothyroid]] muscle (pitch); SLN paralysis causes pitch changes and subtle hoarseness, distinct from RLN paralysis
 > - **[[Dysphonia]]** — impaired voice quality; the primary presenting symptom of unilateral VCP; coded separately when documented as a distinct symptom
 > - **[[Dysphagia]]** — difficulty swallowing; common in VCP due to impaired airway protection; coded **[[R13.10]]** or more specific R13.1x when separately documented
-> - **[[Aspiration]]** — entry of oral/pharyngeal contents into the airway; major complication of VCP, especially unilateral; coded **[[J69.0]]** when aspiration [[pneumonia]] results
+> - **[[aspiration]]** — entry of oral/pharyngeal contents into the airway; major complication of VCP, especially unilateral; coded **[[J69.0]]** when aspiration [[pneumonia]] results
 > - **[[Stridor]]** — inspiratory noise from turbulent airflow through a narrowed glottis; hallmark of bilateral VCP
 > - **[[Tracheotomy]]** — emergency airway procedure for bilateral VCP with respiratory compromise; CPT [[31600]]/[[31601]]
 > - **Medialization [[thyroplasty]]** — Type I thyroplasty; surgical implant placed through thyroid cartilage window to push paralyzed cord to midline; CPT **[[31591]]**

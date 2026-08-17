@@ -1,7 +1,6 @@
 ---
 tags:
   - medterm
-  - medroot
   - pmr
   - ophthalmology
 aliases:

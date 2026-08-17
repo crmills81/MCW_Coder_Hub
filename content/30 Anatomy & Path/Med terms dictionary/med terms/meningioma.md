@@ -56,7 +56,7 @@ _____
 > - **Parasagittal/falcine meningioma** _(etiologic/anatomic subtype defined by location along the sagittal sinus or falx cerebri; typically coded with [[D32.0]] and described by precise neurosurgical localization)_
 > - **Convexity meningioma** _(anatomic subtype on the outer brain surface beneath the skull, arising from cerebral meninges; coded as [[D32.0]] and often amenable to surgical resection)_
 > - **Posterior fossa meningioma** _(anatomic subtype located in the posterior cranial fossa; classified with [[D32.0]] for cerebral meninges or with spinal codes when extending to spinal meninges)_
-> - **Malignant meningioma** _(anatomic/pathologic subtype describing WHO grade II–III lesions with more aggressive behavior and higher recurrence; coded under appropriate malignant neoplasm codes rather than [[D32.0]]/[[D32.9]], but still rooted in meningeal origin)_
+> - **Malignant meningioma** _(anatomic/pathologic subtype describing WHO grade II-III lesions with more aggressive behavior and higher recurrence; coded under appropriate malignant neoplasm codes rather than [[D32.0]]/[[D32.9]], but still rooted in meningeal origin)_
 
 _____
 
@@ -68,7 +68,7 @@ _____
 > - **[[meningoencephalitis]]** — complex syndrome with combined inflammation of meninges and brain parenchyma, overlapping anatomically with meningioma in the meningeal compartment but differing fundamentally in pathophysiology and treatment.
 > - **Dural [[metastasis]]** — mechanism-related term for secondary malignant deposits in the meninges from systemic cancers; can mimic meningioma radiographically but is coded as metastatic malignancy rather than benign neoplasm of meninges.
 > - **[[Hyperostosis]] of skull** — adjective mechanism term describing thickening of adjacent skull bone; commonly seen with long-standing meningiomas and serves as a radiologic clue to meningeal origin.
-> - **Cerebral [[edema]]** — cellular mechanism term for swelling in brain parenchyma adjacent to meningiomas due to disruption of the blood–brain barrier, contributing to symptoms and influencing surgical planning.
+> - **Cerebral [[edema]]** — cellular mechanism term for swelling in brain parenchyma adjacent to meningiomas due to disruption of the blood-brain barrier, contributing to symptoms and influencing surgical planning.
 > - **Benign neoplasm of cerebral meninges ([[D32.0]])** — disease entity using this term; represents meningioma when the site is documented as cerebral meninges (brain coverings) and is the most specific intracranial meningioma code.
 > - **Benign neoplasm of spinal meninges ([[D32.1]])** — disease entity capturing spinal meningioma; used when documentation specifies spinal cord coverings as the site of the meningeal tumor.
 > - **Benign neoplasm of meninges, unspecified ([[D32.9]])** — disease entity used when imaging or clinical documentation confirms a meningioma but does not specify whether the site is cerebral or spinal meninges; serves as a catch-all for unspecified meningeal benign neoplasms.

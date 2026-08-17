@@ -41,7 +41,7 @@ _____
 >**Terms Using [[-ema]]:**
 >
 >1. **[[edema]]** (oedema) - Swelling caused by excess fluid trapped in body tissues
->2. **[[Empyema]]** - Collection of pus in a body cavity, especially the pleural space
+>2. **[[empyema]]** - Collection of pus in a body cavity, especially the pleural space
 >3. **Eczema** - Inflammatory skin condition causing itching and rashes
 >4. **Erythema** - Redness of the skin due to capillary dilation
 >5. **Emphysema** - Lung condition involving damaged air sacs (**alveoli**)

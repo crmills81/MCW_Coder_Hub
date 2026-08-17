@@ -1,29 +1,31 @@
 ---
 tags:
   - medterm
+  - pmr
 aliases:
   - growth hormone excess
   - pituitary gigantism
 roots:
   - acr-
+  - acr/o-
   - mega-
   - -y
   - -o-
-"definition:": abnormal enlargement of hands, feet, jaw, and/or other extrmities
 "alphabet:": A
 forms:
   - combining
   - noun
+definition: abnormal enlargement of hands, feet, jaw, and/or other extrmities
 ---
 >[!note]+ Definition of [[acromegaly]]
->[[acr-]][[o-]][[mega-|megal-]][[-y]] - abnormal enlargement of hands, feet, jaw, and/or other extremities, often due to too much GH ( **condition of enlarged extremities**); The keyword **"abduct"** (**or abduction**) can refer to several different clinical scenarios. It commonly refers to the movement of a body part away from the midline, which can present as a joint [[contracture]] (**abduction contracture**), a nerve condition (**abducens nerve palsy affecting the eye's ability to abduct**), or procedures involving abductor muscles or abduction splinting.
+>**[[acr-]][[o-]][[mega-|megal-]][[-y]]** - abnormal enlargement of hands, feet, jaw, and/or other extremities, often due to too much GH ( **condition of enlarged extremities**); The keyword **"abduct"** (**or abduction**) can refer to several different clinical scenarios. It commonly refers to the movement of a body part away from the midline, which can present as a **joint [[contracture]]** (**[[abduct|abduction]] contracture**), a nerve condition (**abducens nerve palsy affecting the eye's ability to abduct**), or procedures involving abductor muscles or abduction splinting.
 ___
 >[!info]+ Etymology of [[acromegaly]]
->- **acr-**: From the Greek _akron_, meaning "**extremity**" or "**end**."
+>- **[[acr-]]**: From the Greek _akron_, meaning "**extremity**" or "**end**."
 >    
->- **mega-**: From the Greek _megas_, meaning "**large**" or "**great**."
+>- **[[mega-]]**: From the Greek _megas_, meaning "**large**" or "**great**."
 >    
->- **-y**: A suffix denoting a "**condition**" or "**process**."
+>- **[[-y]]**: A suffix denoting a "**condition**" or "**process**."
 >    
 >- **Literal Meaning**: The condition of having large extremities.
 >
@@ -114,7 +116,7 @@ _____
 >```
 
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

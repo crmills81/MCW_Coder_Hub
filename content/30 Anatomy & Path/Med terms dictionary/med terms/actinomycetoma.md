@@ -3,7 +3,7 @@ tags:
   - medterm
   - infectious-disease
   - subcutaneous-infection
-
+  - pmr
 aliases:
   - Actinomycetoma
   - B47.1
@@ -27,7 +27,7 @@ definition: A chronic, slowly progressive bacterial subcutaneous infection cause
 ---
 
 >[!Note] DEFINITION of [[actinomycetoma]]
->**Actinomycetoma** is a chronic, localized, slowly progressive [[subcutaneous]] bacterial infection caused by aerobic actinomycetes — specifically genera including *Nocardia*, *Actinomadura*, *Streptomyces*, and *Nocardiopsis* — that infiltrates the skin, connective tissue, and in advanced cases, bone. It is the bacterial subtype of the broader category **[[mycetoma]]**, which also includes **[[eumycetoma]] (the fungal form caused by true fungi such as *Madurella mycetomatis*)**; the key distinction is etiology — actinomycetoma is bacterial and typically responds to prolonged antibiotic therapy, whereas eumycetoma is fungal and requires antifungal agents or surgery. The pathological mechanism involves inoculation via minor trauma (**thorn puncture, wood splinter**), followed by deep-tissue **[[granulomatous]]** inflammation, formation of sulfur-like granules made of the causative organisms and host defense cells, and development of communicating sinus tracts that drain **seropurulent** exudate. The classic clinical triad is **firm swelling (tumefaction)**, **subcutaneous nodules with abscess formation**, and **draining sinuses containing granules**; 80% of all mycetoma cases affect the foot ("**Madura foot**"), though the hand, leg, back, and head can also be involved. Clinically relevant subtypes are classified by granule color: pale/white grain **(e.g., *Nocardia brasiliensis*; [[B47.1]]**), red grain **(*Actinomadura pelletieri*; [[B47.1]])**, and yellow grain **(*Streptomyces somaliensis*; [[B47.1]])** — all coded under the same ICD-10-CM code **[[B47.1]]**. This condition is commonly confused with [[eumycetoma]] ([[B47.0]]) — remember: **actinomycetoma** is bacterial (**curable with antibiotics**), **[[eumycetoma]]** is fungal (**much harder to treat and more localized**).
+>**[[Actinomycetoma]]** is a chronic, localized, slowly progressive **[[subcutaneous]] bacterial infection** caused by aerobic **actinomycetes** — specifically genera including *Nocardia*, *Actinomadura*, *Streptomyces*, and *Nocardiopsis* — that infiltrates the skin, connective tissue, and in advanced cases, bone. It is the bacterial subtype of the broader category **[[mycetoma]]**, which also includes **[[eumycetoma]] (the fungal form caused by true fungi such as *Madurella mycetomatis*)**; the key distinction is etiology — **[[actinomycetoma]]** is bacterial and typically responds to prolonged antibiotic therapy, whereas **[[eumycetoma]]** is fungal and requires antifungal agents or surgery. The pathological mechanism involves inoculation via minor trauma (**thorn puncture, wood splinter**), followed by deep-tissue **[[granulomatous]]** **[[inflammation]]**, formation of sulfur-like granules made of the causative organisms and host defense cells, and development of communicating sinus tracts that drain **seropurulent** exudate. The classic clinical triad is **firm swelling (tumefaction)**, **[[subcutaneous]] nodules with [[abscess]] formation**, and **draining sinuses containing granules**; 80% of all **[[mycetoma]]** cases affect the foot ("**Madura foot**"), though the hand, leg, back, and head can also be involved. Clinically relevant subtypes are classified by granule color: pale/white grain **(e.g., *Nocardia brasiliensis*; [[B47.1]]**), red grain **(*Actinomadura pelletieri*; [[B47.1]])**, and yellow grain **(*Streptomyces somaliensis*; [[B47.1]])** — all coded under the same I**CD-10-CM code** **[[B47.1]]**. This condition is commonly confused with **[[eumycetoma]] ([[B47.0]])** — remember: **actinomycetoma** is bacterial (**curable with antibiotics**), **[[eumycetoma]]** is fungal (**much harder to treat and more localized**).
 
 _____
 
@@ -36,7 +36,7 @@ _____
 >
 >|Component|Origin|Meaning|
 >|---|---|---|
->|**[[actino-]]**|Greek _aktis_ (ak-TEES), _aktinos_ — "ray, beam"|"**ray**," "**beam**" — describes the radiating, ray-like filaments of the bacterial colonies under microscopy; directional/descriptive prefix|
+>|**[[actino-]]**|Greek _aktis_ (ak-TEES), _aktinos_ — "**ray, beam**"|"**ray**," "**beam**" — describes the radiating, ray-like filaments of the bacterial colonies under microscopy; directional/descriptive prefix|
 >|**[[-mycet-]]**|Greek _mykēs_ (MOO-kays), _mykētos_ — "fungus, mushroom"|"**fungus**," "**mushroom**" — combining form; historically applied because early observers mistakenly classified **actinomycetes** as fungi due to their filamentous, branching growth|
 >|**[[-oma]]**|Greek _-ōma_ (OH-mah)|Noun-forming suffix — "**tumor, swelling, mass**" or "**condition resulting in a growth**"|
 >
@@ -63,7 +63,7 @@ _____
 >
 > - **[[Eumycetoma]]** — the fungal counterpart to actinomycetoma; caused by true fungi (e.g., *Madurella mycetomatis*); shares the same clinical triad but is more localized, harder to cure, and coded separately as **[[B47.0]]**
 > - **[[Mycetoma]]** — the overarching clinical entity encompassing both **actinomycetoma** (**bacterial**) and eumycetoma (**fungal**); unspecified form coded [[B47.9]]; the grain color and microscopy determine which subtype
-> - **[[Actinomycosis]]** — a related but distinct chronic bacterial infection caused by *Actinomyces israelii* (**anaerobic**); affects the oral/cervicofacial region, lungs, and GI tract — **not** the skin via trauma like **actinomycetoma**; coded under A42.xx; Excludes1 actinomycetoma (**[[B47.1]]**)
+> - **[[Actinomycosis]]** — a related but distinct chronic bacterial infection caused by *Actinomyces israelii* (**anaerobic**); affects the oral/cervicofacial region, lungs, and GI tract — **not** the skin via trauma like **[[actinomycetoma]]**; coded under A42.xx; Excludes1 actinomycetoma (**[[B47.1]]**)
 > - **[[Nocardiosis]]** — infection by *Nocardia* species that can cause **actinomycetoma** but also causes disseminated pulmonary or CNS infection; coded A43.x; important differential in immunocompromised patients
 > - **[[Osteomyelitis]]** — bone infection that can result from late-stage **actinomycetoma** spreading from **[[subcutaneous]]** tissue to underlying bone; coded M86.xx with site specificity; must be coded as an additional diagnosis when present
 > - **Subcutaneous abscess** — a key physical manifestation and hallmark feature of **actinomycetoma**; forms as the infection progresses through deep dermis and [[subcutaneous]] tissue
@@ -155,7 +155,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[actinomycetoma]].definition, word))) > 0 AND file.name != [[actinomycetoma]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

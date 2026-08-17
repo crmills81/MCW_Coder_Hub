@@ -26,7 +26,7 @@ _____
 _____
 
 > [!success]+  **Related Terms**
-> - [[Dyspnea]] (**Difficulty breathing**)
+> - [[dyspnea]] (**Difficulty breathing**)
 > - Wheezing (**Lower airway sound**)
 > - [[Croup]] (**Laryngotracheobronchitis**)
 > - Laryngomalacia (**Softening of laryngeal tissues**)

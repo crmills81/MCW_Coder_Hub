@@ -1,6 +1,10 @@
 ---
 tags:
   - medterm
+  - oncology
+  - urology
+  - otolaryngology
+  - ophthalmology
 aliases:
   - Neoplasm
   - tumor

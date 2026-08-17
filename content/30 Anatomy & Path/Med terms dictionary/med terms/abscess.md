@@ -17,7 +17,7 @@ alphabet: A
 definition: pocket of pus that collects in tissues, organs, or spaces inside the body
 ---
 >[!Note] DEFINITION of [[abscess]]
->An **abscess** is a localized collection of purulent material (**pus**) buried in tissues, organs, or confined spaces. It is typically t**he result of the body's defensive immune response to a foreign body or infectious agent** (**bacteria, parasites**). The immune system sends white blood cells to the infected area, which accumulate and combine with damaged tissue and bacteria to form liquid pus. The body attempts to wall off this infection with a capsule (**pyogenic membrane**) to prevent it from spreading to healthy tissue.
+>An **[[abscess]]** is a localized collection of purulent material (**pus**) buried in tissues, organs, or confined spaces. It is typically t**he result of the body's defensive immune response to a foreign body or infectious agent** (**bacteria, parasites**). The immune system sends white blood cells to the infected area, which accumulate and combine with damaged tissue and bacteria to form liquid pus. The body attempts to wall off this infection with a capsule (**pyogenic membrane**) to prevent it from spreading to healthy tissue.
 _____
 >[!info]+ ETYMOLOGY of [[abscess]]
 >#latin 
@@ -162,7 +162,7 @@ ______
 > - **Packing:** The wound is often left open or packed with gauze to allow it to heal from the inside out (secondary intention) to prevent recurrence.
 
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

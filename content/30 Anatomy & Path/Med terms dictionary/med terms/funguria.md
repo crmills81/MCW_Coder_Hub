@@ -32,7 +32,7 @@ _____
 >|**[[fung-]]**|Latin *fungus* ("**mushroom, fungus**")|Combining form denoting a fungal organism|
 >|**[[-uria]]**|Greek *ouron* (οὖρον, "**urine**")|Noun-forming suffix — "**condition of urine**" or "**presence of ___ in urine**"|
 >
->**[[funguria]]** is a Latin–Greek hybrid, pairing the Latin root for fungus with the Greek suffix *[[-uria]]* that also builds ***[[bacteriuria]]***, ***[[hematuria]]***, ***[[pyuria]]***, and ***[[glycosuria]]***. The synonym **candiduria** substitutes the genus name *[[Candida]]* (Latin, "**white/glowing**," referencing the organism's colony color) for the more general *[[fung-]]* root, specifying the causative organism rather than the broader fungal category.
+>**[[funguria]]** is a Latin-Greek hybrid, pairing the Latin root for fungus with the Greek suffix *[[-uria]]* that also builds ***[[bacteriuria]]***, ***[[hematuria]]***, ***[[pyuria]]***, and ***[[glycosuria]]***. The synonym **candiduria** substitutes the genus name *[[Candida]]* (Latin, "**white/glowing**," referencing the organism's colony color) for the more general *[[fung-]]* root, specifying the causative organism rather than the broader fungal category.
 _____
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 > - **Candiduria** _(the most frequently used clinical term; specifies *Candida* as the causative genus rather than fungi generally)_

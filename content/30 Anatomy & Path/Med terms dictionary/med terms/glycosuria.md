@@ -59,7 +59,7 @@ _____
 >
 >
 >>[!NOTE]
->> _**Note**: When glycosuria is a documented manifestation of diabetes mellitus, do **not** code R81 separately — code only the appropriate diabetes category (E08–E13) per ICD-10-CM guidelines, since glycosuria is an inherent/integral finding of uncontrolled diabetes._
+>> _**Note**: When glycosuria is a documented manifestation of diabetes mellitus, do **not** code R81 separately — code only the appropriate diabetes category (E08-E13) per ICD-10-CM guidelines, since glycosuria is an inherent/integral finding of uncontrolled diabetes._
 >
 >
 > **CPT Codes**

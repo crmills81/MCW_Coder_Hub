@@ -171,7 +171,7 @@ _____
 > |**[[-59]]**|Distinct procedural service (append to indicate that a procedure is separate and distinct from other services performed on the same day; used to override NCCI edits when procedures are performed at different anatomic sites or via separate incisions)|
 > |**[[-78]]**|Unplanned return to the operating room for a related procedure during the postoperative period (append when patient requires second-look nephrostolithotomy or evacuation of hematoma within global period of initial procedure; indicates complication requiring reoperation)|
 > |**[[-79]]**|Unrelated procedure or service by the same physician during the postoperative period (append when patient requires unrelated surgical procedure during global period of nephrostolithotomy; establishes new global period for unrelated procedure)|
-> |**[-[RT]]**|Right side (laterality modifier; append to indicate **nephrostolithotomy** performed on right kidney; e.g., **[[50080]]-RT**; required for claims processing and anatomic specificity)|
+> |**[[-RT]]**|Right side (laterality modifier; append to indicate **nephrostolithotomy** performed on right kidney; e.g., **[[50080]]-RT**; required for claims processing and anatomic specificity)|
 > |**[[-LT]]**|Left side (laterality modifier; append to indicate nephrostolithotomy performed on left kidney; e.g., **[[50081]]-LT**; required for claims processing and anatomic specificity)|
 > 
 > ---
@@ -197,7 +197,7 @@ _____
 >```
 
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

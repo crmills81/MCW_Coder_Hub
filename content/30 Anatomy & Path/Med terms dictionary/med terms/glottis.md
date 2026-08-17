@@ -72,7 +72,7 @@ _____
 > - **[[Aphonia]]** — complete loss of voice; represents severe glottic dysfunction (**complete paralysis, surgical absence, or functional origin**); coded to [[R49.1]]
 > - **[[laryngoscopy]]** — the fundamental diagnostic and operative tool for glottic assessment; rigid direct and flexible fiberoptic variants cover **CPT** codes **[[31513]]**-**[[31591]]** for the glottic region
 > - **[[Laryngomalacia]]** — primarily a supraglottic condition, but severe cases can functionally affect the glottic inlet; see [[supraglottis]] note; coded to [[Q31.5]]
-> - **[[Aspiration]]** — entry of food/liquid into the airway below the glottis when glottic closure is incomplete; a major functional consequence of **vocal cord paralysis** and glottic incompetence; coded to [[J69.0]] (**aspiration pneumonitis**) when aspiration results in pulmonary disease
+> - **[[aspiration]]** — entry of food/liquid into the airway below the glottis when glottic closure is incomplete; a major functional consequence of **vocal cord paralysis** and glottic incompetence; coded to [[J69.0]] (**aspiration pneumonitis**) when aspiration results in pulmonary disease
 > - **[[Spasmodic dysphonia]]** — a focal laryngeal dystonia causing involuntary spasms of the vocal folds during phonation; adductor type (**voice breaks on vowels**) is most common; treated with botulinum toxin injection to the vocal fold/[[thyroarytenoid]] muscle; coded to [[G24.4]] (**idiopathic orofacial [[dystonia]]**) — **NOT** a J38 code; injected via CPT [[31573]] (**flexible**) or [[64617]] (**[[percutaneous]]**)
 
 _____
