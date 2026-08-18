@@ -1,6 +1,5 @@
 ---
 tags:
-  - medroot
   - medterm
 aliases: []
 roots:
@@ -25,25 +24,26 @@ _____
 >- **Historical development**: The suffix entered medical Latin through Greek medical texts and became standardized in Western medical terminology during the development of scientific medicine in the Renaissance and Enlightenment periods
 >
 _____
+
 >[!example]+ RELATED TERMS to [[-ema]]
 >
->|   [[-ema]]   | condition (of) | state (of) |       -        |
-|:----------:|:--------------:|:----------:|:--------------:|
-|  [[-a]]  |      Yes       |    Yes     |       -        |
-| [[-esis]]  |      Yes       |    Yes     |       -        |
-|  [[-ia]]   |      Yes       |    Yes     |       -        |
-|  [[-ism]]  |      Yes       |    Yes     |       quality of       |
-| [[-ismus]] |      Yes       |    Yes     | muscular spasm |
-|  [[-sis]]  |      Yes       |    Yes     |       -        |
-|  [[-ty]]   |      Yes       |    Yes     |       -        |
-|   [[-y]]   |      Yes       |    Yes     |       -        |
+>|   **[[-ema]]**   | condition (of) | state (of) |       -        |
+>|:----------:|:--------------:|:----------:|:--------------:|
+>|  **[[-a]]**  |      Yes       |    Yes     |       -        |
+>| **[[-esis]]**  |      Yes       |    Yes     |       -        |
+>|  **[[-ia]]**   |      Yes       |    Yes     |       -        |
+>|  **[[-ism]]**  |      Yes       |    Yes     |       quality of       |
+>| **[[-ismus]]** |      Yes       |    Yes     | muscular spasm |
+>|  **[[-sis]]**  |      Yes       |    Yes     |       -        |
+>|  **[[-ty]]**   |      Yes       |    Yes     |       -        |
+>|   **[[-y]]**   |      Yes       |    Yes     |       -        |
 >
 >**Terms Using [[-ema]]:**
 >
 >1. **[[edema]]** (oedema) - Swelling caused by excess fluid trapped in body tissues
 >2. **[[empyema]]** - Collection of pus in a body cavity, especially the pleural space
 >3. **Eczema** - Inflammatory skin condition causing itching and rashes
->4. **Erythema** - Redness of the skin due to capillary dilation
+>4. **[[Erythema]]** - Redness of the skin due to capillary dilation
 >5. **Emphysema** - Lung condition involving damaged air sacs (**alveoli**)
 >6. **[[Hematoma]]** - Collection of blood outside blood vessels
 >7. **[[lymphedema]]** - Swelling due to lymphatic fluid accumulation
