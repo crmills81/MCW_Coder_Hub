@@ -1,3 +1,22 @@
+---
+tags:
+  - specialty/pmr
+  - pmr
+  - phantom-pain
+  - pain-management
+  - amputation
+  - neuropathic-pain
+  - coding/icd10
+title: Phantom Pain - PM&R Clinical & Coding Reference
+specialty: Physical Medicine and Rehabilitation
+topic: Phantom Limb Pain Pathophysiology, Assessment, and Rehabilitation Management
+category: Pain Management & Neurological
+code_set: ICD-10-CM
+primary_icd10: "[[G54.6]]"
+status: active
+authors: "Thiru M. Annaswamy, MD; Brigid S Deck, BS; Annie Du, BA"
+last_updated: 2026-04-29
+---
 ##### **Phantom Pain**
 <sup>*Author(s): Thiru M. Annaswamy, MD, Brigid S Deck, BS, Annie Du, BA*
 *Originally published: November 11, 2011 Last updated: April 29, 2026* </sup>

@@ -1,3 +1,25 @@
+---
+tags:
+  - specialty/pmr
+  - pmr
+  - physiatry
+  - rehab
+  - coding/specialty
+title: Physical Medicine & Rehabilitation (PM&R) Coding Overview
+specialty: Physical Medicine and Rehabilitation
+topic: PM&R Overview & Core Coding Requirements
+category: Specialty Reference
+modifiers:
+  - "[[-GN]]"
+  - "[[-GO]]"
+  - "[[-GP]]"
+  - "[[-CO]]"
+  - "[[-CQ]]"
+  - "[[-KX]]"
+code_set: CPT / ICD-10-PCS
+fy_version: 2026
+status: active
+---
 # Physical Medicine & Rehabilitation (PM&R) Coding
 
 **Tags:** #coding/specialty #physiatry #rehab #pmr

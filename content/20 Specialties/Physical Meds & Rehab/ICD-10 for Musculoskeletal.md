@@ -1,3 +1,18 @@
+---
+tags:
+  - specialty/pmr
+  - pmr
+  - coding/icd10
+  - musculoskeletal
+  - diagnosis
+title: ICD-10 for Musculoskeletal - PM&R Coding Reference
+specialty: Physical Medicine and Rehabilitation
+topic: Musculoskeletal ICD-10-CM Coding (Chapter 13 M00-M99)
+category: Musculoskeletal & Spine
+code_set: ICD-10-CM
+fy_version: 2026
+status: active
+---
 #### (Chapter 13)
 
 **Tags:** #coding/icd10 #musculoskeletal #diagnosis #pmr

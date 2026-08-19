@@ -1,4 +1,19 @@
-**Tags:** #compliance #documentation #audit #pmr
+---
+tags:
+  - specialty/pmr
+  - pmr
+  - compliance
+  - documentation
+  - audit
+  - rehabilitation
+title: Documentation Requirements for PM&R
+specialty: Physical Medicine and Rehabilitation
+topic: PM&R Clinical & Billing Documentation Requirements & Audit Compliance
+category: Documentation & Compliance
+code_set: E&M / CPT / Therapy
+fy_version: 2026
+status: active
+---
 
 ## The "Gold Standard" Note
 1. **Subjective:** Patient's report of function/pain (VAS scale).

@@ -1,3 +1,19 @@
+---
+tags:
+  - specialty/pmr
+  - pmr
+  - coding/icd10
+  - neurological
+  - diagnosis
+title: ICD-10 for Neurological - PM&R Coding Reference
+specialty: Physical Medicine and Rehabilitation
+topic: Neurological ICD-10-CM Coding (Chapter 6 G00-G99 & Sequelae)
+category: Neurological & Spine
+code_set: ICD-10-CM
+fy_version: 2026
+status: active
+---
+
 #### (Chapter 6)
 
 **Tags:** #coding/icd10 #neurological #diagnosis #pmr

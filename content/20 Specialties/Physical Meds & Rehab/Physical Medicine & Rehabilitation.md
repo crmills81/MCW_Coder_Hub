@@ -1,3 +1,25 @@
+---
+tags:
+  - specialty/pmr
+  - pmr
+  - moc
+  - coding-guidelines
+  - rehabilitation
+title: Physical Medicine & Rehabilitation (PM&R) Coding Overview
+specialty: Physical Medicine and Rehabilitation
+category: Specialty Reference
+type: moc
+modifiers:
+  - "[[-GN]]"
+  - "[[-GO]]"
+  - "[[-GP]]"
+  - "[[-CO]]"
+  - "[[-CQ]]"
+  - "[[-KX]]"
+code_set: CPT / ICD-10-PCS
+fy_version: 2026
+status: active
+---
 **Physical medicine and rehabilitation (PM&R)** coding requires strict adherence to specific modifiers and time-based billing rules.
 
 **Here are the core requirements:**

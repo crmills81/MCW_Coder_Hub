@@ -1,4 +1,20 @@
-**Tags:** #coding/rules #medicare #therapy #pmr
+---
+tags:
+  - specialty/pmr
+  - pmr
+  - coding/rules
+  - medicare
+  - therapy
+  - timed-codes
+  - physical-therapy
+title: The 8 Minute Rule - PM&R Coding & Billing Reference
+specialty: Physical Medicine and Rehabilitation
+topic: Timed Therapy Services Unit Calculation & Aggregation Logic
+category: Billing & Compliance Rules
+code_set: CPT / Medicare Part B
+fy_version: 2026
+status: active
+---
 
 ## Definition
 A rule used by Medicare (**and many payers**) to determine how many billable units of a **timed** CPT code can be billed based on the total minutes of service provided.

@@ -1,12 +1,34 @@
+---
+tags:
+  - specialty/pmr
+  - pmr
+  - coding/modifiers
+  - therapy-modifiers
+  - compliance
+  - physical-therapy
+  - occupational-therapy
+  - speech-language-pathology
+title: Therapy Modifiers (-GP, -GO, -GN) - PM&R Coding Reference
+specialty: Physical Medicine and Rehabilitation
+topic: Outpatient Therapy Plan of Care Modifiers
+category: Modifiers & Compliance
+modifiers:
+  - "[[-GP]]"
+  - "[[-GO]]"
+  - "[[-GN]]"
+code_set: CPT / HCPCS
+fy_version: 2026
+status: active
+---
 **Tags:** #coding/modifiers #compliance
 
 ## Purpose
 Identify which discipline performed the service. Required on therapy codes (97xxx) when billed by a physician or under incident-to.
 
 ## Key Modifiers
-- **GP**: Services delivered under an outpatient **Physical Therapy** plan of care.
-- **GO**: Services delivered under an outpatient **Occupational Therapy** plan of care.
-- **GN**: Services delivered under an outpatient **Speech-Language Pathology** plan of care.
+- **[[-GP]]**: Services delivered under an outpatient **Physical Therapy** plan of care.
+- **[[-GO]]**: Services delivered under an outpatient **Occupational Therapy** plan of care.
+- **[[-GN]]**: Services delivered under an outpatient **Speech-Language Pathology** plan of care.
 
 ## Usage Example
 - `97110-GP`: Therapeutic exercise provided by PT.

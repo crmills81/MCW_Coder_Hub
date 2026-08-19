@@ -1,12 +1,21 @@
 ---
 tags:
-- spinal_surgeries
-- coding
-- procedures
-- spine
-- injections
-- pmr
-- cervical
+  - specialty/pmr
+  - pmr
+  - spine
+  - spinal-procedures
+  - injections
+  - epidural
+  - facet-joint
+  - radiofrequency-ablation
+  - coding/cpt
+title: Spinal Procedures - PM&R Interventional Coding Reference
+specialty: Physical Medicine and Rehabilitation
+topic: Spinal Interventions, Epidural & Facet Injections, and Radiofrequency Ablation Coding
+category: Interventional Pain & Spine Procedures
+code_set: CPT / HCPCS
+fy_version: 2026
+status: active
 ---
 
 

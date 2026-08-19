@@ -1,4 +1,19 @@
-**Tags:** #coding/cpt #therapy #timed-codes #pmr
+---
+tags:
+  - specialty/pmr
+  - pmr
+  - coding/cpt
+  - therapy
+  - timed-codes
+  - physical-medicine
+title: CPT 97000 Series - Physical Medicine & Rehabilitation
+specialty: Physical Medicine and Rehabilitation
+topic: Therapeutic Procedures - Timed and Untimed 97000 Series Codes
+category: CPT Coding & Modality Reference
+code_set: CPT (97000 Series)
+fy_version: 2026
+status: active
+---
 
 ## Overview
 These codes represent therapeutic procedures. They are divided into **Timed** and **Untimed** codes.

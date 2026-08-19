@@ -1,3 +1,20 @@
+---
+tags:
+  - specialty/pmr
+  - pmr
+  - spinal-cord-injury
+  - traumatic-sci
+  - non-traumatic-sci
+  - mdm
+  - coding/guidelines
+title: Clinical Classification and Coding Methodology - Traumatic vs. Non-Traumatic Spinal Cord Injuries
+specialty: Physical Medicine and Rehabilitation
+topic: Traumatic vs. Non-Traumatic Spinal Cord Injuries Classification & MDM Coding
+category: Neurological & Spinal Cord Injury
+code_set: CPT / ICD-10-CM / E&M
+fy_version: 2026
+status: active
+---
 
 ## 1. Introduction to Spinal Cord Injury (SCI) Terminology
 
