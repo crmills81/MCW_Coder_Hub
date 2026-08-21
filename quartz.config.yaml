@@ -17,8 +17,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Roboto
-      body: Roboto
+      header: Inter
+      body: Inter
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -134,6 +134,19 @@ plugins:
     enabled: true
   - source: github:quartz-community/tag-page
     enabled: true
+  - source: github:quartz-community/search
+    enabled: true
+    layout:
+      position: left
+      priority: 5
+      group: toolbar
+      groupOptions:
+        grow: true
+    fieldPriority:
+      - title
+      - content
+      - tags
+    options: {}
   - source: github:quartz-community/explorer
     enabled: true
     layout:
@@ -144,18 +157,6 @@ plugins:
     layout:
       position: right
       priority: 20
-  - source: github:quartz-community/search
-    enabled: true
-    layout:
-      position: right
-      priority: 5
-      group: toolbar
-      groupOptions:
-        grow: true
-    fieldPriority:
-      - title
-      - content
-      - tags
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
