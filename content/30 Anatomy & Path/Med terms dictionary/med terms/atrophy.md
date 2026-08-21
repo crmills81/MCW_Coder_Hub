@@ -58,7 +58,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
 > - **[[Hypertrophy]]** — the opposite of **atrophy**; abnormal increase in organ/tissue size from cellular enlargement (**not cell proliferation**)
-> - **[[Dystrophy]]** — shares the *[[troph-]]* root; disordered or defective nourishment/development (**e.g., muscular dystrophy**)
+> - **[[dystrophy]]** — shares the *[[troph-]]* root; disordered or defective nourishment/development (**e.g., muscular dystrophy**)
 > - **[[sarcopenia]]** — age-related skeletal muscle atrophy; distinct from pathological atrophy; coded as M62.84
 > - **[[cachexia]]** — complex metabolic syndrome of wasting driven by systemic illness (**malignancy, heart failure, CKD**); often overlaps with atrophy
 > - **[[Denervation]]** — loss of nerve supply to a muscle, causing neurogenic **atrophy**

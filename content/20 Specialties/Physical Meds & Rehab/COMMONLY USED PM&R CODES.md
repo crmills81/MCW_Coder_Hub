@@ -19,13 +19,13 @@ For **PM&R**, when the condition is not documented as a **sequela of stroke/CVA*
 
 
 #### Gait / Mobility
-**[[R26.0]]** - Ataxic gait
-**[[R26.1]]** - Paralytic gait
-**[[R26.2]]** - Difficulty in walking, not elsewhere classified
-**[[R26.81]]** - Unsteadiness on feet
-**[[R26.89]]** - Other abnormalities of gait and mobility
-**[[Z74.09]]** - Other reduced mobility
-**[[Z99.3]]** - Dependence on wheelchair
+**[[R26.0]]** - Ataxic gait<br>
+**[[R26.1]]** - Paralytic gait<br>
+**[[R26.2]]** - Difficulty in walking, not elsewhere classified<br>
+**[[R26.81]]** - Unsteadiness on feet<br>
+**[[R26.89]]** - Other abnormalities of gait and mobility<br>
+**[[Z74.09]]** - Other reduced mobility<br>
+**[[Z99.3]]** - Dependence on wheelchair<br>
 
 ***
 

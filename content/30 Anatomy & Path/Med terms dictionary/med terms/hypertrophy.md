@@ -61,7 +61,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
 > - **[[Atrophy]]** — the opposite of hypertrophy; the partial or complete wasting away or reduction in size of a body part, organ, tissue, or cell due to decreased cell size.
-> - **[[Dystrophy]]** — shares the *[[-trophy]]* root; a disorder characterized by defective or abnormal tissue growth and maintenance, often genetic (**e.g., [[Muscular Dystrophy]]**).
+> - **[[dystrophy]]** — shares the *[[-trophy]]* root; a disorder characterized by defective or abnormal tissue growth and maintenance, often genetic (**e.g., [[Muscular Dystrophy]]**).
 > - **[[Hyperplasia]]** — closely related adaptive mechanism; an increase in the size of a tissue or organ due to an increase in the *number* of cells, which frequently occurs concurrently with **[[hypertrophy]]**.
 > - **[[Cardiomegaly]]** — clinical entity representing an enlarged heart (**coded as [[I51.7]]**); **hypertrophy** is the primary cellular mechanism driving this enlargement.
 > - **[[cardiomyopathy]]** — a disease of the heart muscle, a major subtype of which is **Hypertrophic Cardiomyopathy (HCM)**, characterized by pathological thickening of the heart walls.

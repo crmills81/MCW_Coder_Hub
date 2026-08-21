@@ -58,7 +58,7 @@ _____
 > - **Vas deferens** — the continuation of the epididymal duct beyond the cauda; carries mature, motile sperm toward the ejaculatory duct, distinguished from the epididymis by its thicker muscular wall and straight (non-coiled) course.
 > - **[[Epididymitis]]** — shares the *[[didym-]]* root; the inflamed, infected, or irritated state of the epididymis, most often due to ascending urinary tract or sexually transmitted infection.
 > - **[[Epididymo-orchitis]]** — combined inflammation of both the epididymis and the adjacent testis; captured under **[[N45.3]]**, distinguished from isolated epididymitis by testicular involvement.
-> - **[[Spermatocele]]** — a benign, sperm-containing cystic dilation arising from the epididymal duct or efferent ductules; overlaps clinically with epididymal pathology and is commonly excised via **[[54840]]**.
+> - **[[spermatocele]]** — a benign, sperm-containing cystic dilation arising from the epididymal duct or efferent ductules; overlaps clinically with epididymal pathology and is commonly excised via **[[54840]]**.
 > - **Efferent ductules** — the small tubules that carry sperm from the testis into the caput epididymis; their patency is essential for the epididymis to receive and mature sperm.
 > - **Epididymal** — adjective describing structures, tissue, or pathology pertaining to or arising from the epididymis; e.g., "epididymal congestion."
 > - **[[Spermatogenesis]]** — the testicular process producing immature sperm, which are then delivered to the epididymis for the maturation phase that occurs there rather than in the testis.
