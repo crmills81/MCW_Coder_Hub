@@ -43,7 +43,7 @@ definition: The abnormal protrusion of an organ, tissue, or structure through th
 ---
 
 >[!Note] DEFINITION of [[herniation]]
->**Herniation** is **the displacement of a body structure** — **organ, tissue, disc material, or brain** — through a defect, weakness, or opening in the anatomical boundary that normally contains it, and it is classified by the type of structure herniated, the anatomical location of the defect, the clinical status (**reducible, incarcerated, or strangulated**), and the underlying etiology (**congenital weakness, acquired defect, trauma, or elevated intracavitary pressure**). The three major clinical categories of **herniation** encountered in coding are: **(1) abdominal wall herniation** — protrusion of abdominal contents (**omentum, bowel, or other viscera**) through a fascial or muscular defect in the abdominal wall **(inguinal, femoral, umbilical, incisional, ventral**); **(2) intervertebral disc herniation** — extrusion of **nucleus pulposus** through an annular tear with potential nerve root or [[spinal cord compression]] (**cervical M50.x, lumbar M51.x**); and **(3) brain herniation** — life-threatening **displacement** of brain tissue across intracranial structures (**falx, tentorium, foramen magnum**) due to elevated intracranial pressure, coded **[[G93.5]]**. The most critical distinction in abdominal **herniation** coding is between **reducible** (**contents return to the cavity spontaneously or manually**), **incarcerated** (**irreducible — contents trapped but viable**), and **strangulated** (**blood supply to the herniated contents is compromised → gangrene**) — because **ICD-10-CM** hernia codes at every anatomical site branch at precisely this clinical **axis**, and failing to capture incarceration or **[[gangrene]]** significantly undercodes the encounter. **Herniation** is frequently confused with **[[prolapse]]** — the key difference is that prolapse describes the descent of an organ or structure along a natural body channel or opening (**e.g., rectal prolapse, uterine prolapse**), while **herniation** describes protrusion through an *abnormal* opening or structural defect.
+>**[[Herniation]]** is **the displacement of a body structure** — **organ, tissue, disc material, or brain** — through a defect, weakness, or opening in the anatomical boundary that normally contains it, and it is classified by the type of structure herniated, the anatomical location of the defect, the clinical status (**reducible, incarcerated, or strangulated**), and the underlying etiology (**congenital weakness, acquired defect, trauma, or elevated intracavitary pressure**). The three major clinical categories of **herniation** encountered in coding are: **(1) abdominal wall herniation** — protrusion of abdominal contents (**omentum, bowel, or other viscera**) through a fascial or muscular defect in the abdominal wall **(inguinal, femoral, umbilical, incisional, ventral**); **(2) intervertebral disc herniation** — extrusion of **nucleus pulposus** through an annular tear with potential nerve root or **[[spinal cord compression]]** (**cervical M50.x, lumbar M51.x**); and **(3) brain herniation** — life-threatening **displacement** of brain tissue across intracranial structures (**falx, tentorium, foramen magnum**) due to elevated intracranial pressure, coded **[[G93.5]]**. The most critical distinction in abdominal **herniation** coding is between **reducible** (**contents return to the cavity spontaneously or manually**), **incarcerated** (**irreducible — contents trapped but viable**), and **strangulated** (**blood supply to the herniated contents is compromised → gangrene**) — because **ICD-10-CM** hernia codes at every anatomical site branch at precisely this clinical **axis**, and failing to capture incarceration or **[[gangrene]]** significantly undercodes the encounter. **[[Herniation]]** is frequently confused with **[[prolapse]]** — the key difference is that [[prolapse]] describes the descent of an organ or structure along a natural body channel or opening (**e.g., rectal prolapse, uterine prolapse**), while **herniation** describes protrusion through an *abnormal* opening or structural defect.
 
 _____
 
@@ -52,10 +52,10 @@ _____
 >
 >|Component|Origin|Meaning|
 >|---|---|---|
->|**[[herni-]]**|Latin *hernia* (HER-nee-ah), noun|"**a rupture**," "**a protrusion**" — from Latin *hira* ("intestine," "gut"), from PIE root ****ghere-*** ("gut," "entrail"); literally the sensation or appearance of a torn or ruptured gut wall|
->|**[[-ation]]**|Latin *-ātiō*, *-ātiōnis*, noun-forming suffix|Noun-forming suffix — "**the act, process, or result of**" — creates abstract nouns from verbs and roots, denoting the process or condition of herniation|
+>|**[[herni-]]**|Latin *hernia* (HER-nee-ah), noun|"**a rupture**," "**a protrusion**" — from Latin *hira* ("**intestine**," "**gut**"), from PIE root ****ghere-*** ("**gut**," "**entrail**"); literally the sensation or appearance of a torn or ruptured gut wall|
+>|**[[-ation]]**|Latin *-ātiō*, *-ātiōnis*, noun-forming suffix|Noun-forming suffix — "**the act, process, or result of**" — creates abstract nouns from verbs and roots, denoting the process or condition of [[herniation]]|
 >
-> The root noun *hernia* entered English in the **late 14th century** (c. 1390s) as *hirnia*, borrowed directly from Latin *hernia* meaning "a rupture," related to *hira* "intestine," tracing to PIE ***[[ghere-]]** "gut, entrail" — literally **"a rupturing or bursting forth of gut."** The re-Latinized spelling *hernia* became standard in English by the 17th century. The derived adjective *herniated* is first recorded in **1819**, and the noun *herniation* — describing the process or act — followed in clinical usage during the 19th and early 20th centuries as anatomical classification of the condition matured. The suffix *[[-ation]]* is one of the most productive nominalizing suffixes in medical English, appearing in ***inflammation***, ***[[prolapse]]*** (via Latin), ***[[laceration]]***, ***[[ossification]]***, and ***[[dislocation]]***. The root *[[herni-]]* is relatively narrow in productivity, appearing almost exclusively in compounds: ***[[herniorrhaphy]]*** (**herni- + -rrhaphy → surgical suture repair of a hernia**), ***[[hernioplasty]]*** (**herni- + -plasty → surgical reconstruction with mesh**), ***[[herniotomy]]*** (**herni- + -tomy → incision into a hernia sac**), and ***[[hernioscopy]]*** (**herni- + -scopy → endoscopic examination**).
+> The root noun *hernia* entered English in the **late 14th century** (c. 1390s) as *hirnia*, borrowed directly from Latin *hernia* meaning "a rupture," related to *hira* "intestine," tracing to PIE ***[[ghere-]]** "gut, entrail" — literally **"a rupturing or bursting forth of gut."** The re-Latinized spelling *hernia* became standard in English by the 17th century. The derived adjective *herniated* is first recorded in **1819**, and the noun *herniation* — describing the process or act — followed in clinical usage during the 19th and early 20th centuries as anatomical classification of the condition matured. The suffix *[[-ation]]* is one of the most productive nominalizing suffixes in medical English, appearing in ***inflammation***, ***[[prolapse]]*** (via Latin), ***[[laceration]]***, ***[[ossification]]***, and ***[[dislocation]]***. The root *[[herni-]]* is relatively narrow in productivity, appearing almost exclusively in compounds: ***[[herniorrhaphy]]*** (**[[herni-]] + [[-rrhaphy]] → surgical suture repair of a hernia**), ***[[hernioplasty]]*** (**[[herni-]] + [[-plasty]] → surgical reconstruction with mesh**), ***[[herniotomy]]*** (**[[herni-]] + [[-tomy]] → incision into a hernia sac**), and ***[[hernioscopy]]*** (**[[herni-]] + [[-scopy]] → endoscopic examination**).
 
 _____
 
@@ -66,7 +66,7 @@ _____
 > - **Prolapsed disc / Slipped disc / Ruptured disc** _(lay and clinical synonyms for intervertebral disc herniation — "slipped disc" is a lay term only; "prolapsed disc" and "ruptured disc" appear in clinical and operative notes; all code to M50.x or M51.x depending on region)_
 > - **Herniated nucleus pulposus (HNP)** _(formal clinical term for disc herniation — specifically refers to extrusion of the soft nucleus pulposus through the annulus fibrosus; the operative report and MRI report phrase that most reliably drives code selection for M50.x / M51.x)_
 > - **Disc extrusion** _(subtype of disc herniation where nucleus pulposus material breaks completely through the annulus but remains attached; distinguished from sequestration, in which the extruded fragment is free/detached; both coded under M50.x or M51.x based on region and symptomatology)_
-> - **Disc sequestration** _(a free fragment of nucleus pulposus that has separated from the disc entirely; the most surgically urgent disc herniation subtype due to unpredictable migration; coded M50.x or M51.x by site)_
+> - **Disc [[sequestration]]** _(a free fragment of nucleus pulposus that has separated from the disc entirely; the most surgically urgent disc herniation subtype due to unpredictable migration; coded M50.x or M51.x by site)_
 > - **Incarcerated hernia** _(abdominal hernia in which the herniated contents are trapped in the defect and cannot be reduced; involves obstruction without vascular compromise; coded with the "with obstruction, without gangrene" fifth-digit variant at each anatomical site — e.g., **[[K40.30]]**)_
 > - **Strangulated hernia** _(abdominal hernia in which the blood supply to the herniated contents is cut off → ischemia → gangrene; a surgical emergency; coded with the "with gangrene" fifth-digit variant at each site — e.g., **[[K40.40]]**)_
 > - **Brain herniation / Cerebral herniation** _(displacement of brain tissue across dural boundaries due to elevated ICP; subtypes include uncal herniation, central/transtentorial herniation, subfalcine herniation, tonsillar herniation into foramen magnum; all coded **[[G93.5]]**)_
@@ -77,18 +77,18 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 >
-> - **[[Prolapse]]** — distinguished from **herniation** by the pathway: prolapse occurs along natural body channels or openings (**rectal, uterine, valvular prolapse**), while **herniation** occurs through *abnormal* defects or ruptures in structural walls
+> - **[[prolapse]]** — distinguished from **herniation** by the pathway: prolapse occurs along natural body channels or openings (**rectal, uterine, valvular prolapse**), while **herniation** occurs through *abnormal* defects or ruptures in structural walls
 > - **Nucleus pulposus** — the gelatinous inner core of the intervertebral disc; the primary structure that herniates in disc **herniation**; its extrusion through the annulus **fibrosus** is the mechanism of disc **herniation**
 > - **Annulus fibrosus** — the tough outer **fibrocartilaginous** ring of the intervertebral disc; a tear or fissure in the annulus is the structural prerequisite for nucleus pulposus **herniation**
 > - **[[Radiculopathy]]** — nerve root compression or irritation — the most common neurological consequence of disc **herniation**; produces dermatomal pain, paresthesia, and weakness in the extremity supplied by the affected root; coded M50.1x (**cervical**) or M51.1x (**lumbar/thoracic**)
 > - **[[Myelopathy]]** — spinal cord compression — a more severe consequence of central disc **herniation**, producing bilateral **weakness**, gait disturbance, and **bowel/bladder dysfunction**; coded M50.0x (**cervical**) or M51.0x (**lumbar**); spinal cord symptoms drive a higher level of surgical urgency
 > - **Cauda equina syndrome** — emergency compression of the cauda equina nerve roots by a massive central lumbar disc **herniation**; presents with bilateral leg **weakness**, saddle anesthesia, and **bowel/bladder dysfunction**; coded **[[G83.4]]**; a direct surgical emergency that overrides conservative management
 > - **[[Sciatica]]** — lumbar radicular pain radiating down the posterior leg in the **L4-S1** distribution; the most common clinical presentation of lumbar disc **herniation**; coded M54.4x by laterality when documented as **sciatica** NOS — but when disc **herniation** is confirmed as the cause, **M51.16/M51.17** with **radiculopathy** is preferred per **ICD-10-CM** Excludes1 instruction
-> - **Degenerative disc disease (DDD)** — chronic progressive degeneration of the intervertebral disc that predisposes to **herniation**; coded M50.3x (**cervical**) or M51.3x (**thoracolumbar/lumbar**); distinguish from acute herniation because treatment pathways and coding differ
+> - **Degenerative disc disease (DDD)** — chronic progressive degeneration of the intervertebral disc that predisposes to **herniation**; coded M50.3x (**cervical**) or M51.3x (**thoracolumbar/[[lumbar]]**); distinguish from acute herniation because treatment pathways and coding differ
 > - **Herniorrhaphy** — surgical repair of a hernia by suture closure of the fascial defect; shares the *[[herni-]]* root; the foundational procedure for abdominal wall **herniation** prior to the era of mesh repair
 > - **[[Hernioplasty]]** — surgical repair of a hernia augmented with mesh prosthesis; now the dominant technique for inguinal and incisional hernia repair; improved recurrence rates compared to **herniorrhaphy** alone
 > - **[[discectomy]]** — surgical removal of herniated disc material; the definitive procedure for disc **herniation** with nerve **compression**; **CPT** codes **[[63030]]** (**lumbar, initial**) / **[[63042]]** (**lumbar, reoperative**) / **[[63020]]** (**cervical**)
-> - **MRI spine** — the gold standard imaging modality for diagnosis of disc **herniation**; directly visualizes disc material, annular tears, nerve root **compression**, and cord signal changes; **CPT [[72148]]** (**lumbar without contrast**) / **[[72141]]** (**cervical without contrast**)
+> - **MRI spine** — the gold standard imaging modality for diagnosis of disc **[[herniation]]**; directly visualizes disc material, annular tears, nerve root **[[compression]]**, and cord signal changes; **CPT [[72148]]** (**lumbar without contrast**) / **[[72141]]** (**cervical without contrast**)
 
 _____
 
@@ -101,13 +101,13 @@ _____
 >
 > |Code|Description|
 > |---|---|
-> |M50|Cervical intervertebral disc disorders — **parent/header code, NOT billable**|
-> |M50.0|Cervical disc disorder with myelopathy — **subcategory, NOT billable** (requires 6th character for level)|
+> |M50-|Cervical intervertebral disc disorders — **parent/header code, NOT billable**|
+> |M50.0-|Cervical disc disorder with myelopathy — **subcategory, NOT billable** (requires 6th character for level)|
 > |**[[M50.00]]**|Cervical disc disorder with myelopathy, unspecified cervical region|
 > |**[[M50.01]]**|Cervical disc disorder with myelopathy, high cervical region (C2-3, C3-4)|
 > |**[[M50.02]]**|Cervical disc disorder with myelopathy, mid-cervical region, unspecified level (C4-5, C5-6, C6-7)|
 > |**[[M50.03]]**|Cervical disc disorder with myelopathy, cervicothoracic region (C7-T1)|
-> |M50.1|Cervical disc disorder with radiculopathy — **subcategory, NOT billable** (requires 6th character)|
+> |M50.1-|Cervical disc disorder with radiculopathy — **subcategory, NOT billable** (requires 6th character)|
 > |**[[M50.10]]**|Cervical disc disorder with radiculopathy, unspecified cervical region|
 > |**[[M50.11]]**|Cervical disc disorder with radiculopathy, high cervical region|
 > |**[[M50.12]]**|Cervical disc disorder with radiculopathy, mid-cervical region, unspecified level|
@@ -121,7 +121,7 @@ _____
 >
 > |Code|Description|
 > |---|---|
-> |M51|Thoracic, thoracolumbar, and lumbosacral intervertebral disc disorders — **parent/header code, NOT billable**|
+> |M51-|Thoracic, thoracolumbar, and lumbosacral intervertebral disc disorders — **parent/header code, NOT billable**|
 > |**[[M51.04]]**|Intervertebral disc disorders with myelopathy, thoracic region|
 > |**[[M51.05]]**|Intervertebral disc disorders with myelopathy, thoracolumbar region|
 > |**[[M51.06]]**|Intervertebral disc disorders with myelopathy, lumbar region|
@@ -136,7 +136,7 @@ _____
 >
 > |Code|Description|
 > |---|---|
-> |K40|Inguinal hernia — **parent/header code, NOT billable**|
+> |K40-|Inguinal hernia — **parent/header code, NOT billable**|
 > |**[[K40.00]]**|Bilateral inguinal hernia, with obstruction, without gangrene, not specified as recurrent|
 > |**[[K40.01]]**|Bilateral inguinal hernia, with obstruction, without gangrene, recurrent|
 > |**[[K40.10]]**|Bilateral inguinal hernia, with gangrene, not specified as recurrent|
@@ -154,7 +154,7 @@ _____
 >
 > |Code|Description|
 > |---|---|
-> |K43|Ventral hernia — **parent/header code, NOT billable**|
+> |K43-|Ventral hernia — **parent/header code, NOT billable**|
 > |**[[K43.0]]**|Incisional hernia with obstruction, without gangrene|
 > |**[[K43.1]]**|Incisional hernia with gangrene (gangrenous incisional hernia)|
 > |**[[K43.2]]**|Incisional hernia without obstruction or gangrene|
@@ -233,7 +233,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[herniation]].definition, word))) > 0 AND file.name != [[herniation]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

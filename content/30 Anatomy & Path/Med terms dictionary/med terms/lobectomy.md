@@ -65,7 +65,7 @@ _____
 >
 > - **[[Segmentectomy]]** — an anatomic resection smaller than a lobectomy; in the lung, it removes a bronchopulmonary segment rather than a complete lobe.
 > - **[[Wedge resection]]** — a nonanatomic, limited excision of a lesion with surrounding tissue; it does not follow the full lobe’s anatomy.
-> - **[[Pneumonectomy]]** — removal of an entire lung, making it more extensive than a pulmonary lobectomy.
+> - **[[pneumonectomy]]** — removal of an entire lung, making it more extensive than a pulmonary lobectomy.
 > - **[[Hemithyroidectomy]]** — unilateral removal of thyroid tissue; often used interchangeably with thyroid lobectomy when an entire lobe is removed.
 > - **[[Hepatectomy]]** — a broader term for liver resection that can include partial, segmental, lobar, or more extensive removal.
 > - **[[Lymphadenectomy]]** — surgical removal of lymph nodes, which may be separately performed for staging or treatment during oncologic pulmonary surgery.

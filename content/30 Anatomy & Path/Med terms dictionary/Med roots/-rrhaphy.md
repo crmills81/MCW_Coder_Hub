@@ -57,7 +57,7 @@ In medical coding, **[[-rrhaphy]]** indicates that the surgeon performed a **rep
 
 ### **Urology / Gynecology**
 - **[[Cystorrhaphy]]** - Suturing of the bladder  
-- **[[Colporrhaphy]]** - Suturing of the vaginal wall (often for prolapse repair)  
+- **[[Colporrhaphy]]** - Suturing of the vaginal wall (often for [[prolapse]] repair)  
 
 ### **Trauma / Wound Repair**
 - **[[Neurorrhaphy]]** - Suturing of a severed nerve  
