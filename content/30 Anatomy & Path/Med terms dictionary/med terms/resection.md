@@ -67,7 +67,7 @@ _____
 > - **[[-ectomy]]** — Greek suffix meaning surgical removal; the CPT/clinical equivalent of resection (e.g., colectomy, nephrectomy, gastrectomy)
 > - **[[Anastomosis]]** — surgical reconnection of bowel or tubular structures following resection; often performed as part of the same operative session
 > - **[[lobectomy]]** — resection of an entire lobe (lung or liver); prototype ICD-10-PCS resection
-> - **[[Cholecystectomy]]** — resection of entire gallbladder; classic example of ICD-10-PCS root operation Resection
+> - **[[cholecystectomy]]** — resection of entire gallbladder; classic example of ICD-10-PCS root operation Resection
 > - **[[Colectomy]]** — resection of part or all of the colon; partial = Excision; total = Resection in ICD-10-PCS
 > - **[[Nephrectomy]]** — resection of the kidney; radical vs. partial nephrectomy determines ICD-10-PCS root operation
 > - **[[Mastectomy]]** — resection of the breast; total = ICD-10-PCS Resection

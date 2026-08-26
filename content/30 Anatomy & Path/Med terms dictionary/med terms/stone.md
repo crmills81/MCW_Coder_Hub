@@ -85,7 +85,7 @@ _____
 > - **[[Cystolithiasis]]** _(bladder stone disease; coded commonly as [[N21.0]])_
 > - **[[Cholelithiasis]]** _(gallstone disease; uncomplicated gallbladder stone without cholecystitis or obstruction is coded as [[K80.20]])_
 > - **[[Choledocholithiasis]]** _(common bile duct stone; uncomplicated bile duct stone without cholangitis/cholecystitis or obstruction is coded as [[K80.50]])_
-> - **[[Sialolithiasis]]** _(salivary gland or salivary duct stone; coded as [[K11.5]])_
+> - **[[sialolithiasis]]** _(salivary gland or salivary duct stone; coded as [[K11.5]])_
 > - **[[Tonsillolith]]** _(tonsil stone; generally coded under other chronic diseases of tonsils/adenoids as [[J35.8]])_
 > - **Staghorn calculus** _(large branching renal collecting-system stone, often infection-related; coded by site, commonly [[N20.0]], with additional infection or obstruction codes when documented)_
 > - **Obstructing stone** _(stone causing blockage of urine, bile, saliva, or other drainage; urinary obstruction with hydronephrosis may be coded as [[N13.2]] when documented)_
@@ -104,8 +104,8 @@ _____
 > - **[[Cholelithiasis]]** — gallstone disease; may be uncomplicated ([[K80.20]]) or complicated by obstruction, cholecystitis, cholangitis, or pancreatitis.
 > - **[[Choledocholithiasis]]** — stone in the common bile duct; uncomplicated bile duct calculus without obstruction is coded as [[K80.50]], while obstruction changes code selection.
 > - **[[Cholangitis]]** — infection/inflammation of the bile ducts, often triggered by an obstructing common bile duct stone; when due to bile duct calculus, combination codes in the K80 series are used.
-> - **[[Cholecystitis]]** — inflammation of the gallbladder; when caused by gallstones, calculous cholecystitis is coded with K80 combination codes such as [[K80.00]] or [[K80.10]] depending on acuity and obstruction.
-> - **[[Sialolithiasis]]** — salivary stone disease; coded as [[K11.5]] and often presents with painful swelling during meals.
+> - **[[cholecystitis]]** — inflammation of the gallbladder; when caused by gallstones, calculous cholecystitis is coded with K80 combination codes such as [[K80.00]] or [[K80.10]] depending on acuity and obstruction.
+> - **[[sialolithiasis]]** — salivary stone disease; coded as [[K11.5]] and often presents with painful swelling during meals.
 > - **Tonsillolith** — calcified or inspissated debris in tonsillar crypts; generally coded as [[J35.8]] when clinically significant.
 > - **[[Calcification]]** — mineral deposition within tissue; differs from a stone because it is embedded in tissue rather than a free or obstructing concretion in a lumen or duct.
 > - **Crystal** — microscopic precipitated mineral or chemical structure; crystals may be precursors to stones but are not the same as macroscopic calculi.

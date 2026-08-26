@@ -1,7 +1,6 @@
 ---
 tags:
   - medterm
-  - medroot
 aliases:
   - biliary tract infection
   - Cholangitis
@@ -62,7 +61,7 @@ _____
 > 
 > - **[[Choledocholithiasis]]:** The presence of a gallstone in the common bile duct; this is often the _cause_ of cholangitis but not the infection itself.
 >     
-> - **[[Cholecystitis]]:** Inflammation of the _gallbladder_ (usually due to a stone in the cystic duct), rather than the bile ducts.
+> - **[[cholecystitis]]:** Inflammation of the _gallbladder_ (usually due to a stone in the cystic duct), rather than the bile ducts.
 >     
 > - **Primary Sclerosing Cholangitis (PSC):** A chronic, [[autoimmune]]-mediated inflammation and scarring of the bile ducts, distinct from acute bacterial ascending cholangitis.
 >     

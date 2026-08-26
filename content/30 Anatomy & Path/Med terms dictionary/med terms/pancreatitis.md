@@ -66,7 +66,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Cholecystitis]]** — inflammation of the gallbladder; a key differential (shares upper-abdominal pain) and a *cause* of gallstone pancreatitis when a stone passes into the bile/pancreatic duct.
+> - **[[cholecystitis]]** — inflammation of the gallbladder; a key differential (shares upper-abdominal pain) and a *cause* of gallstone pancreatitis when a stone passes into the bile/pancreatic duct.
 > - **[[Cholelithiasis]] / [[choledocholithiasis]]** — [[gallstones]] in the gallbladder/common bile duct; the leading cause of acute [[pancreatitis]]; sequence the biliary code per the K85.1 instruction.
 > - **Pancreatic [[pseudocyst]]** — a walled-off fluid collection that develops after acute or chronic pancreatitis (K86.2/K86.3); a sequela, not the inflammation.
 > - **[[Pancreatic necrosis]]** — devitalized pancreatic tissue in severe acute disease; the feature that separates necrotizing from interstitial pancreatitis and drives the 6th-character code.

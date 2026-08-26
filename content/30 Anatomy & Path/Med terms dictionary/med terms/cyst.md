@@ -71,7 +71,7 @@ _____
 > - **[[cystectomy]]** — surgical excision of a cyst or of the urinary bladder; contextual use determines coding (radical cystectomy for bladder cancer vs. cyst excision)
 > - **[[Cystic fibrosis]]** — a genetic disorder (CFTR gene mutation) that causes systemic exocrine gland dysfunction with mucus accumulation; named for the characteristic cystic changes in the pancreas; [[E84.0]]-[[E84.9]]; not a "cyst" in the pathologic sense
 > - **Polycystic kidney disease (PKD)** — hereditary condition causing bilateral renal cyst formation; autosomal dominant [[Q61.2]], autosomal recessive [[Q61.3]]; distinct from simple renal cyst [[N28.1]]
-> - **[[Cholecystitis]]** — inflammation of the gallbladder (chole + kystis); shares root with "cyst" through *kystis* meaning bladder/sac; coded to [[K81.0]]-[[K81.9]]
+> - **[[cholecystitis]]** — inflammation of the gallbladder (chole + kystis); shares root with "cyst" through *kystis* meaning bladder/sac; coded to [[K81.0]]-[[K81.9]]
 > - **Dermoid cyst** — a congenital teratomatous cyst containing ectodermal elements (hair, sebum, teeth); benign ovarian dermoid coded to [[D27.9]] or [[D27.1]]/[[D27.2]]; orbital dermoid coded to [[D31.60]]-[[D31.62]] — high frequency in ophthalmology OT admissions
 > - **Meibomian cyst** — also called a [[chalazion]]; a lipogranulomatous cyst of the meibomian gland of the eyelid; [[H00.11]]-[[H00.19]]; distinguish from hordeolum (stye) — high frequency in ophthalmology
 > - **Ultrasound** — primary diagnostic modality for characterizing cysts by Bosniak classification (renal), size, septation, and internal echogenicity

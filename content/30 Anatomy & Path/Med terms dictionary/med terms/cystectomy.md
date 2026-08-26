@@ -58,7 +58,7 @@ _____
 > - **Cystectomy with ureterosigmoidostomy** _(urinary diversion to sigmoid colon; [[51580]], [[51585]])_
 > - **Pelvic exenteration** _(extended cystectomy involving removal of all pelvic organs — bladder, reproductive organs, rectum; [[51597]])_
 > - **Laparoscopic/robotic cystectomy** _(minimally invasive approach; no specific CPT — use 51999 unlisted + comparison to open equivalent)_
-> - **[[Cholecystectomy]]** _(gallbladder removal — shares the _cysto-_ root but refers to the bile sac, NOT the urinary bladder; do not confuse)_
+> - **[[cholecystectomy]]** _(gallbladder removal — shares the _cysto-_ root but refers to the bile sac, NOT the urinary bladder; do not confuse)_
 
 _____
 
@@ -72,7 +72,7 @@ _____
 > - **[[Ileal conduit]]** — the most common urinary diversion method following radical cystectomy; uses a segment of ileum; also called Bricker operation (CPT [[50820]])
 > - **[[Neobladder]]** — continent urinary diversion using reconfigured bowel segment to create an internal reservoir; coded [[51596]]
 > - **Pelvic exenteration** — most radical form of cystectomy; removes all pelvic viscera; coded [[51597]]
-> - **[[Cholecystectomy]]** — gallbladder excision; frequently confused due to *cysto-* prefix — anatomic distinction critical for coding accuracy
+> - **[[cholecystectomy]]** — gallbladder excision; frequently confused due to *cysto-* prefix — anatomic distinction critical for coding accuracy
 > - **[[Nephrectomy]]** — shares *-ectomy* suffix; excision of the kidney; may be performed concomitantly in select cases involving ureteral/renal involvement
 > - **Bladder cancer** — most common indication for radical cystectomy; ICD-10-CM codes [[C67.0]]-[[C67.9]] based on site within the bladder
 > - **Interstitial cystitis** — chronic inflammatory bladder condition; may lead to cystectomy in refractory cases; [[N30.10]], [[N30.11]]

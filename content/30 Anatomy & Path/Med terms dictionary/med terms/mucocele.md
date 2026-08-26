@@ -60,7 +60,7 @@ _____
 > 
 > - **[[Abscess]]** — a localized collection of pus; unlike a **mucocele**, an **[[abscess]]** is fundamentally infectious and purulent rather than mucoid.
 > - **[[Hydrocele]]** — shares the *[[-cele]]* root; a fluid-filled sac, but specifically filled with serous fluid (**typically in the scrotum**) rather than viscous mucus.
-> - **[[Sialolithiasis]]** — the formation of salivary gland stones; a primary mechanism term representing the obstructive cause of many retention mucoceles.
+> - **[[sialolithiasis]]** — the formation of salivary gland stones; a primary mechanism term representing the obstructive cause of many retention mucoceles.
 > - **[[Dacryocystocele]]** — a congenital **mucocele** of the lacrimal sac caused by obstruction of the [[nasolacrimal]] duct.
 > - **[[cyst]]** — a broader term for any closed sac with a distinct membrane; retention mucoceles are true cysts, while extravasation mucoceles are **pseudocysts**.
 > - **[[Appendicitis]]** — inflammation of the appendix, which can mimic or occasionally co-occur with an appendiceal mucocele.
