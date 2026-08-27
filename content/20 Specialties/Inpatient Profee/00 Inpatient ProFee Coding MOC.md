@@ -15,8 +15,8 @@
 
 ## ❤️‍🩹 Modifiers & Rules
 - [[Inpatient Modifiers]]
-- [[Split -Shared Visits]]
-- [[Teaching Physician Rules]]
+- [[FS -- Split-Shared Visits]]
+- [[GC -- Teaching Physician Rules]]
 - [[NCCI Edits for Inpatient]]
 
 ## 🧑 Services

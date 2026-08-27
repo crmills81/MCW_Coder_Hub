@@ -38,7 +38,7 @@ status: complete
 
 ## 📌 Why This Matters to Coders
 
-MS-DRGs are the **final output** of everything an inpatient coder does. Every ICD-10-CM diagnosis, every ICD-10-PCS procedure, every CC and MCC captured — it all feeds the DRG grouper. Getting the DRG right is not about upcoding; it is about **complete and accurate representation** of the severity and complexity of the patient's hospital stay.
+**[[MS-DRG]]s** are the **final output** of everything an inpatient coder does. Every ICD-10-CM diagnosis, every ICD-10-PCS procedure, every CC and MCC captured — it all feeds the DRG grouper. Getting the DRG right is not about upcoding; it is about **complete and accurate representation** of the severity and complexity of the patient's hospital stay.
 
 > [!important] Core Principle
 > Coders do not *assign* DRGs. Coders assign **diagnoses and procedures**. The grouper software assigns the DRG based on those codes. Your job is to make sure the codes are complete, sequenced correctly, and supported by documentation.
@@ -64,6 +64,7 @@ MS-DRGs are the **final output** of everything an inpatient coder does. Every IC
 ---
 
 ## 📖 Background & History
+<br>
 
 ### Origins
 
@@ -179,7 +180,7 @@ This is the most **actionable** area for coders and CDI professionals.
 
 1. **CMS publishes the CC/MCC designation list** annually — each ICD-10-CM diagnosis code is classified as MCC, CC, or Non-CC.
 2. Secondary diagnoses are evaluated against this list.
-3. **CC Exclusion List**: Some diagnosis pairs are excluded — a CC/MCC is suppressed if it is too closely related to (or part of) the principal diagnosis. Example: Coding [[N18.6]] (ESRD) as a CC when [[50 Medical Coding/ICD-10 Codes/Z99.2]] (dependence on renal dialysis) is the principal would typically be excluded.
+3. **CC Exclusion List**: Some diagnosis pairs are excluded — a CC/MCC is suppressed if it is too closely related to (or part of) the principal diagnosis. Example: Coding **[[N18.6]]** (ESRD) as a CC when **[[Z99.2]]** (dependence on renal dialysis) is the principal would typically be excluded.
 4. **POA Indicator**: A diagnosis present on admission may still qualify as a CC/MCC — but if it is a **Hospital-Acquired Condition (HAC)**, it is excluded from CC/MCC logic.
 5. The **highest-severity qualifying secondary diagnosis** determines the DRG tier.
 
@@ -191,7 +192,7 @@ This is the most **actionable** area for coders and CDI professionals.
 | MCC Code   | Description                            | Notes                                                           |
 | ---------- | -------------------------------------- | --------------------------------------------------------------- |
 | **[[J69.0]]** | Acute respiratory failure, unspecified | Extremely high-value MCC                                        |
-| **[[J96.01]]** | Acute respiratory failure w/ hypoxia   | Preferred specificity over J96.00                               |
+| **[[J96.01]]** | Acute respiratory failure w/ hypoxia   | Preferred specificity over [[J96.00]]                               |
 | **[[N17.9]]**  | Acute kidney injury (AKI)              | Ubiquitous MCC; requires documentation of AKI distinct from CKD |
 | **[[D69.6]]**  | Thrombocytopenia, unspecified          | Common secondary finding                                        |
 | **[[K72.00]]** | Acute hepatic failure                  |                                                                 |
@@ -265,7 +266,7 @@ Base DRG: Renal Failure
   └─────────────────────────────────────────┘
 ```
 
-If you add [[J96.01]] (Acute hypoxic respiratory failure) as a secondary dx → the case moves from DRG 684 to DRG **682**. The RW difference: 1.85 − 0.72 = **1.13 RW units.** At a $6,000 base rate, that equals **~$6,780 in additional reimbursement** — for one appropriately documented secondary diagnosis.
+If you add **[[J96.01]]** (Acute hypoxic respiratory failure) as a secondary dx → the case moves from DRG **684** to DRG **682**. The RW difference: 1.85 − 0.72 = **1.13 RW units.** At a $6,000 base rate, that equals **~$6,780 in additional reimbursement** — for one appropriately documented secondary diagnosis.
 
 ---
 
@@ -274,10 +275,10 @@ If you add [[J96.01]] (Acute hypoxic respiratory failure) as a secondary dx → 
 Within each MDC, the grouper first asks: **Is there a qualifying OR procedure?**
 
 ### Surgical DRGs
-- Assigned when an ICD-10-PCS procedure code maps to a **CMS-defined OR procedure** for that MDC
+- Assigned when an **ICD-10-PCS procedure code** maps to a **CMS-defined OR procedure** for that MDC
 - OR procedures are CMS-designated, not necessarily literally performed in an operating room
 - Generally carry **higher relative weights** than medical DRGs in the same MDC
-- Example: 0VT04ZZ (Resection of prostate, open) → surgical DRG pathway in MDC 12
+- Example: **0VT04ZZ** (Resection of prostate, open) → surgical DRG pathway in MDC 12
 
 ### Medical DRGs
 - No qualifying OR procedure coded
@@ -285,17 +286,17 @@ Within each MDC, the grouper first asks: **Is there a qualifying OR procedure?**
 - Heavily dependent on CC/MCC capture for appropriate reimbursement
 
 ### Unrelated OR Procedure DRGs
-- If a procedure is performed but is **unrelated** to the principal diagnosis MDC, the case may fall into MDC 24 (multiple significant trauma) or a high-cost DRG
+- If a procedure is performed but is **unrelated** to the principal diagnosis MDC, the case may fall into **MDC 24** (multiple significant trauma) or a high-cost DRG
 - Coders must verify that all procedures are coded and that the principal procedure is selected correctly
 
 > [!warning] OR Procedure Designation Is CMS-Defined
-> Not every procedure coded in PCS qualifies as an "OR procedure" for DRG purposes. CMS publishes the OR procedure list annually. Misidentifying whether a procedure qualifies is a common source of DRG error.
+> Not every procedure coded in PCS qualifies as an "**OR procedure**" for DRG purposes. **CMS** publishes the OR procedure list annually. Misidentifying whether a procedure qualifies is a common source of DRG error.
 
 ---
 
 ## 📋 Base DRGs and Their Splits
 
-Most DRGs come in triplets (w/ MCC / w/ CC / w/o CC/MCC). Some have only two tiers or a single DRG (no split). A handful are procedure-specific without CC/MCC splits.
+Most DRGs come in triplets (**w/ MCC / w/ CC / w/o CC/MCC**). Some have only two tiers or a single DRG (**no split**). A handful are procedure-specific without CC/MCC splits.
 
 ### Reading the CMS DRG Table
 
@@ -311,7 +312,7 @@ Most DRGs come in triplets (w/ MCC / w/ CC / w/o CC/MCC). Some have only two tie
 
 ### Two-Way Splits (w/ CC/MCC vs w/o)
 
-Some DRGs do not separate CC from MCC — both qualify for the higher tier:
+Some DRGs do not separate **CC** from **MCC** — both qualify for the higher tier:
 
 | DRG     | Description                                         |
 | ------- | --------------------------------------------------- |
@@ -330,7 +331,7 @@ High-complexity procedures that are uniformly resource-intensive regardless of C
 
 ### 🫘 Urology — MDC 11 & MDC 12
 
-Urology spans two MDCs: kidney/urinary tract (11) and male reproductive (12).
+**[[Urology]]** spans two MDCs: kidney/urinary tract (11) and male reproductive (12).
 
 **High-value surgical DRGs:**
 
@@ -343,20 +344,20 @@ Urology spans two MDCs: kidney/urinary tract (11) and male reproductive (12).
 | **734/735**     | Pelvic evisceration, radical cystectomy & ureterectomy w/ MCC/no CC | Major oncology       |
 
 **Key MCCs/CCs to capture in Urology:**
-- [[N17.9]] — AKI (especially post-op or in obstruction cases)
-- [[N18.30]], [[N18.4]], [[N18.5]] — CKD stages (CCs/MCCs depending on stage)
-- [[R33.9]] — Urinary retention (context-dependent)
-- T83.xxx — Complications of genitourinary prosthetics/devices (CC/MCC depending on specificity)
-- [[A41.51]] — Sepsis due to Escherichia coli (MCC — common in urosepsis)
+- **[[N17.9]]** — AKI (especially post-op or in obstruction cases)
+- **[[N18.30]], [[N18.4]], [[N18.5]]** — CKD stages (CCs/MCCs depending on stage)
+- **[[R33.9]]** — Urinary retention (context-dependent)
+- **T83.xxx** — Complications of genitourinary prosthetics/devices (CC/MCC depending on specificity)
+- **[[A41.51]]** — Sepsis due to Escherichia coli (MCC — common in urosepsis)
 
 > [!tip] Urosepsis Is Not a Diagnosis
-> "**Urosepsis**" has no ICD-10-CM code. When documented, query for **sepsis** with urinary tract as the source. Coding only [[N39.0]] (UTI) misses the MCC opportunity for A41.xx + [[R65.20]] or [[R65.21]] (severe sepsis).
+> "**Urosepsis**" has **no ICD-10-CM code**. When documented, query for **sepsis** with urinary tract as the source. Coding only **[[N39.0]]** (UTI) misses the MCC opportunity for **A41.xx** + **[[R65.20]]** or [**[R65.21]]** (severe sepsis).
 
 ---
 
 ### 👂 Otolaryngology / ENT — MDC 03
 
-MDC 03 covers ear, nose, mouth, and throat. OTO cases frequently involve head and neck oncology, laryngeal procedures, sinus surgery, and salivary gland work.
+**MDC 03** covers ear, nose, mouth, and throat. OTO cases frequently involve **head and neck oncology, laryngeal procedures, sinus surgery, and salivary gland work.**
 
 **High-value surgical DRGs:**
 
@@ -369,47 +370,47 @@ MDC 03 covers ear, nose, mouth, and throat. OTO cases frequently involve head an
 | **157/158**     | Dental & oral procedures w/ CC/MCC / no CC                    | OMS cases                  |
 
 **Key MCCs/CCs for ENT:**
-- [[G47.33]] — Obstructive sleep apnea — CC; relevant in UPPP/tonsil cases
-- [[E11.65]] — T2DM with hyperglycemia — CC; common comorbidity in surgical cases
-- [[J04.0]] — Acute laryngitis (context-dependent)
-- [[J38.00]], [[J38.01]], [[J38.02]] — Vocal cord paralysis — relevant post-procedure
-- [[C32.0]]-[[C32.9]] — Malignant neoplasm of larynx — principal dx driving surgical DRG in laryngectomy
-- [[F17.210]] — Nicotine dependence, cigarettes — CC
+- **[[G47.33]]** — Obstructive sleep apnea — CC; relevant in UPPP/tonsil cases
+- **[[E11.65]]** — T2DM with hyperglycemia — CC; common comorbidity in surgical cases
+- **[[J04.0]]** — Acute laryngitis (context-dependent)
+- **[[J38.00]], [[J38.01]], [[J38.02]]** — Vocal cord paralysis — relevant post-procedure
+- **[[C32.0]]-[[C32.9]]** — Malignant neoplasm of larynx — principal dx driving surgical DRG in laryngectomy
+- **[[F17.210]]** — Nicotine dependence, cigarettes — CC
 
 > [!tip] Tracheostomy Is Pre-MDC
-> When an ENT patient requires a **tracheostomy with mechanical ventilation**, the case exits **MDC 03** entirely and enters **Pre-MDC DRG 003 or 004**. These carry relative weights of 14-19+. Always confirm tracheostomy PCS coding is complete. See 0B110F4 (bypass trachea) vs 0BH17EZ (insertion endotracheal airway).
+> When an ENT patient requires a **tracheostomy with mechanical ventilation**, the case exits **MDC 03** entirely and enters **Pre-MDC DRG 003 or 004**. These carry relative weights of 14-19+. Always confirm **[[tracheostomy]]** PCS coding is complete. See **0B110F4** (bypass trachea) vs **0BH17EZ** (insertion endotracheal airway).
 
 ---
 
 ### 👁️ Ophthalmology — MDC 02
 
-Ophthalmology inpatient cases are less common (most ophthalmic procedures are outpatient), but the ones that do present inpatient tend to involve complex retinal disease, trauma, or postoperative complications.
+**[[Ophthalmology]]** inpatient cases are less common (**most ophthalmic procedures are outpatient**), but the ones that do present inpatient tend to involve complex retinal disease, trauma, or postoperative complications.
 
 **Relevant DRGs in MDC 02:**
 
-| DRG | Description | Notes |
-|-----|-------------|-------|
-| 113/114/115 | Orbital procedures w/ MCC/CC/no CC | Orbital decompression, trauma |
-| 116/117/118 | Other disorders of the eye w/ MCC/CC/no CC | Broad medical DRG |
-| 121/122/123 | Acute major eye infections w/ MCC/CC/no CC | Endophthalmitis |
-| 124 | Neurological eye disorders | Cranial nerve disease |
-| 125 | Other disorders of the eye w/o CC/MCC | Lower acuity cases |
+| DRG         | Description                                | Notes                         |
+| ----------- | ------------------------------------------ | ----------------------------- |
+| **113/114/115** | Orbital procedures w/ MCC/CC/no CC         | Orbital decompression, trauma |
+| **116/117/118** | Other disorders of the eye w/ MCC/CC/no CC | Broad medical DRG             |
+| **121/122/123** | Acute major eye infections w/ MCC/CC/no CC | Endophthalmitis               |
+| **124**         | Neurological eye disorders                 | Cranial nerve disease         |
+| **125**         | Other disorders of the eye w/o CC/MCC      | Lower acuity cases            |
 
 **Key MCCs/CCs for Ophthalmology:**
-- [[H44.001]] — Purulent endophthalmitis (complex, MCC-eligible secondary if sepsis present)
-- [[E11.3511]] — T2DM with proliferative diabetic retinopathy — highly specific; CC
-- [[H40.033]] — Angle-closure glaucoma, chronic — see [[H40.033]]
-- [[H30.101]] — Unspecified chorioretinal inflammation — see [[H30.101]]
-- [[Z79.01]] — Long-term use of anticoagulants — CC; impacts surgical planning and documentation
+- **[[H44.001]]** — Purulent endophthalmitis (complex, MCC-eligible secondary if sepsis present)
+- **[[E11.3511]]** — T2DM with proliferative diabetic retinopathy — highly specific; CC
+- **[[H40.033]]** — Angle-closure glaucoma, chronic — see [[H40.033]]
+- **[[H30.101]]** — Unspecified chorioretinal inflammation — see [[H30.101]]
+- **[[Z79.01]]** — Long-term use of anticoagulants — CC; impacts surgical planning and documentation
 
 > [!note] Ophthalmology Inpatient Reality
-> Most ophthalmic procedures (cataract, glaucoma implant, retinal detachment repair) are done outpatient and do not generate a DRG. Inpatient ophthalmic DRGs most often occur when the **primary admission reason is non-ophthalmic** and an eye procedure is performed as secondary, or when the patient's systemic condition (diabetic retinopathy with tractional detachment, severe trauma) necessitates inpatient status.
+> Most ophthalmic procedures (**[[cataract]], [[glaucoma]] implant, [[retinal detachment]] repair**) are done outpatient and do not generate a DRG. Inpatient ophthalmic DRGs most often occur when the **primary admission reason is non-ophthalmic** and an eye procedure is performed as secondary, or when the patient's systemic condition (**[[diabetic retinopathy]] with tractional detachment, severe trauma**) necessitates inpatient status.
 
 ---
 
 ### 🦽 Physical Medicine & Rehabilitation (PM&R)
 
-PM&R cases fall under **CMS-certified Inpatient Rehabilitation Facilities (IRFs)** which use a **different payment system — IRF-PPS**, not IPPS/MS-DRGs. However, when PM&R patients are admitted to an **acute care hospital**, standard MS-DRG assignment applies.
+**PM&R** cases fall under **CMS-certified Inpatient Rehabilitation Facilities (IRFs)** which use a **different payment system — IRF-PPS**, not **IPPS/MS-DRGs**. However, when PM&R patients are admitted to an **acute care hospital**, standard MS-DRG assignment applies.
 
 **Common acute PM&R DRGs:**
 - **DRG 947/948** — Signs & symptoms w/ MCC / w/o CC/MCC
@@ -446,7 +447,7 @@ PM&R cases fall under **CMS-certified Inpatient Rehabilitation Facilities (IRFs)
 ### Query Best Practices
 
 > [!tip] Compliant Queries
-> Per AHIMA and ACDIS guidelines, queries must be:
+> Per **AHIMA** and **ACDIS guidelines**, queries must be:
 > - **Non-leading** — offer multiple clinically reasonable options including "clinically undetermined"
 > - **Based on clinical indicators** — not written to chase a DRG
 > - **Documented in the medical record** — query and response both become part of the record
@@ -544,16 +545,16 @@ PM&R cases fall under **CMS-certified Inpatient Rehabilitation Facilities (IRFs)
 ## 🔗 Related Notes
 
 - [[CC-MCC Reference]] — Full CC/MCC designation deep-dive with specialty tables
-- [[ICD-10-PCS_Overview]] — PCS structure and table navigation
+- [[ICD-10-PCS Overview]] — PCS structure and table navigation
 - [[MDC 11 - Urology]] — Kidney & urinary tract DRG map
 - [[MDC 12 - Male Reproductive]] — Male reproductive DRG map
 - [[MDC 03 - ENT]] — Ear, nose, mouth & throat DRG map
 - [[MDC 02 - Eye]] — Ophthalmology DRG map
-- [[IPPS_Payment_Overview]] — Full IPPS payment methodology
+- [[IPPS Payment Overview]] — Full IPPS payment methodology
 - [[CDI Query Templates]] — Compliant query language library
-- [[UHDDS_Principal_Diagnosis]] — Sequencing rules reference
-- [[POA_Indicator_Guide]] — Present on admission logic
-- [[HAC_List]] — Hospital-acquired conditions that affect CC/MCC
+- [[UHDDS Principal Diagnosis]] — Sequencing rules reference
+- [[POA Indicator Guide]] — Present on admission logic
+- [[HAC List]] — Hospital-acquired conditions that affect CC/MCC
 - [[G83.4]] — Cauda equina syndrome (PM&R)
 - [[N17.9]] — AKI (high-value MCC)
 - [[A41.9]] — Sepsis (MCC reference)

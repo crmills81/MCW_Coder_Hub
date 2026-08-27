@@ -22,7 +22,7 @@ the resident's findings and plan."
 [Signature/Date/Time]
 
 
-### Option 2: Reference Resident [[99214test]]
+### Option 2: Reference Resident [[99214]]
 **Teaching Physician Note:**
 "Resident's note reviewed. I saw patient with
 resident. Findings confirmed. Plan approved."

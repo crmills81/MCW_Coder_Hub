@@ -72,4 +72,4 @@
 
 [[00 Inpatient ProFee Coding MOC]]
 [[Medical Necessity for Inpatient]]
-[[Teaching Physician Rules]]
+[[GC -- Teaching Physician Rules]]
