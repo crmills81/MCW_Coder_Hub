@@ -46,7 +46,7 @@ _____
 > 
 > - **[[Laryngeal Reconstruction]]** _(broad clinical synonym; used interchangeably in ENT operative reports and inpatient documentation — encompasses open structural repair of the laryngeal framework)_
 > - **Laryngeal Framework Surgery** _(umbrella term used in otolaryngology/laryngology for any procedure modifying laryngeal cartilage — includes medialization, arytenoid repositioning, and cricothyroid approximation)_
-> - **[[Thyroplasty]]** _(phonosurgical subtype of laryngoplasty — modifies the thyroid cartilage specifically; four Isshiki types: Type I medialization, Type II lateralization, Type III relaxation/shortening, Type IV stretching/lengthening)_
+> - **[[thyroplasty]]** _(phonosurgical subtype of laryngoplasty — modifies the thyroid cartilage specifically; four Isshiki types: Type I medialization, Type II lateralization, Type III relaxation/shortening, Type IV stretching/lengthening)_
 > - **Medialization Laryngoplasty** _(most common subtype; implant placed through a cartilage window to medialize a paralyzed vocal fold; also called Type I thyroplasty; coded under [[31591]])_
 > - **Laryngoplasty with Cartilage Graft** _(open repair using autologous cartilage, most often costal or thyroid cartilage, to reconstruct or augment the laryngeal framework; coded under **[[31551]], [[31552]], [[31553]], [[31554]]** by age)_
 > - **Cricoid Split** _(anterior [[laryngoplasty]] variant used primarily in neonates and pediatric patients for subglottic [[stenosis]] — involves incision of the cricoid cartilage anteriorly ± posteriorly to expand the [[subglottis]]; coded under [[31587]])_
@@ -60,7 +60,7 @@ _____
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
 > - **[[Laryngectomy]]** — the opposite of **laryngoplasty** in intent; involves *partial or total removal* of the larynx rather than repair; partial **laryngectomy** may necessitate subsequent laryngoplasty for reconstruction (**ICD-10: [[Z90.29]] status post, CPT: [[31360]], [[31365]]**)
-> - **[[Thyroplasty]]** — shares the *[[laryngo-]]* root family and is the most clinically common subtype of [[laryngoplasty]]; specifically remodels the thyroid cartilage to alter vocal fold position or tension; four Isshiki types
+> - **[[thyroplasty]]** — shares the *[[laryngo-]]* root family and is the most clinically common subtype of [[laryngoplasty]]; specifically remodels the thyroid cartilage to alter vocal fold position or tension; four Isshiki types
 > - **[[Laryngeal Stenosis]]** — the most common structural indication for laryngoplasty requiring cartilage graft; defined as narrowing of the laryngeal lumen, graded by Cotton-Myer scale; ([[J38.6]])
 > - **[[Vocal Cord Paralysis]]** — primary functional indication for medialization **laryngoplasty**; results in [[dysphonia]], aspiration, and ineffective cough when glottic closure is incomplete; (**[[J38.00]], [[J38.01]], [[J38.02]]**)
 > - **[[Subglottic Stenosis]]** — pediatric-predominant indication for cartilage graft laryngoplasty (LTP); may be congenital or acquired post-intubation; Cotton-Myer Grades III-IV typically require surgical intervention; (**[[J38.6]], [[Q31.1]]**)
