@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Crystal's Coding Hub
+  pageTitle: ⚕️ Crystal's Coding Hub ⚕️
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -17,8 +17,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Roboto
-      body: Roboto
+      header: Inter
+      body: Inter
       code: IBM Plex Mono
     colors:
       lightMode:
