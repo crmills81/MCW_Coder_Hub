@@ -1,7 +1,7 @@
 **Tags:** #coding/rules #teaching #medicare #inpatient
 
 ## Definition
-Rules governing billing when residents participate in patient care under physician supervision.
+Rules governing billing when residents participate in patient care under physician supervision. See **[[-GC]]** for even more details.
 
 ## Key Requirements
 
@@ -69,6 +69,8 @@ agree with the assessment and plan."
 > [!TIP] Electronic Attestations
 > Many EHRs have built-in teaching physician attestation templates. Use them for consistency.
 
+
+[[-GC]]
 [[00 Inpatient ProFee Coding MOC]]
 [[Split Shared Visits]]
-[[Documentation Requirements Inpatient]]
+[[Documentation Requirements for Inpatient]]

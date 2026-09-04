@@ -1,7 +1,7 @@
 **Tags:** #coding/rules #inpatient #medicare
 
 ## Definition
-A split/shared visit is an E/M service provided jointly by a **physician and a non-physician practitioner (NPP)** in the same group.
+A split/shared visit is an E/M service provided jointly by a **physician and a non-physician practitioner (NPP)** in the same group. See **[[-FS]]** for more details.
 
 > [!example]
 > If the ANP wrote the note (Name at the very top) and MD came in and wrote their attestation "**I saw and evaluated the patient**", it would be billed with ANP and MD with **[[-FS]]** modififer
@@ -126,6 +126,7 @@ For **[[99291]]**/**[[99292]]**, forget **MDM** entirely — it's **time-only**.
 
 <br>
 
+[[-FS]]
 [[00 Inpatient ProFee Coding MOC]]
 [[GC -- Teaching Physician Rules]]
 [[Inpatient Modifiers]]
