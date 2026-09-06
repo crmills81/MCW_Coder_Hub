@@ -40,7 +40,7 @@ _____
 
 
 _____
->[!tip]+ DERIVATIONS of [[-oma]]
+>[!tip]- DERIVATIONS of [[-oma]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

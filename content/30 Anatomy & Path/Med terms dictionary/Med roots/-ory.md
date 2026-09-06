@@ -8,7 +8,7 @@ forms:
   - suffix
   - adjective
   - suffix form
-"alphabet:": O
+alphabet: O
 definition:
   - place for
 ---
@@ -26,7 +26,7 @@ _____
 | [[-arium]] |    YES    |       -       |
 |  [[-orium]]  |    YES    |       -       |
 _____
->[!tip]+ DERIVATIONS of [[-ory]]
+>[!tip]- DERIVATIONS of [[-ory]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

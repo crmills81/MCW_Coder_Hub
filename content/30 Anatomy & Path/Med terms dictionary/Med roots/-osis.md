@@ -9,7 +9,7 @@ forms:
   - suffix
   - noun
   - suffix form
-"alphabet:": O
+alphabet: O
 definition:
   - abnormal or diseased condition
 ---
@@ -25,7 +25,7 @@ _____
 |:---------:|:------------------------------:|:---------:|
 |  [[-ma]]  |              YES               | substance |
 _____
->[!tip]+ DERIVATIONS of [[-osis]]
+>[!tip]- DERIVATIONS of [[-osis]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

@@ -11,9 +11,8 @@ roots:
 forms:
   - suffix
   - suffixes
-  - combining
-  - negation
-"alphabet:": A
+  - adjective
+alphabet: A
 definition:
   - pertaining to
   - located in

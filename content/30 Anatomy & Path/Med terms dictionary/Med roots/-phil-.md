@@ -8,7 +8,7 @@ forms:
   - combining
   - prefix
   - suffix
-"alphabet:": P
+alphabet: P
 definition:
   - love
   - have an affinity for
@@ -23,7 +23,7 @@ _____
 >[!example]+ RELATED TERMS to [[-phil-]]
 >
 _____
->[!tip]+ DERIVATIONS of [[-phil-]]
+>[!tip]- DERIVATIONS of [[-phil-]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

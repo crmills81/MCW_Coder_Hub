@@ -7,7 +7,7 @@ roots:
 forms:
   - combining
   - suffix
-"alphabet:": L
+alphabet: L
 definition:
   - abnormal sexual excitation or gratification
 ---
@@ -20,7 +20,7 @@ _____
 >[!example]+ RELATED TERMS to lagnia
 >
 _____
->[!tip]+ DERIVATIONS of lagnia
+>[!tip]- DERIVATIONS of lagnia
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

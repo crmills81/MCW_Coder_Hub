@@ -10,7 +10,7 @@ forms:
   - suffixes
   - suffix
   - noun
-"alphabet:": O
+alphabet: O
 definition:
   - multiple tumors/masses
   - irregular plural form of -oma

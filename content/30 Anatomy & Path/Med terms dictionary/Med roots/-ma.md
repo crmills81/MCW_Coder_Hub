@@ -7,7 +7,7 @@ roots:
 forms:
   - suffix
   - noun
-"alphabet:": M
+alphabet: M
 definition:
   - abnormal or diseased condition
   - substance
@@ -25,8 +25,9 @@ _____
 | --------- | ------------------------------ | --------- |
 | [[-in]]   | -                              | YES       |
 | [[-osis]] | YES                            | -          |
+>
 _____
->[!tip]+ DERIVATIONS of [[-ma]]
+>[!tip]- DERIVATIONS of [[-ma]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

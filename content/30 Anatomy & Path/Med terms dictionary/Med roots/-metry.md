@@ -25,7 +25,7 @@ _____
 | [[-metry]] | measuring |       -        |   -   |
 |    [[Optometry]]     |    Measurement of vision     |    no     | - |
 _____
->[!tip]+ DERIVATIONS of [[-metry]]
+>[!tip]- DERIVATIONS of [[-metry]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot
@@ -41,7 +41,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

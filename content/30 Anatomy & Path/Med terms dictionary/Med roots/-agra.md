@@ -10,7 +10,7 @@ forms:
   - combining
   - suffix form
   - compound suffix form
-"alphabet:": A
+alphabet: A
 definition:
   - pain
   - sudden, severe pain

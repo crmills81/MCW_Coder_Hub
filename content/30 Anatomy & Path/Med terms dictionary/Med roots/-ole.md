@@ -10,7 +10,7 @@ roots:
 forms:
   - suffix
   - diminutive
-"alphabet:": O
+alphabet: O
 definition:
   - small
 ---
@@ -30,7 +30,7 @@ _____
 |  [[-il]]  | YES   |         biological genera         |
 |  [[-ule]]  | YES   |         -         |
 _____
->[!tip]+ DERIVATIONS of [[-ole]]
+>[!tip]- DERIVATIONS of [[-ole]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

@@ -1,7 +1,6 @@
 ---
 tags:
   - medroot
-  - medterm
 aliases:
   - -ar
 roots:
@@ -10,13 +9,13 @@ forms:
   - suffix
   - suffix form
   - adjective
-"alphabet:": A
+alphabet: A
 definition:
   - pertaining to
   - place for
 ---
 >[!Note] DEFINITION of [[-ary]]
->The suffix **-ary** is a productive adjectival and nominal ending used extensively in medical terminology to form words that indicate a **relationship, connection, or association with the root word it modifies**. When attached to **anatomical structures**, **organs**, or **body systems**, it creates adjectives that describe something as belonging to, located in, or associated with that particular structure. In medical contexts, **-ary** typically transforms a noun into an adjective that denotes "**of or relating to**" the base term, allowing precise description of anatomical locations, physiological processes, or pathological conditions. The suffix is versatile and appears in words describing body parts (**pulmonary, urinary**), functional systems (**circulatory, alimentary**), and medical specialties (**tertiary care**). It can also form nouns when referring to places or things connected to the root concept (**apothecary, aviary**).
+>The suffix **[[-ary]]** is a productive adjectival and nominal ending used extensively in medical terminology to form words that indicate a **relationship, connection, or association with the root word it modifies**. When attached to **anatomical structures**, **organs**, or **body systems**, it creates adjectives that describe something as belonging to, located in, or associated with that particular structure. In medical contexts, **-ary** typically transforms a noun into an adjective that denotes "**of or relating to**" the base term, allowing precise description of anatomical locations, physiological processes, or pathological conditions. The suffix is versatile and appears in words describing body parts (**pulmonary, urinary**), functional systems (**circulatory, alimentary**), and medical specialties (**tertiary care**). It can also form nouns when referring to places or things connected to the root concept (**apothecary, aviary**).
 _____
 >[!info]+ ETYMOLOGY of [[-ary]]
 >#latin 

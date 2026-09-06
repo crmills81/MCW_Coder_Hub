@@ -8,7 +8,7 @@ forms:
   - compound suffix form
   - adjective
   - suffix
-"alphabet:": L
+alphabet: L
 definition:
   - pertaining to dissolution or decomposition
   - disintegration
@@ -23,7 +23,7 @@ _____
 >[!example]+ RELATED TERMS to [[-lytic]]
 >
 _____
->[!tip]+ DERIVATIONS of [[-lytic]]
+>[!tip]- DERIVATIONS of [[-lytic]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

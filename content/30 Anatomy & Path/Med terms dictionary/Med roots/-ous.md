@@ -7,7 +7,7 @@ forms:
   - adj
 roots:
   - -ous
-"alphabet:": O
+alphabet: O
 definition:
   - pertaining to
   - characterized by
@@ -42,7 +42,7 @@ _____
 | [[-otic]] |        YES        |        -         |    -    |         -          |         -          |
 | [[-tic]]  |        YES        |        -         |    -    |        drug        |    agent/person    |
 _____
->[!tip]+ DERIVATIONS of [[-ous]]
+>[!tip]- DERIVATIONS of [[-ous]]
 >```dataview
 TABLE definition AS Definition 
 WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -57,4 +57,4 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

@@ -8,7 +8,7 @@ forms:
   - compound suffix form
   - noun
   - suffix
-"alphabet:": L
+alphabet: L
 definition:
   - dissolution
   - reduction
@@ -25,7 +25,7 @@ _____
 >[!example]+ RELATED TERMS to [[-lysis]]
 >
 _____
->[!tip]+ DERIVATIONS of [[-lysis]]
+>[!tip]- DERIVATIONS of [[-lysis]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -39,4 +39,4 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

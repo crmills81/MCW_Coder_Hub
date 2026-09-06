@@ -1,7 +1,6 @@
 ---
 tags:
   - medroot
-  - medterm
   - foundational_suffix
   - urology
   - ophthalmology
@@ -15,7 +14,7 @@ forms:
   - suffix
   - suffix form
   - adjective
-"alphabet:": A
+alphabet: A
 definition:
   - pertaining to
   - located in

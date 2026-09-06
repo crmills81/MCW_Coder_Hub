@@ -6,7 +6,7 @@ roots:
   - -ase
 forms:
   - suffix
-"alphabet:": A
+alphabet: A
 definition:
   - enzyme
 ---

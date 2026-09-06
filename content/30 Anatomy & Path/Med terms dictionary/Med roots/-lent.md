@@ -8,7 +8,7 @@ forms:
   - suffix
   - adjective
   - suffix form
-"alphabet:": L
+alphabet: L
 definition:
   - full of
 ---
@@ -25,7 +25,7 @@ _____
 | [[-ous]]  |   YES   | pertaining to |  characterized by   |
 | [[-ose]]  |   YES   |  resembling   | chemical substances |
 _____
->[!tip]+ DERIVATIONS of [[-lent]]
+>[!tip]- DERIVATIONS of [[-lent]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

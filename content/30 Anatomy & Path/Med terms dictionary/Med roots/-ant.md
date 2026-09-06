@@ -10,7 +10,7 @@ forms:
   - suffix
   - suffixes
   - compound suffix form
-"alphabet:": A
+alphabet: A
 definition:
   - "'forms present participle'"
   - person/thing that does something

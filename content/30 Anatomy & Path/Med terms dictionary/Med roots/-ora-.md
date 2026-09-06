@@ -13,7 +13,7 @@ forms:
   - suffixes
   - suffix form
   - combined
-"alphabet:": O
+alphabet: O
 definition:
   - As a root-Relating to the mouth edge or border
   - As a plural suffix-The Latin neuter plural ending that transforms singular anatomical nouns

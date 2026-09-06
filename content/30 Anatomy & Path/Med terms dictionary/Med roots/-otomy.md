@@ -89,7 +89,7 @@ You’ll see **[[-otomy]]** when the surgeon:
 - Check for **additional procedures** performed through the incision.  
 
 _____
->[!tip]+ DERIVATIONS of [[-otomy]]
+>[!tip]- DERIVATIONS of [[-otomy]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name

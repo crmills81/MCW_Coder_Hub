@@ -6,14 +6,14 @@ roots:
   - -ation
 forms:
   - suffix
-"alphabet:": A
+alphabet: A
 definition:
   - the act of (being)
   - the result of (being)
   - something that is
 ---
 >[!Note] DEFINITION of [[-ation]]
->forms nouns indicating an action/process: the act of (being), the result of (being), something that is; In medical terminology, **[[-ation]]** converts verbs or verb roots into nouns that denote **the act or process of performing an action**, the **resulting state or condition**, or a **specific medical/surgical procedure**. Common in procedural nomenclature (e.g., _evacuation_, _irrigation_), it often describes therapeutic interventions, physiological processes, or pathological states; it aligns with English noun-forming patterns but carries Latin-derived precision in clinical documentation and pharmacology.
+> Forms nouns indicating an action/process: the act of (being), the result of (being), something that is; In medical terminology, **[[-ation]]** converts verbs or verb roots into nouns that denote **the act or process of performing an action**, the **resulting state or condition**, or a **specific medical/surgical procedure**. Common in procedural nomenclature (e.g., _evacuation_, _irrigation_), it often describes therapeutic interventions, physiological processes, or pathological states; it aligns with English noun-forming patterns but carries Latin-derived precision in clinical documentation and pharmacology.
 _____
 >[!info]+ ETYMOLOGY of [[-ation]]
 >#latin #french - From **Latin** **[[-atio(n-)]]**, a suffix forming nouns of action from verbs (first conjugation), as in _creatio_ ("a creating").

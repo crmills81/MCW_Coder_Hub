@@ -8,7 +8,7 @@ forms:
   - suffix form
   - noun
   - suffix
-"alphabet:": L
+alphabet: L
 definition:
   - one who specializes in a certain study or science
 ---
@@ -22,7 +22,7 @@ _____
 >[!example]+ RELATED TERMS to [[-logist]]
 >
 _____
->[!tip]+ DERIVATIONS of [[-logist]]
+>[!tip]- DERIVATIONS of [[-logist]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

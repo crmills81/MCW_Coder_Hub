@@ -1,7 +1,6 @@
 ---
 tags:
   - medroot
-  - medterm
 aliases:
   - -ize
   - -ise
@@ -13,14 +12,14 @@ forms:
   - suffix form
   - compound suffix form
   - verb
-"alphabet:": A
+alphabet: A
 definition:
   - chemical substance
   - having the form of
   - possessing
 ---
 >[!Note] DEFINITION of [[-ate]]
->The suffix **-ate** is one of the most multifunctional and productive endings in medical and scientific terminology, serving three distinct grammatical roles: **verbal, nominal, and adjectival**. As a **verb-forming suffix**, **-ate** creates action words that indicate causing a state or performing a process (**ventilate = to cause air flow; medicate = to treat with medicine; intubate = to insert a tube**). As a **noun-forming suffix**, **-ate** primarily designates chemical compounds, particularly salts and esters in biochemistry and pharmacology (**phosphate, citrate, sulfate**), as well as body structures or the results of processes (**prostrate, concentrate**). As an **adjective-forming suffix**, [[-ate]] describes something possessing a quality or characteristic (**articulate, vertebrate, compassionate**). In medical contexts, the verbal form is particularly significant for describing clinical procedures and interventions (**resuscitate, defibrillate, anesthetize becomes anesthetate in archaic usage**), while the noun form is essential in laboratory medicine, pharmacology, and biochemistry for naming ions, drug compounds, and metabolic products. Understanding the **-ate** suffix is crucial for medical coding professionals because it appears in procedure terminology (**CPT codes**), drug nomenclature (**HCPCS codes**), and diagnostic terminology (**ICD-10**), particularly when documenting interventions, chemical laboratory values, and medication administration. The suffix's Latin origin gives it a formal, technical quality that makes it standard in professional medical documentation.
+>The suffix **[[-ate]]** is one of the most multifunctional and productive endings in medical and scientific terminology, serving three distinct grammatical roles: **verbal, nominal, and adjectival**. As a **verb-forming suffix**, **[[-ate]]** creates action words that indicate causing a state or performing a process (**ventilate = to cause air flow; medicate = to treat with medicine; intubate = to insert a tube**). As a **noun-forming suffix**, **[[-ate]]** primarily designates chemical compounds, particularly salts and esters in biochemistry and pharmacology (**phosphate, citrate, sulfate**), as well as body structures or the results of processes (**prostrate, concentrate**). As an **adjective-forming suffix**, [[-ate]] describes something possessing a quality or characteristic (**articulate, vertebrate, compassionate**). In medical contexts, the verbal form is particularly significant for describing clinical procedures and interventions (**resuscitate, defibrillate, anesthetize becomes anesthetate in archaic usage**), while the noun form is essential in laboratory medicine, pharmacology, and biochemistry for naming ions, drug compounds, and metabolic products. Understanding the **-ate** suffix is crucial for medical coding professionals because it appears in procedure terminology (**CPT codes**), drug nomenclature (**HCPCS codes**), and diagnostic terminology (**ICD-10**), particularly when documenting interventions, chemical laboratory values, and medication administration. The suffix's Latin origin gives it a formal, technical quality that makes it standard in professional medical documentation.
 _____
 >[!info]+ ETYMOLOGY of [[-ate]]
 >#greek

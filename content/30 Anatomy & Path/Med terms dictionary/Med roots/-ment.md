@@ -7,7 +7,7 @@ roots:
 forms:
   - suffix
   - noun
-"alphabet:": M
+alphabet: M
 definition:
   - agent
   - instrument
@@ -28,7 +28,7 @@ _____
 | [[-ter]]  |      -      | YES, device |  -   |              -               |
 | [[-tic]]  | YES, person |      -      | drug |        pertaining to         |
 _____
->[!tip]+ DERIVATIONS of [[-ment]]
+>[!tip]- DERIVATIONS of [[-ment]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -43,4 +43,4 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

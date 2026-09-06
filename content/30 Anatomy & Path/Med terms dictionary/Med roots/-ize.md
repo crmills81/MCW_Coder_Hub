@@ -8,7 +8,7 @@ forms:
   - suffix
   - verb
   - suffix form
-"alphabet:": I
+alphabet: I
 definition:
   - (to) make
   - (to) become
@@ -26,7 +26,7 @@ _____
 >[!example]+ RELATED TERMS to [[-ize]]
 >
 _____
->[!tip]+ DERIVATIONS of [[-ize]]
+>[!tip]- DERIVATIONS of [[-ize]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

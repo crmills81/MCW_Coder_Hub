@@ -12,7 +12,7 @@ forms:
   - suffix form
   - suffixes
   - nouns
-"alphabet:": O
+alphabet: O
 definition:
   - Denotes the presence of a ketone functional group
 ---

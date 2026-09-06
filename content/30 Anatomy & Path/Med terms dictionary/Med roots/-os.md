@@ -6,7 +6,7 @@ roots:
   - -ose
 forms:
   - combining
-"alphabet:": O
+alphabet: O
 definition:
   - mouth
   - opening
@@ -26,7 +26,7 @@ _____
 | [[por-]]  |   -   |   YES   | passage | duct, pore, cavity |
 | [[stom-]] |  YES  |   YES   |    -    | -                   |
 _____
->[!tip]+ DERIVATIONS of os
+>[!tip]- DERIVATIONS of os
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

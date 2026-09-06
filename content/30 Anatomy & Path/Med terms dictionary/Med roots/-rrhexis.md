@@ -8,7 +8,7 @@ forms:
   - compound suffix form
   - noun
   - suffix
-"alphabet:": R
+alphabet: R
 definition:
   - bursting
   - rupture
@@ -22,7 +22,7 @@ _____
 >[!example]+ RELATED TERMS to [[-rrhexis]]
 >
 _____
->[!tip]+ DERIVATIONS of [[-rrhexis]]
+>[!tip]- DERIVATIONS of [[-rrhexis]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

@@ -7,7 +7,7 @@ roots:
 forms:
   - compound suffix form
   - noun
-"alphabet:": P
+alphabet: P
 definition:
   - disease
 ---
@@ -26,7 +26,7 @@ _____
 |  [[30 Anatomy & Path/Med terms dictionary/Med roots/-oma]]  |   YES   |       tumor        |          -           |
 | [[path-]]  |   YES   |         -          | -                     |
 _____
->[!tip]+ DERIVATIONS of [[-pathy]]
+>[!tip]- DERIVATIONS of [[-pathy]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

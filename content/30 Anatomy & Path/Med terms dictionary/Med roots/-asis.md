@@ -1,7 +1,6 @@
 ---
 tags:
   - medroot
-  - medterm
 aliases:
   - asis
   - -iasis
@@ -12,7 +11,7 @@ forms:
   - suffix
   - suffixes
   - suffix form
-"alphabet:": A
+alphabet: A
 definition:
   - condition
   - formation

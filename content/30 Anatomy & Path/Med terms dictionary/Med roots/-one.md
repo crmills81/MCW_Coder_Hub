@@ -7,7 +7,7 @@ roots:
 forms:
   - suffix
   - suffix form
-"alphabet:": O
+alphabet: O
 definition:
   - chemical substance
 ---
@@ -26,7 +26,7 @@ _____
 | [[-ite]] |        YES         |               -                |    -    |
 | [[-ose]] |        YES         |          resembling          | full of |
 _____
->[!tip]+ DERIVATIONS of [[-one]]
+>[!tip]- DERIVATIONS of [[-one]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

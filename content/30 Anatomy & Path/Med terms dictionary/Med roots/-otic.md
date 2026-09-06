@@ -8,7 +8,7 @@ forms:
   - suffix
   - adjective
   - suffix form
-"alphabet:": O
+alphabet: O
 definition:
   - pertaining to
 ---
@@ -39,7 +39,7 @@ _____
 | [[-ous]]  |        YES        |     -      |  characterized by  |    full of    |
 | [[-tic]]  |        YES        |     -      |        drug        | agent, person |
 _____
->[!tip]+ DERIVATIONS of [[-otic]]
+>[!tip]- DERIVATIONS of [[-otic]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

@@ -8,7 +8,7 @@ forms:
   - combining
   - prefix
   - suffix
-"alphabet:": P
+alphabet: P
 definition:
   - give birth
 ---
@@ -25,7 +25,7 @@ _____
 | [[genit-]] |    YES     | bring forth |
 | [[part-]]  |    YES     |      -      |
 _____
->[!tip]+ DERIVATIONS of [[-para]]
+>[!tip]- DERIVATIONS of [[-para]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

@@ -12,7 +12,7 @@ forms:
   - combining
   - compound suffix form
   - suffix form
-"alphabet:": A
+alphabet: A
 definition:
   - denotes a place for something
   - place for

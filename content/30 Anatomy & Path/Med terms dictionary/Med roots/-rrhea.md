@@ -9,7 +9,7 @@ forms:
   - noun
   - prefix
   - suffix
-"alphabet:": R
+alphabet: R
 definition:
   - profuse discharge
   - excessive secretion
@@ -26,7 +26,7 @@ _____
 |:------------:|:-----------------:|:----------:|:---:|
 |  [[-rrhagia]]  |        YES        |     -      | hemorrhage    |
 _____
->[!tip]+ DERIVATIONS of [[-rrhea]]
+>[!tip]- DERIVATIONS of [[-rrhea]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

@@ -11,7 +11,7 @@ forms:
   - suffix
   - suffixes
   - suffix form
-"alphabet:": A
+alphabet: A
 definition:
   - pertaining to
   - located in

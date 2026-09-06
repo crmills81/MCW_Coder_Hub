@@ -8,7 +8,7 @@ forms:
   - suffix
   - noun
   - suffix form
-"alphabet:": O
+alphabet: O
 definition:
   - agent
   - instrument
@@ -29,7 +29,7 @@ _____
 | [[-ter]]  |      -      | YES, device |  -   |              -               |
 | [[-tic]]  | YES, person |      -      | drug |        pertaining to         |
 _____
->[!tip]+ DERIVATIONS of [[-or]]
+>[!tip]- DERIVATIONS of [[-or]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

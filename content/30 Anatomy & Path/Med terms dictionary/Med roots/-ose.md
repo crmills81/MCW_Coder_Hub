@@ -8,7 +8,7 @@ forms:
   - suffix
   - adjective
   - suffix form
-"alphabet:": O
+alphabet: O
 definition:
   - full of
   - resembling
@@ -33,7 +33,7 @@ _____
 | [[-one]]  |    -    |     -      |        YES         |         -          |        -         |
 | [[-ous]]  |   YES   |     -      |         -          |   pertaining to    | characterized by |
 _____
->[!tip]+ DERIVATIONS of [[-ose]]
+>[!tip]- DERIVATIONS of [[-ose]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

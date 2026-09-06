@@ -32,7 +32,7 @@ _____
 |  [[-sis]]   |      Yes       |    Yes     |       -        |
 |   [[-ty]]   |      Yes       |    Yes     |       -        |
 _____
->[!tip]+ DERIVATIONS of [[-y]]
+>[!tip]- DERIVATIONS of [[-y]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -40,11 +40,10 @@ _____
 >```
 _____
 >[!faq]- Query
->
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

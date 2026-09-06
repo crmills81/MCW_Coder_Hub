@@ -9,7 +9,7 @@ roots:
 forms:
   - suffix
   - compound suffix form
-"alphabet:": A
+alphabet: A
 definition:
   - capable of (being)
   - able to

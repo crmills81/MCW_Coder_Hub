@@ -1,7 +1,6 @@
 ---
 tags:
   - medroot
-  - medterm
   - ophthalmology
   - otolarngology
   - urology
@@ -11,7 +10,7 @@ roots:
   - -an
 forms:
   - suffix
-"alphabet:": A
+alphabet: A
 definition:
   - pertaining to
   - located in

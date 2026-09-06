@@ -12,7 +12,7 @@ forms:
   - suffix
   - noun
   - adjective
-"alphabet:": O
+alphabet: O
 definition:
   - resembling
   - indicating a particular shape form or resemblance

@@ -8,7 +8,7 @@ forms:
 roots:
   - a-
   - an-
-"alphabet:": A
+alphabet: A
 definition:
   - not
   - without
@@ -31,7 +31,7 @@ _____
 |   [[non-]]   | YES |    -    |         -          |         -         |   -   |     
 |  [[olig-]]   |  -  |    -    |        YES         |        few        |   -   |     
 _____
->[!tip]+ Derivations of [[a-]]
+>[!tip]- Derivations of [[a-]]
 >```dataview
 TABLE definition AS Definition 
 WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -39,11 +39,10 @@ SORT file.name ASC
 >```
 _____
 >[!faq]- Query
->
 >```dataview
 >TABLE definition AS DEFI
 >FROM #medroot
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

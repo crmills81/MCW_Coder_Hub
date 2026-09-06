@@ -11,7 +11,7 @@ roots:
 forms:
   - combining
   - suffix
-"alphabet:": S
+alphabet: S
 definition:
   - split
   - cleft
@@ -26,7 +26,7 @@ _____
 >[!example]+ RELATED TERMS to [[-schisis]]
 >
 _____
->[!tip]+ DERIVATIONS of [[-schisis]]
+>[!tip]- DERIVATIONS of [[-schisis]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

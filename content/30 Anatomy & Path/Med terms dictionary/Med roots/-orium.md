@@ -9,7 +9,7 @@ roots:
 forms:
   - suffix
   - noun
-"alphabet:": O
+alphabet: O
 definition:
   - place for
 ---
@@ -27,7 +27,7 @@ _____
 | [[-arium]] |    YES    |       -       |
 |  [[-ory]]  |    YES    |       -       |
 _____
->[!tip]+ DERIVATIONS of [[-orium]]
+>[!tip]- DERIVATIONS of [[-orium]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

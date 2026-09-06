@@ -7,7 +7,7 @@ roots:
 forms:
   - suffix
   - noun
-"alphabet:": U
+alphabet: U
 definition:
   - condition
   - person
@@ -33,11 +33,10 @@ _____
 >```
 _____
 >[!faq]- Query
->
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
