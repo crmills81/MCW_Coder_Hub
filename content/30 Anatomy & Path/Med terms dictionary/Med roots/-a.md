@@ -1,7 +1,6 @@
 ---
 tags:
   - medroot
-  - medterm
 aliases:
   - an-
 roots:
@@ -21,18 +20,17 @@ _____
 >#greek a- / [[an-]] — the Greek alpha privative, one of the oldest and most productive prefixes in medical terminology. Parallel to Latin in- (**also meaning "not/without"**). The suffix use derives from Latin and Greek nominative noun endings
 _____ 
 >[!example]+ RELATED TERMS to [[-a]]
-
-
-|   [[-a]]   | condition (of) | state (of) |       -        |
-|:----------:|:--------------:|:----------:|:--------------:|
-|  [[-ema]]  |      Yes       |    Yes     |       -        |
-| [[-esis]]  |      Yes       |    Yes     |       -        |
-|  [[-ia]]   |      Yes       |    Yes     |       -        |
-|  [[-ism]]  |      Yes       |    Yes     |       quality of        |
-| [[-ismus]] |      Yes       |    Yes     | muscular spasm |
-|  [[-sis]]  |      Yes       |    Yes     |       -        |
-|  [[-ty]]   |      Yes       |    Yes     |       -        |
-|   [[-y]]   |      Yes       |    Yes     |       -        |
+> 
+> |   [[-a]]   | condition (of) | state (of) |       -        |
+> |:----------:|:--------------:|:----------:|:--------------:|
+> |  [[-ema]]  |      Yes       |    Yes     |       -        |
+> | [[-esis]]  |      Yes       |    Yes     |       -        |
+> |  [[-ia]]   |      Yes       |    Yes     |       -        |
+> |  [[-ism]]  |      Yes       |    Yes     |       quality of        |
+> | [[-ismus]] |      Yes       |    Yes     | muscular spasm |
+> |  [[-sis]]  |      Yes       |    Yes     |       -        |
+> |  [[-ty]]   |      Yes       |    Yes     |       -        |
+> |   [[-y]]   |      Yes       |    Yes     |       -        |
 
 _____
 >[!tip]- DERIVATIONS of -a
@@ -49,7 +47,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >````
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

@@ -37,12 +37,12 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-ate]]
 >
-| [[-ate]] | chemical substance | having the form of, possessing |    -    |
-|:--------:|:------------------:|:------------------------------:|:-------:|
-| [[-ide]] |        YES         |               -                |    -    |
-| [[-ite]] |        YES         |               -                |    -    |
-| [[-one]] |        YES         |               -                |    -    |
-| [[-ose]] |        YES         |          (resembling)          | full of |
+> | [[-ate]] | chemical substance | having the form of, possessing |    -    |
+> |:--------:|:------------------:|:------------------------------:|:-------:|
+> | [[-ide]] |        YES         |               -                |    -    |
+> | [[-ite]] |        YES         |               -                |    -    |
+> | [[-one]] |        YES         |               -                |    -    |
+> | [[-ose]] |        YES         |          (resembling)          | full of |
 >
 _____
 
@@ -86,7 +86,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

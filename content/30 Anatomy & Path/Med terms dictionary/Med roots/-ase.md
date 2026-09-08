@@ -22,10 +22,10 @@ _____
 >
 >| [[-ase]] | enzyme | - |
 >| -- | --| --|
-| [[amylase]] | YES |  digests starches  |
-|[[protease]] | YES |  breaks down proteins |
-| [[zym-]] | YES    | ferment, fermentation |
-| [[lipase]]         |  NO      |     hydrolyzes fats (lipids)       |
+> | [[amylase]] | YES |  digests starches  |
+> |[[protease]] | YES |  breaks down proteins |
+> | [[zym-]] | YES    | ferment, fermentation |
+> | [[lipase]]         |  NO      |     hydrolyzes fats (lipids)       |
 >
 
 _____

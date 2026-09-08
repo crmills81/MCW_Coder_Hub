@@ -38,19 +38,19 @@ _____
 
 _____
 >[!example]+ RELATED TERMS to [[-asis]] / [[-iasis]]
-
-| [[-asis]] / [[-iasis]] Term | Combining Root | Meaning |
-|:---:|:---:|:---:|
-| **[[psoriasis]]** | Greek *psōra-* (itch) | Chronic skin condition with scaly plaques |
-| **[[mydriasis]]** | Greek *mydriān* (dilate) | Pathological dilation of the pupil |
-| **[[cholelithiasis]]** | [[chol/e-]] + [[lith/o-]] (bile + stone) | Presence of gallstones |
-| **[[nephrolithiasis]]** | [[nephr/o-]] + [[lith/o-]] (kidney + stone) | Presence of kidney stones |
-| **[[ureterolithiasis]]** | [[ureter/o-]] + [[lith/o-]] | Stones in the ureter |
-| **[[urolithiasis]]** | [[ur/o-]] + [[lith/o-]] | Stones anywhere in urinary tract |
-| **[[candidiasis]]** | *Candida* (genus name) | Fungal infection by *Candida* species |
-| **[[filariasis]]** | Latin *filum* (thread) | Parasitic worm infestation |
-| **[[leishmaniasis]]** | *Leishmania* (genus) | Parasitic protozoan infection |
-| **[[choledocholithiasis]]** | [[choledoch/o-]] + [[lith/o-]] | Stones in the common bile duct |
+> 
+> | [[-asis]] / [[-iasis]] Term | Combining Root | Meaning |
+> |:---:|:---:|:---:|
+> | **[[psoriasis]]** | Greek *psōra-* (itch) | Chronic skin condition with scaly plaques |
+> | **[[mydriasis]]** | Greek *mydriān* (dilate) | Pathological dilation of the pupil |
+> | **[[cholelithiasis]]** | [[chol/e-]] + [[lith/o-]] (bile + stone) | Presence of gallstones |
+> | **[[nephrolithiasis]]** | [[nephr/o-]] + [[lith/o-]] (kidney + stone) | Presence of kidney stones |
+> | **[[ureterolithiasis]]** | [[ureter/o-]] + [[lith/o-]] | Stones in the ureter |
+> | **[[urolithiasis]]** | [[ur/o-]] + [[lith/o-]] | Stones anywhere in urinary tract |
+> | **[[candidiasis]]** | *Candida* (genus name) | Fungal infection by *Candida* species |
+> | **[[filariasis]]** | Latin *filum* (thread) | Parasitic worm infestation |
+> | **[[leishmaniasis]]** | *Leishmania* (genus) | Parasitic protozoan infection |
+> | **[[choledocholithiasis]]** | [[choledoch/o-]] + [[lith/o-]] | Stones in the common bile duct |
 
 _____
 >[!warning]+ CLINICAL USES (-asis/-iasis conditions & coding applications)
@@ -143,7 +143,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains(this.definition, word))) > 0 AND file.name != this.file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

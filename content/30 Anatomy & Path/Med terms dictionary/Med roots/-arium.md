@@ -26,11 +26,11 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-arium]]
 >
-| [[-arium]] | place for |       -       |
-|:----------:|:---------:|:-------------:|
-|  [[-ary]]  |    YES    | pertaining to |
-| [[-orium]] |    YES    |       -       |
-|  [[-ory]]  |    YES    |       -       |
+> | [[-arium]] | place for |       -       |
+> |:----------:|:---------:|:-------------:|
+> |  [[-ary]]  |    YES    | pertaining to |
+> | [[-orium]] |    YES    |       -       |
+> |  [[-ory]]  |    YES    |       -       |
 >
 >***
 >
@@ -57,7 +57,7 @@ _____
 >```
 
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

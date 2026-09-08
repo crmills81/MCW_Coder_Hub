@@ -1,7 +1,6 @@
 ---
 tags:
   - medroot
-  - medterm
 aliases:
   - -ent
 roots:
@@ -30,8 +29,8 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-ant]]
 >
-[[-ent]]             
-[[-ient]]              
+>[[-ent]]             
+>[[-ient]]              
 >
 >**Related Terms**
 >
@@ -62,7 +61,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

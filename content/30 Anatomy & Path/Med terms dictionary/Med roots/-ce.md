@@ -6,7 +6,7 @@ roots:
   - -ce
 forms:
   - suffix
-"alphabet:": C
+alphabet: C
 definition:
   - the act of (being)
   - the state of (being)
@@ -44,7 +44,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

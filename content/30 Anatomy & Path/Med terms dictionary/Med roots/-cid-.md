@@ -1,7 +1,6 @@
 ---
 tags:
   - medroot
-  - medterm
 aliases:
   - -cide
   - -cidal
@@ -15,14 +14,14 @@ forms:
   - suffix
   - combining form
   - suffix form
-"alphabet:": C
+alphabet: C
 definition:
   - killing
   - destroying
   - agent that kills
 ---
 >[!Note] DEFINITION of [[-cid-]]
->The combining form **-cid-** (also appearing as **[[-cide]]** and **[[-cidal]]**) means **killing, destroying, or an agent that kills**. As a **suffix (-cide)**, it forms nouns naming the act of killing or the agent responsible — **germicide** (an agent that kills germs), **bactericide** (kills bacteria), **suicide** (killing of oneself). As an **adjective-forming suffix (-cidal)**, it describes the capacity or property of killing — **bactericidal, virucidal, fungicidal**. In medical and clinical contexts, **-cid-** terms are fundamental in **infection control, pharmacology, and public health**, where distinguishing between **-cidal** (kills) and **-static** (inhibits growth but does not kill) is a clinically critical distinction — for example, **bactericidal vs. bacteriostatic** antibiotics. For AAPC-certified inpatient profee coders, **-cidal/-cide** terminology surfaces most often in **infectious disease documentation, pharmacy/toxicology records, and mental health (suicidal ideation/attempt)** — all of which have direct ICD-10-CM coding implications that require specificity around intent, agent, and encounter type.
+>The combining form **[[-cid-]]** (also appearing as **[[-cide]]** and **[[-cidal]]**) means **killing, destroying, or an agent that kills**. As a **suffix (-cide)**, it forms nouns naming the act of killing or the agent responsible — **germicide** (an agent that kills germs), **bactericide** (kills bacteria), **suicide** (killing of oneself). As an **adjective-forming suffix (-cidal)**, it describes the capacity or property of killing — **bactericidal, virucidal, fungicidal**. In medical and clinical contexts, **-cid-** terms are fundamental in **infection control, pharmacology, and public health**, where distinguishing between **-cidal** (kills) and **-static** (inhibits growth but does not kill) is a clinically critical distinction — for example, **bactericidal vs. bacteriostatic** antibiotics. For AAPC-certified inpatient profee coders, **-cidal/-cide** terminology surfaces most often in **infectious disease documentation, pharmacy/toxicology records, and mental health (suicidal ideation/attempt)** — all of which have direct ICD-10-CM coding implications that require specificity around intent, agent, and encounter type.
 _____
 >[!info]+ ETYMOLOGY of [[-cid-]]
 >#latin
@@ -123,7 +122,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains(this.definition, word))) > 0 AND file.name != this.file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

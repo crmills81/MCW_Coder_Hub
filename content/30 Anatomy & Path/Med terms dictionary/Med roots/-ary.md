@@ -27,27 +27,27 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-ary]]
 >
-|  [[-ary]]  |   pertaining to   | place for |         -          |      -       |
-|:----------:|:-----------------:|:---------:|:------------------:|:------------:|
-| [[-arium]] |         -         |    YES    |         -          |      -       |
-|  [[-ar]]   |        YES        |     -     |     located in     |      -       |
-|  [[-an]]   |        YES        |     -     |     located in     |      -       |
-|  [[-al]]   |        YES        |     -     |     located in     |      -       |
-|  [[-ac]]   |        YES        |     -     |     located in     |      -       |
-|  [[-eal]]  |        YES        |     -     |     located in     |      -       |
-|  [[-ean]]  |        YES        |     -     |     located in     |      -       |
-| [[-etic]]  |        YES        |     -     |         -          |      -       |
-|  [[-ic]]   |        YES        |     -     |        drug        |    agent     |
-|  [[-id]]   |        YES        |     -     |   condition (of)   |  state (of)  |
-|  [[-ile]]  |        YES        |     -     | capable of (being) |     like     |
-|  [[-ine]]  |        YES        |     -     |     located in     |      -       |
-| [[-itic]]  | (to inflammation) |     -     |        drug        |    agent     |
-|  [[-ive]]  |        YES        |     -     |         -          |      -       |
-| [[-orium]] |         -         |    YES    |         -          |      -       |
-|  [[-ory]]  |         -         |    YES    |         -          |      -       |
-| [[-otic]]  |        YES        |     -     |         -          |      -       |
-|  [[-ous]]  |        YES        |     -     |  characterized by  |   full of    |
-|  [[-tic]]  |        YES        |     -     |        drug        | agent/person |
+> |  [[-ary]]  |   pertaining to   | place for |         -          |      -       |
+> |:----------:|:-----------------:|:---------:|:------------------:|:------------:|
+> | [[-arium]] |         -         |    YES    |         -          |      -       |
+> |  [[-ar]]   |        YES        |     -     |     located in     |      -       |
+> |  [[-an]]   |        YES        |     -     |     located in     |      -       |
+> |  [[-al]]   |        YES        |     -     |     located in     |      -       |
+> |  [[-ac]]   |        YES        |     -     |     located in     |      -       |
+> |  [[-eal]]  |        YES        |     -     |     located in     |      -       |
+> |  [[-ean]]  |        YES        |     -     |     located in     |      -       |
+> | [[-etic]]  |        YES        |     -     |         -          |      -       |
+> |  [[-ic]]   |        YES        |     -     |        drug        |    agent     |
+> |  [[-id]]   |        YES        |     -     |   condition (of)   |  state (of)  |
+> |  [[-ile]]  |        YES        |     -     | capable of (being) |     like     |
+> |  [[-ine]]  |        YES        |     -     |     located in     |      -       |
+> | [[-itic]]  | (to inflammation) |     -     |        drug        |    agent     |
+> |  [[-ive]]  |        YES        |     -     |         -          |      -       |
+> | [[-orium]] |         -         |    YES    |         -          |      -       |
+> |  [[-ory]]  |         -         |    YES    |         -          |      -       |
+> | [[-otic]]  |        YES        |     -     |         -          |      -       |
+> |  [[-ous]]  |        YES        |     -     |  characterized by  |   full of    |
+> |  [[-tic]]  |        YES        |     -     |        drug        | agent/person |
 >
 _____
 
@@ -96,7 +96,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

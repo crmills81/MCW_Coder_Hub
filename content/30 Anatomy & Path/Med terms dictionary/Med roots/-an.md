@@ -31,24 +31,25 @@ _____
 >[!example]+ RELATED TERMS to [[-an]]
 >
 >|  [[-an]]  |   pertaining to   | located in |         -          |       -       |
-|:---------:|:-----------------:|:----------:|:------------------:|:-------------:|
-|  [[-ac]]  |        YES        |    YES     |         -          |       -       |
-|  [[-al]]  |        YES        |    YES     |         -          |       -       |
-|  [[-ar]]  |        YES        |    YES     |         -          |       -       |
-| [[-ary]]  |        YES        |     -      |     place for      |       -       |
-| [[-eal]]  |        YES        |    YES     |         -          |       -       |
-| [[-ean]]  |        YES        |    YES     |         -          |       -       |
-| [[-etic]] |        YES        |     -      |         -          |       -       |
-|  [[-ic]]  |        YES        |     -      |        drug        |     agent     |
-|  [[-id]]  |        YES        |     -      |   condition (of)   |  state (of)   |
-| [[-ile]]  |        YES        |     -      | capable of (being) |     like      |
-| [[-ine]]  |        YES        |    YES     |         -          |       -       |
-| [[-itic]] | (to inflammation) |     -      |        drug        |     agent     |
-| [[-ive]]  |        YES        |     -      |         -          |       -       |
-| [[-otic]] |        YES        |     -      |         -          |       -       |
-| [[-ous]]  |        YES        |     -      |  characterized by  |    full of    |
-| [[-tic]]  |        YES        |     -      |        drug        | agent, person |
->
+> |:---------:|:-----------------:|:----------:|:------------------:|:-------------:|
+> |  [[-ac]]  |        YES        |    YES     |         -          |       -       |
+> |  [[-al]]  |        YES        |    YES     |         -          |       -       |
+> |  [[-ar]]  |        YES        |    YES     |         -          |       -       |
+> | [[-ary]]  |        YES        |     -      |     place for      |       -       |
+> | [[-eal]]  |        YES        |    YES     |         -          |       -       |
+> | [[-ean]]  |        YES        |    YES     |         -          |       -       |
+> | [[-etic]] |        YES        |     -      |         -          |       -       |
+> |  [[-ic]]  |        YES        |     -      |        drug        |     agent     |
+> |  [[-id]]  |        YES        |     -      |   condition (of)   |  state (of)   |
+> | [[-ile]]  |        YES        |     -      | capable of (being) |     like      |
+> | [[-ine]]  |        YES        |    YES     |         -          |       -       |
+> | [[-itic]] | (to inflammation) |     -      |        drug        |     agent     |
+> | [[-ive]]  |        YES        |     -      |         -          |       -       |
+> | [[-otic]] |        YES        |     -      |         -          |       -       |
+> | [[-ous]]  |        YES        |     -      |  characterized by  |    full of    |
+> | [[-tic]]  |        YES        |     -      |        drug        | agent, person |
+> 
+
 >**Urological Terms (relevant to your specialty)**
 >
 >- **[[Vesican]]**: pertaining to the bladder (**vesica**)
@@ -81,7 +82,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]
