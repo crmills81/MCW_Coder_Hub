@@ -6,20 +6,20 @@ roots:
   - amyl-
 forms:
   - combining
-"alphabet:": A
+alphabet: A
 definition:
   - starch
 ---
->[!Note] DEFINITION of amyl-
+>[!Note] DEFINITION of [[amyl-]]
 >starch
 _____
->[!info]+ ETYMOLOGY of amyl-
+>[!info]+ ETYMOLOGY of [[amyl-]]
 >#greek amylon
 _____
->[!example]+ RELATED TERMS to amyl-
+>[!example]+ RELATED TERMS to [[amyl-]]
 >
 _____
->[!tip]+ DERIVATIONS of amyl-
+>[!tip]- DERIVATIONS of[[ amyl-]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -33,4 +33,4 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

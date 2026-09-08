@@ -1,7 +1,6 @@
 ---
 tags:
   - medroot
-  - medterm
 aliases:
   - amnio-
 roots:
@@ -19,13 +18,19 @@ definition:
 >[!Note] DEFINITION of amni-
 >fetal membrane, amniotic sac, amnion
 _____
->[!info]+ ETYMOLOGY of amni-
->#greek amnion
+>[!info]+ ETYMOLOGY of [[amni-]]
+>#greek
+>
+>|Component|Origin|Meaning|
+>|---|---|---|
+>|**[[amni-]]** / **[[amnio-]]**|Greek _ἀμνίον_ (amnion), from _amnion_ (amnion)|"**amnion**," "**membrane**," "**membrane surrounding the fetus**"|
+>
+> The word entered English in the **1640s** as *amnion* (**noun**), borrowed from Late Latin ***amnion***, from Greek ***amnion*** — literally "**membrane**." The root *amnion* ("**membrane**") connects [[amni-]] to the entire **[[embryonic membranes]]**: ***[[amniocentesis]]*** (**amni- + kentein $\rightarrow$ puncture of the amnion**), ***[[amniotomy]]*** (**amni- + tome $\rightarrow$ incision into the amnion**), and ***[[amniotic]]*** (**pertaining to the amnion**). The **combining form** [[amni-]] is highly productive in obstetrics and embryology: e.g., ***[[amniochoreosis]]***, ***[[amniopathy]]***, and ***[[amniochorion]]***.
 _____
 >[!example]+ RELATED TERMS to amni-
 >
 _____
->[!tip]+ DERIVATIONS of amni-
+>[!tip]- DERIVATIONS of amni-
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -39,7 +44,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 
 
 ---

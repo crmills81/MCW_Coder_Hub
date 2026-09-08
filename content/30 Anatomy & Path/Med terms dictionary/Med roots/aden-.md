@@ -1,14 +1,13 @@
 ---
 tags:
   - medroot
-  - medterm
 aliases: []
 roots:
   - aden-
 forms:
   - combining
   - prefix
-"alphabet:": A
+alphabet: A
 definition:
   - gland
 ---
@@ -16,12 +15,18 @@ definition:
 >gland; The combining form **[[aden-]]** refers to glands or glandular tissue, including endocrine and exocrine glands. It appears frequently in pathology, oncology, and diagnostic terminology.
 _____
 >[!info]+ ETYMOLOGY of [[aden-]]
->#greek aden
+>#greek
+>
+>|Component|Origin|Meaning|
+>|---|---|---|
+>|**[[aden-]]** / **[[adeno-]]**|Greek _ἀδήν_ (adēn)|"**gland**," "**glandular tissue**," "**lymph node**" — anatomical combining form denoting glandular structures|
+>
+> The word entered English in the **1720s** as *adenitis* (**noun**), borrowed from Modern Latin ***adenitis***, from Greek ***ἀδήν*** (adēn) — literally "**gland**." The noun *adenoma* appeared in the **1830s**, and *adenocarcinoma* in the **1890s**. The root *adēn* ("**gland**") connects [[aden-]] to the entire **[[gland and organ roots]]**: ***[[adenoma]]*** (**aden- + [[-oma]] $\rightarrow$ benign glandular tumor**), ***[[adenocarcinoma]]*** (**aden- + [[carcino-]] + [[-oma]] $\rightarrow$ malignant glandular tumor**), and ***[[adenopathy]]*** (**aden- + [[-pathy]] $\rightarrow$ disease of a gland/lymph node**). The **combining form** [[aden-]] is highly productive in oncology, endocrinology, and pathology: e.g., ***[[adenitis]]***, ***[[adenoidectomy]]***, ***[[adenosine]]***, and ***[[adenohypophysis]]***.
 _____
 >[!example]+ RELATED TERMS to [[aden-]]
 >
 _____
->[!tip]+ DERIVATIONS of [[aden-]]
+>[!tip]- DERIVATIONS of [[aden-]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -69,7 +74,7 @@ Critical in oncology coding; adenocarcinomas have **site‑specific ICD‑10 rul
 
 ---
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

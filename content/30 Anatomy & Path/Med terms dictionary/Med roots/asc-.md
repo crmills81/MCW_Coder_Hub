@@ -24,11 +24,12 @@ _____
 >[!example]+ RELATED TERMS to asc-
 >
 >| [[asc-]]   | sac | bag | bladder | -    |
-| ---------- | --- | --- | ------- | ---- |
-| [[cyst-]]  | -   | -   | YES     | cyst |
-| [[vesic-]] | -   | -   | bladder | -     |
+> | ---------- | --- | --- | ------- | ---- |
+> | [[cyst-]]  | -   | -   | YES     | cyst |
+> | [[vesic-]] | -   | -   | bladder | -     |
+
 _____
->[!tip]+ DERIVATIONS of asc-
+>[!tip]- DERIVATIONS of asc-
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -43,4 +44,4 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

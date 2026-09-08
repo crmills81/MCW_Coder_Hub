@@ -22,11 +22,12 @@ _____
 >[!example]+ RELATED TERMS to [[-ible]]
 >
 >| [[-ible]] | capable of (being) | -             | -   |
-| --------- | ------------------ | ------------- | --- |
-| [[-able]] | YES                | able to       |     |
-| [[-ile]]  | YES                | pertaining to | like    |
+> | --------- | ------------------ | ------------- | --- |
+> | [[-able]] | YES                | able to       |     |
+> | [[-ile]]  | YES                | pertaining to | like    |
+>
 _____
->[!tip]+ DERIVATIONS of [[-ible]]
+>[!tip]- DERIVATIONS of [[-ible]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

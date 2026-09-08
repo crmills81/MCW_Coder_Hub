@@ -23,7 +23,7 @@ _____
 >[[stom-]]- + -e-? + [[-itis]] (at root end)
 >[[phleb-]] + -e? + [[-itis]]
 _____
->[!tip]+ DERIVATIONS of [[-e]]
+>[!tip]- DERIVATIONS of [[-e]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

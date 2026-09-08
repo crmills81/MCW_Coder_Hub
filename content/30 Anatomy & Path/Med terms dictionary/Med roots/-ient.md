@@ -22,12 +22,13 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-ient]]
 >
-| [[-ient]]  | pp  | person/thing that does something |
-|:---------:|:---:|:--------------------------------:|
-| [[-ant]]  | YES |               YES                |
-| [[-ent]] | YES |               YES                |
+> | [[-ient]]  | pp  | person/thing that does something |
+> |:---------:|:---:|:--------------------------------:|
+> | [[-ant]]  | YES |               YES                |
+> | [[-ent]] | YES |               YES                |
+
 _____
->[!tip]+ DERIVATIONS of [[-ient]]
+>[!tip]- DERIVATIONS of [[-ient]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

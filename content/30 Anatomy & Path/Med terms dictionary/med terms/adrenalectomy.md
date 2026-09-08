@@ -85,7 +85,7 @@ _____
 >
 _____
 
-> [!tip]+ ## **Common Clinical Indications**
+> [!tip]- ## **Common Clinical Indications**
 > - **[[pheochromocytoma]]** (most common malignant indication)
 >
 > - **Adrenocortical carcinoma**
@@ -224,7 +224,7 @@ _____
 
 
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

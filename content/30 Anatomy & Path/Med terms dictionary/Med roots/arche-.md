@@ -24,10 +24,11 @@ _____
 >[!example]+ RELATED TERMS to arche-
 >
 >| [[arche-]]   | beginning | origin | -   |
-| ------------ | --------- | ------ | --- |
-| [[-genesis]] | -         | YES    | formation    |
+> | ------------ | --------- | ------ | --- |
+> | [[-genesis]] | -         | YES    | formation    |
+
 _____
->[!tip]+ DERIVATIONS of arche-
+>[!tip]- DERIVATIONS of arche-
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -42,4 +43,4 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

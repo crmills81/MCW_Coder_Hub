@@ -15,11 +15,12 @@ _____
 >[!example]+ RELATED TERMS to vesic-
 >
 >| [[vesic-]] | bladder |    -     |
-|:----------:|:-------:|:--------:|
-|  [[asc-]]  |   YES   | sac, bag |
-| [[cyst-]]  |   YES   | cyst         |
+> |:----------:|:-------:|:--------:|
+> |  [[asc-]]  |   YES   | sac, bag |
+> | [[cyst-]]  |   YES   | cyst         |
+
 _____
->[!tip]+ DERIVATIONS of vesic-
+>[!tip]- DERIVATIONS of vesic-
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -33,4 +34,4 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

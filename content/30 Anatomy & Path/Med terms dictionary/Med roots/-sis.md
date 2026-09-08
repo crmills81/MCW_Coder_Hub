@@ -22,18 +22,18 @@ _____
 >[!example]+ RELATED TERMS to [[-sis]]
 >
 >|   [[-sis]]   | condition (of) | state (of) |       -        |
-|:----------:|:--------------:|:----------:|:--------------:|
-|  [[-a]]  |      Yes       |    Yes     |       -        |
-| [[-ema]]  |      Yes       |    Yes     |       -        |
-|  [[-esis]]   |      Yes       |    Yes     |       -        |
-|  [[-ism]]  |      Yes       |    Yes     |        quality (of)      |
-| [[-ismus]] |      Yes       |    Yes     | muscular spasm |
-|  [[-ia]]  |      Yes       |    Yes     |       -        |
-|  [[-ty]]   |      Yes       |    Yes     |       -        |
-|   [[-y]]   |      Yes       |    Yes     |       -        |
+> |:----------:|:--------------:|:----------:|:--------------:|
+> |  [[-a]]  |      Yes       |    Yes     |       -        |
+> | [[-ema]]  |      Yes       |    Yes     |       -        |
+> |  [[-esis]]   |      Yes       |    Yes     |       -        |
+> |  [[-ism]]  |      Yes       |    Yes     |        quality (of)      |
+> | [[-ismus]] |      Yes       |    Yes     | muscular spasm |
+> |  [[-ia]]  |      Yes       |    Yes     |       -        |
+> |  [[-ty]]   |      Yes       |    Yes     |       -        |
+> |   [[-y]]   |      Yes       |    Yes     |       -        |
 >
 _____
->[!tip]+ DERIVATIONS of [[-sis]]
+>[!tip]- DERIVATIONS of [[-sis]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -47,4 +47,4 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

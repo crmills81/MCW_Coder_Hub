@@ -24,29 +24,30 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-ic]]
 >
-|   [[-ic]]    |   pertaining to   | drug | agent |         -          |     -      |
-|:------------:|:-----------------:|:----:|:-----:|:------------------:|:----------:|
-|   [[-ac]]    |        YES        |  -   |   -   |     located in     |     -      |
-|   [[-al]]    |        YES        |  -   |   -   |     located in     |     -      |
-|   [[-an]]    |        YES        |  -   |   -   |     located in     |     -      |
-|   [[-ar]]    |        YES        |  -   |   -   |     located in     |     -      |
-|   [[-ary]]   |        YES        |  -   |   -   |     place for      |     -      |
-|   [[-eal]]   |        YES        |  -   |   -   |     located in     |     -      |
-|   [[-ean]]   |        YES        |  -   |   -   |     located in     |     -      |
-|  [[-etic]]   |        YES        |  -   |   -   |         -          |     -      |
-|   [[-id]]    |        YES        |  -   |   -   |   condition (of)   | state (of) |
-|   [[-ile]]   |        YES        |  -   |   -   | capable of (being) |    like    |
-|   [[-ine]]   |        YES        |  -   |   -   |     located in     |     -      |
-|  [[-itic]]   | (to inflammation) | YES  |  YES  |         -          |     -      |
-|   [[-ive]]   |        YES        |  -   |   -   |         -          |     -      |
-|  [[-ment]]   |         -         |  -   |  YES  |     instrument     |     -      |
-|   [[-or]]    |         -         |  -   |  YES  |     instrument     |     -      |
-|  [[-otic]]   |        YES        |  -   |   -   |         -          |     -      |
-|   [[-ous]]   |        YES        |  -   |   -   |  characterized by  |  full of   |
-| [[pharmac-]] |         -         |  -   |  YES  |      medicine      |     -      |
-|   [[-tic]]   |        YES        | YES  |  YES  |       person       |            |
+> |   [[-ic]]    |   pertaining to   | drug | agent |         -          |     -      |
+> |:------------:|:-----------------:|:----:|:-----:|:------------------:|:----------:|
+> |   [[-ac]]    |        YES        |  -   |   -   |     located in     |     -      |
+> |   [[-al]]    |        YES        |  -   |   -   |     located in     |     -      |
+> |   [[-an]]    |        YES        |  -   |   -   |     located in     |     -      |
+> |   [[-ar]]    |        YES        |  -   |   -   |     located in     |     -      |
+> |   [[-ary]]   |        YES        |  -   |   -   |     place for      |     -      |
+> |   [[-eal]]   |        YES        |  -   |   -   |     located in     |     -      |
+> |   [[-ean]]   |        YES        |  -   |   -   |     located in     |     -      |
+> |  [[-etic]]   |        YES        |  -   |   -   |         -          |     -      |
+> |   [[-id]]    |        YES        |  -   |   -   |   condition (of)   | state (of) |
+> |   [[-ile]]   |        YES        |  -   |   -   | capable of (being) |    like    |
+> |   [[-ine]]   |        YES        |  -   |   -   |     located in     |     -      |
+> |  [[-itic]]   | (to inflammation) | YES  |  YES  |         -          |     -      |
+> |   [[-ive]]   |        YES        |  -   |   -   |         -          |     -      |
+> |  [[-ment]]   |         -         |  -   |  YES  |     instrument     |     -      |
+> |   [[-or]]    |         -         |  -   |  YES  |     instrument     |     -      |
+> |  [[-otic]]   |        YES        |  -   |   -   |         -          |     -      |
+> |   [[-ous]]   |        YES        |  -   |   -   |  characterized by  |  full of   |
+> | [[pharmac-]] |         -         |  -   |  YES  |      medicine      |     -      |
+> |   [[-tic]]   |        YES        | YES  |  YES  |       person       |            |
+>
 _____
->[!tip]+ DERIVATIONS of [[-ic]]
+>[!tip]- DERIVATIONS of [[-ic]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

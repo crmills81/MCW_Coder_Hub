@@ -33,7 +33,7 @@ _____
 >| Teratogen  | terato- (monster) + [[-gen]]          | Birth defect-causing agent. |
 
 _____
->[!tip]+ DERIVATIONS of [[-gen]]
+>[!tip]- DERIVATIONS of [[-gen]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

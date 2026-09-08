@@ -1,7 +1,6 @@
 ---
 tags:
   - medroot
-  - medterm
 aliases: []
 roots:
   - allo‑
@@ -29,12 +28,13 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[allo‑]]
 >
-|          Term           |    Meaning    | Prefix/Suffix? | Notes |
-| :---------------------: | :-----------: | :------------: | :---: |
-| [[allo‑]] | different |       -        |   -   |
-|    [[all-]]     |    NO     |    -     | - |
+>|          Term           |    Meaning    | Prefix/Suffix? | Notes |
+>| :---------------------: | :-----------: | :------------: | :---: |
+>| [[allo‑]] | different |       -        |   -   |
+>|    [[all-]]     |    NO     |    -     | - |
+>
 _____
->[!tip]+ DERIVATIONS of [[allo‑]]
+>[!tip]- DERIVATIONS of [[allo‑]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot
@@ -50,7 +50,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

@@ -8,17 +8,17 @@ roots:
   - fer-
   - -ent
   - -ferrent
-"definition:": signals carried toward the brain
+definition: signals carried toward the brain
 forms:
   - noun
   - combining
   - prefix
   - suffix
   - adjective
-"alphabet:": A
+alphabet: A
 ---
 >[!note]+ Definition of [[afferent]]
->[[ad-|af-]][[fer-]][[-ent]] impulse - signals carried *toward* the brain (bearing towards); In anatomy and physiology, **afferent** describes a directional flow _toward_ a central reference point. In the nervous system, afferent neurons (**sensory neurons**) receive information from the sensory organs (**like the skin, eyes, or ears**) and transmit these impulses toward the central nervous system (**the brain and spinal cord**) for processing. In the [[vascular]] and lymphatic systems, afferent vessels transport blood or lymph toward a specific organ or node. A prime clinical example is the afferent arteriole, which carries blood into the glomerulus of the kidney for filtration.
+>**[[ad-|af-]][[fer-]][[-ent]]** impulse - signals carried *toward* the brain (bearing towards); In anatomy and physiology, **afferent** describes a directional flow _toward_ a central reference point. In the nervous system, afferent neurons (**sensory neurons**) receive information from the sensory organs (**like the skin, eyes, or ears**) and transmit these impulses toward the central nervous system (**the brain and spinal cord**) for processing. In the [[vascular]] and lymphatic systems, afferent vessels transport blood or lymph toward a specific organ or node. A prime clinical example is the afferent arteriole, which carries blood into the glomerulus of the kidney for filtration.
 ___
 >[!info]+ Etymology of [[afferent]]
 >#latin 

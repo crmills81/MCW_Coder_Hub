@@ -15,8 +15,8 @@ roots:
 forms:
   - combining
   - noun
-"alphabet:": A
-"definition:": abnormal smallness of the extremities
+alphabet: A
+definition: abnormal smallness of the extremities
 ---
 >[!note]+ Definition of [[acromicria]]
 >**[[acr-]]o-[[micr-]][[-ia]]** - abnormal smallness of the extremities (**condition of small extremities**); **Acromicria** (also spelled *acromikria*) is a morphological and pathophysiological condition marked by the abnormal smallness and underdevelopment of the body's extremities, most notably the hands and feet, but occasionally involving the **ears, nose, and jaws**. It is the clinical opposite of [[acromegaly]]. **Acromicria** is rarely an isolated diagnosis; it is typically a phenotypic manifestation of a broader systemic, genetic, or endocrinological disorder. Most commonly, it is observed in pediatric patients with congenital syndromes such as **Prader-Willi syndrome, Down syndrome**, or in cases of severe growth hormone deficiency ([[hypopituitarism]]) leading to pituitary dwarfism.

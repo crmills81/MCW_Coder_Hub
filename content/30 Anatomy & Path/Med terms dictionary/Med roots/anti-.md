@@ -28,12 +28,13 @@ _____
 >[!example]+ RELATED TERMS to anti-
 >
 >|  [[anti-]]  | against | opposed to | preventing | relieving |    -     |        -         |
-|:-----------:|:-------:|:----------:|:----------:|:---------:|:--------:|:----------------:|
-|  [[ana-]]   |   YES   |     -      |     -      |     -     |    up    |       back       |
-| [[contra-]] |   YES   |     -      |     -      |     -     | opposite |        -         |
-|   [[ob-]]   |   YES   |     -      |     -      |     -     |  toward  | very, thoroughly |
+> |:-----------:|:-------:|:----------:|:----------:|:---------:|:--------:|:----------------:|
+> |  [[ana-]]   |   YES   |     -      |     -      |     -     |    up    |       back       |
+> | [[contra-]] |   YES   |     -      |     -      |     -     | opposite |        -         |
+> |   [[ob-]]   |   YES   |     -      |     -      |     -     |  toward  | very, thoroughly |
+
 _____
->[!tip]+ DERIVATIONS of [[anti-]]
+>[!tip]- DERIVATIONS of [[anti-]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -48,36 +49,36 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 
 
 
-# **Prefix: [[anti-]]**
+### Prefix: anti-
 
-## Short Definition
+##### Short Definition
 Against or preventing.
 
-## Long Definition
+##### Long Definition
 The prefix **anti-** indicates opposition, prevention, or action against something. It appears in pharmacology, immunology, and infectious disease terminology.
 
-## Etymology
+##### Etymology
 - Greek **anti** → “against, opposite”
 
-## Related Terms
+##### Related Terms
 | Term | Meaning |
 |------|---------|
 | [[contra-]] | against |
 | [[prophylactic]] | preventive |
 
-## Common Medical Terms
+##### Common Medical Terms
 - **[[Antibiotic]]** - against bacteria  
 - **[[Anticoagulant]]** - prevents clotting  
 - **[[Antiviral]]** - against viruses  
 
-## Documentation Clues
+##### Documentation Clues
 - “[[prophylaxis]]”
 - “Preventive therapy”
 - “Anti‑inflammatory treatment”
 
-## Coder’s Notes
+##### Coder’s Notes
 Anti‑medications often require **indication coding** (e.g., anticoagulants →[[ Z79.01]]).

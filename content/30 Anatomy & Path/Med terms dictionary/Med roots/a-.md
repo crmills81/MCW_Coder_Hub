@@ -18,18 +18,24 @@ definition:
  >[!Note] Definition of [[a-]]
 >not, without, lacking, deficient
 _____
->[!info]+ Etymology of [[a-]]
+>[!info]+ ETYMOLOGY of [[a-]]
 >#greek
->- an- when preceding "h" or {vowel}
+>
+>|Component|Origin|Meaning|
+>|---|---|---|
+>|**[[a-]]** / **[[an-]]**|Greek _ἀ- (a-), ἀν- (an-)_|"**not**," "**without**," "**lacking**" — negating/privative prefix (becomes *an-* before *h* or a vowel)|
+>
+> The word entered English in the **1600s** as a Greek-derived prefix (**prefix**), borrowed from Late Latin ***[[a-]]***, from Greek ***ἀ-*** (a-) — literally "**not, without**." The root *a-* ("**absence**") connects [[a-]] to the entire **[[negative and privative roots]]**: ***[[anemia]]*** (**an- + haima $\rightarrow$ without blood**), ***[[anoxia]]*** (**an- + oxys $\rightarrow$ without oxygen**), and ***[[asymptomatic]]*** (**a- + symptoma $\rightarrow$ without symptoms**). The **privative** prefix [[a-]] is one of the most productive negating prefixes in medical terminology: e.g., ***[[anhydrosis]]***, ***[[aneurysm]]***, ***[[aphonia]]***, ***[[asystole]]***, and ***[[achylia]]***.
 _____
 >[!example]+ Related terms of [[a-]]
 >
 >|    [[a-]]    | not | without | lacking, deficient |         -         |   -   |     
-|:------------:|:---:|:-------:|:------------------:|:-----------------:|:-----:| 
-|  [[hypo-]]   |  -  |    -    |        YES         | low, below normal | under |     
-| [[in(not)-]] | YES |    -    |         -          |         -         |   -   |     
-|   [[non-]]   | YES |    -    |         -          |         -         |   -   |     
-|  [[olig-]]   |  -  |    -    |        YES         |        few        |   -   |     
+> |:------------:|:---:|:-------:|:------------------:|:-----------------:|:-----:| 
+> |  [[hypo-]]   |  -  |    -    |        YES         | low, below normal | under |     
+> | [[in(not)-]] | YES |    -    |         -          |         -         |   -   |     
+> |   [[non-]]   | YES |    -    |         -          |         -         |   -   |     
+> |  [[olig-]]   |  -  |    -    |        YES         |        few        |   -   |     
+>
 _____
 >[!tip]- Derivations of [[a-]]
 >```dataview

@@ -47,7 +47,7 @@ The combining form **[[azot-]]** refers to nitrogen compounds, especially waste 
 Azotemia is a key indicator in **kidney failure coding** and affects severity levels.
 
 _____
->[!tip]+ DERIVATIONS of [[azot-]]
+>[!tip]- DERIVATIONS of [[azot-]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name
@@ -61,7 +61,7 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

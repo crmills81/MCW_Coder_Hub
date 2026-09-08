@@ -21,11 +21,12 @@ _____
 >[!example]+ RELATED TERMS to [[-cy]]
 >
 >|  [[-cy]]   | the act of (being) | the state of (being) |           -           |         -         |
-|:----------:|:------------------:|:--------------------:|:---------------------:|:-----------------:|
-| [[-ation]] |        YES         |          -           | the result of (being) | something that is |
-|  [[-ce]]   |        YES         |         YES          |           -           | -                  |
+>|:----------:|:------------------:|:--------------------:|:---------------------:|:-----------------:|
+>| [[-ation]] |        YES         |          -           | the result of (being) | something that is |
+>|  [[-ce]]   |        YES         |         YES          |           -           | -                  |
+>
 _____
->[!tip]+ DERIVATIONS of [[-cy]]
+>[!tip]- DERIVATIONS of [[-cy]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot
@@ -40,8 +41,8 @@ _____
 >FROM #medroot
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
-
-[[Med roots dictionary]]
+️
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

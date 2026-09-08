@@ -33,7 +33,7 @@ _____
 >- **Cuneiform:** Wedge-shaped; referring to specific bones in the foot or a style of ancient writing.
 >- **Falciform:** Sickle-shaped; such as the _falciform ligament_ of the liver.
 _____
->[!tip]+ **DERIVATIONS** of [[-form]]
+>[!tip]- **DERIVATIONS** of [[-form]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

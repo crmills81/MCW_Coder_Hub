@@ -26,29 +26,29 @@ _____
 >[!example]+ RELATED TERMS to [[-itic]]
 >
 >|   [[-itic]]    |   pertaining to (often inflamation)   | drug | agent |         -          |     -      |
-|:------------:|:-----------------:|:----:|:-----:|:------------------:|:----------:|
-|   [[-ac]]    |        YES        |  -   |   -   |     located in     |     -      |
-|   [[-al]]    |        YES        |  -   |   -   |     located in     |     -      |
-|   [[-an]]    |        YES        |  -   |   -   |     located in     |     -      |
-|   [[-ar]]    |        YES        |  -   |   -   |     located in     |     -      |
-|   [[-ary]]   |        YES        |  -   |   -   |     place for      |     -      |
-|   [[-eal]]   |        YES        |  -   |   -   |     located in     |     -      |
-|   [[-ean]]   |        YES        |  -   |   -   |     located in     |     -      |
-|  [[-etic]]   |        YES        |  -   |   -   |         -          |     -      |
-|   [[-id]]    |        YES        |  -   |   -   |   condition (of)   | state (of) |
-|   [[-ile]]   |        YES        |  -   |   -   | capable of (being) |    like    |
-|   [[-ine]]   |        YES        |  -   |   -   |     located in     |     -      |
-|  [[-ic]]   | YES | YES  |  YES  |         -          |     -      |
-|   [[-ive]]   |        YES        |  -   |   -   |         -          |     -      |
-|  [[-ment]]   |         -         |  -   |  YES  |     instrument     |     -      |
-|   [[-or]]    |         -         |  -   |  YES  |     instrument     |     -      |
-|  [[-otic]]   |        YES        |  -   |   -   |         -          |     -      |
-|   [[-ous]]   |        YES        |  -   |   -   |  characterized by  |  full of   |
-| [[pharmac-]] |         -         |  -   |  YES  |      medicine      |     -      |
-|   [[-tic]]   |        YES        | YES  |  YES  |       person       |            |
+> |:------------:|:-----------------:|:----:|:-----:|:------------------:|:----------:|
+> |   [[-ac]]    |        YES        |  -   |   -   |     located in     |     -      |
+> |   [[-al]]    |        YES        |  -   |   -   |     located in     |     -      |
+> |   [[-an]]    |        YES        |  -   |   -   |     located in     |     -      |
+> |   [[-ar]]    |        YES        |  -   |   -   |     located in     |     -      |
+> |   [[-ary]]   |        YES        |  -   |   -   |     place for      |     -      |
+> |   [[-eal]]   |        YES        |  -   |   -   |     located in     |     -      |
+> |   [[-ean]]   |        YES        |  -   |   -   |     located in     |     -      |
+> |  [[-etic]]   |        YES        |  -   |   -   |         -          |     -      |
+> |   [[-id]]    |        YES        |  -   |   -   |   condition (of)   | state (of) |
+> |   [[-ile]]   |        YES        |  -   |   -   | capable of (being) |    like    |
+> |   [[-ine]]   |        YES        |  -   |   -   |     located in     |     -      |
+> |  [[-ic]]   | YES | YES  |  YES  |         -          |     -      |
+> |   [[-ive]]   |        YES        |  -   |   -   |         -          |     -      |
+> |  [[-ment]]   |         -         |  -   |  YES  |     instrument     |     -      |
+> |   [[-or]]    |         -         |  -   |  YES  |     instrument     |     -      |
+> |  [[-otic]]   |        YES        |  -   |   -   |         -          |     -      |
+> |   [[-ous]]   |        YES        |  -   |   -   |  characterized by  |  full of   |
+> | [[pharmac-]] |         -         |  -   |  YES  |      medicine      |     -      |
+> |   [[-tic]]   |        YES        | YES  |  YES  |       person       |            |
 >
 _____
->[!tip]+ DERIVATIONS of [[-itic]]
+>[!tip]- DERIVATIONS of [[-itic]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -62,4 +62,4 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

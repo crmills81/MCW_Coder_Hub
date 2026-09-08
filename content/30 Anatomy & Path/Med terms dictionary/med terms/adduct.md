@@ -11,8 +11,8 @@ roots:
   - duct-
 forms:
   - adjective
-"alphabet:": A
-"definition:": To draw towards an axis or the median line
+alphabet: A
+definition: To draw towards an axis or the median line
 ---
 >[!note] Definition of [[adduct]]
 >[[ad-]][[duct-]] - To draw towards an axis or the median line (**to bring toward**); To **adduct** is to perform a biomechanical movement that pulls a structure or appendage toward the midline of the body or toward the midline of a limb. In the context of the limbs, bringing the arms down to the sides of the torso or squeezing the legs together are examples of adduction. In the context of digits (**fingers or toes**), adduction refers to bringing the digits together toward the central axis of the hand (**the middle finger**) or foot (**the second toe**). The primary muscles responsible for this movement in the lower extremity are the adductor longus, adductor brevis, and adductor magnus, located in the medial compartment of the thigh.

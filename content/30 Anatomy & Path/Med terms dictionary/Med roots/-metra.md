@@ -23,9 +23,10 @@ _____
 >[!example]+ RELATED TERMS to [[-metra]]
 >
 >| [[-metra]]  | uterus | -    | -   |
-| ----------- | ------ | ---- | --- |
-| [[hyster-]] | YES    | -    | -   |
-| [[uter-]]   | YES    | womb | belly    |
+> | ----------- | ------ | ---- | --- |
+> | [[hyster-]] | YES    | -    | -   |
+> | [[uter-]]   | YES    | womb | belly    |
+
 _____
 >[!tip]- DERIVATIONS of [[-metra]]
 >```dataview

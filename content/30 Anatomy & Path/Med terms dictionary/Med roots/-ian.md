@@ -23,7 +23,7 @@ _____
 >[!example]+ RELATED TERMS to [[-ian]]
 >
 _____
->[!tip]+ DERIVATIONS of [[-ian]]
+>[!tip]- DERIVATIONS of [[-ian]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

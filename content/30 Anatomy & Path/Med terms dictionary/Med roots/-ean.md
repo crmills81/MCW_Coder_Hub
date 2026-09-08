@@ -19,28 +19,30 @@ _____
 >#latin From Latin -eānus or Greek -εανός (-eanós), adjectival suffixes meaning "of or belonging to" (e.g., caesareanus "of Caesar").
 >Entered English via Medieval Latin and Old French by the 14th century, with medical adoption during Renaissance anatomy for relational adjectives.
 _____
+
 >[!example]+ RELATED TERMS to [[-ean]]
 >
 >|  [[-ean]]  |   pertaining to   | located in |         -          |       -       |
-|:---------:|:-----------------:|:----------:|:------------------:|:-------------:|
-|  [[-ac]]  |        YES        |    YES     |         -          |       -       |
-|  [[-an]]  |        YES        |    YES     |         -          |       -       |
-|  [[-ar]]  |        YES        |    YES     |         -          |       -       |
-| [[-ary]]  |        YES        |     -      |     place for      |       -       |
-| [[-al]]  |        YES        |    YES     |         -          |       -       |
-| [[-eal]]  |        YES        |    YES     |         -          |       -       |
-| [[-etic]] |        YES        |     -      |         -          |       -       |
-|  [[-ic]]  |        YES        |     -      |        drug        |     agent     |
-|  [[-id]]  |        YES        |     -      |   condition (of)   |  state (of)   |
-| [[-ile]]  |        YES        |     -      | capable of (being) |     like      |
-| [[-ine]]  |        YES        |    YES     |         -          |       -       |
-| [[-itic]] | (to inflammation) |     -      |        drug        |     agent     |
-| [[-ive]]  |        YES        |     -      |         -          |       -       |
-| [[-otic]] |        YES        |     -      |         -          |       -       |
-| [[-ous]]  |        YES        |     -      |  characterized by  |    full of    |
-| [[-tic]]  |        YES        |     -      |        drug        | agent, person |
+>|:---------:|:-----------------:|:----------:|:------------------:|:-------------:|
+>|  [[-ac]]  |        YES        |    YES     |         -          |       -       |
+>|  [[-an]]  |        YES        |    YES     |         -          |       -       |
+>|  [[-ar]]  |        YES        |    YES     |         -          |       -       |
+>| [[-ary]]  |        YES        |     -      |     place for      |       -       |
+>| [[-al]]  |        YES        |    YES     |         -          |       -       |
+>| [[-eal]]  |        YES        |    YES     |         -          |       -       |
+>| [[-etic]] |        YES        |     -      |         -          |       -       |
+>|  [[-ic]]  |        YES        |     -      |        drug        |     agent     |
+>|  [[-id]]  |        YES        |     -      |   condition (of)   |  state (of)   |
+>| [[-ile]]  |        YES        |     -      | capable of (being) |     like      |
+>| [[-ine]]  |        YES        |    YES     |         -          |       -       |
+>| [[-itic]] | (to inflammation) |     -      |        drug        |     agent     |
+>| [[-ive]]  |        YES        |     -      |         -          |       -       |
+>| [[-otic]] |        YES        |     -      |         -          |       -       |
+>| [[-ous]]  |        YES        |     -      |  characterized by  |    full of    |
+>| [[-tic]]  |        YES        |     -      |        drug        | agent, person |
+>
 _____
->[!tip]+ DERIVATIONS of <% tp.file.title %>
+>[!tip]- DERIVATIONS of [[-ean]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot
@@ -56,7 +58,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

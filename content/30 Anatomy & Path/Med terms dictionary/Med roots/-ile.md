@@ -22,27 +22,29 @@ _____
 >[!example]+ RELATED TERMS to [[-ile]]
 >
 >| [[-ile]]  |   pertaining to   | capable of (being) | like |        -         |      -       |
-|:---------:|:-----------------:|:------------------:|:----:|:----------------:|:------------:|
-| [[-able]] |         -         |        YES         |  -   |     able to      |      -       |
-|  [[-ac]]  |        YES        |         -          |  -   |    located in    |      -       |
-|  [[-al]]  |        YES        |         -          |  -   |    located in    |      -       |
-|  [[-an]]  |        YES        |         -          |  -   |    located in    |      -       |
-|  [[-ar]]  |        YES        |         -          |  -   |    located in    |      -       |
-| [[-ary]]  |        YES        |         -          |  -   |    place for     |      -       |
-| [[-eal]]  |        YES        |         -          |  -   |    located in    |      -       |
-| [[-ean]]  |        YES        |         -          |  -   |    located in    |      -       |
-| [[-etic]] |        YES        |         -          |  -   |        -         |      -       |
-| [[-ible]] |         -         |        YES         |  -   |        -         |      -       |
-|  [[-ic]]  |        YES        |         -          |  -   |       drug       |    agent     |
-|  [[-id]]  |        YES        |         -          |  -   |  condition (of)  |  state (of)  |
-| [[-ine]]  |        YES        |         -          |  -   |    located in    |      -       |
-| [[-itic]] | (to inflammation) |         -          |  -   |       drug       |    agent     |
-| [[-ive]]  |        YES        |         -          |  -   |        -         |      -       |
-| [[-otic]] |        YES        |         -          |  -   |        -         |      -       |
-| [[-ous]]  |        YES        |         -          |  -   | characterized by |   full of    |
-| [[-tic]]  |        YES        |         -          |  -   |       drug       | agent/person |
+> |:---------:|:-----------------:|:------------------:|:----:|:----------------:|:------------:|
+> | [[-able]] |         -         |        YES         |  -   |     able to      |      -       |
+> |  [[-ac]]  |        YES        |         -          |  -   |    located in    |      -       |
+> |  [[-al]]  |        YES        |         -          |  -   |    located in    |      -       |
+> |  [[-an]]  |        YES        |         -          |  -   |    located in    |      -       |
+> |  [[-ar]]  |        YES        |         -          |  -   |    located in    |      -       |
+> | [[-ary]]  |        YES        |         -          |  -   |    place for     |      -       |
+> | [[-eal]]  |        YES        |         -          |  -   |    located in    |      -       |
+> | [[-ean]]  |        YES        |         -          |  -   |    located in    |      -       |
+> | [[-etic]] |        YES        |         -          |  -   |        -         |      -       |
+> | [[-ible]] |         -         |        YES         |  -   |        -         |      -       |
+> |  [[-ic]]  |        YES        |         -          |  -   |       drug       |    agent     |
+> |  [[-id]]  |        YES        |         -          |  -   |  condition (of)  |  state (of)  |
+> | [[-ine]]  |        YES        |         -          |  -   |    located in    |      -       |
+> | [[-itic]] | (to inflammation) |         -          |  -   |       drug       |    agent     |
+> | [[-ive]]  |        YES        |         -          |  -   |        -         |      -       |
+> | [[-otic]] |        YES        |         -          |  -   |        -         |      -       |
+> | [[-ous]]  |        YES        |         -          |  -   | characterized by |   full of    |
+> | [[-tic]]  |        YES        |         -          |  -   |       drug       | agent/person |
+> 
+
 _____
->[!tip]+ DERIVATIONS of [[-ile]]
+>[!tip]- DERIVATIONS of [[-ile]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

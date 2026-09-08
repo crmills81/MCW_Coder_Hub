@@ -23,15 +23,15 @@ _____
 >[!example]+ RELATED TERMS to [[apo-]]
 >
 >| [[apo-]]  | away from |   -    |   -    |
-|:--------:|:---------:|:------:|:------:|
-| [[ab-]] |    YES    |   -    |   -    |
-| [[de-]]  |    YES    |  down  | absent |
-| [[ec-]]  |    YES    | out of |   -    |
-| [[ex-]]  |    YES    | out of |   -    |
-| [[se-]]  |    ES     | out of | -       |
+> |:--------:|:---------:|:------:|:------:|
+> | [[ab-]] |    YES    |   -    |   -    |
+> | [[de-]]  |    YES    |  down  | absent |
+> | [[ec-]]  |    YES    | out of |   -    |
+> | [[ex-]]  |    YES    | out of |   -    |
+> | [[se-]]  |    ES     | out of | -       |
 >
 _____
->[!tip]+ DERIVATIONS of apo-
+>[!tip]- DERIVATIONS of apo-
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -45,7 +45,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 
 
 

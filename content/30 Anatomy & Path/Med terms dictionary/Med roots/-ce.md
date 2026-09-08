@@ -25,11 +25,12 @@ _____
 >[!example]+ RELATED TERMS to [[-ce]]
 >
 >| [[-ce]]    | the act of (being) | the state of (being) | -                     | -                |
-| ---------- | ------------------ | -------------------- | --------------------- | ---------------- |
-| [[-ation]] | YES                | -                    | the result of (being) | something that is |
-| [[-cy]]    | YES                | YES                  | -                     | -                 |
+>| ---------- | ------------------ | -------------------- | --------------------- | ---------------- |
+>| [[-ation]] | YES                | -                    | the result of (being) | something that is |
+>| [[-cy]]    | YES                | YES                  | -                     | -                 |
+>
 _____
->[!tip]+ DERIVATIONS of [[-ce]]
+>[!tip]- DERIVATIONS of [[-ce]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

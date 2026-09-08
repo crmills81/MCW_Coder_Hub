@@ -26,18 +26,18 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-oma]]
 >
-|    Term    | Meaning | Prefix/Suffix? |       Notes        |   -       |
-|:----------:|:-------:|:--------------:|:------------------:| ---------------------- |
-| [[-oma]] | Growth  |       -        |         -          |       -       |
-|  [[-ma]]   |   NO    |     suffix     |         -          |       -       |
-| [[-omata]] |   YES   |     suffix     |         -          |       -       |
-| [[-cel-]]  |   YES   |       -        |       hernia       | swelling       |
-| [[-iasis]] |    -    |      YES       | abnormal condition | abnormal presence (of) |
-|  [[nos-]]  |    -    |      YES       |      illness       | -           |
-|  [[onc-]]  |   YES   |       -        |         -          | -       |
-| [[path-]]  |    -    |      YES       |         -          | -         |
-| [[-pathy]] |    -    |      YES       |         -          | -       |
-
+> |    Term    | Meaning | Prefix/Suffix? |       Notes        |   -       |
+> |:----------:|:-------:|:--------------:|:------------------:| ---------------------- |
+> | [[-oma]] | Growth  |       -        |         -          |       -       |
+> |  [[-ma]]   |   NO    |     suffix     |         -          |       -       |
+> | [[-omata]] |   YES   |     suffix     |         -          |       -       |
+> | [[-cel-]]  |   YES   |       -        |       hernia       | swelling       |
+> | [[-iasis]] |    -    |      YES       | abnormal condition | abnormal presence (of) |
+> |  [[nos-]]  |    -    |      YES       |      illness       | -           |
+> |  [[onc-]]  |   YES   |       -        |         -          | -       |
+> | [[path-]]  |    -    |      YES       |         -          | -         |
+> | [[-pathy]] |    -    |      YES       |         -          | -       |
+> 
 
 _____
 >[!tip]- DERIVATIONS of [[-oma]]
@@ -56,7 +56,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

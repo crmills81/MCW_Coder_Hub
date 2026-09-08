@@ -67,7 +67,7 @@ _____
 > |**[[Otosclerosis]]**|Abnormal bone growth in the ear|
 > |**[[Cholesteatosis]]**|Abnormal keratin cyst in middle ear|
 > |**[[Tonsillitis]]**|Tonsillar inflammation|
-> |**[[Laryngomalacia]]** _(variant)_|Softening of laryngeal tissue|
+> |**[[laryngomalacia]]** _(variant)_|Softening of laryngeal tissue|
 > |**[[epistaxis]]**|Nosebleed (process of nasal bleeding)|
 > |**[[Pharyngitis]]**|Pharyngeal inflammation|
 > |**[[Mastoiditis]]**|Mastoid bone infection/inflammation|

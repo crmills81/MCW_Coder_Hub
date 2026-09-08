@@ -22,14 +22,16 @@ _____
 >[!info]+ ETYMOLOGY of [[-graphy]]
 >[[-graphy]] comes from #Greek _-graphia_ meaning “writing, drawing, description,” from _graphein_ “to write, draw, scratch,” via Latin _-graphia_ and French _-graphie_ into English. The underlying Proto-Indo-European root relates to “scratching/carving,” reflecting the original act of inscribing marks as writing.
 _____
+
 >[!example]+ RELATED TERMS to [[-graphy]]
 >|Suffix|Core meaning|Example term|What it names|
-|---|---|---|---|
-| [[-graphy]] | Process of recording/imaging/description[wikipedia+1](https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes) | Angiography | Imaging procedure of vessels[wikipedia+1](https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes) |
-|[[-graph]] |Instrument that records[wikipedia](https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes) ​| Electrocardiograph|Machine that records heart activity[wikipedia](https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes)​|
-| [[-gram]]|Record or image produced[wikipedia+1](https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes)| Electrocardiogram |Tracing/image of heart activity[wikipedia+1](https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes)|
+> |---|---|---|---|
+> | [[-graphy]] | Process of recording/imaging/description[wikipedia+1](https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes) | Angiography | Imaging procedure of vessels[wikipedia+1](https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes) |
+> |[[-graph]] |Instrument that records[wikipedia](https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes) ​| Electrocardiograph|Machine that records heart activity[wikipedia](https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes)​|
+> | [[-gram]]|Record or image produced[wikipedia+1](https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes)| Electrocardiogram |Tracing/image of heart activity[wikipedia+1](https://en.wikipedia.org/wiki/List_of_medical_roots_and_affixes)|
+>
 _____
->[!tip]+ DERIVATIONS of [[-graphy]]
+>[!tip]- DERIVATIONS of [[-graphy]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

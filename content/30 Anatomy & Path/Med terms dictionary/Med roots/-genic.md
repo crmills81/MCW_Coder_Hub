@@ -26,6 +26,7 @@ definition:
 >**Causative:** Describing something that _produces_ a specific effect or condition (e.g., _carcinogenic_ substances produce cancer).
 >**Origin-based:** Describing something that is _produced by_ a specific organ or process (e.g., _neurogenic_ pain originates in the nerves).
 _____
+
 >[!info]+ ETYMOLOGY of [[-genic]]
 >- **Origin:** Ancient #greek[](https://www.wikidoc.org/index.php/List_of_medical_roots,_suffixes_and_prefixes)​
 >- **Root:** Derived from _genes_ (meaning "born of" or "produced by").[](https://www.wikidoc.org/index.php/List_of_medical_roots,_suffixes_and_prefixes)​
@@ -33,14 +34,15 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-genic]]
 >|Medical Term|Focus|Meaning|
-|---|---|---|
-|**carcinogenic**|Causative|Substance that produces cancer|
-|**Iatrogenic**|Origin|Condition caused by medical intervention|
-|**pathogenic**|Causative|Organism that produces disease|
-|**neurogenic**|Origin|Stemming from the nervous system [wikipedia](https://en.wikipedia.org/wiki/List_of_medical_abbreviations:_N)​|
-|**[[nephrogenic]]**|Origin|Stemming from the kidneys (e.g., _nephrogenic diabetes insipidus_) [wikipedia](https://en.wikipedia.org/wiki/List_of_medical_abbreviations:_N)​|
+> |---|---|---|
+> |**carcinogenic**|Causative|Substance that produces cancer|
+> |**Iatrogenic**|Origin|Condition caused by medical intervention|
+> |**pathogenic**|Causative|Organism that produces disease|
+> |**neurogenic**|Origin|Stemming from the nervous system [wikipedia](https://en.wikipedia.org/wiki/List_of_medical_abbreviations:_N)​|
+> |**[[nephrogenic]]**|Origin|Stemming from the kidneys (e.g., _nephrogenic diabetes insipidus_) [wikipedia](https://en.wikipedia.org/wiki/List_of_medical_abbreviations:_N)​|
+>
 _____
->[!tip]+ DERIVATIONS of [[-genic]]
+>[!tip]- DERIVATIONS of [[-genic]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

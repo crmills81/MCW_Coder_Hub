@@ -48,7 +48,7 @@ The combining form **[[axill-]]** refers to the axilla (armpit), a region contai
 Breast cancer surgeries often include **axillary node procedures**, which have distinct CPT codes.
 
 _____
->[!tip]+ DERIVATIONS of [[axill-]]
+>[!tip]- DERIVATIONS of [[axill-]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name
@@ -62,7 +62,7 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

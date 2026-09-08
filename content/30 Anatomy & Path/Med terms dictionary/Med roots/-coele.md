@@ -22,12 +22,13 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-coele]]
 >
-|          Term           |    Meaning    | Prefix/Suffix? | Notes |
-| :---------------------: | :-----------: | :------------: | :---: |
-| [[-coele]] | **cavity, ventricle** |       -        |   -   |
-|    [[hydrocele]]     |    Fluid-filled cavity (alt. hydrocele)  |    [[hydr-]] + [[-coele]] variant     | - |
+>|          Term           |    Meaning    | Prefix/Suffix? | Notes |
+>| :---------------------: | :-----------: | :------------: | :---: |
+>| [[-coele]] | **cavity, ventricle** |       -        |   -   |
+>|    [[hydrocele]]     |    Fluid-filled cavity (alt. hydrocele)  |    [[hydr-]] + [[-coele]] variant     | - |
+>
 _____
->[!tip]+ DERIVATIONS of [[-coele]]
+>[!tip]- DERIVATIONS of [[-coele]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

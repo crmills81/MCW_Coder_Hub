@@ -15,10 +15,11 @@ _____
 >[!example]+ RELATED TERMS to ven-
 >
 >| [[ven-]] | vein |
-|:----------:|:----:|
-|  [[phleb-]]  | YES     |
+> |:----------:|:----:|
+> |  [[phleb-]]  | YES     |
+
 _____
->[!tip]+ DERIVATIONS of ven-
+>[!tip]- DERIVATIONS of ven-
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -32,4 +33,4 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

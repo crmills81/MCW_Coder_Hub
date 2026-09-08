@@ -28,18 +28,18 @@ _____
 >[!example]+ Related terms to [[-ia]]
 >
 >|   [[-ia]]   | condition (of) | state (of) |       -        |
-|:----------:|:--------------:|:----------:|:--------------:|
-|  [[-a]]  |      Yes       |    Yes     |       -        |
-| [[-ema]]  |      Yes       |    Yes     |       -        |
-|  [[-esis]]   |      Yes       |    Yes     |       -        |
-|  [[-ism]]  |      Yes       |    Yes     |        quality (of)      |
-| [[-ismus]] |      Yes       |    Yes     | muscular spasm |
-|  [[-sis]]  |      Yes       |    Yes     |       -        |
-|  [[-ty]]   |      Yes       |    Yes     |       -        |
-|   [[-y]]   |      Yes       |    Yes     |       -        |
+> |:----------:|:--------------:|:----------:|:--------------:|
+> |  [[-a]]  |      Yes       |    Yes     |       -        |
+> | [[-ema]]  |      Yes       |    Yes     |       -        |
+> |  [[-esis]]   |      Yes       |    Yes     |       -        |
+> |  [[-ism]]  |      Yes       |    Yes     |        quality (of)      |
+> | [[-ismus]] |      Yes       |    Yes     | muscular spasm |
+> |  [[-sis]]  |      Yes       |    Yes     |       -        |
+> |  [[-ty]]   |      Yes       |    Yes     |       -        |
+> |   [[-y]]   |      Yes       |    Yes     |       -        |
 >
 _____
->[!tip]+ Derivations to [[-ia]]
+>[!tip]- Derivations to [[-ia]]
 >```dataview
 TABLE definition AS Definition 
 WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

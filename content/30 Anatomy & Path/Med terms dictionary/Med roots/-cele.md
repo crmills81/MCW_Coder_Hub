@@ -21,13 +21,15 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-cele]]
 >
-|   Term    | Meaning | Prefix/Suffix? | Notes |
-|:---------:|:-------:|:--------------:|:-----:|
-| [[-cele]] | hernia  |       -        |   -   |
-| [[-cel-]] |   YES   |       -        |   -   |
-|   [[hydrocele]]    |  Fluid-filled sac around testis  | [[hydr-]] (water) + [[-cele]]  |       |
+>|   Term    | Meaning | Prefix/Suffix? | Notes |
+>|:---------:|:-------:|:--------------:|:-----:|
+>| [[-cele]] | hernia  |       -        |   -   |
+>| [[-cel-]] |   YES   |       -        |   -   |
+>|   [[hydrocele]]    |  Fluid-filled sac around testis  | [[hydr-]] (water) + [[-cele]]  |       |
+>
+
 _____
->[!tip]+ DERIVATIONS of [[-cele]]
+>[!tip]- DERIVATIONS of [[-cele]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

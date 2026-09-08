@@ -15,10 +15,11 @@ _____
 >[!example]+ RELATED TERMS to viscer-
 >
 >|  [[viscer-]]  | internal organ |  -  |
-|:-------------:|:--------------:|:---:|
-| [[splanchn-]] |      YES       | viscus    |
+> |:-------------:|:--------------:|:---:|
+> | [[splanchn-]] |      YES       | viscus    |
+
 _____
->[!tip]+ DERIVATIONS of viscer-
+>[!tip]- DERIVATIONS of viscer-
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -32,4 +33,4 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

@@ -1,7 +1,6 @@
 ---
 tags:
   - medroot
-  - medterm
 aliases:
   - albin-
 roots:
@@ -25,7 +24,14 @@ Relating to whiteness or lack of pigment.
 The combining forms **[[alb-]]** and **[[albin-]]** refer to whiteness, pale coloration, or absence of pigment. These terms appear in dermatology, genetics, and pathology.
 
 ## Etymology
-- Latin **albus** → “white”
+>[!info]+ ETYMOLOGY of [[alb-]]
+>#latin
+>
+>|Component|Origin|Meaning|
+>|---|---|---|
+>|**[[alb-]]** / **[[albin-]]**|Latin _albus_ (al-bus)|"**white**," "**pale**," "**lacking pigment**" — qualitative/color-describing combining form|
+>
+> The word entered English in the **1770s** as *albino* (**noun/adjective**), borrowed from Portuguese *albino*, from Latin ***albus*** — literally "**white**." The adjective *albinotic* appeared in the **1830s**, and the noun *albinism* in the **1820s**. The root *albus* ("**white**") connects [[alb-]] to the entire **[[color and pigment roots]]**: ***[[albinism]]*** (**alb- + -ism $\rightarrow$ congenital absence of pigment**), ***[[albumin]]*** (**alb- + -umen $\rightarrow$ "white" protein of blood plasma**), and ***[[albino]]*** (**alb- + -ino $\rightarrow$ person lacking pigment**). The **combining form** [[alb-]] is productive in dermatology, genetics, and biochemistry: e.g., ***[[albinuria]]***, ***[[albescence]]***, and ***[[subalbinus]]***.
 
 ## Related Terms
 | Term | Meaning |
@@ -47,7 +53,7 @@ The combining forms **[[alb-]]** and **[[albin-]]** refer to whiteness, pale col
 Albumin levels are key in **severity scoring** and **malnutrition coding**.
 
 _____
->[!tip]+ DERIVATIONS of [[alb-]] [[albin-]]
+>[!tip]- DERIVATIONS of [[alb-]] [[albin-]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name
@@ -61,7 +67,7 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

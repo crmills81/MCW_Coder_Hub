@@ -48,7 +48,7 @@ Ankylosing spondylitis has **specific ICD‑10 codes** based on spinal region.
 
 
 _____
->[!tip]+ DERIVATIONS of 
+>[!tip]- DERIVATIONS of 
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name
@@ -62,7 +62,7 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

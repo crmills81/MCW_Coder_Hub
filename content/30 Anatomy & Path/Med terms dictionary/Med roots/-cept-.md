@@ -23,10 +23,11 @@ _____
 >[!example]+ RELATED TERMS to [[-cept-]]
 >
 >| [[-cept-]] | take |
-| :----------: |: ---- :|
-| [[-cip-]]  | YES     |
+>| :----------: |: ---- :|
+>| [[-cip-]]  | YES     |
+>
 _____
->[!tip]+ DERIVATIONS of [[-cept-]]
+>[!tip]- DERIVATIONS of [[-cept-]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

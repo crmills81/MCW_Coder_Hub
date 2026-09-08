@@ -21,7 +21,7 @@ _____
 >[!example]+ RELATED TERMS to icter-
 >
 _____
->[!tip]+ DERIVATIONS of icter-
+>[!tip]- DERIVATIONS of icter-
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

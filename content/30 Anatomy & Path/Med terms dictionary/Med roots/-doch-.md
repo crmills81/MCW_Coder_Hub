@@ -26,11 +26,12 @@ _____
 >[!example]+ RELATED TERMS to [[-doch-]]
 >
 >| [[-doch-]] | duct |   -    |
-|:----------:|:----:|:------:|
-| [[angi-]]  | YES  | vessel |
-|  [[por-]]  | YES  | passage, opening, pore, cavity       |
+>|:----------:|:----:|:------:|
+>| [[angi-]]  | YES  | vessel |
+>|  [[por-]]  | YES  | passage, opening, pore, cavity       |
+>
 _____
->[!tip]+ DERIVATIONS of [[-doch-]]
+>[!tip]- DERIVATIONS of [[-doch-]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

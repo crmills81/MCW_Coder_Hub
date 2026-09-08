@@ -23,11 +23,12 @@ _____
 >[!example]+ RELATED TERMS to [[-ation]]
 >
 >| [[-ation]] | the act of (being) | the result of (being) | something that is | -               |
-| ---------- | ------------------ | --------------------- | ----------------- | ------------------- |
-| [[-ce]]    | YES                | -                     | -                 | the state of (being) |
-| [[-cy]]    | YES                | -                     | -                 | the state of (being)                    |
+>| ---------- | ------------------ | --------------------- | ----------------- | ------------------- |
+>| [[-ce]]    | YES                | -                     | -                 | the state of (being) |
+>| [[-cy]]    | YES                | -                     | -                 | the state of (being)                    |
+>
 _____
->[!tip]+ DERIVATIONS of [[-ation]]
+>[!tip]- DERIVATIONS of [[-ation]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

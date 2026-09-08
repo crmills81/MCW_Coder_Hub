@@ -21,19 +21,19 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-ism]]
 >
-|  [[-ism]]  | condition (of) | state (of) | quality (of) |       -        |
-|:----------:|:--------------:|:----------:|:------------:|:--------------:|
-|   [[-a]]   |      Yes       |    Yes     |      -       |       -        |
-|  [[-ema]]  |      Yes       |    Yes     |      -       |       -        |
-| [[-esis]]  |      Yes       |    Yes     |      -       |       -        |
-|  [[-ia]]   |      Yes       |    Yes     |      -       |       -        |
-| [[-ismus]] |      Yes       |    Yes     |      -       | muscular spasm |
-|  [[-sis]]  |      Yes       |    Yes     |      -       |       -        |
-|  [[-ty]]   |      Yes       |    Yes     |      -       |       -        |
-|   [[-y]]   |      Yes       |    Yes     |      -       |       -        |
+> |  [[-ism]]  | condition (of) | state (of) | quality (of) |       -        |
+> |:----------:|:--------------:|:----------:|:------------:|:--------------:|
+> |   [[-a]]   |      Yes       |    Yes     |      -       |       -        |
+> |  [[-ema]]  |      Yes       |    Yes     |      -       |       -        |
+> | [[-esis]]  |      Yes       |    Yes     |      -       |       -        |
+> |  [[-ia]]   |      Yes       |    Yes     |      -       |       -        |
+> | [[-ismus]] |      Yes       |    Yes     |      -       | muscular spasm |
+> |  [[-sis]]  |      Yes       |    Yes     |      -       |       -        |
+> |  [[-ty]]   |      Yes       |    Yes     |      -       |       -        |
+> |   [[-y]]   |      Yes       |    Yes     |      -       |       -        |
 >
 _____
->[!tip]+ DERIVATIONS of [[-ism]]
+>[!tip]- DERIVATIONS of [[-ism]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

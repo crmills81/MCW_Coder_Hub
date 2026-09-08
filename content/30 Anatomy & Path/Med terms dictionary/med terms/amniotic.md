@@ -13,7 +13,7 @@ roots:
 "definition:": Pertaining to the amnion
 forms:
   - adjective
-"alphabet:": A
+alphabet: A
 ---
 >[!note] Definition of [[amniotic]]
 >[[amnio-]][[-tic]] - Pertaining to the [amnion]. **The amniotic fluid is the protective liquid contained by the amniotic sac** of a gravid amniote. This fluid serves as a cushion for a growing fetus. **Amniotic** pertains to the amnion or the structures contained within it, primarily the amniotic sac and amniotic fluid. Anatomically, the amnion is the thin, **avascular**, and tough innermost membranous sac that develops around the embryo. It fuses with the outer membrane (**the chorion**) to form the chorioamniotic sac. The amniotic sac holds the amniotic fluid, which is crucial for fetal survival and development. **The fluid acts as a biomechanical shock absorber,** maintains a stable thermoregulatory environment, prevents adherence of the growing fetus to the amnion, and allows for the free movement essential for symmetrical musculoskeletal development.

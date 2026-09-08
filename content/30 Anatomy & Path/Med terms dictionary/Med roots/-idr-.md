@@ -22,11 +22,12 @@ _____
 >[!example]+ RELATED TERMS to [[-idr-]]
 >
 >| [[-idr-]] | sweat |   -   |
-|:---------:|:-----:|:-----:|
-| [[hidr-]] |  YES  |   -   |
-| [[sud-]]  |  YES  | fluid |
+> |:---------:|:-----:|:-----:|
+> | [[hidr-]] |  YES  |   -   |
+> | [[sud-]]  |  YES  | fluid |
+
 _____
->[!tip]+ DERIVATIONS of [[-idr-]]
+>[!tip]- DERIVATIONS of [[-idr-]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

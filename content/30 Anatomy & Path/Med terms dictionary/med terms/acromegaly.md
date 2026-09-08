@@ -11,7 +11,7 @@ roots:
   - mega-
   - -y
   - -o-
-"alphabet:": A
+alphabet: A
 forms:
   - combining
   - noun

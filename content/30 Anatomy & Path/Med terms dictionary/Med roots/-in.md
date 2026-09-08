@@ -22,10 +22,11 @@ _____
 >[!example]+ RELATED TERMS to [[-in]]
 >
 >| [[-in]] | substance |              -              |
-|:-------:|:---------:|:---------------------------:|
-| [[-ma]] |    YES    | abnormal/diseased condition |
+> |:-------:|:---------:|:---------------------------:|
+> | [[-ma]] |    YES    | abnormal/diseased condition |
+
 _____
->[!tip]+ DERIVATIONS of [[-in]]
+>[!tip]- DERIVATIONS of [[-in]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

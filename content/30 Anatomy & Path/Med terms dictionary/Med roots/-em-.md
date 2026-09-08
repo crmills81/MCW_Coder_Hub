@@ -24,11 +24,12 @@ _____
 >[!example]+ RELATED TERMS to [[-em-]]
 >
 >| [[-em-]]    | blood |
-| ----------- | ----- |
-| [[hem-]]    | YES   |
-| [[sangui-]] | YES      |
+> | ----------- | ----- |
+> | [[hem-]]    | YES   |
+> | [[sangui-]] | YES      |
+>
 _____
->[!tip]+ DERIVATIONS of [[-em-]]
+>[!tip]- DERIVATIONS of [[-em-]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

@@ -27,7 +27,7 @@ _____
 >- **[[-osis]]**: Often combined with the root _[[scler-]]_ (as in *sclerosis*), this suffix generally indicates an abnormal condition or disease state.[](https://globalrph.com/medical-terms-introduction/)
 >- **Fibrosis**: While similar, *fibrosis* specifically refers to the scarring and development of excess fibrous connective tissue.
 _____
->[!tip]+ DERIVATIONS of [[-sclerosis]]
+>[!tip]- DERIVATIONS of [[-sclerosis]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -41,4 +41,4 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

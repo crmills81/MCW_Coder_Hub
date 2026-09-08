@@ -10,7 +10,7 @@ forms:
   - combining
   - prefix
   - prefixes
-"alphabet:": A
+alphabet: A
 definition:
   - fat
   - fatty tissue
@@ -19,16 +19,23 @@ definition:
 >fat; The prefix "[[adip-]]" or "[[adipo-]]" means **"fat" or "fatty tissue"** and is derived from the Latin word "adeps." It is commonly used in medical and scientific terms, such as "adipocyte" (fat cells) or "adipose" (body fat), and can also appear as "adip-" when combined with words starting with a vowel.
 _____
 >[!info]+ ETYMOLOGY of [[adip-]]
->#greek adeps, adipis; borrowed from Latin _adip-, adeps_ "animal fat, lard, fatty tissue" (perhaps borrowed, through another Italic language or Etruscan, from Greek _áleiphar, áleipha,_ derivative of _aleíphein_ "to smear, rub [with oil]") + [-o-](https://www.merriam-webster.com/dictionary/-o-) — more at [aliphatic](https://www.merriam-webster.com/dictionary/aliphatic)
+>#latin
+>
+>|Component|Origin|Meaning|
+>|---|---|---|
+>|**[[adip-]]** / **[[adipo-]]**|Latin _adeps, adipis_ (a-deps)|"**fat**," "**lard**," "**fatty tissue**" — substance combining form (possibly borrowed through Italic or Etruscan from Greek _ἄλειφαρ_ (áleiphar), from _aleíphein_ "to smear, rub with oil")|
+>
+> The word entered English in the **1720s** as *adipose* (**adjective**), borrowed from French *adipeux*, from Latin ***adeps, adipis*** — literally "**animal fat**." The noun *adiposity* appeared in the **1740s**, and *adipocyte* in the **1930s**. The root *adeps* ("**fat**") connects [[adip-]] to the entire **[[fat and lipid roots]]**: ***[[adipocyte]]*** (**adip- + kytos $\rightarrow$ fat cell**), ***[[adiposis]]*** (**adip- + -osis $\rightarrow$ abnormal accumulation of fat**), and ***[[adipose tissue]]*** (**adip- + -ose $\rightarrow$ fatty connective tissue**). The **combining form** [[adip-]] is productive in endocrinology, metabolic medicine, and surgical anatomy: e.g., ***[[adipogenesis]]***, ***[[adipolysis]]***, ***[[adiponectin]]***, and ***[[adiposity]]***.
 _____
 >[!example]+ RELATED TERMS to [[adip-]]
 >
 >| [[adip-]]  | fat |   -   |        -         |
-|:----------:|:---:|:-----:|:----------------:|
-|  [[lip-]]  | fat |   -   |        -         |
-| [[stear-]] | fat | sebum | sebaceous glands |
+> |:----------:|:---:|:-----:|:----------------:|
+> |  [[lip-]]  | fat |   -   |        -         |
+> | [[stear-]] | fat | sebum | sebaceous glands |
+
 _____
->[!tip]+ DERIVATIONS of [[adip-]]
+>[!tip]- DERIVATIONS of [[adip-]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -77,7 +84,7 @@ The combining form **[[adip-]]** refers to fat, adipose tissue, or fatty deposit
 ## Coder’s Notes
 Often appears in **operative reports** describing dissection layers.
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

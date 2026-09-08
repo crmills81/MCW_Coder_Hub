@@ -21,7 +21,7 @@ _____
 >[!example]+ RELATED TERMS to Zo-
 >
 _____
->[!tip]+ DERIVATIONS of Zo-
+>[!tip]- DERIVATIONS of Zo-
 >```dataview
 >TABLE definition AS Definition 
 >FROM #medterm 
@@ -36,4 +36,4 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

@@ -63,7 +63,7 @@ _____
 > - **[[laminotomy]]** — partial incision of the lamina without complete removal; less destabilizing; the procedural distinction from laminectomy is critical for CPT code selection
 > - **[[Laminoplasty]]** — the lamina is cut and hinged open rather than excised; coded under CPT [[63050]] (cervical, 2 levels) and [[63051]] (cervical, 3+ levels); preserves posterior stability
 > - **[[discectomy]]** — removal of herniated disc material; may be performed alongside laminectomy but targets the disc rather than the bony lamina; CPT [[63030]] (lumbar), [[63020]] (cervical)
-> - **[[Foraminotomy]]** — enlargement of the neural foramen to decompress a nerve root; often performed concurrently with laminectomy (see CPT [[63047]] which bundles foraminotomy)
+> - **[[foraminotomy]]** — enlargement of the neural foramen to decompress a nerve root; often performed concurrently with laminectomy (see CPT [[63047]] which bundles foraminotomy)
 > - **[[Spinal stenosis]]** — narrowing of the spinal canal; the most common indication for laminectomy; coded [[M48.061]], [[M48.062]], [[M48.06]], [[M48.07]]
 > - **[[Myelopathy]]** — spinal cord dysfunction from compression; a key indication driving laminectomy in both cervical and thoracic regions; coded [[M47.12]], [[M47.22]], [[M51.06]]
 > - **[[Radiculopathy]]** — nerve root compression causing radiating pain or weakness; coded [[M54.12]]-[[M54.17]], [[M51.15]]-[[M51.17]]; often the primary documented indication on profee claims

@@ -26,12 +26,13 @@ _____
 >[!example]+ RELATED TERMS to [[-cel-]]
 >
 >| [[-cel-]] | tumor | swelling | hernia |    -    |
-|:---------:|:-----:|:--------:|:------:|:-------:|
-| [[edema]] |   -   |   YES    |   -    |    -    |
-| [[30 Anatomy & Path/Med terms dictionary/Med roots/-oma]]  |  YES  |    -     |   -    | disease |
-| [[onc-]]  |  YES  |    -     |   -    |    -    |
+>|:---------:|:-----:|:--------:|:------:|:-------:|
+>| [[edema]] |   -   |   YES    |   -    |    -    |
+>| [[-oma]]  |  YES  |    -     |   -    | disease |
+>| [[onc-]]  |  YES  |    -     |   -    |    -    |
+>
 _____
->[!tip]+ DERIVATIONS of [[-cel-]]
+>[!tip]- DERIVATIONS of [[-cel-]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

@@ -22,26 +22,27 @@ _____
 >[!example]+ RELATED TERMS to [[-ine]]
 >
 >|  [[-ine]]  |   pertaining to   | located in |         -          |       -       |
-|:---------:|:-----------------:|:----------:|:------------------:|:-------------:|
-|  [[-ac]]  |        YES        |    YES     |         -          |       -       |
-|  [[-an]]  |        YES        |    YES     |         -          |       -       |
-|  [[-ar]]  |        YES        |    YES     |         -          |       -       |
-| [[-ary]]  |        YES        |     -      |     place for      |       -       |
-| [[-al]]  |        YES        |    YES     |         -          |       -       |
-| [[-eal]]  |        YES        |    YES     |         -          |       -       |
-| [[-etic]] |        YES        |     -      |         -          |       -       |
-|  [[-ic]]  |        YES        |     -      |        drug        |     agent     |
-|  [[-id]]  |        YES        |     -      |   condition (of)   |  state (of)   |
-| [[-ile]]  |        YES        |     -      | capable of (being) |     like      |
-| [[-ean]]  |        YES        |    YES     |         -          |       -       |
-| [[-itic]] | (to inflammation) |     -      |        drug        |     agent     |
-| [[-ive]]  |        YES        |     -      |         -          |       -       |
-| [[-otic]] |        YES        |     -      |         -          |       -       |
-| [[-ous]]  |        YES        |     -      |  characterized by  |    full of    |
-| [[-tic]]  |        YES        |     -      |        drug        | agent, person |
+> |:---------:|:-----------------:|:----------:|:------------------:|:-------------:|
+> |  [[-ac]]  |        YES        |    YES     |         -          |       -       |
+> |  [[-an]]  |        YES        |    YES     |         -          |       -       |
+> |  [[-ar]]  |        YES        |    YES     |         -          |       -       |
+> | [[-ary]]  |        YES        |     -      |     place for      |       -       |
+> | [[-al]]  |        YES        |    YES     |         -          |       -       |
+> | [[-eal]]  |        YES        |    YES     |         -          |       -       |
+> | [[-etic]] |        YES        |     -      |         -          |       -       |
+> |  [[-ic]]  |        YES        |     -      |        drug        |     agent     |
+> |  [[-id]]  |        YES        |     -      |   condition (of)   |  state (of)   |
+> | [[-ile]]  |        YES        |     -      | capable of (being) |     like      |
+> | [[-ean]]  |        YES        |    YES     |         -          |       -       |
+> | [[-itic]] | (to inflammation) |     -      |        drug        |     agent     |
+> | [[-ive]]  |        YES        |     -      |         -          |       -       |
+> | [[-otic]] |        YES        |     -      |         -          |       -       |
+> | [[-ous]]  |        YES        |     -      |  characterized by  |    full of    |
+> | [[-tic]]  |        YES        |     -      |        drug        | agent, person |
+
 >
 _____
->[!tip]+ DERIVATIONS of [[-ine]]
+>[!tip]- DERIVATIONS of [[-ine]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

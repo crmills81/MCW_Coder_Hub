@@ -50,7 +50,7 @@ The combining forms **[[arter-]]** and **[[arteri-]]** refer to arteries, the th
 Arterial procedures often require **selective catheterization coding** and **laterality**.
 
 _____
->[!tip]+ DERIVATIONS of [[arter-]]
+>[!tip]- DERIVATIONS of [[arter-]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name
@@ -64,7 +64,7 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

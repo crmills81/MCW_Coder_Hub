@@ -20,7 +20,7 @@ _____
 >[!example]+ RELATED TERMS to [[-is]]
 >
 _____
->[!tip]+ DERIVATIONS of [[-is]]
+>[!tip]- DERIVATIONS of [[-is]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name

@@ -17,15 +17,15 @@ _____
 >[!example]+ RELATED TERMS to [[-ellus]]
 >
 >|  [[-ellus]]  | small |         biological genera         |
-|:----------:| :-----: |:-----------------:|
-| [[-cle]]  | YES   |         -         |
-| [[micr-]] | YES   | - |
-|  [[-il]]   | YES   |         -         |
-|  [[-ole]]  | YES   |         -         |
-|  [[-ule]]  | YES   |         -         |
+> |:----------:| :-----: |:-----------------:|
+> | [[-cle]]  | YES   |         -         |
+> | [[micr-]] | YES   | - |
+> |  [[-il]]   | YES   |         -         |
+> |  [[-ole]]  | YES   |         -         |
+> |  [[-ule]]  | YES   |         -         |
 >
 _____
->[!tip]+ DERIVATIONS of [[-ellus]]
+>[!tip]- DERIVATIONS of [[-ellus]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

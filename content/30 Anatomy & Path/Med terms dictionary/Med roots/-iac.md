@@ -21,7 +21,7 @@ _____
 >[!example]+ RELATED TERMS to [[-iac]]
 >
 _____
->[!tip]+ DERIVATIONS of [[-iac]]
+>[!tip]- DERIVATIONS of [[-iac]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

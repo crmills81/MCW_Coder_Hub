@@ -39,7 +39,7 @@ In medical coding, **[[-rrhaphy]]** indicates that the surgeon performed a **rep
 |------|---------|------------------|
 | **[[-plasty]]** | Surgical repair/reconstruction | More extensive reshaping; not limited to suturing. |
 | **[[-pexy]]** | Surgical fixation | Secures an organ in place; not stitching tissue edges together. |
-| **[[30 Anatomy & Path/Med terms dictionary/Med roots/-desis]]** | Fusion or binding | Used for joints or bones; not soft‑tissue suturing. |
+| **[[-desis]]** | Fusion or binding | Used for joints or bones; not soft‑tissue suturing. |
 | **[[-otomy]]** | Incision/cutting into | Opening tissue, not repairing it. |
 | **[[-ectomy]]** | Removal/excision | Tissue is removed, not sutured. |
 
@@ -92,7 +92,7 @@ You’ll see **-rrhaphy** used when the surgeon:
 - Laterality matters for tendon and nerve repairs.  
 
 _____
->[!tip]+ DERIVATIONS of [[-rrhaphy]]
+>[!tip]- DERIVATIONS of [[-rrhaphy]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name
@@ -106,7 +106,7 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

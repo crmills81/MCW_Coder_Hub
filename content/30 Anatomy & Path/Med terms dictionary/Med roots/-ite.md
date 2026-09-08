@@ -19,14 +19,15 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-ite]]
 >
-| [[-ite]] | chemical substance | - |    -    |
-|:--------:|:------------------:|:------------------------------:|:-------:|
-| [[-ate]] |        YES         |               -                |    -    |
-| [[-id]] |        YES         |               -                |    -    |
-| [[-one]] |        YES         |               -                |    -    |
-| [[-ose]] |        YES         |          resembling          | full of |
+> | [[-ite]] | chemical substance | - |    -    |
+> |:--------:|:------------------:|:------------------------------:|:-------:|
+> | [[-ate]] |        YES         |               -                |    -    |
+> | [[-id]] |        YES         |               -                |    -    |
+> | [[-one]] |        YES         |               -                |    -    |
+> | [[-ose]] |        YES         |          resembling          | full of |
+>
 _____
->[!tip]+ DERIVATIONS of [[-ite]]
+>[!tip]- DERIVATIONS of [[-ite]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
@@ -41,4 +42,4 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

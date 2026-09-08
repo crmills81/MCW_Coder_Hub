@@ -11,7 +11,7 @@ forms:
   - suffixes
   - suffix form
   - noun
-"alphabet:": U
+alphabet: U
 definition: form abstract nouns expressing a quality, condition, or physical property
 ---
 >[!Note] DEFINITION of [[-udes]]
@@ -143,7 +143,7 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

@@ -20,11 +20,12 @@ _____
 >[!example]+ RELATED TERMS to [[anthrop-]]
 >
 >| [[asc-]]   | sac | bag | bladder | -    |
-| ---------- | --- | --- | ------- | ---- |
-| [[cyst-]]  | -   | -   | YES     | cyst |
-| [[vesic-]] | -   | -   | bladder | -     |
+> | ---------- | --- | --- | ------- | ---- |
+> | [[cyst-]]  | -   | -   | YES     | cyst |
+> | [[vesic-]] | -   | -   | bladder | -     |
+
 _____
->[!tip]+ DERIVATIONS of anthrop-
+>[!tip]- DERIVATIONS of anthrop-
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot
@@ -40,4 +41,4 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

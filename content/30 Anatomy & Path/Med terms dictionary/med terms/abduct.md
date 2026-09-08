@@ -13,7 +13,7 @@ roots:
   - duct-
 forms:
   - verb
-"alphabet:": A
+alphabet: A
 "definition:": To draw away from an axis or the median plane
 ---
 >[!note] Definition of [[abduct]]

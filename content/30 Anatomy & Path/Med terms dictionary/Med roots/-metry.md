@@ -20,10 +20,11 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-metry]]
 >
-|          Term           |    Meaning    | Prefix/Suffix? | Notes |
-| :---------------------: | :-----------: | :------------: | :---: |
-| [[-metry]] | measuring |       -        |   -   |
-|    [[Optometry]]     |    Measurement of vision     |    no     | - |
+> |          Term           |    Meaning    | Prefix/Suffix? | Notes |
+> | :---------------------: | :-----------: | :------------: | :---: |
+> | [[-metry]] | measuring |       -        |   -   |
+> |    [[Optometry]]     |    Measurement of vision     |    no     | - |
+
 _____
 >[!tip]- DERIVATIONS of [[-metry]]
 >```dataview

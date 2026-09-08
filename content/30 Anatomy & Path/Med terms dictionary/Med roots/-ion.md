@@ -22,7 +22,7 @@ _____
 >[!example]+ RELATED TERMS to [[-ion]]
 >
 _____
->[!tip]+ DERIVATIONS of [[-ion]]
+>[!tip]- DERIVATIONS of [[-ion]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

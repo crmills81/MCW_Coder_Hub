@@ -19,18 +19,19 @@ definition: human
 _____
 >[!info]+ ETYMOLOGY of [[anthropo-]]
 >#latin OR #greek
->borrowed from Greek, combining form from _ánthrōpos_ "**human being, person,**" perhaps of substratal origin; before a vowel, _anthrop-_, word-forming element meaning "pertaining to man or human beings," from Greek _anthrōpos_ **"man; human being**" (including women), as opposed to the gods, from _andra_ (genitive _andros_), Attic form of Greek _anēr_ "**man**" (as opposed to a woman, a god, or a boy), from PIE root [*ner-](https://www.etymonline.com/word/*ner- "Etymology, meaning and definition of *ner-") (2) "man," also "vigorous, vital, strong."
+>borrowed from Greek, combining form from _ánthrōpos_ "**human being, person,**" perhaps of substratal origin; before a vowel, _anthrop-_, word-forming element meaning "pertaining to man or human beings," from Greek _anthrōpos_ **"man; human being**" (including women), as opposed to the gods, from _andra_ (genitive _andros_), Attic form of Greek _anēr_ "**man**" (as opposed to a woman, a god, or a boy), from PIE root [ner-](https://www.etymonline.com/word/*ner- "Etymology, meaning and definition of *ner-") (2) "man," also "vigorous, vital, strong."
 _____
 >[!example]+ RELATED TERMS to [[anthropo-]]
 >
 >**anthropology**
 >
 >| [[anthrop-]]   | sac | bag | bladder | -    |
-| ---------- | --- | --- | ------- | ---- |
-| **anthropic**  | -   | -   | YES     | cyst |
-| **Anthropocene** | -   | -   | bladder | -     |
+> | ---------- | --- | --- | ------- | ---- |
+> | **anthropic**  | -   | -   | YES     | cyst |
+> | **Anthropocene** | -   | -   | bladder | -     |
+
 _____
->[!tip]+ DERIVATIONS of [[anthropo-]]
+>[!tip]- DERIVATIONS of [[anthropo-]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot
@@ -46,4 +47,4 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

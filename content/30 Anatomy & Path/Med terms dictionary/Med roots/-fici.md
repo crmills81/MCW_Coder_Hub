@@ -9,7 +9,7 @@ forms:
   - combining
   - prefix
   - suffix
-"alphabet:": F
+alphabet: F
 definition:
   - face
   - appearance
@@ -35,7 +35,7 @@ _____
 >| [[prosop-]] | YES  |     -      |    -    |   -    |
 >
 _____
->[!tip]+ DERIVATIONS of [[-fici]]
+>[!tip]- DERIVATIONS of [[-fici]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot
@@ -50,7 +50,7 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

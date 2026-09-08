@@ -20,7 +20,7 @@ _____
 >[!example]+ RELATED TERMS to [[-ician]]
 >
 _____
->[!tip]+ DERIVATIONS of [[-ician]]
+>[!tip]- DERIVATIONS of [[-ician]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

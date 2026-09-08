@@ -25,25 +25,26 @@ _____
 >[!example]+ RELATED TERMS to [[-id]]
 >
 >|  [[-id]]  |   pertaining to   | condition (of) | state (of) |         -          |       -       |
-|:---------:|:-----------------:|:--------------:|:----------:|:------------------:|:-------------:|
-|  [[-ac]]  |        YES        |       -        |     -      |     located in     |       -       |
-|  [[-al]]  |        YES        |       -        |     -      |     located in     |       -       |
-|  [[-an]]  |        YES        |       -        |     -      |     located in     |       -       |
-|  [[-ar]]  |        YES        |       -        |     -      |     located in     |       -       |
-| [[-ary]]  |        YES        |       -        |     -      |     place for      |       -       |
-| [[-eal]]  |        YES        |       -        |     -      |     located in     |       -       |
-| [[-ean]]  |        YES        |       -        |     -      |     located in     |       -       |
-| [[-etic]] |        YES        |       -        |     -      |         -          |       -       |
-|  [[-ic]]  |        YES        |       -        |     -      |        drug        |     agent     |
-| [[-ile]]  |        YES        |       -        |     -      | capable of (being) |     like      |
-| [[-ine]]  |        YES        |       -        |     -      |     located in     |       -       |
-| [[-itic]] | (to inflammation) |       -        |     -      |        drug        |     agent     |
-| [[-ive]]  |        YES        |       -        |     -      |         -          |       -       |
-| [[-otic]] |        YES        |       -        |     -      |         -          |       -       |
-| [[-ous]]  |        YES        |       -        |     -      |  characterized by  |    full of    |
-| [[-tic]]  |        YES        |       -        |     -      |        drug        | agent, person |
+> |:---------:|:-----------------:|:--------------:|:----------:|:------------------:|:-------------:|
+> |  [[-ac]]  |        YES        |       -        |     -      |     located in     |       -       |
+> |  [[-al]]  |        YES        |       -        |     -      |     located in     |       -       |
+> |  [[-an]]  |        YES        |       -        |     -      |     located in     |       -       |
+> |  [[-ar]]  |        YES        |       -        |     -      |     located in     |       -       |
+> | [[-ary]]  |        YES        |       -        |     -      |     place for      |       -       |
+> | [[-eal]]  |        YES        |       -        |     -      |     located in     |       -       |
+> | [[-ean]]  |        YES        |       -        |     -      |     located in     |       -       |
+> | [[-etic]] |        YES        |       -        |     -      |         -          |       -       |
+> |  [[-ic]]  |        YES        |       -        |     -      |        drug        |     agent     |
+> | [[-ile]]  |        YES        |       -        |     -      | capable of (being) |     like      |
+> | [[-ine]]  |        YES        |       -        |     -      |     located in     |       -       |
+> | [[-itic]] | (to inflammation) |       -        |     -      |        drug        |     agent     |
+> | [[-ive]]  |        YES        |       -        |     -      |         -          |       -       |
+> | [[-otic]] |        YES        |       -        |     -      |         -          |       -       |
+> | [[-ous]]  |        YES        |       -        |     -      |  characterized by  |    full of    |
+> | [[-tic]]  |        YES        |       -        |     -      |        drug        | agent, person |
+
 _____
->[!tip]+ DERIVATIONS of [[-id]]
+>[!tip]- DERIVATIONS of [[-id]]
 >```dataview
 >TABLE definition AS Definition 
 >FROM #medterm 

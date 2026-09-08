@@ -13,7 +13,7 @@ roots:
   - -ia
 forms:
   - adjective
-"alphabet:": A
+alphabet: A
 "definition:": Absence of HCl in stomach
 ---
 

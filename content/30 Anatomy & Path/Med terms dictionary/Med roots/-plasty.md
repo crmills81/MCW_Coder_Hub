@@ -51,7 +51,7 @@ In coding, **[[-plasty]]** signals that the surgeon performed a **reconstructive
 |---|---|---|
 |**[[-ectomy]]**|Removal/excision|Opposite of reconstruction; tissue is removed, not reshaped.|
 |**[[-rrhaphy]]**|Suturing/repair|Often used for closing or stitching, not reshaping.|
-|**[[30 Anatomy & Path/Med terms dictionary/Med roots/-desis]]**|Surgical fusion|Stabilization rather than reconstruction.|
+|**[[-desis]]**|Surgical fusion|Stabilization rather than reconstruction.|
 |**[[-pexy]]**|Surgical fixation|Securing an organ in place, not reshaping it.|
 |**[[-otomy]]**|Cutting/incision|Opening tissue, not repairing or reconstructing.|
 |**[[-oplasty]]**|Variant form of -plasty|Same meaning; used in some terms.|

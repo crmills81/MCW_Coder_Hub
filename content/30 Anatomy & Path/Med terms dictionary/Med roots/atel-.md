@@ -46,7 +46,7 @@ The combining form **[[atel-]]** refers to something that is incomplete, imperfe
 Atelectasis is often **secondary** and may not always be separately reportable.
 
 _____
->[!tip]+ DERIVATIONS of [[atel-]]
+>[!tip]- DERIVATIONS of [[atel-]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name !=[[]].file.name
@@ -60,7 +60,7 @@ ___
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

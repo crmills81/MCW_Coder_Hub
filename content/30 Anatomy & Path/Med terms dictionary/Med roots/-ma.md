@@ -22,9 +22,9 @@ _____
 >[!example]+ RELATED TERMS to [[-ma]]
 > 
 > | [[-ma]]   | abnormal or diseased condition | substance |
-| --------- | ------------------------------ | --------- |
-| [[-in]]   | -                              | YES       |
-| [[-osis]] | YES                            | -          |
+> | --------- | ------------------------------ | --------- |
+> | [[-in]]   | -                              | YES       |
+> | [[-osis]] | YES                            | -          |
 >
 _____
 >[!tip]- DERIVATIONS of [[-ma]]
@@ -42,4 +42,4 @@ ______
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

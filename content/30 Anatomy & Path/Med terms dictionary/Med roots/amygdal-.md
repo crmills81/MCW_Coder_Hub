@@ -6,7 +6,7 @@ roots:
   - amygdal-
 forms:
   - combining
-"alphabet:": A
+alphabet: A
 definition:
   - tonsil
 ---
@@ -22,7 +22,7 @@ _____
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
 >```
 _____
->[!tip]+ DERIVATIONS of amygdal-
+>[!tip]- DERIVATIONS of amygdal-
 >```dataview
 >TABLE definition AS Definition 
 >FROM #medterm 
@@ -30,4 +30,4 @@ _____
 >SORT file.name ASC
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]

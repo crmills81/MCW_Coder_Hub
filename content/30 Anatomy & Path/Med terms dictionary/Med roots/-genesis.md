@@ -24,20 +24,22 @@ _____
 >- **Root:** _[[-genesis]]_ (meaning "**origin**," "**source**," "**birth**," or "**becoming**").[](https://www.wikidoc.org/index.php/List_of_medical_roots,_suffixes_and_prefixes)​
 >- **Derivation:** Derived from the #greek verb _gignesthai_ ("**to be born**" or "**to become**").
 _____
+
 >[!example]+ RELATED TERMS to [[-genesis]]
 >
 >| [[-genesis]] | formation | origin | 
 >| --- | --- | ---| 
-| [[arche-]]     | YES      | beginning |
-| ---| ----- | ---- |
-| **Medical Term**    | **Combined Root**  | **Meaning of Process** |                               
-| **Neurogenesis**    | Nerve (_neuro-_)   | Production of new neurons [youtube](https://www.youtube.com/watch?v=PDVq6KwtHCE)​                                                     |
-| **Angiogenesis**    | Vessel (_angio-_)  | Formation of new blood vessels [youtube](https://www.youtube.com/watch?v=PDVq6KwtHCE)​                                                |
-| **Osteogenesis**    | Bone (_osteo-_)    | Formation of bone tissue [hunterbusinessschool](https://hunterbusinessschool.edu/what-is-a-root-prefix-and-suffix-in-medical-terms/)​ |
-| **Pathogenesis**    | Disease (_patho-_) | The origin and development of a disease                                                                                               |
-| **Spermatogenesis** | Seed (_spermato-_) | The production of sperm cell                                                                                                          |
+> | [[arche-]]     | YES      | beginning |
+> | ---| ----- | ---- |
+> | **Medical Term**    | **Combined Root**  | **Meaning of Process** |                               
+> | **Neurogenesis**    | Nerve (_neuro-_)   | Production of new neurons [youtube](https://www.youtube.com/watch?v=PDVq6KwtHCE)​                                                     |
+> | **Angiogenesis**    | Vessel (_angio-_)  | Formation of new blood vessels [youtube](https://www.youtube.com/watch?v=PDVq6KwtHCE)​                                                |
+> | **Osteogenesis**    | Bone (_osteo-_)    | Formation of bone tissue [hunterbusinessschool](https://hunterbusinessschool.edu/what-is-a-root-prefix-and-suffix-in-medical-terms/)​ |
+> | **Pathogenesis**    | Disease (_patho-_) | The origin and development of a disease                                                                                               |
+> | **Spermatogenesis** | Seed (_spermato-_) | The production of sperm cell                                                                                                          |
+
 _____
->[!tip]+ DERIVATIONS of [[-genesis]]
+>[!tip]- DERIVATIONS of [[-genesis]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

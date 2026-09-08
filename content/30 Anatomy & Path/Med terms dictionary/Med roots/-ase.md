@@ -29,7 +29,7 @@ _____
 >
 
 _____
->[!tip]+ DERIVATIONS of [[-ase]]
+>[!tip]- DERIVATIONS of [[-ase]]
 >```dataview
 >TABLE definition AS Definition 
 >WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name

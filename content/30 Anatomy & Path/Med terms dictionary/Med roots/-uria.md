@@ -27,11 +27,12 @@ _____
 _____
 >[!example]+ RELATED TERMS to [[-uria]]
 >
-|    Term    |                Meaning                | Prefix/Suffix? | Notes |
-|:----------:|:-------------------------------------:|:--------------:|:-----:|
-| [[-uria]]  |           urinary condition           |       -        |   -   |
-| [[Anuria]] | Absent or negligible urine production |     [[-uria]]    |   -   |
-| [[hematuria]]      |  blood in urine  |   [[-uria]]      |   -  |
+> |    Term    |                Meaning                | Prefix/Suffix? | Notes |
+> |:----------:|:-------------------------------------:|:--------------:|:-----:|
+> | [[-uria]]  |           urinary condition           |       -        |   -   |
+> | [[Anuria]] | Absent or negligible urine production |     [[-uria]]    |   -   |
+> | [[hematuria]]      |  blood in urine  |   [[-uria]]      |   -  |
+
 _____
 >[!tip]- DERIVATIONS of [[-uria]]
 >```dataview

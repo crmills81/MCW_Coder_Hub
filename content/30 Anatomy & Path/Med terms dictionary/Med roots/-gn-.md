@@ -38,12 +38,13 @@ _____
 _____
 >[!example]+ **RELATED TERMS** to [[-gn-]]
 >
-|          Term           |    Meaning    | Prefix/Suffix? | Notes |
-| :---------------------: | :-----------: | :------------: | :---: |
-| [[-gn-]] | be born |       -        |   -   |
-|    [[nat-]]     |    YES     |    -     | - |
+> |          Term           |    Meaning    | Prefix/Suffix? | Notes |
+> | :---------------------: | :-----------: | :------------: | :---: |
+> | [[-gn-]] | be born |       -        |   -   |
+> |    [[nat-]]     |    YES     |    -     | - |
+
 _____
->[!tip]+ **DERIVATIONS** of [[-gn-]]
+>[!tip]- **DERIVATIONS** of [[-gn-]]
 >```dataview
 >TABLE definition AS Definition
 >FROM #medroot

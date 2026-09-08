@@ -24,14 +24,15 @@ _____
 >[!example]+ RELATED TERMS to [[-ose]]
 >
 >| [[-ose]]  | full of | resembling | chemical substance |         -          |        -         |
-|:---------:|:-------:|:----------:|:------------------:|:------------------:|:----------------:|
-| [[-ate]]  |    -    |     -      |        YES         | having the form of |    possessing    |
-| [[-ide]]  |    -    |     -      |        YES         |         -          |        -         |
-| [[-ite]]  |    -    |     -      |        YES         |         -          |        -         |
-| [[-lent]] |   YES   |     -      |         -          |         -          |        -         |
-| [[-oid]]  |    -    |    YES     |         -          |         -          |        -         |
-| [[-one]]  |    -    |     -      |        YES         |         -          |        -         |
-| [[-ous]]  |   YES   |     -      |         -          |   pertaining to    | characterized by |
+> |:---------:|:-------:|:----------:|:------------------:|:------------------:|:----------------:|
+> | [[-ate]]  |    -    |     -      |        YES         | having the form of |    possessing    |
+> | [[-ide]]  |    -    |     -      |        YES         |         -          |        -         |
+> | [[-ite]]  |    -    |     -      |        YES         |         -          |        -         |
+> | [[-lent]] |   YES   |     -      |         -          |         -          |        -         |
+> | [[-oid]]  |    -    |    YES     |         -          |         -          |        -         |
+> | [[-one]]  |    -    |     -      |        YES         |         -          |        -         |
+> | [[-ous]]  |   YES   |     -      |         -          |   pertaining to    | characterized by |
+
 _____
 >[!tip]- DERIVATIONS of [[-ose]]
 >```dataview
@@ -48,4 +49,4 @@ _____
 >WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
 >```
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
