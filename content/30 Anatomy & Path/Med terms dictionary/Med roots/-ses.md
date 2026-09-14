@@ -49,7 +49,7 @@ _____
 > |---|---|
 > |**[[Chalcosis]]**|Copper deposition in ocular tissues|
 > |**[[Siderosis]]**|Iron deposition in the eye _(foreign body)_|
-> |**[[Keratoconus]]** _(variant)_|Cone-shaped corneal degeneration|
+> |**[[keratoconus]]** _(variant)_|Cone-shaped corneal degeneration|
 > |**[[Phthisis bulbi]]**|End-stage [[atrophy]]/shrinkage of the globe|
 > |**[[Enophthalmos]]**|Posterior displacement of the globe|
 > |**[[mydriasis]]**|Dilation of the pupil|

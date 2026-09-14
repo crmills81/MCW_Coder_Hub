@@ -47,25 +47,25 @@ _____
 > |---|---|---|
 > |**[[corneal ulcer]]**|Full-thickness epithelial defect with stromal involvement|Different ICD-10 category (H16.0-); rule out before coding abrasion|
 > |**[[keratitis]]**|Inflammation of the cornea|May develop secondary to untreated abrasion; H16.- range|
-> |**[[recurrent corneal erosion]]**|Repeated spontaneous breakdown of epithelium|May indicate underlying corneal dystrophy; separate coding|
+> |**recurrent corneal erosion**|Repeated spontaneous breakdown of epithelium| May indicate underlying corneal dystrophy; separate coding|
 > |**[[iritis]]**|Inflammation of the iris|Common complication of significant abrasion; code additionally|
-> |**[[conjunctival laceration]]**|Tear in the conjunctiva|May be concurrent with corneal abrasion; affects code selection|
+> |**conjunctival laceration**|Tear in the conjunctiva|May be concurrent with corneal abrasion; affects code selection|
 > |**[[blepharospasm]]**|Involuntary eyelid closure|Symptom associated with abrasion; not coded separately unless primary|
-> |**[[foreign body, cornea]]**|Embedded material in the cornea|Excludes1 from S05.0-; separate code T15.0- required|
+> |**foreign body, cornea**|Embedded material in the cornea|Excludes1 from S05.0-; separate code T15.0- required|
 
 _____
 
 > [!success]+ ## **Common Medical Terms Using the Root**
 >
-> - **[[Corneal epithelium]]** - The outermost, rapidly regenerating cell layer of the cornea
+> - **[[corneal epithelium]]** - The outermost, rapidly regenerating cell layer of the cornea
 >
-> - **[[Corneal dystrophy]]** - Inherited disorder causing corneal structural changes; predisposes to recurrent erosion
+> - **[[corneal dystrophy]]** - Inherited disorder causing corneal structural changes; predisposes to recurrent erosion
 >
-> - **[[Keratoconus]]** - Cone-shaped corneal deformity
+> - **[[keratoconus]]** - Cone-shaped corneal deformity
 >
-> - **[[Abrasion]]** - General term for a superficial scrape of any epithelial surface
+> - **[[abrasion]]** - General term for a superficial scrape of any epithelial surface
 >
-> - **[[Corneoscleral]]** - Pertaining to both the cornea and sclera
+> - **[[corneoscleral]]** - Pertaining to both the cornea and sclera
 >
 _____
 
@@ -134,7 +134,7 @@ _____
 >
 > ## **Coder's Notes**
 >
-> - **Laterality is required** — right ([[S05.01XA]]), left ([[S05.02XA]]), or unspecified ([[S05.00XA]])
+> - **Laterality is required** — right (**[[S05.01XA]]**), left (**[[S05.02XA]]**), or unspecified (**[[S05.00XA]]**)
 >
 > - **7th character matters**: A = initial encounter, D = subsequent encounter, S = sequela
 >
@@ -144,7 +144,7 @@ _____
 >
 > - **Bandage contact lens** may be separately billable (**CPT [[92071]]** — fitting of contact lens for treatment of ocular surface disease)
 >
-> - **Fluorescein exam** (Wood's lamp/slit lamp) is typically bundled into the E/M or eye visit — do NOT separately bill CPT [[92230]] for a routine abrasion workup
+> - **Fluorescein exam** (Wood's lamp/slit lamp) is typically bundled into the E/M or eye visit — do NOT separately bill CPT **[[92230]]** for a routine abrasion workup
 >
 > - For **E/M coding**, use 920X2 or 992XX series depending on setting and documentation
 >

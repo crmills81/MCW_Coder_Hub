@@ -65,7 +65,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Parenchyma]]** — the functional, working tissue of an organ; the **[[interstitium]]** is its supportive scaffold, not the functioning tissue itself, distinguishing structure from function
+> - **[[parenchyma]]** — the functional, working tissue of an organ; the **[[interstitium]]** is its supportive scaffold, not the functioning tissue itself, distinguishing structure from function
 > - **[[Stroma]]** — shares a similar connective-tissue role to the **[[interstitium]]**; used almost interchangeably with it in the cornea, where the corneal stroma constitutes the bulk of corneal thickness
 > - **Interstitial cystitis** — **chronic bladder-pain syndrome** involving **[[inflammation]]** of the bladder-wall **interstitium**, distinguished from acute bacterial **[[cystitis]]** by its non-infectious, chronic nature; **[[N30.10]], [[N30.11]]**
 > - **Interstitial keratitis** — corneal inflammation that extends past the epithelium into the stromal/interstitial layer, producing **[[vascularization]]** and scarring; overlaps clinically with **Cogan syndrome (audiovestibular and ocular autoimmune disease)**; **[[H16.301]]-[[H16.399]]**

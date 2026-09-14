@@ -32,7 +32,7 @@ _____
 > - **[[myopia]]:** Nearsightedness; often co-occurs with astigmatism (myopic astigmatism).
 > - **[[hyperopia]]:** Farsightedness; often co-occurs with astigmatism (hyperopic astigmatism).
 > - **[[Presbyopia]]:** Age-related loss of near focusing ability; distinct from but often present alongside astigmatism.
-> - **[[Keratoconus]]:** A progressive eye disease where the cornea thins and bulges into a cone shape, causing high levels of irregular astigmatism.
+> - **[[keratoconus]]:** A progressive eye disease where the cornea thins and bulges into a cone shape, causing high levels of irregular astigmatism.
 > - **Toric Lens:** A specialized lens design (for glasses or contact lenses) that has different powers in different meridians to correct astigmatism.
 > - **Meridian:** The specific axis or orientation of the astigmatism (measured in degrees from 0 to 180).
 > - **Cylinder (Cy):** The measurement value in a prescription indicating the amount of lens power required to correct the astigmatism.

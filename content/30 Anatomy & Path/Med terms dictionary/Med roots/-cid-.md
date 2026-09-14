@@ -1,6 +1,10 @@
 ---
 tags:
   - medroot
+  - suffix
+  - germicide
+  - fugicidal
+  - bactericidal
 aliases:
   - -cide
   - -cidal

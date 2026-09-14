@@ -54,7 +54,7 @@ _____
 > - **Corneal ulcer** _(full-thickness epithelial defect with stromal involvement; infectious or sterile; coded H16.001-H16.099 by location, laterality, and type)_
 > - **Corneal [[edema]]** _(fluid accumulation within the corneal stroma or epithelium causing clouding; includes bullous keratopathy [[H18.10]]-[[H18.12]] and Fuchs-related edema [[H18.51]])_
 > - **Corneal [[dystrophy]]** _(genetically determined, bilateral, non-inflammatory corneal degeneration; coded by layer affected — epithelial [[H18.52]], stromal [[H18.53]], endothelial/Fuchs [[H18.51]])_
-> - **[[Keratoconus]]** _(progressive ectatic corneal disorder with central thinning and conical protrusion; coded [[H18.601]]-[[H18.609]] by laterality)_
+> - **[[keratoconus]]** _(progressive ectatic corneal disorder with central thinning and conical protrusion; coded [[H18.601]]-[[H18.609]] by laterality)_
 > - **Bullous keratopathy** _(epithelial bullae formation from endothelial pump failure; often post-surgical or Fuchs-related; coded [[H18.10]]-[[H18.12]])_
 > - **Band keratopathy** _(calcium deposits in Bowman's layer forming a horizontal band; associated with chronic uveitis, hypercalcemia; [[H18.42]])_
 > - **Corneal [[neovascularization]]** _(pathological ingrowth of blood vessels into the avascular corneal stroma; associated with contact lens overuse, infection, or inflammation; [[H16.401]]-[[H16.409]])_
@@ -69,7 +69,7 @@ _____
 > - **[[Sclera]]** / **[[Scleral]]** — the opaque white outer coat of the eye; shares the anterior segment location but is structurally and functionally distinct from the cornea; scleritis and keratitis can coexist
 > - **[[Endothelium]]** — the innermost single-cell layer of the cornea responsible for the fluid pump mechanism that maintains corneal clarity; endothelial failure leads to bullous keratopathy and corneal edema ([[H18.10]]-[[H18.12]])
 > - **Descemet's membrane** — the basement membrane of the corneal endothelium; site of pathology in Fuchs' endothelial dystrophy ([[H18.51]]) and target of DMEK/DSAEK surgical procedures
-> - **[[Keratoconus]]** — progressive ectatic thinning and conical protrusion of the cornea; shares the *[[kerato-]]* root; the most common corneal ectatic disorder ([[H18.601]]-[[H18.609]])
+> - **[[keratoconus]]** — progressive ectatic thinning and conical protrusion of the cornea; shares the *[[kerato-]]* root; the most common corneal ectatic disorder ([[H18.601]]-[[H18.609]])
 > - **[[Stroma]]** — the thick middle layer of the cornea comprising 90% of its thickness; site of scarring, infiltrates, and edema in most corneal disorders
 > - **Fuchs' endothelial dystrophy** — the most common corneal dystrophy; progressive endothelial cell loss causing corneal edema and visual blur; ([[H18.51]]); treated with DMEK or DSAEK corneal transplant
 > - **[[keratoplasty]]** — surgical corneal transplantation; the definitive treatment for advanced corneal opacities, dystrophies, and keratoconus; includes PK (penetrating keratoplasty), DSAEK, and DMEK procedures

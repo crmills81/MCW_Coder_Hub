@@ -71,7 +71,7 @@ _____
 > 
 > - **[[Osteopetrosis]]** — the opposite of osteoporosis; a rare genetic disorder causing abnormally dense, marble-like bones that are paradoxically brittle.
 > - **[[Osteopenia]]** — a milder form of reduced bone density (T-score between -1.0 and -2.5), a precursor to osteoporosis but without the same fracture risk.
-> - **[[Osteomalacia]]** — defective mineralization of the bone matrix leading to soft bones, often due to vitamin D deficiency; distinct because bone volume may be normal but mineral content is low.
+> - **[[osteomalacia]]** — defective mineralization of the bone matrix leading to soft bones, often due to vitamin D deficiency; distinct because bone volume may be normal but mineral content is low.
 > - **[[Osteosclerosis]]** — focal or generalized increase in bone density; opposite of osteoporosis in localized areas.
 > - **[[Hyperparathyroidism]]** — a common secondary cause of osteoporosis through excessive osteoclastic bone resorption.
 > - **Bone Remodeling** — the lifelong process of bone turnover; osteoporosis results from a net negative balance in this cycle.

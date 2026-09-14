@@ -34,23 +34,23 @@ _____
 >- **[[-ic]]** — parallel adjectival suffix (Greek origin)
 >- **[[-ary]]** — parallel adjectival suffix (Latin origin)
 >
->-  [[-ac]]    |       pertaining to    |      located in        
->- [[-al]]     |     YES         |         YES             |                                  
->-  [[-an]]     |           YES         |         YES         |                                   
->-  [[-ar]]      |          YES       |           YES        |                                             
->- [[-ary]]     |           YES        |           -          |       place for      |                         
->- [[-eal]]       |         YES        |          YES        |                                
->- [[-ean]]       |        YES       |           YES        |                                  
->- [[-etic]]      |         YES        |           -        |                                  
->-  [[-ic]]       |         YES         |          -          |          drug         |          agent               
->- [[-id]]      |          YES       |            -        |       condition (of)     |      state (of)             
->- [[-ile]]      |          YES          |         -         |    capable of (being)     |       like                
->- [[-ine]]       |         YES         |         YES         |                                    
->- [[-itic]]  (to inflammation)    |        -         |           drug      |             agent               
->- [[-ive]]       |         YES          |         -         |                                  
->- [[-otic]]        |       YES         |          -         |                              
->- [[-ous]]      |         YES        |           -        |      characterized by     |       full of              
->- [[-tic]]        |        YES         |         -          |          drug     |          agent, person           
+>-  [[-ac]] pertaining to, located in        
+>- [[-al]]                                 
+>-  [[-an]]                                 
+>-  [[-ar]]                                       
+>- [[-ary]] place for                     
+>- [[-eal]]                                 
+>- [[-ean]]                                  
+>- [[-etic]]                            
+>-  [[-ic]] drug       agent               
+>- [[-id]] condition (of)  state (of)             
+>- [[-ile]] capable of (being), like                
+>- [[-ine]]                               
+>- [[-itic]] (to inflammation), drug   agent               
+>- [[-ive]]                       
+>- [[-otic]]                         
+>- [[-ous]]   characterized by, full of              
+>- [[-tic]]    drug agent, person           
 >
 _____
 >[!tip]- DERIVATIONS of [[-ac]]

@@ -41,7 +41,7 @@ _____
 > |**Cornea**|Transparent anterior coat of the eye (from _cornu_ = horn)|
 > |**Corneal ulcer**|Epithelial/stromal defect of the cornea|
 > |**Corneal edema**|Fluid accumulation within corneal layers|
-> |**[[Keratoconus]]** _(Greek equiv.)_|Cone-shaped corneal degeneration|
+> |**[[keratoconus]]** _(Greek equiv.)_|Cone-shaped corneal degeneration|
 > |**Bullous [[keratopathy]]**|Fluid-filled corneal blisters|
 > |**[[Corneal transplant]] / [[keratoplasty]]**|Surgical replacement of diseased cornea|
 > |**[[Corectopia]]**|Abnormal displacement of the pupil _(pupil = _core_ in Greek, but associated with corneal/anterior segment assessment)_|
