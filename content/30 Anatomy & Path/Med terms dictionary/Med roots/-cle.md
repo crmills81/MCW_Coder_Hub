@@ -141,13 +141,16 @@ _____
 >SORT file.name ASC
 >```
 _____
+
 >[!faq]- Query functionality
->
 >```dataview
 >TABLE definition AS Definition
->FROM #medroot
->WHERE length(filter(definition, (word) => econtains(this.definition, word))) > 0 AND file.name != this.file.name
+>FROM #medroot 
+>WHERE file.name != this.file.name
+>AND any(contains(this.description, description))
 >```
+
+<br>
 
 [[Med roots dictionary]]
 [[Appendix A Prefixes]]

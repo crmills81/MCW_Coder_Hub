@@ -121,14 +121,18 @@ _____
 >SORT file.name ASC
 >```
 _____
+
 >[!faq]- Query functionality
 >```dataview
 >TABLE definition AS Definition
->FROM #medterm 
->WHERE length(filter(definition, (word) => econtains(this.definition, word))) > 0 AND file.name != this.file.name
+>FROM #medterm
+>WHERE file.name != this.file.name
+>AND any(contains(this.description, description))
 >```
 
-[[Med roots dictionary]]
+<br>
+
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

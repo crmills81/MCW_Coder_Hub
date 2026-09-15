@@ -33,18 +33,19 @@ _____
 >SORT file.name ASC
 >```
 _____
+
 >[!faq]- Query functionality
 >```dataview
 >TABLE definition AS Definition
->FROM #medterm 
+>FROM #medterm
 >WHERE file.name != this.file.name
->AND any(contains(definition, split(this.definition, " ")))
+>AND any(contains(this.description, description))
 >```
 
+<br>
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]
 [[Appendix D Suffix forms]]
-

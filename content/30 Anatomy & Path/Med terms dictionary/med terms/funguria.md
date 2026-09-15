@@ -100,13 +100,16 @@ _____
 >SORT file.name ASC
 >```
 _____
+
 >[!faq]- Query functionality
 >```dataview
 >TABLE definition AS Definition
->FROM #medterm 
+>FROM #medterm
 >WHERE file.name != this.file.name
->AND any(contains(this.definition, definition))
+>AND any(contains(this.description, description))
 >```
+
+<br>
 
 [[Med terms dictionary]]
 [[Appendix A Prefixes]]

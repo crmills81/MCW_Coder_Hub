@@ -74,20 +74,22 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(roots, (word) => econtains([[]].roots, word))) > 0 AND file.name != [[]].file.name
+>WHERE length(filter(roots, (word) => econtains([[afferent]].roots, word))) > 0 AND file.name != [[afferent]].file.name
 >SORT file.name ASC
 >```
 _____
+
 >[!faq]- Query functionality
 >```dataview
 >TABLE definition AS Definition
->FROM #medterm 
+>FROM #medterm
 >WHERE file.name != this.file.name
->AND any(contains(this.definition, definition))
+>AND any(contains(this.description, description))
 >```
 
+<br>
 
-[[Med roots dictionary]]
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

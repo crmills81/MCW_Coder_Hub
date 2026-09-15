@@ -1,7 +1,6 @@
 ---
 tags:
   - medterm
-  - medroot
 aliases:
   - hyposphagma
   - Subconjunctival bleeding

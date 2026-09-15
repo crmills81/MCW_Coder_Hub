@@ -214,15 +214,18 @@ definition:
 >SORT file.name ASC
 >```
 ---
+
 >[!faq]- Query functionality
 >```dataview
 >TABLE definition AS Definition
->FROM #medterm 
+>FROM #medterm
 >WHERE file.name != this.file.name
->AND any(contains(this.definition, definition))
+>AND any(contains(this.description, description))
 >```
 
-[[Med roots dictionary]]
+<br>
+
+[[Med terms dictionary]]
 [[Appendix A Prefixes]]
 [[Appendix B Combining Forms]]
 [[Appendix C Suffixes]]

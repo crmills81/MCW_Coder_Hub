@@ -68,7 +68,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Keratectomy]]** — surgical removal of corneal tissue without replacement; differs from keratoplasty in that no donor graft is placed, as seen in photorefractive keratectomy (PRK) for refractive correction.
+> - **[[keratectomy]]** — surgical removal of corneal tissue without replacement; differs from keratoplasty in that no donor graft is placed, as seen in photorefractive keratectomy (PRK) for refractive correction.
 > - **[[Keratotomy]]** — incisional procedure on the cornea (e.g., radial keratotomy); shares the *[[kerat-]]* root but involves cutting rather than tissue replacement.
 > - **[[T86.840]]|Corneal transplant rejection** — an immune-mediated complication of keratoplasty in which the host immune system attacks the donor graft; distinguished from graft failure due to mechanical or technical causes.
 > - **[[T86.841]]|Corneal transplant failure** — non-immune loss of graft function or clarity following keratoplasty, often due to endothelial decompensation; frequently overlaps with rejection in documentation and requires careful query for distinction.

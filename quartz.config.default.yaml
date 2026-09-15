@@ -42,6 +42,10 @@ configuration:
         highlight: "rgba(248,154,195, 0.15)"
         textHighlight: "#fce0ed"
 plugins:
+  - source: "@quartz-themes/core"
+    options:
+      theme: "things-3"
+      mode: "light"
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
