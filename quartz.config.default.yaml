@@ -45,7 +45,7 @@ plugins:
   - source: "@quartz-themes/core"
     options:
       theme: "pink-muted-rose"
-      mode: light
+      mode: "light"
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
