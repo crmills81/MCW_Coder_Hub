@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "🧬 Crystal's Coding Hub 🧬"
+  pageTitle: 🧬 Crystal's Coding Hub 🧬
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -22,15 +22,15 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#FEFAFD"
-        lightgray: "#FDF7FC"
-        gray: "#b8b8b8"
-        darkgray: "#000000"
-        dark: "#000000"
-        secondary: "#780A75"
-        tertiary: "#D129CB"
-        highlight: "rgba(242, 230, 242, 0.44)"
-        textHighlight: "#f7c8df"
+          light: "#FEFAFD"
+          lightgray: "#FDF7FC"
+          gray: "#b8b8b8"
+          darkgray: "#000000"
+          dark: "#000000"
+          secondary: "#780A75"
+          tertiary: "#D129CB"
+          highlight: "rgba(242, 230, 242, 0.44)"
+          textHighlight: "#f7c8df"
       darkMode:
         light: "#161618"
         lightgray: "#393639"
@@ -41,7 +41,6 @@ configuration:
         tertiary: "#9905b0"
         highlight: "rgba(248,154,195, 0.15)"
         textHighlight: "#fce0ed"
-
 plugins:
   - source: "@quartz-themes/core"
     options:
@@ -50,7 +49,7 @@ plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
-      defaultDateType: created
+      defaultDateType: modified
       priority:
         - frontmatter
         - git
@@ -160,7 +159,7 @@ plugins:
     fieldPriority:
       - title
       - content
-      - tags      
+      - tags        
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
@@ -252,7 +251,7 @@ plugins:
         - status
       excludedProperties: []
       hidePropertiesView: false
-      delimiters: "---"
+      delimiters: ---
       language: yaml
     order: 5
     layout:
@@ -281,7 +280,6 @@ plugins:
       position: afterBody
       priority: 50
       display: all
-
 layout:
   groups:
     toolbar:
