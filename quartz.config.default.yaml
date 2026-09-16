@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: 🧬 Crystal's Coding Hub 🧬
+  pageTitle: "🧬 Crystal's Coding Hub 🧬"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -29,7 +29,7 @@ configuration:
         dark: "#000000"
         secondary: "#780A75"
         tertiary: "#D129CB"
-        highlight: rgba(242, 230, 242, 0.44)
+        highlight: "rgba(242, 230, 242, 0.44)"
         textHighlight: "#f7c8df"
       darkMode:
         light: "#161618"
@@ -39,8 +39,9 @@ configuration:
         dark: "#f7dae8"
         secondary: "#f549e4"
         tertiary: "#9905b0"
-        highlight: rgba(248,154,195, 0.15)
+        highlight: "rgba(248,154,195, 0.15)"
         textHighlight: "#fce0ed"
+
 plugins:
   - source: "@quartz-themes/core"
     options:
@@ -251,7 +252,7 @@ plugins:
         - status
       excludedProperties: []
       hidePropertiesView: false
-      delimiters: ---
+      delimiters: "---"
       language: yaml
     order: 5
     layout:
@@ -280,6 +281,7 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+
 layout:
   groups:
     toolbar:
