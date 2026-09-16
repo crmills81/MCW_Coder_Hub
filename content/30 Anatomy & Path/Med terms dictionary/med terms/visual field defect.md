@@ -1,7 +1,6 @@
 ---
 tags:
   - medterm
-  - medroot
   - ophthalmology
 aliases:
   - visual field loss
@@ -23,10 +22,10 @@ definition:
   - around measure)
 ---
 >[!Note] DEFINITION of [[visual field defect]]
->**Visual field defects** represent **abnormalities in peripheral or central vision resulting from damage to the visual pathway, manifesting as blind spots, diminished vision, or complete loss in specific regions**; these can be unilateral (**affecting one eye**) or [[binocular]] (**both eyes**), with patterns like [[hemianopia]] indicating lesion location (**e.g., optic nerve for monocular loss, optic chiasm for bitemporal defects, or post-chiasmal for homonymous defects**). Common causes include [[glaucoma]] (**peripheral loss**), stroke/tumors (**homonymous hemianopia**), retinal disorders (**e.g., detachment causing curtain-like shadows**), [[optic neuritis]], or trauma; diagnosis relies on perimetry testing, and patterns help localize pathology—e.g., **right optic tract damage** causes left **homonymous defects** in both eyes.
+>**[[Visual field defect]]s** represent **abnormalities in peripheral or central vision resulting from damage to the visual pathway, manifesting as blind spots, diminished vision, or complete loss in specific regions**; these can be unilateral (**affecting one eye**) or **[[binocular]]** (**both eyes**), with patterns like **[[hemianopia]]** indicating lesion location (**e.g., optic nerve for monocular loss, optic chiasm for bitemporal defects, or post-chiasmal for homonymous defects**). Common causes include **[[glaucoma]]** (**peripheral loss**), stroke/tumors (**homonymous hemianopia**), retinal disorders (**e.g., detachment causing curtain-like shadows**), **[[optic neuritis]]**, or trauma; diagnosis relies on perimetry testing, and patterns help localize pathology—e.g., **right optic tract damage** causes left homonymous defects in both eyes.
 _____
 >[!info]+ ETYMOLOGY of [[visual field defect]]
->#latin "**Visual field**" derives from Latin visus (**sight**) + English "*field*" (**area of vision**); "*defect*" from Latin deficere (**to fail, desert**). **Combined**, it literally means "*failure in the area of sight*," with medical usage emerging in 19th-century [[ophthalmology]] to describe mapped vision losses via perimetry (**from Greek perimetros, around measure**).
+>#latin "**Visual field**" derives from Latin visus (**sight**) + English "*field*" (**area of vision**); "*defect*" from Latin deficere (**to fail, desert**). **Combined**, it literally means "*failure in the area of sight*," with medical usage emerging in 19th-century **[[ophthalmology]]** to describe mapped vision losses via perimetry (**from Greek perimetros, around measure**).
 _____
 
 > [!attention]+ **Related Terms**
@@ -111,8 +110,11 @@ _____
 >```dataview
 >TABLE definition AS Definition
 >FROM #medterm 
->WHERE length(filter(definition, (word) => econtains([[]].definition, word))) > 0 AND file.name != [[]].file.name
+>WHERE file.name != this.file.name
+>AND any(contains(this.description, description))
 >```
+
+<br>
 
 [[Med terms dictionary]]
 [[Appendix A Prefixes]]

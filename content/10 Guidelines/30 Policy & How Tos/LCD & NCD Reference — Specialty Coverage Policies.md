@@ -12,6 +12,13 @@ year: FY2026
 ## How LCDs Work (Quick Orientation)
 A **Local Coverage Determination (LCD)** is your **MAC**'s own determination of whether a service is reasonable and necessary, filling gaps where no **National Coverage Determination (NCD)** exists.¹ **LCDs** list covered **CPT/HCPCS codes** and the **ICD-10-CM codes** that support medical necessity — but a code appearing in the **LCD's code list** does **not** automatically mean it's tied to coverage criteria; check the "**Coding Guidelines**" under **LCD Attachments** to confirm.² This note pairs with **[[Medical Necessity for Inpatient]]** and **[[Audit Triggers for Inpatient]]** — **LCD non-compliance** is a direct audit trigger, not just a payment issue.
 
+
+> [!tip]
+> **Medicare Contractors for Wisconsin:** 
+> - **DME MAC** - Jurisdiction B which is handled by **CGS Administrators**.
+> - **A/B MAC (Part A and B)** - Traditional **Part A and B** claims processing for Wisconsin is handled by other designated regional contractors (**such as National Government Services, NGS or Wisconsin Physicians Service, WPS**), depending on the specific provider type.
+
+
 ---
 
 ## Ophthalmology
@@ -68,6 +75,8 @@ The recurring theme across all three specialties: **LCD coverage and NCCI bundli
 LCDs and coverage articles get revised — Noridian's Active LCD list flags current effective/revision dates. When updating this note, log the LCD ID and revision date in a `last_verified` YAML field the way you did for [[NCCI PTP Edits — Specialty Reference]].
 
 ---
+
+### 📎 Sources
 <small>
 1. Noridian Medicare, JE Part B, "Active LCDs."
 2. Noridian Medicare, JE Part B, "Active LCDs" (LCD Attachments / Coding Guidelines note).

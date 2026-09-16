@@ -66,7 +66,7 @@ _____
 >**<u>Contrasting Terms:</u>**
 >
 >- **[[Stenosis]]**: Narrowing of a passage or opening
->- **[[Stricture]]**: Abnormal narrowing of a tubular structure
+>- **[[stricture]]**: Abnormal narrowing of a tubular structure
 >- **[[Atresia]]**: Absence or abnormal closure of a body opening
 >
 _____

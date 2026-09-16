@@ -52,7 +52,7 @@ _____
 > 
 > - **[[Coagulation]]** — hemostatic electrosurgical technique using deeper, more sustained current application to seal vessels; distinguished from fulguration by depth and primary intent (hemostasis vs. tissue destruction)
 > - **[[Electrodesiccation]]** — direct-contact electrosurgical destruction (no arcing spark); often paired with curettage ("ED&C") for skin lesions, functionally similar to but technically distinct from fulguration
-> - **[[Ablation]]** — broader umbrella term for tissue destruction by any energy modality (electrical, thermal, laser, cryo, radiofrequency); fulguration is one specific electrosurgical form of ablation
+> - **[[ablation]]** — broader umbrella term for tissue destruction by any energy modality (electrical, thermal, laser, cryo, radiofrequency); fulguration is one specific electrosurgical form of ablation
 > - **[[Resection]]** — physical removal of tissue (e.g., TURBT) rather than in-situ destruction; fulguration is frequently performed as an adjunct to resection for hemostasis or treatment of residual small tumor foci
 > - **Monopolar electrosurgery** — the energy delivery system most commonly used to perform fulguration, requiring a grounding/return electrode pad on the patient
 > - **[[Cystourethroscopy]]** — the endoscopic access procedure through which bladder fulguration is most commonly performed in urology

@@ -43,6 +43,7 @@ configuration:
         textHighlight: "#fce0ed"
 plugins:
   - source: "@quartz-themes/core"
+    enabled: true
     options:
       theme: pink-muted-rose
       mode: light
@@ -66,7 +67,7 @@ plugins:
   - source: github:quartz-community/obsidian-flavored-markdown
     enabled: true
     options:
-      enableInHtmlEmbed: false
+      enableInHtmlEmbed: true
       enableCheckbox: true
     order: 30
   - source: github:quartz-community/github-flavored-markdown

@@ -71,7 +71,7 @@ _____
 > - **[[Mydriasis]]** — pupil-specific dilation; shares the clinical context of ophthalmic examination and neurologic assessment; coded separately under [[H57.04]] when abnormal
 > - **[[miosis]]** — pupillary constriction; the direct functional opposite of mydriasis/dilation; driven by parasympathetic stimulation of the iris sphincter muscle
 > - **[[Stenosis]]** — abnormal narrowing of a vessel, duct, or orifice; the pathological condition that most often requires therapeutic dilation as treatment
-> - **[[Stricture]]** — fibrous narrowing of a tubular structure (e.g., urethral stricture [[N35.9]], esophageal stricture [[K22.2]]); primary indication for balloon or mechanical dilation procedures
+> - **[[stricture]]** — fibrous narrowing of a tubular structure (e.g., urethral stricture [[N35.9]], esophageal stricture [[K22.2]]); primary indication for balloon or mechanical dilation procedures
 > - **[[Ectasia]]** — chronic, structural tubular or ductal dilation; distinct from acute or therapeutic dilation; seen in mammary duct ectasia and coronary artery ectasia
 > - **[[Aneurysm]]** — focal, abnormal dilation of a vessel wall due to weakness; e.g., aortic aneurysm ([[I71.01]], [[I71.02]]); considered pathological, permanent dilation
 > - **[[Vasodilation]]** — physiological or pharmacologically induced dilation of blood vessels; mechanism includes smooth muscle relaxation mediated by nitric oxide

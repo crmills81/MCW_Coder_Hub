@@ -43,9 +43,10 @@ configuration:
         textHighlight: "#fce0ed"
 plugins:
   - source: "@quartz-themes/core"
+    enabled: true
     options:
-      theme: "pink-muted-rose"
-      mode: "light"
+      theme: pink-muted-rose
+      mode: light
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:

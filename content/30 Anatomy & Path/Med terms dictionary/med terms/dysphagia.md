@@ -198,7 +198,7 @@ _____
 > - **Achalasia:** Failure of lower esophageal sphincter to relax.
 > - **Zenker diverticulum:** Pouch in upper esophagus collecting food.
 > - **Eosinophilic esophagitis (EoE):** Allergic/immune esophageal inflammation.
-> - **[[Stricture]]:** Narrowing of esophagus from scarring.
+> - **[[stricture]]:** Narrowing of esophagus from scarring.
 > - **Videofluoroscopy/VFSS:** Modified barium swallow study (**gold standard diagnostic**).
 > - **FEES:** Fiberoptic endoscopic evaluation of swallowing.
 

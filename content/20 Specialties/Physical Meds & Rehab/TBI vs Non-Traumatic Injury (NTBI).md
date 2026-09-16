@@ -9,11 +9,15 @@ tags:
   - icd-10-cm
   - emergency-medicine
   - cdi
-notetype: clinical-and-coding-overview
 title: Traumatic Brain Injury (TBI) - Clinical & Coding vs Non‑Traumatic Brain Injury
+"aliases:":
+  - traumatic injury
+  - nontraumatic injury
+  - TBI
+  - NTBI
+notetype: clinical-and-coding-overview
 created: 2026-04-21
-lastreviewed: 2026-04-21
-status: Active
+lastreviewed: 2026-09-16
 ---
 
 # 🧠 Traumatic Brain Injury (TBI) - Clinical & Coding vs Non‑Traumatic Brain Injury
@@ -208,6 +212,63 @@ Clinical picture often overlaps with TBI (**coma, seizures, focal deficits**), b
 - **Pitfall 5 - GCS not leveraged**  
   Providers may document **GCS**, but coders do not assign R40.24x codes; these support risk adjustment and should be captured when guidelines allow and documentation gives sufficient detail (**score and timing**).
 
+---
+
+## TBI Rehabilitation Coding
+<small> This was pulled from Google NotebookLM </small>
+
+<br>
+
+In **Physical Medicine & Rehabilitation (PM&R)**, the 7th character **D** (**subsequent encounter**) is used for **inpatient** or **outpatient rehabilitation** when the patient has completed active acute medical/surgical treatment and is undergoing routine care and active recovery during the healing phase.
+
+When building **7-character codes** in category **S06**, placeholders (**'X'**) are inserted into any empty **5th** or **6th character** positions to ensure the **7th character extension** lands in the mandatory 7th slot.
+
+---
+
+###### **Major Traumatic Brain Injury Codes with 7th Character "D"**
+
+_(The examples below reflect the_ **unspecified loss of consciousness (LOC) duration** _6th character_ **9**_; placeholders are included where required)_
+
+- **[[S06.0X9D]]:** Concussion with loss of consciousness of unspecified duration, subsequent encounter
+- **[[S06.1X9D]]:** Traumatic cerebral edema with loss of consciousness of unspecified duration, subsequent encounter
+- **[[S06.2X9D]]:** Diffuse traumatic brain injury with loss of consciousness of unspecified duration, subsequent encounter
+- **[[S06.309D]]:** Unspecified focal traumatic brain injury with loss of consciousness of unspecified duration, subsequent encounter
+    - **[[S06.319D]]:** Contusion and laceration of right cerebrum with LOC of unspecified duration, subsequent encounter
+    - **[[S06.329D]]:** Contusion and laceration of left cerebrum with LOC of unspecified duration, subsequent encounter
+    - **[[S06.369D]]:** Traumatic hemorrhage of cerebrum, unspecified, with LOC of unspecified duration, subsequent encounter
+    - **[[S06.379D]]:** Contusion, laceration, and hemorrhage of cerebellum with LOC of unspecified duration, subsequent encounter
+    - **[[S06.389D]]:** Contusion, laceration, and hemorrhage of brainstem with LOC of unspecified duration, subsequent encounter
+- **[[S06.4X9D]]:** Epidural hemorrhage with loss of consciousness of unspecified duration, subsequent encounter
+- **[[S06.5X9D]]:** Traumatic subdural hemorrhage with loss of consciousness of unspecified duration, subsequent encounter
+- **[[S06.6X9D]]:** Traumatic subarachnoid hemorrhage with loss of consciousness of unspecified duration, subsequent encounter
+- **[[S06.899D]]:** Other specified intracranial injury with loss of consciousness of unspecified duration, subsequent encounter
+- **[[S06.9X9D]]:** Unspecified intracranial injury (Traumatic brain injury NOS) with loss of consciousness of unspecified duration, subsequent encounter
+- **[[S06.A0XD]]:** Traumatic brain compression without herniation, subsequent encounter
+
+---
+
+###### **Key 6th Character Options for Loss of Consciousness (LOC)**
+
+*If the patient's record specifies the exact duration of unconsciousness, replace the 6th character **9** with the appropriate value [152–205]:*
+
+- **0:** Without loss of consciousness (e.g., **S06.2X0D**)
+- **1:** LOC of 30 minutes or less
+- **2:** LOC of 31 to 59 minutes
+- **3:** LOC of 1 hour to 5 hours 59 minutes
+- **4:** LOC of 6 hours to 24 hours
+- **5:** LOC greater than 24 hours with return to pre-existing conscious level
+- **6:** LOC greater than 24 hours without return to pre-existing conscious level (patient surviving)
+- **A:** LOC status unknown
+
+---
+
+###### **Important PM&R Sequencing Rule: "D" vs. "S"**
+
+- **7th Character "D" (Subsequent Encounter):** Used when the primary focus of the PM&R admission/visit is the active recovery and treatment of the injury itself during its healing phase.
+- **7th Character "S" (Sequela):** Used if you are coding a specific late effect or residual deficit (such as hemiplegia or cognitive deficits). In that case, the specific residual deficit code is sequenced **first**, followed by the appropriate TBI injury code with 7th character **S** to identify the cause of the late effect.
+
+
+---
 <br>
 
 [[Glasgow Coma Scale (GCS)]]

@@ -42,6 +42,11 @@
 | **Co-Management** | Subsequent Hospital Care |
 | **Medicare Patient** | Initial/Subsequent Hospital Care (never consult) |
 
+
+> [!tip] Emergency Room Consults
+> **Consultations** can be billed int he emergency room but specialists typically must use Emergency Department visit codes (**[[99281]]**-**[[99285]]**) rather than traditional consultation codes. Most insurance payers and Medicare do not accept separate outpatient or inpatient consultation codes for patients evaluated and discharged in the emergency room. Instae, billing rules require specific guidelines to be met.
+
+
 ## Payer-Specific Recognition — Verify Before Billing
 
 | Payer | Consultation Codes Recognized? | Notes |
