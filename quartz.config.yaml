@@ -13,39 +13,39 @@ configuration:
     - private
     - templates
     - .obsidian
-  theme:
-    fontOrigin: googleFonts
-    cdnCaching: true
-    typography:
-      header: Inter
-      body: Inter
-      code: IBM Plex Mono
-    colors:
-      lightMode:
-        light: "#FEFAFD"
-        lightgray: "#FDF7FC"
-        gray: "#b8b8b8"
-        darkgray: "#000000"
-        dark: "#000000"
-        secondary: "#780A75"
-        tertiary: "#D129CB"
-        highlight: "rgba(242, 230, 242, 0.44)"
-        textHighlight: "#f7c8df"
-      darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#fdf2f7"
-        dark: "#f7dae8"
-        secondary: "#f549e4"
-        tertiary: "#9905b0"
-        highlight: "rgba(248,154,195, 0.15)"
-        textHighlight: "#fce0ed"
+theme:
+  fontOrigin: googleFonts
+  cdnCaching: true
+  typography:
+    header: Inter
+    body: Inter
+    code: IBM Plex Mono
+  colors:
+    lightMode:
+      light: "#FEFAFD"
+      lightgray: "#FDF7FC"
+      gray: "#b8b8b8"
+      darkgray: "#000000"
+      dark: "#000000"
+      secondary: "#780A75"
+      tertiary: "#D129CB"
+      highlight: rgba(242, 230, 242, 0.44)
+      textHighlight: "#f7c8df"
+    darkMode:
+      light: "#161618"
+      lightgray: "#393639"
+      gray: "#646464"
+      darkgray: "#fdf2f7"
+      dark: "#f7dae8"
+      secondary: "#f549e4"
+      tertiary: "#9905b0"
+      highlight: rgba(248,154,195, 0.15)
+      textHighlight: "#fce0ed"
 plugins:
   - source: "@quartz-themes/core"
     options:
-      theme: "pink-muted-rose"
-      mode: "light"
+      theme: pink-muted-rose
+      mode: light
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
@@ -70,7 +70,7 @@ plugins:
       enableCheckbox: true
     order: 30
   - source: github:quartz-community/github-flavored-markdown
-    enabled: true         
+    enabled: true
     order: 40
   - source: github:quartz-community/table-of-contents
     enabled: true
@@ -107,11 +107,11 @@ plugins:
   - source: github:quartz-community/fonts
     enabled: true
     options:
-      title: "Inter"
-      header: "Inter"
-      body: "Inter"
-      code: "IBM Plex Mono"
-      interface: "Inter"
+      title: Inter
+      header: Inter
+      body: Inter
+      code: IBM Plex Mono
+      interface: Inter
       fontOrigin: googleFonts
   - source: github:quartz-community/remove-draft
     enabled: false
@@ -159,7 +159,7 @@ plugins:
     fieldPriority:
       - title
       - content
-      - tags      
+      - tags
   - source: github:quartz-community/backlinks
     enabled: true
     layout:
@@ -215,14 +215,14 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: "https://github.com/crmills81/MCW_Coder_Hub"
-        My Etsy: "https://happycovergirlco.etsy.com/"
-        My Site: "https://www.happycovergirlcocovers.com"
-        ⚠️ Coding Disclaimer: "/disclaimer"
+        GitHub: https://github.com/crmills81/MCW_Coder_Hub
+        My Etsy: https://happycovergirlco.etsy.com/
+        My Site: https://www.happycovergirlcocovers.com
+        ⚠️ Coding Disclaimer: /disclaimer
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
-      title: "Recent Notes"
+      title: Recent Notes
       limit: 20
       showTags: false
       hideFolderPages: true
