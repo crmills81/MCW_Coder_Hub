@@ -1,6 +1,9 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+@use "themes";
+
 //stop clickable broken links
 a.internal.broken {
   pointer-events: none;
