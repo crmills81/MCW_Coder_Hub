@@ -13,7 +13,7 @@ html, body,
 .nav-files-container,
 .nav-files-container .nav-file-title,
 .nav-files-container .nav-folder-title,
-.recent-notes h3,
+.recent-notes h2,
 .recent-notes ul.recent-ul li .section .meta,
 .breadcrumb-element p,
 h1, h2, h3, h4, h5, h6,
@@ -33,7 +33,7 @@ a.internal.broken {
   pointer-events: none;
   cursor: default;
   text-decoration: none;
-  opacity: 0.5;
+  opacity: 0.8;
 
   &:hover {
     text-decoration: none;
@@ -41,13 +41,13 @@ a.internal.broken {
 }
 // recent notes
 .recent-notes {
-  max-height: 280px;
+  max-height: 380px;
   overflow-y: auto;
   overflow-x: hidden;
-  padding-right: 0.5rem;
+  padding-right: 0.7rem;
 
   &::-webkit-scrollbar {
-    width: 6px;
+    width: 4px;
   }
 
   &::-webkit-scrollbar-thumb {
@@ -70,7 +70,7 @@ a.internal.broken {
 
   .recent-note-title,
   .tag-link {
-    font-size: 0.9rem;
+    font-size: 1rem;
     font-weight: 600;
   }
 
