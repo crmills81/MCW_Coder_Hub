@@ -1,0 +1,113 @@
+/* ============================================================
+   Crystal's Coding Hub — Pink Muted Rose color + font force-fix
+   Drop this at the END of your custom.scss so it loads after
+   the pink-muted-rose theme and wins the specificity war.
+   ============================================================ */
+
+/* 1. Re-declare the intended palette as variables, scoped to
+      each theme mode, so anything that DOES read vars gets it right */
+html[saved-theme="light"] {
+  --background-primary: #FEFAFD !important;
+  --background-secondary: #FDF7FC !important;
+  --text-normal: #3d1a2e !important;      /* soft dark plum instead of pure black */
+  --text-muted: #b8b8b8 !important;
+  --text-accent: #780A75 !important;      /* secondary */
+  --tab-container-background: #FDF7FC !important;
+  --nav-item-color: #780A75 !important;
+  --nav-item-color-active: #D129CB !important; /* tertiary */
+}
+
+html[saved-theme="dark"] {
+  --background-primary: #161618 !important;
+  --background-secondary: #393639 !important;
+  --text-normal: #fdf2f7 !important;
+  --text-muted: #646464 !important;
+  --text-accent: #f549e4 !important;
+  --tab-container-background: #393639 !important;
+  --nav-item-color: #f549e4 !important;
+  --nav-item-color-active: #9905b0 !important;
+}
+
+/* 2. Force every hardcoded selector the theme baked literal
+      colors into (found in index.scss) to defer to the vars above */
+body,
+body[data-slug],
+.page div[quartz-body],
+.page div[quartz-body] div.center,
+.page div[quartz-body] footer,
+.page div[quartz-body] div.sidebar,
+.page div[quartz-body] div.sidebar.left,
+.page div[quartz-body] div.sidebar.right,
+div[quartz-root],
+.nav-files-container,
+.nav-files-container .nav-file-title,
+.nav-files-container .nav-folder-title,
+.explorer .folder-container div,
+.recent-notes h3,
+.recent-notes ul.recent-ul li,
+footer ul li a,
+.breadcrumb-element p,
+h2.page-title,
+.graph .graph-outer,
+.canvas-node-content,
+.canvas-edge-label {
+  background-color: var(--background-primary) !important;
+  color: var(--text-normal) !important;
+}
+
+.page div[quartz-body] div.sidebar.left.has-explorer,
+.page div[quartz-body] div.sidebar.left .explorer .explorer-content,
+.page div[quartz-body] div.sidebar.right {
+  background-color: var(--tab-container-background) !important;
+}
+
+.nav-files-container .nav-file-title.is-active,
+.nav-files-container li:has(.folder-outer) .nav-folder-title {
+  color: var(--nav-item-color-active) !important;
+}
+
+a,
+.recent-notes ul.recent-ul li .section .desc h3 a,
+li.section-li .section .desc h3 a {
+  color: var(--text-accent) !important;
+}
+
+/* ============================================================
+   3. FONT — Inter / Google Sans everywhere, overriding the
+      theme's -apple-system / Roboto / "Google Sans Flex" fallback stacks
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --font-text: "Inter", "Google Sans", -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
+
+html, body,
+.page div[quartz-body],
+.nav-files-container,
+.nav-files-container .nav-file-title,
+.nav-files-container .nav-folder-title,
+.recent-notes h3,
+.recent-notes ul.recent-ul li .section .meta,
+.breadcrumb-element p,
+h1, h2, h3, h4, h5, h6,
+h2.page-title,
+.metadata-container,
+.note-properties.metadata-container,
+blockquote,
+.katex-display .katex,
+.katex-display .katex .katex-html,
+footer ul li a,
+p, li, span, div {
+  font-family: "Inter", "Google Sans", -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
+
+/* If you want code blocks to stay monospace (recommended for
+   readability of ICD-10/CPT snippets), leave this as-is.
+   If you truly want Inter on code too, uncomment below: */
+/*
+pre, code, kbd {
+  font-family: "Inter", "Google Sans", sans-serif !important;
+}
+*/
