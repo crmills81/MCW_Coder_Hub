@@ -740,7 +740,7 @@ body {
 
   .note-properties.metadata-container {
     background-color: var(--metadata-background);
-    color: var(--text-muted);
+    color: var(--text-normal);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -775,7 +775,7 @@ body {
 
   .metadata-container {
     background-color: var(--metadata-background);
-    color: var(--text-muted);
+    color: var(--text-normal);
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1122,7 +1122,7 @@ body {
       -apple-system,
       BlinkMacSystemFont,
       "Segoe UI",
-      Roboto,
+      Inter,
       sans-serif,
       ui-sans-serif,
       -apple-system,
@@ -1130,7 +1130,7 @@ body {
       system-ui,
       "Segoe UI",
       "Google Sans Flex",
-      Roboto,
+      Inter,
       "Inter Variable",
       Inter,
       "Apple Color Emoji",
@@ -1171,7 +1171,7 @@ body {
       system-ui,
       "Segoe UI",
       "Google Sans Flex",
-      Roboto,
+      Inter,
       "Inter Variable",
       Inter,
       "Apple Color Emoji",
@@ -1212,7 +1212,7 @@ body {
       system-ui,
       "Segoe UI",
       "Google Sans Flex",
-      Roboto,
+      Inter,
       "Inter Variable",
       Inter,
       "Apple Color Emoji",
@@ -1968,12 +1968,12 @@ body {
   h2.page-title a {
     color: var(--inline-title-color);
     font-family: var(--inline-title-font);
-    font-size: var(--inline-title-size);
-    font-weight: var(--inline-title-weight);
+    font-size: 2rem(--inline-title-size);
+    font-weight: 700(--inline-title-weight);
     line-height: var(--inline-title-line-height);
-    text-shadow: none;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     text-decoration: rgb(34, 34, 34);
-    letter-spacing: -0.432px;
+    letter-spacing: -0.532px;
     background-color: rgba(0, 0, 0, 0);
     background-image: none;
     background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box;
@@ -2355,7 +2355,7 @@ body {
   h1.article-title {
     color: var(--inline-title-color);
     font-size: var(--inline-title-size);
-    font-weight: var(--inline-title-weight);
+    font-weight: 800(--inline-title-weight);
   }
 
   ul > li {
@@ -3146,8 +3146,8 @@ body {
   }
 
   .content-meta {
-    color: var(--text-muted);
-    font-size: 16px;
+    color: var(--text-normal);
+    font-size: 15px;
   }
 
   details.toc summary::marker {
@@ -3159,7 +3159,7 @@ body {
   }
 
   ::-webkit-scrollbar-thumb {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(107, 63, 85);
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
     border-bottom-left-radius: 0px;
@@ -3173,11 +3173,11 @@ body {
   }
 
   ::-webkit-scrollbar-thumb:hover {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(74, 43, 59);
   }
 
   ::-webkit-scrollbar-thumb:active {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(74, 43, 59);
   }
 
   ::-webkit-scrollbar-track {
@@ -8106,11 +8106,11 @@ html[saved-theme="dark"] {
     }
 
     h2.page-title {
-      color: var(--text-normal);
+      color: "000000";
       font-family:
         -apple-system,
         BlinkMacSystemFont,
-        "Segoe UI",
+        "Google Sans",
         Roboto,
         sans-serif,
         ui-sans-serif,
@@ -8234,7 +8234,7 @@ html[saved-theme="dark"] {
     }
 
     .content-meta {
-      color: var(--text-muted);
+      color: var(--text-normal);
       font-size: 16px;
     }
 
