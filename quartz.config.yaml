@@ -22,25 +22,25 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-          light: "#d4b0c2"
-          lightgray: "#FDF7FC"
-          gray: "#b8b8b8"
-          darkgray: "#000000"
-          dark: "#000000"
-          secondary: "#780A75"
-          tertiary: "#D129CB"
-          highlight: "rgba(242, 230, 242, 0.44)"
-          textHighlight: "#f7c8df"
+          light: "#F5E6ED"
+          lightgray: "#E8CBDA"
+          gray: "#6B3F55"
+          darkgray: "#4A2035"
+          dark: "#4A2035"
+          secondary: "#C4547A"
+          tertiary: "#A33D62"
+          highlight: "rgba(232, 168, 190, 0.25)"
+          textHighlight: "rgba(232, 168, 190, 0.4)"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#fdf2f7"
-        dark: "#f7dae8"
-        secondary: "#f549e4"
-        tertiary: "#9905b0"
-        highlight: "rgba(248,154,195, 0.15)"
-        textHighlight: "#fce0ed"
+        light: "#C7A0B3"
+        lightgray: "#AB708C"
+        gray: "rgba(255, 246, 250, 0.8)"
+        darkgray: "#FFF6FA"
+        dark: "#FFF6FA"
+        secondary: "#FFB8D1"
+        tertiary: "#FFC8DD"
+        highlight: "rgba(255, 241, 118, 0.25)"
+        textHighlight: "rgba(255, 241, 118, 0.4)"
 plugins:
   - source: "@quartz-themes/core"
     enabled: true
@@ -50,7 +50,7 @@ plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
-      defaultDateType: updated
+      defaultDateType: reviewed
       priority:
         - frontmatter
         - git

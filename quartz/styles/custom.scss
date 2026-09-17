@@ -4,6 +4,32 @@
 
 @use "themes";
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --font-text: "Inter", "Google Sans", -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
+
+html, body,
+.page div[quartz-body],
+.nav-files-container,
+.nav-files-container .nav-file-title,
+.nav-files-container .nav-folder-title,
+.recent-notes h3,
+.recent-notes ul.recent-ul li .section .meta,
+.breadcrumb-element p,
+h1, h2, h3, h4, h5, h6,
+h2.page-title,
+.metadata-container,
+.note-properties.metadata-container,
+blockquote,
+.katex-display .katex,
+.katex-display .katex .katex-html,
+footer ul li a,
+p, li, span, div {
+  font-family: "Inter", "Google Sans", -apple-system, BlinkMacSystemFont, sans-serif !important;
+}
+
 //stop clickable broken links
 a.internal.broken {
   pointer-events: none;
