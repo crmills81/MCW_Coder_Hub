@@ -92,10 +92,10 @@
   --pmr-h4-color: #fff176;
   --pmr-h5-color: #c2ffdf;
   --pmr-h6-color: #ffffff;
-  --pmr-font-text: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --pmr-font-text: Inter, -apple-system, BlinkMacSystemFont, "Google Sans", Inter, sans-serif;
   --pmr-font-mono: "IBM Plex Mono", "JetBrains Mono", "Cascadia Code", Consolas, "SF Mono", Menlo, monospace;
   --pmr-line-height: 1.6;
-  --pmr-font-size: 32px;
+  --pmr-font-size: 16px;
   --pmr-sidebar-width: 280px;
   --pmr-content-width: 700px;
   --pmr-accent-color: #ffb8d1;
@@ -103,9 +103,9 @@
   --pmr-accent-highlight: #fff176;
   --pmr-rainbow-folders: on;
   --pmr-tag-style: pill;
-  --font-interface-override: "??";
-  --font-text-override: "??";
-  --font-monospace-override: "??";
+  --font-interface-override: "Inter";
+  --font-text-override: "Google Sans";
+  --font-monospace-override: "Cascadia Mono";
 
   --quartz-icon-color: currentColor;
 }
@@ -747,7 +747,8 @@ body {
       BlinkMacSystemFont,
       system-ui,
       "Segoe UI",
-      "Google Sans Flex",
+      "Google Sans Flex", 
+      "Google Sans",
       Roboto,
       "Inter Variable",
       Inter,
@@ -816,6 +817,7 @@ body {
       system-ui,
       "Segoe UI",
       "Google Sans Flex",
+      "Google Sans",
       Roboto,
       "Inter Variable",
       Inter,
@@ -916,7 +918,7 @@ body {
   }
 
   .note-properties-row {
-    border-color: rgb(107, 63, 85);
+    border-color: rgb(253, 240, 245);
   }
 
   ol.overflow {
