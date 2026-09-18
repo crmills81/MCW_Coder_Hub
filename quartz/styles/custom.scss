@@ -33,7 +33,7 @@ a.internal.broken {
   pointer-events: none;
   cursor: default;
   text-decoration: none;
-  opacity: 0.8;
+  opacity: 1;
 
   &:hover {
     text-decoration: none;
@@ -41,22 +41,31 @@ a.internal.broken {
 }
 // recent notes
 .recent-notes {
-  max-height: 380px;
-  overflow-y: auto;
-  overflow-x: hidden;
-  padding-right: 0.7rem;
+  // no max-height/overflow here anymore
 
-  &::-webkit-scrollbar {
-    width: 4px;
+  h2 {
+    // stays fixed, un-scrolled
+    margin-bottom: 0.5rem;
   }
 
-  &::-webkit-scrollbar-thumb {
-    background: var(--gray);
-    border-radius: var(--radius-full, 9999px);
-  }
+  ul.recent-ul {
+    max-height: 340px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding-right: 0.7rem;
 
-  &::-webkit-scrollbar-track {
-    background: transparent;
+    &::-webkit-scrollbar {
+      width: 4px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background: var(--gray);
+      border-radius: var(--radius-full, 9999px);
+    }
+
+    &::-webkit-scrollbar-track {
+      background: transparent;
+    }
   }
 
   li {
@@ -79,6 +88,7 @@ a.internal.broken {
     font-size: 0.75rem;
   }
 }
+
 @media (max-width: 800px) {
   .recent-notes {
     display: none !important;

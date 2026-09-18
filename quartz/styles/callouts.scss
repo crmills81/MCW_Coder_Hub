@@ -36,14 +36,14 @@
 
   &[data-callout] {
     --color: #448aff;
-    --border: ##6B3F55;
+    --border: #6B3F55;
     --bg: #448aff10;
     --callout-icon: var(--callout-icon-note);
   }
 
   &[data-callout="abstract"] {
     --color: #00b0ff;
-    --border: ##6B3F55;
+    --border: #6B3F55;
     --bg: #00b0ff10;
     --callout-icon: var(--callout-icon-abstract);
   }
@@ -51,7 +51,7 @@
   &[data-callout="info"],
   &[data-callout="todo"] {
     --color: #00b8d4;
-    --border: ##6B3F55;
+    --border: #6B3F55;
     --bg: #00b8d410;
     --callout-icon: var(--callout-icon-info);
   }
@@ -62,28 +62,28 @@
 
   &[data-callout="tip"] {
     --color: #00bfa5;
-    --border: ##6B3F55;
+    --border: #6B3F55;
     --bg: #00bfa510;
     --callout-icon: var(--callout-icon-tip);
   }
 
   &[data-callout="success"] {
     --color: #09ad7a;
-    --border: ##6B3F55;
+    --border: #6B3F55;
     --bg: #09ad7110;
     --callout-icon: var(--callout-icon-success);
   }
 
   &[data-callout="question"] {
     --color: #dba642;
-    --border: ##6B3F55;
+    --border: #6B3F55;
     --bg: #dba64210;
     --callout-icon: var(--callout-icon-question);
   }
 
   &[data-callout="warning"] {
     --color: #db8942;
-    --border: ##6B3F55;
+    --border: #6B3F55;
     --bg: #db894210;
     --callout-icon: var(--callout-icon-warning);
   }
@@ -92,7 +92,7 @@
   &[data-callout="danger"],
   &[data-callout="bug"] {
     --color: #db4242;
-    --border: ##6B3F55;
+    --border: #6B3F55;
     --bg: #db424210;
     --callout-icon: var(--callout-icon-failure);
   }
@@ -107,7 +107,7 @@
 
   &[data-callout="example"] {
     --color: #7a43b5;
-    --border: ##6B3F55;
+    --border: #6B3F55;
     --bg: #7a43b510;
     --callout-icon: var(--callout-icon-example);
   }
@@ -160,9 +160,10 @@
   }
 
   & > .callout-title-inner > p {
-    color: var(--color);
+    color: var(--text-normal);
+    font-weight: bold; /* Optional: Adds extra weight for visibility */
     margin: 0;
-  }
+}
 
   .callout-icon,
   & .fold-callout-icon {

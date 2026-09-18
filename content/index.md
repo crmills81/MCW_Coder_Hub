@@ -1,10 +1,16 @@
 ---
 title: 🌟 Yay, MEDICAL CODING!!! 🌟
 last_updated: 2026-07-08
+publish: true
 ---
 
+
+---
 # 💉 Medical Coding Dashboard
->
+---
+
+<br>
+
 ## 🎯 Purpose
 My medical coding hub is for the specialties that I code for my employer. These specialties are **[[Ophthalmology]]**, **[[Urology]]**, **[[Physical Medicine & Rehabilitation]],** and **[[Otolaryngology]]**. Bare with me if you're someone other than me, the creator, visiting. This is a constantly growing environment so fixing the broken links will happen slowly but will eventually happen. Anyone who's also a coder already knows this might take a long time lolol... 🤓👍
 
@@ -72,4 +78,6 @@ My medical coding hub is for the specialties that I code for my employer. These 
 
 <br>
 
-🚑 <font color="#7f7f7f">  Some ICD-10 CM codes may be the root code without the "**suffix**" end characters. **ALWAYS** verify codes and guidelines with current code books, encoder tools, and payer policies before use. Please see coding disclaimer for more information or to get contact information to contact me if you'd like to inform me on my many mistakes lolol! </font> 🏥
+---
+
+<small>🚑 <font color="#7f7f7f">  Some ICD-10 CM codes may be the root code without the "**suffix**" end characters. **ALWAYS** verify codes and guidelines with current code books, encoder tools, and payer policies before use. Please see coding disclaimer for more information or to get contact information to contact me if you'd like to inform me on my many mistakes lolol! </font> 🏥</small>
