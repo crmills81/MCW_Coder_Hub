@@ -60,7 +60,7 @@ _____
 > - **[[myositis]]** — **[[inflammation]]** of muscle tissue, typically with elevated creatine kinase (CK) and objective weakness; pain may be a feature.
 > - **[[Fibromyalgia]]** — chronic widespread pain syndrome with central sensitization, fatigue, and tender points; coded **[[M79.7]]**.
 > - **Myalgic encephalomyelitis / chronic fatigue syndrome (ME/CFS)** — multisystem illness with post‑exertional **malaise** and prominent **myalgia**; **ICD‑10‑CM [[G93.3]]**.
-> - **[[Myopathy]]** — primary muscle disease, often genetic or toxic; pain is variable; multiple **ICD‑10‑CM codes** under G71‑G72.
+> - **[[myopathy]]** — primary muscle disease, often genetic or toxic; pain is variable; multiple **ICD‑10‑CM codes** under G71‑G72.
 > - **[[Rhabdomyolysis]]** — rapid muscle breakdown releasing myoglobin, causing severe pain and risk of renal failure; **ICD‑10‑CM [[M62.82]]**.
 > - **[[Trigger point]]** — hyperirritable band within a muscle that refers pain; key feature of myofascial pain syndrome.
 > - **Myofascial pain syndrome** — regional pain disorder with trigger points; often coded to site‑specific **myalgia** codes (M79.1x).

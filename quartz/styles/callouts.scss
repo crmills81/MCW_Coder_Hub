@@ -4,7 +4,7 @@
 .callout {
   border: 1px solid var(--border);
   background-color: var(--bg);
-  border-radius: 5px;
+  border-radius: 25px;
   padding: 0 1rem;
   overflow-y: hidden;
   box-sizing: border-box;
@@ -106,7 +106,7 @@
   }
 
   &[data-callout="example"] {
-    --color: #7a43b5;
+    --color: #bb9ddb;
     --border: #6B3F55;
     --bg: #7a43b510;
     --callout-icon: var(--callout-icon-example);

@@ -65,7 +65,7 @@ definition: Damage or dysfunction of the peripheral nerves outside the brain and
 > - **Neuropathic Pain** — shares the [[-neur-]] and [[-pathy]] roots; disordered pain signaling arising from lesion or disease of the somatosensory nervous system, often a direct consequence of peripheral neuropathy
 > - **[[Radiculopathy]]** — define and distinguish from [[peripheral neuropathy]]; nerve root compression or irritation at the spinal level (e.g., [[M54.10]], [[M54.12]]-[[M54.18]]), producing dermatomal sensory loss and myotomal weakness rather than stocking-glove distribution
 > - **[[Mononeuropathy]]** — single-nerve involvement (e.g., [[G56.00]] carpal tunnel syndrome, [[G57.00]] sciatic neuropathy) versus multi-nerve symmetric involvement in polyneuropathy
-> - **[[Myopathy]]** — primary muscle disease (e.g., [[G72.9]]) producing proximal weakness without sensory loss, distinguished from neuropathy by EMG findings and clinical pattern
+> - **[[myopathy]]** — primary muscle disease (e.g., [[G72.9]]) producing proximal weakness without sensory loss, distinguished from neuropathy by EMG findings and clinical pattern
 > - **[[Neurapraxia]]** — mildest form of peripheral nerve injury (Seddon classification), conduction block without structural disruption; usually reversible
 > - **[[Axonotmesis]]** — more severe peripheral nerve injury with axonal disruption but intact connective tissue sheaths; Wallerian degeneration occurs with potential for regeneration
 > - **[[Neurotmesis]]** — most severe peripheral nerve injury with complete transection; requires surgical repair

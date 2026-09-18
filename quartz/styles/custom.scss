@@ -7,7 +7,7 @@
 //font stuff
 
 :root {
-  --font-text: "Inter", "Google Sans", -apple-system, BlinkMacSystemFont, sans-serif !important;
+  --font-text: "Inter", "Google Sans", sans-serif !important;
 }
 
 html, body,
@@ -37,20 +37,25 @@ h1, h2, h3, h4, h5, h6 {
 
 // Set specific sizes for each header level 
 h1 {
-  font-size: 3rem !important; 
+  font-size: 2.5rem !important; 
 }
 
 h2 {
-  font-size: 2.5rem !important;
+  font-size: 1.75rem !important;
 }
 
 h3 {
-  font-size: 2.0rem !important;
+  font-size: 1.25rem !important;
 }
 
 h4 {
-  font-size: 1.75rem !important;
+  font-size: 1rem !important;
 }
+
+h5 {
+  font-size: 0.75rem !important;
+}
+
 
 //font stuff stops here
 
@@ -73,17 +78,17 @@ a.internal.broken {
 
   h2 {
     // stays fixed, un-scrolled
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.3rem;
   }
 
   ul.recent-ul {
     max-height: 150px;
     overflow-y: auto;
     overflow-x: hidden;
-    padding-right: 0.7rem;
+    padding-right: 0.6rem;
 
     &::-webkit-scrollbar {
-      width: 4px;
+      width: 6px;
     }
 
     &::-webkit-scrollbar-thumb {
@@ -147,8 +152,8 @@ table th, table td {
 
 /* Make Explorer Title large and bold */
 button#explorer {
-  font-size: 1.5rem !important;
-  font-weight: 700 !important;
+  font-size: 1rem !important;
+  font-weight: 600 !important;
 }
 
 /* Allow Explorer list to stretch further down the page */
