@@ -4,6 +4,8 @@
 
 @use "themes";
 
+//font stuff
+
 :root {
   --font-text: "Inter", "Google Sans", -apple-system, BlinkMacSystemFont, sans-serif !important;
 }
@@ -25,8 +27,33 @@ blockquote,
 .katex-display .katex .katex-html,
 footer ul li a,
 p, li, span, div {
-  font-family: "Inter", "Google Sans", -apple-system, BlinkMacSystemFont, sans-serif !important;
+  font-family: "Inter", sans-serif !important;
 }
+
+// Make all headers universally bold 
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700 !important; // 800 is extra bold. You can use 700 for standard bold 
+}
+
+// Set specific sizes for each header level 
+h1 {
+  font-size: 3rem !important; 
+}
+
+h2 {
+  font-size: 2.5rem !important;
+}
+
+h3 {
+  font-size: 2.0rem !important;
+}
+
+h4 {
+  font-size: 1.75rem !important;
+}
+
+//font stuff stops here
+
 
 //stop clickable broken links
 a.internal.broken {
@@ -39,6 +66,7 @@ a.internal.broken {
     text-decoration: none;
   }
 }
+
 // recent notes
 .recent-notes {
   // no max-height/overflow here anymore
@@ -49,7 +77,7 @@ a.internal.broken {
   }
 
   ul.recent-ul {
-    max-height: 340px;
+    max-height: 150px;
     overflow-y: auto;
     overflow-x: hidden;
     padding-right: 0.7rem;
@@ -74,7 +102,7 @@ a.internal.broken {
 
   a {
     font-size: 0.9rem;
-    font-weight: 600;
+    font-weight: 500;
   }
 
   .recent-note-title,
@@ -93,4 +121,37 @@ a.internal.broken {
   .recent-notes {
     display: none !important;
   }
+}
+
+//Fix missing callout titles and icons
+.callout .callout-title,
+.callout .callout-title > .callout-title-inner > p {
+  color: var(--text-normal) !important;
+}
+
+.callout .callout-title .callout-icon {
+  background-color: var(--text-normal) !important;
+}
+
+/* Restore the missing left border */
+table th, table td {
+  border-left: 1px solid rgb(212, 176, 194) !important;
+}
+
+/* Prevent tables from bleeding out of the margins */
+.table-container {
+  overflow-x: auto !important;
+  display: block;
+  width: 100%;
+}
+
+/* Make Explorer Title large and bold */
+button#explorer {
+  font-size: 1.5rem !important;
+  font-weight: 700 !important;
+}
+
+/* Allow Explorer list to stretch further down the page */
+.explorer .explorer-content {
+  max-height: 55vh !important; 
 }

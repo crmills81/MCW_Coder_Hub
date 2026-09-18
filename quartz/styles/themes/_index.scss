@@ -1968,8 +1968,8 @@ body {
   h2.page-title a {
     color: var(--inline-title-color);
     font-family: var(--inline-title-font);
-    font-size: 2rem(--inline-title-size);
-    font-weight: 700(--inline-title-weight);
+    font-size: 2rem !important;
+    font-weight: 700 !important;
     line-height: var(--inline-title-line-height);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     text-decoration: rgb(34, 34, 34);
@@ -9731,7 +9731,7 @@ html[saved-theme="dark"] {
     }
 
     .recent-notes > h2 {
-      color: var(--text-normal);
+      color: color: var(--text-normal);
       font-family:
         -apple-system,
         BlinkMacSystemFont,
@@ -9757,7 +9757,7 @@ html[saved-theme="dark"] {
     .recent-notes > ul.recent-ul > li {
       background-color: rgba(0, 0, 0, 0);
       color: rgb(255, 246, 250);
-      border-color: var(--text-normal);
+      border-color: color: var(--text-normal);
       border-width: 0px;
       border-top-left-radius: 0px;
       border-top-right-radius: 0px;
