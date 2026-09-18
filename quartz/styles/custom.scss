@@ -32,24 +32,25 @@ p, li, span, div {
 
 // Make all headers universally bold 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 700 !important; // 800 is extra bold. You can use 700 for standard bold 
+  font-weight: 650 !important; // 800 is extra bold. You can use 700 for standard bold 
 }
 
 // Set specific sizes for each header level 
 h1 {
-  font-size: 2.5rem !important; 
+  font-size: 2.0rem !important; 
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 h2 {
-  font-size: 1.75rem !important;
+  font-size: 1.50rem !important;
 }
 
 h3 {
-  font-size: 1.25rem !important;
+  font-size: 1rem !important;
 }
 
 h4 {
-  font-size: 1rem !important;
+  font-size: 0.75rem !important;
 }
 
 h5 {
@@ -65,7 +66,7 @@ a.internal.broken {
   pointer-events: none;
   cursor: default;
   text-decoration: none;
-  opacity: 1;
+  opacity: 0.5;
 
   &:hover {
     text-decoration: none;
@@ -88,12 +89,13 @@ a.internal.broken {
     padding-right: 0.6rem;
 
     &::-webkit-scrollbar {
-      width: 6px;
+      width: 8px;
     }
 
     &::-webkit-scrollbar-thumb {
       background: var(--gray);
       border-radius: var(--radius-full, 9999px);
+      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.25);
     }
 
     &::-webkit-scrollbar-track {
@@ -118,7 +120,7 @@ a.internal.broken {
 
   p,
   .recent-note-date {
-    font-size: 0.75rem;
+    font-size: 0.50rem;
   }
 }
 
@@ -152,7 +154,7 @@ table th, table td {
 
 /* Make Explorer Title large and bold */
 button#explorer {
-  font-size: 1rem !important;
+  font-size: 0.75rem !important;
   font-weight: 600 !important;
 }
 
@@ -163,11 +165,11 @@ button#explorer {
 
 /* Force bold markdown text to actually be bold and use Inter */
 strong, b, .markdown-rendered p > strong, .markdown-rendered p > b {
-  font-family: "Inter", sans-serif !important;
-  font-weight: 700 !important; /* 700 is standard bold, 800 is extra bold */
+  font-family: "Inter", "Google Sans", sans-serif !important;
+  font-weight: 650 !important; /* 700 is standard bold, 800 is extra bold */
 }
 
 /* Optional: Do the same for italics just in case they are also broken */
 em, i, .markdown-rendered p > em, .markdown-rendered p > i {
-  font-family: "Inter", sans-serif !important;
+  font-family: "Inter", "Google Sans", sans-serif !important;
 }
