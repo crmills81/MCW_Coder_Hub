@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: 30 Anatomy & Path Index
+    filters:
+      and:
+        - file.path.contains("30 Anatomy & Path/med terms")
+    cardSize: 110
+    imageAspectRatio: 0.95

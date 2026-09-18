@@ -15,6 +15,7 @@ aliases:
   - LT
   - modifier -LT
   - modifier LT
+code: -LT
 ---
 
 # Modifier -LT: Left side (laterality modifier)

@@ -34,6 +34,7 @@ date_modified: 2026-02-22
 note_type: modifier-reference
 status: active
 source: CMS MLN Matters / NCCI Policy
+code: -XE
 ---
 
 

@@ -16,6 +16,7 @@ aliases:
   - Modifier -JW
   - Modifier JW
   - JW
+code: -JW
 ---
 
 # Modifier -JW: Drug Amount Discarded/Not Administered to Any Patient

@@ -14,6 +14,7 @@ aliases:
   - Modifier -CQ
   - Modifier CQ
   - CQ
+code: -CQ
 ---
 
 # Modifier -CQ: PT Services Furnished In Whole or In Part by a Physical Therapist Assistant

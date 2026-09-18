@@ -28,6 +28,7 @@ status: Active ✅
 created: 2026-06-04
 last_reviewed: 2026-06-04
 note_type: modifier-reference
+code: -GT
 ---
 
 # 📹 Modifier -GT — Via Interactive Audio and Video Telecommunications Systems

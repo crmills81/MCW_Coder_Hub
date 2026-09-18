@@ -25,6 +25,7 @@ date_created: 2026-06-01
 last_reviewed: 2026-06-01
 status: Active ✅
 source: CMS / Palmetto GBA / AAPC
+code: -GY
 ---
 
 # 🧬 Modifier -GY — Statutorily Excluded Item or Service

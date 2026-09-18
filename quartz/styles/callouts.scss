@@ -8,6 +8,7 @@
   padding: 0 1rem;
   overflow-y: hidden;
   box-sizing: border-box;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); /* This is the new line */
 
   & > .callout-content {
     display: grid;
@@ -68,9 +69,9 @@
   }
 
   &[data-callout="success"] {
-    --color: #09ad7a;
-    --border: #6B3F55;
-    --bg: #09ad7110;
+    --color: #8fbcbb;
+    --border: #5FA09E;
+    --bg: #D2E4E4;
     --callout-icon: var(--callout-icon-success);
   }
 
@@ -83,17 +84,17 @@
 
   &[data-callout="warning"] {
     --color: #db8942;
-    --border: #6B3F55;
-    --bg: #db894210;
+    --border: #B06321;
+    --bg: #F4DAC3;
     --callout-icon: var(--callout-icon-warning);
   }
 
   &[data-callout="failure"],
   &[data-callout="danger"],
   &[data-callout="bug"] {
-    --color: #db4242;
-    --border: #6B3F55;
-    --bg: #db424210;
+    --color: #bf616a;
+    --border: #953C45;
+    --bg: #EACCCF;
     --callout-icon: var(--callout-icon-failure);
   }
 
@@ -107,8 +108,8 @@
 
   &[data-callout="example"] {
     --color: #bb9ddb;
-    --border: #6B3F55;
-    --bg: #7a43b510;
+    --border: #9566C7;
+    --bg: #DBCBEC;
     --callout-icon: var(--callout-icon-example);
   }
 

@@ -13,7 +13,7 @@ aliases:
   - FS
 last_updated: 2026-08-13
 type: coding-guide
-code: FS
+code: -FS
 ---
 
 # 👩‍⚕️ Modifier -FS: Split or Shared Evaluation and Management Visit

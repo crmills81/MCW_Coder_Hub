@@ -15,7 +15,7 @@ description: "Modifier -AG: Primary physician"
 date_created: 2026-08-06
 last_updated: 2026-08-06
 type: coding-guide
-code: AG
+code: -AG
 ---
 
 # Modifier -AG: Primary Physician

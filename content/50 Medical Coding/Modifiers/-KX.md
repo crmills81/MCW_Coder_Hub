@@ -18,6 +18,7 @@ aliases:
   - Modifier -KX
   - Modifier KX
   - KX
+code: -KX
 ---
 
 # Modifier -KX: Therapy Services Exceed Medicare Annual Threshold — Medical Necessity Attested

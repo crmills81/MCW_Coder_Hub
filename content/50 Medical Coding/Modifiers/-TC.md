@@ -1,18 +1,19 @@
 ---
-title: -TC
-description: Modifier -TC (Technical Component)
-last_updated: 2026-02-13
-type: coding-guide
-specialty_tags:
+tags:
   - ophthalmology
   - ENT
   - modifiers
   - component-billing
   - Medicare
+title: -TC
+description: Modifier -TC (Technical Component)
+last_updated: 2026-02-13
+type: coding-guide
 aliases:
   - Modifier -TC
   - Modifier TC
   - TC
+code: -TC
 ---
 
 # Modifier -TC: Technical component (component billing)

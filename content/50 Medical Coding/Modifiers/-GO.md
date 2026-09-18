@@ -14,6 +14,7 @@ aliases:
   - Modifier -GO
   - Modifier GO
   - GO
+code: -GO
 ---
 
 # Modifier -GO: Services Delivered Under an Outpatient Occupational Therapy Plan of Care

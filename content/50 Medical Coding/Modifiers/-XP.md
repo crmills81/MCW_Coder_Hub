@@ -1,10 +1,4 @@
 ---
-description: "CPT Modifier XP - Separate Practitioner"
-aliases:
-  - Modifier -XP
-  - Modifier XP
-  - XP Modifier
-  - Separate Practitioner Modifier
 tags:
   - modifier
   - NCCI
@@ -14,13 +8,19 @@ tags:
   - bundling
   - HCPCS
   - multi-provider
+description: CPT Modifier XP - Separate Practitioner
+aliases:
+  - Modifier -XP
+  - Modifier XP
+  - XP Modifier
+  - Separate Practitioner Modifier
 modifier_code: XP
 modifier_family: X{EPSU}
 modifier_type: HCPCS Level II
 full_name: Separate Practitioner
-short_definition: "Service is distinct because it was performed by a different practitioner than the one who performed the primary bundled service."
+short_definition: Service is distinct because it was performed by a different practitioner than the one who performed the primary bundled service.
 reason_for_distinctness: Different provider performed the service
-replaces_modifier: "59 (when separate practitioner is the specific reason)"
+replaces_modifier: 59 (when separate practitioner is the specific reason)
 use_with_em: false
 audit_risk: Moderate
 cms_approved: true
@@ -35,6 +35,7 @@ date_modified: 2026-02-22
 note_type: modifier-reference
 status: active
 source: CMS MLN Matters / NCCI Policy
+code: -XP
 ---
 
 

@@ -1,10 +1,4 @@
 ---
-description: "CPT Modifier XS - Separate Structure"
-aliases:
-  - Modifier -XS
-  - Modifier XS
-  - XS Modifier
-  - Separate Structure Modifier
 tags:
   - modifier
   - NCCI
@@ -15,13 +9,19 @@ tags:
   - HCPCS
   - anatomy
   - separate-site
+description: CPT Modifier XS - Separate Structure
+aliases:
+  - Modifier -XS
+  - Modifier XS
+  - XS Modifier
+  - Separate Structure Modifier
 modifier_code: XS
 modifier_family: X{EPSU}
 modifier_type: HCPCS Level II
 full_name: Separate Structure
-short_definition: "Service is distinct because it was performed on a separate organ or anatomical structure."
+short_definition: Service is distinct because it was performed on a separate organ or anatomical structure.
 reason_for_distinctness: Different organ or anatomical structure
-replaces_modifier: "59 (when separate anatomical structure is the specific reason)"
+replaces_modifier: 59 (when separate anatomical structure is the specific reason)
 use_with_em: false
 audit_risk: Moderate
 cms_approved: true
@@ -37,6 +37,7 @@ date_modified: 2026-02-22
 note_type: modifier-reference
 status: active
 source: CMS MLN Matters / NCCI Policy
+code: -XS
 ---
 
 

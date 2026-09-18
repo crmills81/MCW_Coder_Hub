@@ -15,6 +15,7 @@ aliases:
   - Modifier -GN
   - Modifier GN
   - GN
+code: -GN
 ---
 
 # Modifier -GN: Services Delivered Under an Outpatient Speech-Language Pathology Plan of Care

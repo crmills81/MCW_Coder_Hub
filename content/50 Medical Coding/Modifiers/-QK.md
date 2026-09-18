@@ -44,6 +44,7 @@ date_modified: 2026-02-23
 note_type: modifier-reference
 status: active
 source: CMS Medicare Claims Processing Manual / ASA / Novitas / Palmetto GBA
+code: -QK
 ---
 
 # Modifier -QK: Anesthesiologist Medical Direction

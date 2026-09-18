@@ -1,10 +1,4 @@
 ---
-description: CPT Modifier XU - Unusual Non-Overlapping Service
-aliases:
-  - Modifier -XU
-  - Modifier XU
-  - XU Modifier
-  - Unusual Non-Overlapping Service Modifier
 tags:
   - modifier
   - NCCI
@@ -15,6 +9,12 @@ tags:
   - HCPCS
   - non-overlapping
   - complex-modifier
+description: CPT Modifier XU - Unusual Non-Overlapping Service
+aliases:
+  - Modifier -XU
+  - Modifier XU
+  - XU Modifier
+  - Unusual Non-Overlapping Service Modifier
 modifier_code: XU
 modifier_family: X{EPSU}
 modifier_type: HCPCS Level II
@@ -38,6 +38,7 @@ date_modified: 2026-02-22
 note_type: modifier-reference
 status: active
 source: CMS MLN Matters / NCCI Policy
+code: -XU
 ---
 
 

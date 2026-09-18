@@ -30,6 +30,7 @@ date_created: 2026-06-01
 last_reviewed: 2026-06-01
 status: Active ✅
 source: CMS / CGS Medicare / AAPC / Novitas
+code: -JZ
 ---
 
 # 🧬 Modifier -JZ — Zero Drug Amount Discarded

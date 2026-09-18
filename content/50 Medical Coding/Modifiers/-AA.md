@@ -40,6 +40,7 @@ date_modified: 2026-02-23
 note_type: modifier-reference
 status: Active ✅
 source: CMS Medicare Claims Processing Manual / ASA / Novitas / Palmetto GBA
+code: -AA
 ---
 
 # ⚕️ Modifier -AA: Anesthesia Services Personally Performed by Anesthesiologist

@@ -8,6 +8,7 @@ modifier: -GA
 title: Modifier GA - Waiver of Liability Statement
 type: HCPCS Level II Modifier
 status: Active ✅
+code: -GA
 ---
 
 # Modifier -GA

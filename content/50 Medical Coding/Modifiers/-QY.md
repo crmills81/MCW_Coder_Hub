@@ -19,6 +19,7 @@ descriptor: Anesthesiologist directing one certified registered nurse anesthetis
 category: Anesthesia Modifiers
 ms_drg_primary: Follows Primary Procedure
 last_updated: 2026-03-14
+code: -QY
 ---
 
 # ⚕️ Modifier QY - Anesthesiologist Directing One Certified Registered Nurse Anesthetist

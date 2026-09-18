@@ -7,14 +7,14 @@ tags:
   - plan-of-care
   - discipline-identifier
   - reimbursement
-code: "GP"
+code: -GP
 code_type: HCPCS Level II Modifier
 descriptor: Services Delivered Under an Outpatient Physical Therapy Plan of Care
 category: Therapy Discipline Modifiers
 global_period: N/A (Follows primary therapy CPT® code)
 wRVU: N/A (Discipline Identifier — Does Not Adjust RVU)
 assistant_surgeon_payable: N/A (Not a Surgical Modifier)
-ncci_modifier_indicator: "1 (Allowed; required for PT discipline identification)"
+ncci_modifier_indicator: 1 (Allowed; required for PT discipline identification)
 separate_procedure: false
 ms_drg_primary: N/A (Outpatient/Part B Billing)
 last_updated: 2026-04-08

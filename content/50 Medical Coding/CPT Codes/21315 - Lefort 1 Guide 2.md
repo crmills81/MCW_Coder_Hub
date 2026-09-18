@@ -33,6 +33,7 @@ fracture_treatment_type: Closed
 stabilization: false
 created: 2026-02-27
 updated: 2026-03-21
+code: "21315"
 ---
 
 
@@ -342,8 +343,8 @@ CPT 21315 represents a comprehensive **LeFort I osteotomy**, a major orthognathi
 |----------|-------------|-----------|
 | **[[-24]]** | Unrelated E/M during postoperative period | When billing E/M for unrelated problem during 90-day period |
 | **[[-59]]** | Distinct procedural service | When performing unrelated procedure same day |
-| **-[[LT/-RT]]** | Left/Right side | For side-specific procedures (rarely used with 21315; bilateral by nature) |
-| **-[[50]]** | Bilateral procedure | Not typically used with 21315 (already bilateral) |
+| **[[-LT]]/[[-RT]]** | Left/Right side | For side-specific procedures (rarely used with 21315; bilateral by nature) |
+| **[[-50]]** | Bilateral procedure | Not typically used with 21315 (already bilateral) |
 | None (most common) | Standard billing | Routine unilateral or bilateral LeFort I |
 
 **Common Billing Combinations:**
