@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 
 // Set specific sizes for each header level 
 h1 {
-  font-size: 2.0rem !important; 
+  font-size: 1.80rem !important; 
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
@@ -89,7 +89,7 @@ a.internal.broken {
     padding-right: 0.6rem;
 
     &::-webkit-scrollbar {
-      width: 8px;
+      width: 12px;
     }
 
     &::-webkit-scrollbar-thumb {
@@ -140,6 +140,11 @@ a.internal.broken {
   background-color: var(--text-normal) !important;
 }
 
+/* Restore the missing top border for table headers */
+table th {
+  border-top: 1px solid rgb(212, 176, 194) !important;
+}
+
 /* Restore the missing left border */
 table th, table td {
   border-left: 1px solid rgb(212, 176, 194) !important;
@@ -154,13 +159,13 @@ table th, table td {
 
 /* Make Explorer Title large and bold */
 button#explorer {
-  font-size: 0.75rem !important;
+  font-size: 0.60rem !important;
   font-weight: 600 !important;
 }
 
 /* Allow Explorer list to stretch further down the page */
 .explorer .explorer-content {
-  max-height: 55vh !important; 
+  max-height: 60vh !important; 
 }
 
 /* Force bold markdown text to actually be bold and use Inter */
@@ -173,3 +178,9 @@ strong, b, .markdown-rendered p > strong, .markdown-rendered p > b {
 em, i, .markdown-rendered p > em, .markdown-rendered p > i {
   font-family: "Inter", "Google Sans", sans-serif !important;
 }
+
+/* Fix overlapping site title text */
+h2.page-title, h2.page-title a {
+  line-height: 1.2 !important; 
+}
+
