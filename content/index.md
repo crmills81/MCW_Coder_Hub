@@ -7,20 +7,20 @@ publish: false
 
 ---
 # 💉 Medical Coding Dashboard
----
 
 <br>
+<br>
 
-### 🎯 Purpose
+## 🎯 Purpose
 My medical coding hub is for the specialties that I code for my employer. These specialties are **[[Ophthalmology]]**, **[[Urology]]**, **[[Physical Medicine & Rehabilitation]],** and **[[Otolaryngology]]**. Bare with me if you're someone other than me, the creator, visiting. This is a constantly growing environment so fixing the broken links will happen slowly but will eventually happen. Anyone who's also a coder already knows this might take a long time lolol... 🤓👍
 
 <br>
 
-## 🫀 <u>Medical Coding References</u>
+## 🫀 Medical Coding References
 
 <br>
 
-### High‑Yield References
+### <u>**High‑Yield References**</u>
 
 - **[[MDM Tables]]**
 - **[[Facility E&M Quick Guide]]**
@@ -31,7 +31,7 @@ My medical coding hub is for the specialties that I code for my employer. These 
 - **[[Anatomy and Physiology in Medical Coding]]**
 - **[[List of Medical Terminology Modifiers & Medical Decision Making Levels]]**
 
-### <u>Coding Rules & Guides</u>
+### <u>**Coding Rules & Guides**</u>
 - **[[Inpatient E&M Codes]]**
 - **[[Proper Use of Modifiers 59, XE, XP, XS & XU]]**
 - **[[List of Phobias]]**
@@ -41,7 +41,7 @@ My medical coding hub is for the specialties that I code for my employer. These 
 
 # 🩹 Practice & Scenarios
 >
-### <u>Coding Practice</u>
+### <u>**Coding Practice**</u>
 - **[[Otolaryngology Practice Coding Scenarios]]**
 - **[[Practice Case 1 - {{Urology}}]]**
 - **[[Practice Case 2 - {{Urology}}]]**
@@ -49,7 +49,7 @@ My medical coding hub is for the specialties that I code for my employer. These 
 - **[[CPT 99255 Template]]**
 
 
-### <u>Audit Practice</u>
+### <u>**Audit Practice**</u>
 - **[[Handling Coding-Related Insurance Denials]]**
 - **[[CPT_99214_Template]]**
 - **[[CPT_99254-Template]]**
@@ -59,13 +59,13 @@ My medical coding hub is for the specialties that I code for my employer. These 
 
 # 🧬 CIC Exam Prep
 >
-### <u>CIC Study Tools</u>
+### <u>**CIC Study Tools**</u>
 - **[[CIC Study Plan]]**
 - **[[Comprehensive Study Guide and Briefing for the AAPC CIC Certification Exam]]**
 - **[[Root Operations]]**
 - **[[Mastering Inpatient Coding for CIC]]**
 
-### <u>High‑Yield Topics</u>
+### <u>**High‑Yield Topics**</u>
 - **[[PCS Body Part Index]]**  
 - **[[Normal Reference Laboratory Values]]**
 - **[[Spinal Procedures]]**  
@@ -73,7 +73,7 @@ My medical coding hub is for the specialties that I code for my employer. These 
 
 ---
 
-## 🔗 Cross‑Links
+## 🔗 **Cross‑Links**
 - **[[00 Anatomy and Physiology 2e Book by Openstax]]**
 - **[[Audit Triggers in PM&R]]**
 - **[[CMS Medicare Guidelines]]**
