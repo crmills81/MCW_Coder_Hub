@@ -35,7 +35,7 @@ configuration:
         light: "#C7A0B3"
         lightgray: "#AB708C"
         gray: "rgba(255, 246, 250, 0.8)"
-        darkgray: "#FFF6FA"
+        darkgray: "#2b1720"
         dark: "#FFF6FA"
         secondary: "#FFB8D1"
         tertiary: "#FFC8DD"
@@ -50,7 +50,7 @@ plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
-      defaultDateType: date_created
+      defaultDateType: modified
       priority:
         - frontmatter
         - git
