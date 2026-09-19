@@ -71,7 +71,7 @@
   &[data-callout="success"] {
     --color: #8fbcbb;
     --border: #5FA09E;
-    --bg: #D2E4E4;
+    --bg: #D2E4E410;
     --callout-icon: var(--callout-icon-success);
   }
 
@@ -85,7 +85,7 @@
   &[data-callout="warning"] {
     --color: #db8942;
     --border: #B06321;
-    --bg: #F4DAC3;
+    --bg: #F4DAC310;
     --callout-icon: var(--callout-icon-warning);
   }
 
@@ -94,7 +94,7 @@
   &[data-callout="bug"] {
     --color: #bf616a;
     --border: #953C45;
-    --bg: #EACCCF;
+    --bg: #EACCCF10;
     --callout-icon: var(--callout-icon-failure);
   }
 
@@ -109,7 +109,7 @@
   &[data-callout="example"] {
     --color: #bb9ddb;
     --border: #9566C7;
-    --bg: #DBCBEC;
+    --bg: #DBCBEC10;
     --callout-icon: var(--callout-icon-example);
   }
 
