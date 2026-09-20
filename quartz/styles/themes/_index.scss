@@ -12,18 +12,18 @@
   --callout-blend-mode: var(--highlight-mix-blend-mode);
   --callout-border-opacity: 0.35;
   --callout-border-width: 1px;
-  --callout-bug: 196, 48, 48;
+  --callout-bug: rgb(196, 48, 48);
   --callout-content-background: transparent;
   --callout-content-padding: 0;
-  --callout-default: 199, 160, 179;
-  --callout-error: 196, 84, 84;
+  --callout-default: rgb(199, 160, 179);
+  --callout-error: rgb(196, 84, 84);
   --callout-example: #bb9ddb;
   --callout-fail: #EA2D45;
   --callout-important: #89AEEA;
   --callout-info: #bcd3f8;
   --callout-padding: var(--size-4-3) var(--size-4-3) var(--size-4-3) var(--size-4-6);
   --callout-question: #f1c377;
-  --callout-quote: 107, 63, 85;
+  --callout-quote: rgb(107, 63, 85);
   --callout-radius: var(--radius-s);
   --callout-success: #712F7C;
   --callout-summary: var(--primary-cyan);
@@ -115,20 +115,20 @@
   --callout-blend-mode: var(--highlight-mix-blend-mode);
   --callout-border-opacity: 0.25;
   --callout-border-width: 0px;
-  --callout-bug: 255, 45, 85;
+  --callout-bug: rgb(255, 45, 85);
   --callout-content-background: transparent;
   --callout-content-padding: 0;
-  --callout-default: 171, 112, 140;
-  --callout-error: 255, 163, 195;
-  --callout-example: 212, 255, 237;
+  --callout-default: rgb(171, 112, 140);
+  --callout-error: rgb(255, 163, 195);
+  --callout-example: rgb(212, 255, 237);
   --callout-fail: var(--color-red);
   --callout-important: var(--pmr-accent-color);
   --callout-info: var(--pmr-accent-secondary);
   --callout-padding: var(--size-4-3) var(--size-4-3) var(--size-4-3) var(--size-4-6);
   --callout-question: var(--color-orange);
-  --callout-quote: 255, 246, 250;
+  --callout-quote: rgb(255, 246, 250);
   --callout-radius: var(--radius-s);
-  --callout-success: 194, 255, 223;
+  --callout-success: rgb(194, 255, 223);
   --callout-summary: var(--color-cyan);
   --callout-tip: var(--pmr-accent-color);
   --callout-title-padding: 0;
@@ -206,9 +206,9 @@
   --pmr-accent-highlight: #fff176;
   --pmr-rainbow-folders: on;
   --pmr-tag-style: pill;
-  --font-interface-override: "??";
-  --font-text-override: "??";
-  --font-monospace-override: "??";
+  --font-interface-override: "Inter";
+  --font-text-override: "Inter";
+  --font-monospace-override: "Consolas";
 
   --quartz-icon-color: currentColor;
 }
@@ -1021,7 +1021,7 @@ body {
       -apple-system,
       BlinkMacSystemFont,
       system-ui,
-      "Segoe UI",
+      "Inter"
       "Google Sans",
       Roboto,
       "Inter Variable",
@@ -1532,9 +1532,9 @@ body {
   }
 
   .search > .search-container > .search-space > .search-layout > .results-container .result-card:has(~ .result-card.focus:not(:has(~ .result-card:hover, ~ .result-card:focus)), ~ .result-card:focus, ~ .result-card:hover) {
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(134, 88, 134, 0.819);
     border-color: rgb(74, 32, 53);
-    border-width: 0px;
+    border-width: 1px;
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
     border-bottom-left-radius: 0px;
