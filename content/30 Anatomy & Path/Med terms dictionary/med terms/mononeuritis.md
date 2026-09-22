@@ -67,12 +67,12 @@ ______
 > - **[[Vasculitis]] (nerve)** — the physiological mechanism underlying most pathological mononeuritis; ischemic nerve damage from inflammation of the vasa nervorum (small blood vessels supplying peripheral nerves).
 > - **Vasculitic** — adjective describing inflammatory inputs that disrupt nerve perfusion; e.g., "vasculitic neuropathy," "vasculitic mononeuritis multiplex."
 > - **Wallerian degeneration** — programmed or regulated cellular process of axonal breakdown distal to a site of nerve injury or inflammation; underlies the progressive motor/sensory loss in severe mononeuritis.
-> - **[[Carpal tunnel syndrome]]** — compressive mononeuritis of the median nerve at the wrist; coded under [[G56.01]] (right) or [[G56.02]] (left); most common mononeuropathy in clinical practice.
+> - **[[carpal tunnel syndrome]]** — compressive mononeuritis of the median nerve at the wrist; coded under [[G56.01]] (right) or [[G56.02]] (left); most common mononeuropathy in clinical practice.
 > - **Tarsal tunnel syndrome** — compressive mononeuritis of the tibial nerve at the ankle; coded under [[G57.51]] (right) or [[G57.52]] (left); lower-extremity analogue of carpal tunnel.
 > - **Brachial plexitis** — inflammatory disease of the brachial plexus (Parsonage-Turner syndrome); coded under [[G54.0]]; overlaps with mononeuritis when individual peripheral nerves are sequentially affected.
 > - **Lyme neuroborreliosis** — infectious mononeuritis caused by *Borrelia burgdorferi*; coded under [[A69.21]]; classic cause of painful mononeuritis multiplex.
 > - **Ulnar nerve lesion** — specific mononeuritis at the elbow (cubital tunnel) or wrist (Guyon's canal); coded under [[G56.21]] (right) or [[G56.22]] (left).
-> - **[[Electromyography]]** (EMG) — primary diagnostic tool for evaluating mononeuritis; identifies denervation, reinnervation, and distinguishes axonal vs. demyelinating pathology.
+> - **[[electromyography]]** (EMG) — primary diagnostic tool for evaluating mononeuritis; identifies denervation, reinnervation, and distinguishes axonal vs. demyelinating pathology.
 > - **Nerve conduction studies** (NCS) — complementary diagnostic tool; identifies conduction block, slowing, and amplitude [[reduction]] across the affected nerve segment.
 
 ______

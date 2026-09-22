@@ -283,7 +283,7 @@ _____
 > *   **[[51791]]**: Cystometrogram, complex
 > *   **[[51792]]**: Cystometrogram, with urethral pressure profile
 > *   **[[51793]]**: Cystometrogram, with video imaging
-> *   **[[51795]]**: [[Electromyography]], anal sphincter
+> *   **[[51795]]**: [[electromyography]], anal sphincter
 > *   **[[51797]]**: Electromyography, urethral sphincter
 > *   **[[51798]]**: Electromyography, pelvic floor
 > *   **[[51799]]**: Unlisted procedure, bladder

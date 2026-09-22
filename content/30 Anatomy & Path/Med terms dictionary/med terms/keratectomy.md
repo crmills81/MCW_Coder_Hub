@@ -63,7 +63,7 @@ _____
 > - **[[Keratotomy]]** — the opposite/alternative to keratectomy; an incision into the cornea without the removal of tissue, often used for relaxing astigmatism.
 > - **[[Keratoplasty]]** — shares the *kerato-* root; involves the surgical replacement or transplantation of corneal tissue rather than mere excision.
 > - **[[Epithelial Debridement]]** — removal of only the corneal epithelium (CPT 65435); distinguished from true keratectomy (CPT 65400) which requires removal of subepithelial tissue (Bowman's layer or stroma).
-> - **[[Corneal Dystrophy]]** — genetic, progressive condition characterized by abnormal material accumulation in the cornea; a primary indication for PTK or SK (e.g., H18.5x).
+> - **[[corneal dystrophy]]** — genetic, progressive condition characterized by abnormal material accumulation in the cornea; a primary indication for PTK or SK (e.g., H18.5x).
 > - **[[ablation]]** — the physiological mechanism or process of removing tissue, often via excimer laser in PTK/PRK.
 > - **[[Ablative]]** — adjective describing laser inputs that vaporize or remove tissue; e.g., "ablative phototherapy."
 > - **[[Epithelialization]]** — cellular mechanism of healing and regrowth of the corneal surface following a keratectomy.

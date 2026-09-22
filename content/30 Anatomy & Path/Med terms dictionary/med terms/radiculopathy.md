@@ -62,7 +62,7 @@ _____
 > - **[[Myotome]]** — the specific group of muscles innervated by a single spinal nerve root; weakness in a specific myotome indicates motor involvement of the **radiculopathy**.
 > - **[[Spondylosis]]** — degenerative [[osteoarthritis]] of the spine; the most common underlying structural mechanism that leads to foraminal narrowing and subsequent nerve root compression.
 > - **Herniated nucleus pulposus** — a structural disease entity where the soft inner core of an intervertebral disc protrudes through the fibrous outer ring, frequently compressing the adjacent nerve root.
-> - **[[Electromyography]] (EMG)** — primary diagnostic procedure associated with evaluating the physiological integrity of the nerve root and distinguishing **radiculopathy** from [[peripheral neuropathy]] or [[myopathy]].
+> - **[[electromyography]] (EMG)** — primary diagnostic procedure associated with evaluating the physiological integrity of the nerve root and distinguishing **radiculopathy** from [[peripheral neuropathy]] or [[myopathy]].
 
 _____
 

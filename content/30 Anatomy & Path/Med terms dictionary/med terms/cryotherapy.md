@@ -51,7 +51,7 @@ _____
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 > 
 > - **Cryosurgery** _(adjective/noun form — the destructive surgical application; appears as "cryosurgical destruction," "cryosurgical ablation of lesion")_
-> - **[[Cryoablation]]** _(clinical synonym emphasizing tissue removal/destruction; standard term in oncology and cardiology — e.g., "renal cryoablation," "cardiac cryoablation")_
+> - **[[cryoablation]]** _(clinical synonym emphasizing tissue removal/destruction; standard term in oncology and cardiology — e.g., "renal cryoablation," "cardiac cryoablation")_
 > - **Cold therapy** _(lay and clinical term for the non-destructive analgesic/anti-inflammatory form; ice packs, cold compresses, whole-body cryotherapy)_
 > - **Cryoanesthesia** _(define briefly — use of localized cold to numb tissue prior to or during a procedure)_
 > - **Cryodestruction** _(clinical descriptor synonym for the tissue-destroying intent; used interchangeably with cryosurgery)_
@@ -68,7 +68,7 @@ _____
 > 
 > - **[[Electrocautery]]** — the heat-based counterpart; destroys tissue with electrical current/heat rather than cold. Often a documentation differential when a "[[destruction]]" CPT code is selected — the method drives code choice.
 > - **Radiofrequency ablation** _(RFA)_ — destroys tissue using heat from RF energy; a common alternative to cryoablation for tumors and cardiac arrhythmias; describe the method when both are options.
-> - **[[Cryoablation]]** — shares the *cry/o-* root; the specifically tumor/tissue-destroying application of cryotherapy (renal, hepatic, prostate, bone, cardiac).
+> - **[[cryoablation]]** — shares the *cry/o-* root; the specifically tumor/tissue-destroying application of cryotherapy (renal, hepatic, prostate, bone, cardiac).
 > - **[[Cryopreservation]]** — shares the *cry/o-* root but is the opposite intent — cold used to *preserve* viable cells/tissue (gametes, stem cells), not destroy them.
 > - **Liquid nitrogen** — the principal cryogen/mechanism; its extreme low temperature (≈ −196 °C) drives the ice-crystal cell destruction.
 > - **Cryogenic** — adjective describing the very-low-temperature agents and equipment that produce the therapeutic effect.

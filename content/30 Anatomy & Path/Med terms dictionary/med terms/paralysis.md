@@ -74,7 +74,7 @@ _____
 > - **Amyotrophic Lateral Sclerosis (ALS)** — progressive motor neuron disease affecting both UMN and LMN simultaneously; produces **mixed spastic-flaccid paralysis**; coded [[G12.21]]; high RVU inpatient profee encounters
 > - **[[Multiple Sclerosis]]** — demyelinating UMN disease causing relapsing/remitting or progressive **spastic paralysis**; coded G35.x; relapse with new paralysis = use G35.x as principal; establish functional deficit with G81.x/G82.x as additional
 > - **[[Cerebral Palsy]]** — nonprogressive UMN disorder from perinatal brain injury; presents with **spastic, dyskinetic, or ataxic paralysis variants**; coded [[G80.0]]-[[G80.9]] — distinct code family from acquired **paralysis**; never code G81/G82 for CP
-> - **[[Electromyography]] (EMG)** — primary electrodiagnostic tool differentiating UMN from LMN paralysis and identifying specific nerve or muscle involvement; coded per limb studied (**[[95860]]-[[95887]]**)
+> - **[[electromyography]] (EMG)** — primary electrodiagnostic tool differentiating UMN from LMN paralysis and identifying specific nerve or muscle involvement; coded per limb studied (**[[95860]]-[[95887]]**)
 > - **Nerve Conduction Studies (NCS)** — companion electrodiagnostic test to EMG; assesses conduction velocity, amplitude, and latency across peripheral nerves to localize LMN pathology; coded per number of studies (**[[95907]]-[[95913]]**)
 > - **Functional Electrical Stimulation (FES)** — therapeutic modality using electrical current to activate paralyzed muscles in LMN-spared (UMN) [[paralysis]]; does not work in flaccid LMN paralysis due to absent neuromuscular transmission
 

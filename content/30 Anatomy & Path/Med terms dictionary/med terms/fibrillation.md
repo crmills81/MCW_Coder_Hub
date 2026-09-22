@@ -64,7 +64,7 @@ _____
 > - **[[Tachycardia]]** — an abnormally fast heart rate (>100 bpm); **ventricular tachycardia** (VT) often rapidly degenerates into **ventricular fibrillation (VF)** if left untreated.
 > - **[[Cardioversion]]** — a synchronized electrical shock or pharmacological intervention used to restore a normal sinus rhythm, commonly performed for stable atrial **[[fibrillation]]**.
 > - **[[Electrocardiogram]] (ECG/EKG)** — the primary diagnostic procedure used to record the electrical activity of the heart and definitively diagnose **cardiac fibrillation**.
-> - **[[Electromyography]] (EMG)** — the primary diagnostic procedure used to detect skeletal muscle [[fibrillation]] potentials, indicative of lower motor neuron lesions or denervation.
+> - **[[electromyography]] (EMG)** — the primary diagnostic procedure used to detect skeletal muscle [[fibrillation]] potentials, indicative of lower motor neuron lesions or denervation.
 
 _____
 

@@ -71,7 +71,7 @@ definition:
 > - **Surgical pathology** — definitive confirmation of **metastasis**; CPT **[[88305]]** (Level IV — excisional biopsy specimen) or **[[88307]]** (Level V — complex resection); always pair with surgical CPT
 > - **Stereotactic radiosurgery (SRS)** — targeted radiation for brain and other metastases; e.g., Gamma Knife, CyberKnife; CPT **[[61796]]** (single brain lesion) / **[[61797]]** (add-on, each additional)
 > - **Radiofrequency ablation (RFA)** — [[percutaneous]] thermal destruction of metastatic tumors; CPT varies by organ site — liver (**[[47382]]**), lung (**[[32998]]**), bone (**[[20982]]**)
-> - **[[Cryoablation]]** — [[percutaneous]] freezing of tumor tissue; lung (**[[32994]]**), soft tissue (**[[20983]]**); site-specific code selection required
+> - **[[cryoablation]]** — [[percutaneous]] freezing of tumor tissue; lung (**[[32994]]**), soft tissue (**[[20983]]**); site-specific code selection required
 > - **Palliative care** — mainstay of management for widely metastatic disease; **[[Z51.5]]** (encounter for palliative care) coded additionally when palliative intent is documented
 > - **Malignant pleural [[effusion]]** — common complication of metastatic lung, breast, and [[lymphoma]]; coded **[[J91.0]]**; drives [[thoracentesis]] and [[pleurodesis]] procedures
 > - **Pathological fracture** — fracture through bone weakened by metastatic disease; coded **M84.5-** family with 7th character for encounter type; an extremely common inpatient scenario

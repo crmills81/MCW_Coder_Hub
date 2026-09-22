@@ -56,7 +56,7 @@ _____
 > - **[[Destruction]]** _(lay and clinical synonym — CPT nomenclature frequently uses "destruction" interchangeably with ablation in the surgical section)_
 > - **[[Vaporization]]** _(partial/lesser form — turning tissue to gas, often used in laser ablation of the prostate or skin)_
 > - **[[Neurolysis]]** _(clinical descriptor synonym — specific to PM&R/Pain Management, denoting the chemical or thermal ablation of a nerve)_
-> - **[[Cryoablation]]** _(etiologic subtype 1 — tissue destruction using extreme cold/freezing gases like argon)_
+> - **[[cryoablation]]** _(etiologic subtype 1 — tissue destruction using extreme cold/freezing gases like argon)_
 > - **Radiofrequency Ablation (RFA)** _(etiologic subtype 2 — tissue destruction using alternating electrical current to generate heat)_
 > - **Prostate Ablation** _(anatomic subtype 1 — destruction of prostatic adenoma; e.g., TUNA, TUMT, HIFU, Water vapor; N40.1)_
 > - **Turbinate Ablation** _(anatomic subtype 2 — ENT procedure for mucosal hypertrophy; J34.3)_

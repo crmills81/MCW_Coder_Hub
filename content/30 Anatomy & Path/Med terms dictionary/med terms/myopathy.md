@@ -74,7 +74,7 @@ _____
 > - **[[Polymyositis]]** — inflammatory disease entity defined by this term; autoimmune attack on proximal musculature (M33.2x).
 > - **[[Cardiomyopathy]]** — clinical entity defined by this term at a specific anatomic site; disease of the heart muscle tissue.
 > - **[[Dermatomyositis]]** — inflammatory myopathy with characteristic skin manifestations (Gottron papules, heliotrope rash) (M33.0x-M33.1x).
-> - **[[Electromyography]]** — primary diagnostic tool (EMG) for evaluating [[myopathy]] and distinguishing it from neuropathy.
+> - **[[electromyography]]** — primary diagnostic tool (EMG) for evaluating [[myopathy]] and distinguishing it from neuropathy.
 
 _____
 

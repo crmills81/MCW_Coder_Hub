@@ -67,7 +67,7 @@ definition: Damage or dysfunction of the peripheral nerves outside the brain and
 > - **[[Mononeuropathy]]** — single-nerve involvement (e.g., [[G56.00]] carpal tunnel syndrome, [[G57.00]] sciatic neuropathy) versus multi-nerve symmetric involvement in polyneuropathy
 > - **[[myopathy]]** — primary muscle disease (e.g., [[G72.9]]) producing proximal weakness without sensory loss, distinguished from neuropathy by EMG findings and clinical pattern
 > - **[[Neurapraxia]]** — mildest form of peripheral nerve injury (Seddon classification), conduction block without structural disruption; usually reversible
-> - **[[Axonotmesis]]** — more severe peripheral nerve injury with axonal disruption but intact connective tissue sheaths; Wallerian degeneration occurs with potential for regeneration
+> - **[[axonotmesis]]** — more severe peripheral nerve injury with axonal disruption but intact connective tissue sheaths; Wallerian degeneration occurs with potential for regeneration
 > - **[[Neurotmesis]]** — most severe peripheral nerve injury with complete transection; requires surgical repair
 > - **[[Diabetic Neuropathy]]** — disease entity defined by this term; includes distal symmetric polyneuropathy ([[E11.40]]-[[E11.49]]), autonomic neuropathy ([[E11.43]]), and mononeuropathy ([[E11.44]]) variants
 > - **Charcot-Marie-Tooth Disease** — hereditary motor and sensory neuropathy; genetic disease defined by this term ([[G60.0]], subtypes [[G60.0]]-[[G60.8]])
