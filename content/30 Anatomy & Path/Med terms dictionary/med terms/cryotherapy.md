@@ -66,7 +66,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Electrocautery]]** — the heat-based counterpart; destroys tissue with electrical current/heat rather than cold. Often a documentation differential when a "[[destruction]]" CPT code is selected — the method drives code choice.
+> - **[[electrocautery]]** — the heat-based counterpart; destroys tissue with electrical current/heat rather than cold. Often a documentation differential when a "[[destruction]]" CPT code is selected — the method drives code choice.
 > - **Radiofrequency ablation** _(RFA)_ — destroys tissue using heat from RF energy; a common alternative to cryoablation for tumors and cardiac arrhythmias; describe the method when both are options.
 > - **[[cryoablation]]** — shares the *cry/o-* root; the specifically tumor/tissue-destroying application of cryotherapy (renal, hepatic, prostate, bone, cardiac).
 > - **[[Cryopreservation]]** — shares the *cry/o-* root but is the opposite intent — cold used to *preserve* viable cells/tissue (gametes, stem cells), not destroy them.

@@ -53,7 +53,7 @@ _____
 > [!success]+ 🔀 ALIASES / ALTERNATE TERMS
 > 
 > - **Ablative** _(adjective form — e.g., "ablative fractional laser," "ablative therapy")_
-> - **[[Destruction]]** _(lay and clinical synonym — CPT nomenclature frequently uses "destruction" interchangeably with ablation in the surgical section)_
+> - **[[destruction]]** _(lay and clinical synonym — CPT nomenclature frequently uses "destruction" interchangeably with ablation in the surgical section)_
 > - **[[Vaporization]]** _(partial/lesser form — turning tissue to gas, often used in laser ablation of the prostate or skin)_
 > - **[[Neurolysis]]** _(clinical descriptor synonym — specific to PM&R/Pain Management, denoting the chemical or thermal ablation of a nerve)_
 > - **[[cryoablation]]** _(etiologic subtype 1 — tissue destruction using extreme cold/freezing gases like argon)_

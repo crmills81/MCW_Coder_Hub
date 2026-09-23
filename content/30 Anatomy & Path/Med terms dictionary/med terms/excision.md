@@ -71,7 +71,7 @@ _____
 > 
 > - **[[resection]]:** (**PCS specific**) The removal of an _entire_ body part. If a surgeon does a "**partial [[gastrectomy]]**," it's an [[excision]]. If they do a "t**otal gastrectomy**," it's a **Resection**.
 >     
-> - **[[Destruction]]:** Eradicating tissue by means other than sharp excision, such as laser, liquid nitrogen (**[[cryosurgery]]**), or **[[electrocautery]]**. There is no tissue left to send to pathology.
+> - **[[destruction]]:** Eradicating tissue by means other than sharp excision, such as laser, liquid nitrogen (**[[cryosurgery]]**), or **[[electrocautery]]**. There is no tissue left to send to pathology.
 >     
 > - **[[Shaving]]:** The horizontal slicing of an **epidermal** or dermal lesion. It does not go through the full thickness of the dermis into the [[subcutaneous]] fat, making it clinically and fundamentally different from an excision.
 >     

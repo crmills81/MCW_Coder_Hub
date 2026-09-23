@@ -72,7 +72,7 @@ _____
 >
 >**Infectious Disease / Parasitology:**
 >
->- **[[Candidiasis]]**: Query **site** (oral, esophageal, vaginal, systemic) — each maps to a different ICD-10 code family
+>- **[[candidiasis]]**: Query **site** (oral, esophageal, vaginal, systemic) — each maps to a different ICD-10 code family
 >- **Leishmaniasis** / **Filariasis**: Tropical parasitic conditions — important for inpatient admissions in travel medicine
 >
 >**Profee Coding Tips:**
