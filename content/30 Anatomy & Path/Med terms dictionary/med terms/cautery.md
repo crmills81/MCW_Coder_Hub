@@ -52,7 +52,7 @@ _____
 > [!danger]+ 🔗 RELATED TERMS
 > 
 > - **[[Cryotherapy]]** — the opposite of **Cautery**; utilizes extreme cold (liquid nitrogen or argon gas) rather than heat to achieve targeted tissue destruction and necrosis.
-> - **[[Electrosurgery]]** — shares the *electrical* mechanism but differs physiologically; passes high-frequency alternating current *through* the tissue to cut or coagulate, whereas true electrocautery only heats the instrument tip.
+> - **[[electrosurgery]]** — shares the *electrical* mechanism but differs physiologically; passes high-frequency alternating current *through* the tissue to cut or coagulate, whereas true electrocautery only heats the instrument tip.
 > - **[[Hemostasis]]** — the physiological mechanism or clinical goal of arresting bleeding, which is the primary indication for most intraoperative cautery use.
 > - **[[Ablation]]** — broader procedural term for the removal or destruction of a body part or tissue, which can be achieved via cautery, laser, or radiofrequency.
 > - **[[Coagulation]]** — the cellular/protein mechanism term; the process of transforming liquid blood into a solid clot or denaturing tissue proteins, induced thermally by cautery.

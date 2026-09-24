@@ -63,7 +63,7 @@ _____
 > [!danger]+ 🔗 RELATED TERMS
 > 
 > - **[[Cryotherapy]]** — the opposite of **electrocautery**; uses extreme cold (liquid nitrogen) rather than extreme heat to destroy tissue; often shares the same CPT destruction codes but requires different clinical documentation.
-> - **[[Electrosurgery]]** — shares the *[[electro-]]* root; uses high-frequency alternating current passed *through* the tissue to cut or coagulate, whereas true electrocautery uses direct current to heat a probe.
+> - **[[electrosurgery]]** — shares the *[[electro-]]* root; uses high-frequency alternating current passed *through* the tissue to cut or coagulate, whereas true electrocautery uses direct current to heat a probe.
 > - **[[Hemostasis]]** — the physiological mechanism or process of stopping blood flow; electrocautery achieves this by denaturing proteins to seal small blood vessels.
 > - **Radiofrequency Ablation** — complex syndrome or condition that overlaps with this term; uses radio waves to generate heat for targeted tissue [[destruction]] (e.g., cardiac pathways, nerve blocks), often billed with distinct CPT codes rather than standard destruction codes.
 > - **Thermal** — adjective describing heat inputs that alter tissue; e.g., "thermal damage margin" in pathology specimens.

@@ -60,7 +60,7 @@ _____
 > - **Wallerian [[degeneration]]** — the physiological mechanism where the axon and myelin sheath distal to the site of an axonotmetic or neurotmetic injury degenerate and are cleared by macrophages, preparing the pathway for regeneration.
 > - **[[Fibrillation]] potentials** — spontaneous electrical discharges from single denervated muscle fibers; a hallmark finding on needle EMG that confirms axonal loss (**[[axonotmesis]]/[[neurotmesis]]**) rather than just conduction block (**[[neuropraxia]]**).
 > - **[[Denervation]]** — the loss of nerve supply to a target organ or muscle, which is the direct consequence of axonotmesis.
-> - **[[Electromyography]]** — the primary diagnostic procedure (along with nerve conduction studies) used by PM&R physicians and neurologists to localize the injury, quantify axonal loss, and monitor reinnervation.
+> - **[[electromyography]]** — the primary diagnostic procedure (along with nerve conduction studies) used by PM&R physicians and neurologists to localize the injury, quantify axonal loss, and monitor reinnervation.
 
 _____
 

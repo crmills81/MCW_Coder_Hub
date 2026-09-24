@@ -63,7 +63,7 @@ _____
 > - **[[Laceration]]** — a tearing or cutting wound with irregular, jagged edges that disrupts deeper tissue planes; unlike abrasion, it is a full- or partial-thickness break through the dermis
 > - **[[contusion]]** — a closed soft-tissue injury (bruise) from blunt trauma with subcutaneous bleeding but an intact surface; essentially the opposite of abrasion, since the epidermis/epithelium remains unbroken
 > - **Corneal erosion** — spontaneous or recurrent loss of corneal epithelium without a new traumatic event, often following a prior abrasion that never formed a stable adhesion (recurrent corneal erosion syndrome; [[H18.831]]/[[H18.832]])
-> - **[[Excoriation]]** — a superficial abrasion caused by scratching, typically self-inflicted (e.g., from pruritus), rather than by external friction against a surface
+> - **[[excoriation]]** — a superficial abrasion caused by scratching, typically self-inflicted (e.g., from pruritus), rather than by external friction against a surface
 > - **[[avulsion]]** — a more severe injury in which skin or tissue is torn partially or completely away from its attachment; distinct from the superficial epithelial loss of abrasion
 > - **Attrition** — mechanical tooth wear from tooth-to-tooth contact; a dental analog to abrasion, but classified and coded separately ([[K03.0]])
 > - **[[Debridement]]** — surgical or mechanical removal of devitalized or contaminated tissue, frequently performed to treat a contaminated or embedded abrasion

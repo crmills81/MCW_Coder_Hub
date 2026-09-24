@@ -59,7 +59,7 @@ _____
 > [!danger]+ 🔗 RELATED TERMS
 > 
 > - **[[Corneal Degeneration]]** — non-hereditary, often age-related or environmentally induced deterioration of corneal tissue (e.g., arcus senilis, band [[keratopathy]]); distinguished from dystrophy by its lack of strict genetic inheritance and often asymmetric presentation.
-> - **[[Keratoconus]]** — an ectatic corneal disorder characterized by progressive thinning and cone-like bulging of the cornea (H18.6-); shares progressive visual impairment but involves structural thinning rather than abnormal deposits.
+> - **[[keratoconus]]** — an ectatic corneal disorder characterized by progressive thinning and cone-like bulging of the cornea (H18.6-); shares progressive visual impairment but involves structural thinning rather than abnormal deposits.
 > - **[[Corneal Edema]]** — swelling of the cornea due to fluid accumulation (H18.1-); a common downstream complication of endothelial dystrophies like Fuchs' when the pump cells fail.
 > - **Bullous [[Keratopathy]]** — formation of fluid-filled blisters on the corneal surface due to endothelial failure (H18.1-); often secondary to advanced Fuchs' [[dystrophy]] or surgical trauma.
 > - **Endothelial Cell Loss** — the cellular mechanism underlying [[Fuchs' dystrophy]], where the pump cells of the cornea prematurely die off, leading to stromal swelling and loss of clarity.

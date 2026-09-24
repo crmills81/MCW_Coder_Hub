@@ -67,7 +67,7 @@ _____
 
 > [!danger]+ 🔗 RELATED TERMS
 > 
-> - **[[Electrosurgery]]** — the opposite of **[[cryosurgery]]**; utilizes high-frequency electrical currents to heat and destroy tissue rather than freezing it.
+> - **[[electrosurgery]]** — the opposite of **[[cryosurgery]]**; utilizes high-frequency electrical currents to heat and destroy tissue rather than freezing it.
 > - **[[Thermoablation]]** — shares the *ablation* concept; uses extreme heat (e.g., radiofrequency, microwave) to destroy tissue, often used as an alternative to [[cryoablation]] for renal or liver tumors.
 > - **[[Cryopreservation]]** — uses the same *[[cryo-]]* root; the process of freezing tissues, [[embryos]], or cells to *preserve* them rather than destroy them.
 > - **Joule-Thomson Effect** — the physical mechanism where a compressed gas (like argon) rapidly expands to create extreme cold at the tip of a [[cryoprobe]], causing targeted tissue [[necrosis]].
