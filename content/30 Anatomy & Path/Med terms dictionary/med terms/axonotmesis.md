@@ -55,8 +55,8 @@ _____
 
 > [!danger]+ 🔗 RELATED TERMS
 > 
-> - **[[Neuropraxia]]** — a milder (Seddon Grade I) nerve injury; characterized by a temporary focal conduction block with no physical disruption of the axon or myelin, resulting in faster, complete recovery without Wallerian degeneration.
-> - **[[Neurotmesis]]** — the most severe (Seddon Grade III) nerve injury; complete transection of both the axons and the entire connective tissue framework, requiring surgical repair for any hope of recovery.
+> - **[[neuropraxia]]** — a milder (Seddon Grade I) nerve injury; characterized by a temporary focal conduction block with no physical disruption of the axon or myelin, resulting in faster, complete recovery without Wallerian degeneration.
+> - **[[neurotmesis]]** — the most severe (Seddon Grade III) nerve injury; complete transection of both the axons and the entire connective tissue framework, requiring surgical repair for any hope of recovery.
 > - **Wallerian [[degeneration]]** — the physiological mechanism where the axon and myelin sheath distal to the site of an axonotmetic or neurotmetic injury degenerate and are cleared by macrophages, preparing the pathway for regeneration.
 > - **[[Fibrillation]] potentials** — spontaneous electrical discharges from single denervated muscle fibers; a hallmark finding on needle EMG that confirms axonal loss (**[[axonotmesis]]/[[neurotmesis]]**) rather than just conduction block (**[[neuropraxia]]**).
 > - **[[Denervation]]** — the loss of nerve supply to a target organ or muscle, which is the direct consequence of axonotmesis.

@@ -66,7 +66,7 @@ _____
 > - **[[Neuritis]]** — inflammation of a nerve; plexitis is the inflammatory subtype of plexopathy
 > - **[[Denervation]]** — loss of nerve supply to muscle; the mechanism producing weakness and [[atrophy]] in plexopathy; documented on EMG as fibrillations and positive sharp waves
 > - **[[axonotmesis]]** — nerve injury with axon disruption but intact connective tissue; common in traction plexopathies with potential for regeneration
-> - **[[Neurotmesis]]** — complete nerve disruption; severe plexus injuries (e.g., avulsion) with poor prognosis for spontaneous recovery
+> - **[[neurotmesis]]** — complete nerve disruption; severe plexus injuries (e.g., avulsion) with poor prognosis for spontaneous recovery
 > - **Parsonage-Turner syndrome** — eponym for neuralgic amyotrophy; acute immune-mediated brachial plexopathy with severe pain followed by weakness ([[G54.5]])
 > - **Thoracic outlet syndrome** — compression of brachial plexus and/or subclavian vessels at thoracic outlet; may cause lower trunk brachial plexopathy ([[G54.0]])
 > - **Erb palsy** — upper brachial plexus injury (C5-C6) typically from birth trauma; "waiter's tip" posture ([[P14.0]])
