@@ -49,7 +49,7 @@ _____
 > [!danger]+ 🔗 RELATED TERMS
 > 
 > - **[[Urethroplasty]]** — the opposite/alternative to **urethrotomy** in stricture management; involves surgical reconstruction or grafting of the urethra rather than simply incising the scar tissue.
-> - **[[Urethrostomy]]** — shares the *[[urethr-]]* root; the surgical creation of a permanent opening (stoma) between the urethra and the skin, diverting urine away from the distal urethra.
+> - **[[urethrostomy]]** — shares the *[[urethr-]]* root; the surgical creation of a permanent opening (stoma) between the urethra and the skin, diverting urine away from the distal urethra.
 > - **Urethral [[dilation]]** — a closely related clinical procedure (CPT [[52281]]) where the stricture is stretched using sounds or balloons rather than cut; often confused with urethrotomy but coded differently.
 > - **[[Urethral stricture]]** — the primary pathological condition (N35.-) necessitating a [[urethrotomy]]; characterized by fibrotic narrowing of the urethral lumen.
 > - **[[Fibrosis]]** — the cellular mechanism term underlying the formation of the stricture; dense, disorganized collagen deposition replacing normal elastic tissue.

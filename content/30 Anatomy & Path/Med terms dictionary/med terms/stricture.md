@@ -71,7 +71,7 @@ _____
 > - **Laryngotracheal stenosis** — clinical entity defined by fibrotic narrowing of the airway, often post-intubation ([[J38.6]], [[J39.8]]).
 > - **Nasolacrimal duct obstruction (NLDO)** — clinical entity defined by stricture of the tear drainage system, leading to overflow tearing (H04.53x).
 > - **Pelviureteric junction (PUJ) obstruction** — stricture or narrowing at the specific anatomic site where the renal pelvis meets the ureter ([[Q62.11]]).
-> - **Retrograde [[Urethrogram]] (RUG)** — primary or key diagnostic tool for evaluating the location, length, and severity of a urethral stricture.
+> - **Retrograde [[urethrogram]] (RUG)** — primary or key diagnostic tool for evaluating the location, length, and severity of a urethral stricture.
 
 _____
 

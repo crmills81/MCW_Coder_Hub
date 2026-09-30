@@ -129,7 +129,7 @@ _____
 > 
 > ---
 > 
-> > ⚠️ **Coding Note:** When coding for **[[Q31.5]]**, ensure the documentation specifies the severity and the presence of failure to thrive or apnea, as these may support higher-level E/M codes. **[[Supraglottoplasty]]** (**[[31546]]**) is the definitive surgical procedure; ensure the operative report clearly describes the division of the **aryepiglottic folds**. If the patient has comorbid **GERD**, code **[[K21.9]]** as a secondary diagnosis to justify medical management (**e.g., PPI therapy**).
+> > ⚠️ **Coding Note:** When coding for **[[Q31.5]]**, ensure the documentation specifies the severity and the presence of failure to thrive or apnea, as these may support higher-level E/M codes. **[[supraglottoplasty]]** (**[[31546]]**) is the definitive surgical procedure; ensure the operative report clearly describes the division of the **aryepiglottic folds**. If the patient has comorbid **GERD**, code **[[K21.9]]** as a secondary diagnosis to justify medical management (**e.g., PPI therapy**).
 
 _____
 
