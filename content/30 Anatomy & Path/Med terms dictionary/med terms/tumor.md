@@ -58,7 +58,7 @@ _____
 
 > [!danger]+ ### 🔗 RELATED TERMS
 > 
-> - **[[Cancer]]** — the common term for a malignant tumor; defined by its ability to invade adjacent tissues and **[[metastasize]]**.
+> - **[[cancer]]** — the common term for a malignant tumor; defined by its ability to invade adjacent tissues and **[[metastasize]]**.
 > - **Oncology** — the branch of medicine dedicated to the study, diagnosis, and treatment of tumors (**neoplasms**).
 > - **[[Metastasis]]** — the pathogenic spread of malignant tumor cells from the primary site to distant organs.
 > - **[[cyst]]** — an abnormal, often benign, sac-like pocket of tissue that contains fluid, air, or other substances, distinct from the solid cellular mass of most tumors.
