@@ -1,6 +1,6 @@
 ---
 title: 🌟 Yay, MEDICAL CODING!!! 🌟
-last_updated: 2026-09-18
+last_updated: 2026-09-30
 publish: false
 ---
 
@@ -20,7 +20,7 @@ My medical coding hub is for the specialties that I code for my employer. These 
 
 <br>
 
-### <u>**High‑Yield References**</u>
+### **High‑Yield References**
 
 - **[[MDM Tables]]**
 - **[[Facility E&M Quick Guide]]**
@@ -31,7 +31,7 @@ My medical coding hub is for the specialties that I code for my employer. These 
 - **[[Anatomy and Physiology in Medical Coding]]**
 - **[[List of Medical Terminology Modifiers & Medical Decision Making Levels]]**
 
-### <u>**Coding Rules & Guides**</u>
+### **Coding Rules & Guides**
 - **[[Inpatient E&M Codes]]**
 - **[[Proper Use of Modifiers 59, XE, XP, XS & XU]]**
 - **[[List of Phobias]]**
@@ -41,7 +41,7 @@ My medical coding hub is for the specialties that I code for my employer. These 
 
 # 🩹 Practice & Scenarios
 >
-### <u>**Coding Practice**</u>
+### **Coding Practice**
 - **[[Otolaryngology Practice Coding Scenarios]]**
 - **[[Practice Case 1 - {{Urology}}]]**
 - **[[Practice Case 2 - {{Urology}}]]**
@@ -49,7 +49,7 @@ My medical coding hub is for the specialties that I code for my employer. These 
 - **[[CPT 99255 Template]]**
 
 
-### <u>**Audit Practice**</u>
+### **Audit Practice**
 - **[[Handling Coding-Related Insurance Denials]]**
 - **[[CPT_99214_Template]]**
 - **[[CPT_99254-Template]]**
@@ -59,13 +59,13 @@ My medical coding hub is for the specialties that I code for my employer. These 
 
 # 🧬 CIC Exam Prep
 >
-### <u>**CIC Study Tools**</u>
+### **CIC Study Tools**
 - **[[CIC Study Plan]]**
 - **[[Comprehensive Study Guide and Briefing for the AAPC CIC Certification Exam]]**
 - **[[Root Operations]]**
 - **[[Mastering Inpatient Coding for CIC]]**
 
-### <u>**High‑Yield Topics**</u>
+### **High‑Yield Topics**
 - **[[PCS Body Part Index]]**  
 - **[[Normal Reference Laboratory Values]]**
 - **[[Spinal Procedures]]**  
