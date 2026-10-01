@@ -10,6 +10,10 @@ creation_date: 2026-01-22
 
 <br>
 
+![[Pasted image 20260824125623.png]]
+
+<br>
+
 ## 📋 The Rule (Quick Summary)
 > **MDM or Time:** You select the code level based on **Medical Decision Making (MDM)** OR **Total Time** (Provider time only).
 > * **New Patient:** No face-to-face services from *any* provider of the *same specialty* in the same group within the last **3 years**.
@@ -29,7 +33,7 @@ creation_date: 2026-01-22
 * **99211:** "Nurse Visit" (No MDM required).
 * **[[99212]]:** Straightforward MDM (10-19 min).
 * **[[99213]]:** Low MDM (20-29 min).
-* **[[50 Medical Coding/CPT Codes/99214]]:** Moderate MDM (30-39 min).
+* **[[99214]]:** Moderate MDM (30-39 min).
 * **[[99215]]:** High MDM (40-54 min).
 
 ### ⚡ The "MDM" Cheat Sheet
