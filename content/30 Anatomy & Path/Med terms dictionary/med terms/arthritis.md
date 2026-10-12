@@ -46,7 +46,7 @@ _____
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 >
 > - **Arthritic** _(adjective form — common clinical collocations include "arthritic joint," "arthritic changes on imaging," and "arthritic flare")_
-> - **[[Arthropathy]]** _(broader clinical synonym encompassing both inflammatory and non-inflammatory joint disease; frequently appears in documentation for psoriatic arthropathy, crystal arthropathy, and neuropathic arthropathy — coded under M07.x, M11.x, M14.x depending on etiology)_
+> - **[[arthropathy]]** _(broader clinical synonym encompassing both inflammatory and non-inflammatory joint disease; frequently appears in documentation for psoriatic arthropathy, crystal arthropathy, and neuropathic arthropathy — coded under M07.x, M11.x, M14.x depending on etiology)_
 > - **[[Polyarthritis]]** _(simultaneous involvement of five or more joints; coded under M13.0 when etiology is unspecified; triggers more specific autoimmune workup)_
 > - **[[Oligoarthritis]]** _(involvement of two to four joints; commonly used in pediatric rheumatology and early psoriatic arthritis documentation)_
 > - **Septic arthritis** _(acute infectious form caused by bacterial hematogenous seeding or direct inoculation of the joint space; M00.x — site and laterality required)_

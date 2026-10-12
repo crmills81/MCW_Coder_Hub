@@ -101,7 +101,7 @@ _____
 >     
 > - **Complications & Severity:**
 >     - **[[sepsis]] ([[A41.9]]):** If the cellulitis progresses to Sepsis, it maps to **HCC 2** ([[Septicemia]], Sepsis, and Systemic Inflammatory Response Syndrome/[[shock]]), which carries a high risk adjustment weight.
->     - **Necrotizing Fasciitis ([[M72.6]]):** Maps to **HCC 48** (Inflammatory Bone Disease, [[Osteomyelitis]], and [[Arthropathy]]).
+>     - **Necrotizing Fasciitis ([[M72.6]]):** Maps to **HCC 48** (Inflammatory Bone Disease, [[Osteomyelitis]], and [[arthropathy]]).
 >     - **Diabetic Ulcer** If cellulitis is associated with a diabetic [[ulcer]], code the ulcer (e.g., [[E11.621]]) which maps to **HCC 161/162** (Chronic Skin Ulcers).
 > 
 > ### Assistant Surgeon Pay

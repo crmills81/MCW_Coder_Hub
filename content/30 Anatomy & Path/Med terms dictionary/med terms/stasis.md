@@ -56,7 +56,7 @@ _____
 > - **[[Obstruction]]** — a physical blockage; often the etiologic mechanism that directly results in upstream stasis.
 > - **[[Thrombosis]]** — the formation of a blood clot inside a blood vessel; strongly associated with stasis, which is one of the three components of Virchow's triad (**[[stasis]], endothelial injury, hypercoagulability**).
 > - **[[Cholestasis]]** — a specific disease entity describing the stasis of bile flow, potentially leading to jaundice and hepatic injury.
-> - **[[Chronic Venous Insufficiency]] (CVI)** — the primary disease entity that causes **[[venous]]** stasis in the legs, characterized by failing venous valves and retrograde blood flow.
+> - **[[chronic venous insufficiency]] (CVI)** — the primary disease entity that causes **[[venous]]** stasis in the legs, characterized by failing venous valves and retrograde blood flow.
 
 _____
 

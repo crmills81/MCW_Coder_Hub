@@ -25,7 +25,7 @@ _____
 |     Term     |          Meaning          |          Prefix/Suffix?          | Notes |
 |:------------:|:-------------------------:|:--------------------------------:|:-----:|
 |   [[myo-]]   |          muscle‑related         |      -       |   -   |
-| [[Myopathy]] | Disease of muscle tissue | [[myo-]] (muscle) + -pathos (disease) |   -   |
+| [[myopathy]] | Disease of muscle tissue | [[myo-]] (muscle) + -pathos (disease) |   -   |
 |     [[myalgia]] |  Muscle pain |  [[my-]] (muscle) + -algos (pain)  |  -   |
 _____
 >[!tip]+ DERIVATIONS of [[myo-]]
