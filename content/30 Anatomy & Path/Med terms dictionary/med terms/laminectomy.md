@@ -70,7 +70,7 @@ _____
 > - **[[Ligamentum flavum]]** — the yellow elastic ligament connecting adjacent laminae posteriorly; its hypertrophy is a primary driver of spinal stenosis and is routinely resected during laminectomy
 > - **[[Epidural abscess]]** — infectious collection in the epidural space; emergent laminectomy indication; coded [[G06.1]]; CPT [[63265]]-[[63268]] (intraspinal/extradural, by region)
 > - **[[Spondylosis]]** — degenerative spinal disease involving disc and facet joint changes; common underlying etiology for [[stenosis]] requiring laminectomy; coded [[M47.816]], [[M47.817]], [[M47.896]]
-> - **[[Spondylolisthesis]]** — anterior slippage of one vertebra over another; may require laminectomy combined with fusion; coded [[M43.16]], [[M43.17]]
+> - **[[spondylolisthesis]]** — anterior slippage of one vertebra over another; may require laminectomy combined with fusion; coded [[M43.16]], [[M43.17]]
 > - **[[Cauda equina syndrome]]** — compression of the cauda equina nerve roots; surgical emergency requiring urgent laminectomy; coded [[G83.4]]
 
 _____

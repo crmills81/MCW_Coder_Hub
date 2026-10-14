@@ -47,7 +47,7 @@ _____
 
 > [!success]+ ### 🔀 ALIASES / ALTERNATE TERMS
 > 
-> - **[[Hemilaminectomy]]** _(clinical synonym for unilateral partial lamina removal; used interchangeably with laminotomy in operative reports — particularly in cervical and lumbar decompression documentation)_
+> - **[[hemilaminectomy]]** _(clinical synonym for unilateral partial lamina removal; used interchangeably with laminotomy in operative reports — particularly in cervical and lumbar decompression documentation)_
 > - **Partial laminectomy** _(lay and clinical term; emphasizes that less bone is removed than in a complete laminectomy; frequently appears in patient-facing documentation and operative summaries)_
 > - **Interlaminar decompression** _(clinical descriptor used in minimally invasive spine surgery context; coded under the same CPT range [[63020]]-[[63044]] depending on level and interspace count)_
 > - **[[Microdecompression]]** _(surgical synonym when performed via microscope or tubular retractor system; same CPT codes apply — open vs. endoscopic approach does not change the primary code)_
@@ -70,7 +70,7 @@ _____
 > - **Herniated nucleus pulposus** — disc herniation causing neural compression; primary pathological driver of laminotomy with discectomy ([[M51.16]] lumbar, [[M51.17]] lumbosacral, [[M50.021]]-[[M50.023]] cervical)
 > - **Postlaminectomy syndrome** — failed back surgery syndrome following decompressive spine surgery; ICD-10-CM [[M96.1]] — applies to both laminotomy and laminectomy sequelae
 > - **[[Spondylosis]]** — degenerative vertebral disease with osteophyte formation that may narrow the canal and necessitate laminotomy; relevant codes include [[M47.812]] cervical, [[M47.816]] lumbar
-> - **[[Spondylolisthesis]]** — vertebral slippage that may be present alongside or worsened by decompressive [[laminotomy]] without fusion; coded [[M43.16]] lumbar, [[M43.17]] lumbosacral
+> - **[[spondylolisthesis]]** — vertebral slippage that may be present alongside or worsened by decompressive [[laminotomy]] without fusion; coded [[M43.16]] lumbar, [[M43.17]] lumbosacral
 > - **MRI spine** — primary diagnostic imaging modality used preoperatively to identify level, laterality, and extent of neural compression driving laminotomy planning
 
 _____

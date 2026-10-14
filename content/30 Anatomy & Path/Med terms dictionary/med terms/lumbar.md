@@ -74,7 +74,7 @@ _____
 > - **[[Myelopathy]]** — spinal cord dysfunction; lumbar myelopathy is less common than cervical due to cord termination at L1-L2; lumbar disc degeneration with myelopathy coded as [[M51.06]]
 > - **[[Stenosis]]** — narrowing of the lumbar spinal canal or neural foramina; produces neurogenic claudication; coded under M48.06x with laterality
 > - **[[Spondylosis]]** — degenerative osteoarthritis of the lumbar facet joints and discs; the umbrella term under M47.8x for lumbar degenerative changes
-> - **[[Spondylolisthesis]]** — vertebral slippage, most common at L4-L5 and L5-S1; coded [[M43.16]] for lumbar; distinguish from [[spondylolysis]] ([[M43.06]]) which is a stress fracture of the pars interarticularis
+> - **[[spondylolisthesis]]** — vertebral slippage, most common at L4-L5 and L5-S1; coded [[M43.16]] for lumbar; distinguish from [[spondylolysis]] ([[M43.06]]) which is a stress fracture of the pars interarticularis
 > - **[[Lordosis]]** — the normal or pathological inward curve of the lumbar spine; [[hyperlordosis]] or [[hypolordosis]] both clinically relevant; coded [[M40.46]] for acquired lumbar lordosis
 > - **[[discectomy]]** — surgical removal of lumbar disc material; primary CPT code [[63030]] (laminotomy with decompression, 1 interspace, lumbar)
 > - **[[laminectomy]]** — surgical removal of the lamina for [[decompression]]; coded [[63047]] when performed with facetectomy
