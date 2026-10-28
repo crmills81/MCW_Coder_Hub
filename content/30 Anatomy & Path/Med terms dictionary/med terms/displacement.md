@@ -77,7 +77,7 @@ _____
 > - **[[Reduction]]** — the opposite of displacement; manipulation (closed) or surgery (open) that restores a displaced structure to normal position
 > - **[[Placement]]** — shares the *[[plat-]]* root; the act of putting something in its intended position
 > - **[[Dislocation]]** — complete separation of joint surfaces; a joint-specific form of displacement
-> - **[[Subluxation]]** — partial displacement of joint surfaces where some contact remains
+> - **[[subluxation]]** — partial displacement of joint surfaces where some contact remains
 > - **Nondisplaced fracture** — a fracture with the fragments still aligned; this is the contrast term for coding the "displaced" default
 > - **[[Angulation]]** — the angle between displaced fracture fragments
 > - **[[Prolapse]]** — downward displacement of an organ through or toward a body opening (e.g., pelvic organ prolapse)

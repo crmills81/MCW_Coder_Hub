@@ -56,7 +56,7 @@ _____
 > 
 > - **Hemilaminectomies** _(plural form; the same procedure at more than one level or side)_
 > - **[[Laminotomy]]** _(closely related and often interchangeable term in CPT; strictly, a laminotomy is a small opening in the lamina, while a hemilaminectomy removes the half-lamina; both are indexed to CPT [[63020]]-[[63035]])_
-> - **[[Hemilaminotomy]]** _(variant of laminotomy emphasizing one side)_
+> - **[[hemilaminotomy]]** _(variant of laminotomy emphasizing one side)_
 > - **Unilateral laminotomy** _(descriptive synonym used in operative reports and the literature)_
 > - **Partial laminectomy** _(clinical synonym; removal of only part of the lamina; do not code as a full [[laminectomy]])_
 > - **[[Microdiscectomy]]** _(related procedure often done through a hemilaminectomy window; reported with the same laminotomy codes when excising a herniated disc)_

@@ -109,7 +109,7 @@ _____
 ><u> **Upper Limb Nerve Neuritis**</u>
 > 
 > - **[[G54.0]]**: Brachial plexus disorders
-> - **[[G54.1]]**: [[Lumbosacral]] plexus disorders
+> - **[[G54.1]]**: [[lumbosacral]] plexus disorders
 > - **[[G55.0]]**: Nerve root and plexus compressions in [[neoplastic]] disease
 > - **[[G55.1]]**: Nerve root and plexus compressions in intervertebral disc disorders
 > - **[[G56.00]]**: Carpal tunnel syndrome, unspecified upper limb

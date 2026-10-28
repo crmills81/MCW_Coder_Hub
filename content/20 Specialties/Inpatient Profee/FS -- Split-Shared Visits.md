@@ -1,5 +1,4 @@
 ---
-title: "FS -- Split-Shared Visits"
 tags:
   - coding/rules
   - inpatient
@@ -7,7 +6,8 @@ tags:
   - medicare
   - modifiers
   - evaluation-management
-description: "Comprehensive 2026 CMS, AAPC, and AHIMA guidelines for split (or shared) evaluation and management (E/M) visits, modifier -FS usage, substantive portion determination, and documentation rules."
+title: FS -- Split-Shared Visits
+description: Comprehensive 2026 CMS, AAPC, and AHIMA guidelines for split (or shared) evaluation and management (E/M) visits, modifier -FS usage, substantive portion determination, and documentation rules.
 last_updated: 2026-09-30
 type: coding-guide
 aliases:
@@ -66,7 +66,7 @@ The practitioner who performs the **substantive portion** reports the E/M code u
         ▼                   ▼                               ▼                   ▼
      Physician             NPP                           Physician             NPP
     (100% MPFS)         (85% MPFS)                      (100% MPFS)         (85% MPFS)
-   Append [[-FS]]      Append [[-FS]]                  Append [[-FS]]      Append [[-FS]]
+   Append -FS      Append -FS                  Append -FS      Append -FS
 ```
 
 ### 1. Time-Based Method (>50% of Cumulative Time)
@@ -106,7 +106,7 @@ Under CMS and CPT guidelines, to satisfy the substantive portion using MDM:
 
 ---
 
-## 🚨 Critical Care Special Rules ([[99291]] / [[99292]])
+## 🚨 Critical Care Special Rules (99291 / 99292)
 
 Split/shared billing **is permitted** for critical care services (**[[99291]]**, **[[99292]]**), but carries unique constraints:
 
@@ -114,8 +114,8 @@ Split/shared billing **is permitted** for critical care services (**[[99291]]**,
 2. **Cumulative Group Time:** Total critical care time personally provided by the physician and NPP in the same group on the calendar date is summed.
 3. **Thresholds:**
    - **[[99291]]** requires a cumulative total of **30–74 minutes**.
-   - Each add-on unit of **[[99292]]** requires an additional **30 minutes** (e.g., 75–104 min for 1 unit; 105–134 min for 2 units).
-4. **Who Reports:**
+   - Each add-on unit of **[[99292]]** requires an additional **30 minutes** (**e.g., 75–104 min for 1 unit; 105–134 min for 2 units**).
+1. **Who Reports:**
    - The practitioner who furnishes the majority (>50%) of the cumulative critical care time reports the critical care code(s) with modifier **[[-FS]]**.
    - If the physician furnishes >50% of the cumulative time, all units are billed under the physician's NPI with **[[-FS]]**.
    - If the NPP furnishes >50% of the cumulative time, all units are billed under the NPP's NPI with **[[-FS]]**.
@@ -125,7 +125,7 @@ Split/shared billing **is permitted** for critical care services (**[[99291]]**,
 
 ## 🏥 Nursing Facility (SNF/NF) Specifics
 
-- **Initial Comprehensive NF Care ([[99304]], [[99305]], [[99306]]):** By federal statute (Social Security Act § 1819(b)(6)(A) / 42 CFR § 483.30), the initial comprehensive visit in a Skilled Nursing Facility (SNF - POS 31) **must be personally performed in its entirety by a physician**. Split/shared billing is **prohibited** for initial SNF visits.
+- **Initial Comprehensive NF Care ([[99304]], [[99305]], [[99306]]):** By federal statute (**Social Security Act § 1819(b)(6)(A) / 42 CFR § 483.30**), the initial comprehensive visit in a Skilled Nursing Facility (SNF - POS 31) **must be personally performed in its entirety by a physician**. Split/shared billing is **prohibited** for initial SNF visits.
 - **Subsequent NF Care ([[99307]], [[99308]], [[99309]], [[99310]]):** Split/shared visits **are permitted** for subsequent nursing facility care when performed jointly in the facility setting, provided all general split/shared criteria are fulfilled.
 
 ---
@@ -138,8 +138,8 @@ Split/shared billing **is permitted** for critical care services (**[[99291]]**,
 2. **Procedures and Surgical Services:**
    - Split/shared billing applies exclusively to **Evaluation and Management** services. Minor or major surgical procedures, bedside diagnostic procedures (e.g., central lines, lumbar punctures), and diagnostic test interpretations cannot be split/shared.
 3. **Teaching Physician Scenarios (Residents/Fellows):**
-   - Encounters involving residents or fellows are governed strictly by the **Teaching Physician Guidelines** (42 CFR § 415.172; Modifier **[[GC -- Teaching Physician Rules|GC]]** or **GE**), **not** split/shared rules.
-4. **Practitioners in Different Groups:**
+   - Encounters involving residents or fellows are governed strictly by the **Teaching Physician Guidelines** (42 CFR § 415.172; Modifier **[[-GC]]** or **[[-GE]]**), **not** split/shared rules.
+1. **Practitioners in Different Groups:**
    - Clinicians from different practices or billing under different Tax Identification Numbers (TINs) cannot split/share a visit. Each must bill solo or coordinate consultative care.
 5. **Services Spanning Multiple Calendar Dates:**
    - Both practitioners' contributions must occur on the **same calendar date**.

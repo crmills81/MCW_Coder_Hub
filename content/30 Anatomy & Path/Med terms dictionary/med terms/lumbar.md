@@ -68,14 +68,14 @@ _____
 > - **[[Cervical]]** — the opposite end of the spinal column; designates the seven C1-C7 vertebrae of the neck; distinguished from lumbar by smaller vertebral bodies, presence of transverse foramina, and greater rotational mobility
 > - **[[Thoracic]]** — the 12-vertebra mid-spine region articulating with the rib cage; distinguished from lumbar by costal facets and limited flexion-extension
 > - **[[Sacral]]** — the region immediately inferior to lumbar (S1-S5); fused into the sacrum in adults; lumbar-sacral junction (L5-S1) is the single most common site for disc pathology
-> - **[[Lumbosacral]]** — designates pathology specifically at or spanning the L5-S1 junction; has distinct ICD-10-CM codes from pure lumbar codes and must not be used interchangeably
+> - **[[lumbosacral]]** — designates pathology specifically at or spanning the L5-S1 junction; has distinct ICD-10-CM codes from pure lumbar codes and must not be used interchangeably
 > - **[[Lumbago]]** — historical and lay term for lumbar back pain; now replaced in coding by site-specific M54.5x codes; "[[lumbago]]" in documentation should prompt specificity query
 > - **[[Radiculopathy]]** — nerve root irritation or compression; when at lumbar levels, coded as [[M54.16]] (lumbar) or [[M54.17]] (lumbosacral); key distinguishing feature from [[myelopathy]] is that radiculopathy affects nerve roots, not the spinal cord itself
 > - **[[Myelopathy]]** — spinal cord dysfunction; lumbar myelopathy is less common than cervical due to cord termination at L1-L2; lumbar disc degeneration with myelopathy coded as [[M51.06]]
 > - **[[Stenosis]]** — narrowing of the lumbar spinal canal or neural foramina; produces neurogenic claudication; coded under M48.06x with laterality
 > - **[[Spondylosis]]** — degenerative osteoarthritis of the lumbar facet joints and discs; the umbrella term under M47.8x for lumbar degenerative changes
 > - **[[spondylolisthesis]]** — vertebral slippage, most common at L4-L5 and L5-S1; coded [[M43.16]] for lumbar; distinguish from [[spondylolysis]] ([[M43.06]]) which is a stress fracture of the pars interarticularis
-> - **[[Lordosis]]** — the normal or pathological inward curve of the lumbar spine; [[hyperlordosis]] or [[hypolordosis]] both clinically relevant; coded [[M40.46]] for acquired lumbar lordosis
+> - **[[lordosis]]** — the normal or pathological inward curve of the lumbar spine; [[hyperlordosis]] or [[hypolordosis]] both clinically relevant; coded [[M40.46]] for acquired lumbar lordosis
 > - **[[discectomy]]** — surgical removal of lumbar disc material; primary CPT code [[63030]] (laminotomy with decompression, 1 interspace, lumbar)
 > - **[[laminectomy]]** — surgical removal of the lamina for [[decompression]]; coded [[63047]] when performed with facetectomy
 

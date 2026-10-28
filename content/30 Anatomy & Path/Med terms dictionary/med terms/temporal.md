@@ -61,7 +61,7 @@ _____
 >     
 > - **[[Sphenoid]]:** A butterfly-shaped bone at the anterior base of the skull. _Differential:_ Often forms a junction with the temporal bone, but requires different coding, especially in endoscopic sinus surgeries or **transsphenoidal** **hypophysectomies**.
 >     
-> - **[[Temporomandibular]]:** Pertaining to the joint (TMJ) between the temporal bone and the mandible. _Differential:_ Coded specifically under musculoskeletal or dental/maxillofacial sections, distinct from pure temporal bone pathology.
+> - **[[temporomandibular]]:** Pertaining to the joint (TMJ) between the temporal bone and the mandible. _Differential:_ Coded specifically under musculoskeletal or dental/maxillofacial sections, distinct from pure temporal bone pathology.
 >     
 > - **[[Occipital]]:** Pertaining to the back of the head/skull. _Differential:_ Houses the visual cortex; completely different functional and diagnostic pathways from the temporal lobe's auditory/memory functions.
 _____

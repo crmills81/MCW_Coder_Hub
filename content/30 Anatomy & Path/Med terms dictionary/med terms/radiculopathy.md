@@ -44,7 +44,7 @@ _____
 > 
 > - **[[Radicular]]** _(adjective form — e.g., "radicular pain," "radicular symptoms")_
 > - **Pinched nerve** _(lay term; commonly used by patients in outpatient and emergency settings)_
-> - **[[Sciatica|Sciatica]]** _(lay/clinical synonym; specifically refers to radicular pain along the sciatic nerve pathway, usually implying L4-S1 radiculopathy; [[M54.30]])_
+> - **[[sciatica|Sciatica]]** _(lay/clinical synonym; specifically refers to radicular pain along the sciatic nerve pathway, usually implying L4-S1 radiculopathy; [[M54.30]])_
 > - **Cervical radiculopathy** _(anatomic subtype; involvement of the neck region, causing symptoms radiating down the arm; [[M54.12]])_
 > - **Lumbar radiculopathy** _(anatomic subtype; involvement of the lower back region, causing symptoms radiating down the leg; [[M54.16]])_
 > - **Lumbosacral radiculopathy** _(anatomic subtype; involvement of the lowest lumbar and sacral nerve roots; [[M54.17]])_

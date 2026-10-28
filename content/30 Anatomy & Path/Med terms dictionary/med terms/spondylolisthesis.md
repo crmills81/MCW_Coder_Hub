@@ -85,7 +85,7 @@ _____
 > - **Spinal [[stenosis]]** — canal or foraminal narrowing that commonly accompanies degenerative slips (M48.0-)
 > - **[[Radiculopathy]]** — nerve root compression from foraminal narrowing, producing leg pain, numbness, or weakness (M54.1-)
 > - **Neurogenic [[claudication]]** — leg pain and weakness on walking from stenosis, relieved by sitting ([[M48.062]])
-> - **[[Sciatica]]** — leg pain along the sciatic nerve, a common symptom in lumbar slips (M54.3-)
+> - **[[sciatica]]** — leg pain along the sciatic nerve, a common symptom in lumbar slips (M54.3-)
 > - **Cauda equina syndrome** — severe nerve root compression with bowel, bladder, or saddle numbness ([[G83.4]])
 > - **[[Arthrodesis]]** — spinal fusion, the usual surgical treatment for symptomatic or unstable slips
 > - **X-ray / MRI** — key diagnostic tools; standing lateral X-ray (with flexion-extension views) measures the slip and MRI shows nerve compression
